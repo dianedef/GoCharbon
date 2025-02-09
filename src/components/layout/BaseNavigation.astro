@@ -1,6 +1,6 @@
 ---
 interface Props {
-	pageTitle?: string;
+  pageTitle?: string;
 }
 
 const navigationItems = [
@@ -17,7 +17,7 @@ const socialIcons = [
 	},
 	{
 		name: "Twitter",
-		url: "https://x.com/webindefr",
+		url: "https://x.com/webindefr", 
 		icon: "i-uil-twitter",
 	},
 	{
@@ -38,75 +38,50 @@ const socialIcons = [
 	{ name: "RSS", url: "/feed.xml", icon: "i-uil-rss" },
 ];
 
-/*   {
-  name: 'WhatsApp',
-  url: 'https://github.com/eliancodes/brutal',
-  icon: 'i-uil-whatsapp',
-}, */
-
 const { pageTitle } = Astro.props;
 ---
 
-<header class="border-b-4 border-black p-6">
-	{pageTitle && <h1 class="hidden">{pageTitle}</h1>}
-	<nav class="flex justify-between items-center">
-		<a
-			href="/"
-			title="Accueil"
-			class="hover:text-green transition-all duration-150 ease-in-out"
-		>
-			<p class="righteous text-2xl sm:text-3xl md:text-4xl">Web'Indé</p>
-		</a>
-
-		<ul class="flex gap-8 items-center max-md:hidden">
-			{
-				navigationItems.map((item) => (
-					<li>
-						<a
-							class="poppins text-lg hover:text-green transition-all duration-150 ease-in-out border-b-2 border-transparent hover:border-green"
-							href={item.url}
-							title={`Aller à ${item.name}`}
-						>
-							{item.name}
-						</a>
-					</li>
-				))
-			}
-		</ul>
-
-		<ul class="flex gap-4 items-center max-md:hidden">
-			{
-				socialIcons.map((item) => (
-					<li>
-						<a
-							href={item.url}
-							class="hover:text-green opacity-40 hover:opacity-100 transition-all duration-150 ease-in-out"
-							target="_blank"
-							title={`Retrouve Diane sur ${item.name}`}
-						>
-							<div class:list={[item.icon, "w-6 h-6"]} />
-						</a>
-					</li>
-				))
-			}
-		</ul>
-
-		<div class="md:hidden">
-			<ul class="flex gap-4 items-center">
-				{
-					navigationItems.map((item) => (
-						<li>
-							<a
-								class="poppins text-lg hover:text-green transition-all duration-150 ease-in-out border-b-2 border-transparent hover:border-green"
-								href={item.url}
-								title={`Aller à ${item.name}`}
-							>
-								{item.name}
-							</a>
-						</li>
-					))
-				}
-			</ul>
-		</div>
-	</nav>
+<header class='border-b-4 border-black flex justify-between p-6 items-center'>
+  {pageTitle && <h1 class='hidden'>{pageTitle}</h1>}
+  <a href='/' title='Back to Home'>
+    <p class='righteous md:text-5xl'>Brutal</p>
+  </a>
+  <nav class='hidden md:inline-block'>
+    <h2 class='hidden'>Navigation</h2>
+    <ul class='flex gap-8 poppins'>
+      {
+        navigationItems.map((item) => (
+          <li>
+            <a
+              class='text-lg font-medium hover:text-green hover:underline transition-all duration-150 ease-in-out'
+              href={item.url}
+              title={`Go to ${item.name}`}
+            >
+              {item.name}
+            </a>
+          </li>
+        ))
+      }
+      {
+        socialIcons.map((item) => (
+          <li>
+            <a
+              href={item.url}
+              class='hover:text-green hover:underline transition-all duration-150 ease-in-out'
+              target='_blank'
+              title={`'See @ElianCodes on ${item.name}`}
+            >
+              <div class:list={[item.icon, 'w-6 h-6']} />
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </nav>
+  <nav class='md:hidden flex'>
+    <h2 class='hidden'>Mobile Navigation</h2>
+    <ul>
+      <li><a href='/blog/'>Blog</a></li>
+    </ul>
+  </nav>
 </header>

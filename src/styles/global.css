@@ -1,6 +1,6 @@
-@unocss base;
-@unocss components;
-@unocss utilities;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 .card-shadow {
   filter: drop-shadow(7px 7px 0 rgb(0 0 0 / 1));

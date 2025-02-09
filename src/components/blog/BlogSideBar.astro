@@ -13,10 +13,10 @@ const { headings } = Astro.props;
         headings.map((heading: any) => (
           <li class='py-1'>
             {[...Array(heading.depth - 1)].map((_, _i) => (
-              <p class='ml-4 inline-block' />
+              <span class='inline-block w-4' />
             ))}
             <a
-              class='text-stone transition-all duration-150 ease-in-out hover:text-dark poppins'
+              class='hover:text-stone transition-all duration-150 ease-in-out text-dark poppins'
               href={`#${heading.slug}`}
             >
               {heading.text}
