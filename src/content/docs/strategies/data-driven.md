@@ -1,6 +1,9 @@
 ---
-title: Marketing Piloté par la Data
-description: Optimise tes performances marketing grâce à l'analyse de données et l'expérimentation continue
+title: "Marketing Piloté par la Data"
+description: "Optimise tes performances marketing grâce à l'analyse de données et l'expérimentation continue"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
 ---
 
 # Marketing Piloté par la Data

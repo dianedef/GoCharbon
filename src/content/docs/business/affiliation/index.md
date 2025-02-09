@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Index"
+description: "Guide complet sur index"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: Réussir en affiliation
 description: Découvre comment créer des revenus passifs grâce à l'affiliation et devenir un super-affilié
 ---

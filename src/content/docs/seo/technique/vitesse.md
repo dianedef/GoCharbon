@@ -1,3 +1,11 @@
+---
+title: "Vitesse"
+description: "Guide complet sur vitesse"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Optimisation de la Vitesse
 
 ## Importance de la Vitesse

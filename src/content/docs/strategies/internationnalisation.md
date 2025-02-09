@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Internationnalisation"
+description: "Guide complet sur internationnalisation"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Stratégies d'Internationalisation : Guide Complet"
 description: "Guide approfondi des stratégies d'internationalisation pour les entreprises digitales : marchés, adaptation, risques et performance"
 pubDate: "2024-03-25"

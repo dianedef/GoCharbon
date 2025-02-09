@@ -1,14 +1,14 @@
 ---
-title: uTest La Plateforme Idéale Pour Gagner de l'Argent En Testant des Applications
+title: "uTest La Plateforme Idéale Pour Gagner de l'Argent En Testant des Applications"
 pubDate: 11/09/2022
 author: "Diane Web'Indé"
 tags:
   - Freelancing
   - Business en Ligne
 imgUrl: '../../assets/astro.jpeg'
-description: Découvre une plateforme pour gagner de l'argent sur le web
-layout: '../../layouts/BlogPost.astro'
+description: "Découvre une plateforme pour gagner de l'argent sur le web"
 slug: utest-gagner-argent-tests-applications
+category: "Général"
 ---
 
 Aujourd’hui je te partage mon retour d’expérience sur une plateforme que j’utilise de temps en temps depuis plusieures années déjà, et qui permet réellement de gagner de l’argent (et pas juste des centimes comme beaucoup d’opportunités qui sont présentées sur YouTube).

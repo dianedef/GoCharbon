@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Innovation Digitale"
+description: "Guide complet sur innovation digitale"
+pubDate: "2024-03-25"
+category: "Tech"
+author: "Web'Indé"
+---
+
+---
 title: "Innovation Technologique et Business Digital : Guide Complet"
 description: "Découvrez comment l'innovation technologique transforme le business en ligne et façonne l'avenir du commerce digital"
 pubDate: "2024-03-25"

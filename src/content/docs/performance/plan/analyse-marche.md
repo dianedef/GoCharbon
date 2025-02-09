@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Analyse Marche"
+description: "Guide complet sur analyse marche"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Analyse de Marché : Guide Complet"
 description: "Guide approfondi sur l'analyse de marché et l'étude de la concurrence"
 pubDate: "2024-03-25"

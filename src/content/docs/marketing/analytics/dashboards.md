@@ -1,6 +1,9 @@
 ---
-title: Tableaux de Bord Marketing
-description: Créez des dashboards marketing efficaces pour piloter votre performance
+title: "Tableaux de Bord Marketing"
+description: "Créez des dashboards marketing efficaces pour piloter votre performance"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Tableaux de Bord Marketing

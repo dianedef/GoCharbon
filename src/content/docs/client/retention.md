@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Retention"
+description: "Guide complet sur retention"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: Fidélisation client
 description: L'art de transformer tes clients satisfaits en ambassadeurs passionnés de ta marque
 ---

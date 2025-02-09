@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Ethique"
+description: "Guide complet sur ethique"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Éthique des Affaires"
 description: "Guide complet sur l'éthique des affaires et son application en entreprise"
 pubDate: "2024-03-25"

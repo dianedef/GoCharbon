@@ -1,6 +1,9 @@
 ---
 title: "Stratégies d'Acquisition Client"
 description: "Guide complet des stratégies d'acquisition client efficaces et mesurables, illustré par des exemples réels"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
 ---
 
 # Stratégies d'Acquisition Client : Au-delà du CAC

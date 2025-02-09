@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Ecommerce"
+description: "Guide complet sur ecommerce"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: E-commerce
 description: Guide complet pour créer et gérer une boutique en ligne performante
 ---

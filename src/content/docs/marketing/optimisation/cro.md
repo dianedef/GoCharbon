@@ -1,6 +1,9 @@
 ---
-title: CRO (Conversion Rate Optimization)
-description: Guide complet sur l'optimisation du taux de conversion
+title: "CRO (Conversion Rate Optimization)"
+description: "Guide complet sur l'optimisation du taux de conversion"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Conversion Rate Optimization

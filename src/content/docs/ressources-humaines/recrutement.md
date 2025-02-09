@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Recrutement"
+description: "Guide complet sur recrutement"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Recrutement Moderne : Guide Complet"
 description: "Guide approfondi des stratégies de recrutement modernes : sourcing, marque employeur, processus et onboarding"
 pubDate: "2024-03-25"

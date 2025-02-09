@@ -1,3 +1,11 @@
+---
+title: "Analyse Comportementale SEO"
+description: "Guide complet pour comprendre et optimiser le comportement des utilisateurs sur votre site"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Analyse Comportementale SEO
 
 ## Métriques Comportementales

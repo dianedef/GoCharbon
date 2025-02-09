@@ -1,6 +1,9 @@
 ---
-title: Google Analytics
-description: Guide complet pour maîtriser Google Analytics et optimiser vos performances
+title: "Google Analytics"
+description: "Guide complet pour maîtriser Google Analytics et optimiser vos performances"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Google Analytics : Guide Approfondi

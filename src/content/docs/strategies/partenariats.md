@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Partenariats"
+description: "Guide complet sur partenariats"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Partenariats Stratégiques : Guide Complet"
 description: "Guide approfondi sur la création et la gestion de partenariats stratégiques efficaces"
 pubDate: "2024-03-25"

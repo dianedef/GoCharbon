@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Management"
+description: "Guide complet sur management"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Management Moderne : Guide Complet"
 description: "Guide approfondi des pratiques de management efficaces pour diriger et développer des équipes performantes"
 pubDate: "2024-03-25"

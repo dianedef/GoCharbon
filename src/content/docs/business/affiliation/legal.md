@@ -1,6 +1,9 @@
 ---
-title: Aspects Légaux de l'Affiliation
-description: Guide essentiel pour une pratique éthique et conforme de l'affiliation
+title: "Aspects Légaux de l'Affiliation"
+description: "Guide essentiel pour une pratique éthique et conforme de l'affiliation"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
 ---
 
 # Maîtriser les Aspects Légaux de l'Affiliation

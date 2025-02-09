@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Logiciels"
+description: "Guide complet sur logiciels"
+pubDate: "2024-03-25"
+category: "Tech"
+author: "Web'Indé"
+---
+
+---
 title: "Logiciels de Gestion : Guide Complet"
 description: "Guide détaillé sur le choix et l'utilisation des logiciels de gestion d'entreprise"
 pubDate: "2024-03-25"

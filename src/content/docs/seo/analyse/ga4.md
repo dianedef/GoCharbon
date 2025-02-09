@@ -1,3 +1,11 @@
+---
+title: "Configuration Google Analytics 4"
+description: "Guide complet pour configurer et utiliser Google Analytics 4 pour le SEO"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Configuration Google Analytics 4
 
 ## Migration vers GA4

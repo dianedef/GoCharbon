@@ -1,3 +1,11 @@
+---
+title: "Ecommerce"
+description: "Guide complet sur ecommerce"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # SEO E-commerce
 
 ## Fondamentaux

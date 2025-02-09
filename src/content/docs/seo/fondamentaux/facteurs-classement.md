@@ -1,3 +1,11 @@
+---
+title: "Facteurs Classement"
+description: "Guide complet sur facteurs classement"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Les Facteurs de Classement SEO
 
 ## Introduction aux Facteurs de Ranking

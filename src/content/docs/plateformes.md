@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Plateformes"
+description: "Guide complet sur plateformes"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Plateformes de Vente : Guide Complet"
 description: "Analyse comparative des plateformes de vente en ligne et stratégies de distribution multicanal"
 pubDate: "2024-03-25"

@@ -1,6 +1,9 @@
 ---
-title: Community Management
-description: Guide pratique du community management professionnel
+title: "Community Management"
+description: "Guide pratique du community management professionnel"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Community Management

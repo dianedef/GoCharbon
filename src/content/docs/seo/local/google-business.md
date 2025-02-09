@@ -1,3 +1,11 @@
+---
+title: "Google Business"
+description: "Guide complet sur google business"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Google Business Profile
 
 ## Configuration du Profil

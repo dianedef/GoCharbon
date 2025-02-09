@@ -1,3 +1,11 @@
+---
+title: "Analyse Concurrentielle SEO"
+description: "Guide complet pour analyser et surpasser vos concurrents en SEO"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Analyse Concurrentielle SEO
 
 ## Méthodologie d'Analyse

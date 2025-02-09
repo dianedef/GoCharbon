@@ -1,6 +1,9 @@
 ---
-title: Personnalisation Email Marketing
-description: Stratégies avancées de personnalisation email pour maximiser l'engagement
+title: "Personnalisation Email Marketing"
+description: "Stratégies avancées de personnalisation email pour maximiser l'engagement"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Personnalisation Email Marketing

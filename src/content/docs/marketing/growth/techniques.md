@@ -1,6 +1,9 @@
 ---
-title: Techniques de Growth Hacking
-description: Guide complet des techniques de growth hacking et d'acquisition rapide
+title: "Techniques de Growth Hacking"
+description: "Guide complet des techniques de growth hacking et d'acquisition rapide"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Techniques de Growth Hacking

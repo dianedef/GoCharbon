@@ -1,13 +1,13 @@
 ---
-title: Plan En 5 Étapes Pour Créer Votre Stratégie De Marketing Digital
+title: "Plan En 5 Étapes Pour Créer Votre Stratégie De Marketing Digital"
 pubDate: 12/31/2022
 author: "Diane Web'Indé"
 tags:
   - Marketing
   - Guide
 imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
-layout: '../../layouts/BlogPost.astro'
+description: "Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non."
+category: "Marketing"
 ---
 
 Pourquoi tant de PME et d’entrepreneurs meurent chaque année ? Car ils ne savent pas se vendre, l’échec vient souvent d’une stratégie marketing défaillante, voire totalement inexistante. La vie de votre activité dépend de votre marketing, car c’est lui qui fournit la capacité à vous apporter de nouveaux client, on parle donc d’une compétence vitale pour votre entreprise.

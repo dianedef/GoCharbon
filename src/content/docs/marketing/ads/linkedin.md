@@ -1,6 +1,9 @@
 ---
-title: LinkedIn Ads
-description: Guide complet pour maîtriser la publicité sur LinkedIn
+title: "LinkedIn Ads"
+description: "Guide complet pour maîtriser la publicité sur LinkedIn"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # LinkedIn Ads : Guide Complet

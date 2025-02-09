@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Business Plan"
+description: "Guide complet sur business plan"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Business Plan : Guide d'Élaboration"
 description: "Guide complet pour rédiger un business plan convaincant et efficace"
 pubDate: "2024-03-25"

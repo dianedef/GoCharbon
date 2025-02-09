@@ -1,3 +1,11 @@
+---
+title: "Bonnes Pratiques"
+description: "Guide complet sur bonnes pratiques"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Les Bonnes Pratiques SEO en 2024
 
 ## Évolutions Majeures en 2024

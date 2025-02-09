@@ -1,3 +1,11 @@
+---
+title: "Migration"
+description: "Guide complet sur migration"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Guide de Migration SEO
 
 ## Préparation

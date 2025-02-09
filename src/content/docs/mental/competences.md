@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Competences"
+description: "Guide complet sur competences"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Compétences Entrepreneuriales : Guide Complet"
 description: "Guide approfondi sur les compétences clés pour réussir en tant qu'entrepreneur"
 pubDate: "2024-03-25"

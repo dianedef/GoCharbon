@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Leadership"
+description: "Guide complet sur leadership"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Leadership et Gestion d'Équipe : Guide Complet"
 description: "Guide approfondi sur le leadership moderne et les techniques de gestion d'équipe efficaces"
 pubDate: "2024-03-25"

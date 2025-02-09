@@ -1,6 +1,9 @@
 ---
-title: Stratégie Social Media
-description: Guide complet pour développer une présence sociale impactante
+title: "Stratégie Social Media"
+description: "Guide complet pour développer une présence sociale impactante"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Stratégie Social Media

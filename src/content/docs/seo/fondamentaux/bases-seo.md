@@ -1,3 +1,11 @@
+---
+title: "Bases Seo"
+description: "Guide complet sur bases seo"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Les Bases du Référencement Naturel (SEO)
 
 ## Qu'est-ce que le SEO ?

@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Indicateurs"
+description: "Guide complet sur indicateurs"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Indicateurs de Performance (KPIs) : Guide Complet"
 description: "Guide approfondi sur la définition et le suivi des indicateurs clés de performance"
 pubDate: "2024-03-25"

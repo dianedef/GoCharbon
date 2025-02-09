@@ -1,12 +1,13 @@
 ---
-title: Est-ce Que Indy Ca Vaut Le Coup ? | Web'Indé
+title: "Est-ce Que Indy Ca Vaut Le Coup ? | Web'Indé"
 pubDate: 02-21-2023
 author: Diane Web'Indé
 tags:
     - Comptabilité
-description: Mon avis sur Indy, une solution qui automatise votre comptabilité et vous libère des contraintes fiscales.
+description: "Mon avis sur Indy, une solution qui automatise votre comptabilité et vous libère des contraintes fiscales."
 imgUrl: '../../assets/astro.jpeg'
 layout: "../../layouts/BlogPost.astro"
+category: "Général"
 ---
 
 Indy, c’est une application intelligente et une équipe attentionnée qui automatise la comptabilité des indépendants. Depuis que je les ai découvert je ne jure que par eux !

@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Croissance"
+description: "Guide complet sur croissance"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Stratégies de Croissance pour Entreprises Digitales"
 description: "Guide complet des stratégies de croissance efficaces pour développer votre entreprise dans l'économie numérique"
 pubDate: "2024-03-25"

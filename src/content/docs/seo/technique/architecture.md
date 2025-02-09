@@ -1,3 +1,11 @@
+---
+title: "Architecture"
+description: "Guide complet sur architecture"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Architecture Technique SEO
 
 ## Principes Fondamentaux

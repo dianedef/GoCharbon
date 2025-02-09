@@ -1,6 +1,9 @@
 ---
-title: Stratégies de Content Marketing
-description: Maîtrise l'art de créer du contenu qui engage et convertit naturellement
+title: "Stratégies de Content Marketing"
+description: "Maîtrise l'art de créer du contenu qui engage et convertit naturellement"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Stratégies de Content Marketing

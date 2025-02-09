@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Ecommerce Tech"
+description: "Guide complet sur ecommerce tech"
+pubDate: "2024-03-25"
+category: "Tech"
+author: "Web'Indé"
+---
+
+---
 title: "Technologies E-commerce : Guide Complet"
 description: "Comprendre les technologies fondamentales et émergentes qui façonnent le commerce électronique moderne"
 pubDate: "2024-03-25"

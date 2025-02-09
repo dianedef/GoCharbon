@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Index"
+description: "Guide complet sur index"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: Business en ligne | Guide expert pour entrepreneurs
 description: Découvre les stratégies éprouvées pour réussir dans l'entrepreneuriat digital et développer une entreprise prospère
 template: splash

@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Expansion"
+description: "Guide complet sur expansion"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Stratégies d'Expansion : Guide Complet"
 description: "Guide complet des différentes stratégies d'expansion pour développer votre entreprise : croissance organique, acquisitions, diversification et plus"
 pubDate: "2024-03-25"

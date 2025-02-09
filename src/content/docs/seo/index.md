@@ -1,3 +1,11 @@
+---
+title: "Index"
+description: "Guide complet sur index"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Guide Complet du Référencement (SEO)
 
 ## Introduction au SEO

@@ -1,6 +1,9 @@
 ---
 title: "Stratégies Business : Guide Complet"
 description: "Guide complet des stratégies business essentielles pour réussir dans l'économie numérique"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
 ---
 
 # Stratégies Business pour Réussir 

@@ -1,6 +1,9 @@
 ---
-title: L'Avenir de l'Intelligence Artificielle
-description: Analyse des tendances et perspectives futures de l'IA
+title: "L'Avenir de l'Intelligence Artificielle"
+description: "Analyse des tendances et perspectives futures de l'IA"
+pubDate: "2024-03-25"
+category: "Tech"
+author: "Web'Indé"
 ---
 
 # L'Avenir de l'Intelligence Artificielle

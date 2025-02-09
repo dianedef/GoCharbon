@@ -1,6 +1,9 @@
 ---
-title: Fondamentaux du Marketing Digital
-description: Les bases essentielles pour réussir en marketing digital
+title: "Fondamentaux du Marketing Digital"
+description: "Les bases essentielles pour réussir en marketing digital"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Les Fondamentaux du Marketing Digital

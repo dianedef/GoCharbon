@@ -1,6 +1,9 @@
 ---
-title: Outils Marketing Gratuits
-description: Guide complet des meilleurs outils marketing gratuits
+title: "Outils Marketing Gratuits"
+description: "Guide complet des meilleurs outils marketing gratuits"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Outils Marketing Gratuits

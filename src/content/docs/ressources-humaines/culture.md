@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Culture"
+description: "Guide complet sur culture"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Culture d'Entreprise : Guide Complet"
 description: "Guide approfondi sur la création et le développement d'une culture d'entreprise forte et performante"
 pubDate: "2024-03-25"

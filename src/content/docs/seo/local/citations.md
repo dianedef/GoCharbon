@@ -1,3 +1,11 @@
+---
+title: "Citations"
+description: "Guide complet sur citations"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Citations et Annuaires Locaux
 
 ## Importance des Citations

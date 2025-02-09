@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Entrepreneuriat Social"
+description: "Guide complet sur entrepreneuriat social"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Entrepreneuriat Social : Impact et Innovation"
 description: "Guide complet sur l'entrepreneuriat social : modèles, stratégies et impact sociétal"
 pubDate: "2024-03-25"

@@ -1,6 +1,9 @@
 ---
-title: Transformation Digitale
-description: Guide stratégique pour réussir ta transformation digitale avec des exemples concrets et données vérifiables
+title: "Transformation Digitale"
+description: "Guide stratégique pour réussir ta transformation digitale avec des exemples concrets et données vérifiables"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
 ---
 
 # Transformation Digitale : Au-delà du Buzzword

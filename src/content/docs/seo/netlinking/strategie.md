@@ -1,3 +1,11 @@
+---
+title: "Strategie"
+description: "Guide complet sur strategie"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Stratégie de Netlinking
 
 ## Fondamentaux du Netlinking

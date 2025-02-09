@@ -1,3 +1,11 @@
+---
+title: "Checklist"
+description: "Guide complet sur checklist"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Checklist SEO Complète
 
 ## Audit Initial

@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Saas"
+description: "Guide complet sur saas"
+pubDate: "2024-03-25"
+category: "Tech"
+author: "Web'Indé"
+---
+
+---
 title: SaaS (Software as a Service)
 description: Guide complet pour comprendre et réussir dans le business des logiciels en tant que service
 ---

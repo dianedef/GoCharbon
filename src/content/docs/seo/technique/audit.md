@@ -1,3 +1,11 @@
+---
+title: "Audit"
+description: "Guide complet sur audit"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Audit Technique SEO
 
 ## Introduction à l'Audit SEO

@@ -1,6 +1,9 @@
 ---
-title: Social Selling
-description: Guide complet pour vendre efficacement sur les réseaux sociaux
+title: "Social Selling"
+description: "Guide complet pour vendre efficacement sur les réseaux sociaux"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Social Selling

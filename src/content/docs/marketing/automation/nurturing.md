@@ -1,6 +1,9 @@
 ---
-title: Lead Nurturing
-description: Guide complet sur le nurturing des prospects et clients
+title: "Lead Nurturing"
+description: "Guide complet sur le nurturing des prospects et clients"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Lead Nurturing Stratégique

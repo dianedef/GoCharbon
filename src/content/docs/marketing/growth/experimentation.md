@@ -1,6 +1,9 @@
 ---
-title: Expérimentation Growth
-description: Guide complet sur l'expérimentation en growth marketing
+title: "Expérimentation Growth"
+description: "Guide complet sur l'expérimentation en growth marketing"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Expérimentation Growth Marketing

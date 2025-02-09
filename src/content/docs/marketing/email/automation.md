@@ -1,6 +1,9 @@
 ---
-title: Automatisation Email Marketing
-description: Maîtrise l'automatisation de tes campagnes email pour plus d'impact
+title: "Automatisation Email Marketing"
+description: "Maîtrise l'automatisation de tes campagnes email pour plus d'impact"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Automatisation Email Marketing

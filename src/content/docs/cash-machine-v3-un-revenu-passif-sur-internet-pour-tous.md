@@ -1,6 +1,6 @@
 ---
-title: cash-machine-v3-un-revenu-passif-sur-internet-pour-tous
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+title: "cash-machine-v3-un-revenu-passif-sur-internet-pour-tous"
+description: "Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non."
 pubDate: 02-21-2023
 author: Diane Web'Indé
 tags: 
@@ -9,7 +9,7 @@ tags:
   - Emailing
   - Passif
 imgUrl: '../../assets/astro.jpeg'
-layout: ../../layouts/BlogPost.astro
+category: "Général"
 ---
 
 A la recherche d'une nouvelle source de revenu ? Et si tu investissais dans le marketing en ligne ?

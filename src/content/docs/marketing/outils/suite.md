@@ -1,6 +1,9 @@
 ---
-title: Suite Marketing Complète
-description: Guide complet des outils essentiels pour le marketing digital
+title: "Suite Marketing Complète"
+description: "Guide complet des outils essentiels pour le marketing digital"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Suite Marketing Complète

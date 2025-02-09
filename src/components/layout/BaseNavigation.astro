@@ -1,41 +1,41 @@
 ---
 interface Props {
-  pageTitle?: string;
+	pageTitle?: string;
 }
 
 const navigationItems = [
-  { name: 'Blog', url: '/blog/' },
-  { name: 'Apps', url: '/app/' },
-  { name: 'Guides', url: '/guide/' },
+	{ name: "Blog", url: "/blog/" },
+	{ name: "Apps", url: "/app/" },
+	{ name: "Guides", url: "/guide/" },
 ];
 
 const socialIcons = [
-  {
-    name: 'YouTube',
-    url: 'https://www.youtube.com/@webindefr',
-    icon: 'i-uil-youtube',
-  },
-  {
-    name: 'Twitter',
-    url: 'https://x.com/webindefr',
-    icon: 'i-uil-twitter',
-  },
-  {
-    name: 'Instagram',
-    url: 'https://www.instagram.com/webindefr',
-    icon: 'i-uil-instagram',
-  },
-  {
-    name: 'LinkedIn',
-    url: 'https://www.linkedin.com/company/webindefr',
-    icon: 'i-uil-linkedin',
-  },
-  {
-    name: 'Facebook',
-    url: 'https://www.facebook.com/dianewebinde/',
-    icon: 'i-uil-facebook',
-  },
-  { name: 'RSS', url: '/feed.xml', icon: 'i-uil-rss' },
+	{
+		name: "YouTube",
+		url: "https://www.youtube.com/@webindefr",
+		icon: "i-uil-youtube",
+	},
+	{
+		name: "Twitter",
+		url: "https://x.com/webindefr",
+		icon: "i-uil-twitter",
+	},
+	{
+		name: "Instagram",
+		url: "https://www.instagram.com/webindefr",
+		icon: "i-uil-instagram",
+	},
+	{
+		name: "LinkedIn",
+		url: "https://www.linkedin.com/company/webindefr",
+		icon: "i-uil-linkedin",
+	},
+	{
+		name: "Facebook",
+		url: "https://www.facebook.com/dianewebinde/",
+		icon: "i-uil-facebook",
+	},
+	{ name: "RSS", url: "/feed.xml", icon: "i-uil-rss" },
 ];
 
 /*   {
@@ -47,47 +47,66 @@ const socialIcons = [
 const { pageTitle } = Astro.props;
 ---
 
-<header class='border-b-4 border-black p-6'>
-  {pageTitle && <h1 class='hidden'>{pageTitle}</h1>}
-  <nav class='flex justify-between'>
-    <a href='/' title='Accueil'>
-      <p class='righteous text-2xl sm:text-3xl md:text-4xl'>Web'Indé</p>
-  </a>
-  <nav/>
-  <ul class='flex gap-4 items-center max-md:hidden'>
-    {
-      navigationItems.map((item) => (
-        <li>
-          <a
-            class='text-2xl font-medium hover:text-green transition-all duration-150 ease-in-out'
-            href={item.url}
-            title={`Aller à ${item.name}`}
-          >
-            {item.name} 
-          </a>
-        </li>
-      ))
-    }
-  </ul>
-  <ul class='flex gap-4 items-center max-md:hidden'>
-    {
-      socialIcons.map((item) => (
-          <li>
-            <a
-              href={item.url}
-              class='hover:text-green opacity-40 hover:opacity-100 transition-all duration-150 ease-in-out'
-              target='_blank'
-              title={`Retrouve Diane sur ${item.name}`}
-            >
-              <div class:list={[item.icon, 'w-6 h-6']} />
-            </a>
-          </li>
-        ))
-      }
-    </ul>
-  <nav class='md:hidden flex'>
-    <ul class='flex flex-col gap-2 items-end'>
-      <li><a class="text-xl hover:text-green transition-all duration-150 ease-in-out" href='/blog/'>Blog</a> / <a class="text-xl hover:text-green transition-all duration-150 ease-in-out" href='/app/'>Apps</a> / <a class="text-xl hover:text-green transition-all duration-150 ease-in-out" href='/guide/'>Guides</a></li>
-    </ul>
-  </nav>
+<header class="border-b-4 border-black p-6">
+	{pageTitle && <h1 class="hidden">{pageTitle}</h1>}
+	<nav class="flex justify-between items-center">
+		<a
+			href="/"
+			title="Accueil"
+			class="hover:text-green transition-all duration-150 ease-in-out"
+		>
+			<p class="righteous text-2xl sm:text-3xl md:text-4xl">Web'Indé</p>
+		</a>
+
+		<ul class="flex gap-8 items-center max-md:hidden">
+			{
+				navigationItems.map((item) => (
+					<li>
+						<a
+							class="poppins text-lg hover:text-green transition-all duration-150 ease-in-out border-b-2 border-transparent hover:border-green"
+							href={item.url}
+							title={`Aller à ${item.name}`}
+						>
+							{item.name}
+						</a>
+					</li>
+				))
+			}
+		</ul>
+
+		<ul class="flex gap-4 items-center max-md:hidden">
+			{
+				socialIcons.map((item) => (
+					<li>
+						<a
+							href={item.url}
+							class="hover:text-green opacity-40 hover:opacity-100 transition-all duration-150 ease-in-out"
+							target="_blank"
+							title={`Retrouve Diane sur ${item.name}`}
+						>
+							<div class:list={[item.icon, "w-6 h-6"]} />
+						</a>
+					</li>
+				))
+			}
+		</ul>
+
+		<div class="md:hidden">
+			<ul class="flex gap-4 items-center">
+				{
+					navigationItems.map((item) => (
+						<li>
+							<a
+								class="poppins text-lg hover:text-green transition-all duration-150 ease-in-out border-b-2 border-transparent hover:border-green"
+								href={item.url}
+								title={`Aller à ${item.name}`}
+							>
+								{item.name}
+							</a>
+						</li>
+					))
+				}
+			</ul>
+		</div>
+	</nav>
 </header>

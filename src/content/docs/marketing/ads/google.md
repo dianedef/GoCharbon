@@ -1,6 +1,9 @@
 ---
-title: Google Ads - Guide Complet
-description: Maîtrise Google Ads pour générer du trafic qualifié et des conversions
+title: "Google Ads - Guide Complet"
+description: "Maîtrise Google Ads pour générer du trafic qualifié et des conversions"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Google Ads : Guide Stratégique

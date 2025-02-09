@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Feedback"
+description: "Guide complet sur feedback"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: "Feedback et Amélioration Continue : Guide Complet"
 description: "Guide approfondi sur la mise en place d'une culture du feedback et de l'amélioration continue"
 pubDate: "2024-03-25"

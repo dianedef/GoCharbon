@@ -1,3 +1,11 @@
+---
+title: "Index"
+description: "Guide complet sur index"
+pubDate: "2024-03-25"
+category: "Tech"
+author: "Web'Indé"
+---
+
 Tu rêves de générer des revenus récurrents pendant ton sommeil ? L'affiliation n'est 
 pas de la magie - c'est l'art subtil de connecter les bonnes personnes aux bons 
 produits, au bon moment. Bienvenue dans le guide qui va transformer ta façon de voir 

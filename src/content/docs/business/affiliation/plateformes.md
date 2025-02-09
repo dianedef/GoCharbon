@@ -1,6 +1,9 @@
 ---
-title: Les meilleures plateformes d'affiliation
-description: Guide complet des plateformes d'affiliation les plus performantes pour développer tes revenus passifs
+title: "Les meilleures plateformes d'affiliation"
+description: "Guide complet des plateformes d'affiliation les plus performantes pour développer tes revenus passifs"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
 ---
 
 # Les Plateformes d'Affiliation Qui Cartonnent

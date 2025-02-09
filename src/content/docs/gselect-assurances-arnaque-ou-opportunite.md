@@ -1,6 +1,6 @@
 ---
 title: "Indicateur GSelect Assurances : Arnaque ou Opportunité ? (Avis)"
-description: Est-ce que tu as un crédit ou tu connais quelqu'un qui a un prêt immobilier ? Probablement, car c'est 10% de la population française qui en a !
+description: "Est-ce que tu as un crédit ou tu connais quelqu'un qui a un prêt immobilier ? Probablement, car c'est 10% de la population française qui en a !"
 pubDate: 02-21-2023
 author: Diane Web'Indé
 tags:
@@ -8,6 +8,7 @@ tags:
   - Création de Site Web
 imgUrl: '../../assets/astro.jpeg'
 layout: ../../layouts/BlogPost.astro
+category: "Général"
 ---
 
 Est-ce que tu as un crédit ou tu connais quelqu'un qui a un prêt immobilier ?

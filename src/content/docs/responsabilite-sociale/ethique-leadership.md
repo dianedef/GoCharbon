@@ -1,7 +1,9 @@
 ---
 title: "Éthique et Leadership : Entre Pouvoir et Responsabilité"
 description: "Analyse des dynamiques de pouvoir en entreprise et réflexion sur l'éthique du leadership moderne"
-layout: ../../layouts/MainLayout.astro
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
 ---
 
 Dans un monde professionnel en constante évolution, la question de l'éthique du leadership devient cruciale. Cette problématique s'inscrit dans une réflexion plus large sur l'[éthique des affaires](/responsabilite-sociale/ethique) et la construction d'une [culture d'entreprise](/ressources-humaines/culture) saine. Les travaux de Jon Ronson dans "The Psychopath Test" nous offrent une perspective fascinante sur les dynamiques de pouvoir en entreprise et leurs implications éthiques.

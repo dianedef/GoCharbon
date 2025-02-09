@@ -1,3 +1,11 @@
+---
+title: "Structure des Articles SEO"
+description: "Guide complet sur la structure optimale des articles pour le référencement naturel"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Structure des Articles SEO
 
 ## Introduction

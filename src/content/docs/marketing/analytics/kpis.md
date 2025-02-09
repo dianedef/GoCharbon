@@ -1,6 +1,9 @@
 ---
-title: KPIs Marketing
-description: Les indicateurs clés de performance essentiels en marketing digital
+title: "KPIs Marketing"
+description: "Les indicateurs clés de performance essentiels en marketing digital"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # KPIs Marketing Essentiels

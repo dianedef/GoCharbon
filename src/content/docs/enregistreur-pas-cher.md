@@ -1,5 +1,5 @@
 ---
-title: Blogpost 5
+title: "Blogpost 5"
 pubDate: 02-21-2023
 author: Diane Web'Indé
 tags:
@@ -7,7 +7,7 @@ tags:
   - Création de Contenu
 description: "Dans la vidéo d'aujourd'hui, je te partage une petite pépite sympa : un enregistreur d'écran puissant qui coûte moins cher qu'un McDO"
 imgUrl: '../../assets/astro.jpeg'
-layout: "../../layouts/BlogPost.astro"
+category: "Général"
 ---
 
 Dans la vidéo d'aujourd'hui, je te partage une petite pépite sympa : un enregistreur d'écran puissant qui coûte moins cher qu'un MacDo (par contre pas de version Mac, c'est pour Windows !)

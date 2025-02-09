@@ -1,3 +1,11 @@
+---
+title: "Maillage Interne"
+description: "Guide complet sur maillage interne"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Maillage Interne Avancé
 
 ## Principes Fondamentaux

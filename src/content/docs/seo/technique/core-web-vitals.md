@@ -1,3 +1,11 @@
+---
+title: "Core Web Vitals"
+description: "Guide complet sur core web vitals"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Core Web Vitals
 
 ## Introduction aux Core Web Vitals

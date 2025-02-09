@@ -1,3 +1,11 @@
+---
+title: "E-A-T et YMYL en SEO"
+description: "Guide complet pour comprendre et optimiser les critères E-A-T et YMYL dans votre stratégie SEO"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # E-A-T et YMYL en SEO
 
 ## Comprendre E-A-T

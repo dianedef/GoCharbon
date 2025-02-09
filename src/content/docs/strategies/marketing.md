@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Marketing"
+description: "Guide complet sur marketing"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
+---
+
+---
 title: "Stratégies de Marketing Digital : Guide Complet"
 description: "Guide approfondi des stratégies marketing digitales efficaces : acquisition, fidélisation, ROI et dernières tendances"
 pubDate: "2024-03-25"

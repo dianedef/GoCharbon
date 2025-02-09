@@ -1,3 +1,11 @@
+---
+title: "Fonctionnement Moteurs"
+description: "Guide complet sur fonctionnement moteurs"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Comment Fonctionnent les Moteurs de Recherche
 
 ## Le Processus en 3 Étapes

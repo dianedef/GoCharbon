@@ -1,6 +1,9 @@
 ---
-title: A/B Testing
-description: Guide complet sur l'A/B testing pour optimiser vos performances marketing
+title: "A/B Testing"
+description: "Guide complet sur l'A/B testing pour optimiser vos performances marketing"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # A/B Testing : Guide Complet

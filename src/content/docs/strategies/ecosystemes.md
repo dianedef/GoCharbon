@@ -1,6 +1,9 @@
 ---
-title: Construire un Écosystème Business
-description: Comment créer et développer un écosystème d'affaires performant, inspiré des leaders du marché
+title: "Construire un Écosystème Business"
+description: "Comment créer et développer un écosystème d'affaires performant, inspiré des leaders du marché"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
 ---
 
 # L'Art de Construire un Écosystème Business

@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Index"
+description: "Guide complet sur index"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
+---
+
+---
 title: Marketing Digital - Guide Complet
 description: Maîtrise toutes les facettes du marketing digital pour développer ton entreprise en ligne
 pubDate: "2024-03-25"

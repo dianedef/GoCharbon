@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Startups"
+description: "Guide complet sur startups"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: Startups
 description: Guide complet pour lancer et développer une startup innovante
 ---

@@ -1,3 +1,11 @@
+---
+title: "Multi Etablissements"
+description: "Guide complet sur multi etablissements"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # SEO Multi-établissements
 
 ## Stratégie Globale

@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Marketplaces"
+description: "Guide complet sur marketplaces"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: Marketplaces
 description: Guide complet pour réussir sur les places de marché en ligne
 ---

@@ -1,3 +1,11 @@
+---
+title: "Suivi des Positions SEO"
+description: "Guide complet pour suivre et analyser vos positions dans les résultats de recherche"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Suivi des Positions SEO
 
 ## Méthodologie de Suivi

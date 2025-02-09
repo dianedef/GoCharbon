@@ -1,3 +1,11 @@
+---
+title: "Desaveu"
+description: "Guide complet sur desaveu"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Désaveu de Liens
 
 ## Analyse des Backlinks Toxiques

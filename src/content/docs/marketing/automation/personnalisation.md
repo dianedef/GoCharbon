@@ -1,6 +1,9 @@
 ---
-title: Personnalisation Marketing
-description: Guide complet sur la personnalisation marketing automatisée
+title: "Personnalisation Marketing"
+description: "Guide complet sur la personnalisation marketing automatisée"
+pubDate: "2024-03-25"
+category: "Marketing"
+author: "Web'Indé"
 ---
 
 # Personnalisation Marketing

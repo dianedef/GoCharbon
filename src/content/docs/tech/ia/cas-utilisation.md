@@ -1,3 +1,11 @@
+---
+title: "Cas Utilisation"
+description: "Guide complet sur cas utilisation"
+pubDate: "2024-03-25"
+category: "Tech"
+author: "Web'Indé"
+---
+
 # Cas d'Utilisation de l'IA Générative : 300+ Exemples Réels
 
 ## Introduction

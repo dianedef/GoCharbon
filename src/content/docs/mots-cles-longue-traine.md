@@ -1,12 +1,12 @@
 ---
-title: C'est Quoi La Longue Traîne ?
+title: "C'est Quoi La Longue Traîne ?"
 pubDate: 02-21-2023
 author: Diane Web'Indé
 tags:
   - SEO
-description: Qu'est-ce que la longue-traîne ? Comment l'utiliser pour se positionner sur Google facilement ? Pourquoi elle vaut plus que les mots-clés génériques ?
+description: "Qu'est-ce que la longue-traîne ? Comment l'utiliser pour se positionner sur Google facilement ? Pourquoi elle vaut plus que les mots-clés génériques ?"
 imgUrl: '../../assets/astro.jpeg'
-layout: "../../layouts/BlogPost.astro"
+category: "Général"
 ---
 
 ## Ces Millions de Petits Mots-Clés Qui Font La Grosse Part du Gâteau 🍰

@@ -1,3 +1,11 @@
+---
+title: "Cocon Sémantique Avancé"
+description: "Guide complet pour créer et optimiser un cocon sémantique efficace pour votre site"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Cocon Sémantique Avancé
 
 ## Principes du Cocon Sémantique

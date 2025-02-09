@@ -1,3 +1,11 @@
+---
+title: "Stratégie de Contenu SEO"
+description: "Guide complet pour élaborer et mettre en œuvre une stratégie de contenu SEO efficace"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Stratégie de Contenu SEO
 
 ## Analyse Préliminaire

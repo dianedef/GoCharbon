@@ -1,3 +1,10 @@
+---
+title: "Nlp"
+description: "Guide complet sur nlp"
+pubDate: "2024-03-25"
+category: "Tech"
+author: "Web'Indé"
+---
 
 # Le Traitement Automatique du Langage Naturel (NLP)
 

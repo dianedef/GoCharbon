@@ -1,3 +1,11 @@
+---
+title: "ROI du SEO"
+description: "Guide complet pour calculer et optimiser le retour sur investissement de votre stratégie SEO"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # ROI du SEO
 
 ## Calcul du ROI

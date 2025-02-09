@@ -1,4 +1,12 @@
-﻿---
+---
+title: "Services En Ligne"
+description: "Guide complet sur services en ligne"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
+---
+
+---
 title: Services en ligne
 description: Guide complet pour créer et développer des services numériques rentables
 ---

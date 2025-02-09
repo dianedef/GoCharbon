@@ -1,3 +1,11 @@
+---
+title: "Rédaction Web Optimisée SEO"
+description: "Guide complet pour rédiger du contenu web optimisé pour le SEO et les utilisateurs"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Rédaction Web Optimisée SEO
 
 ## Principes de Base

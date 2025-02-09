@@ -1,12 +1,12 @@
 ---
-title: Comment Ajouter Une Icône À Un Site Internet Ou Application ?
+title: "Comment Ajouter Une Icône À Un Site Internet Ou Application ?"
 description: "Même s’il semble anecdotique, le Favicon fait parti des détails de votre branding, qui font une différence dans la perception de votre professionnalisme !"
 pubDate: 02-21-2023
 author: Diane Web'Indé
 tags:
   - Lifetime Deals
 imgUrl: '../../assets/astro.jpeg'
-layout: ../../layouts/BlogPost.astro
+category: "Général"
 ---
 
 [Favicon Generator for perfect icons on all browsers](https://realfavicongenerator.net/)

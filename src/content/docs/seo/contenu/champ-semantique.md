@@ -1,3 +1,11 @@
+---
+title: "Champ Sémantique SEO"
+description: "Guide complet pour comprendre et optimiser le champ sémantique dans votre stratégie SEO"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # Champ Sémantique SEO
 
 ## Définition et Importance

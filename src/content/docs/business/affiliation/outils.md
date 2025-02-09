@@ -1,6 +1,9 @@
 ---
-title: Les Meilleurs Outils pour l'Affiliation
-description: Découvre les outils essentiels pour automatiser et optimiser ton business d'affiliation
+title: "Les Meilleurs Outils pour l'Affiliation"
+description: "Découvre les outils essentiels pour automatiser et optimiser ton business d'affiliation"
+pubDate: "2024-03-25"
+category: "Général"
+author: "Web'Indé"
 ---
 
 # Les Outils Qui Font la Différence

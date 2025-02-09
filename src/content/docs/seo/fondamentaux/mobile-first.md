@@ -1,3 +1,11 @@
+---
+title: "Mobile First"
+description: "Guide complet sur mobile first"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # SEO Mobile-First
 
 ## Qu'est-ce que l'Indexation Mobile-First ?

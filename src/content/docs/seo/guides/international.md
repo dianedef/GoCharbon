@@ -1,3 +1,11 @@
+---
+title: "International"
+description: "Guide complet sur international"
+pubDate: "2024-03-25"
+category: "SEO"
+author: "Web'Indé"
+---
+
 # SEO International
 
 ## Stratégie Globale
