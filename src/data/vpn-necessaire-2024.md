@@ -9,7 +9,7 @@ tags:
   - VPN
   - Cybersécurité
 
-  - Astro
+  
 ---
 
 # Un VPN est-il vraiment indispensable en 2024 ?

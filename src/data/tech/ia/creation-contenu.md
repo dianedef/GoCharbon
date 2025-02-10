@@ -8,7 +8,7 @@ author: "Tech Expert"
 imgUrl: "../../../assets/astro.jpeg"
 tags:
   - IA
-  - Astro
+  
 ---
 
 # L'IA dans la Création de Contenu : Guide Pratique

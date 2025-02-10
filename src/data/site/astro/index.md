@@ -6,7 +6,7 @@ category: "Framework"
 author: "Web'Indé"
 imgUrl: "../../../assets/astro.jpeg"
 tags:
-  - Astro
+  
   - Framework
   - Web
   - Développement

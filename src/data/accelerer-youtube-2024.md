@@ -8,7 +8,6 @@ imgUrl: '../assets/astro.jpeg'
 tags:
   - YouTube
   - Performance
-  - Astro
 ---
 
 

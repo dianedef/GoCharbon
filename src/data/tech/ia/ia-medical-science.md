@@ -8,7 +8,7 @@ author: "Web'Indé"
 imgUrl: "../../../assets/astro.jpeg"
 tags:
   - IA
-  - Astro
+  
 ---
 
 # L'IA en Médecine et Sciences : Une Révolution en Marche

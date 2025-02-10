@@ -8,7 +8,7 @@ author: "Web'Indé"
 imgUrl: "../../../assets/astro.jpeg"
 tags:
   - IA
-  - Astro
+  
 ---
 
 # L'IA en Sciences : Une Révolution de la Recherche

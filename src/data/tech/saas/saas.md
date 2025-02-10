@@ -7,7 +7,7 @@ author: "Web'Indé"
 imgUrl: "../../../assets/astro.jpeg"
 tags:
   - SaaS
-  - Astro
+  
 ---
 
 

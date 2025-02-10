@@ -10,7 +10,7 @@ tags:
   - Web
   - Ressources
   - Tech
-  - Astro
+  
 ---
 
 # Les Ressources Indispensables pour Développeurs Web

@@ -8,7 +8,7 @@ imgUrl: "../assets/astro.jpeg"
 tags:
   - Histoire
   - Général
-  - Astro
+  
 ---
 
 ---

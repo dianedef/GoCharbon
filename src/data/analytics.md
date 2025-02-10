@@ -8,7 +8,7 @@ imgUrl: "../assets/astro.jpeg"
 tags:
   - Analytics
   - Performance
-  - Astro
+  
 ---
 
 # Outils d'Analyse : Optimisation et Performance

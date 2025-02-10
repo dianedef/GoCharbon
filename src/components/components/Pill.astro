@@ -1,37 +1,98 @@
 ---
 interface Props {
-  color?: string | undefined;
+	color?: string | undefined;
 }
-import colors from '../config/colors.json';
+import colors from "../config/colors.json";
 
 if (Astro.props.color === undefined) {
-  Astro.props.color =
-    colors[Math.floor(Math.random() * colors.length)];
+	Astro.props.color = colors[Math.floor(Math.random() * colors.length)];
 }
 
 const { color } = Astro.props;
 ---
 
 <style define:vars={{ color: color }}>
-  span.brutal-pill {
-    filter: drop-shadow(3px 3px 0 rgb(0 0 0 / 1));
-    user-select: none;
-    background-color: white;
-    border-radius: 9999px;
-    border: 2px solid black;
-    padding: 0.25rem 0.75rem;
-    transition: all;
-    transition-duration: 0.5s;
-    animation: ease-in-out;
-    font-size: small;
-  }
+	span.brutal-pill {
+		filter: drop-shadow(3px 3px 0 rgb(0 0 0 / 1));
+		user-select: none;
+		background-color: var(--background-color, white);
+		border-radius: 9999px;
+		border: 2px solid var(--border-color, black);
+		padding: 0.25rem 0.75rem;
+		transition: all 0.3s ease-in-out;
+		font-size: small;
+		color: var(--text-color, black);
+	}
 
-  span.brutal-pill:hover {
-    filter: drop-shadow(5px 5px 0 rgb(0 0 0 / 1));
-    background-color: var(--color);
-  }
+	span.brutal-pill:hover {
+		filter: drop-shadow(5px 5px 0 rgb(0 0 0 / 1));
+		background-color: var(--color);
+		transform: translateY(-2px);
+	}
+
+	/* Mode sombre */
+	:global(.dark) span.brutal-pill {
+		--background-color: #1a1a1a;
+		--border-color: white;
+		--text-color: white;
+		filter: drop-shadow(3px 3px 0 rgb(255 255 255 / 0.8));
+	}
+
+	:global(.dark) span.brutal-pill:hover {
+		filter: drop-shadow(5px 5px 0 rgb(255 255 255 / 0.8));
+		background-color: var(--color);
+		color: black;
+	}
+
+	/* Style pour les pills sélectionnées - Mode clair */
+	:global(input:checked + a) span.brutal-pill {
+		background-color: var(--selected-color, black) !important;
+		color: black !important;
+		border-color: black;
+	}
+
+	/* Style pour les pills sélectionnées - Mode sombre */
+	:global(.dark input:checked + a) span.brutal-pill {
+		background-color: var(--selected-color, white) !important;
+		color: black !important;
+		border-color: white;
+		filter: drop-shadow(3px 3px 0 rgb(255 255 255 / 0.8));
+	}
 </style>
 
-<span class='brutal-pill'>
-  <slot />
+<span class="brutal-pill" data-color={color}>
+	<slot />
 </span>
+
+<script>
+	function setupPillColor() {
+		const pills = document.querySelectorAll(".brutal-pill");
+		pills.forEach((pill) => {
+			const input = pill.closest("label")?.querySelector("input");
+			if (!input) return;
+
+			const color = pill.getAttribute("data-color");
+
+			input.addEventListener("change", () => {
+				if (input.checked && pill instanceof HTMLElement) {
+					pill.style.setProperty("--selected-color", color);
+				}
+			});
+
+			// Réinitialiser lors du désélection
+			if (!input.checked && pill instanceof HTMLElement) {
+				pill.style.removeProperty("--selected-color");
+			}
+		});
+	}
+
+	// Initialiser après le chargement de la page
+	document.addEventListener("astro:page-load", setupPillColor);
+
+	// Fallback pour le chargement initial
+	if (document.readyState === "loading") {
+		document.addEventListener("DOMContentLoaded", setupPillColor);
+	} else {
+		setupPillColor();
+	}
+</script>

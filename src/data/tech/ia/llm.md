@@ -8,7 +8,7 @@ author: "Web'Indé"
 imgUrl: "../../../assets/astro.jpeg"
 tags:
   - IA
-  - Astro
+  
 ---
 
 # Les LLMs Expliqués Simplement : De GPT-3 à Claude, l'Histoire des Modèles qui Changent Tout

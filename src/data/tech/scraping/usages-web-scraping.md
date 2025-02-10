@@ -7,7 +7,7 @@ author: "Web'Indé"
 imgUrl: "../../../assets/astro.jpeg"
 tags:
   - Scraping
-  - Astro
+  
 
 ---
 ## Pourquoi Utiliser le Web Scraping ?

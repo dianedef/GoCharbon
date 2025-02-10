@@ -7,7 +7,7 @@ author: "Web'Indé"
 imgUrl: "../../../assets/astro.jpeg"
 tags:
   - Scraping
-  - Astro
+  
 ---
 
 ## Pourquoi le Web Scraping Traditionnel ne Suffit Plus ?

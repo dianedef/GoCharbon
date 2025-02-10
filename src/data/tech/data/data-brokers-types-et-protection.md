@@ -8,7 +8,7 @@ author: "Tech Expert"
 imgUrl: "../../../assets/astro.jpeg"
 tags:
   - Data
-  - Astro
+  
 ---
 
 # Data Brokers : Types, Dangers et Solutions de Protection
