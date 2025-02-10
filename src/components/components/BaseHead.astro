@@ -14,12 +14,15 @@ const canonicalURL = Astro.site
 
 // Gestion sécurisée de l'URL OG
 const defaultOgImage = "/v1/generate/og/default.png";
-const ogImagePath = Astro.props.ogImage || defaultOgImage;
+const ogImagePath =
+	typeof Astro.props.ogImage === "string"
+		? Astro.props.ogImage
+		: defaultOgImage;
 
 // Construction de l'URL OG complète de manière sécurisée
 const fullOgImageUrl = Astro.site
 	? new URL(ogImagePath.replace(/^\//, ""), Astro.site)
-	: ogImagePath;
+	: new URL(ogImagePath, "https://webinde.fr");
 
 const { title, description } = Astro.props;
 ---

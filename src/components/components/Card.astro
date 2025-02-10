@@ -22,6 +22,16 @@ const { color = colors[Math.floor(Math.random() * colors.length)] } =
 	div.brutal-card:hover {
 		filter: drop-shadow(5px 5px 0 rgb(0 0 0 / 1));
 	}
+
+	:global(.dark) div.brutal-card {
+		background-color: black;
+		border: 3px solid white;
+		filter: drop-shadow(7px 7px 0 rgb(255 255 255 / 1));
+	}
+
+	:global(.dark) div.brutal-card:hover {
+		filter: drop-shadow(5px 5px 0 rgb(255 255 255 / 1));
+	}
 </style>
 
 <div class="brutal-card">

@@ -27,6 +27,17 @@ const {
 		filter: drop-shadow(3px 3px 0 rgb(0 0 0 / 1));
 		background-color: var(--color);
 	}
+
+	:global(.dark) a.brutal-btn {
+		filter: drop-shadow(5px 5px 0 rgb(255 255 255 / 1));
+		background-color: black;
+		border: 2px solid white;
+	}
+
+	:global(.dark) a.brutal-btn:hover {
+		filter: drop-shadow(3px 3px 0 rgb(255 255 255 / 1));
+		background-color: var(--color);
+	}
 </style>
 
 <a href={href} target={target} class="brutal-btn">

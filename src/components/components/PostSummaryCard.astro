@@ -17,15 +17,15 @@ const isInitialLoad = index < 15;
 
 <div transition:name={`post-${post.id}`}>
 	<Card color="white">
-		<div class="dark:bg-gray-800 dark:text-white p-4 rounded-lg">
+		<div class="p-4 rounded-lg transition-colors dark:bg-black">
 			<h3
-				class="poppins text-lg md:text-xl"
+				class="poppins text-lg md:text-xl dark:text-white"
 				transition:name={`title-${post.id}`}
 			>
 				{data.title}
 			</h3>
 			<div
-				class="rounded-lg border-3 border-black dark:border-white my-4 h-56"
+				class="rounded-lg border-3 border-black dark:border-white my-4 h-56 overflow-hidden"
 			>
 				<Image
 					src={data.imgUrl}
@@ -38,18 +38,16 @@ const isInitialLoad = index < 15;
 					transition:name={`image-${post.id}`}
 				/>
 			</div>
-			<p class="poppins dark:text-gray-300">
+			<p class="poppins text-gray-800 dark:text-gray-200">
 				{data.description}
 			</p>
 
 			<div class="flex justify-end my-4">
 				<div
-					class="dark:bg-gray-700 dark:hover:bg-gray-600 rounded-lg transition-colors"
+					class="transition-colors hover:bg-gray-100 dark:hover:bg-gray-900 rounded-lg"
 				>
 					<Button href={`/${post.id}/`}>
-						<span class="text-black dark:text-white"
-							>Lire plus &rarr;</span
-						>
+						<span class="dark:text-white">Lire plus &rarr;</span>
 					</Button>
 				</div>
 			</div>
