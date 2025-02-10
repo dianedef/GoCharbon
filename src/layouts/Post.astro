@@ -1,8 +1,8 @@
 ---
-import Layout from './Default.astro';
-import SideBar from '@components/posts/PostSideBar.astro';
-import Content from '@components/posts/PostContent.astro';
-import RecentPosts from '@components/generic/RecentPosts.astro';
+import Layout from "./Default.astro";
+import SideBar from "@components/components/PostSideBar.astro";
+import Content from "@components/components/PostContent.astro";
+import RecentPosts from "@components/components/RecentPosts.astro";
 
 const ogImage = new URL(`/v1/generate/og/${Astro.params.slug}.png`, Astro.url);
 

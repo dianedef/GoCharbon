@@ -1,0 +1,24 @@
+---
+import type { CollectionEntry } from "astro:content";
+import PostSummaryCard from "./PostSummaryCard.astro";
+
+interface Props {
+	posts: CollectionEntry<"posts">[];
+}
+
+const { posts } = Astro.props;
+---
+
+<ul
+	class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 dark:bg-gray-800 p-4 rounded-lg"
+>
+	{
+		posts.map((post) => {
+			return (
+				<li class="transition-transform hover:scale-[1.02] duration-200">
+					<PostSummaryCard post={post} />
+				</li>
+			);
+		})
+	}
+</ul>

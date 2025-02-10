@@ -1,5 +1,5 @@
 ---
-import ThemeToggle from "../ThemeToggle.astro";
+import ThemeToggle from "./ThemeToggle.astro";
 
 interface Props {
 	pageTitle?: string;
@@ -39,10 +39,12 @@ const socialIcons = [
 const { pageTitle } = Astro.props;
 ---
 
-<header class="border-b-4 border-black flex justify-between p-6 items-center">
+<header
+	class="border-b-4 border-black dark:border-white bg-white dark:bg-gray-900 text-black dark:text-white flex justify-between p-6 items-center"
+>
 	{pageTitle && <h1 class="hidden">{pageTitle}</h1>}
 	<a href="/" title="Back to Home">
-		<p class="righteous md:text-5xl">Brutal</p>
+		<p class="righteous md:text-5xl">Web'Indé</p>
 	</a>
 	<nav class="hidden md:inline-block">
 		<h2 class="hidden">Navigation</h2>
@@ -51,7 +53,7 @@ const { pageTitle } = Astro.props;
 				navigationItems.map((item) => (
 					<li>
 						<a
-							class="text-lg font-medium hover:text-green hover:underline transition-all duration-150 ease-in-out"
+							class="text-lg font-medium hover:text-green dark:hover:text-green-400 hover:underline transition-all duration-150 ease-in-out"
 							href={item.url}
 							title={`Go to ${item.name}`}
 						>
@@ -65,7 +67,7 @@ const { pageTitle } = Astro.props;
 					<li>
 						<a
 							href={item.url}
-							class="hover:text-green hover:underline transition-all duration-150 ease-in-out"
+							class="hover:text-green dark:hover:text-green-400 hover:underline transition-all duration-150 ease-in-out"
 							target="_blank"
 							title={`'See @ElianCodes on ${item.name}`}
 						>
@@ -83,7 +85,7 @@ const { pageTitle } = Astro.props;
 		<h2 class="hidden">Mobile Navigation</h2>
 		<ThemeToggle />
 		<ul>
-			<li><a href="/">Retour</a></li>
+			<li><a href="/" class="dark:text-white">Retour</a></li>
 		</ul>
 	</nav>
 </header>

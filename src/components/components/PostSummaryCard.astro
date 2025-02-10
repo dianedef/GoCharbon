@@ -1,0 +1,112 @@
+---
+import type { CollectionEntry } from "astro:content";
+<<<<<<< Updated upstream
+import { Card, Pill, Button } from "../pills";
+=======
+import Card from "../brutal/Card.astro";
+import Button from "../brutal/Button.astro";
+import Pill from "../brutal/Pill.astro";
+>>>>>>> Stashed changes
+import { Image } from "astro:assets";
+
+interface Props {
+	post: CollectionEntry<"posts">;
+	index?: number;
+}
+
+const { post, index = 0 } = Astro.props;
+const { data } = post;
+const isInitialLoad = index < 15;
+---
+
+<Card color="white">
+<<<<<<< Updated upstream
+	<h3 class="poppins text-lg md:text-xl">{data.title}</h3>
+	<div class="rounded-lg border-3 border-black my-4 h-56">
+		<Image
+			src={data.imgUrl}
+			alt={data.title}
+			width={800}
+			height={400}
+			loading={isInitialLoad ? "eager" : "lazy"}
+			decoding={isInitialLoad ? "sync" : "async"}
+			class="rounded h-full w-full object-cover"
+		/>
+	</div>
+	<p class="poppins">{data.description}</p>
+
+	<div class="flex justify-end my-4">
+		<Button href={`/${post.id}/`}>Lire plus &rarr;</Button>
+	</div>
+
+	<div class="hidden sm:inline-block">
+		<div class="flex justify-between items-center">
+			<ul class="flex flex-wrap gap-4 mt-2">
+				{
+					data.tags.map((tag) => (
+						<li>
+							<a class="sanchez" href={`/tag/${tag.toLowerCase()}/`}>
+								<Pill>{tag}</Pill>
+							</a>
+						</li>
+					))
+				}
+			</ul>
+			{
+				data.draft && (
+					<span class="bg-green rounded-full border-2 py-1 px-4 text-sm border-black card-shadow">
+						Brouillon
+					</span>
+				)
+			}
+=======
+	<div class="dark:bg-gray-800 dark:text-white p-4 rounded-lg">
+		<h3 class="poppins text-lg md:text-xl">{data.title}</h3>
+		<div class="rounded-lg border-3 border-black dark:border-white my-4 h-56">
+			<Image
+				src={data.imgUrl}
+				alt={data.title}
+				width={800}
+				height={400}
+				loading={isInitialLoad ? "eager" : "lazy"}
+				decoding={isInitialLoad ? "sync" : "async"}
+				class="rounded h-full w-full object-cover"
+			/>
+		</div>
+		<p class="poppins dark:text-gray-300">{data.description}</p>
+
+		<div class="flex justify-end my-4">
+			<div
+				class="dark:bg-gray-700 dark:hover:bg-gray-600 rounded-lg transition-colors"
+			>
+				<Button href={`/${post.id}/`}>
+					<span class="text-black dark:text-white">Lire plus &rarr;</span>
+				</Button>
+			</div>
+		</div>
+
+		<div class="hidden sm:inline-block">
+			<div class="flex justify-between items-center">
+				<ul class="flex flex-wrap gap-4 mt-2">
+					{
+						data.tags.map((tag) => (
+							<li>
+								<a class="sanchez" href={`/tag/${tag.toLowerCase()}/`}>
+									<Pill>{tag}</Pill>
+								</a>
+							</li>
+						))
+					}
+				</ul>
+				{
+					data.draft && (
+						<span class="bg-green rounded-full border-2 py-1 px-4 text-sm border-black dark:border-white card-shadow dark:text-white">
+							Brouillon
+						</span>
+					)
+				}
+			</div>
+>>>>>>> Stashed changes
+		</div>
+	</div>
+</Card>
