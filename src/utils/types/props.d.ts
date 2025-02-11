@@ -33,4 +33,9 @@ export interface PostSideBarProps {
 export interface PostContentProps {
 	pubDate: Date;
 	author: string;
+}
+
+export interface FilterTagsProps {
+	mainTags: string[];
+	selectedTags?: string[];
 } 

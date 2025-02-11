@@ -76,21 +76,26 @@ const { color = lightColor, darkColor = darkColorRandom } = Astro.props;
 				? pill.getAttribute("data-dark-color")
 				: pill.getAttribute("data-color");
 
+			// Initialiser la couleur si déjà sélectionné
+			if (input.checked && pill instanceof HTMLElement) {
+				pill.style.setProperty("--selected-color", color);
+			}
+
 			input.addEventListener("change", () => {
 				if (input.checked && pill instanceof HTMLElement) {
 					pill.style.setProperty("--selected-color", color);
+				} else if (pill instanceof HTMLElement) {
+					pill.style.removeProperty("--selected-color");
 				}
 			});
-
-			// Réinitialiser lors du désélection
-			if (!input.checked && pill instanceof HTMLElement) {
-				pill.style.removeProperty("--selected-color");
-			}
 		});
 	}
 
-	// Initialiser après le chargement de la page
+	// Initialiser après le chargement de la page et les transitions
 	document.addEventListener("astro:page-load", setupPillColor);
+
+	// Initialiser après un changement de thème
+	document.addEventListener("theme-changed", setupPillColor);
 
 	// Fallback pour le chargement initial
 	if (document.readyState === "loading") {
