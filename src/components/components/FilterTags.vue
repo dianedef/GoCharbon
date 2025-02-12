@@ -315,7 +315,11 @@ onMounted(() => {
                                 @change="toggleMainTag(tag)"
                             />
                             <a class="sanchez inline-flex items-center">
-                                <Pill :is-selected="selectedMainTags.includes(tag)" :content="tagHierarchy[tag]?.label || tag" :is-filter="true" :class="selectedMainTags.includes(tag) ? 'dark:!bg-active-color' : ''">
+                                <Pill 
+                                    :is-selected="selectedMainTags.includes(tag)" 
+                                    :content="tagHierarchy[tag]?.label || tag" 
+                                    :is-filter="true"
+                                >
                                     {{ tagHierarchy[tag]?.label || tag }}
                                 </Pill>
                             </a>
@@ -344,7 +348,11 @@ onMounted(() => {
                                 @change="toggleSubTag(mainTag, subtagKey)"
                             />
                             <a class="sanchez inline-flex items-center">
-                                <Pill :is-selected="selectedSubTags.includes(subtagKey)" :content="subtag.label" :is-filter="true" :class="selectedSubTags.includes(subtagKey) ? 'dark:!bg-active-color' : ''">
+                                <Pill 
+                                    :is-selected="selectedSubTags.includes(subtagKey)" 
+                                    :content="subtag.label" 
+                                    :is-filter="true"
+                                >
                                     {{ subtag.label }}
                                 </Pill>
                             </a>
@@ -373,7 +381,11 @@ onMounted(() => {
                                         @change="toggleSubSubTag(mainTag, subtagKey, subsubtagKey)"
                                     />
                                     <a class="sanchez inline-flex items-center">
-                                        <Pill :is-selected="selectedSubSubTags.includes(subsubtagKey)" :content="subsubtag.label" :is-filter="true" :class="selectedSubSubTags.includes(subsubtagKey) ? 'dark:!bg-active-color' : ''">
+                                        <Pill 
+                                            :is-selected="selectedSubSubTags.includes(subsubtagKey)" 
+                                            :content="subsubtag.label" 
+                                            :is-filter="true"
+                                        >
                                             {{ subsubtag.label }}
                                         </Pill>
                                     </a>

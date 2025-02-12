@@ -15,6 +15,11 @@ const props = withDefaults(defineProps<Props>(), {
     isFilter: false
 });
 
+const emit = defineEmits<{
+    (e: 'update:isSelected', value: boolean): void;
+    (e: 'toggle'): void;
+}>();
+
 const { randomColor, randomDarkColor, isDarkTheme } = useRandomColor({
     ...props,
     content: props.content
@@ -22,12 +27,19 @@ const { randomColor, randomDarkColor, isDarkTheme } = useRandomColor({
 
 // Calculer la couleur active en fonction du thème
 const activeColor = computed(() => isDarkTheme.value ? randomDarkColor.value : randomColor.value);
+
+// Fonction pour gérer le clic
+function handleClick() {
+    emit('update:isSelected', !props.isSelected);
+    emit('toggle');
+}
 </script>
 
 <template>
     <span 
         :class="[isFilter ? 'brutal-filter-pill' : 'brutal-pill', { 'bg-active-color': isSelected }]"
         :style="{ '--active-color': activeColor }"
+        @click="handleClick"
     >
         <slot></slot>
     </span>
