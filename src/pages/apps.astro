@@ -1,10 +1,11 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Default.astro";
-import FilterTags from "../components/components/FilterTags.astro";
+import FilterTags from "../components/components/FilterTags.vue";
 import PostGrid from "../components/components/PostGrid.astro";
 import { tagHierarchy } from "../components/tagHierarchy";
 import colors from "../components/config/colors.json";
+import type { TagHierarchy } from "../utils/types/tags";
 
 const posts = await getCollection("posts")
 	.then((collection) =>
@@ -24,8 +25,24 @@ const mainTags = Object.keys(tagHierarchy);
 		class="page-background bg-gray-2 dark:bg-gray-8 p-6"
 		transition:name="posts-container"
 	>
-		<FilterTags />
-		<PostGrid posts={posts} showLoadingSpinner={true} />
+		<!-- Zone de contenu dynamique -->
+		<div id="dynamic-content">
+			<!-- Composant Vue pour le filtrage -->
+			<FilterTags
+				client:visible
+				mainTags={mainTags}
+				tagHierarchy={tagHierarchy}
+				initialPosts={posts}
+			/>
+
+			<!-- Rendu SSG initial -->
+			<div id="ssg-content">
+				<PostGrid posts={posts} showLoadingSpinner={false} />
+			</div>
+
+			<!-- Zone pour le contenu dynamique Vue -->
+			<div id="vue-content" class="hidden"></div>
+		</div>
 	</main>
 </Layout>
 

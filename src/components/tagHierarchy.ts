@@ -41,7 +41,7 @@ export const tagHierarchy: TagHierarchy = {
           'Business en Ligne': { label: 'Business en Ligne' }
         }
       },
-      revenue: {
+      revenus: {
         label: 'Revenus',
         subtags: {
           'Revenu Passif': { label: 'Revenu Passif' },
@@ -97,7 +97,7 @@ export const tagHierarchy: TagHierarchy = {
           'Web': { label: 'Web' },
           'WebDev': { label: 'WebDev' },
           'Architecture': { label: 'Architecture' },
-          'Programming': { label: 'Programming' },
+          'Programmation': { label: 'Programmation' },
           'Création de Site Web': { label: 'Création de Site Web' }
         }
       },
@@ -141,7 +141,7 @@ export const tagHierarchy: TagHierarchy = {
           'Scraping': { label: 'Scraping' },
           'Audio': { label: 'Audio' },
           'Matériel': { label: 'Matériel' },
-          'Data': { label: 'Data' },
+          'Données': { label: 'Data' },
           'NLP': { label: 'NLP' },
           'Automatisation': { label: 'Automatisation' },
           'Logiciel': { label: 'Logiciel' },
@@ -157,7 +157,7 @@ export const tagHierarchy: TagHierarchy = {
       }
     }
   },
-  content: {
+  contenu: {
     label: 'Contenu',
     subtags: {
       creation: {
@@ -177,7 +177,7 @@ export const tagHierarchy: TagHierarchy = {
       }
     }
   },
-  seo: {
+  referencement: {
     label: 'SEO',
     subtags: {
       technique: {
@@ -220,7 +220,7 @@ export const tagHierarchy: TagHierarchy = {
       }
     }
   },
-  productivity: {
+  productivite: {
     label: 'Productivité',
     subtags: {
       objectifs: {
@@ -237,12 +237,12 @@ export const tagHierarchy: TagHierarchy = {
           'Décision': { label: 'Décision' }
         }
       },
-      knowledge: {
+      connaissances: {
         label: 'Connaissances',
         subtags: {
           'Connaissance': { label: 'Connaissance' },
           'Influence': { label: 'Influence' },
-          'Retention': { label: 'Retention' }
+          'Rétention': { label: 'Retention' }
         }
       }
     }

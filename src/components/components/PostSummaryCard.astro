@@ -5,6 +5,7 @@ import Button from "./Button.astro";
 import Pill from "./Pill.astro";
 import { Image } from "astro:assets";
 import colors from "../config/colors.json";
+import { normalizeTag } from "../../utils/tags";
 
 interface Props {
 	post: CollectionEntry<"posts">;
@@ -14,7 +15,14 @@ interface Props {
 const { post, index = 0 } = Astro.props;
 const { data } = post;
 const isInitialLoad = index < 15;
-
+/* 
+console.log("PostSummaryCard reçoit:", {
+	postId: post.id,
+	postData: data,
+	index,
+	isInitialLoad,
+});
+ */
 const buttonLightColor =
 	colors.light[Math.floor(Math.random() * colors.light.length)];
 const buttonDarkColor =
@@ -88,7 +96,7 @@ const buttonDarkColor =
 					class="transition-colors hover:bg-gray-100 dark:hover:bg-gray-900 rounded-lg"
 				>
 					<Button
-						href={`/${post.id}/`}
+						href={`/${post.id}`}
 						color={buttonLightColor}
 						darkColor={buttonDarkColor}
 					>
@@ -105,7 +113,9 @@ const buttonDarkColor =
 								<li>
 									<a
 										class="sanchez"
-										href={`/tag/${tag.toLowerCase()}/`}
+										href={`/tag/${encodeURIComponent(
+											normalizeTag(tag),
+										)}`}
 									>
 										<Pill>{tag}</Pill>
 									</a>

@@ -1,23 +1,139 @@
 <!-- FilterTags.vue -->
 <script setup lang="ts">
-import { ref, onMounted, watch } from 'vue';
-import type { TagHierarchy } from '../../utils/types/tags';
+import { ref, onMounted, watch, nextTick } from 'vue';
+import type { TagHierarchy, TagCategory } from '../../utils/types/tags';
 import type { Post, FilterTagsProps, PostsUpdateEvent } from '../../utils/types/content';
+import { useRandomColor } from '../../composables/useRandomColor';
+import Pill from './Pill.vue';
 import colors from '../config/colors.json';
 
-const props = defineProps<{
+interface Props {
     mainTags: string[];
     tagHierarchy: TagHierarchy;
     initialPosts: Post[];
-}>();
+    selectedTags?: string[];
+}
 
-const selectedTags = ref<string[]>([]);
+const props = withDefaults(defineProps<Props>(), {
+    mainTags: () => [],
+    tagHierarchy: () => ({
+        // Structure par défaut minimale
+        default: {
+            label: '',
+            subtags: {}
+        }
+    }),
+    initialPosts: () => [],
+    selectedTags: () => []
+});
+
+// État des tags sélectionnés
+const selectedMainTags = ref<string[]>(props.selectedTags || []);
+const selectedSubTags = ref<string[]>([]);
+const selectedSubSubTags = ref<string[]>([]);
 const posts = ref<Post[]>(props.initialPosts);
 const isLoading = ref(false);
 const currentPage = ref(1);
 const totalPages = ref(1);
 
 let debounceTimer: ReturnType<typeof setTimeout>;
+
+// Fonction pour vérifier si les sous-sous-tags doivent être visibles
+function isSubSubTagsVisible(mainTag: string, subtagKey: string): boolean {
+    return selectedMainTags.value.includes(mainTag) && selectedSubTags.value.includes(subtagKey);
+}
+
+// Gestion des tags principaux
+function toggleMainTag(tag: string) {
+    const index = selectedMainTags.value.indexOf(tag);
+    
+    // Créer une nouvelle référence pour éviter les mises à jour récursives
+    const newSelectedMainTags = [...selectedMainTags.value];
+    const mainTagData = props.tagHierarchy[tag];
+    
+    if (index === -1) {
+        newSelectedMainTags.push(tag);
+    } else {
+        newSelectedMainTags.splice(index, 1);
+        // Nettoyer les sous-tags associés
+        if (mainTagData?.subtags) {
+            const subtagsToRemove = Object.keys(mainTagData.subtags);
+            selectedSubTags.value = selectedSubTags.value.filter(
+                subtag => !subtagsToRemove.includes(subtag)
+            );
+        }
+    }
+    
+    // Mettre à jour la référence une seule fois
+    selectedMainTags.value = newSelectedMainTags;
+    
+    // Mettre à jour les filtres dans le prochain tick
+    nextTick(() => {
+        updateFilters();
+    });
+}
+
+// Gestion des sous-tags
+function toggleSubTag(mainTag: string, subtagKey: string) {
+    const index = selectedSubTags.value.indexOf(subtagKey);
+    if (index === -1) {
+        selectedSubTags.value = [...selectedSubTags.value, subtagKey];
+    } else {
+        selectedSubTags.value = selectedSubTags.value.filter(t => t !== subtagKey);
+        // Nettoyer les sous-sous-tags associés
+        const mainTagData = props.tagHierarchy[mainTag];
+        if (mainTagData?.subtags?.[subtagKey]) {
+            const subtagData = mainTagData.subtags[subtagKey];
+            if (subtagData.subtags) {
+                const subsubtagsToRemove = Object.keys(subtagData.subtags);
+                selectedSubSubTags.value = selectedSubSubTags.value.filter(
+                    subsubtag => !subsubtagsToRemove.includes(subsubtag)
+                );
+            }
+        }
+    }
+    updateFilters();
+}
+
+// Gestion des sous-sous-tags
+function toggleSubSubTag(_mainTag: string, _subtagKey: string, subsubtagKey: string) {
+    const index = selectedSubSubTags.value.indexOf(subsubtagKey);
+    if (index === -1) {
+        selectedSubSubTags.value = [...selectedSubSubTags.value, subsubtagKey];
+    } else {
+        selectedSubSubTags.value = selectedSubSubTags.value.filter(t => t !== subsubtagKey);
+    }
+    updateFilters();
+}
+
+// Fonction pour réinitialiser tous les filtres
+function resetFilters() {
+    selectedMainTags.value = [];
+    selectedSubTags.value = [];
+    selectedSubSubTags.value = [];
+    currentPage.value = 1;
+    loadPosts();
+}
+
+// Mise à jour des filtres et chargement des posts
+function updateFilters() {
+    const allSelectedTags = [
+        ...selectedMainTags.value,
+        ...selectedSubTags.value,
+        ...selectedSubSubTags.value
+    ];
+    
+    if (allSelectedTags.length === 0) {
+        resetFilters();
+        return;
+    }
+    
+    // Éviter les mises à jour multiples
+    if (debounceTimer) clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+        loadPosts();
+    }, 300);
+}
 
 // Émettre les événements pour Astro
 function emitPostsUpdate() {
@@ -47,8 +163,14 @@ async function loadPosts() {
 
         try {
             const params = new URLSearchParams();
-            if (selectedTags.value.length > 0) {
-                params.set('tags', selectedTags.value.join(','));
+            const allSelectedTags = [
+                ...selectedMainTags.value,
+                ...selectedSubTags.value,
+                ...selectedSubSubTags.value
+            ].map(tag => encodeURIComponent(tag.toLowerCase()));
+            
+            if (allSelectedTags.length > 0) {
+                params.set('tags', allSelectedTags.join(','));
             }
             params.set('page', currentPage.value.toString());
             
@@ -60,73 +182,16 @@ async function loadPosts() {
             
             // Émettre les mises à jour
             emit('update:posts', posts.value);
-            emit('update:selectedTags', selectedTags.value);
+            emit('update:selectedTags', allSelectedTags);
             
             // Mise à jour de l'URL sans rechargement
             const url = new URL(window.location.href);
-            if (selectedTags.value.length > 0) {
-                url.searchParams.set('tags', selectedTags.value.join(','));
+            if (allSelectedTags.length > 0) {
+                url.searchParams.set('tags', allSelectedTags.join(','));
             } else {
                 url.searchParams.delete('tags');
             }
             window.history.pushState({}, '', url.toString());
-            
-            // Mettre à jour le contenu Vue
-            const vueContent = document.getElementById('vue-content');
-            if (vueContent) {
-                vueContent.innerHTML = '';
-                const postGrid = document.createElement('div');
-                postGrid.className = 'posts mt-8';
-                postGrid.innerHTML = `
-                    <ul class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 p-4 rounded-lg">
-                        ${posts.value.map(post => `
-                            <li class="post transition-transform hover:scale-[1.02] duration-200">
-                                <div class="p-4 rounded-lg transition-colors dark:bg-black brutal-card">
-                                    <h3 class="post-title poppins text-lg md:text-xl">
-                                        ${post.data.title}
-                                    </h3>
-                                    <div class="post-image-container rounded-lg border-3 my-4 h-56 overflow-hidden">
-                                        <img
-                                            src="${post.data.imgUrl.src}"
-                                            alt="${post.data.title}"
-                                            class="rounded h-full w-full object-cover"
-                                        />
-                                    </div>
-                                    <p class="post-description poppins">
-                                        ${post.data.description}
-                                    </p>
-                                    <div class="flex justify-end my-4">
-                                        <a href="/${post.id}/" class="brutal-btn px-4 py-2">
-                                            <span>Lire plus &rarr;</span>
-                                        </a>
-                                    </div>
-                                    <div class="hidden sm:inline-block">
-                                        <div class="flex justify-between items-center">
-                                            <ul class="flex flex-wrap gap-4 mt-2">
-                                                ${post.data.tags.map(tag => `
-                                                    <li>
-                                                        <a class="sanchez" href="/tag/${tag.toLowerCase()}/">
-                                                            <span class="text-sm bg-gray-200 dark:bg-gray-700 px-2 py-1 rounded">
-                                                                ${tag}
-                                                            </span>
-                                                        </a>
-                                                    </li>
-                                                `).join('')}
-                                            </ul>
-                                            ${post.data.draft ? `
-                                                <span class="draft-badge bg-green rounded-full border-2 py-1 px-4 text-sm card-shadow">
-                                                    Brouillon
-                                                </span>
-                                            ` : ''}
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        `).join('')}
-                    </ul>
-                `;
-                vueContent.appendChild(postGrid);
-            }
         } catch (error) {
             console.error('Erreur lors du chargement des posts:', error);
             posts.value = [];
@@ -137,23 +202,13 @@ async function loadPosts() {
     }, 300);
 }
 
-function toggleTag(tag: string) {
-    const index = selectedTags.value.indexOf(tag);
-    if (index === -1) {
-        // Si c'est un tag principal unique, rediriger
-        if (props.mainTags.includes(tag) && selectedTags.value.length === 0) {
-            window.location.href = `/${tag}/1`;
-            return;
-        }
-        selectedTags.value.push(tag);
-    } else {
-        selectedTags.value.splice(index, 1);
+// Surveillance des changements de tags
+watch([selectedMainTags, selectedSubTags, selectedSubSubTags], () => {
+    // Réinitialiser la page uniquement si on n'est pas déjà en train de charger
+    if (!isLoading.value) {
+        currentPage.value = 1;
+        updateFilters();
     }
-}
-
-watch(selectedTags, () => {
-    currentPage.value = 1; // Réinitialiser la page lors du changement de filtres
-    loadPosts();
 }, { deep: true });
 
 // Initialisation
@@ -162,7 +217,31 @@ onMounted(() => {
     const urlParams = new URLSearchParams(window.location.search);
     const urlTags = urlParams.get('tags');
     if (urlTags) {
-        selectedTags.value = urlTags.split(',');
+        const tags = urlTags.split(',');
+        // Trier les tags dans les bonnes catégories
+        tags.forEach(tag => {
+            if (props.mainTags.includes(tag)) {
+                selectedMainTags.value.push(tag);
+            } else {
+                // Vérifier si c'est un sous-tag ou un sous-sous-tag
+                for (const mainTag of props.mainTags) {
+                    const mainTagData = props.tagHierarchy[mainTag];
+                    if (mainTagData?.subtags && Object.keys(mainTagData.subtags).includes(tag)) {
+                        selectedSubTags.value.push(tag);
+                        return;
+                    }
+                    // Vérifier les sous-sous-tags
+                    if (mainTagData?.subtags) {
+                        for (const [subtagKey, subtag] of Object.entries(mainTagData.subtags)) {
+                            if (subtag.subtags && Object.keys(subtag.subtags).includes(tag)) {
+                                selectedSubSubTags.value.push(tag);
+                                return;
+                            }
+                        }
+                    }
+                }
+            }
+        });
         loadPosts();
     }
 });
@@ -170,6 +249,7 @@ onMounted(() => {
 
 <template>
     <div class="tags-filter space-y-4">
+        <!-- Tags principaux -->
         <div>
             <ul class="flex flex-wrap gap-4 justify-center">
                 <li v-for="tag in mainTags" :key="tag">
@@ -180,61 +260,120 @@ onMounted(() => {
                             :value="tag"
                             class="hidden main-tag-checkbox"
                             :data-category="tag"
-                            v-model="selectedTags"
-                            @change="toggleTag(tag)"
+                            :checked="selectedMainTags.includes(tag)"
+                            @change="toggleMainTag(tag)"
                         />
                         <a class="sanchez inline-flex items-center pill-container">
-                            <span class="brutal-pill">{{ tagHierarchy[tag]?.label || tag }}</span>
+                            <Pill :is-selected="selectedMainTags.includes(tag)" :content="tagHierarchy[tag]?.label || tag">
+                                {{ tagHierarchy[tag]?.label || tag }}
+                            </Pill>
                         </a>
                     </label>
                 </li>
             </ul>
         </div>
+
+        <!-- Sous-tags niveau 2 -->
+        <div v-for="mainTag in mainTags" 
+             :key="mainTag"
+             class="subtags-container"
+             :class="{ 'hidden': !selectedMainTags.includes(mainTag) }"
+             :data-parent="mainTag">
+            <ul class="flex flex-wrap gap-4 justify-center">
+                <li v-for="[subtagKey, subtag] in Object.entries(tagHierarchy[mainTag]?.subtags || {})"
+                    :key="subtagKey">
+                    <label class="cursor-pointer">
+                        <input
+                            type="checkbox"
+                            name="subtag-filter"
+                            :value="subtagKey"
+                            :data-parent="mainTag"
+                            class="hidden subtag-checkbox"
+                            v-model="selectedSubTags"
+                            @change="toggleSubTag(mainTag, subtagKey)"
+                        />
+                        <a class="sanchez inline-flex items-center pill-container">
+                            <Pill :is-selected="selectedSubTags.includes(subtagKey)" :content="subtag.label">
+                                {{ subtag.label }}
+                            </Pill>
+                        </a>
+                    </label>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Sous-tags niveau 3 -->
+        <div v-for="mainTag in mainTags" :key="`level3-${mainTag}`">
+            <template v-for="[subtagKey, subtag] in Object.entries(tagHierarchy[mainTag]?.subtags || {})" :key="subtagKey">
+                <div class="subsubtags-container"
+                     :class="{ 'hidden': !isSubSubTagsVisible(mainTag, subtagKey) }"
+                     :data-parent="`${mainTag}-${subtagKey}`">
+                    <ul class="flex flex-wrap gap-4 justify-center">
+                        <li v-for="[subsubtagKey, subsubtag] in Object.entries(subtag.subtags || {})"
+                            :key="subsubtagKey">
+                            <label class="cursor-pointer">
+                                <input
+                                    type="checkbox"
+                                    name="subsubtag-filter"
+                                    :value="subsubtagKey"
+                                    :data-parent="`${mainTag}-${subtagKey}`"
+                                    class="hidden subsubtag-checkbox"
+                                    v-model="selectedSubSubTags"
+                                    @change="toggleSubSubTag(mainTag, subtagKey, subsubtagKey)"
+                                />
+                                <a class="sanchez inline-flex items-center pill-container">
+                                    <Pill :is-selected="selectedSubSubTags.includes(subsubtagKey)" :content="subsubtag.label">
+                                        {{ subsubtag.label }}
+                                    </Pill>
+                                </a>
+                            </label>
+                        </li>
+                    </ul>
+                </div>
+            </template>
+        </div>
     </div>
 </template>
 
-<style>
-:root {
-    --softWhite: #f5f5f5;
+<style scoped>
+.tags-filter {
+    transition: all 0.3s ease-out;
 }
 
-.brutal-pill {
-    filter: drop-shadow(3px 3px 0 rgb(0 0 0 / 1));
-    user-select: none;
-    background-color: white;
-    border-radius: 9999px;
-    border: 2px solid black;
-    padding: 0.25rem 0.75rem;
-    transition: all 0.3s ease-in-out;
-    font-size: small;
-    transform: scale(1.5);
-    margin-bottom: 0.5rem;
+.subtags-container,
+.subsubtags-container {
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: all 0.3s ease-out;
 }
 
-.brutal-pill:hover {
-    filter: drop-shadow(5px 5px 0 rgb(0 0 0 / 1));
-    transform: scale(1.5) translateX(-15px);
+.subtags-container:not(.hidden),
+.subsubtags-container:not(.hidden) {
+    opacity: 1;
+    transform: translateY(0);
 }
 
-:global(.dark) .brutal-pill {
-    background-color: black;
-    border-color: var(--softWhite);
-    color: var(--softWhite);
-    filter: drop-shadow(3px 3px 0 rgb(255 255 255 / 1));
+/* Animation de transition pour les conteneurs */
+.animate-container {
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: all 0.3s ease-out;
 }
 
-:global(.dark) .brutal-pill:hover {
-    filter: drop-shadow(5px 5px 0 rgb(255 255 255 / 1));
+.animate-container:not(.hidden) {
+    opacity: 1;
+    transform: translateY(0);
 }
 
-input:checked + a .brutal-pill {
-    background-color: black;
-    color: white;
+/* Animation pour le chargement */
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity 0.3s ease;
 }
 
-:global(.dark) input:checked + a .brutal-pill {
-    background-color: white;
-    color: black;
+.fade-enter-from,
+.fade-leave-to {
+    opacity: 0;
 }
 
 .loading-spinner {
@@ -251,35 +390,42 @@ input:checked + a .brutal-pill {
     100% { transform: rotate(360deg); }
 }
 
-.brutal-card {
-    border: 2px solid black;
+.infinite-hidden {
+    display: none;
+}
+
+/* Transformations spécifiques aux pills dans le filtre */
+:deep(.brutal-pill) {
+    transform: scale(1.5);
+    margin: 0.25rem;
+}
+
+:deep(.brutal-pill:hover) {
+    transform: scale(1.5) translateX(-15px) rotate(-10deg);
+}
+
+:deep(input:checked + a .brutal-pill) {
+    transform: scale(1.5) translateY(-5px);
+}
+
+:deep(input:checked + a .brutal-pill:hover) {
+    transform: scale(1.5) translateY(-5px);
+}
+
+/* Ombres */
+.light :deep(.brutal-pill) {
     filter: drop-shadow(3px 3px 0 rgb(0 0 0 / 1));
 }
 
-:global(.dark) .brutal-card {
-    border-color: var(--softWhite);
-    filter: drop-shadow(3px 3px 0 rgb(255 255 255 / 1));
-}
-
-.brutal-btn {
-    border: 2px solid black;
-    background-color: white;
-    color: black;
-    transition: all 0.3s ease-in-out;
-}
-
-.brutal-btn:hover {
-    transform: translate(-2px, -2px);
+.light :deep(.brutal-pill:hover) {
     filter: drop-shadow(5px 5px 0 rgb(0 0 0 / 1));
 }
 
-:global(.dark) .brutal-btn {
-    border-color: var(--softWhite);
-    background-color: black;
-    color: var(--softWhite);
+:global(.dark) :deep(.brutal-pill) {
+    filter: drop-shadow(3px 3px 0 var(--softWhite));
 }
 
-:global(.dark) .brutal-btn:hover {
-    filter: drop-shadow(5px 5px 0 rgb(255 255 255 / 1));
+:global(.dark) :deep(.brutal-pill:hover) {
+    filter: drop-shadow(5px 5px 0 var(--softWhite));
 }
 </style> 

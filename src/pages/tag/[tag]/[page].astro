@@ -4,7 +4,6 @@ import Layout from "../../layouts/Default.astro";
 import FilterTags from "../../components/components/FilterTags.vue";
 import PostGrid from "../../components/components/PostGrid.astro";
 import { tagHierarchy } from "../../components/tagHierarchy";
-import { normalizeTag } from "../../utils/tags";
 
 export async function getStaticPaths() {
 	const allPosts = await getCollection("posts");
@@ -13,25 +12,27 @@ export async function getStaticPaths() {
 	const allTags = new Set<string>();
 	allPosts.forEach((post) => {
 		post.data.tags.forEach((tag) => {
-			allTags.add(tag);
+			allTags.add(tag.toLowerCase());
 		});
 	});
 
 	const paths = [];
 
 	for (const tag of allTags) {
-		const normalizedTag = normalizeTag(tag);
+		const safeTag = encodeURIComponent(tag.toLowerCase());
 		const filteredPosts = allPosts
 			.filter((post) =>
-				post.data.tags.some((t) => normalizeTag(t) === normalizedTag),
+				post.data.tags
+					.map((t) => t.toLowerCase())
+					.includes(tag.toLowerCase()),
 			)
 			.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 
 		paths.push({
-			params: { tag: normalizedTag },
+			params: { tag: safeTag },
 			props: {
 				posts: filteredPosts,
-				originalTag: tag,
+				tag,
 			},
 		});
 	}
@@ -39,17 +40,18 @@ export async function getStaticPaths() {
 	return paths;
 }
 
-const { posts, originalTag } = Astro.props;
+const { tag: encodedTag, posts } = Astro.props;
+const tag = decodeURIComponent(encodedTag);
 const mainTags = Object.keys(tagHierarchy);
-const selectedTags = [originalTag];
+const selectedTags = [tag];
 ---
 
 <Layout
-	title={`Posts - ${tagHierarchy[originalTag]?.label || originalTag}`}
+	title={`Posts - ${tagHierarchy[tag]?.label || tag}`}
 	description={`Web'Indé | Posts tagged with ${
-		tagHierarchy[originalTag]?.label || originalTag
+		tagHierarchy[tag]?.label || tag
 	}`}
-	pageTitle={`Posts - ${tagHierarchy[originalTag]?.label || originalTag}`}
+	pageTitle={`Posts - ${tagHierarchy[tag]?.label || tag}`}
 	metaRobots="index, follow"
 >
 	<main
@@ -75,8 +77,7 @@ const selectedTags = [originalTag];
 				</div>
 			) : (
 				<p class="text-center py-10">
-					Aucun post trouvé pour le tag{" "}
-					{tagHierarchy[originalTag]?.label || originalTag}
+					Aucun post trouvé pour le tag {tagHierarchy[tag]?.label || tag}
 				</p>
 			)
 		}

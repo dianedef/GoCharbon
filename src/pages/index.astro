@@ -1,110 +1,57 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Default.astro";
-import FilterTags from "../components/components/FilterTags.astro";
+import FilterTags from "../components/components/FilterTags.vue";
 import PostGrid from "../components/components/PostGrid.astro";
 import { tagHierarchy } from "../components/tagHierarchy";
-import colors from "../components/config/colors.json";
+import type { Post, PostsUpdateEvent } from "../utils/types/content";
 
-const ITEMS_PER_PAGE = 15;
-const page = Number(Astro.url.searchParams.get("page") || "1");
-const selectedTags = (Astro.url.searchParams.get("tags") || "")
-	.split(",")
-	.filter(Boolean);
-const start = (page - 1) * ITEMS_PER_PAGE;
-
+// Récupération des posts initiaux pour le SSG
 const allPosts = await getCollection("posts");
-let filteredPosts = allPosts;
-
-// Appliquer les filtres si des tags sont sélectionnés
-if (selectedTags.length > 0) {
-	filteredPosts = allPosts.filter((post) =>
-		selectedTags.some((tag) =>
-			post.data.tags.map((t) => t.toLowerCase()).includes(tag.toLowerCase()),
-		),
-	);
-}
-
-const totalPosts = filteredPosts.length;
-const totalPages = Math.ceil(totalPosts / ITEMS_PER_PAGE);
-
-const posts = filteredPosts.reverse().slice(start, start + ITEMS_PER_PAGE);
+const initialPosts = allPosts
+	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+	.slice(0, 15);
 
 const mainTags = Object.keys(tagHierarchy);
-
-// Meta robots : n'indexer que la première page sans filtres
-const metaRobots =
-	page === 1 && selectedTags.length === 0
-		? "index, follow"
-		: "noindex, follow";
+const totalPages = Math.ceil(allPosts.length / 15);
 ---
 
-<Layout
-	title="Posts"
-	description="Web'Indé | On this page you can find a collection of posts"
-	pageTitle="Web'Indé Posts"
-	metaRobots={metaRobots}
->
-	<main
-		class="page-background bg-gray-2 dark:bg-gray-8 p-6"
-		transition:name="posts-container"
-	>
-		<FilterTags mainTags={mainTags} selectedTags={selectedTags} />
-		<div id="current-page" data-page={page} class="hidden"></div>
-		<div id="total-pages" data-total={totalPages} class="hidden"></div>
-		<div id="selected-tags" data-tags={selectedTags.join(",")} class="hidden">
+<Layout title="Posts" description="Web'Indé |" pageTitle="Web'Indé Posts">
+	<main class="page-background bg-gray-2 dark:bg-gray-8 p-6">
+		<!-- Zone de contenu dynamique -->
+		<div id="dynamic-content">
+			<!-- Composant Vue pour le filtrage -->
+			<FilterTags
+				client:visible
+				mainTags={mainTags}
+				tagHierarchy={tagHierarchy}
+				initialPosts={initialPosts}
+			/>
+
+			<!-- Rendu SSG initial -->
+			<div id="ssg-content">
+				<PostGrid
+					posts={initialPosts}
+					showLoadingSpinner={false}
+					currentPage={1}
+					totalPages={totalPages}
+				/>
+			</div>
+
+			<!-- Zone pour le contenu dynamique -->
+			<div id="vue-content" class="hidden">
+				<div id="loading-spinner" class="flex justify-center mt-8 hidden">
+					<div class="loading-spinner"></div>
+				</div>
+				<div id="posts-container"></div>
+			</div>
 		</div>
-		<PostGrid
-			posts={posts}
-			showLoadingSpinner={true}
-			currentPage={page}
-			totalPages={totalPages}
-		/>
 	</main>
 </Layout>
-
-<script>
-	import colors from "../components/config/colors.json";
-
-	function setRandomBackgroundColor() {
-		const isDark = document.documentElement.classList.contains("dark");
-		const colorArray = isDark ? colors.dark : colors.light;
-		const randomColor =
-			colorArray[Math.floor(Math.random() * colorArray.length)];
-
-		const element = document.querySelector(".page-background") as HTMLElement;
-		element?.style.setProperty("background-color", randomColor);
-	}
-
-	// Initialiser la couleur au chargement
-	document.addEventListener("astro:page-load", setRandomBackgroundColor);
-
-	// Changer la couleur quand le thème change
-	document.addEventListener("theme-changed", setRandomBackgroundColor);
-</script>
 
 <style>
 	.page-background {
 		transition: background-color 0.3s ease;
-	}
-
-	.hidden {
-		display: none;
-	}
-
-	.pill-container :global(.brutal-pill) {
-		transform: scale(1.5);
-		margin-bottom: 0.5rem;
-		transition: transform 0.2s ease-in-out;
-	}
-
-	.pill-container:hover :global(.brutal-pill) {
-		transform: scale(1.5) translateX(-15px);
-	}
-
-	input:checked + a :global(.brutal-pill) {
-		background-color: black;
-		color: white;
 	}
 
 	.loading-spinner {
@@ -125,95 +72,111 @@ const metaRobots =
 		}
 	}
 
-	::view-transition-old(*),
-	::view-transition-new(*) {
-		animation-duration: 0.3s;
-		animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	.hidden {
+		display: none;
 	}
 </style>
 
 <script>
-	let currentPage = Number(
-		document.querySelector("#current-page")?.getAttribute("data-page") || "1",
-	);
-	const totalPages = Number(
-		document.querySelector("#total-pages")?.getAttribute("data-total") || "1",
-	);
-	const selectedTags = (
-		document.querySelector("#selected-tags")?.getAttribute("data-tags") || ""
-	)
-		.split(",")
-		.filter(Boolean);
-	let isLoading = false;
-
-	// Créer l'observer
-	const observer = new IntersectionObserver(
-		(entries) => {
-			entries.forEach((entry) => {
-				if (
-					entry.isIntersecting &&
-					!isLoading &&
-					currentPage < totalPages
-				) {
-					loadNextPage();
-				}
-			});
-		},
-		{
-			rootMargin: "100px",
-			threshold: 0,
-		},
-	);
-
-	async function loadNextPage() {
-		isLoading = true;
-		const nextPage = currentPage + 1;
-		const tagsParam =
-			selectedTags.length > 0 ? `&tags=${selectedTags.join(",")}` : "";
-
-		try {
-			const response = await fetch(`/?page=${nextPage}${tagsParam}`);
-			const text = await response.text();
-
-			const parser = new DOMParser();
-			const doc = parser.parseFromString(text, "text/html");
-			const newPosts = doc.querySelectorAll(".post");
-
-			const postsContainer = document.querySelector(".posts-container");
-			newPosts.forEach((post) => {
-				postsContainer?.appendChild(post.cloneNode(true));
-			});
-
-			currentPage = nextPage;
-
-			if (currentPage < totalPages) {
-				const lastPost = postsContainer?.querySelector(".post:last-child");
-				if (lastPost) observer.observe(lastPost);
-			}
-		} catch (error) {
-			console.error("Erreur lors du chargement de la page suivante:", error);
-		} finally {
-			isLoading = false;
-		}
-	}
-
-	// Gestion des filtres
 	document.addEventListener("astro:page-load", () => {
-		const filterForm = document.querySelector("form");
-		if (filterForm) {
-			filterForm.addEventListener("submit", (e) => {
-				e.preventDefault();
-				const formData = new FormData(filterForm);
-				const selectedTags = Array.from(formData.getAll("tags"));
-				const tagsParam =
-					selectedTags.length > 0 ? `?tags=${selectedTags.join(",")}` : "";
-				window.location.href = `/${tagsParam}`;
-			});
-		}
+		const ssgContent = document.getElementById("ssg-content");
+		const vueContent = document.getElementById("vue-content");
+		const loadingSpinner = document.getElementById("loading-spinner");
+		const postsContainer = document.getElementById("posts-container");
 
-		const lastPost = document.querySelector(".post:last-child");
-		if (lastPost && currentPage < totalPages) {
-			observer.observe(lastPost);
-		}
+		if (!ssgContent || !vueContent || !loadingSpinner || !postsContainer)
+			return;
+
+		// Écouter l'événement de mise à jour des posts
+		window.addEventListener("posts-updated", ((event: PostsUpdateEvent) => {
+			const { posts, isLoading, currentPage, totalPages } = event.detail;
+
+			if (isLoading) {
+				// Cacher le contenu SSG et afficher le spinner
+				ssgContent.classList.add("hidden");
+				vueContent.classList.remove("hidden");
+				loadingSpinner.classList.remove("hidden");
+				postsContainer.classList.add("hidden");
+			} else {
+				// Cacher le spinner
+				loadingSpinner.classList.add("hidden");
+
+				if (posts.length === 0) {
+					// Afficher le message "aucun post trouvé"
+					postsContainer.classList.remove("hidden");
+					postsContainer.innerHTML = `
+					<p class="text-center py-10">Aucun post trouvé</p>
+				`;
+			} else {
+					// Afficher les posts avec PostGrid
+					postsContainer.classList.remove("hidden");
+					// Note: Ici nous devrions idéalement utiliser PostGrid.astro,
+					// mais comme nous ne pouvons pas l'utiliser directement dans du JS,
+					// nous devons recréer sa structure
+					postsContainer.innerHTML = `
+						<div class="posts mt-8">
+							<ul class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 p-4 rounded-lg">
+								${posts
+									.map(
+										(post) => `
+									<li class="post transition-transform hover:scale-[1.02] duration-200">
+										<div class="p-4 rounded-lg transition-colors dark:bg-black brutal-card">
+											<h3 class="post-title poppins text-lg md:text-xl">
+												${post.data.title}
+											</h3>
+											<div class="post-image-container rounded-lg border-3 my-4 h-56 overflow-hidden">
+												<img
+													src="${post.data.imgUrl.src}"
+													alt="${post.data.title}"
+													class="rounded h-full w-full object-cover"
+												/>
+											</div>
+											<p class="post-description poppins">
+												${post.data.description}
+											</p>
+											<div class="flex justify-end my-4">
+												<a href="/${post.id}" class="brutal-btn px-4 py-2">
+													<span>Lire plus &rarr;</span>
+												</a>
+											</div>
+											<div class="hidden sm:inline-block">
+												<div class="flex justify-between items-center">
+													<ul class="flex flex-wrap gap-4 mt-2">
+														${post.data.tags
+															.map(
+																(tag) => `
+															<li>
+																<a class="sanchez" href="/tag/${tag.toLowerCase()}/1">
+																	<span class="text-sm bg-gray-200 dark:bg-gray-700 px-2 py-1 rounded">
+																		${tag}
+																	</span>
+																</a>
+															</li>
+														`,
+															)
+															.join("")}
+													</ul>
+													${
+														post.data.draft
+															? `
+														<span class="draft-badge bg-green rounded-full border-2 py-1 px-4 text-sm card-shadow">
+															Brouillon
+														</span>
+													`
+															: ""
+													}
+												</div>
+											</div>
+										</div>
+									</li>
+								`,
+									)
+									.join("")}
+							</ul>
+						</div>
+					`;
+				}
+			}
+		}) as EventListener);
 	});
 </script>
