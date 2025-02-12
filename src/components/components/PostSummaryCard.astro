@@ -1,5 +1,5 @@
 ---
-import type { CollectionEntry } from "astro:content";
+import type { PostSummaryCardProps } from "../../utils/types/content";
 import Card from "./Card.astro";
 import Button from "./Button.astro";
 import Pill from "./Pill.astro";
@@ -7,10 +7,7 @@ import { Image } from "astro:assets";
 import colors from "../config/colors.json";
 import { normalizeTag } from "../../utils/tags";
 
-interface Props {
-	post: CollectionEntry<"posts">;
-	index?: number;
-}
+type Props = PostSummaryCardProps;
 
 const { post, index = 0 } = Astro.props;
 const { data } = post;

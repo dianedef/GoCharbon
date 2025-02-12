@@ -58,8 +58,7 @@ watch(() => props.isSelected, (newValue) => {
     --softWhite: #FFD35AD9;
 }
 
-/* Styles de base pour la pill */
-.custom-brutal-pill {
+.vue-brutal-pill {
     background-color: var(--background-color, white);
     border-radius: 9999px;
     border: 2px solid currentColor;
@@ -71,24 +70,24 @@ watch(() => props.isSelected, (newValue) => {
     user-select: none;
 }
 
-.custom-brutal-pill:hover {
+.vue-brutal-pill:hover {
     background-color: var(--color);
 }
 
-.custom-brutal-pill.selected {
+.vue-brutal-pill.selected {
     background-color: var(--selected-color, var(--color));
 }
 
-:global(.dark) .custom-brutal-pill {
+:global(.dark) .vue-brutal-pill {
     background-color: var(--background-color, black);
     color: var(--softWhite);
 }
 
-:global(.dark) .custom-brutal-pill:hover {
+:global(.dark) .vue-brutal-pill:hover {
     background-color: var(--color);
 }
 
-:global(.dark) .custom-brutal-pill.selected {
+:global(.dark) .vue-brutal-pill.selected {
     background-color: var(--selected-color, var(--color));
 }
 

@@ -38,6 +38,25 @@ const totalPages = ref(1);
 
 let debounceTimer: ReturnType<typeof setTimeout>;
 
+// Émettre les événements pour Astro
+function emitPostsUpdate() {
+    const event = new CustomEvent("posts-updated", {
+        detail: {
+            posts: posts.value,
+            isLoading: isLoading.value,
+            currentPage: currentPage.value,
+            totalPages: totalPages.value
+        }
+    }) as PostsUpdateEvent;
+    window.dispatchEvent(event);
+}
+
+// Émettre les événements pour Vue
+const emit = defineEmits<{
+    (event: 'update:selectedTags', value: string[]): void;
+    (event: 'update:posts', value: Post[]): void;
+}>();
+
 // Fonction pour vérifier si les sous-sous-tags doivent être visibles
 function isSubSubTagsVisible(mainTag: string, subtagKey: string): boolean {
     return selectedMainTags.value.includes(mainTag) && selectedSubTags.value.includes(subtagKey);
@@ -61,13 +80,24 @@ function toggleMainTag(tag: string) {
             selectedSubTags.value = selectedSubTags.value.filter(
                 subtag => !subtagsToRemove.includes(subtag)
             );
+            
+            // Nettoyer aussi les sous-sous-tags associés
+            selectedSubSubTags.value = selectedSubSubTags.value.filter(subsubtag => {
+                for (const subtag of subtagsToRemove) {
+                    const subtagData = mainTagData?.subtags?.[subtag];
+                    if (subtagData?.subtags?.[subsubtag]) {
+                        return false;
+                    }
+                }
+                return true;
+            });
         }
     }
     
     // Mettre à jour la référence une seule fois
     selectedMainTags.value = newSelectedMainTags;
     
-    // Mettre à jour les filtres dans le prochain tick
+    // Forcer une mise à jour immédiate du DOM
     nextTick(() => {
         updateFilters();
     });
@@ -135,25 +165,7 @@ function updateFilters() {
     }, 300);
 }
 
-// Émettre les événements pour Astro
-function emitPostsUpdate() {
-    const event = new CustomEvent("posts-updated", {
-        detail: {
-            posts: posts.value,
-            isLoading: isLoading.value,
-            currentPage: currentPage.value,
-            totalPages: totalPages.value
-        }
-    }) as PostsUpdateEvent;
-    window.dispatchEvent(event);
-}
-
-// Émettre les événements pour Vue
-const emit = defineEmits<{
-    (event: 'update:selectedTags', value: string[]): void;
-    (event: 'update:posts', value: Post[]): void;
-}>();
-
+// Modification de la fonction loadPosts
 async function loadPosts() {
     if (debounceTimer) clearTimeout(debounceTimer);
     
@@ -162,36 +174,73 @@ async function loadPosts() {
         emitPostsUpdate();
 
         try {
-            const params = new URLSearchParams();
             const allSelectedTags = [
                 ...selectedMainTags.value,
                 ...selectedSubTags.value,
                 ...selectedSubSubTags.value
-            ].map(tag => encodeURIComponent(tag.toLowerCase()));
+            ];
             
-            if (allSelectedTags.length > 0) {
-                params.set('tags', allSelectedTags.join(','));
+            if (allSelectedTags.length === 0) {
+                posts.value = props.initialPosts;
+                return;
             }
-            params.set('page', currentPage.value.toString());
-            
-            const response = await fetch(`/api/filter-posts.json?${params}`);
-            const data = await response.json();
-            
-            posts.value = data.posts;
-            totalPages.value = data.totalPages;
-            
-            // Émettre les mises à jour
-            emit('update:posts', posts.value);
-            emit('update:selectedTags', allSelectedTags);
-            
-            // Mise à jour de l'URL sans rechargement
-            const url = new URL(window.location.href);
-            if (allSelectedTags.length > 0) {
-                url.searchParams.set('tags', allSelectedTags.join(','));
+
+            let response;
+            let data;
+
+            // Si un seul tag principal est sélectionné, utiliser l'API statique
+            if (allSelectedTags.length === 1 && selectedMainTags.value.length === 1) {
+                const mainTag = selectedMainTags.value[0];
+                response = await fetch(`/api/tags/${mainTag}.json`);
+                data = await response.json();
+                
+                if (response.ok) {
+                    posts.value = data.posts;
+                    totalPages.value = Math.ceil(data.posts.length / 15);
+                    console.log('Réponse depuis l\'API statique des tags principaux');
+                }
+            } 
+            // Sinon, utiliser l'API de filtrage
+            else {
+                const params = new URLSearchParams();
+                allSelectedTags.forEach(tag => {
+                    params.append('tags', tag.toLowerCase());
+                });
+                params.set('page', currentPage.value.toString());
+                params.set('perPage', '15');
+
+                response = await fetch(`/api/filter-posts.json?${params}`);
+                data = await response.json();
+
+                if (response.ok) {
+                    posts.value = data.posts;
+                    totalPages.value = Math.ceil(data.posts.length / 15);
+                    
+                    if (data.isStatic) {
+                        console.log('Réponse depuis une combinaison pré-générée');
+                    } else {
+                        console.log('Réponse depuis le filtrage dynamique');
+                    }
+                }
+            }
+
+            if (response.ok) {
+                // Émettre les mises à jour
+                emit('update:posts', posts.value);
+                emit('update:selectedTags', allSelectedTags);
+
+                // Mise à jour de l'URL sans rechargement
+                const url = new URL(window.location.href);
+                if (allSelectedTags.length > 0) {
+                    url.searchParams.set('tags', allSelectedTags.join(','));
+                } else {
+                    url.searchParams.delete('tags');
+                }
+                window.history.pushState({}, '', url.toString());
             } else {
-                url.searchParams.delete('tags');
+                console.error('Erreur lors du chargement des posts:', data?.error);
+                posts.value = [];
             }
-            window.history.pushState({}, '', url.toString());
         } catch (error) {
             console.error('Erreur lors du chargement des posts:', error);
             posts.value = [];
@@ -402,14 +451,17 @@ onMounted(() => {
 
 :deep(.vue-brutal-pill:hover) {
     transform: scale(1.5) translateX(-15px) rotate(-10deg);
+    background-color: var(--active-color) !important;
 }
 
 :deep(input:checked + a .vue-brutal-pill) {
     transform: scale(1.5) translateY(-5px);
+    background-color: var(--active-color) !important;
 }
 
 :deep(input:checked + a .vue-brutal-pill:hover) {
     transform: scale(1.5) translateY(-5px);
+    background-color: var(--active-color) !important;
 }
 
 /* Ombres */

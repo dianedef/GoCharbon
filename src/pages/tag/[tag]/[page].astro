@@ -1,9 +1,19 @@
 ---
 import { getCollection } from "astro:content";
-import Layout from "../../layouts/Default.astro";
-import FilterTags from "../../components/components/FilterTags.vue";
-import PostGrid from "../../components/components/PostGrid.astro";
-import { tagHierarchy } from "../../components/tagHierarchy";
+import Layout from "../../../layouts/Default.astro";
+import FilterTags from "../../../components/components/FilterTags.vue";
+import PostGrid from "../../../components/components/PostGrid.astro";
+import { tagHierarchy } from "../../../components/tagHierarchy";
+import type { Post, PostsUpdateEvent } from "../../../utils/types/content";
+
+// Récupération des posts initiaux pour le SSG
+const allPosts = await getCollection("posts");
+const initialPosts = allPosts
+	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+	.slice(0, 15);
+
+const mainTags = Object.keys(tagHierarchy);
+const totalPages = Math.ceil(allPosts.length / 15);
 
 export async function getStaticPaths() {
 	const allPosts = await getCollection("posts");
@@ -42,7 +52,6 @@ export async function getStaticPaths() {
 
 const { tag: encodedTag, posts } = Astro.props;
 const tag = decodeURIComponent(encodedTag);
-const mainTags = Object.keys(tagHierarchy);
 const selectedTags = [tag];
 ---
 
@@ -85,7 +94,7 @@ const selectedTags = [tag];
 </Layout>
 
 <script>
-	import colors from "../../components/config/colors.json";
+	import colors from "../../../components/config/colors.json";
 
 	function setRandomBackgroundColor() {
 		const isDark = document.documentElement.classList.contains("dark");

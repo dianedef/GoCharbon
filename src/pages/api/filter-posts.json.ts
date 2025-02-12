@@ -1,64 +1,62 @@
 import type { APIRoute } from 'astro';
-import { getCollection, type CollectionEntry } from "astro:content";
+import { getFilteredPosts, isCommonCombination } from '../../utils/static-responses';
+import { commonCombinations, cacheConfig } from '../../config/tags';
 
-export const GET: APIRoute = async ({ url }) => {
+// Pré-générer les routes pour les combinaisons courantes
+export async function getStaticPaths() {
+    return commonCombinations.map(combo => ({
+        params: { tags: combo.join(',') },
+        props: { isCommonCombo: true }
+    }));
+}
+
+export const GET: APIRoute = async ({ url, props }) => {
     try {
-        // Validation et nettoyage des paramètres
-        const tagsParam = url.searchParams.get("tags");
-        const selectedTags = tagsParam ? tagsParam.split(",").filter(tag => tag.trim().length > 0).map(tag => tag.toLowerCase()) : [];
-        const pageParam = url.searchParams.get("page");
-        const page = pageParam && !isNaN(Number(pageParam)) ? Math.max(1, Number(pageParam)) : 1;
-        const ITEMS_PER_PAGE = 15;
+        // Récupérer les paramètres de l'URL
+        const searchParams = url.searchParams;
+        const tags = searchParams.getAll('tags').map(tag => tag.toLowerCase());
+        const page = parseInt(searchParams.get('page') || '1');
+        const perPage = parseInt(searchParams.get('perPage') || '15');
 
-        // Récupération et tri des posts
-        const allPosts = await getCollection("posts");
-        const sortedPosts = allPosts.sort((a, b) => 
-            b.data.pubDate.getTime() - a.data.pubDate.getTime()
-        );
-        
-        // Filtrage avec validation des tags
-        const filteredPosts = selectedTags.length > 0 
-            ? sortedPosts.filter(post => {
-                const postTags = post.data.tags.map(t => t.toLowerCase());
-                return selectedTags.every(tag => postTags.includes(tag));
-            })
-            : sortedPosts;
-
-        // Pagination
-        const totalPosts = filteredPosts.length;
-        const totalPages = Math.max(1, Math.ceil(totalPosts / ITEMS_PER_PAGE));
-        const validPage = Math.min(page, totalPages);
-        const start = (validPage - 1) * ITEMS_PER_PAGE;
-        const paginatedPosts = filteredPosts.slice(start, start + ITEMS_PER_PAGE);
-
-        return new Response(
-            JSON.stringify({
-                posts: paginatedPosts,
-                total: totalPosts,
-                totalPages,
-                currentPage: validPage
-            }),
-            {
-                status: 200,
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Cache-Control': 'public, max-age=600'
-                }
-            }
-        );
-    } catch (error) {
-        console.error('Erreur lors du filtrage des posts:', error);
-        return new Response(
-            JSON.stringify({ 
-                error: "Erreur lors de la récupération des posts",
-                details: error instanceof Error ? error.message : 'Erreur inconnue'
-            }),
-            { 
-                status: 500,
+        if (tags.length === 0) {
+            return new Response(JSON.stringify({
+                error: 'Au moins un tag doit être spécifié'
+            }), {
+                status: 400,
                 headers: {
                     'Content-Type': 'application/json'
                 }
+            });
+        }
+
+        // Récupérer les posts filtrés
+        const posts = await getFilteredPosts(tags, page);
+        
+        // Vérifier si c'est une combinaison pré-générée
+        const isStatic = props?.isCommonCombo || isCommonCombination(tags);
+
+        return new Response(JSON.stringify({
+            tags,
+            posts,
+            page,
+            perPage,
+            isStatic
+        }), {
+            status: 200,
+            headers: {
+                'Content-Type': 'application/json',
+                'Cache-Control': isStatic ? cacheConfig.staticCacheControl : cacheConfig.dynamicCacheControl
             }
-        );
+        });
+    } catch (error) {
+        console.error('Erreur lors de la récupération des posts filtrés:', error);
+        return new Response(JSON.stringify({
+            error: 'Erreur serveur'
+        }), {
+            status: 500,
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        });
     }
-} 
+}; 
