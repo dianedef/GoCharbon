@@ -21,6 +21,14 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  transition: background-color 0.3s ease;
+}
+
+.dark body {
+  background-color: black;
+}
+
 ::selection {
   background-color: aliceblue;
 }

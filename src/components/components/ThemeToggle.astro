@@ -74,6 +74,13 @@
 		const isDark = element.classList.contains("dark");
 		localStorage.setItem("theme", isDark ? "dark" : "light");
 		updateIcons(isDark);
+
+		// Déclencher l'événement de changement de thème
+		document.dispatchEvent(
+			new CustomEvent("theme-changed", {
+				detail: { isDark },
+			}),
+		);
 	}
 
 	function initThemeToggle() {
