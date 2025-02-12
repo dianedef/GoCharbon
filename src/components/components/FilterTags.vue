@@ -6,6 +6,7 @@ import type { Post, FilterTagsProps, PostsUpdateEvent } from '../../utils/types/
 import { useRandomColor } from '../../composables/useRandomColor';
 import Pill from './Pill.vue';
 import colors from '../config/colors.json';
+import PostGridVue from './PostGridVue.vue';
 
 interface Props {
     mainTags: string[];
@@ -126,7 +127,7 @@ function toggleSubTag(mainTag: string, subtagKey: string) {
 }
 
 // Gestion des sous-sous-tags
-function toggleSubSubTag(_mainTag: string, _subtagKey: string, subsubtagKey: string) {
+function toggleSubSubTag(mainTag: string, subtagKey: string, subsubtagKey: string) {
     const index = selectedSubSubTags.value.indexOf(subsubtagKey);
     if (index === -1) {
         selectedSubSubTags.value = [...selectedSubSubTags.value, subsubtagKey];
@@ -297,103 +298,113 @@ onMounted(() => {
 </script>
 
 <template>
-    <div class="tags-filter space-y-4">
-        <!-- Tags principaux -->
-        <div>
-            <ul class="flex flex-wrap gap-4 justify-center">
-                <li v-for="tag in mainTags" :key="tag">
-                    <label class="cursor-pointer">
-                        <input
-                            type="checkbox"
-                            name="main-tag-filter"
-                            :value="tag"
-                            class="hidden main-tag-checkbox"
-                            :data-category="tag"
-                            :checked="selectedMainTags.includes(tag)"
-                            @change="toggleMainTag(tag)"
-                        />
-                        <a class="sanchez inline-flex items-center pill-container">
-                            <Pill :is-selected="selectedMainTags.includes(tag)" :content="tagHierarchy[tag]?.label || tag">
-                                {{ tagHierarchy[tag]?.label || tag }}
-                            </Pill>
-                        </a>
-                    </label>
-                </li>
-            </ul>
+    <div>
+        <div class="tags-filter space-y-4">
+            <!-- Tags principaux -->
+            <div>
+                <ul class="flex flex-wrap gap-4 justify-center">
+                    <li v-for="tag in mainTags" :key="tag">
+                        <label class="cursor-pointer">
+                            <input
+                                type="checkbox"
+                                name="main-tag-filter"
+                                :value="tag"
+                                class="hidden main-tag-checkbox"
+                                :data-category="tag"
+                                :checked="selectedMainTags.includes(tag)"
+                                @change="toggleMainTag(tag)"
+                            />
+                            <a class="sanchez inline-flex items-center">
+                                <Pill :is-selected="selectedMainTags.includes(tag)" :content="tagHierarchy[tag]?.label || tag" :is-filter="true" :class="selectedMainTags.includes(tag) ? 'dark:!bg-active-color' : ''">
+                                    {{ tagHierarchy[tag]?.label || tag }}
+                                </Pill>
+                            </a>
+                        </label>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Sous-tags niveau 2 -->
+            <div v-for="mainTag in mainTags" 
+                :key="mainTag"
+                class="subtags-container"
+                :class="{ 'hidden': !selectedMainTags.includes(mainTag) }"
+                :data-parent="mainTag">
+                <ul class="flex flex-wrap gap-4 justify-center">
+                    <li v-for="[subtagKey, subtag] in Object.entries(tagHierarchy[mainTag]?.subtags || {})"
+                        :key="subtagKey">
+                        <label class="cursor-pointer">
+                            <input
+                                type="checkbox"
+                                name="subtag-filter"
+                                :value="subtagKey"
+                                :data-parent="mainTag"
+                                class="hidden subtag-checkbox"
+                                :checked="selectedSubTags.includes(subtagKey)"
+                                @change="toggleSubTag(mainTag, subtagKey)"
+                            />
+                            <a class="sanchez inline-flex items-center">
+                                <Pill :is-selected="selectedSubTags.includes(subtagKey)" :content="subtag.label" :is-filter="true" :class="selectedSubTags.includes(subtagKey) ? 'dark:!bg-active-color' : ''">
+                                    {{ subtag.label }}
+                                </Pill>
+                            </a>
+                        </label>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Sous-tags niveau 3 -->
+            <div v-for="mainTag in mainTags" :key="`level3-${mainTag}`">
+                <template v-for="[subtagKey, subtag] in Object.entries(tagHierarchy[mainTag]?.subtags || {})" :key="subtagKey">
+                    <div class="subsubtags-container"
+                        :class="{ 'hidden': !isSubSubTagsVisible(mainTag, subtagKey) }"
+                        :data-parent="`${mainTag}-${subtagKey}`">
+                        <ul class="flex flex-wrap gap-4 justify-center">
+                            <li v-for="[subsubtagKey, subsubtag] in Object.entries(subtag.subtags || {})"
+                                :key="subsubtagKey">
+                                <label class="cursor-pointer">
+                                    <input
+                                        type="checkbox"
+                                        name="subsubtag-filter"
+                                        :value="subsubtagKey"
+                                        :data-parent="`${mainTag}-${subtagKey}`"
+                                        class="hidden subsubtag-checkbox"
+                                        :checked="selectedSubSubTags.includes(subsubtagKey)"
+                                        @change="toggleSubSubTag(mainTag, subtagKey, subsubtagKey)"
+                                    />
+                                    <a class="sanchez inline-flex items-center">
+                                        <Pill :is-selected="selectedSubSubTags.includes(subsubtagKey)" :content="subsubtag.label" :is-filter="true" :class="selectedSubSubTags.includes(subsubtagKey) ? 'dark:!bg-active-color' : ''">
+                                            {{ subsubtag.label }}
+                                        </Pill>
+                                    </a>
+                                </label>
+                            </li>
+                        </ul>
+                    </div>
+                </template>
+            </div>
         </div>
 
-        <!-- Sous-tags niveau 2 -->
-        <div v-for="mainTag in mainTags" 
-             :key="mainTag"
-             class="subtags-container"
-             :class="{ 'hidden': !selectedMainTags.includes(mainTag) }"
-             :data-parent="mainTag">
-            <ul class="flex flex-wrap gap-4 justify-center">
-                <li v-for="[subtagKey, subtag] in Object.entries(tagHierarchy[mainTag]?.subtags || {})"
-                    :key="subtagKey">
-                    <label class="cursor-pointer">
-                        <input
-                            type="checkbox"
-                            name="subtag-filter"
-                            :value="subtagKey"
-                            :data-parent="mainTag"
-                            class="hidden subtag-checkbox"
-                            v-model="selectedSubTags"
-                            @change="toggleSubTag(mainTag, subtagKey)"
-                        />
-                        <a class="sanchez inline-flex items-center pill-container">
-                            <Pill :is-selected="selectedSubTags.includes(subtagKey)" :content="subtag.label">
-                                {{ subtag.label }}
-                            </Pill>
-                        </a>
-                    </label>
-                </li>
-            </ul>
-        </div>
-
-        <!-- Sous-tags niveau 3 -->
-        <div v-for="mainTag in mainTags" :key="`level3-${mainTag}`">
-            <template v-for="[subtagKey, subtag] in Object.entries(tagHierarchy[mainTag]?.subtags || {})" :key="subtagKey">
-                <div class="subsubtags-container"
-                     :class="{ 'hidden': !isSubSubTagsVisible(mainTag, subtagKey) }"
-                     :data-parent="`${mainTag}-${subtagKey}`">
-                    <ul class="flex flex-wrap gap-4 justify-center">
-                        <li v-for="[subsubtagKey, subsubtag] in Object.entries(subtag.subtags || {})"
-                            :key="subsubtagKey">
-                            <label class="cursor-pointer">
-                                <input
-                                    type="checkbox"
-                                    name="subsubtag-filter"
-                                    :value="subsubtagKey"
-                                    :data-parent="`${mainTag}-${subtagKey}`"
-                                    class="hidden subsubtag-checkbox"
-                                    v-model="selectedSubSubTags"
-                                    @change="toggleSubSubTag(mainTag, subtagKey, subsubtagKey)"
-                                />
-                                <a class="sanchez inline-flex items-center pill-container">
-                                    <Pill :is-selected="selectedSubSubTags.includes(subsubtagKey)" :content="subsubtag.label">
-                                        {{ subsubtag.label }}
-                                    </Pill>
-                                </a>
-                            </label>
-                        </li>
-                    </ul>
-                </div>
-            </template>
-        </div>
+        <!-- Grille de posts -->
+        <PostGridVue 
+            :posts="posts"
+            :show-loading-spinner="isLoading"
+            :current-page="currentPage"
+            :total-pages="totalPages"
+        />
     </div>
 </template>
 
 <style scoped>
 .tags-filter {
-    transition: all 0.3s ease-out;
+    transition: opacity 0.3s ease-out;
 }
 
 .subtags-container,
 .subsubtags-container {
     opacity: 0;
     transform: translateY(-10px);
-    transition: all 0.3s ease-out;
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out;
 }
 
 .subtags-container:not(.hidden),
@@ -402,29 +413,7 @@ onMounted(() => {
     transform: translateY(0);
 }
 
-/* Animation de transition pour les conteneurs */
-.animate-container {
-    opacity: 0;
-    transform: translateY(-10px);
-    transition: all 0.3s ease-out;
-}
-
-.animate-container:not(.hidden) {
-    opacity: 1;
-    transform: translateY(0);
-}
-
 /* Animation pour le chargement */
-.fade-enter-active,
-.fade-leave-active {
-    transition: opacity 0.3s ease;
-}
-
-.fade-enter-from,
-.fade-leave-to {
-    opacity: 0;
-}
-
 .loading-spinner {
     width: 50px;
     height: 50px;
@@ -443,41 +432,5 @@ onMounted(() => {
     display: none;
 }
 
-/* Transformations spécifiques aux pills dans le filtre */
-:deep(.vue-brutal-pill) {
-    transform: scale(1.5);
-    margin: 0.25rem;
-}
-
-:deep(.vue-brutal-pill:hover) {
-    transform: scale(1.5) translateX(-15px) rotate(-10deg);
-    background-color: var(--active-color) !important;
-}
-
-:deep(input:checked + a .vue-brutal-pill) {
-    transform: scale(1.5) translateY(-5px);
-    background-color: var(--active-color) !important;
-}
-
-:deep(input:checked + a .vue-brutal-pill:hover) {
-    transform: scale(1.5) translateY(-5px);
-    background-color: var(--active-color) !important;
-}
-
-/* Ombres */
-.light :deep(.vue-brutal-pill) {
-    filter: drop-shadow(3px 3px 0 rgb(0 0 0 / 1));
-}
-
-.light :deep(.vue-brutal-pill:hover) {
-    filter: drop-shadow(5px 5px 0 rgb(0 0 0 / 1));
-}
-
-:global(.dark) :deep(.vue-brutal-pill) {
-    filter: drop-shadow(3px 3px 0 var(--softWhite));
-}
-
-:global(.dark) :deep(.vue-brutal-pill:hover) {
-    filter: drop-shadow(5px 5px 0 var(--softWhite));
-}
+/* Les styles des pills ont été migrés vers UnoCSS dans brutal-filter-pill */
 </style> 

@@ -21,7 +21,7 @@ const activeColor = computed(() => isDarkTheme.value ? randomDarkColor.value : r
     <a 
         :href="href" 
         :target="target" 
-        class="brutal-btn bg-white dark:bg-black transition-all duration-200" 
+        class="brutal-btn bg-white dark:bg-black border-2 border-black dark:border-softWhite px-4 py-2 font-sanchez" 
         :style="{ 
             '--active-color': activeColor
         } as any"
@@ -29,13 +29,3 @@ const activeColor = computed(() => isDarkTheme.value ? randomDarkColor.value : r
         <slot />
     </a>
 </template>
-
-<style>
-.brutal-btn:hover {
-    background-color: var(--active-color) !important;
-}
-
-:global(.dark) .brutal-btn:hover {
-    background-color: var(--active-color) !important;
-}
-</style>

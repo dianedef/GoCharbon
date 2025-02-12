@@ -4,12 +4,16 @@ import {
   presetIcons,
   presetWind,
   presetTypography,
+  presetUno,
+  presetAttributify,
 } from 'unocss';
 import colors from './src/components/config/colors.json';
 
 export default defineConfig({
   presets: [
     presetWind(),
+    presetUno(),
+    presetAttributify(),
     presetIcons({
       collections: {
         logos: () =>
@@ -17,6 +21,8 @@ export default defineConfig({
         uil: () =>
           import('@iconify-json/uil/icons.json').then((l) => l.default as IconifyJSON),
       },
+      scale: 1.2,
+      cdn: 'https://esm.sh/'
     }),
     presetTypography(),
   ],
@@ -33,10 +39,10 @@ export default defineConfig({
     ['dark-bg', { backgroundColor: '#1a1a1a' }],
     ['user-select-none', { 'user-select': 'none' }],
     // Règles pour les ombres brutales
-    ['brutal-drop-shadow', { filter: 'drop-shadow(3px 3px 0 rgb(0 0 0 / 1))' }],
-    ['brutal-drop-shadow-hover', { filter: 'drop-shadow(5px 5px 0 rgb(0 0 0 / 1))' }],
-    ['brutal-drop-shadow-dark', { filter: `drop-shadow(3px 3px 0 ${colors.softWhite})` }],
-    ['brutal-drop-shadow-dark-hover', { filter: `drop-shadow(5px 5px 0 ${colors.softWhite})` }],
+    ['drop-shadow-brutal', { filter: 'drop-shadow(5px 5px 0 rgb(0 0 0 / 1))' }],
+    ['drop-shadow-brutal-dark', { filter: `drop-shadow(3px 3px 0 ${colors.softWhite})` }],
+    // Règle pour la couleur active
+    [/^bg-active-color$/, () => ({ 'background-color': 'var(--active-color)' })],
     // Règles spécifiques pour la prose en mode sombre
     [/^prose-dark$/, () => ({
       '--un-prose-headings': colors.softWhite,
@@ -49,18 +55,12 @@ export default defineConfig({
       '--un-prose-borders': colors.softWhite,
       '--un-prose-bg-soft': '#1a1a1a',
     })],
-    // Règles pour le style brutalist
-    ['brutal-shadow', { filter: 'drop-shadow(3px 3px 0 rgb(0 0 0 / 1))' }],
-    ['brutal-shadow-hover', { filter: 'drop-shadow(5px 5px 0 rgb(0 0 0 / 1))' }],
-    ['brutal-shadow-dark', { filter: `drop-shadow(3px 3px 0 ${colors.softWhite})` }],
-    ['brutal-shadow-dark-hover', { filter: `drop-shadow(5px 5px 0 ${colors.softWhite})` }],
-    ['brutal-border', { border: '2px solid black' }],
-    ['brutal-border-dark', { border: `2px solid ${colors.softWhite}` }],
   ],
   shortcuts: {
     'dark-mode': 'dark:text-softWhite dark:bg-black prose-dark',
-    'brutal-card': 'brutal-border brutal-shadow dark:brutal-border-dark dark:brutal-shadow-dark hover:brutal-shadow-hover dark:hover:brutal-shadow-dark-hover transition-all duration-300',
-    'brutal-btn': 'brutal-card px-4 py-2 font-sanchez hover:(-translate-x-2px -translate-y-2px)',
-    'brutal-pill': 'user-select-none brutal-drop-shadow hover:brutal-drop-shadow-hover light:brutal-drop-shadow dark:brutal-drop-shadow-dark',
+    'brutal-card': 'border-3 border-black dark:border-1 dark:border-softWhite rounded-lg bg-white dark:bg-black text-black dark:text-softWhite drop-shadow-brutal dark:drop-shadow-brutal-dark',
+    'brutal-btn': 'border-3 border-black dark:border-1 dark:border-softWhite bg-white dark:bg-black text-black dark:text-softWhite drop-shadow-brutal dark:drop-shadow-brutal-dark hover:bg-active-color dark:hover:bg-active-color',
+    'brutal-pill': 'drop-shadow-brutal dark:drop-shadow-brutal-dark user-select-none bg-white dark:bg-black text-black dark:text-softWhite rounded-full border-1 border-black dark:border-1 dark:border-softWhite px-3 py-1 text-sm transform transition-all duration-300 hover:-translate-y-2 hover:bg-active-color dark:hover:bg-active-color',
+    'brutal-filter-pill': 'drop-shadow-brutal dark:drop-shadow-brutal-dark user-select-none text-black dark:text-softWhite rounded-full border-1 border-black dark:border-1 dark:border-softWhite px-3 py-1 text-sm transform scale-160 m-1 transition-transform duration-200 ease-out will-change-transform [&:not(.bg-active-color)]:hover:(-translate-x-15px -rotate-10deg) hover:bg-active-color dark:hover:bg-active-color bg-white [&:not(.bg-active-color)]:dark:bg-black [&.bg-active-color]:(-translate-x-15px -translate-y-10px)',
   },
 });

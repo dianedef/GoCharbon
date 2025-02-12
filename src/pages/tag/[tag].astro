@@ -2,7 +2,6 @@
 import { getCollection } from "astro:content";
 import Layout from "../../layouts/Default.astro";
 import FilterTags from "../../components/components/FilterTags.vue";
-import PostGrid from "../../components/components/PostGrid.astro";
 import { tagHierarchy } from "../../components/tagHierarchy";
 import { normalizeTag } from "../../utils/tags";
 
@@ -64,16 +63,7 @@ const selectedTags = [originalTag];
 			client:load
 		/>
 		{
-			posts.length > 0 ? (
-				<div>
-					<div
-						id="selected-tags"
-						data-tags={selectedTags.join(",")}
-						class="hidden"
-					/>
-					<PostGrid posts={posts} showLoadingSpinner={true} />
-				</div>
-			) : (
+			posts.length === 0 && (
 				<p class="text-center py-10">
 					Aucun post trouvé pour le tag{" "}
 					{tagHierarchy[originalTag]?.label || originalTag}

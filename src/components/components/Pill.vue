@@ -1,17 +1,18 @@
 <script setup lang="ts">
-import { computed, onMounted, watch } from 'vue';
+import { computed } from 'vue';
 import { useRandomColor, type ColorProps } from '../../composables/useRandomColor';
-import colors from '../config/colors.json';
 
 interface Props extends ColorProps {
     class?: string;
     isSelected?: boolean;
     content?: string;
+    isFilter?: boolean;
 }
 
 const props = withDefaults(defineProps<Props>(), {
     isSelected: false,
-    content: ''
+    content: '',
+    isFilter: false
 });
 
 const { randomColor, randomDarkColor, isDarkTheme } = useRandomColor({
@@ -21,32 +22,12 @@ const { randomColor, randomDarkColor, isDarkTheme } = useRandomColor({
 
 // Calculer la couleur active en fonction du thème
 const activeColor = computed(() => isDarkTheme.value ? randomDarkColor.value : randomColor.value);
-
-// Logs pour le débogage
-onMounted(() => {
-    console.log(`Pill [${props.content}] mounted:`, {
-        isDarkTheme: isDarkTheme.value,
-        activeColor: activeColor.value,
-        isSelected: props.isSelected
-    });
-});
-
-watch(() => props.isSelected, (newValue) => {
-    console.log(`Pill [${props.content}] selection changed:`, {
-        isSelected: newValue,
-        activeColor: activeColor.value
-    });
-});
 </script>
 
 <template>
     <span 
-        class="vue-brutal-pill bg-white dark:bg-black rounded-full border-2 border-black dark:border-softWhite px-3 py-1 text-sm text-black dark:text-softWhite transition-all duration-200" 
-        :class="{ 'is-selected': isSelected }"
-        :style="{
-            '--active-color': activeColor,
-            '--softWhite': colors.softWhite
-        } as any"
+        :class="[isFilter ? 'brutal-filter-pill' : 'brutal-pill', { 'bg-active-color': isSelected }]"
+        :style="{ '--active-color': activeColor }"
     >
         <slot></slot>
     </span>
@@ -68,6 +49,7 @@ watch(() => props.isSelected, (newValue) => {
     transition: all 0.2s ease-out;
     will-change: transform, background-color, color;
     user-select: none;
+    box-shadow: 3px 3px 0 rgb(0 0 0 / 1);
 }
 
 .vue-brutal-pill:hover {
@@ -81,6 +63,7 @@ watch(() => props.isSelected, (newValue) => {
 :global(.dark) .vue-brutal-pill {
     background-color: var(--background-color, black);
     color: var(--softWhite);
+    box-shadow: 3px 3px 0 var(--softWhite);
 }
 
 :global(.dark) .vue-brutal-pill:hover {

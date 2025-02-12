@@ -1,7 +1,7 @@
 export { default as Button } from './components/Button.astro';
-export { default as Card } from './components/Card.astro';
-export { default as Pill } from './components/Pill.astro';
-export { default as FilterTags } from './components/FilterTags.astro';
+export { default as Card } from './components/Card.vue';
+export { default as Pill } from './components/Pill.vue';
+export { default as FilterTags } from './components/FilterTags.vue';
 export { default as PostList } from './components/PostList.astro';
 export { default as PostSummaryCard } from './components/PostSummaryCard.astro';
 export { default as RecentPosts } from './components/RecentPosts.astro';

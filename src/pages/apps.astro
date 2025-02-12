@@ -2,7 +2,6 @@
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Default.astro";
 import FilterTags from "../components/components/FilterTags.vue";
-import PostGrid from "../components/components/PostGrid.astro";
 import { tagHierarchy } from "../components/tagHierarchy";
 import colors from "../components/config/colors.json";
 import type { TagHierarchy } from "../utils/types/tags";
@@ -34,14 +33,6 @@ const mainTags = Object.keys(tagHierarchy);
 				tagHierarchy={tagHierarchy}
 				initialPosts={posts}
 			/>
-
-			<!-- Rendu SSG initial -->
-			<div id="ssg-content">
-				<PostGrid posts={posts} showLoadingSpinner={false} />
-			</div>
-
-			<!-- Zone pour le contenu dynamique Vue -->
-			<div id="vue-content" class="hidden"></div>
 		</div>
 	</main>
 </Layout>
@@ -54,15 +45,14 @@ const mainTags = Object.keys(tagHierarchy);
 		const colorArray = isDark ? colors.dark : colors.light;
 		const randomColor =
 			colorArray[Math.floor(Math.random() * colorArray.length)];
-
 		const element = document.querySelector(".page-background") as HTMLElement;
 		element?.style.setProperty("background-color", randomColor);
 	}
 
-	// Initialiser la couleur au chargement
+	// Initialisation
 	document.addEventListener("astro:page-load", setRandomBackgroundColor);
 
-	// Changer la couleur quand le thème change
+	// Gestion du changement de thème
 	document.addEventListener("theme-changed", setRandomBackgroundColor);
 </script>
 
@@ -70,133 +60,4 @@ const mainTags = Object.keys(tagHierarchy);
 	.page-background {
 		transition: background-color 0.3s ease;
 	}
-
-	.hidden {
-		display: none;
-	}
-
-	.pill-container :global(.brutal-pill) {
-		transform: scale(1.5);
-		margin-bottom: 0.5rem;
-		transition: transform 0.2s ease-in-out;
-	}
-
-	.pill-container:hover :global(.brutal-pill) {
-		transform: scale(1.5) translateX(-15px);
-	}
-
-	input:checked + a :global(.brutal-pill) {
-		background-color: black;
-		color: white;
-	}
 </style>
-
-<script>
-	const mainCheckboxes = document.querySelectorAll(".main-tag-checkbox");
-	const subtagContainers = document.querySelectorAll(".subtags-container");
-	const subtagCheckboxes = document.querySelectorAll(".subtag-checkbox");
-	const posts = document.querySelectorAll(".post");
-
-	// Gestion des tags principaux
-	mainCheckboxes.forEach((checkbox) => {
-		checkbox.addEventListener("change", (e) => {
-			const target = e.target as HTMLInputElement;
-			const mainTag = target.dataset.category;
-			const subtagContainer = document.querySelector(
-				`[data-parent="${mainTag}"]`,
-			);
-
-			if (subtagContainer) {
-				if (target.checked) {
-					subtagContainer.classList.remove("hidden");
-				} else {
-					subtagContainer.classList.add("hidden");
-					// Décocher tous les sous-tags de ce tag principal
-					const checkboxes = subtagContainer.querySelectorAll(
-						'input[type="checkbox"]',
-					);
-					checkboxes.forEach((cb: Element) => {
-						if (cb instanceof HTMLInputElement) {
-							cb.checked = false;
-						}
-					});
-				}
-			}
-
-			filterPosts();
-		});
-	});
-
-	// Gestion des sous-tags
-	subtagCheckboxes.forEach((checkbox) => {
-		checkbox.addEventListener("change", () => {
-			filterPosts();
-		});
-	});
-
-	function getSubtagValue(key, parentTag) {
-		const hierarchy = (window as any).tagHierarchy;
-		if (!hierarchy || !hierarchy[parentTag] || !hierarchy[parentTag].subtags)
-			return key;
-
-		const subtags = hierarchy[parentTag].subtags;
-		for (const category of Object.values(subtags)) {
-			if (category.subtags && category.subtags[key]) {
-				return key;
-			}
-		}
-		return key;
-	}
-
-	function filterPosts() {
-		const selectedMainTags = Array.from(mainCheckboxes)
-			.filter(
-				(cb: Element): cb is HTMLInputElement =>
-					cb instanceof HTMLInputElement && cb.checked,
-			)
-			.map((cb) => cb.value);
-
-		const selectedSubtags = Array.from(subtagCheckboxes)
-			.filter(
-				(cb: Element): cb is HTMLInputElement =>
-					cb instanceof HTMLInputElement && cb.checked,
-			)
-			.map((cb) => {
-				const parentTag = cb.dataset.parent;
-				return getSubtagValue(cb.value, parentTag);
-			});
-
-		posts.forEach((post) => {
-			const postTags = JSON.parse(post.getAttribute("data-tags") || "[]");
-
-			// Si aucun filtre n'est sélectionné, afficher tous les posts
-			if (selectedMainTags.length === 0 && selectedSubtags.length === 0) {
-				post.classList.remove("hidden");
-				return;
-			}
-
-			// Vérifier si le post correspond aux filtres sélectionnés
-			const hasSelectedMainTag =
-				selectedMainTags.length === 0 ||
-				selectedMainTags.some((tag) =>
-					postTags.some(
-						(postTag) => postTag.toLowerCase() === tag.toLowerCase(),
-					),
-				);
-
-			const hasSelectedSubtag =
-				selectedSubtags.length === 0 ||
-				selectedSubtags.some((tag) =>
-					postTags.some(
-						(postTag) => postTag.toLowerCase() === tag.toLowerCase(),
-					),
-				);
-
-			if (hasSelectedMainTag && hasSelectedSubtag) {
-				post.classList.remove("hidden");
-			} else {
-				post.classList.add("hidden");
-			}
-		});
-	}
-</script>
