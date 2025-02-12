@@ -17,7 +17,7 @@ const props = withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-    <div class="posts mt-8">
+    <div class="posts mt-2">
         <ul class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 posts-container p-4 rounded-lg">
             <li v-for="(post, index) in posts" 
                 :key="post.id"

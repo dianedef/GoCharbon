@@ -246,16 +246,5 @@ export const tagHierarchy: TagHierarchy = {
         }
       }
     }
-  },
-  deals: {
-    label: 'Deals',
-    subtags: {
-      lifetime: {
-        label: 'Lifetime',
-        subtags: {
-          'Lifetime Deals': { label: 'Lifetime Deals' }
-        }
-      }
-    }
   }
 }; 

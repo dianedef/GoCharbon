@@ -25,11 +25,11 @@ const { randomColor, randomDarkColor } = useRandomColor({
 
 <template>
     <div class="brutal-card" :transition:name="`post-${post.id}`">
-        <div class="p-4 rounded-lg dark:bg-black">
-            <h3 class="poppins text-lg md:text-xl dark:text-softWhite" :transition:name="`title-${post.id}`">
+        <div class="p-3 md:p-4 rounded-lg dark:bg-black">
+            <h3 class="poppins text-base md:text-xl dark:text-softWhite" :transition:name="`title-${post.id}`">
                 {{ data.title }}
             </h3>
-            <div class="rounded-lg border-3 my-4 h-56 overflow-hidden">
+            <div class="rounded-lg border-3 my-3 md:my-4 h-24 md:h-56 overflow-hidden">
                 <img :src="data.imgUrl" 
                      :alt="data.title"
                      width="800"
@@ -39,32 +39,35 @@ const { randomColor, randomDarkColor } = useRandomColor({
                      class="rounded h-full w-full object-cover"
                      :transition:name="`image-${post.id}`" />
             </div>
-            <p class="poppins dark:text-softWhite">
-                {{ data.description }}
-            </p>
+            <div class="flex flex-col md:flex-row md:items-center gap-2 md:gap-4">
+                <p class="poppins dark:text-softWhite md:flex-grow text-sm md:text-base">
+                    {{ data.description }}
+                </p>
 
-            <div class="flex justify-end my-4">
-                <div class="rounded-lg">
-                    <Button 
-                        :href="`/${post.id}`" 
-                        :color="randomColor" 
-                        :darkColor="randomDarkColor"
-                    >
-                        <span>Lire plus &rarr;</span>
-                    </Button>
+                <div class="flex justify-end md:justify-start md:min-w-[120px]">
+                    <div class="rounded-lg">
+                        <Button 
+                            :href="`/${post.id}`" 
+                            :color="randomColor" 
+                            :darkColor="randomDarkColor"
+                            class="text-sm md:text-base"
+                        >
+                            <span>Lire &rarr;</span>
+                        </Button>
+                    </div>
                 </div>
             </div>
 
-            <div class="hidden sm:inline-block">
+            <div class="hidden sm:inline-block mt-4">
                 <div class="flex justify-between items-center">
                     <ul class="flex flex-wrap gap-4 mt-2">
                         <li v-for="tag in data.tags" :key="tag">
-                            <a class="sanchez" :href="`/tag/${encodeURIComponent(normalizeTag(tag))}`">
+                            <a class="sanchez text-sm md:text-base" :href="`/tag/${encodeURIComponent(normalizeTag(tag))}`">
                                 <Pill :content="tag">{{ tag }}</Pill>
                             </a>
                         </li>
                     </ul>
-                    <span v-if="data.draft" class="bg-green rounded-full border-2 border-black dark:border-softWhite py-1 px-4 text-sm dark:text-softWhite">
+                    <span v-if="data.draft" class="bg-green rounded-full border-2 border-black dark:border-softWhite py-1 px-3 md:px-4 text-xs md:text-sm dark:text-softWhite">
                         Brouillon
                     </span>
                 </div>

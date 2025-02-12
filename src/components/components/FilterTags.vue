@@ -312,12 +312,12 @@ onMounted(() => {
 
 <template>
     <div>
-        <div class="tags-filter space-y-4">
+        <div class="tags-filter space-y-0.5 md:space-y-4 sticky top-[68px] md:top-[72px] z-[9999] py-2 md:py-3">
             <!-- Tags principaux -->
             <div>
-                <ul class="flex flex-wrap gap-4 justify-center">
+                <ul class="flex flex-wrap gap-1 md:gap-4 justify-center">
                     <li v-for="tag in mainTags" :key="tag">
-                        <label class="cursor-pointer">
+                        <label class="cursor-pointer mobile-pill-wrapper">
                             <input
                                 type="checkbox"
                                 name="main-tag-filter"
@@ -332,6 +332,7 @@ onMounted(() => {
                                     :is-selected="selectedMainTags.includes(tag)" 
                                     :content="tagHierarchy[tag]?.label || tag" 
                                     :is-filter="true"
+                                    class="mobile-pill"
                                 >
                                     {{ tagHierarchy[tag]?.label || tag }}
                                 </Pill>
@@ -347,10 +348,10 @@ onMounted(() => {
                 class="subtags-container"
                 :class="{ 'hidden': !selectedMainTags.includes(mainTag) }"
                 :data-parent="mainTag">
-                <ul class="flex flex-wrap gap-4 justify-center">
+                <ul class="flex flex-wrap gap-1 md:gap-4 justify-center">
                     <li v-for="[subtagKey, subtag] in Object.entries(tagHierarchy[mainTag]?.subtags || {})"
                         :key="subtagKey">
-                        <label class="cursor-pointer">
+                        <label class="cursor-pointer mobile-pill-wrapper">
                             <input
                                 type="checkbox"
                                 name="subtag-filter"
@@ -365,6 +366,7 @@ onMounted(() => {
                                     :is-selected="selectedSubTags.includes(subtagKey)" 
                                     :content="subtag.label" 
                                     :is-filter="true"
+                                    class="mobile-pill"
                                 >
                                     {{ subtag.label }}
                                 </Pill>
@@ -380,10 +382,10 @@ onMounted(() => {
                     <div class="subsubtags-container"
                         :class="{ 'hidden': !isSubSubTagsVisible(mainTag, subtagKey) }"
                         :data-parent="`${mainTag}-${subtagKey}`">
-                        <ul class="flex flex-wrap gap-4 justify-center">
+                        <ul class="flex flex-wrap gap-1 md:gap-4 justify-center">
                             <li v-for="[subsubtagKey, subsubtag] in Object.entries(subtag.subtags || {})"
                                 :key="subsubtagKey">
-                                <label class="cursor-pointer">
+                                <label class="cursor-pointer mobile-pill-wrapper">
                                     <input
                                         type="checkbox"
                                         name="subsubtag-filter"
@@ -398,6 +400,7 @@ onMounted(() => {
                                             :is-selected="selectedSubSubTags.includes(subsubtagKey)" 
                                             :content="subsubtag.label" 
                                             :is-filter="true"
+                                            class="mobile-pill"
                                         >
                                             {{ subsubtag.label }}
                                         </Pill>
@@ -410,13 +413,15 @@ onMounted(() => {
             </div>
         </div>
 
-        <!-- Grille de posts -->
-        <PostGridVue 
-            :posts="posts"
-            :show-loading-spinner="isLoading"
-            :current-page="currentPage"
-            :total-pages="totalPages"
-        />
+        <!-- Grille de posts avec un padding pour compenser le sticky -->
+        <div class="pt-2 md:pt-2">
+            <PostGridVue 
+                :posts="posts"
+                :show-loading-spinner="isLoading"
+                :current-page="currentPage"
+                :total-pages="totalPages"
+            />
+        </div>
     </div>
 </template>
 
@@ -458,4 +463,26 @@ onMounted(() => {
 }
 
 /* Les styles des pills ont été migrés vers UnoCSS dans brutal-filter-pill */
+
+/* Ajustements pour mobile */
+@media (max-width: 640px) {
+    :deep(.mobile-pill) {
+        font-size: 0.5rem !important;
+        line-height: 0.625rem !important;
+        padding: 0.125rem 0.375rem !important;
+        transform: scale(0.5) !important;
+        transform-origin: center !important;
+    }
+
+    :deep(.mobile-pill-wrapper) {
+        transform: scale(0.75);
+        transform-origin: center;
+    }
+
+    :deep(.brutal-filter-pill),
+    :deep(.brutal-pill) {
+        font-size: 0.5rem !important;
+        padding: 0.125rem 0.375rem !important;
+    }
+}
 </style> 
