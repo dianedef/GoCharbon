@@ -137,33 +137,46 @@ function toggleSubSubTag(mainTag: string, subtagKey: string, subsubtagKey: strin
     updateFilters();
 }
 
-// Fonction pour réinitialiser tous les filtres
-function resetFilters() {
-    selectedMainTags.value = [];
-    selectedSubTags.value = [];
-    selectedSubSubTags.value = [];
-    currentPage.value = 1;
-    loadPosts();
-}
-
 // Mise à jour des filtres et chargement des posts
 function updateFilters() {
+    // Annuler le timer précédent s'il existe
+    if (debounceTimer) clearTimeout(debounceTimer);
+    
     const allSelectedTags = [
         ...selectedMainTags.value,
         ...selectedSubTags.value,
         ...selectedSubSubTags.value
     ];
     
-    if (allSelectedTags.length === 0) {
-        resetFilters();
-        return;
-    }
-    
-    // Éviter les mises à jour multiples
-    if (debounceTimer) clearTimeout(debounceTimer);
     debounceTimer = setTimeout(() => {
+        if (allSelectedTags.length === 0) {
+            posts.value = props.initialPosts;
+            currentPage.value = 1;
+            emit('update:posts', posts.value);
+            emit('update:selectedTags', []);
+            // Mise à jour de l'URL
+            const url = new URL(window.location.href);
+            url.searchParams.delete('tags');
+            window.history.pushState({}, '', url.toString());
+            return;
+        }
         loadPosts();
     }, 300);
+}
+
+// Fonction pour réinitialiser tous les filtres
+function resetFilters() {
+    selectedMainTags.value = [];
+    selectedSubTags.value = [];
+    selectedSubSubTags.value = [];
+    currentPage.value = 1;
+    posts.value = props.initialPosts;
+    emit('update:posts', posts.value);
+    emit('update:selectedTags', []);
+    // Mise à jour de l'URL
+    const url = new URL(window.location.href);
+    url.searchParams.delete('tags');
+    window.history.pushState({}, '', url.toString());
 }
 
 // Modification de la fonction loadPosts
