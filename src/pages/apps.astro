@@ -21,7 +21,7 @@ const mainTags = Object.keys(tagHierarchy);
 
 <Layout title="Apps" description="Web'Indé | Apps" pageTitle="Apps'Indé">
 	<main
-		class="page-background bg-gray-2 dark:bg-gray-8 px-4 md:px-6 py-6 max-w-7xl mx-auto"
+		class="px-2 md:px-6 py-6 max-w-7xl mx-auto"
 		transition:name="posts-container"
 	>
 		<!-- Zone de contenu dynamique -->
@@ -36,24 +36,6 @@ const mainTags = Object.keys(tagHierarchy);
 		</div>
 	</main>
 </Layout>
-<script>
-	import colors from "../components/config/colors.json";
-
-	function setRandomBackgroundColor() {
-		const isDark = document.documentElement.classList.contains("dark");
-		const colorArray = isDark ? colors.dark : colors.light;
-		const randomColor =
-			colorArray[Math.floor(Math.random() * colorArray.length)];
-		const element = document.querySelector(".page-background") as HTMLElement;
-		element?.style.setProperty("background-color", randomColor);
-	}
-
-	// Initialisation
-	document.addEventListener("astro:page-load", setRandomBackgroundColor);
-
-	// Gestion du changement de thème
-	document.addEventListener("theme-changed", setRandomBackgroundColor);
-</script>
 
 <style>
 	.page-background {

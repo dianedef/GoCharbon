@@ -17,7 +17,7 @@ const totalPages = Math.ceil(allPosts.length / 15);
 
 <Layout title="Posts" description="Web'Indé |" pageTitle="Web'Indé Posts">
 	<main
-		class="page-background px-2 md:px-6 py-6 max-w-7xl mx-auto"
+		class="px-2 md:px-6 py-6 max-w-7xl mx-auto"
 		transition:name="main-content"
 	>
 		<!-- Zone de contenu dynamique -->
@@ -32,34 +32,6 @@ const totalPages = Math.ceil(allPosts.length / 15);
 		</div>
 	</main>
 </Layout>
-
-<script>
-	import { useRandomColor } from "../composables/useRandomColor";
-
-	const { getRandomColor } = useRandomColor();
-
-	function updateBackgroundColor() {
-		const isDark = document.documentElement.classList.contains("dark");
-		const color = getRandomColor(isDark);
-		console.log("Updating background color:", { isDark, color });
-		const element = document.querySelector(".page-background") as HTMLElement;
-		if (element) {
-			element.style.backgroundColor = color;
-		}
-	}
-
-	// Initialisation immédiate
-	updateBackgroundColor();
-
-	// Mettre à jour la couleur à chaque chargement de page
-	document.addEventListener("astro:page-load", updateBackgroundColor);
-
-	// Mettre à jour la couleur avant la transition
-	document.addEventListener("astro:before-preparation", updateBackgroundColor);
-
-	// Mettre à jour la couleur lors du changement de thème
-	window.addEventListener("theme-changed", updateBackgroundColor);
-</script>
 
 <style>
 	.page-background {

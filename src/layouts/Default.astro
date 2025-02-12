@@ -29,7 +29,7 @@ const {
 
 	<body class:list={[classList]}>
 		<BaseNavigation {pageTitle} />
-		<div class="mt-0">
+		<div class="page-background min-h-screen">
 			<slot />
 		</div>
 		<BaseFooter />
@@ -44,17 +44,20 @@ const {
 
 			function updateBackgroundColor() {
 				const isDark = document.documentElement.classList.contains("dark");
-				document.body.style.backgroundColor = getRandomColor(isDark);
+				const color = getRandomColor(isDark);
+				const element = document.querySelector(
+					".page-background",
+				) as HTMLElement;
+				if (element) {
+					element.style.backgroundColor = color;
+				}
 			}
 
-			// Mettre à jour la couleur AVANT la transition
-			document.addEventListener(
-				"astro:before-preparation",
-				updateBackgroundColor,
-			);
+			// Initialisation immédiate
+			updateBackgroundColor();
 
-			// Mettre à jour la couleur au changement de thème
-			document.addEventListener("theme-changed", updateBackgroundColor);
+			// Mettre à jour la couleur au changement de thème uniquement
+			window.addEventListener("theme-changed", updateBackgroundColor);
 		</script>
 	</body>
 </html>

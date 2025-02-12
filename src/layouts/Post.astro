@@ -28,13 +28,13 @@ const ogImage = new URL(`/v1/generate/og/${Astro.params.slug}.png`, Astro.url);
 			<SideBar headings={headings as any[]} />
 			<div class="col-span-2">
 				<h1
-					class="text-3xl font-bold mb-4 poppins"
+					class="text-xl md:text-3xl font-bold mx-6 mb-2 md:my-4 poppins dark:text-softWhite"
 					transition:name={`title-${id}`}
 				>
 					{title}
 				</h1>
 				<div
-					class="mb-8 rounded-lg border-3 border-black dark:border-white h-56"
+					class="rounded-lg border-3 border-black dark:border-white h-24 md:h-56"
 				>
 					<Image
 						src={imgUrl}
