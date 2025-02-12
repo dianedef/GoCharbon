@@ -10,33 +10,23 @@ const {
 ---
 
 <style define:vars={{ color, softWhite: colors.softWhite }}>
-	div.brutal-card {
+	.brutal-card-astro {
 		background-color: var(--color);
 		border-radius: 0.5rem;
 		border: 3px solid black;
 		filter: drop-shadow(7px 7px 0 rgb(0 0 0 / 1));
-		transition: all;
 		padding: 1rem;
-		transition-duration: 0.5s;
-		animation: ease-in-out;
 		color: black;
 	}
-	div.brutal-card:hover {
-		filter: drop-shadow(5px 5px 0 rgb(0 0 0 / 1));
-	}
 
-	:global(.dark) div.brutal-card {
+	:global(.dark) .brutal-card-astro {
 		background-color: black;
 		border: 3px solid var(--softWhite);
 		filter: drop-shadow(7px 7px 0 var(--softWhite));
 		color: var(--softWhite);
 	}
-
-	:global(.dark) div.brutal-card:hover {
-		filter: drop-shadow(5px 5px 0 var(--softWhite));
-	}
 </style>
 
-<div class="brutal-card">
+<div class="brutal-card-astro">
 	<slot />
 </div>

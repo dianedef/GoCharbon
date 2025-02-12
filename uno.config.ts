@@ -58,8 +58,8 @@ export default defineConfig({
   ],
   shortcuts: {
     'dark-mode': 'dark:text-softWhite dark:bg-black prose-dark',
-    'brutal-card': 'border-3 border-black dark:border-1 dark:border-softWhite rounded-lg bg-white dark:bg-black text-black dark:text-softWhite drop-shadow-brutal dark:drop-shadow-brutal-dark',
-    'brutal-btn': 'border-3 border-black dark:border-1 dark:border-softWhite bg-white dark:bg-black text-black dark:text-softWhite drop-shadow-brutal dark:drop-shadow-brutal-dark hover:bg-active-color dark:hover:bg-active-color',
+    'brutal-card': 'border-3 border-black dark:border-softWhite rounded-lg bg-white dark:bg-black text-black dark:text-softWhite drop-shadow-brutal dark:drop-shadow-brutal-dark',
+    'brutal-btn': 'border-3 border-black dark:border-softWhite bg-white dark:bg-black text-black dark:text-softWhite drop-shadow-brutal dark:drop-shadow-brutal-dark hover:bg-active-color dark:hover:bg-active-color',
     'brutal-pill': 'drop-shadow-brutal dark:drop-shadow-brutal-dark user-select-none bg-white dark:bg-black text-black dark:text-softWhite rounded-full border-1 border-black dark:border-1 dark:border-softWhite px-3 py-1 text-sm transform transition-all duration-300 hover:-translate-y-2 hover:bg-active-color dark:hover:bg-active-color',
     'brutal-filter-pill': 'drop-shadow-brutal dark:drop-shadow-brutal-dark user-select-none text-black dark:text-softWhite rounded-full border-1 border-black dark:border-1 dark:border-softWhite px-3 py-1 text-sm transform scale-160 m-1 transition-transform duration-200 ease-out will-change-transform [&:not(.bg-active-color)]:hover:(-translate-x-25px -rotate-5deg) hover:bg-active-color dark:hover:bg-active-color bg-white [&:not(.bg-active-color)]:dark:bg-black [&.bg-active-color]:(-translate-x-25px -translate-y-10px)',
   },

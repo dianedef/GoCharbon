@@ -1,3 +1,12 @@
+:root {
+  --border-color: black;
+  --border-color-dark: #FFD35AD9;
+}
+
+.dark {
+  --border-color: #FFD35AD9;
+}
+
 .card-shadow {
   filter: drop-shadow(7px 7px 0 rgb(0 0 0 / 1));
   transition: all;
