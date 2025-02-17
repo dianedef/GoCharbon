@@ -6,8 +6,7 @@ author: Diane Web'Indé
 tags:
   - Lifetime Deals
   - Création de Site Web
-imgUrl: '../../assets/astro.jpeg'
-category: "Général"
+imgUrl: '../assets/astro.jpeg'
 ---
 
 Bonjour à toi !

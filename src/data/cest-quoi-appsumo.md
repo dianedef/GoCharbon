@@ -5,14 +5,14 @@ pubDate: 02-21-2023
 author: Diane Web'Indé
 tags:
   - Lifetime Deals
-imgUrl: '../../assets/astro.jpeg'
+imgUrl: './../assets/astro.jpeg'
 ---
 
 ## Ce qu’il Faut Retenir Sur AppSumo
 
 ### Une Marketplace de Produits Pour Développer Votre Entreprise
 
-[AppSumo](https://appsumo.8odi.net/welcome)  est un site des promotions sur les solutions logicielles professionnels et produits numériques.
+[AppSumo](https://appsumo.8odi.net/welcome) est un site de promotions sur les solutions logicielles professionnels et produits numériques.
 
 On y trouve des offres exclusives sur des SaaS ou des applications desktop, et aussi quelques formations, des packages de contenu pour entreprendre sur le web. AppSumo permet de profiter de promos exceptionnelles et d’interagir avec les fondateurs des logiciels que l'on peut noter et sur lesquels les clients partagent leur avis et questions.
 

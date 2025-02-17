@@ -1,6 +1,10 @@
 ---
 import ThemeToggle from "./ThemeToggle.astro";
 import colors from "../config/colors.json";
+import { Breadcrumbs } from "astro-breadcrumbs";
+import "astro-breadcrumbs/breadcrumbs.css";
+import { Home, ChevronRight } from "lucide-astro";
+import { breadcrumbsConfig } from "../../config/breadcrumbs";
 import type {
 	BaseNavigationProps,
 	NavigationItem,
@@ -67,53 +71,82 @@ const { pageTitle } = Astro.props;
 	:global(.dark) .mobile-link {
 		color: var(--softWhite);
 	}
+
+	:global(.breadcrumbs) {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		font-size: 0.9rem;
+	}
+
+	:global(.breadcrumbs a) {
+		display: flex;
+		align-items: center;
+		color: inherit;
+		text-decoration: none;
+	}
+
+	:global(.breadcrumbs a:hover) {
+		color: var(--accent-color);
+		text-decoration: underline;
+	}
 </style>
 
-<header class="flex justify-between px-4 py-3 md:px-6 md:py-4 items-center">
-	{pageTitle && <h1 class="hidden">{pageTitle}</h1>}
-	<a href="/" title="Back to Home">
-		<p class="righteous text-2xl md:text-4xl">Web'Indé</p>
-	</a>
-	<nav class="hidden md:inline-block">
-		<h2 class="hidden">Navigation</h2>
-		<ul class="flex gap-6 poppins items-center">
-			{
-				navigationItems.map((item) => (
-					<li>
-						<a
-							class="text-base font-medium hover:text-green dark:hover:text-green-400 hover:underline transition-all duration-150 ease-in-out"
-							href={item.url}
-							title={`Go to ${item.name}`}
-						>
-							{item.name}
-						</a>
-					</li>
-				))
-			}
-			{
-				socialIcons.map((item) => (
-					<li>
-						<a
-							href={item.url}
-							class="hover:text-green dark:hover:text-green-400 hover:underline transition-all duration-150 ease-in-out"
-							target="_blank"
-							title={`'See @ElianCodes on ${item.name}`}
-						>
-							<div class:list={[item.icon, "w-5 h-5 md:w-6 md:h-6"]} />
-						</a>
-					</li>
-				))
-			}
-			<li>
-				<ThemeToggle />
-			</li>
-		</ul>
-	</nav>
-	<nav class="md:hidden flex items-center gap-3">
-		<h2 class="hidden">Mobile Navigation</h2>
-		<ThemeToggle />
-		<ul>
-			<li><a href="/" class="mobile-link text-sm">Retour</a></li>
-		</ul>
-	</nav>
+<header class="flex flex-col px-4 py-3 md:px-6 md:py-4">
+	<div class="flex justify-between items-center">
+		{pageTitle && <h1 class="hidden">{pageTitle}</h1>}
+		<div class="flex items-center gap-4">
+			<a href="/" title="Back to Home">
+				<p class="righteous text-2xl md:text-4xl">Web'Indé</p>
+			</a>
+			<Breadcrumbs {...breadcrumbsConfig}>
+				<Home slot="home" class="w-5 h-5" />
+				<ChevronRight slot="separator" class="w-4 h-4" />
+			</Breadcrumbs>
+		</div>
+		<nav class="hidden md:inline-block">
+			<h2 class="hidden">Navigation</h2>
+			<ul class="flex gap-6 poppins items-center">
+				{
+					navigationItems.map((item) => (
+						<li>
+							<a
+								class="text-base font-medium hover:text-green dark:hover:text-green-400 hover:underline transition-all duration-150 ease-in-out"
+								href={item.url}
+								title={`Go to ${item.name}`}
+							>
+								{item.name}
+							</a>
+						</li>
+					))
+				}
+				{
+					socialIcons.map((item) => (
+						<li>
+							<a
+								href={item.url}
+								class="hover:text-green dark:hover:text-green-400 hover:underline transition-all duration-150 ease-in-out"
+								target="_blank"
+								title={`'See @ElianCodes on ${item.name}`}
+							>
+								<div
+									class:list={[item.icon, "w-5 h-5 md:w-6 md:h-6"]}
+								/>
+							</a>
+						</li>
+					))
+				}
+				<li>
+					<ThemeToggle />
+				</li>
+			</ul>
+		</nav>
+		<nav class="md:hidden flex items-center gap-3">
+			<h2 class="hidden">Mobile Navigation</h2>
+			<ThemeToggle />
+			<ul>
+				<li><a href="/" class="mobile-link text-sm">Retour</a></li>
+			</ul>
+		</nav>
+	</div>
 </header>

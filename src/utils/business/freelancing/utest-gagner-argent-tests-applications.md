@@ -6,7 +6,7 @@ tags:
   - Freelancing
   - Business en Ligne
   - Apps
-imgUrl: '../assets/astro.jpeg'
+imgUrl: '../../../assets/astro.jpeg'
 description: "Découvre une plateforme pour gagner de l'argent sur le web"
 slug: utest-gagner-argent-tests-applications
 category: "Général"

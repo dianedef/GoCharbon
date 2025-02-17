@@ -7,7 +7,7 @@ tags:
   - Lifetime Deals
   - Création de Site Web
   - Apps
-imgUrl: '../assets/astro.jpeg'
+imgUrl: '../../../assets/astro.jpeg'
 category: "Général"
 ---
 
