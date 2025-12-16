@@ -1,4 +1,26 @@
-<!-- FilterTags.vue -->
+<!--
+  FilterTags.vue - Interactive Tag Filtering Component
+  
+  This is the main UI component for multi-tag post filtering.
+  
+  KEY FEATURES:
+  - Hierarchical tag selection (main tags → subtags → sub-subtags)
+  - Real-time post filtering with debouncing
+  - URL state synchronization (shareable filtered views)
+  - Loading states and pagination
+  - Theme-aware pill colors
+  
+  BUSINESS LOGIC:
+  - Selecting a subtag automatically selects its parent
+  - Deselecting a parent clears all child selections
+  - Tag changes are debounced (300ms) to reduce API calls
+  - Filters persist in URL for bookmarking/sharing
+  
+  PERFORMANCE:
+  - Debounced API calls (avoid request spam)
+  - Leverages static/dynamic caching from API
+  - Reactive state updates with Vue 3 Composition API
+-->
 <script setup lang="ts">
 import { ref, onMounted, watch, nextTick } from 'vue';
 import type { TagHierarchy, TagCategory } from '../../utils/types/tags';
@@ -9,16 +31,16 @@ import colors from '../config/colors.json';
 import PostGridVue from './PostGridVue.vue';
 
 interface Props {
-    mainTags: string[];
-    tagHierarchy: TagHierarchy;
-    initialPosts: Post[];
-    selectedTags?: string[];
+    mainTags: string[];           // Top-level tag categories
+    tagHierarchy: TagHierarchy;   // Complete tag structure with subtags
+    initialPosts: Post[];         // Posts to show before any filtering
+    selectedTags?: string[];      // Pre-selected tags (from URL)
 }
 
 const props = withDefaults(defineProps<Props>(), {
     mainTags: () => [],
     tagHierarchy: () => ({
-        // Structure par défaut minimale
+        // Minimal default structure (should never be used in practice)
         default: {
             label: '',
             subtags: {}
@@ -28,18 +50,25 @@ const props = withDefaults(defineProps<Props>(), {
     selectedTags: () => []
 });
 
-// État des tags sélectionnés
+// Reactive state for tag selections
+// NOTE: Tags are separated by hierarchy level to enable parent-child relationship logic
 const selectedMainTags = ref<string[]>(props.selectedTags || []);
-const selectedSubTags = ref<string[]>([]);
-const selectedSubSubTags = ref<string[]>([]);
+const selectedSubTags = ref<string[]>([]);         // Currently unused (commented in template)
+const selectedSubSubTags = ref<string[]>([]);     // Currently unused (commented in template)
+
+// Reactive state for posts and UI
 const posts = ref<Post[]>(props.initialPosts);
 const isLoading = ref(false);
 const currentPage = ref(1);
 const totalPages = ref(1);
 
+// Debounce timer to avoid excessive API calls during rapid tag selection
 let debounceTimer: ReturnType<typeof setTimeout>;
 
-// Émettre les événements pour Astro
+/**
+ * Emits custom event for Astro/vanilla JS integration
+ * Allows non-Vue code to react to post updates
+ */
 function emitPostsUpdate() {
     const event = new CustomEvent("posts-updated", {
         detail: {
@@ -52,37 +81,57 @@ function emitPostsUpdate() {
     window.dispatchEvent(event);
 }
 
-// Émettre les événements pour Vue
+/**
+ * Vue events for parent component communication
+ */
 const emit = defineEmits<{
     (event: 'update:selectedTags', value: string[]): void;
     (event: 'update:posts', value: Post[]): void;
 }>();
 
-// Fonction pour vérifier si les sous-sous-tags doivent être visibles
+/**
+ * Determines if sub-subtags should be visible (currently unused)
+ * Would be used if 3-level tag hierarchy is re-enabled
+ */
 function isSubSubTagsVisible(mainTag: string, subtagKey: string): boolean {
     return selectedMainTags.value.includes(mainTag) && selectedSubTags.value.includes(subtagKey);
 }
 
-// Gestion des tags principaux
+/**
+ * Toggles a main tag selection
+ * 
+ * BUSINESS LOGIC:
+ * - Adding: Simply add to selection
+ * - Removing: Also remove all child subtags and sub-subtags to maintain consistency
+ * 
+ * PERFORMANCE:
+ * - Creates new array reference to ensure Vue reactivity triggers
+ * - Uses nextTick to batch DOM updates before calling updateFilters
+ * 
+ * @param {string} tag - The main tag to toggle
+ */
 function toggleMainTag(tag: string) {
     const index = selectedMainTags.value.indexOf(tag);
     
-    // Créer une nouvelle référence pour éviter les mises à jour récursives
+    // Create new array reference (avoids Vue reactivity issues)
     const newSelectedMainTags = [...selectedMainTags.value];
     const mainTagData = props.tagHierarchy[tag];
     
     if (index === -1) {
+        // Tag not selected → add it
         newSelectedMainTags.push(tag);
     } else {
+        // Tag already selected → remove it AND its children
         newSelectedMainTags.splice(index, 1);
-        // Nettoyer les sous-tags associés
+        
+        // Clean up associated subtags (maintain consistency)
         if (mainTagData?.subtags) {
             const subtagsToRemove = Object.keys(mainTagData.subtags);
             selectedSubTags.value = selectedSubTags.value.filter(
                 subtag => !subtagsToRemove.includes(subtag)
             );
             
-            // Nettoyer aussi les sous-sous-tags associés
+            // Also clean up sub-subtags
             selectedSubSubTags.value = selectedSubSubTags.value.filter(subsubtag => {
                 for (const subtag of subtagsToRemove) {
                     const subtagData = mainTagData?.subtags?.[subtag];
@@ -95,10 +144,10 @@ function toggleMainTag(tag: string) {
         }
     }
     
-    // Mettre à jour la référence une seule fois
+    // Update state (single update to trigger reactivity once)
     selectedMainTags.value = newSelectedMainTags;
     
-    // Forcer une mise à jour immédiate du DOM
+    // Wait for DOM to update, then trigger filter update
     nextTick(() => {
         updateFilters();
     });
@@ -137,31 +186,50 @@ function toggleSubSubTag(mainTag: string, subtagKey: string, subsubtagKey: strin
     updateFilters();
 }
 
-// Mise à jour des filtres et chargement des posts
+/**
+ * Updates filters with debouncing
+ * 
+ * DEBOUNCING STRATEGY:
+ * Waits 300ms after the last tag selection before triggering API call.
+ * This prevents excessive requests when user rapidly clicks multiple tags.
+ * 
+ * Example: User clicks 5 tags quickly → only 1 API call after 300ms of inactivity
+ * 
+ * EDGE CASES:
+ * - No tags selected: Reset to initial posts, clear URL params
+ * - Tags selected: Trigger loadPosts() after debounce period
+ * 
+ * URL SYNC:
+ * Updates browser URL without page reload (enables sharing/bookmarking)
+ */
 function updateFilters() {
-    // Annuler le timer précédent s'il existe
+    // Cancel previous timer if user is still selecting tags
     if (debounceTimer) clearTimeout(debounceTimer);
     
+    // Combine all selected tags across hierarchy levels
     const allSelectedTags = [
         ...selectedMainTags.value,
         ...selectedSubTags.value,
         ...selectedSubSubTags.value
     ];
     
+    // Wait 300ms before executing (debounce)
     debounceTimer = setTimeout(() => {
         if (allSelectedTags.length === 0) {
+            // No filters → show all posts
             posts.value = props.initialPosts;
             currentPage.value = 1;
             emit('update:posts', posts.value);
             emit('update:selectedTags', []);
-            // Mise à jour de l'URL
+            
+            // Clear URL query params (clean URL)
             const url = new URL(window.location.href);
             url.searchParams.delete('tags');
             window.history.pushState({}, '', url.toString());
             return;
         }
         loadPosts();
-    }, 300);
+    }, 300); // 300ms debounce (balance between responsiveness and efficiency)
 }
 
 // Fonction pour réinitialiser tous les filtres
@@ -179,7 +247,25 @@ function resetFilters() {
     window.history.pushState({}, '', url.toString());
 }
 
-// Modification de la fonction loadPosts
+/**
+ * Loads posts from API based on selected tags
+ * 
+ * API ROUTING STRATEGY:
+ * 1. Single tag: Use /api/tags/{tag}.json (pre-generated, fast)
+ * 2. Multiple tags: Use /api/filter-posts.json (may be cached if common combo)
+ * 
+ * PERFORMANCE OPTIMIZATIONS:
+ * - Debounced to avoid request spam
+ * - Leverages browser/CDN caching (static routes cached for 1 year)
+ * - Shows loading state during fetch
+ * 
+ * ERROR HANDLING:
+ * - Empty results: Shows empty state (handled by PostGridVue)
+ * - Fetch errors: Logs to console, shows empty array
+ * 
+ * URL SYNC:
+ * Updates URL with selected tags (enables sharing filtered views)
+ */
 async function loadPosts() {
     if (debounceTimer) clearTimeout(debounceTimer);
     
@@ -190,7 +276,7 @@ async function loadPosts() {
         try {
             const allSelectedTags = [
                 ...selectedMainTags.value,
-                // Temporairement désactivé
+                // Subtags temporarily disabled (see template)
                 // ...selectedSubTags.value,
                 // ...selectedSubSubTags.value
             ];
@@ -203,7 +289,7 @@ async function loadPosts() {
             let response;
             let data;
 
-            // Utiliser l'API statique pour un seul tag principal
+            // OPTIMIZATION: Single tag uses static API (faster)
             if (allSelectedTags.length === 1) {
                 const mainTag = allSelectedTags[0];
                 response = await fetch(`/api/tags/${mainTag}.json`);
@@ -215,7 +301,7 @@ async function loadPosts() {
                     console.log('Réponse depuis l\'API statique des tags principaux');
                 }
             } 
-            // Utiliser l'API de filtrage pour plusieurs tags principaux
+            // Multiple tags use filter API (may be cached if common combo)
             else {
                 const params = new URLSearchParams();
                 allSelectedTags.forEach(tag => {
