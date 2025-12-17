@@ -1,5 +1,37 @@
+/**
+ * Tag Hierarchy Configuration
+ * 
+ * Defines the complete taxonomy of blog post tags in a 3-level hierarchy:
+ * 1. Main tags (business, marketing, tech, etc.) - Top-level categories
+ * 2. Subtags (entrepreneuriat, finance, etc.) - Mid-level subcategories
+ * 3. Sub-subtags (startup, validation, etc.) - Specific topics
+ * 
+ * STRUCTURE:
+ * - Each level has a human-readable "label" for UI display
+ * - Optional "subtags" object for child tags
+ * - Used by filtering logic, UI components, and route generation
+ * 
+ * BUSINESS LOGIC:
+ * - When a subtag is selected, its parent is implicitly included
+ * - Tag normalization handles accent/case variations
+ * - This structure drives the FilterTags component UI
+ * 
+ * MAINTENANCE:
+ * - Add new tags here to make them available site-wide
+ * - Keep labels concise for UI display
+ * - Organize logically to help users find content
+ * 
+ * @module tagHierarchy
+ */
+
 import type { TagCategory, TagHierarchy } from '../utils/types/tags';
 
+/**
+ * Complete tag taxonomy for the blog
+ * 
+ * This object is the single source of truth for all tags.
+ * Changes here propagate to: filtering, navigation, API routes, etc.
+ */
 export const tagHierarchy: TagHierarchy = {
   business: {
     label: 'Business',
