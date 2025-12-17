@@ -58,3 +58,30 @@ The RSS will output to `https://example.com/feed.xml` by default. You can change
 The theme has a few colors that you can use in the included components.
 
 More colors can be added in `astro.config.mjs` in the `colors` array.
+
+## Documentation
+
+### Development Stack
+
+For comprehensive information about the webinde technology stack, build process, and development workflows, see [DEVELOPMENT.md](./DEVELOPMENT.md).
+
+### BMAD Method Integration
+
+We use the **BMAD Method** (Build More, Architect Dreams) for structured, AI-driven agile development. BMAD provides specialized AI agents and proven workflows for the complete development lifecycle.
+
+**Quick Links:**
+- [BMAD Method Overview](./docs/BMAD-METHOD-OVERVIEW.md) - What is BMAD and why we use it
+- [Installation Guide](./docs/BMAD-INSTALLATION.md) - How to install and set up BMAD
+- [Integration Strategy](./docs/BMAD-INTEGRATION-STRATEGY.md) - Our adoption plan and roadmap
+- [Best Practices](./docs/BMAD-BEST-PRACTICES.md) - Guidelines for using BMAD effectively
+- [Implementation Guide](./docs/IMPLEMENTATION-GUIDE.md) - Step-by-step immediate next steps
+
+**Getting Started with BMAD:**
+1. Read the [overview](./docs/BMAD-METHOD-OVERVIEW.md) to understand the framework
+2. Follow the [installation guide](./docs/BMAD-INSTALLATION.md) to set up BMAD
+3. Use the [implementation guide](./docs/IMPLEMENTATION-GUIDE.md) for your first 48 hours
+
+**External Resources:**
+- Official Repository: https://github.com/bmad-code-org/BMAD-METHOD
+- Community Discord: https://discord.gg/gk8jAdXWmj
+- Video Tutorials: https://www.youtube.com/@BMadCode
