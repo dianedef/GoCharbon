@@ -19,6 +19,11 @@ export default defineConfig({
         format: 'directory'
     },
     vite: {
+        server: {
+            host: '0.0.0.0',
+            strictPort: false,
+            allowedHosts: ['.nip.io', '.dianedefores.fr']
+        },
         ssr: {
             noExternal: ['@unocss/astro']
         },
