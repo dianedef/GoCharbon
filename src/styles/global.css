@@ -1,11 +1,29 @@
 :root {
   --border-color: black;
   --border-color-dark: #FFD35AD9;
+  
+  /* Global font sizes */
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --text-4xl: 2.25rem;
+  --text-5xl: 3rem;
 }
 
 .dark {
   --border-color: #FFD35AD9;
 }
+
+/* Typography classes */
+.global-text-base { font-size: var(--text-base); }
+.global-text-lg { font-size: var(--text-lg); }
+.global-text-xl { font-size: var(--text-xl); }
+.global-text-2xl { font-size: var(--text-2xl); }
+.global-text-3xl { font-size: var(--text-3xl); }
+.global-text-4xl { font-size: var(--text-4xl); }
+.global-text-5xl { font-size: var(--text-5xl); }
 
 .card-shadow {
   filter: drop-shadow(7px 7px 0 rgb(0 0 0 / 1));

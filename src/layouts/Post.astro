@@ -24,11 +24,11 @@ const ogImage = new URL(`/v1/generate/og/${Astro.params.slug}.png`, Astro.url);
 
 <Layout title={title} description={description} ogImage={ogImage}>
 	<div class="p-6 dark:bg-black" transition:name={`post-${id}`}>
-		<main class="lg:grid lg:grid-cols-3 flex justify-center">
+		<main class="lg:grid lg:grid-cols-3 flex justify-center gap-4">
 			<SideBar headings={headings as any[]} />
-			<div class="col-span-2">
+			<div class="col-span-2 max-w-full">
 				<h1
-					class="text-xl md:text-3xl font-bold mx-6 mb-2 md:my-4 poppins dark:text-[#FFD35AD9]"
+					class="text-xl md:text-2xl font-bold mb-2 md:my-4 poppins dark:text-[#FFD35AD9]"
 					transition:name={`title-${id}`}
 				>
 					{title}

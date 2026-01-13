@@ -9,12 +9,12 @@ import colors from "../config/colors.json";
 ---
 
 <article
-	class="prose prose-h2:text-lg md:prose-h2:text-2xl prose-h2:mt-2 md:prose-h2:mt-6 prose-h2:mb-2 md:prose-h2:mb-4 prose-slate w-sm md:w-prose poppins p-6 md:p-6 rounded-lg bg-white dark:bg-black dark:prose-dark"
+	class="prose prose-lg md:prose-xl prose-h2:text-2xl md:prose-h2:text-3xl prose-h2:mt-2 md:prose-h2:mt-6 prose-h2:mb-2 md:prose-h2:mb-4 prose-slate w-full max-w-full poppins p-4 md:p-6 rounded-lg bg-white dark:bg-black dark:prose-dark"
 >
 	<a href="/" title="Retour" class="hover:text-green dark:hover:text-green-400"
 		>&larr; Retour</a
 	>
-	<p class="text-xs md:text-base">
+	<p class="text-base md:text-lg">
 		Publié le {pubDate} par {author}
 	</p>
 	<div>
@@ -29,6 +29,12 @@ import colors from "../config/colors.json";
 </article>
 
 <style>
+	article :global(h1) {
+		font-size: 1.5rem;
+		margin-top: 1rem;
+		margin-bottom: 0.5rem;
+	}
+
 	article :global(h2) {
 		font-size: 1.25rem;
 		margin-top: 1rem;
@@ -36,6 +42,12 @@ import colors from "../config/colors.json";
 	}
 
 	@media (min-width: 768px) {
+		article :global(h1) {
+			font-size: 1.875rem;
+			margin-top: 2rem;
+			margin-bottom: 1rem;
+		}
+
 		article :global(h2) {
 			font-size: 1.5rem;
 			margin-top: 2rem;

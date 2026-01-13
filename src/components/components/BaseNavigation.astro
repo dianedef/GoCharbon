@@ -97,7 +97,7 @@ const { pageTitle } = Astro.props;
 		{pageTitle && <h1 class="hidden">{pageTitle}</h1>}
 		<div class="flex items-center gap-4">
 			<a href="/" title="Back to Home">
-				<p class="righteous text-2xl md:text-4xl">Web'Indé</p>
+				<p class="righteous text-3xl md:text-5xl">Web'Indé</p>
 			</a>
 			<Breadcrumbs {...breadcrumbsConfig}>
 				<Home slot="home" class="w-5 h-5" />
@@ -111,7 +111,7 @@ const { pageTitle } = Astro.props;
 					navigationItems.map((item) => (
 						<li>
 							<a
-								class="text-base font-medium hover:text-green dark:hover:text-green-400 hover:underline transition-all duration-150 ease-in-out"
+								class="text-lg font-medium hover:text-green dark:hover:text-green-400 hover:underline transition-all duration-150 ease-in-out"
 								href={item.url}
 								title={`Go to ${item.name}`}
 							>
@@ -130,7 +130,7 @@ const { pageTitle } = Astro.props;
 								title={`'See @ElianCodes on ${item.name}`}
 							>
 								<div
-									class:list={[item.icon, "w-5 h-5 md:w-6 md:h-6"]}
+									class:list={[item.icon, "w-6 h-6 md:w-7 md:h-7"]}
 								/>
 							</a>
 						</li>
@@ -145,7 +145,7 @@ const { pageTitle } = Astro.props;
 			<h2 class="hidden">Mobile Navigation</h2>
 			<ThemeToggle />
 			<ul>
-				<li><a href="/" class="mobile-link text-sm">Retour</a></li>
+				<li><a href="/" class="mobile-link text-base">Retour</a></li>
 			</ul>
 		</nav>
 	</div>
