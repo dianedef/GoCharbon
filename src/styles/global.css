@@ -22,6 +22,52 @@
   --link-hover-color: #9e4fff;
 }
 
+/* Section transitions - Brutal zigzag style */
+section {
+  position: relative;
+  border-bottom: 5px solid #000;
+  clip-path: polygon(
+    0 0, 
+    100% 0, 
+    100% calc(100% - 30px),
+    95% calc(100% - 15px),
+    90% calc(100% - 30px),
+    85% calc(100% - 15px),
+    80% calc(100% - 30px),
+    75% calc(100% - 15px),
+    70% calc(100% - 30px),
+    65% calc(100% - 15px),
+    60% calc(100% - 30px),
+    55% calc(100% - 15px),
+    50% calc(100% - 30px),
+    45% calc(100% - 15px),
+    40% calc(100% - 30px),
+    35% calc(100% - 15px),
+    30% calc(100% - 30px),
+    25% calc(100% - 15px),
+    20% calc(100% - 30px),
+    15% calc(100% - 15px),
+    10% calc(100% - 30px),
+    5% calc(100% - 15px),
+    0 calc(100% - 30px)
+  );
+  margin-bottom: 30px;
+  padding-bottom: 50px !important; /* Ajoute du padding pour que le background couvre le zigzag */
+}
+
+/* Mode sombre */
+.dark section {
+  border-bottom-color: #9e4fff;
+}
+
+/* Retire l'effet pour la dernière section */
+section:last-child {
+  clip-path: none;
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0 !important;
+}
+
 /* Global link styles */
 a:not(.no-link-style) {
   color: var(--link-color);
