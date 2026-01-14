@@ -1,0 +1,37 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Default.astro";
+import FilterTags from "../components/components/FilterTags.vue";
+import { tagHierarchy } from "../components/tagHierarchy";
+import type { Post, PostsUpdateEvent } from "../utils/types/content";
+
+// Récupération des posts initiaux pour le SSG
+const allPosts = await getCollection("posts");
+const initialPosts = allPosts
+	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+	.slice(0, 15);
+
+const mainTags = Object.keys(tagHierarchy);
+const totalPages = Math.ceil(allPosts.length / 15);
+---
+
+<Layout title="Posts" description="Web'Indé |" pageTitle="Web'Indé Posts">
+	<main class="px-2 md:px-6 py-6 max-w-7xl mx-auto">
+		<!-- Zone de contenu dynamique -->
+		<div id="dynamic-content">
+			<!-- Composant Vue pour le filtrage -->
+			<FilterTags
+				client:visible
+				mainTags={mainTags}
+				tagHierarchy={tagHierarchy}
+				initialPosts={initialPosts}
+			/>
+		</div>
+	</main>
+</Layout>
+
+<style>
+	.page-background {
+		transition: background-color 0.3s ease;
+	}
+</style>

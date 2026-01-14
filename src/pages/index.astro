@@ -1,37 +1,155 @@
 ---
-import { getCollection } from "astro:content";
 import Layout from "../layouts/Default.astro";
-import FilterTags from "../components/components/FilterTags.vue";
-import { tagHierarchy } from "../components/tagHierarchy";
-import type { Post, PostsUpdateEvent } from "../utils/types/content";
-
-// Récupération des posts initiaux pour le SSG
-const allPosts = await getCollection("posts");
-const initialPosts = allPosts
-	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
-	.slice(0, 15);
-
-const mainTags = Object.keys(tagHierarchy);
-const totalPages = Math.ceil(allPosts.length / 15);
+import Button from "../components/components/Button.astro";
 ---
 
-<Layout title="Posts" description="Web'Indé |" pageTitle="Web'Indé Posts">
-	<main class="px-2 md:px-6 py-6 max-w-7xl mx-auto">
-		<!-- Zone de contenu dynamique -->
-		<div id="dynamic-content">
-			<!-- Composant Vue pour le filtrage -->
-			<FilterTags
-				client:visible
-				mainTags={mainTags}
-				tagHierarchy={tagHierarchy}
-				initialPosts={initialPosts}
-			/>
-		</div>
+<Layout 
+	title="Web'Indé - Gagne ta Liberté sur Internet" 
+	description="Découvre comment créer ton business en ligne et devenir indépendant financièrement. Guides, outils et stratégies pour réussir sur internet."
+	pageTitle="Web'Indé"
+>
+	<main class="min-h-screen">
+		<!-- Hero Section -->
+		<section class="px-6 py-16 md:py-24 max-w-6xl mx-auto text-center">
+			<h1 class="text-4xl md:text-6xl font-bold mb-6 poppins dark:text-[#FFD35AD9]">
+				Transforme tes Compétences en Business Rentable
+			</h1>
+			<p class="text-xl md:text-2xl mb-8 max-w-3xl mx-auto poppins dark:text-[#FFD35AD9]">
+				Apprends à créer, lancer et développer ton activité en ligne. 
+				Sans bullshit, sans promesses irréalistes. Juste des stratégies qui marchent.
+			</p>
+			<div class="flex flex-col md:flex-row gap-4 justify-center items-center">
+				<Button href="#quiz" color="#FFD35A">
+					🎯 Quel Business pour Moi ?
+				</Button>
+				<Button href="#newsletter" color="#B4E7FF">
+					📧 Rejoindre la Newsletter
+				</Button>
+			</div>
+		</section>
+
+		<!-- Value Proposition Section -->
+		<section class="px-6 py-16 bg-gray-50 dark:bg-black">
+			<div class="max-w-6xl mx-auto">
+				<h2 class="text-3xl md:text-5xl font-bold text-center mb-12 poppins dark:text-[#FFD35AD9]">
+					Pourquoi Web'Indé ?
+				</h2>
+				<div class="grid md:grid-cols-3 gap-8">
+					<div class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg">
+						<div class="text-4xl mb-4">🚀</div>
+						<h3 class="text-2xl font-bold mb-3 poppins dark:text-[#FFD35AD9]">Guides Pratiques</h3>
+						<p class="text-lg dark:text-[#FFD35AD9]">
+							Des tutoriels concrets pour lancer ton business en ligne, du choix de la niche à la première vente.
+						</p>
+					</div>
+					<div class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg">
+						<div class="text-4xl mb-4">🛠️</div>
+						<h3 class="text-2xl font-bold mb-3 poppins dark:text-[#FFD35AD9]">Outils & Tech</h3>
+						<p class="text-lg dark:text-[#FFD35AD9]">
+							Les meilleurs outils pour automatiser, optimiser et scaler ton activité sans te ruiner.
+						</p>
+					</div>
+					<div class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg">
+						<div class="text-4xl mb-4">💡</div>
+						<h3 class="text-2xl font-bold mb-3 poppins dark:text-[#FFD35AD9]">Stratégies Réelles</h3>
+						<p class="text-lg dark:text-[#FFD35AD9]">
+							Des méthodes testées et validées, pas de la théorie. Ce qui marche vraiment en 2026.
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Topics Section -->
+		<section class="px-6 py-16 max-w-6xl mx-auto">
+			<h2 class="text-3xl md:text-5xl font-bold text-center mb-12 poppins dark:text-[#FFD35AD9]">
+				Ce que tu vas Apprendre
+			</h2>
+			<div class="grid md:grid-cols-2 gap-6">
+				<a href="/blog?tags=business" class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg hover:shadow-lg transition-all">
+					<h3 class="text-2xl font-bold mb-2 poppins dark:text-[#FFD35AD9]">💼 Business en Ligne</h3>
+					<p class="text-lg dark:text-[#FFD35AD9]">Modèles économiques, stratégies de lancement, monétisation</p>
+				</a>
+				<a href="/blog?tags=marketing" class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg hover:shadow-lg transition-all">
+					<h3 class="text-2xl font-bold mb-2 poppins dark:text-[#FFD35AD9]">📈 Marketing Digital</h3>
+					<p class="text-lg dark:text-[#FFD35AD9]">SEO, publicité, copywriting, conversion</p>
+				</a>
+				<a href="/blog?tags=tech" class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg hover:shadow-lg transition-all">
+					<h3 class="text-2xl font-bold mb-2 poppins dark:text-[#FFD35AD9]">⚙️ Tech & Automatisation</h3>
+					<p class="text-lg dark:text-[#FFD35AD9]">IA, no-code, outils pour gagner du temps</p>
+				</a>
+				<a href="/blog?tags=productivite" class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg hover:shadow-lg transition-all">
+					<h3 class="text-2xl font-bold mb-2 poppins dark:text-[#FFD35AD9]">⚡ Productivité</h3>
+					<p class="text-lg dark:text-[#FFD35AD9]">Gestion du temps, focus, workflows efficaces</p>
+				</a>
+			</div>
+		</section>
+
+		<!-- Quiz CTA Section -->
+		<section id="quiz" class="px-6 py-16 bg-yellow-100 dark:bg-gray-900">
+			<div class="max-w-4xl mx-auto text-center">
+				<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins dark:text-[#FFD35AD9]">
+					🎯 Quel Business en Ligne pour Toi ?
+				</h2>
+				<p class="text-xl md:text-2xl mb-8 dark:text-[#FFD35AD9]">
+					Réponds à quelques questions et découvre le modèle d'affaires qui correspond 
+					à tes compétences, ton temps et tes objectifs.
+				</p>
+				<Button href="/quiz" color="#FFD35A">
+					Commencer le Quiz (2 min)
+				</Button>
+			</div>
+		</section>
+
+		<!-- Newsletter Section -->
+		<section id="newsletter" class="px-6 py-16 max-w-4xl mx-auto">
+			<div class="text-center">
+				<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins dark:text-[#FFD35AD9]">
+					📧 Reçois les Meilleurs Conseils
+				</h2>
+				<p class="text-xl md:text-2xl mb-8 dark:text-[#FFD35AD9]">
+					Chaque semaine, des stratégies concrètes pour développer ton business en ligne. 
+					Rejoins les 1000+ entrepreneurs qui me lisent.
+				</p>
+				<form class="flex flex-col md:flex-row gap-4 max-w-2xl mx-auto">
+					<input 
+						type="email" 
+						placeholder="ton@email.com" 
+						class="flex-1 px-6 py-4 text-lg border-3 border-black dark:border-[#FFD35AD9] rounded-lg dark:bg-black dark:text-[#FFD35AD9]"
+						required
+					/>
+					<button 
+						type="submit"
+						class="px-8 py-4 text-lg font-bold bg-[#FFD35A] border-3 border-black dark:border-[#FFD35AD9] rounded-lg hover:shadow-lg transition-all"
+					>
+						S'inscrire
+					</button>
+				</form>
+				<p class="text-sm mt-4 text-gray-600 dark:text-gray-400">
+					✓ Pas de spam • ✓ Désinscription en 1 clic • ✓ Gratuit pour toujours
+				</p>
+			</div>
+		</section>
+
+		<!-- Blog Preview Section -->
+		<section class="px-6 py-16 bg-gray-50 dark:bg-black">
+			<div class="max-w-6xl mx-auto">
+				<div class="flex justify-between items-center mb-12">
+					<h2 class="text-3xl md:text-5xl font-bold poppins dark:text-[#FFD35AD9]">
+						Derniers Articles
+					</h2>
+					<Button href="/blog" color="#B4E7FF">
+						Voir tout le Blog →
+					</Button>
+				</div>
+				<!-- TODO: Add recent posts component here -->
+			</div>
+		</section>
 	</main>
 </Layout>
 
 <style>
-	.page-background {
+	section {
 		transition: background-color 0.3s ease;
 	}
 </style>
