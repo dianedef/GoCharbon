@@ -167,46 +167,50 @@ Imagine un ami entrepreneur expérimenté qui :
 
 **Philosophie :** Audacieux, direct, impossible à ignorer. Comme notre ton.
 
+**⚠️ RÈGLE D'OR : Uniquement les 19 couleurs de la palette officielle. Aucune autre couleur n'est autorisée.**
+
 ### Palette de Couleurs
 
-#### Couleurs Principales
+#### Palette de Couleurs Officielle
+
+**IMPORTANT : Ce sont les SEULES couleurs autorisées sur le site.**
+
 ```
-Primary (Jaune)     : #FFD35A   (boutons CTA, highlights)
-Secondary (Bleu)    : #B4E7FF   (liens, accents)
-Noir                : #000000   (texte, bordures)
-Blanc               : #FFFFFF   (backgrounds light mode)
+🎨 COULEURS PRIMAIRES (vives, belles - pour CTAs et accents)
+#ffe001   - Jaune vif principal (primary)
+#eec93c   - Jaune doré
+#ffca00   - Jaune brillant
+#9e4fff   - Violet vif (accent)
+#7134c0   - Violet moyen
+#caa1ff   - Violet clair (secondary)
+
+🌈 COULEURS SECONDAIRES (backgrounds, subtils)
+#fff6d2   - Jaune très doux
+#ffeea6   - Jaune pâle
+#fed849   - Jaune standard
+#cea200   - Jaune foncé
+#f7ebff   - Violet très pâle
+#e9d4ff   - Violet léger
+#f9f9ff   - Blanc cassé
+#000000   - Noir
+
+🌙 COULEURS DARK MODE
+#45088a   - Violet très foncé (liens)
+#7134c0   - Violet moyen
+#5f13bb   - Violet foncé
+#420d82   - Violet plus foncé
+#3b4458   - Gris bleuté
+
+🔗 LIENS
+Normal:   #45088a (violet foncé) en light, #caa1ff en dark
+Survol:   #caa1ff (violet clair) en light, #9e4fff en dark
 ```
 
-#### Couleurs Light Mode
-```
-Jaune clair         : #FFF6D2
-Jaune moyen         : #FFEEA6
-Jaune vif           : #FFE16C
-Jaune intense       : #FED849
-Jaune foncé         : #FFCA00
-Violet clair        : #F7EBFF
-Violet moyen        : #E9D4FF
-Violet vif          : #CAA1FF
-Gris très clair     : #F9F9FF
-```
-
-#### Couleurs Dark Mode
-```
-Background          : #000000   (noir pur)
-Text primary        : #FFD35AD9 (softWhite)
-Accent violet foncé : #45088A
-Accent violet       : #7134C0
-Accent violet vif   : #5F13BB
-Gris bleuté         : #3B4458
-```
-
-#### Couleurs Sémantiques
-```
-Success (vert)      : #10B981
-Warning (orange)    : #F59E0B
-Error (rouge)       : #EF4444
-Info (bleu)         : #3B82F6
-```
+**🎯 Règles d'utilisation :**
+- Couleurs primaires = CTAs, éléments importants, sections phares
+- Couleurs secondaires = backgrounds, textes secondaires
+- Couleurs aléatoires = UNIQUEMENT pour les tags
+- Tout le reste = couleurs fixes définies
 
 ### Typographie
 
@@ -546,10 +550,11 @@ Avant de publier un contenu, vérifier :
 
 ### Design
 - [ ] Images en brutal style (bordures, ombres)
-- [ ] CTA en couleurs brand (#FFD35A ou #B4E7FF)
+- [ ] CTA en couleurs brand (palette officielle uniquement)
 - [ ] Emojis dans les titres de sections
 - [ ] Espacement cohérent
 - [ ] Lisible en dark mode
+- [ ] Aucune couleur hors de la palette des 19 couleurs
 
 ---
 

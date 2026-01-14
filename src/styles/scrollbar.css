@@ -75,29 +75,29 @@
 :global(.dark) ::-webkit-scrollbar-track {
   background: linear-gradient(
     45deg,
-    #FFE8A7D3 25%,
+    #fff6d2 25%,
     transparent 25%,
     transparent 75%,
-    #FFE8A7D3 75%,
-    #FFE8A7D3
+    #fff6d2 75%,
+    #fff6d2
   ),
   linear-gradient(
     45deg,
-    #FFE8A7D3 25%,
+    #fff6d2 25%,
     transparent 25%,
     transparent 75%,
-    #FFE8A7D3 75%,
-    #FFE8A7D3
+    #fff6d2 75%,
+    #fff6d2
   );
   background-color: black;
   background-size: 4px 4px;
   background-position: 0 0, 2px 2px;
-  border-left: 3px solid #FFE8A7D3;
+  border-left: 3px solid #fff6d2;
 }
 
 :global(.dark) ::-webkit-scrollbar-thumb {
   background-color: black;
-  border: 2px solid #FFE8A7D3;
+  border: 2px solid #fff6d2;
   border-right: none;
 }
 

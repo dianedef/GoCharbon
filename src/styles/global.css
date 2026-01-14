@@ -1,6 +1,10 @@
 :root {
   --border-color: black;
-  --border-color-dark: #FFD35AD9;
+  --border-color-dark: #fff6d2;
+  
+  /* Brand colors */
+  --link-color: #45088a;
+  --link-hover-color: #caa1ff;
   
   /* Global font sizes */
   --text-base: 1rem;
@@ -13,7 +17,65 @@
 }
 
 .dark {
-  --border-color: #FFD35AD9;
+  --border-color: #fff6d2;
+  --link-color: #caa1ff;
+  --link-hover-color: #9e4fff;
+}
+
+/* Global link styles */
+a:not(.no-link-style) {
+  color: var(--link-color);
+  transition: color 0.2s ease;
+}
+
+a:not(.no-link-style):hover {
+  color: var(--link-hover-color);
+}
+
+/* Navbar icons - override link colors */
+header a {
+  color: black !important;
+}
+
+header a:hover {
+  color: #ffe001 !important; /* yellow-primary */
+}
+
+.dark header a {
+  color: #fff6d2 !important; /* yellow-soft */
+}
+
+.dark header a:hover {
+  color: #eec93c !important; /* yellow-gold */
+}
+
+/* Brutal button styles for forms */
+.brutal-btn-form {
+  filter: drop-shadow(5px 5px 0 rgb(0 0 0 / 1));
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+.brutal-btn-form:hover {
+  filter: drop-shadow(3px 3px 0 rgb(0 0 0 / 1));
+  transform: translate(2px, 2px);
+}
+
+.brutal-btn-form:active {
+  filter: drop-shadow(2px 2px 0 rgb(0 0 0 / 1));
+  transform: translate(3px, 3px);
+}
+
+.dark .brutal-btn-form {
+  filter: drop-shadow(5px 5px 0 #fff6d2);
+}
+
+.dark .brutal-btn-form:hover {
+  filter: drop-shadow(3px 3px 0 #fff6d2);
+}
+
+.dark .brutal-btn-form:active {
+  filter: drop-shadow(2px 2px 0 #fff6d2);
 }
 
 /* Typography classes */
@@ -128,29 +190,29 @@ body {
 .dark ::-webkit-scrollbar-track {
   background: linear-gradient(
       45deg,
-      #ffe8a7d3 25%,
+      #fff6d2 25%,
       transparent 25%,
       transparent 75%,
-      #ffe8a7d3 75%,
-      #ffe8a7d3
+      #fff6d2 75%,
+      #fff6d2
     ),
     linear-gradient(
       45deg,
-      #ffe8a7d3 25%,
+      #fff6d2 25%,
       transparent 25%,
       transparent 75%,
-      #ffe8a7d3 75%,
-      #ffe8a7d3
+      #fff6d2 75%,
+      #fff6d2
     );
   background-color: black;
   background-size: 4px 4px;
   background-position: 0 0, 2px 2px;
-  border-left: 3px solid #ffe8a7d3;
+  border-left: 3px solid #fff6d2;
 }
 
 .dark ::-webkit-scrollbar-thumb {
   background-color: black;
-  border: 2px solid #ffe8a7d3;
+  border: 2px solid #fff6d2;
   border-right: none;
 }
 

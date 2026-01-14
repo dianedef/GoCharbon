@@ -54,7 +54,7 @@ function handleClick() {
 <style>
 /* Variables globales */
 :root {
-    --softWhite: #FFD35AD9;
+    --softWhite: #fff6d2;
 }
 
 .vue-brutal-pill {

@@ -12,7 +12,7 @@ const {
 } = Astro.props;
 ---
 
-<style define:vars={{ color, darkColor, softWhite: '#FFD35AD9' }}>
+<style define:vars={{ color, softWhite: '#fff6d2' }}>
 	a.brutal-btn {
 		filter: drop-shadow(5px 5px 0 rgb(0 0 0 / 1));
 		background-color: white;
@@ -25,6 +25,7 @@ const {
 		font-family: "Sanchez", serif;
 		font-size: 1.25rem;
 		font-weight: 700;
+		color: black;
 	}
 	a.brutal-btn:hover {
 		filter: drop-shadow(3px 3px 0 rgb(0 0 0 / 1));
@@ -40,8 +41,7 @@ const {
 
 	:global(.dark) a.brutal-btn:hover {
 		filter: drop-shadow(3px 3px 0 var(--softWhite));
-		background-color: var(--darkColor);
-		color: var(--softWhite);
+		background-color: var(--color);
 	}
 </style>
 

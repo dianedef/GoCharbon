@@ -31,7 +31,7 @@ const {
 
 	<body class:list={[classList]}>
 		<BaseNavigation {pageTitle} />
-		<div class="page-background min-h-screen" transition:persist>
+		<div class="page-background min-h-screen bg-white dark:bg-black" transition:persist>
 			<slot />
 		</div>
 		<BaseFooter />
@@ -40,45 +40,6 @@ const {
 				<script async src="https://cdn.onthe.io/io.js/YyAMWtaLLPUi" />
 			)
 		}
-		<script>
-			import { useRandomColor } from "../composables/useRandomColor";
-			const { getRandomColor } = useRandomColor();
-
-			function updateBackgroundColor() {
-				const isDark = document.documentElement.classList.contains("dark");
-				const color = getRandomColor(isDark);
-				const element = document.querySelector(
-					".page-background",
-				) as HTMLElement;
-				if (element) {
-					element.style.backgroundColor = color;
-				}
-			}
-
-			// Initialisation immédiate
-			updateBackgroundColor();
-
-			// Mettre à jour la couleur au changement de thème uniquement
-			window.addEventListener("theme-changed", updateBackgroundColor);
-
-			// Gestion des transitions
-			document.addEventListener("astro:before-preparation", () => {
-				// Capturer l'état du thème avant la transition
-				const isDark = document.documentElement.classList.contains("dark");
-				document.documentElement.dataset.previousTheme = isDark
-					? "dark"
-					: "light";
-			});
-
-			document.addEventListener("astro:before-swap", (event) => {
-				// Préserver le thème pendant la transition
-				const previousTheme =
-					document.documentElement.dataset.previousTheme;
-				if (previousTheme === "dark") {
-					event.newDocument.documentElement.classList.add("dark");
-				}
-			});
-		</script>
 		<style is:global>
 			/* Contrôle des transitions */
 			::view-transition-old(*),

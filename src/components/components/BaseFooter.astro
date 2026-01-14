@@ -4,7 +4,27 @@ export interface Props {
 }
 
 const { backToTop = false } = Astro.props;
-import colors from "../config/colors.json";
+
+const navigationLinks = [
+	{ name: "Apps", url: "/apps" },
+	{ name: "Blog", url: "/blog" },
+];
+
+const legalLinks = [
+	{ name: "Politique de confidentialité", url: "/confidentialite" },
+	{ name: "Mentions légales", url: "/mentions-legales" },
+	{ name: "CGU", url: "/cgu" },
+];
+
+const socialLinks = [
+	{ name: "YouTube", url: "https://www.youtube.com/@webindefr" },
+	{ name: "X (Twitter)", url: "https://x.com/webindefr" },
+	{ name: "Instagram", url: "https://www.instagram.com/webindefr" },
+	{ name: "LinkedIn", url: "https://www.linkedin.com/company/webindefr" },
+	{ name: "Facebook", url: "https://www.facebook.com/dianewebinde/" },
+];
+
+const currentYear = new Date().getFullYear();
 ---
 
 {
@@ -12,18 +32,18 @@ import colors from "../config/colors.json";
 		<button
 			class:list={[
 				backToTop ? `backToTop` : null,
-				"transition-300 z-50 opacity-0 fixed flex bottom-[10px] right-[30px] w-10 h-10 bg-white dark:bg-black border border-black dark:border-[--softWhite] card-shadow",
+				"transition-300 z-50 opacity-0 fixed flex bottom-[10px] right-[30px] w-10 h-10 bg-white dark:bg-black border-3 border-black dark:border-yellow-soft card-shadow items-center justify-center",
 			]}
 		>
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				fill="none"
 				viewBox="0 0 24 24"
-				height="100%"
-				width="100%"
-				stroke-width="1.5"
+				height="24"
+				width="24"
+				stroke-width="2"
 				stroke="currentColor"
-				class="dark:text-[--softWhite]"
+				class="dark:text-yellow-soft"
 			>
 				<path
 					stroke-linecap="round"
@@ -35,32 +55,90 @@ import colors from "../config/colors.json";
 	)
 }
 
-<footer class="bg-black text-white dark:text-[--softWhite] p-6">
-	<h2 class="hidden">Footer</h2>
+<footer class="bg-black text-white border-t-4 border-yellow-primary">
+	<div class="max-w-6xl mx-auto px-6 py-12">
+		<!-- Top section -->
+		<div class="grid md:grid-cols-4 gap-8 mb-8">
+			<!-- Brand -->
+			<div class="md:col-span-2">
+				<h2 class="righteous text-3xl mb-4 text-yellow-primary">Web'Indé</h2>
+				<p class="poppins text-lg mb-4 text-yellow-soft">
+					Le guide de survie digital pour entrepreneurs francophones qui refusent d'enrichir la Silicon Valley.
+				</p>
+				<p class="poppins text-sm text-yellow-soft">
+					🇫🇷 Made in France avec ❤️
+				</p>
+			</div>
 
-	<p class="outfit">2025 Webinde Tous droits réservés</p>
-	<p class="outfit">
-		<a
-			href="/"
-			target="_blank"
-			class="text-blue hover:text-blue-400 transition-colors"
-			>Politique de confidentialité</a
-		>
-		<p class="outfit">
-			<a
-				href="/"
-				target="_blank"
-				class="text-blue hover:text-blue-400 transition-colors"
-			>
-				Suppression des données
-			</a>
-		</p>
-	</p>
+			<!-- Navigation -->
+			<div>
+				<h3 class="poppins font-bold text-lg mb-4 text-yellow-primary">Navigation</h3>
+				<ul class="space-y-2">
+					{navigationLinks.map((link) => (
+						<li>
+							<a
+								href={link.url}
+								class="poppins text-yellow-soft hover:text-yellow-primary transition-colors duration-200"
+							>
+								{link.name}
+							</a>
+						</li>
+					))}
+				</ul>
+			</div>
+
+			<!-- Social -->
+			<div>
+				<h3 class="poppins font-bold text-lg mb-4 text-yellow-primary">Suivez-nous</h3>
+				<ul class="space-y-2">
+					{socialLinks.map((link) => (
+						<li>
+							<a
+								href={link.url}
+								target="_blank"
+								rel="noopener noreferrer"
+								class="poppins text-yellow-soft hover:text-yellow-primary transition-colors duration-200"
+							>
+								{link.name}
+							</a>
+						</li>
+					))}
+				</ul>
+			</div>
+		</div>
+
+		<!-- Divider -->
+		<div class="border-t border-yellow-soft/30 my-8"></div>
+
+		<!-- Bottom section -->
+		<div class="flex flex-col md:flex-row justify-between items-center gap-4">
+			<p class="poppins text-sm text-yellow-soft">
+				© {currentYear} Web'Indé. Tous droits réservés.
+			</p>
+			<ul class="flex flex-wrap gap-4 justify-center">
+				{legalLinks.map((link) => (
+					<li>
+						<a
+							href={link.url}
+							class="poppins text-sm text-yellow-soft hover:text-yellow-primary transition-colors duration-200"
+						>
+							{link.name}
+						</a>
+					</li>
+				))}
+			</ul>
+		</div>
+	</div>
 </footer>
 
-<style define:vars={{ softWhite: '#FFD35AD9' }}>
+<style>
 	.backToTop.active {
 		opacity: 1;
+		cursor: pointer;
+	}
+	
+	.backToTop:hover {
+		transform: translateY(-2px);
 	}
 </style>
 

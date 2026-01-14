@@ -35,7 +35,7 @@ const imgSrc = computed(() => {
 <template>
     <div class="brutal-card" :transition:name="`post-${post.id}`">
         <div class="p-3 md:p-4 rounded-lg dark:bg-black">
-            <h3 class="poppins text-base md:text-xl dark:text-[#FFD35AD9]" :transition:name="`title-${post.id}`">
+            <h3 class="poppins text-base md:text-xl dark:text-[#fff6d2]" :transition:name="`title-${post.id}`">
                 {{ data.title }}
             </h3>
             <div class="rounded-lg border-3 my-3 md:my-4 h-24 md:h-50 overflow-hidden">
@@ -50,7 +50,7 @@ const imgSrc = computed(() => {
                      @error="($event.target as HTMLImageElement).src = '/placeholder.jpg'" />
             </div>
             <div class="flex flex-col gap-2 md:gap-4">
-                <p class="poppins dark:text-[#FFD35AD9] text-sm md:text-base">
+                <p class="poppins dark:text-[#fff6d2] text-sm md:text-base">
                     {{ data.description }}
                 </p>
 
@@ -77,7 +77,7 @@ const imgSrc = computed(() => {
                             </a>
                         </li>
                     </ul>
-                    <span v-if="data.draft" class="bg-green rounded-full border-2 border-black dark:border-[#FFD35AD9] py-1 px-3 md:px-4 text-xs md:text-sm dark:text-[#FFD35AD9]">
+                    <span v-if="data.draft" class="bg-primary rounded-full border-2 border-black dark:border-[#fff6d2] py-1 px-3 md:px-4 text-xs md:text-sm dark:text-[#fff6d2]">
                         Brouillon
                     </span>
                 </div>

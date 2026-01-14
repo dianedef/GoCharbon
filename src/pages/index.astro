@@ -9,61 +9,63 @@ import Button from "../components/components/Button.astro";
 	pageTitle="Web'Indé"
 >
 	<main class="min-h-screen">
-		<!-- Hero Section -->
-		<section class="px-6 py-16 md:py-24 max-w-6xl mx-auto text-center">
-			<h1 class="text-4xl md:text-6xl font-bold mb-6 poppins dark:text-[#FFD35AD9]">
-				Tu Veux Gagner ta Vie sur Internet, Mais tu ne Sais pas par Où Commencer ?
-			</h1>
-			<p class="text-xl md:text-2xl mb-8 max-w-3xl mx-auto poppins dark:text-[#FFD35AD9]">
-				Je comprends. Tu scrolles Instagram en voyant des gens vivre de leur laptop, tu te dis "pourquoi pas moi ?". 
-				Mais entre les faux gurus qui te promettent 10k€/mois en 30 jours et les termes techniques incompréhensibles (SEO, funnel, automation...), 
-				tu te sens perdu. La bonne nouvelle ? <strong>Tu es au bon endroit.</strong>
-			</p>
-			<p class="text-lg md:text-xl mb-8 max-w-3xl mx-auto poppins text-gray-700 dark:text-gray-300">
-				Sur Web'Indé, pas de bullshit. Juste des explications claires, des étapes concrètes et des stratégies testées pour construire 
-				ton business en ligne — même si tu pars de zéro aujourd'hui.
-			</p>
-			<div class="flex flex-col md:flex-row gap-4 justify-center items-center">
-				<Button href="#quiz" color="#FFD35A">
-					🎯 Découvre Ton Business Idéal
-				</Button>
-				<Button href="#newsletter" color="#B4E7FF">
-					📧 Reçois le Guide Gratuit
-				</Button>
+		<!-- Hero Section - JAUNE VIF (couleur primaire) -->
+		<section class="bg-yellow-primary">
+			<div class="px-6 py-16 md:py-24 max-w-6xl mx-auto text-center">
+				<h1 class="text-4xl md:text-6xl font-bold mb-6 poppins text-black">
+					Tu Veux Gagner ta Vie sur Internet, Mais tu ne Sais pas par Où Commencer ?
+				</h1>
+				<p class="text-xl md:text-2xl mb-8 max-w-3xl mx-auto poppins text-black">
+					Je comprends. Tu scrolles Instagram en voyant des gens vivre de leur laptop, tu te dis "pourquoi pas moi ?". 
+					Mais entre les faux gurus qui te promettent 10k€/mois en 30 jours et les termes techniques incompréhensibles (SEO, funnel, automation...), 
+					tu te sens perdu. La bonne nouvelle ? <strong>Tu es au bon endroit.</strong>
+				</p>
+				<p class="text-lg md:text-xl mb-8 max-w-3xl mx-auto poppins text-black">
+					Sur Web'Indé, pas de bullshit. Juste des explications claires, des étapes concrètes et des stratégies testées pour construire 
+					ton business en ligne — même si tu pars de zéro aujourd'hui.
+				</p>
+				<div class="flex flex-col md:flex-row gap-4 justify-center items-center">
+					<Button href="#quiz" color="#ffe001">
+						🎯 Découvre Ton Business Idéal
+					</Button>
+					<Button href="#newsletter" color="#9e4fff">
+						📧 Reçois le Guide Gratuit
+					</Button>
+				</div>
 			</div>
 		</section>
 
-		<!-- Value Proposition Section -->
-		<section class="px-6 py-16 bg-gray-50 dark:bg-black">
+		<!-- Value Proposition Section - BLANC CASSÉ (secondaire) -->
+		<section class="px-6 py-16 bg-white-soft dark:bg-black">
 			<div class="max-w-6xl mx-auto">
-				<h2 class="text-3xl md:text-5xl font-bold text-center mb-6 poppins dark:text-[#FFD35AD9]">
+				<h2 class="text-3xl md:text-5xl font-bold text-center mb-6 poppins text-black">
 					Pourquoi Web'Indé est Différent ?
 				</h2>
-				<p class="text-xl md:text-2xl text-center mb-12 max-w-3xl mx-auto dark:text-[#FFD35AD9]">
+				<p class="text-xl md:text-2xl text-center mb-12 max-w-3xl mx-auto text-black">
 					Parce qu'on se rappelle ce que c'est d'être débutant. On t'explique tout comme si tu avais 12 ans, 
 					sans te prendre la tête avec du jargon inutile.
 				</p>
 				<div class="grid md:grid-cols-3 gap-8">
-					<div class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg">
+					<div class="p-6 bg-white border-3 border-black rounded-lg">
 						<div class="text-4xl mb-4">🚀</div>
-						<h3 class="text-2xl font-bold mb-3 poppins dark:text-[#FFD35AD9]">Des Guides Étape par Étape</h3>
-						<p class="text-lg dark:text-[#FFD35AD9]">
+						<h3 class="text-2xl font-bold mb-3 poppins text-black">Des Guides Étape par Étape</h3>
+						<p class="text-lg text-black">
 							Pas de concepts flous. On t'explique exactement quoi faire, dans quel ordre, et pourquoi. 
 							Du choix de ta niche à ta première vente, tu sais toujours où tu en es et quelle est la prochaine étape.
 						</p>
 					</div>
-					<div class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg">
+					<div class="p-6 bg-white border-3 border-black rounded-lg">
 						<div class="text-4xl mb-4">🛠️</div>
-						<h3 class="text-2xl font-bold mb-3 poppins dark:text-[#FFD35AD9]">Les Bons Outils, Pas les Plus Chers</h3>
-						<p class="text-lg dark:text-[#FFD35AD9]">
+						<h3 class="text-2xl font-bold mb-3 poppins text-black">Les Bons Outils, Pas les Plus Chers</h3>
+						<p class="text-lg text-black">
 							Tu n'as pas besoin de claquer 500€/mois en abonnements pour démarrer. On te montre les outils gratuits 
 							ou abordables qui font vraiment le job, et comment les utiliser concrètement pour gagner du temps.
 						</p>
 					</div>
-					<div class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg">
+					<div class="p-6 bg-white border-3 border-black rounded-lg">
 						<div class="text-4xl mb-4">💡</div>
-						<h3 class="text-2xl font-bold mb-3 poppins dark:text-[#FFD35AD9]">Des Stratégies qui Marchent Vraiment</h3>
-						<p class="text-lg dark:text-[#FFD35AD9]">
+						<h3 class="text-2xl font-bold mb-3 poppins text-black">Des Stratégies qui Marchent Vraiment</h3>
+						<p class="text-lg text-black">
 							Pas de copier-coller d'une méthode qui marchait en 2015. On teste tout avant de te le recommander. 
 							Si ça marche en 2026, tu le sauras. Si c'est de la merde, on te le dira aussi.
 						</p>
@@ -72,75 +74,77 @@ import Button from "../components/components/Button.astro";
 			</div>
 		</section>
 
-		<!-- Topics Section -->
-		<section class="px-6 py-16 max-w-6xl mx-auto">
-			<h2 class="text-3xl md:text-5xl font-bold text-center mb-6 poppins dark:text-[#FFD35AD9]">
-				Qu'est-ce qu'on va t'Apprendre ?
-			</h2>
-			<p class="text-xl md:text-2xl text-center mb-12 max-w-3xl mx-auto dark:text-[#FFD35AD9]">
-				Tout ce que tu dois savoir pour lancer, développer et automatiser ton business en ligne. 
-				Sans bullshit, juste l'essentiel.
-			</p>
+		<!-- Topics Section - VIOLET CLAIR (couleur primaire vive) -->
+		<section class="bg-purple-light">
+			<div class="px-6 py-16 max-w-6xl mx-auto">
+				<h2 class="text-3xl md:text-5xl font-bold text-center mb-6 poppins text-black">
+					Qu'est-ce qu'on va t'Apprendre ?
+				</h2>
+				<p class="text-xl md:text-2xl text-center mb-12 max-w-3xl mx-auto text-black">
+					Tout ce que tu dois savoir pour lancer, développer et automatiser ton business en ligne. 
+					Sans bullshit, juste l'essentiel.
+				</p>
 			<div class="grid md:grid-cols-2 gap-6">
-				<a href="/blog?tags=business" class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg hover:shadow-lg transition-all">
-					<h3 class="text-2xl font-bold mb-2 poppins dark:text-[#FFD35AD9]">💼 Business en Ligne</h3>
-					<p class="text-lg dark:text-[#FFD35AD9]">
+				<a href="/blog?tags=business" class="p-6 bg-white border-3 border-black rounded-lg hover:shadow-lg transition-all">
+					<h3 class="text-2xl font-bold mb-2 poppins text-black">💼 Business en Ligne</h3>
+					<p class="text-lg text-black">
 						Comment choisir ton modèle (e-commerce, SaaS, freelance, infoproduits...), valider ton idée sans perdre de temps, 
 						et faire tes premières ventes rapidement.
 					</p>
 				</a>
-				<a href="/blog?tags=marketing" class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg hover:shadow-lg transition-all">
-					<h3 class="text-2xl font-bold mb-2 poppins dark:text-[#FFD35AD9]">📈 Marketing Digital</h3>
-					<p class="text-lg dark:text-[#FFD35AD9]">
+				<a href="/blog?tags=marketing" class="p-6 bg-white border-3 border-black rounded-lg hover:shadow-lg transition-all">
+					<h3 class="text-2xl font-bold mb-2 poppins text-black">📈 Marketing Digital</h3>
+					<p class="text-lg text-black">
 						Comment te faire connaître sans budget pub, écrire des textes qui vendent, apparaître sur Google, 
 						et transformer tes visiteurs en clients.
 					</p>
 				</a>
-				<a href="/blog?tags=tech" class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg hover:shadow-lg transition-all">
-					<h3 class="text-2xl font-bold mb-2 poppins dark:text-[#FFD35AD9]">⚙️ Tech & Automatisation</h3>
-					<p class="text-lg dark:text-[#FFD35AD9]">
+				<a href="/blog?tags=tech" class="p-6 bg-white border-3 border-black rounded-lg hover:shadow-lg transition-all">
+					<h3 class="text-2xl font-bold mb-2 poppins text-black">⚙️ Tech & Automatisation</h3>
+					<p class="text-lg text-black">
 						Les outils d'IA pour bosser 10x plus vite, le no-code pour créer des trucs sans savoir coder, 
 						et comment automatiser les tâches chiantes pour te concentrer sur l'essentiel.
 					</p>
 				</a>
-				<a href="/blog?tags=productivite" class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg hover:shadow-lg transition-all">
-					<h3 class="text-2xl font-bold mb-2 poppins dark:text-[#FFD35AD9]">⚡ Productivité</h3>
-					<p class="text-lg dark:text-[#FFD35AD9]">
+				<a href="/blog?tags=productivite" class="p-6 bg-white border-3 border-black rounded-lg hover:shadow-lg transition-all">
+					<h3 class="text-2xl font-bold mb-2 poppins text-black">⚡ Productivité</h3>
+					<p class="text-lg text-black">
 						Comment gérer ton temps quand tu as un job à côté, rester focus quand tout le monde te distrait, 
 						et organiser tes journées pour avancer vraiment (pas juste avoir l'impression d'être occupé).
 					</p>
 				</a>
 			</div>
+		</div>
 		</section>
 
-		<!-- Quiz CTA Section -->
-		<section id="quiz" class="px-6 py-16 bg-yellow-100 dark:bg-gray-900">
+		<!-- Quiz CTA Section - JAUNE DOUX (secondaire) -->
+		<section id="quiz" class="px-6 py-16 bg-yellow-soft dark:bg-black">
 			<div class="max-w-4xl mx-auto text-center">
-				<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins dark:text-[#FFD35AD9]">
+				<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins text-black">
 					🎯 Pas Sûr de Quel Business Lancer ?
 				</h2>
-				<p class="text-xl md:text-2xl mb-8 dark:text-[#FFD35AD9]">
+				<p class="text-xl md:text-2xl mb-8 text-black">
 					C'est normal d'hésiter. Entre le e-commerce, le freelancing, les infoproduits ou le SaaS, 
 					y'a de quoi se perdre. Notre quiz de 2 minutes analyse ton profil (compétences, temps disponible, budget) 
 					et te recommande le modèle qui a le plus de chances de marcher pour toi. 
 					<strong>C'est gratuit et ça peut te faire gagner 6 mois d'essais-erreurs.</strong>
 				</p>
-				<Button href="/quiz" color="#FFD35A">
+				<Button href="/quiz" color="#ffe001">
 					Faire le Quiz Maintenant (2 min)
 				</Button>
-				<p class="text-sm mt-4 text-gray-700 dark:text-gray-400">
+				<p class="text-sm mt-4 text-black text-black">
 					Déjà plus de 2000+ entrepreneurs ont trouvé leur voie grâce à ce quiz
 				</p>
 			</div>
 		</section>
 
-		<!-- Newsletter Section -->
-		<section id="newsletter" class="px-6 py-16 max-w-4xl mx-auto">
-			<div class="text-center">
-				<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins dark:text-[#FFD35AD9]">
+		<!-- Newsletter Section - VIOLET PÂLE (secondaire) -->
+		<section id="newsletter" class="bg-purple-pale">
+			<div class="px-6 py-16 max-w-4xl mx-auto text-center">
+				<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins text-black">
 					📧 Reçois le Guide "Premier Business en 30 Jours"
 				</h2>
-				<p class="text-xl md:text-2xl mb-8 dark:text-[#FFD35AD9]">
+				<p class="text-xl md:text-2xl mb-8 text-black">
 					Chaque semaine, je t'envoie des stratégies concrètes, des outils testés et des astuces actionnables 
 					pour avancer sur ton business. Pas de blabla, juste du contenu que tu peux appliquer le jour même. 
 					En bonus quand tu t'inscris : mon guide complet pour valider et lancer ton premier business en ligne 
@@ -150,38 +154,38 @@ import Button from "../components/components/Button.astro";
 					<input 
 						type="email" 
 						placeholder="Entre ton meilleur email..." 
-						class="flex-1 px-6 py-4 text-lg border-3 border-black dark:border-[#FFD35AD9] rounded-lg dark:bg-black dark:text-[#FFD35AD9]"
+						class="flex-1 px-6 py-4 text-lg border-3 border-black rounded-lg text-black bg-white"
 						required
 					/>
 					<button 
 						type="submit"
-						class="px-8 py-4 text-lg font-bold bg-[#FFD35A] border-3 border-black dark:border-[#FFD35AD9] rounded-lg hover:shadow-lg transition-all"
+						class="brutal-btn-form px-8 py-4 text-lg font-bold bg-purple-bright text-white border-3 border-black rounded-lg transition-all font-sanchez"
 					>
 						Je veux le Guide
 					</button>
 				</form>
-				<p class="text-sm mt-4 text-gray-600 dark:text-gray-400">
+				<p class="text-sm mt-4 text-black">
 					✓ Pas de spam, promis • ✓ Désabonnement en 1 clic • ✓ 100% gratuit
 				</p>
-				<p class="text-base mt-2 text-gray-700 dark:text-gray-300">
+				<p class="text-base mt-2 text-black">
 					Rejoins les 3500+ entrepreneurs qui reçoivent mes conseils chaque semaine
 				</p>
 			</div>
 		</section>
 
 		<!-- Blog Preview Section -->
-		<section class="px-6 py-16 bg-gray-50 dark:bg-black">
+		<section class="px-6 py-16 bg-white-soft dark:bg-black">
 			<div class="max-w-6xl mx-auto">
 				<div class="flex flex-col md:flex-row justify-between items-center mb-12 gap-4">
 					<div>
-						<h2 class="text-3xl md:text-5xl font-bold poppins dark:text-[#FFD35AD9] mb-2">
+						<h2 class="text-3xl md:text-5xl font-bold poppins text-black mb-2">
 							Les Derniers Articles du Blog
 						</h2>
-						<p class="text-lg md:text-xl dark:text-[#FFD35AD9]">
+						<p class="text-lg md:text-xl text-black">
 							Des guides concrets pour faire décoller ton business
 						</p>
 					</div>
-					<Button href="/blog" color="#B4E7FF">
+					<Button href="/blog" color="#caa1ff">
 						Voir tous les Articles →
 					</Button>
 				</div>
@@ -189,94 +193,96 @@ import Button from "../components/components/Button.astro";
 			</div>
 		</section>
 
-		<!-- French SaaS Section -->
-		<section class="px-6 py-16 max-w-6xl mx-auto">
-			<div class="text-center mb-12">
-				<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins dark:text-[#FFD35AD9]">
-					🇫🇷 Pourquoi on Privilégie les Outils Francophones
-				</h2>
-				<p class="text-xl md:text-2xl mb-8 max-w-3xl mx-auto dark:text-[#FFD35AD9]">
-					Chaque euro que tu dépenses dans un outil américain, c'est un euro qui quitte l'économie francophone. 
-					Et franchement, on a assez de talents chez nous pour arrêter d'enrichir la Silicon Valley.
-				</p>
-			</div>
+		<!-- French SaaS Section - JAUNE DORÉ (primaire) -->
+		<section class="bg-yellow-gold">
+			<div class="px-6 py-16 max-w-6xl mx-auto">
+				<div class="text-center mb-12">
+					<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins text-black">
+						🇫🇷 Pourquoi on Privilégie les Outils Francophones
+					</h2>
+					<p class="text-xl md:text-2xl mb-8 max-w-3xl mx-auto text-black">
+						Chaque euro que tu dépenses dans un outil américain, c'est un euro qui quitte l'économie francophone. 
+						Et franchement, on a assez de talents chez nous pour arrêter d'enrichir la Silicon Valley.
+					</p>
+				</div>
 			<div class="grid md:grid-cols-2 gap-8 mb-12">
-				<div class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg">
-					<h3 class="text-2xl font-bold mb-4 poppins dark:text-[#FFD35AD9]">💪 Soutenir l'Économie Locale</h3>
-					<p class="text-lg mb-4 dark:text-[#FFD35AD9]">
+				<div class="p-6 bg-white border-3 border-black rounded-lg">
+					<h3 class="text-2xl font-bold mb-4 poppins text-black">💪 Soutenir l'Économie Locale</h3>
+					<p class="text-lg mb-4 text-black">
 						Quand tu paies un abonnement à un SaaS francophone, tu finances des emplois en France, 
 						tu soutiens des entrepreneurs francophones qui galèrent comme toi, et tu participes à construire 
 						une tech européenne souveraine. C'est pas du patriotisme bisounours, c'est du bon sens économique.
 					</p>
-					<p class="text-lg dark:text-[#FFD35AD9]">
+					<p class="text-lg text-black">
 						Les boîtes francophones réinvestissent chez nous, paient leurs impôts ici, et créent des jobs pour nos gosses. 
 						Alors pourquoi continuer à enrichir des milliardaires américains quand on a d'excellentes alternatives ?
 					</p>
 				</div>
-				<div class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg">
-					<h3 class="text-2xl font-bold mb-4 poppins dark:text-[#FFD35AD9]">🗣️ Parce que les Français sont Nuls en Anglais</h3>
-					<p class="text-lg mb-4 dark:text-[#FFD35AD9]">
+				<div class="p-6 bg-white border-3 border-black rounded-lg">
+					<h3 class="text-2xl font-bold mb-4 poppins text-black">🗣️ Parce que les Français sont Nuls en Anglais</h3>
+					<p class="text-lg mb-4 text-black">
 						Soyons honnêtes : la plupart des Français galèrent en anglais. Utiliser un outil en anglais, 
 						c'est passer 3x plus de temps à comprendre les menus, rater des fonctionnalités importantes, 
 						et appeler le support avec Google Translate ouvert dans un onglet.
 					</p>
-					<p class="text-lg dark:text-[#FFD35AD9]">
+					<p class="text-lg text-black">
 						Avec un outil francophone, tu comprends tout du premier coup, tu vas plus vite, tu fais moins d'erreurs, 
 						et tu peux vraiment exploiter 100% des fonctionnalités. <strong>Arrête de te compliquer la vie.</strong>
 					</p>
 				</div>
 			</div>
 			<div class="grid md:grid-cols-2 gap-8 mb-12">
-				<div class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg">
-					<h3 class="text-2xl font-bold mb-4 poppins dark:text-[#FFD35AD9]">🛡️ RGPD et Souveraineté des Données</h3>
-					<p class="text-lg mb-4 dark:text-[#FFD35AD9]">
+				<div class="p-6 bg-white border-3 border-black rounded-lg">
+					<h3 class="text-2xl font-bold mb-4 poppins text-black">🛡️ RGPD et Souveraineté des Données</h3>
+					<p class="text-lg mb-4 text-black">
 						Tes données clients hébergées aux USA ? Soumises au Cloud Act. Le gouvernement américain peut y accéder 
 						quand il veut. Avec un SaaS francophone, tes données restent en Europe, protégées par le RGPD (le vrai, 
 						pas juste une checkbox sur un site).
 					</p>
-					<p class="text-lg dark:text-[#FFD35AD9]">
+					<p class="text-lg text-black">
 						En plus, si t'as un problème, tu peux appeler un support en français qui bosse dans ton fuseau horaire. 
 						Essaie de faire ça avec un chatbot américain à 3h du mat...
 					</p>
 				</div>
-				<div class="p-6 bg-white dark:bg-black border-3 border-black dark:border-[#FFD35AD9] rounded-lg">
-					<h3 class="text-2xl font-bold mb-4 poppins dark:text-[#FFD35AD9]">💰 Souvent Moins Chers et Plus Flexibles</h3>
-					<p class="text-lg mb-4 dark:text-[#FFD35AD9]">
+				<div class="p-6 bg-white border-3 border-black rounded-lg">
+					<h3 class="text-2xl font-bold mb-4 poppins text-black">💰 Souvent Moins Chers et Plus Flexibles</h3>
+					<p class="text-lg mb-4 text-black">
 						Les SaaS américains te facturent en dollars avec des prix optimisés pour leur marché. 
 						Les outils francophones sont souvent 30-50% moins chers à fonctionnalités équivalentes, 
 						parce qu'ils sont pensés pour des PME européennes, pas pour des entreprises avec des budgets infinis.
 					</p>
-					<p class="text-lg dark:text-[#FFD35AD9]">
+					<p class="text-lg text-black">
 						Et niveau support client ? Un entrepreneur français comprend les problématiques d'un autre entrepreneur français. 
 						Pas de bullshit, juste des solutions concrètes.
 					</p>
 				</div>
 			</div>
-			<div class="p-8 bg-gradient-to-r from-blue-50 to-red-50 dark:from-blue-900 dark:to-red-900 border-3 border-black dark:border-[#FFD35AD9] rounded-lg text-center">
-				<h3 class="text-2xl md:text-3xl font-bold mb-4 poppins dark:text-[#FFD35AD9]">
+			<div class="p-8 bg-white border-3 border-black rounded-lg text-center">
+				<h3 class="text-2xl md:text-3xl font-bold mb-4 poppins text-black">
 					Notre Engagement : Des Outils Francophones d'Abord
 				</h3>
-				<p class="text-lg md:text-xl max-w-3xl mx-auto dark:text-[#FFD35AD9]">
+				<p class="text-lg md:text-xl max-w-3xl mx-auto text-black">
 					Sur Web'Indé, on te recommande en priorité des outils créés par des entrepreneurs francophones. 
 					Pas par chauvinisme aveugle, mais parce qu'ils sont souvent aussi bons (voire meilleurs) que leurs équivalents US, 
 					moins chers, plus faciles à utiliser en français, et surtout parce que chaque abonnement finance l'écosystème tech francophone. 
 					<strong>Quand tu réussis avec des outils francophones, tu permets à d'autres entrepreneurs de réussir aussi.</strong>
 				</p>
 			</div>
+		</div>
 		</section>
 
 		<!-- French SaaS Newsletter Section -->
-		<section class="px-6 py-16 bg-blue-50 dark:bg-gray-900">
-			<div class="max-w-4xl mx-auto text-center">
-				<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins dark:text-[#FFD35AD9]">
+		<section class="bg-purple-pale">
+			<div class="px-6 py-16 max-w-4xl mx-auto text-center">
+				<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins text-black">
 					📬 La Veille Tech des SaaS Francophones
 				</h2>
-				<p class="text-xl md:text-2xl mb-8 dark:text-[#FFD35AD9]">
+				<p class="text-xl md:text-2xl mb-8 text-black">
 					Tu veux rester au courant des nouveaux outils français pour booster ton business ? 
 					Chaque mois, on t'envoie une sélection des meilleurs SaaS francophones testés et validés : 
 					<strong>nouveautés, bons plans, alternatives françaises aux outils US, et deals exclusifs.</strong>
 				</p>
-				<p class="text-lg md:text-xl mb-8 dark:text-[#FFD35AD9]">
+				<p class="text-lg md:text-xl mb-8 text-black">
 					Parfait pour les PME et solopreneurs qui veulent des outils efficaces, abordables et français. 
 					Zéro bullshit, que des outils qu'on utilise vraiment ou qu'on recommanderait à nos potes.
 				</p>
@@ -284,20 +290,20 @@ import Button from "../components/components/Button.astro";
 					<input 
 						type="email" 
 						placeholder="Entre ton email pro..." 
-						class="flex-1 px-6 py-4 text-lg border-3 border-black dark:border-[#FFD35AD9] rounded-lg dark:bg-black dark:text-[#FFD35AD9]"
+						class="flex-1 px-6 py-4 text-lg border-3 border-black rounded-lg text-black bg-white"
 						required
 					/>
 					<button 
 						type="submit"
-						class="px-8 py-4 text-lg font-bold bg-blue-400 border-3 border-black dark:border-[#FFD35AD9] rounded-lg hover:shadow-lg transition-all whitespace-nowrap"
+						class="brutal-btn-form px-8 py-4 text-lg font-bold bg-purple-light text-black border-3 border-black rounded-lg transition-all whitespace-nowrap font-sanchez"
 					>
 						M'abonner à la Veille
 					</button>
 				</form>
-				<p class="text-sm mt-4 text-gray-600 dark:text-gray-400">
+				<p class="text-sm mt-4 text-black text-black">
 					✓ 1 email par mois maximum • ✓ Que des outils testés • ✓ Gratuit
 				</p>
-				<p class="text-base mt-2 text-gray-700 dark:text-gray-300">
+				<p class="text-base mt-2 text-black text-black">
 					Rejoins les 800+ entrepreneurs qui découvrent les pépites de la FrenchTech
 				</p>
 			</div>

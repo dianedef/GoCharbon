@@ -20,13 +20,11 @@ console.log("PostSummaryCard reçoit:", {
 	isInitialLoad,
 });
  */
-const buttonLightColor =
-	colors.light[Math.floor(Math.random() * colors.light.length)];
-const buttonDarkColor =
-	colors.dark[Math.floor(Math.random() * colors.dark.length)];
+// Couleur fixe pour les boutons : violet clair (primaire)
+const buttonColor = '#caa1ff';
 ---
 
-<style define:vars={{ softWhite: '#FFD35AD9' }}>
+<style define:vars={{ softWhite: '#fff6d2' }}>
 	.post-title {
 		color: black;
 	}
@@ -36,7 +34,7 @@ const buttonDarkColor =
 	}
 
 	.post-description {
-		color: rgb(31 41 55);
+		color: #000000;
 	}
 
 	:global(.dark) .post-description {
@@ -90,12 +88,11 @@ const buttonDarkColor =
 
 			<div class="flex justify-end my-4">
 				<div
-					class="transition-colors hover:bg-gray-100 dark:hover:bg-gray-900 rounded-lg"
+					class="transition-colors hover:bg-white-soft dark:hover:bg-black rounded-lg"
 				>
 					<Button
 						href={`/${post.id}`}
-						color={buttonLightColor}
-						darkColor={buttonDarkColor}
+						color={buttonColor}
 					>
 						<span>Lire plus &rarr;</span>
 					</Button>
@@ -122,7 +119,7 @@ const buttonDarkColor =
 					</ul>
 					{
 						data.draft && (
-							<span class="draft-badge bg-green rounded-full border-2 py-1 px-4 text-sm card-shadow">
+							<span class="draft-badge bg-primary rounded-full border-2 py-1 px-4 text-sm card-shadow">
 								Brouillon
 							</span>
 						)
