@@ -7,16 +7,16 @@
 - [x] `/marketing/social/selling.md` - Réécrit avec ton Web'Indé
 - [x] `/marketing/social/strategie.md` - Réécrit avec ton Web'Indé
 
-## Priorité MOYENNE - Fichiers fondamentaux (core content)
+## Priorité MOYENNE - Fichiers fondamentaux (core content) ✅
 
 - [x] `/marketing/index.md` - Déjà au ton Web'Indé (221 lignes)
 - [x] `/marketing/fondamentaux.md` - Déjà au ton Web'Indé (136 lignes)
 - [x] `/seo/index.md` - Réécrit avec ton Web'Indé
-- [ ] `/seo/fondamentaux/bases-seo.md` - Bases SEO
-- [ ] `/business/index.md` - Index business
-- [ ] `/strategies/index.md` - Index stratégies
-- [ ] `/performance/index.md` - Index performance
-- [ ] `/financement/index.md` - Index financement
+- [x] `/seo/fondamentaux/bases-seo.md` - Réécrit avec ton Web'Indé
+- [x] `/business/index.md` - Complété (250+ lignes)
+- [x] `/strategies/index.md` - Réécrit avec ton Web'Indé
+- [x] `/performance/index.md` - Complété (200+ lignes)
+- [x] `/financement/index.md` - Complété (200+ lignes)
 - [x] `/financement/bootstrapping.md` - Créé (333 lignes)
 
 ## Priorité MOYENNE - Fichiers techniques (frameworks/sites)
