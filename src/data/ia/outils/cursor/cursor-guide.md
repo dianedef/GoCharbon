@@ -1,218 +1,298 @@
 ---
-title: "CURSOR : Le Copilote de Code qui Révolutionne le Développement"
-description: "Découvre comment Cursor, l'éditeur de code propulsé par l'IA, peut transformer ta façon de coder. Guide complet pour les développeurs qui veulent booster leur productivité."
+title: "Cursor : Guide Complet du Copilote IA"
+description: "Tout savoir sur Cursor : installation, MCP, raccourcis, astuces et comment maximiser sa productivité de développement"
 pubDate: "2024-03-26"
 category: "Tech"
-author: "Web'Indé"
+author: "Diane Web'Indé"
 imgUrl: "../../../assets/astro.jpeg"
 tags:
   - IA
   - Code
+  - Cursor
   - Productivité
+layout: "@/layouts/BlogPost.astro"
 ---
 
-# CURSOR : L'Assistant IA qui Comprend Vraiment ton Code
+# Cursor : Le Copilote IA qui Comprend Ton Projet
 
-Salut ! Aujourd'hui, je vais te présenter Cursor, un éditeur de code révolutionnaire qui va changer ta façon de développer. Basé sur VS Code mais enrichi par l'intelligence artificielle, Cursor est bien plus qu'un simple éditeur - c'est ton véritable partenaire de développement.
+Cursor n'est pas juste une extension VS Code. C'est un IDE entierement repensé pour l'IA. En 2024, c'est probablement le meilleur outil pour développer avec l'IA.
 
-## INTELLIGENCE ARTIFICIELLE : Un Copilote qui Comprend ton Projet
+## Pourquoi Cursor ?
 
-Cursor se distingue par sa capacité à vraiment comprendre ton code. Ce n'est pas juste un outil d'auto-complétion, c'est un assistant qui :
+| Avantage             | VS Code + Copilot | Cursor                         |
+| -------------------- | ----------------- | ------------------------------ |
+| Compréhension projet | Fichier actuel    | Projet complet                 |
+| Chat IA              | Extension séparée | Intégré natif                  |
+| Éditeur IA           | Non               | Oui (modifications temps réel) |
+| Références           | Non               | Oui (fichiers précis)          |
+| MCP                  | Non               | Oui (outils externes)          |
 
-- Analyse le contexte global de ton projet
-- Comprend la logique de ton code
-- Propose des solutions pertinentes et personnalisées
-- T'aide à débugger intelligemment
+## Installation
 
-## PROTOCOLE MCP : Donne des Super-Pouvoirs à ton Assistant IA
+### 1. Télécharger
 
-Le Model Context Protocol (MCP) est un protocole ouvert qui permet à Cursor de communiquer avec des outils externes. En termes simples, c'est comme donner de nouveaux sens à ton assistant IA :
+```bash
+# Linux
+curl -fsSL https://cursor.sh/ | sh
 
-### 🎯 À quoi ça sert concrètement ?
+# macOS
+brew install --cask cursor
 
-Imagine que tu veuilles :
-- **Interroger ta base de données** directement depuis l'éditeur
-- **Déployer ton code** sans quitter Cursor
-- **Vérifier la sécurité** de ton code automatiquement
-- **Générer des tests** adaptés à ton framework
-**Personnaliser l'IA** : Adapte l'assistant à tes besoins spécifiques
-- **Ajouter des outils** : Intègre tes propres outils et commandes
-- **Créer des workflows** : Automatise des tâches complexe
-
-MCP rend tout ça possible ! C'est comme donner des "super-pouvoirs" à Cursor en lui permettant d'utiliser d'autres outils.
-
-### 💡 Exemples concrets
-
-1. **Avec une base de données**
-   ```sql
-   -- Tu peux demander à Cursor :
-   "Montre-moi les utilisateurs actifs ce mois-ci"
-   -- MCP se connecte à ta base et exécute la requête
-   ```
-
-2. **Avec GitHub**
-   ```bash
-   # Demande à Cursor :
-   "Crée une PR pour corriger ce bug"
-   # MCP utilise l'API GitHub pour le faire
-   ```
-
-3. **Avec des outils de test**
-   ```python
-   # Dis simplement :
-   "Génère des tests pour cette fonction avec Jest"
-   # MCP utilise Jest pour créer les tests appropriés
-   ```
-
-### 🛠️ Configuration du MCP
-
-1. **Activation du protocole**
-   - Ouvre les paramètres de Cursor
-   - Va dans Settings > Features > MCP
-   - Clique sur "+ Add New MCP Server"
-
-2. **Types de serveurs supportés**
-   - **SSE (Server-Sent Events)** : Pour les connexions en temps réel
-   - **stdio** : Pour les commandes shell personnalisées
-
-3. **Exemples d'utilisation**
-   ```bash
-   # Configuration d'un serveur MCP
-   Nom : MonAssistantPersonnalisé
-   Type : sse
-   URL : https://mon-serveur-mcp.com/endpoint
-   ```
-
-### Bibliothèque de Règles MCP
-
-Tu peux trouver une collection complète de règles et serveurs MCP sur [cursor.directory](https://cursor.directory). Cette ressource offre :
-
-- **Règles par technologie** :
-  - TypeScript/JavaScript
-  - Python
-  - React/Next.js
-  - Et bien d'autres...
-
-- **Serveurs MCP populaires** :
-  - GitHub
-  - PostgreSQL
-  - Supabase
-  - Vercel
-  - Stripe
-
-💡 **Conseil pro** : Commence par explorer les règles MCP existantes sur cursor.directory avant de créer les tiennes. La communauté a déjà créé de nombreuses configurations optimisées !
-
-## FONCTIONNALITÉS CLÉS : Les Super-Pouvoirs de Cursor
-
-### 1. Chat IA Contextuel
-- Pose des questions directement dans l'éditeur
-- Obtiens des réponses basées sur ton code actuel
-- Demande des explications sur des portions de code complexes
-
-### 2. Génération de Code Intelligente
-- Décris ce que tu veux en langage naturel
-- Laisse Cursor générer le code approprié
-- Modifie le code existant avec des instructions en français
-
-### 3. Debugging Assisté
-- Explique les erreurs en langage simple
-- Propose des solutions concrètes
-- Aide à comprendre les problèmes complexes
-
-## INSTALLATION : Commence en 5 Minutes
-
-1. Télécharge Cursor depuis [le site officiel](https://cursor.sh)
-2. Lance l'installation
-3. Connecte-toi avec ton compte GitHub (recommandé)
-4. C'est prêt ! Tu peux commencer à coder plus intelligemment
-
-## MODÈLES : Quelles Sont les Options ?
-
-Actuellement, Cursor utilise principalement GPT-4 et Claude d'Anthropic pour ses fonctionnalités d'IA. 
-
-### 🤔 Et les modèles locaux ?
-
-Bien que Cursor soit principalement conçu pour les modèles cloud, il existe des possibilités d'utilisation avec des modèles locaux :
-
-1. **Via Gaia**
-   - Héberge ton modèle local avec Gaia
-   - Configure une URL HTTPS pour ton modèle
-   - Intègre-le dans les paramètres de Cursor
-   ```bash
-   # Dans Cursor Settings > Models
-   Base URL: [URL de ton service Gaia]
-   API Key: "GAIA" # ou autre clé factice
-   ```
-
-2. **Limitations actuelles**
-   - Support non officiel
-   - Configuration technique requise
-   - Performances variables selon le modèle
-
-### 💡 Alternatives pour le code local
-
-Si tu cherches une solution 100% locale, voici d'autres options :
-
-- **Ollama** : Outil polyvalent pour modèles locaux
-- **JetBrains + modèle local** : Complétion de code locale
-- **VSCode + extensions locales** : Nombreuses options disponibles
-
-🎯 **Pro tip** : Pour suivre l'évolution du support des modèles locaux, surveille le [forum officiel de Cursor](https://forum.cursor.com/t/using-local-llms-with-cursor-is-it-possible/15494).
-
-Sources :
-- [Documentation Gaia](https://docs.gaianet.ai/agent-integrations/cursor/)
-- [Forum Cursor](https://forum.cursor.com/t/using-local-llms-with-cursor-is-it-possible/15494)
-
-## COMMANDES ESSENTIELLES : Les Raccourcis à Connaître
-
-- `Cmd/Ctrl + K` : Ouvre le chat IA
-- `Cmd/Ctrl + L` : Explique le code sélectionné
-- `Cmd/Ctrl + M` : Modifie le code sélectionné
-- `Cmd/Ctrl + I` : Génère du code à partir d'une description
-
-## ASTUCES PRATIQUES : Optimise ton Workflow
-
-### 1. Documentation Automatique
-```python
-# Demande à Cursor : "Documente cette fonction"
-def calculate_total(items, discount):
-    # Cursor générera une documentation détaillée
-    pass
+# Windows
+# Télécharge depuis https://cursor.sh/
 ```
 
-### 2. Refactoring Intelligent
-- Sélectionne un bloc de code
-- Demande à Cursor de le refactorer
-- Examine les suggestions et choisis la meilleure option
+### 2. Configuration
 
-### 3. Tests Automatisés
-- Laisse Cursor générer des tests unitaires
-- Obtiens une couverture de test complète
-- Gagne du temps sur les tâches répétitives
+1. Lance Cursor
+2. Connecte-toi avec ton compte GitHub (recommandé)
+3. Choisis ton modèle par défaut (Claude Sonnet 3.5 recommandé)
 
-## INTÉGRATION : Un Écosystème Complet
+### 3. Raccourcis essentiels
 
-Cursor s'intègre parfaitement avec :
-- Git et GitHub
-- Les extensions VS Code
-- Les frameworks populaires
-- Les outils de développement standard
+| Raccourci      | Fonction                    |
+| -------------- | --------------------------- |
+| `Cmd/Ctrl + K` | Ouvre l'éditeur IA          |
+| `Cmd/Ctrl + L` | Ouvre le chat IA            |
+| `Cmd/Ctrl + I` | Génère du code              |
+| `Cmd/Ctrl + M` | Modifie le code sélectionné |
 
-## CONCLUSION : Pourquoi Adopter Cursor ?
+## Modèles Disponibles
 
-Cursor représente l'avenir du développement :
-- Gain de temps significatif
-- Réduction des erreurs
-- Apprentissage continu
-- Productivité augmentée
+| Modèle            | Meilleur pour              | Notes                |
+| ----------------- | -------------------------- | -------------------- |
+| Claude 3.5 Sonnet | Code général, raisonnement | Le meilleur en 2024  |
+| GPT-4o            | Raisonnement complexe      | Plus lent, plus cher |
+| GPT-4 Turbo       | Vitesse                    | Moins précis         |
+| Claude 3.5 Haiku  | Tâches simples             | Rapide, économique   |
 
-### Source
-Cette présentation est basée sur la vidéo de démonstration disponible sur [YouTube](https://www.youtube.com/watch?v=GTidrAiojbg).
+**Mon conseil :** Utilise Claude Sonnet 3.5 par défaut. Passe à GPT-4o seulement si tu as besoin de raisonnement complexe.
 
-N'hésite pas à tester Cursor par toi-même et à me dire ce que tu en penses. As-tu d'autres questions sur son utilisation ?
+## Fonctionnalités Clés
 
-## RESSOURCES ADDITIONNELLES
+### 1. Chat IA Contextuel
 
-- [Cursor Directory](https://cursor.directory) : Bibliothèque de règles et serveurs MCP
-- [Documentation MCP](https://cursor.sh/docs/mcp) : Guide technique du protocole
-- [Communauté Cursor](https://discord.gg/cursor) : Échange avec d'autres développeurs 
+```text
+→ Pose une question sur ton code
+→ Claude comprend le projet complet
+→ Réponses avec références aux fichiers
+```
+
+**Exemple d'utilisation :**
+
+```
+"Explique comment la fonction authenticate dans auth.ts
+interagit avec la base de données dans db.js"
+
+Réponse : Analyse les fichiers auth.ts et db.js,
+explique le flow d'authentification, et montre
+comment les tokens sont stockés et validés.
+```
+
+### 2. Éditeur IA (Cmd+K)
+
+```text
+→ Sélectionne du code
+→ Cmd/Ctrl + K
+→ Décris ce que tu veux faire
+→ Claude modifie le code
+→ Tu acceptes ou rejetes
+```
+
+**Cas d'usage :**
+
+- Refactor d'une fonction
+- Ajout de commentaires
+- Traduction de code en anglais/français
+- Optimisation de performance
+
+### 3. MCP (Model Context Protocol)
+
+**C'est quoi ?**
+Un protocole ouvert qui permet à Cursor de communiquer avec des outils externes.
+
+**Pourquoi c'est puissant :**
+
+- Connexion directe à tes outils (GitHub, bases de données...)
+- L'IA peut exécuter des actions, pas juste répondre
+- Extensibilité quasi infinie
+
+**Exemples de MCP :**
+
+```bash
+# GitHub MCP
+"Crée une PR pour corriger ce bug"
+→ Cursor utilise l'API GitHub → PR créée
+
+# PostgreSQL MCP
+"Montre les utilisateurs actifs ce mois"
+→ Cursor exécute la requête SQL → Résultats
+
+# Stripe MCP
+"Crée un checkout flow"
+→ Cursor génère le code Stripe → Intégré
+```
+
+### Configuration MCP
+
+```bash
+# Ouvre Settings → Features → MCP
+# Clique "Add New MCP Server"
+
+# Exemple : GitHub
+Name: GitHub
+Type: sse
+URL: https://mcp.github.com
+```
+
+**Bibliothèque MCP :** [cursor.directory](https://cursor.directory)
+
+## Workflows Efficaces
+
+### 1. Refactoring d'une fonction
+
+```
+1. Sélectionne la fonction à refactorer
+2. Cmd/Ctrl + K
+3. "Refactor cette fonction en suivant les best practices [langage]"
+4. Claude propose le code
+5. Tu vérifies et acceptes
+```
+
+### 2. Génération de tests
+
+```
+1. Sélectionne la fonction à tester
+2. Cmd/Ctrl + K
+3. "Génère des tests unitaires pour cette fonction avec [framework]"
+4. Claude génère les tests
+5. Tu exécutes et ajustes si nécessaire
+```
+
+### 3. Documentation
+
+```
+1. Sélectionne un module
+2. Cmd/Ctrl + L (chat)
+3. "Documente ce module avec docstrings [langage]"
+4. Claude génère la documentation
+5. Tu vérifies la précision
+```
+
+### 4. Debugging
+
+```
+1. Copie le message d'erreur
+2. Cmd/Ctrl + L
+3. "Analyse cette erreur et propose une solution : [erreur]"
+4. Claude explique le problème et propose un fix
+5. Tu testes la solution
+```
+
+## Comparatif Pricing
+
+| Plan       | Prix      | Crédits              | Pour qui ?          |
+| ---------- | --------- | -------------------- | ------------------- |
+| Gratuit    | 0€        | 200 requêtes rapides | Tests               |
+| Pro        | 20€/mois  | Illimité             | Développeurs actifs |
+| Business   | 40€/mois  | Illimité + priorité  | Équipes             |
+| Enterprise | Sur devis | Illimité + support   | Entreprises         |
+
+**Mon conseil :** Commence avec le plan gratuit pour tester. Si ça marche pour toi, passe au plan Pro.
+
+## Astuces Avancées
+
+### 1. Références intelligentes
+
+```text
+Utilise @ pour référencer :
+- @fichier : Ce fichier spécifique
+- @dossier : Tout le dossier
+- @symbole : Symbole de code, fonction...
+
+Exemple : "Explique @auth.ts et comment il interagit avec @db"
+```
+
+### 2. Mode Composer (Tab to Jump)
+
+```
+1. Sélectionne du code
+2. Tab : Copie la sélection dans l'éditeur
+3. Continue à Tab : Coller les parties suivantes
+4. Très utile pour les longs fichiers
+```
+
+### 3. Chat persistant
+
+```text
+→ Ouvre un chat
+→ Pose plusieurs questions liées
+→ Le chat garde le contexte
+→ Tu n'as pas besoin de tout répéter
+```
+
+### 4. Personnalisation
+
+```bash
+# Settings → AI Preferences
+
+- Default model: claude-3-5-sonnet
+- Theme: Dark
+- Font size: 14
+- Tab size: 4
+```
+
+## Alternatives à Comparer
+
+| Outil             | Prix       | Meilleur pour           |
+| ----------------- | ---------- | ----------------------- |
+| Windsurf          | 0-60€/mois | Claude Sonnet + prix    |
+| VS Code + Copilot | 10€/mois   | Autocomplétion rapide   |
+| JetBrains AI      | 19€/mois   | JetBrains IDEs          |
+| Aider             | Gratuit    | Terminal + commentaires |
+
+## Pièges à Éviter
+
+### 1. Accepter aveuglément
+
+**Problème :** Copier-coller sans vérifier.
+
+**Solution :**
+
+- Lis et comprends chaque modification
+- Teste le code après acceptation
+- Pose des questions si ce n'est pas clair
+
+### 2. Dépendance excessive
+
+**Signes d'alerte :**
+
+- Tu ne peux plus coder sans IA
+- Tu ne comprends plus le code que tu écris
+- Tes compétences atrophient
+
+**Solution :**
+
+- 20-40% du temps sans IA
+- Coding challenges réguliers
+- Projets personnels sans IA
+
+### 3. Sur-utilisation du chat
+
+**Problème :** Chatter avec l'IA au lieu de coder.
+
+**Solution :**
+
+- Utilise l'éditeur IA (Cmd+K) pour les modifications
+- Utilise le chat seulement pour les questions/analyse
+- Code activement, ne demande pas juste à l'IA
+
+## En savoir plus
+
+- [Cursor Local](/tech/ia/outils/cursor/cursor-local) - Utiliser des modèles locaux
+- [Outils IA](/tech/ia/outils) - Écosystème complet
+- [IA pour le Code](/tech/ia/applications/ia-code) - Comparatif des outils
+
+---
+
+Cursor est un outil puissant. La clé pour en tirer le maximum : comprendre ce que l'IA te propose, valider les modifications, et maintenir tes compétences de développement. L'IA est un assistant, pas un remplacement.

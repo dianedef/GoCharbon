@@ -1,275 +1,372 @@
 ---
-title: "LLAMAEDGEBOOK : Écris ton Livre avec l'IA"
-description: "Guide pratique pour utiliser LlamaEdgeBook et créer un livre complet à partir d'une simple idée. Découvre comment l'IA peut t'aider dans ton processus d'écriture."
+title: "Écrire un Livre avec l'IA : LlamaEdgeBook et Plus"
+description: "Comment utiliser LlamaEdgeBook, Novelcrafter et d'autres outils IA pour écrire ton livre en quelques jours"
 pubDate: "2024-03-26"
 category: "Tech"
-author: "Web'Indé"
+author: "Diane Web'Indé"
 imgUrl: "../../../assets/astro.jpeg"
 tags:
   - IA
   - Écriture
   - Livre
   - LlamaEdgeBook
+layout: "@/layouts/BlogPost.astro"
 ---
 
-# LLAMAEDGEBOOK : Transforme une Idée en Livre avec l'IA
+# Écrire un Livre avec l'IA : Guide Pratique
 
-## L'Assistant d'Écriture qui Change la Donne
+Tu as toujours voulu écrire un livre mais tu ne sais pas par où commencer ? L'IA peut t'aider. Voici deux approches pour créer un livre complet à partir d'une simple idée.
 
-Tu as toujours rêvé d'écrire un livre mais tu ne sais pas par où commencer ? LlamaEdgeBook est là pour t'aider ! Cet outil open-source révolutionnaire te permet de créer un livre complet à partir d'une simple phrase.
+## Les Outils Disponibles
 
-### 🎯 Pourquoi LlamaEdgeBook ?
+| Outil          | Type           | Prix        | Pour qui ?               |
+| -------------- | -------------- | ----------- | ------------------------ |
+| LlamaEdgeBook  | Open source    | Gratuit     | Devs, DIY                |
+| Novelcrafter   | SaaS           | $9+/mois    | Écrivains non-techniques |
+| ChatGPT/Claude | Chatbots       | $20/mois    | Tous niveaux             |
+| Sudowrite      | IA spécialisée | $10-25/mois | Romanciers               |
 
-- **Simplicité** : Une seule phrase suffit pour démarrer
-- **Structure automatique** : Génération intelligente du plan
-- **Contenu détaillé** : Création chapitre par chapitre
-- **Format professionnel** : Export en livre numérique
+## Approche 1 : LlamaEdgeBook (Open Source)
 
-## Installation et Configuration
+### Pourquoi LlamaEdgeBook ?
 
-### 🛠️ Prérequis Techniques
+- 100% gratuit
+- Local (données privées)
+- Flexible (personnalisable)
+- Export en formats de publication
 
-1. **Environnement Python**
-   ```bash
-   # Python 3.11 ou plus récent requis
-   python --version
-   ```
+### Installation
 
-2. **Installation de LlamaEdgeBook**
-   ```bash
-   git clone https://github.com/second-state/LlamaEdgeBook
-   cd LlamaEdgeBook
-   pip install -r requirements.txt
-   ```
+**Prérequis :**
 
-### ⚙️ Configuration avec Gaia
+- Python 3.11+
+- Git
+- 8 Go RAM minimum (16 Go recommandé)
 
-1. **Configuration de l'environnement**
-   ```bash
-   export OPENAI_BASE_URL="https://llama8b.gaia.domains/v1"
-   export OPENAI_MODEL_NAME="llama"
-   export OPENAI_API_KEY="GAIANET"
-   ```
+```bash
+git clone https://github.com/second-state/LlamaEdgeBook
+cd LlamaEdgeBook
+pip install -r requirements.txt
+```
 
-2. **Vérification du modèle (optionnel)**
-   ```bash
-   curl -X POST https://0x57b00e4f3d040e28dc8aabdbe201212e5fb60ebc.us.gaianet.network/v1/models
-   ```
+### Configuration avec Gaia
 
-## Création de ton Premier Livre
+**Option A : Gratuite (modèle public)**
 
-### 🚀 Lancement de l'Application
+```bash
+export OPENAI_BASE_URL="https://llama8b.gaia.domains/v1"
+export OPENAI_MODEL_NAME="llama"
+export OPENAI_API_KEY="GAIANET"
+```
 
-1. **Démarrage du serveur**
-   ```bash
-   streamlit run main.py
-   ```
+**Option B : Personnalisée**
 
-2. **Accès à l'interface**
-   - Ouvre ton navigateur
-   - Va sur `http://localhost:8501`
+1. Crée ton compte sur [gaia.domains](https://gaia.domains)
+2. Déploie ton modèle (Llama 3, Mistral...)
+3. Récupère ton URL et API key
+4. Configure dans `.env` :
 
-### 📝 Processus de Création
+```bash
+export OPENAI_BASE_URL="https://ton-model.gaia.domains/v1"
+export OPENAI_API_KEY="ta-clé"
+```
 
-1. **Génération du Plan**
-   - Entre ton idée principale
-   - L'IA génère une structure cohérente
-   - Révise et ajuste si nécessaire
+### Lancer l'application
 
-2. **Création du Contenu**
-   - Génération automatique des chapitres
-   - Basé sur le plan validé
-   - Possibilité d'éditer en temps réel
+```bash
+streamlit run main.py
+```
 
-3. **Export et Finalisation**
-   - Téléchargement du livre complet
-   - Formats disponibles pour l'édition
-   - Prêt pour la publication
+Ouvre ton navigateur sur `http://localhost:8501`
 
-## Astuces pour de Meilleurs Résultats
+### Workflow d'écriture
 
-### 💡 Optimisation des Prompts
+**Étape 1 : Idée → Plan**
 
-1. **Sois Précis**
-   ```text
-   Au lieu de : "Un livre sur le jardinage"
-   Préfère : "Un guide pratique du jardinage urbain pour débutants"
-   ```
+1. Entre ton idée dans le champ "Book Idea"
+2. Exemple : "Guide pratique du freelancing digital en 2024"
+3. Clique "Generate Outline"
 
-2. **Inclus les Éléments Clés**
-   - Public cible
-   - Style d'écriture souhaité
-   - Points principaux à couvrir
+L'IA génère :
 
-### 🎨 Personnalisation du Contenu
+- Table des matières complète
+- 10-15 chapitres
+- Sections dans chaque chapitre
 
-- **Révision du Plan** : Ajuste la structure avant la génération
-- **Édition Progressive** : Affine chapitre par chapitre
-- **Enrichissement** : Ajoute tes exemples personnels
+**Étape 2 : Plan → Validation**
 
-## Cas d'Usage et Exemples
+1. Relis l'outline
+2. Ajoute/ retire des sections
+3. Réorganise si nécessaire
 
-### 📚 Types de Livres Possibles
+**Étape 3 : Outline → Contenu**
 
-1. **Guides Pratiques**
-   - Tutoriels techniques
-   - Manuels d'apprentissage
-   - Guides de démarrage
+1. Sélectionne un chapitre
+2. Clique "Generate Chapter"
+3. L'IA génère le texte complet (2000-5000 mots)
+4. Relis et ajuste
 
-2. **Contenus Éducatifs**
-   - Supports de cours
-   - Manuels scolaires
-   - Guides d'étude
+**Étape 4 : Révision**
 
-3. **Documentation Technique**
-   - Manuels utilisateur
-   - Documentation API
-   - Guides de référence
+1. Exporte le livre complet
+2. Relis attentivement
+3. Fais les corrections
+4. Ajoute ton style personnel
 
-### ⭐ Exemples de Résultats
+### Export
+
+**Formats disponibles :**
+
+- Markdown (pour conversion)
+- PDF (direct)
+- EPUB (pour Kindle)
+- DOCX (Word)
+
+## Approche 2 : Novelcrafter (SaaS)
+
+### Pourquoi Novelcrafter ?
+
+- Interface moderne et intuitive
+- Fonctionnalités IA avancées
+- Pas besoin de configuration
+- Support client
+
+### Prix
+
+| Plan    | Prix     | Features                |
+| ------- | -------- | ----------------------- |
+| Free    | $0       | 1 projet, 10K mots      |
+| Basic   | $9/mois  | 3 projets, 50K mots     |
+| Pro     | $19/mois | Illimité projets, mots  |
+| Premium | $39/mois | Tout + priorité support |
+
+### Création de projet
+
+**Étape 1 : Définir le genre**
+
+- Roman, non-fiction, thriller, romance...
+- Le genre influence le style IA
+- Les modèles sont pré-entraînés par genre
+
+**Étape 2 : Créer les personnages**
+
+Novelcrafter propose :
+
+- Générateur de personnages
+- Profils psychologiques
+- Relations entre personnages
+- Arc narratif
 
 ```text
-Prompt : "Guide du développeur Python débutant"
+Exemple : Détective cynique dans la quarantaine
+- Nom : Vincent Lenoir
+- Âge : 45
+- Trait principal : Cynisme
+- Background : Ancien policier
+- Conflit : Cherche la vérité mais ne croit plus en la justice
+```
 
-Résultat :
-1. Introduction à Python
-2. Installation et Configuration
-3. Bases de la Programmation
+**Étape 3 : Développer l'intrigue**
+
+L'IA suggère :
+
+- Incidents déclencheurs
+- Points de tension
+- Révélations
+- Résolution
+
+### Écriture assistée
+
+**Fonctions :**
+
+- Génération de scènes
+- Suggestions de dialogues
+- Expansion de sections
+- Cohérence narrative
+
+**Éditeur inclut :**
+
+- Highlight des suggestions IA
+- Accept/reject
+- Modification manuelle facile
+
+### Export et publication
+
+**Formats :**
+
+- PDF prêt pour impression
+- EPUB pour Kindle/Kobo
+- DOCX pour éditeurs
+
+## Comparaison
+
+| Critère          | LlamaEdgeBook      | Novelcrafter  |
+| ---------------- | ------------------ | ------------- |
+| Installation     | Oui (technique)    | Non (web)     |
+| Coût             | Gratuit (hardware) | $9-39/mois    |
+| Personnalisation | Totale             | Moyenne       |
+| Facilité         | Difficile          | Facile        |
+| Confidentialité  | 100% (local)       | Cloud         |
+| Support          | Communauté         | Professionnel |
+
+## Bonnes pratiques
+
+### 1. Structure d'abord, contenu ensuite
+
+❌ **Mauvaise approche :**
+
+- Commencer à écrire sans plan
+- 5000 mots dans tous les sens
+- Retour en arrière constant
+
+✅ **Bonne approche :**
+
+- Outline détaillé d'abord
+- Section par section
+- Ajustements si nécessaire avant d'écrire
+
+### 2. Toujours réviser
+
+| Élément                | Check IA | Vérification humaine |
+| ---------------------- | -------- | -------------------- |
+| Grammaire/orthographe  | ⚠️       | ✅                   |
+| Style                  | ⚠️       | ✅                   |
+| Cohérence              | ⚠️       | ✅                   |
+| Faits (si non-fiction) | ❌       | ✅                   |
+| Originalité            | ⚠️       | ✅                   |
+
+### 3. Ajoute ta touche personnelle
+
+L'IA a tendance à écrire de façon générique. Pour éviter :
+
+1. Utilise tes anecdotes personnelles
+2. Ajoute des exemples concrets
+3. Utilise ton vocabulaire
+4. Intègre tes propres expériences
+
+### 4. Fact-checking (non-fiction)
+
+L'IA peut halluciner :
+
+- Dates incorrectes
+- Chiffres faux
+- Événements inventés
+
+**Solution :**
+
+- Vérifie tous les faits
+- Cite tes sources
+- Ajoute les références
+
+### 5. Cohérence des personnages (roman)
+
+L'IA peut oublier :
+
+- Le caractère d'un personnage
+- Les relations entre personnages
+- L'évolution de l'arc
+
+**Solution :**
+
+- Crée des fiches personnages avant
+- Révise les scènes avec personnages
+- Vérifie la cohérence finale
+
+## Cas d'usage concrets
+
+### Guide pratique (non-fiction)
+
+**Idée :** "Freelancing digital en 2024"
+
+**Workflow :**
+
+1. Idée → Plan (15 chapitres)
+2. Plan → Contenu chapitre par chapitre
+3. Révision → Vérification sources
+4. Export → PDF pour KDP
+
+**Résultat :** Livre de 40K mots en 2 semaines
+
+### Roman (fiction)
+
+**Idée :** "Thriller médical"
+
+**Workflow :**
+
+1. Idée → Outline + personnages
+2. Personnages → Arc narratif
+3. Outline → Scènes (une par une)
+4. Révision → Cohérence + style
+5. Export → EPUB pour Kindle
+
+**Résultat :** Roman de 80K mots en 6-8 semaines
+
+### Documentation technique
+
+**Idée :** "Guide API REST"
+
+**Workflow :**
+
+1. Idée → Structure (intro, auth, endpoints...)
+2. Structure → Contenu avec exemples code
+3. Révision → Teste les exemples
+4. Export → PDF + Markdown
+
+**Résultat :** Documentation de 20K mots en 1 semaine
+
+## Alternatives
+
+### ChatGPT / Claude (approche manuelle)
+
+**Avantages :**
+
+- Gratuit/accessible
+- Contrôle total
+- Pas d'installation
+
+**Désavantages :**
+
+- Pas de plan intégré
+- À gérer manuellement
+- Plus long
+
+**Workflow :**
+
+```
+1. Prompt : "Génère un outline pour [idée]"
+2. Prompt : "Écris le chapitre 1"
+3. Relis et ajuste
+4. Prompt : "Écris le chapitre 2"
 ...
 ```
 
-## Bonnes Pratiques et Conseils
+### Sudowrite (spécialisé roman)
 
-### 🎯 Pour un Livre Réussi
+**Avantages :**
 
-1. **Préparation**
-   - Définis clairement ton sujet
-   - Identifie ton public cible
-   - Liste les points essentiels
+- Spécialement conçu pour fiction
+- Outils de planification
+- Personnages, lieux, arcs
 
-2. **Génération**
-   - Vérifie le plan généré
-   - Ajuste si nécessaire
-   - Génère par étapes
+**Désavantages :**
 
-3. **Révision**
-   - Relis attentivement
-   - Complète les manques
-   - Personnalise le contenu
+- Prix élevé
+- Interface complexe
+- Courbe d'apprentissage
 
-### ⚠️ Points d'Attention
+## En savoir plus
 
-- Vérifie toujours les faits générés
-- Ajoute ta touche personnelle
-- Complète avec des exemples concrets
+- [Création de contenu](/tech/ia/applications/creation-contenu) - Guide IA pour le contenu
+- [Outils IA](/tech/ia/outils) - Écosystème complet
+- [Applications IA](/tech/ia/applications) - Cas d'usage réels
 
-## Deux Approches pour Écrire avec l'IA
+---
 
-Tu as deux options principales pour créer ton livre avec l'IA :
+L'IA ne va pas écrire ton livre à ta place. L'IA va t'aider à :
 
-1. **🏠 LlamaEdgeBook (Open Source)**
-   - Installation locale possible
-   - Contrôle total sur le processus
-   - Nécessite des connaissances techniques
+- Structurer tes idées
+- Générer du contenu de base
+- Surmonter la page blanche
+- Produire une première version
 
-2. **☁️ Novelcrafter (SaaS)**
-   - Solution en ligne
-   - Plus simple à utiliser
-   - Interface intuitive
-
-## Alternative : Novelcrafter
-
-### 🎯 Pourquoi Choisir Novelcrafter ?
-
-- **Simplicité** : Pas d'installation requise
-- **Interface Intuitive** : Prise en main rapide
-- **Fonctionnalités IA Avancées** :
-  - Génération de chapitres
-  - Suggestions de dialogues
-  - Développement de personnages
-
-### 🚀 Démarrage Rapide avec Novelcrafter
-
-1. **Inscription**
-   - Crée un compte sur novelcrafter.com
-   - Choisis ton plan d'abonnement
-   - Accède à l'interface d'écriture
-
-2. **Création de Projet**
-   - Nouveau projet
-   - Choisis ton genre
-   - Définis tes personnages principaux
-
-3. **Utilisation de l'IA**
-   - **Brainstorming** : Génère des idées d'intrigue
-   - **Développement** : Enrichis tes personnages
-   - **Rédaction** : Suggestions de contenu
-   - **Révision** : Amélioration du style
-
-### 💡 Fonctionnalités Uniques
-
-- **Bibliothèque de Personnages**
-  - Création assistée
-  - Développement cohérent
-  - Arcs narratifs
-
-- **Gestion des Intrigues**
-  - Structure automatique
-  - Points de tension
-  - Résolution de conflits
-
-- **Outils d'Édition**
-  - Correction en temps réel
-  - Suggestions stylistiques
-  - Cohérence narrative
-
-### ⚡ Astuces Novelcrafter
-
-1. **Optimisation des Prompts**
-   ```text
-   Au lieu de : "Crée un personnage"
-   Préfère : "Crée un détective cynique dans la quarantaine"
-   ```
-
-2. **Utilisation des Templates**
-   - Modèles de structure
-   - Arcs narratifs prédéfinis
-   - Guides par genre
-
-## Comparaison des Solutions
-
-| Critère | LlamaEdgeBook | Novelcrafter |
-|---------|---------------|--------------|
-| Installation | Locale | Cloud |
-| Technique | Avancée | Débutant-friendly |
-| Coût | Gratuit | Abonnement |
-| Personnalisation | Totale | Limitée |
-| Interface | Terminal/Web | Web moderne |
-| Support | Communauté | Professionnel |
-
-🎯 **Pro tip** : Commence avec Novelcrafter si tu débutes, puis explore LlamaEdgeBook pour plus de contrôle.
-
-## Conclusion
-
-LlamaEdgeBook révolutionne la création de livres en permettant à chacun de transformer rapidement ses idées en contenu structuré. Que tu sois expert ou débutant, cet outil t'aide à concrétiser tes projets d'écriture.
-
-### 📚 Pour Aller Plus Loin
-
-- [Documentation LlamaEdgeBook](https://docs.gaianet.ai/agent-integrations/llamaedgebook/)
-- [Communauté Gaia](https://discord.gg/gaia)
-- [Tutoriels d'écriture](https://docs.gaianet.ai/guides-tutorials) 
-
-[Getting Started with Novelcrafter | Novelcrafter Help Center](https://docs.novelcrafter.com/en/articles/9882933-getting-started-with-novelcrafter)
-
-curl http://localhost:1234/v1/chat/completions \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "deepseek-r1-distill-qwen-7b",
-    "messages": [
-      { "role": "system", "content": "Always answer in rhymes. Today is Thursday" },
-      { "role": "user", "content": "What day is it today?" }
-    ],
-    "temperature": 0.7,
-    "max_tokens": -1,
-    "stream": false
-}'
+Le travail restant ? La révision, l'ajustement, la personnalisation. C'est là que réside ta valeur. L'IA est un assistant, pas un auteur. Le livre final reflètera ta voix, ton style, ton expertise. L'IA t'a juste donné le coup de pouce initial.

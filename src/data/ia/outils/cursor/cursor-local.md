@@ -1,240 +1,240 @@
 ---
-title: "Cursor Local : L'Assistant de Code Open Source"
-description: "Guide pratique pour configurer et utiliser le modèle IA Quen 2.5 avec l'éditeur de code Cursor en local. Découvre comment coder plus efficacement avec une IA open source."
+title: "Cursor avec Modèles Locaux : Guide Complet"
+description: "Comment utiliser des modèles LLM locaux (Llama 3, Mistral...) avec Cursor via Gaia ou LM Studio"
 pubDate: "2024-03-25"
 category: "Tech"
-author: "Web'Indé"
-imgUrl: "../../../assets/astro.jpeg"
+author: "Diane Web'Indé"
+imgUrl: "../../../../assets/astro.jpeg"
 tags:
   - IA
   - Code
-  - Open Source
+  - Modèles locaux
+  - Gaia
+  - LlamaEdgeBook
+layout: "@/layouts/BlogPost.astro"
 ---
 
-# CURSOR LOCAL : Utilise ton Assistant de Code en Local ou avec Gaia
+# Cursor Local : Utiliser l'IA 100% Privée
 
-## Deux Approches pour un Code Plus Privé
+Tu veux utiliser Cursor avec des modèles locaux pour la confidentialité ou le coût ? C'est possible. Voici deux approches pour y arriver.
 
-Tu as deux options principales pour utiliser Cursor avec des modèles locaux ou semi-locaux :
+## Les 2 Approches
 
-1. **🏠 100% Local avec LM Studio + Ngrok ou Gaia**
-   - Installation locale complète
-   - Contrôle total sur tes données
-   - Nécessite plus de ressources
+| Approche          | Complixit | Avantages           | Inconvénients                  |
+| ----------------- | --------- | ------------------- | ------------------------------ |
+| LM Studio + Ngrok | Élevée    | Gratuit, 100% local | Configuration complexe         |
+| Gaia (semi-local) | Faible    | Simple, performant  | Semi-cloud (données partagées) |
 
-2. **🌐 Semi-Local avec Gaia**
-   - Service décentralisé
-   - Configuration plus simple
-   - Performance optimisée
+## Prérequis Système
 
-## Prérequis Système pour les Modèles Locaux
+### Pour Mac
 
-### 🖥️ Configuration Recommandée
+| Composant  | Requis              | Recommandé |
+| ---------- | ------------------- | ---------- |
+| Processeur | Apple Silicon M1-M4 | M2+        |
+| RAM        | 16 Go minimum       | 32 Go      |
+| OS         | macOS récent        | macOS 14+  |
 
-Selon la [documentation officielle de Gaia](https://docs.gaianet.ai/getting-started/system-requirements), tu auras besoin de :
+### Pour Linux
 
-- **Pour Mac** :
-  - Apple Silicon (M1 à M4)
-  - 16 Go RAM minimum (32 Go recommandés)
-  - macOS récent
+| Composant      | Requis            | Recommandé         |
+| -------------- | ----------------- | ------------------ |
+| GPU            | 8 Go VRAM minimum | 24 Go+             |
+| CUDA           | CUDA 12 SDK       | Oui                |
+| Instance cloud | 1x GPU            | T4 ou mieux (A100) |
 
-- **Pour Linux** :
-  - Ubuntu 22.04 (recommandé)
-  - NVIDIA CUDA 12 SDK
-  - GPU avec 8 Go VRAM minimum (24 Go recommandés)
-  - Ex: GPU NVIDIA T4 ou supérieur
+## Approche 1 : LM Studio + Ngrok
 
-### 🛠️ Configuration Commune aux Deux Approches
+### Installation
 
-Que tu choisisses LM Studio ou Gaia, tu auras besoin de :
-- Un tunnel HTTPS (Ngrok ou alternative)
-- Une connexion Internet stable
-- Cursor installé et configuré
+```bash
+# Installer LM Studio
+brew install --cask lm-studio
 
-## Option 1 : Configuration avec LM Studio + Ngrok
+# Installer Ngrok
+brew install --cask ngrok
+```
 
-1. **Installation des Outils**
-   ```bash
-   # Sur macOS avec Homebrew
-   brew install --cask ngrok
-   brew install --cask lm-studio
-   ```
+### Démarrage
 
-2. **Configuration du Tunnel**
-   ```bash
-   # Lance LM Studio et démarre le serveur sur le port 1234
-   ngrok http 1234
-   ```
+```bash
+# 1. Lance LM Studio et démarre le serveur sur le port 1234
+lm-studio
 
-3. **Configuration de Cursor**
-   ```bash
-   # Dans Cursor, utilise l'URL fournie par Ngrok
-   Base URL: https://ton-tunnel.ngrok.io/v1
-   API Key: "DEMO" # n'importe quelle valeur
-   ```
+# 2. Crée un tunnel Ngrok
+ngrok http 1234
+```
 
-## Utiliser Ngrok pour exposer le serveur local
+Ngrok t'aura donné une URL HTTPS du style : `https://abcd-1234.ngrok.io`
 
-- Malheureusement, Cursor ne peut pas accéder directement à ton serveur local, car il route les requêtes vers ses propres serveurs.
-- Nous allons donc utiliser Ngrok pour exposer ton serveur local à travers un endpoint public.
-- Installe Ngrok sur ta machine (par exemple avec Homebrew sur macOS) et lance la commande `ngrok http 1234` pour créer un tunnel vers ton serveur.
+### Configuration Cursor
 
-### 🔒 Comprendre Ngrok et ses Alternatives
+```bash
+# Dans Cursor : Settings > Models > Add Model
 
-Ngrok est un outil populaire qui permet d'exposer un serveur web local à Internet. Il crée un tunnel sécurisé entre Internet et ta machine locale, fournissant une URL unique que tu peux partager.
+Name: local-llama
+Base URL: https://abcd-1234.ngrok.io/v1
+API Key: DEMO
+```
 
-#### Fonctionnalités Clés de Ngrok
+### Modèles populaires pour LM Studio
 
-1. **Tunneling Sécurisé** : Crée un tunnel sécurisé entre ton serveur web local et Internet
-2. **Hébergement de Sous-domaine** : Fournit un sous-domaine unique (ex: `https://ton-domaine.ngrok.io`)
-3. **Transfert HTTPS** : Gestion automatique du HTTPS pour des connexions sécurisées
-4. **Inspection du Trafic** : Interface web pour visualiser et déboguer le trafic
+| Modèle        | Paramètres | RAM requise | Meilleur pour   |
+| ------------- | ---------- | ----------- | --------------- |
+| Llama 3 8B    | 8B         | 16 Go       | Code général    |
+| Mistral 7B    | 7B         | 16 Go       | Autocomplétion  |
+| Codestral 22B | 22B        | 32 Go       | Code spécialisé |
+| Qwen 7B       | 7B         | 16 Go       | Code + français |
 
-#### 🔄 Alternatives Gratuites à Ngrok
+## Approche 2 : Gaia (Semi-Local)
 
-1. **Localtunnel**
-   - Outil gratuit et open-source
-   - Fonctionnalités similaires à Ngrok
-   - Création simple de tunnel sécurisé
+### Qu'est-ce que Gaia ?
 
-2. **Serveo**
-   - Alternative gratuite à Ngrok
-   - Interface en ligne de commande simple
-   - Support HTTP et HTTPS
+Gaia est un réseau décentralisé de nœuds d'inférence pour l'IA.
 
-3. **Inlets**
-   - Proxy inverse open-source
-   - Plus complexe mais plus flexible
-   - Meilleur contrôle sur le processus
+**Avantages :**
 
-4. **Cloudflare Tunnel**
-   - Anciennement Argo Tunnel
-   - Configuration plus complexe
-   - Connexion sécurisée et fiable
+- Pas besoin de GPU puissant
+- Configuration simple
+- Modèles optimisés pour le code
 
-💡 **Conseil de choix** : Pour choisir ton alternative à Ngrok, considère :
-- La facilité d'utilisation
-- Les fonctionnalités disponibles
-- Le niveau de contrôle souhaité
-- Tes besoins spécifiques
+**Inconvénients :**
 
-## Option 2 : Configuration avec Gaia
+- Pas 100% local (données envoyées au nœud)
+- Dépendance internet
 
-Gaia is building an decentralized ecosystem to support AI applications that learn, improve, and grow over time.
+### Compte Gaia
 
+1. Va sur [gaia.domains](https://gaia.domains)
+2. Crée un compte (gratuit)
+3. Choisis ton modèle :
+   - `coder` : Spécialisé code
+   - `llama` : Modèle général
+   - `rustcoder` : Expert Rust
 
-01.
-Choose from a vast collection of open-source LLMs
-02.
-Add a knowledge base for specialized inference
-03.
-Fine-tune your models and deploy at scale
+### Configuration Cursor
 
-Instantly connect to a specialized network of inference nodes.
-Power any LLM application with an OpenAI compatible API
-Replace costly inference with a simple Gaia endpoint
+```bash
+# Dans Cursor : Settings > Models > Add Model
 
-### 🎯 Pourquoi choisir Gaia ?
+Name: gaia-coder
+Base URL: https://coder.gaia.domains/v1
+API Key: [ta clé Gaia]
+```
 
-- **Confidentialité** : Ton code reste dans ton organisation
-- **Base de connaissances personnalisée** : Adapte l'IA à ton style de code
-- **Performance** : Accès à des modèles puissants sans matériel coûteux
+### Obtenir une clé API
 
-### 🔄 Compatibilité et Installation
+1. Connecte-toi à Gaia
+2. Va dans "API Keys"
+3. Crée une nouvelle clé
+4. Copie et colle dans Cursor
 
-Tu peux installer Gaia sur une grande variété d'appareils et de systèmes d'exploitation, avec ou sans GPU. Les instructions d'installation et d'exploitation fonctionnent sur des appareils allant du Raspberry Pi aux clusters Nvidia H100 basés sur le cloud, en passant par les MacBooks, les serveurs Linux et les PC Windows.
+## Comparaison
 
-#### Configurations Recommandées pour les Opérateurs Institutionnels
+| Critère         | LM Studio + Ngrok               | Gaia              |
+| --------------- | ------------------------------- | ----------------- |
+| Installation    | Complexe (3 outils)             | Simple (1 compte) |
+| Confidentialité | Via tunnel (exposition externe) | Via nœud Gaia     |
+| Performance     | Dépend hardware                 | Stable, optimisée |
+| Coût            | Gratuit                         | Crédits ou tiers  |
+| Maintenance     | Gérer tunnel, redémarrage       | Automatique       |
 
-Tu as deux options principales :
+## Modèles Recommandés
 
-1. **Configuration Mac**
-   - iMac, Mini, Studio ou Pro avec Apple Silicon (M1 à M4)
-   - 16 Go de RAM minimum (32 Go ou plus recommandés)
+### Pour le code (Python, JS, TS)
 
-2. **Configuration Linux**
-   - Serveur Ubuntu 22.04
-   - NVIDIA CUDA 12 SDK installé
-   - Minimum 8 Go de VRAM sur le GPU (24 Go ou plus recommandés)
-   - Sur AWS et Azure, cela signifie des instances GPU avec au moins une NVIDIA T4
+| Modèle         | Taille | Note                                    |
+| -------------- | ------ | --------------------------------------- |
+| Qwen 2.5 Coder | 7B     | Excellent pour le code                  |
+| Codestral      | 22B    | Meilleur modèle code (besoin 32 Go RAM) |
+| DeepSeek Coder | 33B    | Très bon mais lourd                     |
+| Llama 3 8B     | 8B     | Bon équilibre                           |
 
-💡 **Note importante** : Si tu héberges le nœud chez toi ou au bureau, il doit avoir accès à Internet pour rejoindre le réseau Gaia.
+### Pour le français + code
 
-#### Support Multi-Plateforme
+| Modèle       | Taille | Note                        |
+| ------------ | ------ | --------------------------- |
+| Mistral 7B   | 7B     | Bon français                |
+| Qwen 7B      | 7B     | Français + code             |
+| Mixtral 8x7B | 47B    | Plus lourd, très performant |
 
-Le logiciel Gaia node est conçu pour être cross-platform :
-- Fonctionne sur diverses architectures CPU et GPU
-- Détecte automatiquement les pilotes NVIDIA CUDA
-- Exploite la puissance des accélérateurs GPU sur l'appareil
-- Plus de support matériel en cours de développement
+## Troubleshooting
 
-### ⚙️ Modèles Disponibles sur Gaia
+### Cursor ne se connecte pas
 
-| Type de Modèle | URL de Base | Nom du Modèle |
-|----------------|-------------|---------------|
-| Assistant général | https://coder.gaia.domains/v1 | coder |
-| Spécialiste Rust | https://rustcoder.gaia.domains/v1 | rustcoder |
-| Expert Rust | https://rustexpert.gaia.domains/v1 | rustexpert |
+```bash
+# Teste l'URL avec curl
+curl -X POST https://[ta-url]/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "llama",
+    "messages": [{"role": "user", "content": "Hello"}]
+  }'
+```
 
-### 🔧 Configuration de Cursor avec Gaia
+Si ça ne marche pas :
 
-#### 🔑 Obtenir une clé API Gaia pour un node public
+1. Vérifie que Ngrok/LM Studio tourne
+2. Vérifie l'URL dans Cursor
+3. Essaie avec `API Key: DEMO`
 
-Allez sur https://www.gaianet.ai/gaia-domain-name et clique sur "Connect"
+### Lenteur excessive
 
+| Cause                              | Solution                     |
+| ---------------------------------- | ---------------------------- |
+| Modèle trop grand pour le hardware | Utilise un modèle plus petit |
+| Tunnel Ngrok lent                  | Essaie Cloudflare Tunnel     |
+| CPU only                           | Essaie un modèle plus léger  |
+| Trop de context                    | Réduis les références @      |
 
+### Erreurs de génération
 
-#### Pour un node privé
+```bash
+# Ajoute des paramètres dans l'URL
+https://[ta-url]/v1/chat/completions?temperature=0.3&top_p=0.9
+```
 
+| Paramètre   | Effet                            | Valeur recommandée   |
+| ----------- | -------------------------------- | -------------------- |
+| temperature | Créativité (0 = déterministe)    | 0.2-0.3 pour le code |
+| top_p       | Sélection parmi tokens probables | 0.9-0.95             |
+| max_tokens  | Longueur réponse                 | 1000-2000            |
 
+## Alternatives à Gaia
 
+### Ollama
 
-1. **Paramétrage Initial**
-   - Ouvre les paramètres de Cursor (⚙️)
-   - Va dans la section "Models"
-   - Ajoute un nouveau modèle nommé "coder"
-   - Désactive les autres modèles (gpt-4, etc.)
+```bash
+# Installation
+brew install ollama
 
-2. **Configuration de l'API**
-   ```bash
-   # Dans Settings > OpenAI API Key
-   Base URL: https://coder.gaia.domains/v1
-   API Key: "GAIA" # ou n'importe quelle chaîne
-   ```
+# Démarrage
+ollama serve
 
-3. **Vérification**
-   - Clique sur "Verify" pour tester la connexion
-   - Essaie une commande simple pour vérifier le fonctionnement
+# Configuration Cursor (via URL locale)
+Base URL: http://localhost:11434/v1
+```
 
-### 💡 Astuces d'Utilisation
+### LocalAI
 
-- **Raccourcis Essentiels**
-  - `Cmd/Ctrl + K` : Éditer le code sélectionné
-  - `Cmd/Ctrl + L` : Ouvrir le chat pour poser des questions
+```bash
+# Installation
+pip install localai
 
-- **Cas d'Usage Optimaux**
-  ```python
-  # Exemple de prompt pour Gaia
-  "Optimise cette fonction en suivant les bonnes pratiques Python"
-  ```
+# Démarrage
+localai run qwen2.5-coder
 
-## Comparaison des Approches (Mise à jour)
+# Configuration Cursor
+Base URL: http://localhost:8080/v1
+```
 
-| Critère | LM Studio + Ngrok | Gaia |
-|---------|-------------------|------|
-| Installation | Complexe (plusieurs outils) | Simple (un seul service) |
-| Ressources | Selon hardware local | Gérées par Gaia |
-| Confidentialité | Via tunnel Ngrok | Via nœuds Gaia |
-| Performance | Dépend du matériel | Stable et optimisée |
-| Maintenance | Configuration tunnel à gérer | Automatique |
+## En savoir plus
 
-🎯 **Pro tip** : Les deux approches nécessitent un tunnel HTTPS. Gaia l'intègre nativement, tandis qu'avec LM Studio tu devras gérer Ngrok ou une alternative.
+- [Guide Cursor](/tech/ia/outils/cursor/cursor-guide) - Fonctionnalités avancées
+- [MCP Directory](https://cursor.directory) - Serveurs MCP
+- [Documentation Gaia](https://docs.gaia.domains) - Guide officiel
+- [Outils IA](/tech/ia/outils) - Écosystème complet
 
-## Ressources et Support
+---
 
-- [Documentation Gaia](https://docs.gaianet.ai)
-- [Communauté Cursor](https://discord.gg/cursor)
-- [Guide Vidéo](lien-vers-la-video)
-
-
-
+Les modèles locaux sont une excellente solution pour la confidentialité et le contrôle. La clé est de choisir le bon modèle pour ton hardware, et d'accepter quelques compromis sur la performance. Commence avec un modèle léger (Llama 3 8B ou Mistral 7B) et passe à des modèles plus gros si ton hardware le permet.
