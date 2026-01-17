@@ -21,16 +21,17 @@
 
 ## Priorité MOYENNE - Fichiers techniques (frameworks/sites)
 
-- [ ] `/site/astro/index.md` - Guide Astro
-- [ ] `/site/next/index.md` - Guide Next.js
+- [x] `/site/index.md` - Guide complet choix technologie
+- [x] `/site/astro/index.md` - Guide Astro
+- [x] `/site/next/index.md` - Guide Next.js
+- [x] `/site/wordpress/index.md` - Guide WordPress
 - [ ] `/site/nuxt/index.md` - Guide Nuxt.js
-- [ ] `/site/wordpress/index.md` - Guide WordPress
+- [ ] `/site/svelte/index.md` - Guide Svelte
 - [ ] `/site/joomla/index.md` - Guide Joomla
 - [ ] `/site/ghost/index.md` - Guide Ghost
 - [ ] `/site/magento/index.md` - Guide Magento
 - [ ] `/site/prestashop/index.md` - Guide PrestaShop
 - [ ] `/site/shopify/index.md` - Guide Shopify
-- [ ] `/site/svelte/index.md` - Guide Svelte
 
 ## Priorité BASSE - Fichiers avec problèmes mineurs
 
