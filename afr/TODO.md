@@ -17,6 +17,7 @@
 - [ ] `/strategies/index.md` - Index stratégies
 - [ ] `/performance/index.md` - Index performance
 - [ ] `/financement/index.md` - Index financement
+- [ ] `/financement/bootstrapping.md` - Bootstrapping sans emprunt bancaire (nouveau)
 
 ## Priorité MOYENNE - Fichiers techniques (frameworks/sites)
 
