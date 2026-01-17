@@ -1,23 +1,23 @@
 # Checklist Amélioration Contenu afr/
 
-## Priorité HAUTE - Fichiers vides/courts à compléter
+## Priorité HAUTE - Fichiers vides/courts à compléter ✅
 
-- [ ] `/mental/index.md` - Complètement vide (frontmatter only)
-- [ ] `/marketing/social/community.md` - À vérifier
-- [ ] `/marketing/social/selling.md` - À vérifier
-- [ ] `/marketing/social/strategie.md` - "Contenu à venir..." (21 lignes)
+- [x] `/mental/index.md` - Complété (250+ lignes)
+- [x] `/marketing/social/community.md` - Réécrit avec ton Web'Indé
+- [x] `/marketing/social/selling.md` - Réécrit avec ton Web'Indé
+- [x] `/marketing/social/strategie.md` - Réécrit avec ton Web'Indé
 
 ## Priorité MOYENNE - Fichiers fondamentaux (core content)
 
-- [ ] `/marketing/index.md` - Index principal marketing (157 lignes)
-- [ ] `/marketing/fondamentaux.md` - Fondamentaux marketing (145 lignes)
-- [ ] `/seo/index.md` - Index principal SEO
+- [x] `/marketing/index.md` - Déjà au ton Web'Indé (221 lignes)
+- [x] `/marketing/fondamentaux.md` - Déjà au ton Web'Indé (136 lignes)
+- [x] `/seo/index.md` - Réécrit avec ton Web'Indé
 - [ ] `/seo/fondamentaux/bases-seo.md` - Bases SEO
 - [ ] `/business/index.md` - Index business
 - [ ] `/strategies/index.md` - Index stratégies
 - [ ] `/performance/index.md` - Index performance
 - [ ] `/financement/index.md` - Index financement
-- [ ] `/financement/bootstrapping.md` - Bootstrapping sans emprunt bancaire (nouveau)
+- [x] `/financement/bootstrapping.md` - Créé (333 lignes)
 
 ## Priorité MOYENNE - Fichiers techniques (frameworks/sites)
 
