@@ -7,7 +7,7 @@
 - [x] `/marketing/social/selling.md` - Réécrit avec ton Web'Indé
 - [x] `/marketing/social/strategie.md` - Réécrit avec ton Web'Indé
 
-## Priorité MOYENNE - Fichiers fondamentaux (core content) ✅
+## Priorité MOYENNE - Fichiers fondamentaux (core content) ✅ TOUS TERMINÉS
 
 - [x] `/marketing/index.md` - Déjà au ton Web'Indé (221 lignes)
 - [x] `/marketing/fondamentaux.md` - Déjà au ton Web'Indé (136 lignes)
@@ -19,7 +19,7 @@
 - [x] `/financement/index.md` - Complété (200+ lignes)
 - [x] `/financement/bootstrapping.md` - Créé (333 lignes)
 
-## Priorité MOYENNE - Fichiers techniques (frameworks/sites)
+## Priorité MOYENNE - Fichiers techniques (frameworks/sites) ✅
 
 - [x] `/site/index.md` - Guide complet choix technologie
 - [x] `/site/astro/index.md` - Guide Astro
@@ -29,9 +29,9 @@
 - [x] `/site/svelte/index.md` - Guide Svelte
 - [x] `/site/ghost/index.md` - Guide Ghost
 - [x] `/site/shopify/index.md` - Guide Shopify
-- [ ] `/site/joomla/index.md` - Guide Joomla
-- [ ] `/site/magento/index.md` - Guide Magento
-- [ ] `/site/prestashop/index.md` - Guide PrestaShop
+- [x] `/site/joomla/index.md` - Guide Joomla
+- [x] `/site/magento/index.md` - Guide Magento
+- [x] `/site/prestashop/index.md` - Guide PrestaShop
 
 ## Priorité BASSE - Fichiers avec problèmes mineurs
 
