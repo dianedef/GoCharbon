@@ -25,13 +25,13 @@
 - [x] `/site/astro/index.md` - Guide Astro
 - [x] `/site/next/index.md` - Guide Next.js
 - [x] `/site/wordpress/index.md` - Guide WordPress
-- [ ] `/site/nuxt/index.md` - Guide Nuxt.js
-- [ ] `/site/svelte/index.md` - Guide Svelte
+- [x] `/site/nuxt/index.md` - Guide Nuxt.js
+- [x] `/site/svelte/index.md` - Guide Svelte
+- [x] `/site/ghost/index.md` - Guide Ghost
+- [x] `/site/shopify/index.md` - Guide Shopify
 - [ ] `/site/joomla/index.md` - Guide Joomla
-- [ ] `/site/ghost/index.md` - Guide Ghost
 - [ ] `/site/magento/index.md` - Guide Magento
 - [ ] `/site/prestashop/index.md` - Guide PrestaShop
-- [ ] `/site/shopify/index.md` - Guide Shopify
 
 ## Priorité BASSE - Fichiers avec problèmes mineurs
 
