@@ -42,10 +42,10 @@
 - [x] `/prompt.md` - Réécrit avec ton Web'Indé (prompt engineering)
 - [x] `/cash-machine-v3-un-revenu-passif-sur-internet-pour-tous.md` - Récupéré + réécrit honnêtement (jamais mis en place)
 - [x] `/mes-echecs-dinvestissement.md` - Nouvel article : liste honnête de tous les échecs d'investissement (~16K€ perdus)
-- [x] `/business-mobile/` - NOUVEAU : Guide complet avec 8 profils business mobiles
-  - index.md - Guide principal
+      | - [x] `/business-mobile/` - NOUVEAU : Guide complet avec 8 profils business mobiles
+  - index.md - Guide principal avec tous les 8 types
   - enquetes-rewards.md - Profil : Enquêtes et Rewards
-  - cashback.md - Profil : Cashback
+  - cashback.md - Profil : Cashback (générique)
   - freelancing.md - Profil : Freelancing
   - mico-taches.md - Profil : Micro-tâches
   - partage-gig-economy.md - Profil : Partage/Gig Economy
