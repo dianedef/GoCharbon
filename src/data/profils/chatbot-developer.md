@@ -139,6 +139,18 @@ Les entreprises paient **5000-15000€** pour un chatbot parce que le ROI est im
 - **Copywriting** : écrire des messages de bot engageants
 - **Gestion de projet** : tenir les deadlines et gérer les attentes clients
 
+### Approche Kilo Code
+
+- **Workflow par rôles/modes** : un orchestrateur coordonne, spécialistes (conversation, data, intégrations) livrent.
+- **Objectifs clairs** : scope par intent, critères de réussite et métriques.
+- **Itération par feedback** : tests utilisateurs, logs, ajustements rapides.
+- **Documentation** : décisions, prompts, sources de données, limites.
+- **Checklists qualité** : tests de flux, escalade humaine, sécurité.
+- Référence : https://kilocodefr.com/bases-kilo-code
+
+### Langage du logiciel (repères clés)
+Pas besoin d’être dev pour créer un bon chatbot. Le but est d’avoir un langage commun pour collaborer et progresser sans stress. Des notions légères comme **API** ou **specs** suffisent pour relier les outils, poser les bonnes questions et itérer vite. Tu apprends en livrant, en testant et en ajustant, ce qui rend le bot plus fiable à chaque version. Référence : https://www.deeplearning.ai/the-batch/learn-the-language-of-software/
+
 ### Matériel
 
 - **Ordinateur correct** pour tester les chatbots

@@ -117,6 +117,18 @@ Les PME dépensent **5000-50000€** pour automatiser leurs processus. C'est un 
 - **CRM** : HubSpot, Pipedrive (pour gérer tes clients)
 - **Design UX** : créer des interfaces simples pour tes automations
 
+### Approche Kilo Code
+
+- **Workflow par rôles/modes** : un orchestrateur pilote, des spécialistes (process, no-code, IA) exécutent.
+- **Objectifs clairs** : découper chaque mission en livrables mesurables.
+- **Itération par feedback** : tests rapides avec le client, ajustements continus.
+- **Documentation** : décisions, hypothèses, sources et limites notées.
+- **Checklists qualité** : validation des flux, exceptions, monitoring.
+- Référence : https://kilocodefr.com/bases-kilo-code
+
+### Langage du logiciel (repères clés)
+Tu peux piloter des automations solides sans être développeur. L’idée est d’avoir assez de vocabulaire pour collaborer, cadrer un besoin et apprendre progressivement. Connaître 1–2 notions comme **API** ou **tests** t’aide à briefer un prestataire, connecter des outils et valider rapidement ce qui marche. Tu avances pas à pas, et chaque itération clarifie les specs et sécurise la livraison. Référence : https://www.deeplearning.ai/the-batch/learn-the-language-of-software/
+
 ### Matériel
 
 - **Ordinateur performant** pour gérer plusieurs outils en parallèle

@@ -278,5 +278,31 @@ export const tagHierarchy: TagHierarchy = {
         }
       }
     }
+  },
+  tutoriels: {
+    label: 'Tutoriels',
+    subtags: {
+      guides: {
+        label: 'Guides Pratiques',
+        subtags: {
+          'Débutant': { label: 'Débutant' },
+          'Avancé': { label: 'Avancé' },
+          'Pas à Pas': { label: 'Pas à Pas' }
+        }
+      }
+    }
+  },
+  apps: {
+    label: 'Apps & SaaS',
+    subtags: {
+      francais: {
+        label: 'SaaS Français',
+        subtags: {
+          'Productivité': { label: 'Productivité' },
+          'Marketing': { label: 'Marketing' },
+          'Design': { label: 'Design' }
+        }
+      }
+    }
   }
 }; 

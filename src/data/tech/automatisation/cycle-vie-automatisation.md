@@ -246,4 +246,4 @@ Commence avec un processus simple, mesure les résultats, puis étends progressi
 
 - [Comparatif Make.com vs Zapier](/tech/outils-automatisation) - Choisis le bon outil
 - [Guide No-Code](/tech/no-code) - Démarrer sans coder
-- [Productivité 2.0](/reussir/succes/productivite) - Maximise ton impact
+- [Productivité 2.0](succes/productivite) - Maximise ton impact

@@ -220,4 +220,4 @@ Dans 6 mois, tu auras un stack qui te fait gagner 20h/semaine et te permet de sc
 
 - [SaaS pour ton business](/tech/saas/saas) - Comprendre le modèle SaaS
 - [Automatisation](/tech/automatisation) - Connecte tes outils efficacement
-- [Productivité](/reussir/succes/productivite) - Maximise ton temps
+- [Productivité](succes/productivite) - Maximise ton temps

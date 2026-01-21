@@ -87,6 +87,18 @@ Mais si tu aimes coder et que tu veux créer quelque chose d'utile, **les applic
 - **Anglais technique** : comprendre les documentations et tutoriels
 - **Patience et persévérance** : le développement, c'est plein d'échecs avant le succès
 
+### Approche Kilo Code
+
+- **Workflow par rôles/modes** : orchestrateur produit + spécialistes (dev, QA, design).
+- **Objectifs clairs** : découpage en features livrables et critères d'acceptation.
+- **Itération par feedback** : cycles courts, retours utilisateurs, corrections.
+- **Documentation** : décisions techniques, sources, hypothèses, limites.
+- **Checklists qualité** : tests, performance, store compliance.
+- Référence : https://kilocodefr.com/bases-kilo-code
+
+### Langage du logiciel (repères clés)
+Même si tu ne veux pas devenir “pur dev”, apprendre un peu de langage logiciel t’ouvre des portes. Quelques repères comme **API** et **tests** suffisent pour clarifier tes besoins, collaborer avec des profils techniques et progresser par petites étapes. Tu avances avec des specs simples, des retours rapides et des versions courtes, ce qui rend l’app plus fiable sans te noyer dans la technique. Référence : https://www.deeplearning.ai/the-batch/learn-the-language-of-software/
+
 **Bonne nouvelle** : tu n'as pas besoin d'être un génie du code. Les applications simples peuvent être créées avec des bases solides.
 
 ### Matériel

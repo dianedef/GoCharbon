@@ -82,7 +82,7 @@ Comme un chef d'orchestre qui harmonise différents instruments, tes outils doiv
 
 2. **L'Automatisation Financière**
 
-   Libère-toi des tâches administratives comme le font les [entrepreneurs à succès](/reussir/succes/mindset) :
+   Libère-toi des tâches administratives comme le font les [entrepreneurs à succès](succes/mindset) :
 
    - Rapprochement bancaire automatique
    - Facturation récurrente sans effort
@@ -109,7 +109,7 @@ Les données sont ton carburant. Comme dans tout [business digital](/business/sa
 
 ### L'Expérimentation Automatisée
 
-Le test est ton meilleur professeur. Adopte le [mindset](/reussir/succes/mindset) des entreprises qui scalent :
+Le test est ton meilleur professeur. Adopte le [mindset](succes/mindset) des entreprises qui scalent :
 
 - Lance des tests multivariés automatiques
 - Mesure les résultats sans effort
@@ -151,7 +151,7 @@ Comme dans tout [business digital](/business/startups) qui réussit, tu dois cr�
 
 ## L'Art de l'Effet de Levier
 
-L'automatisation est la clé de la croissance exponentielle. Comme l'explique notre guide sur la [productivité](/reussir/succes/productivite), concentre-toi sur :
+L'automatisation est la clé de la croissance exponentielle. Comme l'explique notre guide sur la [productivité](succes/productivite), concentre-toi sur :
 
 1. **Les Systèmes qui Libèrent**
 
@@ -219,7 +219,7 @@ Dans un monde automatisé, ta valeur réside dans ce que l'IA ne peut pas faire 
 
 ### La Qualité Avant la Quantité
 
-Comme l'explique notre guide sur le [mindset](/reussir/succes/mindset), le succès durable vient de la qualité :
+Comme l'explique notre guide sur le [mindset](succes/mindset), le succès durable vient de la qualité :
 
 - Des processus robustes qui ne cassent pas
 - Des données fiables et vérifiées
@@ -262,7 +262,7 @@ Le voyage de mille lieues commence par un premier pas :
 
 ### Le Mindset du Scalant
 
-Les entreprises qui automatisent avec succès partagent des traits communs. Comme l'explique notre guide sur le [mindset](/reussir/succes/mindset) entrepreneurial :
+Les entreprises qui automatisent avec succès partagent des traits communs. Comme l'explique notre guide sur le [mindset](succes/mindset) entrepreneurial :
 
 - Ils voient chaque processus comme une opportunité de scalabilité
 - Ils investissent du temps dans la documentation
@@ -300,5 +300,5 @@ Dans un marché qui évolue constamment, l'automatisation est ta meilleure alli�
 
 - [Comparatif Make.com vs Zapier](/tech/outils-automatisation) - Choisis le bon outil
 - [Guide No-Code](/tech/no-code) - Automatiser sans coder
-- [Productivité 2.0](/reussir/succes/productivite) - Maximise ton impact
+- [Productivité 2.0](succes/productivite) - Maximise ton impact
 - [Gestion de Projet](/tech/outils-gestion) - Organise tes workflows

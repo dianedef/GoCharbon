@@ -52,6 +52,18 @@ C'est un des business les plus accessibles (tu peux commencer avec ton smartphon
 - **Community management** - Gérer et engager ta communauté
 - **Marketing** - Promouvoir ton contenu efficacement
 
+### Approche Kilo Code
+
+- **Workflow par rôles/modes** : orchestrateur éditorial + spécialistes (recherche, écriture, montage).
+- **Objectifs clairs** : briefs par contenu, KPI et livrables définis.
+- **Itération par feedback** : analyse des métriques, ajustements rapides.
+- **Documentation** : décisions éditoriales, sources, angles et limites.
+- **Checklists qualité** : fact-checking, cohérence de ton, conformité plateforme.
+- Référence : https://kilocodefr.com/bases-kilo-code
+
+### Langage du logiciel (repères clés)
+Tu n’as pas besoin d’être technique pour créer du contenu avec des outils modernes. Un peu de vocabulaire suffit pour collaborer et automatiser en douceur. Des notions simples comme **API** ou **tests** t’aident à décrire un workflow, connecter des plateformes et vérifier que tout tourne bien. Tu apprends progressivement, en itérant avec des retours clairs plutôt qu’en cherchant la perfection du premier coup. Référence : https://www.deeplearning.ai/the-batch/learn-the-language-of-software/
+
 ### Budget nécessaire
 
 - **Minimum: 0€**
