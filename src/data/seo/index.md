@@ -169,6 +169,7 @@ Le SEO prend 6-12 mois avant de voir des résultats. Sois patient.
 - [Fondamentaux du SEO](/seo/fondamentaux) - Les bases indispensables
 - [Stratégie de contenu](/strategies/content-marketing) - Créer du contenu qui rank
 - [SEO technique](/tech/seo/technique) - Architecture et performance
+- [Black Hat & Automatisation](/seo/technique/black-hat-automation) - Stratégies avancées et scalabilité
 - [Netlinking](/seo/netlinking) - Stratégie de backlinks
 - [SEO Local](/seo/local) - Optimiser ta présence locale
 

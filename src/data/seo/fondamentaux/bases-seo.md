@@ -183,6 +183,7 @@ Le SEO prend 6-12 mois avant de voir des résultats. Sois patient.
 ## En savoir plus
 
 - [Comment fonctionnent les moteurs](/seo/fondamentaux/fonctionnement-moteurs) - Comment Google classe
+- [Mythes et Réalités SEO](/seo/fondamentaux/mythes-realites) - Le guide No Bullshit
 - [Facteurs de classement](/seo/fondamentaux/facteurs-classement) - Les 200+ facteurs
 - [SEO Mobile-first](/seo/fondamentaux/mobile-first) - Optimiser pour mobile
 - [Bonnes pratiques SEO](/seo/fondamentaux/bonnes-pratiques) - Les règles d'or

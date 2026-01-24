@@ -55,7 +55,7 @@ Le financement est le carburant de l'innovation. Il se décline généralement e
 
 ## 4. Métriques et Performance
 
-Pour piloter une startup, l'intuition ne suffit pas. Il faut suivre des indicateurs clés (KPIs) :
+Pour piloter une startup, l'intuition ne suffit pas. Il faut suivre des indicateurs clés (KPIs), et ce suivi est d'autant plus efficace lorsqu'il est intégré dans un outil de gouvernance globale :
 - **CAC (Coût d'Acquisition Client) :** Ce qu'il en coûte pour obtenir un nouveau client.
 - **LTV (Lifetime Value) :** La valeur totale générée par un client sur la durée.
 - **Burn Rate :** La vitesse à laquelle la startup consomme sa trésorerie.
@@ -67,6 +67,7 @@ Passer de 10 à 100 collaborateurs est une épreuve de force. Les principaux dé
 - **Le Recrutement :** Maintenir la culture d'entreprise tout en intégrant de nouveaux profils.
 - **L'Internationalisation :** Adapter son produit à des marchés culturels et réglementaires différents.
 - **La Structure :** Passer d'une organisation agile et informelle à des processus structurés sans perdre en rapidité.
+- **La structuration du pilotage :** Le passage à l'échelle impose de passer du "faire" au "piloter" pour maintenir la cohérence globale.
 
 ## 6. Exit Strategy : La Finalité
 
@@ -74,6 +75,12 @@ Une startup n'a pas vocation à rester une startup indéfiniment. Son cycle se t
 - **L'Acquisition :** Rachat par un grand groupe (ex: rachat de Figma par Adobe).
 - **L'IPO (Introduction en Bourse) :** Entrée sur les marchés financiers.
 - **La Rentabilité :** Transformation en une entreprise pérenne et autonome.
+
+## 7. Gouvernance et Pilotage Stratégique
+
+À mesure qu'une startup grandit, la simple gestion de tâches devient insuffisante. Une couche de "Pilotage" (Steering) devient indispensable pour aligner les projets opérationnels avec la vision stratégique de l'entreprise.
+
+Pour automatiser le reporting et maintenir une roadmap claire pour le board, des outils comme [AirSaas](https://www.airsaas.io/fr/startup) permettent de structurer cette gouvernance et d'assurer une communication fluide entre les équipes et les investisseurs.
 
 ---
 

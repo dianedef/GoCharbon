@@ -16,6 +16,12 @@ tags:
 
 ## Fondamentaux
 
+### Opportunités du SEO Local
+Le SEO local ne se limite pas à apparaître sur une carte. C'est une stratégie de capture d'intention immédiate :
+- **Recherches "à proximité"** : Une croissance exponentielle des requêtes mobiles avec intention d'achat immédiat.
+- **Visibilité "Zero-Click"** : Apparaître dans le Local Pack permet de donner l'info (téléphone, adresse) sans même que l'utilisateur clique sur ton site.
+- **Confiance et Preuve Sociale** : Les avis locaux sont le premier facteur de conversion pour un business physique.
+
 ### Bases du SEO Local
 - Google Business Profile
 - Citations locales
