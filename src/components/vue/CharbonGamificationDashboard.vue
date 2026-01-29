@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref, onMounted, computed } from 'vue'
-import { useGamification, fireBadgeConfetti } from '@nomade/gamification'
-import type { Badge } from '@nomade/gamification'
+import { useGamification, fireBadgeConfetti } from '@dianedef/gamification'
+import type { Badge } from '@dianedef/gamification'
 import { createCharbonConfig } from '../../gamification/config'
 import CharbonBadgeCard from './CharbonBadgeCard.vue'
 

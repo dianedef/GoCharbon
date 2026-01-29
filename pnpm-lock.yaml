@@ -11,6 +11,9 @@ dependencies:
   '@astrojs/sitemap':
     specifier: ^3.7.0
     version: 3.7.0
+  '@dianedef/gamification':
+    specifier: ^0.1.0
+    version: 0.1.0(vue@3.5.27)
   '@eliancodes/brutal-ui':
     specifier: ^0.2.6
     version: 0.2.6
@@ -723,6 +726,15 @@ packages:
       fs-extra: 7.0.1
       human-id: 4.1.3
       prettier: 2.8.8
+    dev: false
+
+  /@dianedef/gamification@0.1.0(vue@3.5.27):
+    resolution: {integrity: sha512-TzBdnXIygnDVldoE8oGhSRhEpYwf9r+YOL39GtEOeL+5MGdhGYH8S5desVg82AnHT6+FqYNagm2S0ih3MSI/jw==, tarball: https://npm.pkg.github.com/download/@dianedef/gamification/0.1.0/fae584dc3d450a80702d4b31d9dabda8a0069430}
+    peerDependencies:
+      vue: ^3.4.0
+    dependencies:
+      canvas-confetti: 1.9.4
+      vue: 3.5.27(typescript@5.9.3)
     dev: false
 
   /@eliancodes/brutal-ui@0.2.6:
@@ -2848,6 +2860,10 @@ packages:
   /caniuse-lite@1.0.30001765:
     resolution: {integrity: sha512-LWcNtSyZrakjECqmpP4qdg0MMGdN368D7X8XvvAqOcqMv0RxnlqVKZl2V6/mBR68oYMxOZPLw/gO7DuisMHUvQ==}
     dev: true
+
+  /canvas-confetti@1.9.4:
+    resolution: {integrity: sha512-yxQbJkAVrFXWNbTUjPqjF7G+g6pDotOUHGbkZq2NELZUMDpiJ85rIEazVb8GTaAptNW2miJAXbs1BtioA251Pw==}
+    dev: false
 
   /ccount@2.0.1:
     resolution: {integrity: sha512-eyrF0jiFpY+3drT6383f1qhkbGsLSifNAjA61IUjZjmLCWjItY6LB9ft9YhoDgwfmclB2zhu51Lc7+95b8NRAg==}

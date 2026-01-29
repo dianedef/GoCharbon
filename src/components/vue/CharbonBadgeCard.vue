@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { Badge } from '@nomade/gamification'
+import type { Badge } from '@dianedef/gamification'
 
 defineProps<{
   badge: Badge

@@ -1,4 +1,4 @@
-import type { Badge, GamificationOptions } from '@nomade/gamification'
+import type { Badge, GamificationOptions } from '@dianedef/gamification'
 
 // 10 badges for Charbon, leveraging the 8 root tag categories
 export const charbonBadges: Badge[] = [

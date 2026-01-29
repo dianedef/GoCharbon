@@ -20,7 +20,9 @@
   "dependencies": {
     "@astrojs/rss": "^4.0.15",
     "@astrojs/sitemap": "^3.7.0",
+    "@dianedef/gamification": "^0.1.0",
     "@eliancodes/brutal-ui": "^0.2.6",
+    "@nomade/gamification": "link:/root/gamification",
     "@vitejs/plugin-vue": "^6.0.3",
     "astro": "^5.16.12",
     "astro-breadcrumbs": "^3.3.3",
@@ -28,8 +30,7 @@
     "gsap": "^3.14.2",
     "lucide-astro": "^0.556.0",
     "satori": "^0.19.1",
-    "satori-html": "^0.3.2",
-    "@nomade/gamification": "link:/root/gamification"
+    "satori-html": "^0.3.2"
   },
   "devDependencies": {
     "@astrojs/vue": "5.1.4",
