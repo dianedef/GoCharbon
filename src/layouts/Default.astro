@@ -2,6 +2,7 @@
 import BaseNavigation from "../components/components/BaseNavigation.astro";
 import BaseFooter from "../components/components/BaseFooter.astro";
 import BaseHead from "../components/components/BaseHead.astro";
+import NewsletterSaaS from "../components/NewsletterSaaS.astro";
 import type { BaseProps } from "../utils/types/props";
 import { ViewTransitions } from "astro:transitions";
 import "../styles/global.css";
@@ -44,6 +45,7 @@ const {
 		<div class="page-background min-h-screen bg-white dark:bg-black" transition:persist>
 			<slot />
 		</div>
+		<NewsletterSaaS />
 		<BaseFooter />
 		{
 			import.meta.env.PROD && (
