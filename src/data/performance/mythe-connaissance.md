@@ -1,7 +1,9 @@
 ---
 title: Le Plus Grand Mythe de la Connaissance
 author: Diane
-tags: ['Performance']
+tags:
+  - 'Productivité'
+  - 'Performance'
 description: Découvrez pourquoi la connaissance seule ne suffit pas et comment transformer le savoir en action concrète
 pubDate: "2024-03-25"
 imgUrl: ../../assets/astro.jpeg

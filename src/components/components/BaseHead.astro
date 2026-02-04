@@ -3,10 +3,18 @@ import LocalFont from "./LocalFont.astro";
 import type { BaseProps } from "../../utils/types/props";
 import { ClientRouter } from "astro:transitions";
 
+interface ArticleData {
+	author?: string;
+	pubDate?: Date;
+	tags?: string[];
+}
+
 type Props = Pick<
 	BaseProps,
 	"title" | "description" | "ogImage" | "metaRobots"
->;
+> & {
+	article?: ArticleData;
+};
 
 const canonicalURL = Astro.site
 	? new URL(Astro.url.pathname, Astro.site)
@@ -24,7 +32,76 @@ const fullOgImageUrl = Astro.site
 	? new URL(ogImagePath.replace(/^\//, ""), Astro.site)
 	: new URL(ogImagePath, "https://gocharbon.com");
 
-const { title, description, metaRobots = "index, follow" } = Astro.props;
+const { title, description, metaRobots = "index, follow", article } = Astro.props;
+
+// Génération du JSON-LD pour les articles de blog
+const isArticle = !!article;
+const blogPostingSchema = isArticle
+	? {
+			"@context": "https://schema.org",
+			"@type": "BlogPosting",
+			headline: title,
+			description: description,
+			image: fullOgImageUrl.toString(),
+			url: canonicalURL.toString(),
+			datePublished: article.pubDate?.toISOString(),
+			author: {
+				"@type": "Person",
+				name: article.author || "CHARBON",
+			},
+			publisher: {
+				"@type": "Organization",
+				name: "CHARBON",
+				url: "https://gocharbon.com",
+			},
+			mainEntityOfPage: {
+				"@type": "WebPage",
+				"@id": canonicalURL.toString(),
+			},
+		}
+	: null;
+
+// Breadcrumbs JSON-LD
+const pathSegments = Astro.url.pathname.split("/").filter(Boolean);
+const breadcrumbItems = [
+	{
+		"@type": "ListItem",
+		position: 1,
+		name: "Accueil",
+		item: "https://gocharbon.com",
+	},
+];
+
+if (pathSegments.length > 0) {
+	// Ajouter Blog comme niveau intermédiaire pour les articles
+	if (isArticle) {
+		breadcrumbItems.push({
+			"@type": "ListItem",
+			position: 2,
+			name: "Blog",
+			item: "https://gocharbon.com/blog",
+		});
+		breadcrumbItems.push({
+			"@type": "ListItem",
+			position: 3,
+			name: title,
+			item: canonicalURL.toString(),
+		});
+	} else if (pathSegments[0] === "blog") {
+		breadcrumbItems.push({
+			"@type": "ListItem",
+			position: 2,
+			name: "Blog",
+			item: canonicalURL.toString(),
+		});
+	}
+}
+
+const breadcrumbSchema = {
+	"@context": "https://schema.org",
+	"@type": "BreadcrumbList",
+	itemListElement: breadcrumbItems,
+};
 ---
 
 <head>
@@ -60,6 +137,14 @@ const { title, description, metaRobots = "index, follow" } = Astro.props;
 	<link rel="icon" type="image/svg" href="/favicon.svg" />
 
 	<title>CHARBON | {title}</title>
+
+	<!-- JSON-LD Structured Data -->
+	{breadcrumbItems.length > 1 && (
+		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+	)}
+	{blogPostingSchema && (
+		<script type="application/ld+json" set:html={JSON.stringify(blogPostingSchema)} />
+	)}
 
 	<slot />
 </head>

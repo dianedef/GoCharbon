@@ -1,7 +1,9 @@
 ---
 title: Google Search Console Avancée
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'Audit'
 description: Guide complet pour maîtriser et exploiter toutes les fonctionnalités de Google Search Console
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

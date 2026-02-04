@@ -1,7 +1,10 @@
 ---
 title: Culture
 author: Diane
-tags: ['Culture']
+tags:
+  - 'Business'
+  - 'Ressources Humaines'
+  - 'Management'
 description: Guide complet sur culture
 pubDate: "2024-03-25"
 imgUrl: ../../assets/astro.jpeg

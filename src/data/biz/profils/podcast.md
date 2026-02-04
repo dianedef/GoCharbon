@@ -1,7 +1,10 @@
 ---
 title: Podcast
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Contenu'
+  - 'Content Marketing'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

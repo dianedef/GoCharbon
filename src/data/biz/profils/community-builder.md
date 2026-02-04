@@ -1,7 +1,10 @@
 ---
 title: Community Builder / Gestionnaire de Communauté
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Réseaux Sociaux'
+  - 'Marketing'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

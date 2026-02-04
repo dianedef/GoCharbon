@@ -1,7 +1,10 @@
 ---
 title: Développer ton influence naturelle
 author: Diane
-tags: ['Influence']
+tags:
+  - 'Productivité'
+  - 'Mental'
+  - 'Influence'
 description: Découvre comment créer un impact positif et développer une influence authentique dans ton domaine
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

@@ -1,7 +1,10 @@
 ---
 title: SEO Consultant / Consultant en Référencement Naturel
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'SEO'
+  - 'Freelancing'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

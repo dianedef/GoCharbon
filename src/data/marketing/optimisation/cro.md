@@ -1,7 +1,10 @@
 ---
 title: CRO (Conversion Rate Optimization)
 author: Diane
-tags: ['CRO']
+tags:
+  - 'Marketing'
+  - 'CRO'
+  - 'Optimisation'
 description: "Guide complet sur l'optimisation du taux de conversion"
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

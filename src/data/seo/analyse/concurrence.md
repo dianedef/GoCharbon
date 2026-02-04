@@ -1,7 +1,10 @@
 ---
 title: Analyse Concurrentielle SEO
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'Audit'
+  - 'Concurrence'
 description: Guide complet pour analyser et surpasser vos concurrents en SEO
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

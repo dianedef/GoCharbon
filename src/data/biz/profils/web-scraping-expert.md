@@ -1,7 +1,10 @@
 ---
 title: Web Scraping Expert / Expert en Web Scraping
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Scraping'
+  - 'Freelancing'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

@@ -1,7 +1,10 @@
 ---
 title: Copywriter / Rédacteur Publicitaire
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Rédaction'
+  - 'Freelancing'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

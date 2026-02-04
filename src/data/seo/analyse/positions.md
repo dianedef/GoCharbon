@@ -1,7 +1,9 @@
 ---
 title: Suivi des Positions SEO
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'Audit'
 description: Guide complet pour suivre et analyser vos positions dans les résultats de recherche
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

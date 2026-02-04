@@ -1,7 +1,9 @@
 ---
 title: International
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'International'
 description: Guide complet sur international
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

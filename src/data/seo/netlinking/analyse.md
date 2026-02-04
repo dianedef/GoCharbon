@@ -1,7 +1,10 @@
 ---
 title: Analyse
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'Backlinks'
+  - 'Audit'
 description: Guide complet sur analyse
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

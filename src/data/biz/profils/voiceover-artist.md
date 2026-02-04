@@ -1,7 +1,10 @@
 ---
 title: Voiceover Artist / Comédien de Doublage
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Audio'
+  - 'Freelancing'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

@@ -1,7 +1,10 @@
 ---
 title: Recrutement
 author: Diane
-tags: ['Recrutement']
+tags:
+  - 'Business'
+  - 'Ressources Humaines'
+  - 'Recrutement'
 description: Guide complet sur recrutement
 pubDate: "2024-03-25"
 imgUrl: ../../assets/astro.jpeg

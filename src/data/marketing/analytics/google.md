@@ -1,7 +1,10 @@
 ---
 title: Google Analytics
 author: Diane
-tags: ['Google Analytics']
+tags:
+  - 'Marketing'
+  - 'Analytics'
+  - 'Google'
 description: Guide complet pour maîtriser Google Analytics et optimiser vos performances
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

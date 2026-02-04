@@ -3,7 +3,7 @@ import type { CollectionEntry } from "astro:content";
 import Layout from "./Default.astro";
 import Content from "@components/components/PostContent.astro";
 import SideBar from "@components/components/PostSideBar.astro";
-import RecentPosts from "@components/components/RecentPosts.astro";
+import RelatedPosts from "@components/components/RelatedPosts.astro";
 import GamificationBar from "@components/vue/GamificationBar.vue";
 import { Image } from "astro:assets";
 import type { ImageMetadata } from "astro";
@@ -26,7 +26,7 @@ const slug = Astro.params.slug as string;
 const category = tags?.[0]?.toLowerCase();
 ---
 
-<Layout title={title} description={description} ogImage={ogImage}>
+<Layout title={title} description={description} ogImage={ogImage} article={{ author, pubDate, tags }}>
 	<div class="p-6 dark:bg-black" transition:name={`post-${id}`}>
 		<main class="lg:grid lg:grid-cols-3 flex justify-center gap-4">
 			<SideBar headings={headings as any[]} />
@@ -55,7 +55,7 @@ const category = tags?.[0]?.toLowerCase();
 			</div>
 		</main>
 		<section class="mt-12">
-			<RecentPosts count={6} />
+			<RelatedPosts currentSlug={id} currentTags={tags || []} count={4} />
 		</section>
 	</div>
 	<GamificationBar client:load slug={slug} category={category} />

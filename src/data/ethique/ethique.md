@@ -1,5 +1,5 @@
 ---
-title: Ethique
+title: Éthique
 author: Diane
 tags: ['Éthique']
 description: Guide complet sur ethique

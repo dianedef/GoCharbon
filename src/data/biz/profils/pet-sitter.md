@@ -1,7 +1,9 @@
 ---
 title: "Pet Sitter (Garde d'animaux)"
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Freelancing'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

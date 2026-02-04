@@ -1,7 +1,10 @@
 ---
 title: Tableaux de Bord SEO
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'Audit'
+  - 'Analytics'
 description: Guide complet pour créer et exploiter des tableaux de bord SEO efficaces
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

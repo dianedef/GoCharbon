@@ -1,7 +1,10 @@
 ---
 title: Chatbot Developer (No-Code)
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'IA'
+  - 'Développement'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

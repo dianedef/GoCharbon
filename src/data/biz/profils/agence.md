@@ -1,7 +1,10 @@
 ---
 title: Agence Digitale
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Entrepreneuriat'
+  - 'Management'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

@@ -1,7 +1,9 @@
 ---
 title: Ecommerce
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'E-commerce'
 description: Guide complet sur ecommerce
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

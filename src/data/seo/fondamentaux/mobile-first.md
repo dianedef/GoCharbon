@@ -1,7 +1,9 @@
 ---
 title: Mobile First
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'Technique'
 description: Guide complet sur mobile first
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

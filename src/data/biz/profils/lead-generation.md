@@ -1,7 +1,10 @@
 ---
 title: Lead Generation Specialist / Spécialiste en Génération de Leads
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Acquisition'
+  - 'Marketing'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

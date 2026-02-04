@@ -1,7 +1,10 @@
 ---
 title: Leadership
 author: Diane
-tags: ['Leadership']
+tags:
+  - 'Business'
+  - 'Management'
+  - 'Leadership'
 description: Guide complet sur leadership
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

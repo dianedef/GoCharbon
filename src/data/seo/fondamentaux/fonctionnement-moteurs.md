@@ -1,7 +1,9 @@
 ---
 title: Fonctionnement Moteurs
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'Technique'
 description: Guide complet sur fonctionnement moteurs
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

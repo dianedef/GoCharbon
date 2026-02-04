@@ -6,7 +6,15 @@ import type { BaseProps } from "../utils/types/props";
 import { ViewTransitions } from "astro:transitions";
 import "../styles/global.css";
 
-type Props = BaseProps;
+interface ArticleData {
+	author?: string;
+	pubDate?: Date;
+	tags?: string[];
+}
+
+type Props = BaseProps & {
+	article?: ArticleData;
+};
 
 const {
 	title,
@@ -15,16 +23,18 @@ const {
 	pageTitle,
 	ogImage,
 	metaRobots = "index, follow",
+	article,
 } = Astro.props;
 ---
 
-<html lang="en" class="h-full">
+<html lang="fr" class="h-full">
 	<head>
 		<BaseHead
 			ogImage={ogImage}
 			title={title}
 			description={description}
 			metaRobots={metaRobots}
+			article={article}
 		/>
 		<ViewTransitions />
 	</head>

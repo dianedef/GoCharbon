@@ -1,7 +1,10 @@
 ---
 title: "App Developer / Développeur d'applications mobiles"
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Développement'
+  - 'Apps'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

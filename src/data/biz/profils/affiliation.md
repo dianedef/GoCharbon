@@ -1,7 +1,11 @@
 ---
 title: "Marketing d'Affiliation"
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Affiliation'
+  - 'Revenu Passif'
+  - 'Monétisation'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

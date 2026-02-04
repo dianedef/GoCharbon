@@ -1,7 +1,10 @@
 ---
 title: Personnalisation Email Marketing
 author: Diane
-tags: ['Email Marketing']
+tags:
+  - 'Marketing'
+  - 'Newsletter'
+  - 'Email'
 description: "Stratégies avancées de personnalisation email pour maximiser l'engagement"
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

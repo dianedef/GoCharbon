@@ -1,7 +1,10 @@
 ---
 title: E-commerce / Boutique en ligne
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'E-commerce'
+  - 'Business en Ligne'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

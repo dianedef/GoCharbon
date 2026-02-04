@@ -1,7 +1,10 @@
 ---
 title: Indicateurs
 author: Diane
-tags: ['Indicateurs']
+tags:
+  - 'Business'
+  - 'Analytics'
+  - 'Indicateurs'
 description: Guide complet sur indicateurs
 pubDate: "2024-03-25"
 imgUrl: ../../assets/astro.jpeg

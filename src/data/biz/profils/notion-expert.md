@@ -1,7 +1,11 @@
 ---
 title: Notion Expert / Spécialiste Notion
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Apps'
+  - 'Freelancing'
+  - 'SaaS'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

@@ -1,7 +1,10 @@
 ---
 title: Business Plan
 author: Diane
-tags: ['Stratégie']
+tags:
+  - 'Business'
+  - 'Stratégie'
+  - 'Business Plan'
 description: Guide complet sur business plan
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

@@ -1,7 +1,10 @@
 ---
 title: Automatisation Email Marketing
 author: Diane
-tags: ['Email Marketing']
+tags:
+  - 'Marketing'
+  - 'Newsletter'
+  - 'Email'
 description: "Maîtrise l'automatisation de tes campagnes email pour plus d'impact"
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

@@ -1,7 +1,10 @@
 ---
 title: UX Design
 author: Diane
-tags: ['UX Design']
+tags:
+  - 'Tech'
+  - 'UX'
+  - 'Design'
 description: "Guide complet sur l'optimisation de l'expérience utilisateur"
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

@@ -1,7 +1,10 @@
 ---
 title: Closer / Sales Closer
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Vente'
+  - 'Freelancing'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

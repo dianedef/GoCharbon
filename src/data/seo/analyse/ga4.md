@@ -1,7 +1,9 @@
 ---
 title: Configuration Google Analytics 4
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'Analytics'
 description: Guide complet pour configurer et utiliser Google Analytics 4 pour le SEO
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

@@ -1,7 +1,9 @@
 ---
 title: Citations
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'Local'
 description: Guide complet sur citations
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

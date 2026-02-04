@@ -1,7 +1,9 @@
 ---
 title: Bonnes Pratiques
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'Technique'
 description: Guide complet sur bonnes pratiques
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

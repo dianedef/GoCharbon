@@ -63,7 +63,9 @@ export const tagHierarchy: TagHierarchy = {
           'Management': { label: 'Management' },
           'Ressources Humaines': { label: 'RH' },
           'Gestion': { label: 'Gestion' },
-          'Risques': { label: 'Risques' }
+          'Gestion de projet': { label: 'Gestion de projet' },
+          'Risques': { label: 'Risques' },
+          'Organisation': { label: 'Organisation' }
         }
       },
       ecommerce: {
@@ -90,7 +92,9 @@ export const tagHierarchy: TagHierarchy = {
           'Partenariats': { label: 'Partenariats' },
           'Concurrence': { label: 'Concurrence' },
           'RSE': { label: 'RSE' },
+          'Éthique': { label: 'Éthique' },
           'Innovation': { label: 'Innovation' },
+          'Développement Durable': { label: 'Développement Durable' }
         }
       }
     }
@@ -113,6 +117,26 @@ export const tagHierarchy: TagHierarchy = {
           'Facebook Ads': { label: 'Facebook Ads' },
           'Instagram Ads': { label: 'Instagram Ads' },
           'LinkedIn Ads': { label: 'LinkedIn Ads' }
+        }
+      },
+      contentmarketing: {
+        label: 'Content Marketing',
+        subtags: {
+          'Blog': { label: 'Blog' },
+          'Newsletter': { label: 'Newsletter' },
+          'Storytelling': { label: 'Storytelling' },
+          'Lead Magnet': { label: 'Lead Magnet' }
+        }
+      },
+      reseauxsociaux: {
+        label: 'Réseaux Sociaux',
+        subtags: {
+          'Instagram': { label: 'Instagram' },
+          'LinkedIn': { label: 'LinkedIn' },
+          'TikTok': { label: 'TikTok' },
+          'Twitter': { label: 'Twitter' },
+          'Facebook': { label: 'Facebook' },
+          'YouTube': { label: 'YouTube' }
         }
       },
       analytics: {
@@ -258,7 +282,8 @@ export const tagHierarchy: TagHierarchy = {
       objectifs: {
         label: 'Objectifs',
         subtags: {
-          'Objectifs': { label: 'Objectifs' }
+          'Objectifs': { label: 'Objectifs' },
+          'Planification': { label: 'Planification' }
         }
       },
       mental: {
@@ -266,7 +291,8 @@ export const tagHierarchy: TagHierarchy = {
         subtags: {
           'Mental': { label: 'Mental' },
           'Mindset': { label: 'Mindset' },
-          'Décision': { label: 'Décision' }
+          'Décision': { label: 'Décision' },
+          'Motivation': { label: 'Motivation' }
         }
       },
       connaissances: {
@@ -275,6 +301,14 @@ export const tagHierarchy: TagHierarchy = {
           'Connaissance': { label: 'Connaissance' },
           'Influence': { label: 'Influence' },
           'Rétention': { label: 'Retention' }
+        }
+      },
+      methodes: {
+        label: 'Méthodes',
+        subtags: {
+          'GTD': { label: 'GTD' },
+          'Pomodoro': { label: 'Pomodoro' },
+          'Time Blocking': { label: 'Time Blocking' }
         }
       }
     }

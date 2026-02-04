@@ -1,7 +1,9 @@
 ---
 title: Virtual Assistant / Assistant Virtuel Spécialisé
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Freelancing'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

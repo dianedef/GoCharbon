@@ -1,7 +1,11 @@
 ---
 title: AI Content Creator
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'IA'
+  - 'Contenu'
+  - 'Automatisation'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg

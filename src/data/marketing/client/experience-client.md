@@ -1,7 +1,10 @@
 ---
 title: Experience Client
 author: Diane
-tags: ['Relation Client']
+tags:
+  - 'Marketing'
+  - 'Relation Client'
+  - 'Acquisition'
 description: Guide complet sur experience client
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

@@ -1,7 +1,9 @@
 ---
 title: Checklist
 author: Diane
-tags: ['SEO']
+tags:
+  - 'SEO'
+  - 'Audit'
 description: Guide complet sur checklist
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg

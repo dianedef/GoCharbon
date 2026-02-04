@@ -1,7 +1,10 @@
 ---
 title: Designer Graphique Freelance
 author: Web Indé
-tags: ['Business']
+tags:
+  - 'Business'
+  - 'Freelancing'
+  - 'Design'
 description: Article en cours de rédaction.
 pubDate: "2024-01-01"
 imgUrl: ../../../assets/astro.jpeg
