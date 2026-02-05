@@ -33,14 +33,27 @@ Je conçois des applications web et mobiles sur mesure, pensées pour répondre 
 - Centralisation de vos données dans une application métier unique.
 - Optimisation de la performance et de l'expérience utilisateur (UX).
 
-### 🛠️ Conseil en Choix de Logiciels
-*Optimisez votre productivité avec les bons outils.*
+### 🛠️ Architecture de tes Workflows Business
+*Construis ta stack logicielle brique par brique, sans te ruiner.*
 
-Je vous accompagne dans la modernisation de votre arsenal digital pour améliorer votre efficacité quotidienne :
-- Audit de vos processus actuels et identification des points de friction.
-- Sélection et recommandation des meilleurs logiciels (SaaS, CRM, ERP) adaptés à votre budget.
-- Aide à la mise en place et configuration des outils choisis.
-- Formation de vos équipes pour une adoption rapide et efficace.
+Tu galères à choisir entre 50 outils qui font "plus ou moins la même chose" ? Je t'aide à assembler les bonnes briques logicielles pour créer des workflows qui fonctionnent vraiment — et qui durent.
+
+**Ma philosophie : gratuit et open source d'abord.**
+Avant de te recommander un SaaS à 50€/mois, je cherche systématiquement :
+- Les alternatives **gratuites** qui font le job
+- Les solutions **open source** que tu peux héberger toi-même
+- Les outils **francophones** pour éviter la friction linguistique
+
+**Ce que je fais concrètement :**
+- Audit de tes processus actuels et identification des points de friction
+- Cartographie de ton workflow idéal, brique par brique
+- Sélection des outils adaptés à ton budget (y compris 0€)
+- Mise en place et configuration des solutions choisies
+- Formation pour que tu sois autonome rapidement
+
+:::tip[Le résultat ?]
+Une stack logicielle cohérente, des outils qui se parlent entre eux, et un workflow business que tu maîtrises de A à Z — sans abonnements superflus.
+:::
 
 ### 🤖 Intégration de l'IA & Automatisation
 *Boostez votre business avec l'intelligence artificielle.*

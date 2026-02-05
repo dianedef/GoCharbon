@@ -46,7 +46,7 @@ Le contenu doit répondre à l'intention de recherche, pas au volume de mots.
 | -------------- | --------------------------- | ---------------------- |
 | Informationnel | "Comment optimiser son SEO" | Guide complet          |
 | Transactionnel | "Avoir le meilleur CRM      | Comparaison + avis     |
-| Navigationnel  | "Charbon"                   | Page d'accueil directe |
+| Navigationnel  | "GoCharbon"                 | Page d'accueil directe |
 | Investigation  | "CRM vs Notion              | Tableau comparatif     |
 
 **Ce qui marche en 2026 :**

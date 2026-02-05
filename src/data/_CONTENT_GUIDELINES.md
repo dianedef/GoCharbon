@@ -1,5 +1,5 @@
 ---
-title: "Content Guidelines CHARBON"
+title: "Content Guidelines GOCHARBON"
 author: Diane
 tags: ['Tutoriels']
 description: Guide de rédaction pour les articles de blog compatibles Astro
@@ -7,11 +7,11 @@ pubDate: 2024-01-01
 imgUrl: ../assets/astro.jpeg
 ---
 
-# Content Guidelines - CHARBON
+# Content Guidelines - GOCHARBON
 
-## Concept Charbon
+## Concept GoCharbon
 
-Charbon est une plateforme francophone dédiée aux entrepreneurs, freelances et créateurs de contenu qui cherchent à optimiser leur boîte à outils numériques. Nous nous spécialisons dans:
+GoCharbon est une plateforme francophone dédiée aux entrepreneurs, freelances et créateurs de contenu qui cherchent à optimiser leur boîte à outils numériques. Nous nous spécialisons dans:
 
 - **Lifetime Deals**: Offres à vie sur les logiciels SaaS
 - **Alternatives aux marketplaces**: AppSumo, PitchGround, DealMirror, etc.
@@ -115,7 +115,7 @@ Les images doivent être placées dans `src/content/blog/assets/` ou `public/ass
 
 ## Tone et Style
 
-### Le Ton Charbon : Direct et No Bullshit
+### Le Ton GoCharbon : Direct et No Bullshit
 
 C'est ce qui nous différencie des autres. Comme sur notre page d'accueil, on va droit au but sans bullshit :
 
@@ -125,7 +125,7 @@ C'est ce qui nous différencie des autres. Comme sur notre page d'accueil, on va
 - **Parlé comme un ami** : Pas le ton "prof" ou "guru". On t'explique comme si tu avais 12 ans, sans te prendre la tête.
 - **Anti-promesses impossibles** : Pas de "tu vas gagner 10k€ en 30 jours". On reste réaliste.
 
-**Exemples de phrases dans le ton Charbon :**
+**Exemples de phrases dans le ton GoCharbon :**
 
 - "Si ça marche en 2026, tu le sauras. Si c'est de la merde, on te le dira aussi."
 - "Arrête de te compliquer la vie."
@@ -241,7 +241,7 @@ Format markdown standard:
 [Vie De Dingue s'inspire d'AppSumo pour vendre des offres à vie](https://gocharbon.com/viededingue)
 ```
 
-- Ouvrir dans un nouvel onglet si hors de Charbon
+- Ouvrir dans un nouvel onglet si hors de GoCharbon
 - Vérifier la pertinence et la qualité du lien
 
 ## Checklist avant publication

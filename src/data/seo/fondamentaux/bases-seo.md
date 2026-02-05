@@ -56,7 +56,7 @@ Le contenu doit répondre à l'intention de recherche.
 | -------------- | -------------------------- | ------------------ |
 | Informationnel | "Comment optimiser le SEO" | Guide complet      |
 | Transactionnel | "Avoir le meilleur CRM"    | Comparaison        |
-| Navigationnel  | "Charbon"                  | Page d'accueil     |
+| Navigationnel  | "GoCharbon"                | Page d'accueil     |
 | Investigation  | "CRM vs Notion"            | Tableau comparatif |
 
 **Règles d'or :**
