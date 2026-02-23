@@ -11,8 +11,8 @@
   },
   "homepage": "https://brutal.elian.codes",
   "scripts": {
-    "dev": "astro dev --host 0.0.0.0 --port 3000",
-    "start": "astro dev --host 0.0.0.0 --port 3000",
+    "dev": "astro dev --host 0.0.0.0",
+    "start": "astro dev --host 0.0.0.0",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"

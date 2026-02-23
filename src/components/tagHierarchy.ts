@@ -326,15 +326,76 @@ export const tagHierarchy: TagHierarchy = {
       }
     }
   },
-  apps: {
-    label: 'Apps & SaaS',
+  outils: {
+    label: 'Outils Français',
     subtags: {
-      francais: {
-        label: 'SaaS Français',
+      marketing: {
+        label: 'Marketing',
         subtags: {
-          'Productivité': { label: 'Productivité' },
-          'Marketing': { label: 'Marketing' },
-          'Design': { label: 'Design' }
+          'Email': { label: 'Email Marketing' },
+          'Social Media': { label: 'Réseaux Sociaux' },
+          'SEO': { label: 'SEO' },
+          'Analytics': { label: 'Analytics' },
+          'Affiliation': { label: 'Affiliation' }
+        }
+      },
+      business: {
+        label: 'Business',
+        subtags: {
+          'CRM': { label: 'CRM' },
+          'Facturation': { label: 'Facturation' },
+          'Comptabilité': { label: 'Comptabilité' },
+          'Légal': { label: 'Légal' },
+          'RH': { label: 'Ressources Humaines' }
+        }
+      },
+      productivite: {
+        label: 'Productivité',
+        subtags: {
+          'Gestion Projet': { label: 'Gestion de Projet' },
+          'Collaboration': { label: 'Collaboration' },
+          'Automatisation': { label: 'Automatisation' },
+          'Bureautique': { label: 'Bureautique' }
+        }
+      },
+      creation: {
+        label: 'Création',
+        subtags: {
+          'Design': { label: 'Design' },
+          'Vidéo': { label: 'Vidéo' },
+          'Audio': { label: 'Audio' },
+          'Rédaction': { label: 'Rédaction' }
+        }
+      },
+      ecommerce: {
+        label: 'E-commerce',
+        subtags: {
+          'CMS': { label: 'CMS E-commerce' },
+          'Paiement': { label: 'Paiement' },
+          'Logistique': { label: 'Logistique' }
+        }
+      },
+      tech: {
+        label: 'Tech',
+        subtags: {
+          'Hébergement': { label: 'Hébergement' },
+          'IA': { label: 'Intelligence Artificielle' },
+          'Dev': { label: 'Développement' },
+          'Sécurité': { label: 'Sécurité' }
+        }
+      },
+      communication: {
+        label: 'Communication',
+        subtags: {
+          'Chatbot': { label: 'Chatbot' },
+          'Visio': { label: 'Visioconférence' }
+        }
+      },
+      formation: {
+        label: 'Formation',
+        subtags: {
+          'LMS': { label: 'LMS' },
+          'E-learning': { label: 'E-learning' }
         }
       }
     }

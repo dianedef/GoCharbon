@@ -47,11 +47,11 @@ const blogPostingSchema = isArticle
 			datePublished: article.pubDate?.toISOString(),
 			author: {
 				"@type": "Person",
-				name: article.author || "CHARBON",
+				name: article.author || "GOCHARBON",
 			},
 			publisher: {
 				"@type": "Organization",
-				name: "CHARBON",
+				name: "GOCHARBON",
 				url: "https://gocharbon.com",
 			},
 			mainEntityOfPage: {
@@ -118,7 +118,7 @@ const breadcrumbSchema = {
 		type="application/rss+xml"
 	/>
 
-	<meta name="title" content={`CHARBON | ${title}`} />
+	<meta name="title" content={`GOCHARBON | ${title}`} />
 	<meta name="description" content={description} />
 
 	<meta property="og:type" content="website" />
@@ -136,7 +136,7 @@ const breadcrumbSchema = {
 	<link rel="canonical" href={canonicalURL} />
 	<link rel="icon" type="image/svg" href="/favicon.svg" />
 
-	<title>CHARBON | {title}</title>
+	<title>GOCHARBON | {title}</title>
 
 	<!-- JSON-LD Structured Data -->
 	{breadcrumbItems.length > 1 && (

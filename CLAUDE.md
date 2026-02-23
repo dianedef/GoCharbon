@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Charbon (gocharbon.com) is a French-language educational blog platform for entrepreneurs, built with Astro 5. It uses the "Brutal" neobrutalist theme as a base. The site is fully static (SSG) with ~290 Markdown blog posts organized in a hierarchical tag system.
+GoCharbon (gocharbon.com) is a French-language educational blog platform for entrepreneurs, built with Astro 5. It uses the "Brutal" neobrutalist theme as a base. The site is fully static (SSG) with ~290 Markdown blog posts organized in a hierarchical tag system.
 
 ## Commands
 

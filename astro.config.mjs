@@ -3,6 +3,9 @@ import vue from '@astrojs/vue';
 import UnoCSS from '@unocss/astro';
 
 export default defineConfig({
+    server: {
+        port: parseInt(process.env.PORT) || 3000
+    },
     integrations: [
         vue({
             jsx: true,

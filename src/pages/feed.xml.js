@@ -29,8 +29,8 @@ export async function GET(context) {
   const posts = await getCollection('posts');
   
   return rss({
-    title: 'Charbon',
-    description: 'Charbon — le guide de survie digital pour entrepreneurs francophones. On va au charbon.',
+    title: 'GoCharbon',
+    description: 'GoCharbon — le guide de survie digital pour entrepreneurs francophones. On va au charbon.',
     stylesheet: false, // No XSLT styling
     site: context.site, // Base URL from astro.config
     items: posts.map((post) => ({
