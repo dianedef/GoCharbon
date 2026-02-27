@@ -2,11 +2,12 @@
 title: Social Media Ads Manager / Gestionnaire de Publicités Réseaux Sociaux
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Publicité'
-  - 'Réseaux Sociaux'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Ads
+- Social Media
+description: 'Gère les publicités social media : Meta Ads, stratégies et acquisition
+  clients pour freelances.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -2,10 +2,9 @@
 title: Suite Marketing Complète
 author: Diane
 tags:
-  - 'Marketing'
-  - 'Apps'
+- Marketing
 description: Guide complet des outils essentiels pour le marketing digital
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

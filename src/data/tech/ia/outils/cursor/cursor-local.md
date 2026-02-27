@@ -1,14 +1,12 @@
 ---
-title: "Cursor avec Modèles Locaux : Guide Complet"
+title: 'Cursor avec Modèles Locaux : Guide Complet'
 author: Diane
 tags:
-  - 'IA'
-  - 'Code'
-  - 'Modèles locaux'
-  - 'Gaia'
-  - 'LlamaEdgeBook'
-description: Comment utiliser des modèles LLM locaux (Llama 3, Mistral...) avec Cursor via Gaia ou LM Studio
-pubDate: "2024-03-25"
+- IA
+- Développement
+description: Comment utiliser des modèles LLM locaux (Llama 3, Mistral...) avec Cursor
+  via Gaia ou LM Studio
+pubDate: '2024-03-25'
 imgUrl: ../../../../../assets/astro.jpeg
 ---
 

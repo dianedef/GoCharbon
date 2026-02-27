@@ -1,13 +1,13 @@
 ---
-title: "IDE IA : Comparatif et Guide d'Achat"
+title: 'IDE IA : Comparatif et Guide d''Achat'
 author: Diane
 tags:
-  - 'IA'
-  - 'Développement'
-  - 'Productivité'
-  - 'IDE'
-description: "Cursor, Windsurf, VS Code + Copilot, JetBrains : quel IDE IA choisir pour booster ta productivité en 2024 ?"
-pubDate: "2024-02-20"
+- IA
+- Développement
+- Productivité
+description: 'Cursor, Windsurf, VS Code + Copilot, JetBrains : quel IDE IA choisir
+  pour booster ta productivité en 2024 ?'
+pubDate: '2024-02-20'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

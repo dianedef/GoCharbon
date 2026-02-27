@@ -1,11 +1,12 @@
 ---
-title: "Pet Sitter (Garde d'animaux)"
+title: Pet Sitter (Garde d'animaux)
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Freelancing'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Freelancing
+description: 'Deviens pet-sitter professionnel : plateformes, tarification et conseils
+  pour gardiens d''animaux.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -2,10 +2,11 @@
 title: Mobile First
 author: Diane
 tags:
-  - 'SEO'
-  - 'Technique'
-description: Guide complet sur mobile first
-pubDate: "2024-03-25"
+- SEO
+- Technique
+description: 'SEO mobile-first : optimisation pour smartphones et Core Web Vitals
+  pour Google.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

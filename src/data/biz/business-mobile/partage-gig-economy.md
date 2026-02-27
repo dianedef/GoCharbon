@@ -1,13 +1,13 @@
 ---
-title: "Business Mobile : Partage et Gig Economy"
+title: 'Business Mobile : Partage et Gig Economy'
 author: Diane
 tags:
-  - 'Partage'
-  - 'Gig Economy'
-  - 'Business Mobile'
-  - 'Revenu'
+- Collaboration
+- Freelancing
+- Business Mobile
+- Revenus
 description: Profil business complet des apps de partage et gig economy mobiles
-pubDate: "2026-01-17"
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

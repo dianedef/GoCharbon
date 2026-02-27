@@ -2,10 +2,11 @@
 title: Core Web Vitals
 author: Diane
 tags:
-  - 'SEO'
-  - 'Technique'
-description: Guide complet sur core web vitals
-pubDate: "2024-03-25"
+- SEO
+- Technique
+description: 'Core Web Vitals : LCP, FID, CLS expliqués et optimisations pour ton
+  site.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

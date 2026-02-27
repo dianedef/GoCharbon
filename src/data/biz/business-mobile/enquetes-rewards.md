@@ -1,13 +1,11 @@
 ---
-title: "Business Mobile : Enquêtes et Rewards"
+title: 'Business Mobile : Enquêtes et Rewards'
 author: Diane
 tags:
-  - 'Enquêtes'
-  - 'Rewards'
-  - 'Business Mobile'
-  - 'Pocket Money'
-description: "Profil business complet des apps d'enquêtes et rewards mobiles"
-pubDate: "2026-01-17"
+- Études de cas
+- Business Mobile
+description: Profil business complet des apps d'enquêtes et rewards mobiles
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

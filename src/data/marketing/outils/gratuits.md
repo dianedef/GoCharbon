@@ -2,10 +2,9 @@
 title: Outils Marketing Gratuits
 author: Diane
 tags:
-  - 'Marketing'
-  - 'Apps'
+- Marketing
 description: Guide complet des meilleurs outils marketing gratuits
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

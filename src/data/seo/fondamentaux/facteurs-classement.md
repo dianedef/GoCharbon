@@ -2,10 +2,11 @@
 title: Facteurs Classement
 author: Diane
 tags:
-  - 'SEO'
-  - 'Technique'
-description: Guide complet sur facteurs classement
-pubDate: "2024-03-25"
+- SEO
+- Technique
+description: 'Facteurs de classement Google : critères SEO et algorithmes pour mieux
+  te positionner.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

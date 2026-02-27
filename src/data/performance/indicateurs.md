@@ -2,11 +2,12 @@
 title: Indicateurs
 author: Diane
 tags:
-  - 'Business'
-  - 'Analytics'
-  - 'Indicateurs'
-description: Guide complet sur indicateurs
-pubDate: "2024-03-25"
+- Business
+- Analytics
+- Indicateurs
+description: 'KPIs et indicateurs de performance : métriques essentielles pour piloter
+  ton business.'
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

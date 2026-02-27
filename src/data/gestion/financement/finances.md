@@ -2,11 +2,12 @@
 title: Finances
 author: Diane
 tags:
-  - 'Business'
-  - 'Finance'
-  - 'Gestion'
-description: Guide complet sur finances
-pubDate: "2024-03-25"
+- Business
+- Finance
+- Gestion
+description: 'Gestion financière pour entrepreneurs : trésorerie, prévisionnel et
+  indicateurs clés à maîtriser.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -2,11 +2,12 @@
 title: Copywriter / Rédacteur Publicitaire
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Rédaction'
-  - 'Freelancing'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Rédaction
+- Freelancing
+description: 'Deviens copywriter freelance : techniques de persuasion, niches rentables
+  et stratégies d''acquisition clients.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

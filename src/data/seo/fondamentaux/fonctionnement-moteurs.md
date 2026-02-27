@@ -2,10 +2,11 @@
 title: Fonctionnement Moteurs
 author: Diane
 tags:
-  - 'SEO'
-  - 'Technique'
-description: Guide complet sur fonctionnement moteurs
-pubDate: "2024-03-25"
+- SEO
+- Technique
+description: 'Comment fonctionnent les moteurs de recherche : crawl, index et ranking
+  expliqués.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

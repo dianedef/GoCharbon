@@ -2,10 +2,9 @@
 title: Google Ads - Guide Complet
 author: Diane
 tags:
-  - 'Google Ads'
-  - 'Publicité'
+- Ads
 description: Maîtrise Google Ads pour générer du trafic qualifié et des conversions
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

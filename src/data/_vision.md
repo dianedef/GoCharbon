@@ -1,8 +1,10 @@
 ---
 title: Vision
 author: Web Indé
-tags: ['Tutoriels']
-description: Article en cours de rédaction.
+tags:
+- Tutoriels
+description: 'Guide complet sur vision : conseils, stratégies et bonnes pratiques
+  pour entrepreneurs.'
 pubDate: 2024-01-01
 imgUrl: ../assets/astro.jpeg
 ---

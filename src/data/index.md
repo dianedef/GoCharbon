@@ -2,12 +2,11 @@
 title: Guide Complet du Business en Ligne
 author: Diane
 tags:
-  - 'Business'
-  - 'Digital'
-  - 'Entrepreneuriat'
-  - 'Guide'
-description: "Guide complet sur le business en ligne et l'entrepreneuriat digital"
-pubDate: "2024-03-25"
+- Business
+- Digital
+- Entrepreneuriat
+description: Guide complet sur le business en ligne et l'entrepreneuriat digital
+pubDate: '2024-03-25'
 imgUrl: ../assets/astro.jpeg
 ---
 

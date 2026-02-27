@@ -1,13 +1,14 @@
 ---
-title: "Business Mobile : Cashback"
+title: 'Business Mobile : Cashback'
 author: Diane
 tags:
-  - 'Cashback'
-  - 'Business Mobile'
-  - 'Revenu'
-  - 'Économies'
-description: Profil business complet des apps de cashback mobiles avec les 8 apps françaises
-pubDate: "2026-01-17"
+- E-commerce
+- Business Mobile
+- Revenus
+- Finance
+description: Profil business complet des apps de cashback mobiles avec les 8 apps
+  françaises
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

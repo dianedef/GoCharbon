@@ -2,11 +2,11 @@
 title: Guide Complet des Ressources Humaines
 author: Diane
 tags:
-  - 'Ressources Humaines'
-  - 'Management'
-  - 'Stratégie'
+- RH
+- Management
+- Stratégie
 description: Guide complet sur la gestion des ressources humaines
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

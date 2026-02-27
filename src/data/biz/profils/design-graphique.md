@@ -2,11 +2,12 @@
 title: Designer Graphique Freelance
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Freelancing'
-  - 'Design'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Freelancing
+- Design
+description: 'Deviens designer graphique freelance : portfolio, clients, tarification
+  et outils pour créatifs indépendants.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

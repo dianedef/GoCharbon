@@ -163,6 +163,16 @@ Imagine un ami entrepreneur expérimenté qui :
 
 ## 🎨 Identité Visuelle
 
+### 📌 Source de Vérité (Branding Centralisé)
+Ce fichier `BRANDING.md` est la **source de vérité** pour tout le branding.
+On y stocke systématiquement :
+- Palette de couleurs officielle
+- Typographies (fonts)
+- Règles d'usage (CTA, background, texte, liens)
+- Composants visuels et styles (cards, boutons, tags)
+
+Toute nouvelle décision visuelle doit être ajoutée ici pour éviter les dérives.
+
 ### Design System : "Brutal Neobrutalism"
 
 **Philosophie :** Audacieux, direct, impossible à ignorer. Comme notre ton.
@@ -171,46 +181,47 @@ Imagine un ami entrepreneur expérimenté qui :
 
 ### Palette de Couleurs
 
-#### Palette de Couleurs Officielle
+#### Palette de Couleurs Officielle (PROPOSITION GoCharbon)
 
-**IMPORTANT : Ce sont les SEULES couleurs autorisées sur le site.**
+**Objectif :** palette "mine + mineurs" (charbon, poussière, acier, rouille) avec un accent "sécurité" reconnaissable.
+**IMPORTANT :** Ce sont les SEULES couleurs autorisées sur le site une fois validées.
 
 ```
-🎨 COULEURS PRIMAIRES (vives, belles - pour CTAs et accents)
-#ffe001   - Jaune vif principal (primary)
-#eec93c   - Jaune doré
-#ffca00   - Jaune brillant
-#9e4fff   - Violet vif (accent)
-#7134c0   - Violet moyen
-#caa1ff   - Violet clair (secondary)
+🎨 COULEURS PRIMAIRES (CTAs, accents, zones fortes)
+#f6c700   - Jaune sécurité (primary)
+#e2572d   - Orange braise (accent)
+#1e1b16   - Charbon profond (brand black)
+#3b3b3b   - Suie (gris foncé)
+#b87333   - Cuivre / rouille (accent secondaire)
 
-🌈 COULEURS SECONDAIRES (backgrounds, subtils)
-#fff6d2   - Jaune très doux
-#ffeea6   - Jaune pâle
-#fed849   - Jaune standard
-#cea200   - Jaune foncé
-#f7ebff   - Violet très pâle
-#e9d4ff   - Violet léger
-#f9f9ff   - Blanc cassé
-#000000   - Noir
+🌈 COULEURS SECONDAIRES (backgrounds, textes secondaires)
+#0b0b0b   - Noir absolu
+#2a2a2a   - Anthracite
+#4c4c4c   - Gris charbon
+#6d6d6d   - Gris cendre
+#8f8f8f   - Cendre claire
+#b5b2aa   - Poussière claire
+#d9d3c7   - Poussière beige
+#f2eee6   - Crème poussière (fond clair)
+#e8e0d4   - Crème chaud (fond alternatif)
 
 🌙 COULEURS DARK MODE
-#45088a   - Violet très foncé (liens)
-#7134c0   - Violet moyen
-#5f13bb   - Violet foncé
-#420d82   - Violet plus foncé
-#3b4458   - Gris bleuté
+#121212   - Fond principal
+#1c1c1c   - Fond secondaire
+#2f2f2f   - Cartes / surfaces
+#3e5661   - Bleu acier (liens + contrast)
+#5a737f   - Bleu acier clair (hover)
 
 🔗 LIENS
-Normal:   #45088a (violet foncé) en light, #caa1ff en dark
-Survol:   #caa1ff (violet clair) en light, #9e4fff en dark
+Normal:   #3e5661 (bleu acier) en light, #5a737f en dark
+Survol:   #5a737f (bleu acier clair) en light, #f6c700 en dark
 ```
 
 **🎯 Règles d'utilisation :**
 - Couleurs primaires = CTAs, éléments importants, sections phares
 - Couleurs secondaires = backgrounds, textes secondaires
-- Couleurs aléatoires = UNIQUEMENT pour les tags
-- Tout le reste = couleurs fixes définies
+- Bleu acier = liens et éléments interactifs secondaires
+- Tout le reste = couleurs fixes définies ici
 
 ### Typographie
 

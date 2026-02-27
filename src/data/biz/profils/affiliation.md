@@ -1,13 +1,14 @@
 ---
-title: "Marketing d'Affiliation"
+title: Marketing d'Affiliation
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Affiliation'
-  - 'Revenu Passif'
-  - 'Monétisation'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Affiliation
+- Revenus
+- Monétisation
+description: 'Découvre comment gagner de l''argent avec l''affiliation : stratégies,
+  plateformes et conseils pour réussir en tant qu''affilié.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: "Licornes Françaises : Le Fleuron de la French Tech"
+title: 'Licornes Françaises : Le Fleuron de la French Tech'
 author: Diane
 tags:
-  - 'Startup'
-  - 'Licorne'
-  - 'French Tech'
-description: "Découvrez l'univers des licornes françaises, ces startups valorisées à plus d'un milliard de dollars qui transforment l'économie numérique."
-pubDate: "2024-03-26"
+- Startup
+- Outils Français
+description: Découvrez l'univers des licornes françaises, ces startups valorisées
+  à plus d'un milliard de dollars qui transforment l'économie numérique.
+pubDate: '2024-03-26'
 imgUrl: ../../assets/astro.jpeg
 ---
 

@@ -1,13 +1,14 @@
 ---
-title: "Automatisation Business : Le Guide Complet pour Libérer Ton Temps"
+title: 'Automatisation Business : Le Guide Complet pour Libérer Ton Temps'
 author: Diane
 tags:
-  - 'Automatisation'
-  - 'Tech'
-  - 'Productivité'
-  - 'Process'
-description: "Guide complet de l'automatisation business : outils, stratégies et workflows pour scal ton entreprise et gagner du temps."
-pubDate: "2024-03-25"
+- Automatisation
+- Tech
+- Productivité
+- Gestion
+description: 'Guide complet de l''automatisation business : outils, stratégies et
+  workflows pour scal ton entreprise et gagner du temps.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Cursor : Guide Complet du Copilote IA"
+title: 'Cursor : Guide Complet du Copilote IA'
 author: Diane
 tags:
-  - 'IA'
-  - 'Code'
-  - 'Cursor'
-  - 'Productivité'
-description: "Tout savoir sur Cursor : installation, MCP, raccourcis, astuces et comment maximiser sa productivité de développement"
-pubDate: "2024-03-26"
+- IA
+- Développement
+- Productivité
+description: 'Tout savoir sur Cursor : installation, MCP, raccourcis, astuces et comment
+  maximiser sa productivité de développement'
+pubDate: '2024-03-26'
 imgUrl: ../../../../../assets/astro.jpeg
 ---
 

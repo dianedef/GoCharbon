@@ -2,11 +2,11 @@
 title: Podcast
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Contenu'
-  - 'Content Marketing'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Contenu
+description: 'Lance un podcast rentable : équipement, distribution, monétisation et
+  stratégies de croissance.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

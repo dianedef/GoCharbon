@@ -2,11 +2,12 @@
 title: Analyse
 author: Diane
 tags:
-  - 'SEO'
-  - 'Backlinks'
-  - 'Audit'
-description: Guide complet sur analyse
-pubDate: "2024-03-25"
+- SEO
+- Backlinks
+- Audit
+description: 'Analyse de backlinks : outils, métriques et audit pour évaluer ton profil
+  de liens.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

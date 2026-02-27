@@ -2,11 +2,12 @@
 title: Infoproduits / Produits Digitaux
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Monétisation'
-  - 'Formation'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Monétisation
+- Formation
+description: 'Crée et vends des infoproduits : ebooks, templates et ressources digitales
+  pour revenus passifs.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -2,11 +2,12 @@
 title: SaaS (Logiciel en Service)
 author: Web Indé
 tags:
-  - 'Business'
-  - 'SaaS'
-  - 'Monétisation'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- SaaS
+- Monétisation
+description: 'Lance ton SaaS : idéation, développement, pricing et croissance pour
+  entrepreneurs tech.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

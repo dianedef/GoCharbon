@@ -2,11 +2,12 @@
 title: Experience Client
 author: Diane
 tags:
-  - 'Marketing'
-  - 'Relation Client'
-  - 'Acquisition'
-description: Guide complet sur experience client
-pubDate: "2024-03-25"
+- Marketing
+- CRM
+- Acquisition
+description: 'Optimise l''expérience client : parcours, points de contact et satisfaction
+  pour fidéliser.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

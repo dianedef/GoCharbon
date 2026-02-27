@@ -2,11 +2,12 @@
 title: YouTubeur
 author: Web Indé
 tags:
-  - 'Business'
-  - 'YouTube'
-  - 'Réseaux Sociaux'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- YouTube
+- Social Media
+description: 'Lance ta chaîne YouTube rentable : niche, contenu, monétisation et croissance
+  pour créateurs vidéo.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

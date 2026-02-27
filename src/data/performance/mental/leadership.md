@@ -2,11 +2,12 @@
 title: Leadership
 author: Diane
 tags:
-  - 'Business'
-  - 'Management'
-  - 'Leadership'
-description: Guide complet sur leadership
-pubDate: "2024-03-25"
+- Business
+- Management
+- Leadership
+description: 'Leadership pour entrepreneurs : styles, influence et management pour
+  inspirer ton équipe.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

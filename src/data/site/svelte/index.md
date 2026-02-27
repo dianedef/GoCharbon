@@ -1,13 +1,13 @@
 ---
-title: "Svelte : Guide Complet"
+title: 'Svelte : Guide Complet'
 author: Diane
 tags:
-  - 'Svelte'
-  - 'Framework'
-  - 'Web'
-  - 'Développement'
+- Svelte
+- Frameworks
+- Web
+- Développement
 description: Le framework web qui disparaît du navigateur en 2026
-pubDate: "2026-01-17"
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

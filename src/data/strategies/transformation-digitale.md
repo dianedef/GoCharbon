@@ -1,13 +1,12 @@
 ---
-title: "Transformation Digitale : Guide Complet"
+title: 'Transformation Digitale : Guide Complet'
 author: Diane
 tags:
-  - 'Digital'
-  - 'Transformation'
-  - 'Innovation'
-  - 'Technologie'
+- Digital
+- Innovation
+- Tech
 description: Guide complet sur la transformation digitale des entreprises
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

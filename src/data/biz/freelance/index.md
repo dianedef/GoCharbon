@@ -2,10 +2,11 @@
 title: Services En Ligne
 author: Diane
 tags:
-  - 'Freelancing'
-  - 'Business'
-description: Guide complet sur services en ligne
-pubDate: "2024-03-25"
+- Freelancing
+- Business
+description: 'Guide complet du freelancing : statuts juridiques, prospection, tarification
+  et gestion pour réussir en indépendant.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

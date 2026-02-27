@@ -2,11 +2,12 @@
 title: Agence Digitale
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Entrepreneuriat'
-  - 'Management'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Entrepreneuriat
+- Management
+description: 'Lance ton agence de services : étapes clés, positionnement, acquisition
+  clients et croissance pour entrepreneurs ambitieux.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -1,13 +1,12 @@
 ---
-title: "Guide de Cybersécurité pour les Entrepreneurs : Guide Complet"
+title: 'Guide de Cybersécurité pour les Entrepreneurs : Guide Complet'
 author: Diane
 tags:
-  - 'Cybersécurité'
-  - 'Sécurité'
-  - 'Protection'
-  - 'RGPD'
-description: Guide complet sur la cybersécurité et la protection des données pour les entrepreneurs
-pubDate: "2024-03-25"
+- Sécurité
+- Légal
+description: Guide complet sur la cybersécurité et la protection des données pour
+  les entrepreneurs
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

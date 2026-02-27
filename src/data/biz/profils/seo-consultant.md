@@ -2,11 +2,12 @@
 title: SEO Consultant / Consultant en Référencement Naturel
 author: Web Indé
 tags:
-  - 'Business'
-  - 'SEO'
-  - 'Freelancing'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- SEO
+- Freelancing
+description: 'Deviens consultant SEO : audits, stratégies et acquisition clients pour
+  experts du référencement.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -1,13 +1,11 @@
 ---
-title: "NLP (Natural Language Processing) : Guide Complet"
+title: 'NLP (Natural Language Processing) : Guide Complet'
 author: Diane
 tags:
-  - 'NLP'
-  - 'IA'
-  - 'Tech'
-  - 'Language'
+- IA
+- Tech
 description: Guide complet sur le traitement du langage naturel et ses applications
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

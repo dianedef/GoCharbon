@@ -2,11 +2,12 @@
 title: Newsletter / Email Business
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Newsletter'
-  - 'Content Marketing'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Newsletter
+- Contenu
+description: 'Lance une newsletter rentable : acquisition, rétention et monétisation
+  pour créateurs indépendants.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "IA par Secteur : Médecine, Sciences et Plus"
+title: 'IA par Secteur : Médecine, Sciences et Plus'
 author: Diane
 tags:
-  - 'IA'
-  - 'Médecine'
-  - 'Sciences'
-  - 'Industrie'
-description: "Comment l'IA transforme les différents secteurs : médecine, sciences, industrie, etc."
-pubDate: "2024-03-25"
+- IA
+- Tech
+- Business
+description: 'Comment l''IA transforme les différents secteurs : médecine, sciences,
+  industrie, etc.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

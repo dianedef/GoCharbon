@@ -2,13 +2,14 @@
 title: Mes Services Freelance
 author: Diane
 tags:
-  - 'Freelance'
-  - 'Développement Web'
-  - 'SEO'
-  - 'IA'
-  - 'Stratégie Digitale'
-description: "Accompagnement sur mesure pour entreprises et entrepreneurs : Développement Web, SEO, Stratégie de Contenu et Intégration IA."
-pubDate: "2026-01-21"
+- Freelancing
+- Développement
+- SEO
+- IA
+- Stratégie
+description: 'Accompagnement sur mesure pour entreprises et entrepreneurs : Développement
+  Web, SEO, Stratégie de Contenu et Intégration IA.'
+pubDate: '2026-01-21'
 imgUrl: ../assets/astro.jpeg
 ---
 
@@ -24,14 +25,32 @@ Vous êtes un entrepreneur ou une entreprise à la recherche d'une expertise tec
 
 ## Mes Domaines d'Expertise
 
-### 🚀 Développement d'Applications Sur Mesure
-*Donnez vie à vos idées avec une solution parfaitement adaptée.*
+### 🚀 Développement Web Full-Stack
+*Des solutions digitales modernes et sur-mesure pour ton projet.*
 
-Je conçois des applications web et mobiles sur mesure, pensées pour répondre précisément à vos besoins métier :
+Développeuse Full-Stack spécialisée en solutions digitales modernes, je crée des applications web performantes et adaptées à tes besoins de transformation numérique.
+
+**Développement Front-End moderne :**
+Je maîtrise les frameworks JavaScript de dernière génération (**Vue.js, Nuxt, Astro**) pour créer des interfaces utilisateur réactives, accessibles et optimisées. Ces technologies garantissent des sites web rapides, conformes aux standards RGAA, et facilement maintenables.
+
+**Applications web performantes :**
+Grâce à Nuxt et Astro, je développe des plateformes web avec un référencement naturel optimal (SEO), des temps de chargement minimaux et une expérience utilisateur fluide — essentiels pour les portails d'information et les services en ligne.
+
+**Solutions Back-End robustes :**
+Ma maîtrise de **Python** me permet de créer des systèmes backend fiables, d'automatiser des processus métiers, de traiter et analyser des données, ou encore de développer des API pour interconnecter tes services numériques.
+
+Je conçois des applications web et mobiles sur mesure, pensées pour répondre précisément à tes besoins métier :
 - Création d'applications web spécifiques et plateformes SaaS.
 - Développement d'applications mobiles (iOS & Android).
-- Centralisation de vos données dans une application métier unique.
+- Centralisation de tes données dans une application métier unique.
 - Optimisation de la performance et de l'expérience utilisateur (UX).
+
+**Ce que je peux réaliser pour toi :**
+- Sites institutionnels et portails citoyens
+- Applications de gestion interne et tableaux de bord analytiques
+- Refonte de sites existants et optimisation de performances
+- Mise en conformité RGAA
+- Développement d'outils métiers spécifiques
 
 ### 🛠️ Architecture de tes Workflows Business
 *Construis ta stack logicielle brique par brique, sans te ruiner.*

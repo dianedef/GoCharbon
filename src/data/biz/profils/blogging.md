@@ -2,11 +2,12 @@
 title: Blogging / Site de Contenu
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Blog'
-  - 'Content Marketing'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Blog
+- Contenu
+description: 'Lance un blog rentable : niches, SEO, monétisation et stratégies pour
+  transformer ton blog en business.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Écrire un Livre avec l'IA : LlamaEdgeBook et Plus"
+title: 'Écrire un Livre avec l''IA : LlamaEdgeBook et Plus'
 author: Diane
 tags:
-  - 'IA'
-  - 'Écriture'
-  - 'Livre'
-  - 'LlamaEdgeBook'
-description: "Comment utiliser LlamaEdgeBook, Novelcrafter et d'autres outils IA pour écrire ton livre en quelques jours"
-pubDate: "2024-03-26"
+- IA
+- Rédaction
+- Formation
+description: Comment utiliser LlamaEdgeBook, Novelcrafter et d'autres outils IA pour
+  écrire ton livre en quelques jours
+pubDate: '2024-03-26'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

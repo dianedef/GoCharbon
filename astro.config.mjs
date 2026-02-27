@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
 import vue from '@astrojs/vue';
 import UnoCSS from '@unocss/astro';
+import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
     server: {
@@ -14,7 +15,8 @@ export default defineConfig({
         UnoCSS({
             injectReset: true,
             mode: 'global'
-        })
+        }),
+        sitemap()
     ],
     site: 'https://gocharbon.com',
     trailingSlash: 'never',

@@ -2,12 +2,12 @@
 title: Notion Expert / Spécialiste Notion
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Apps'
-  - 'Freelancing'
-  - 'SaaS'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Freelancing
+- SaaS
+description: 'Deviens expert Notion : templates, consulting et formations pour aider
+  les entreprises à s''organiser.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -1,12 +1,13 @@
 ---
-title: "Stratégie Réseaux Sociaux : Guide Complet"
+title: 'Stratégie Réseaux Sociaux : Guide Complet'
 author: Diane
 tags:
-  - 'Réseaux Sociaux'
-  - 'Marketing'
-  - 'Stratégie'
-description: Développe ta présence sociale avec une stratégie efficace qui génère des résultats
-pubDate: "2026-01-17"
+- Social Media
+- Marketing
+- Stratégie
+description: Développe ta présence sociale avec une stratégie efficace qui génère
+  des résultats
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

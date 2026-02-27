@@ -2,11 +2,12 @@
 title: Online Tutor / Enseignant en Ligne
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Formation'
-  - 'Freelancing'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Formation
+- Freelancing
+description: 'Lance ton activité de cours particuliers en ligne : plateformes, tarification
+  et acquisition d''élèves.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

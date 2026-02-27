@@ -2,11 +2,12 @@
 title: Social Media Manager
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Réseaux Sociaux'
-  - 'Freelancing'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Social Media
+- Freelancing
+description: 'Deviens social media manager : stratégies, outils et tarification pour
+  gérer les réseaux sociaux.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

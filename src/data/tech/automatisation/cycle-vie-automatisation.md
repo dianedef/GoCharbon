@@ -1,12 +1,13 @@
 ---
-title: "Cycle de Vie de l'Automatisation : 5 Étapes pour Réussir"
+title: 'Cycle de Vie de l''Automatisation : 5 Étapes pour Réussir'
 author: Diane
 tags:
-  - 'Automatisation'
-  - 'Productivité'
-  - 'Process'
-description: "Guide complet du cycle de vie de l'automatisation : de l'identification à l'optimisation pour maximiser ton ROI."
-pubDate: "2024-03-25"
+- Automatisation
+- Productivité
+- Gestion
+description: 'Guide complet du cycle de vie de l''automatisation : de l''identification
+  à l''optimisation pour maximiser ton ROI.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

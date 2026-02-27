@@ -2,11 +2,9 @@
 title: Facebook & Instagram Ads
 author: Diane
 tags:
-  - 'Facebook Ads'
-  - 'Instagram Ads'
-  - 'Publicité'
+- Ads
 description: Guide complet pour maîtriser la publicité sur les réseaux sociaux Meta
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

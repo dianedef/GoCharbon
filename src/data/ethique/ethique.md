@@ -1,9 +1,11 @@
 ---
 title: Éthique
 author: Diane
-tags: ['Éthique']
-description: Guide complet sur ethique
-pubDate: "2024-03-25"
+tags:
+- Éthique
+description: 'L''éthique en business : principes, bonnes pratiques et responsabilité
+  pour entrepreneurs conscients.'
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

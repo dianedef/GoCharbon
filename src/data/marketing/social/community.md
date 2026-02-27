@@ -1,12 +1,12 @@
 ---
-title: "Community Management : Construire une Communauté Engagée"
+title: 'Community Management : Construire une Communauté Engagée'
 author: Diane
 tags:
-  - 'Community'
-  - 'Réseaux Sociaux'
-  - 'Marketing'
+- Community
+- Social Media
+- Marketing
 description: Guide complet pour créer et animer une communauté sur les réseaux sociaux
-pubDate: "2026-01-17"
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

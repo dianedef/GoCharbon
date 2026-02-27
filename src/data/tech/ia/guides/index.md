@@ -1,12 +1,12 @@
 ---
-title: "Guides IA : Comment l'Utiliser Efficacement"
+title: 'Guides IA : Comment l''Utiliser Efficacement'
 author: Diane
 tags:
-  - 'IA'
-  - 'Guides'
-  - 'Implémentation'
-description: "Guides pratiques pour implémenter l'IA dans ton business : outils, plateformes, bonnes pratiques"
-pubDate: "2024-03-25"
+- IA
+- Tutoriels
+description: 'Guides pratiques pour implémenter l''IA dans ton business : outils,
+  plateformes, bonnes pratiques'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

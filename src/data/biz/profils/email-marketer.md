@@ -2,11 +2,12 @@
 title: Email Marketer / Spécialiste Marketing par Email
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Newsletter'
-  - 'Marketing'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Newsletter
+- Marketing
+description: 'Deviens expert email marketing : stratégies, outils et techniques pour
+  aider les entreprises à convertir.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

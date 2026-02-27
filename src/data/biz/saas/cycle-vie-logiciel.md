@@ -1,12 +1,12 @@
 ---
-title: "Cycle de Vie d'un Logiciel : Les 5 Étapes à Ne Pas Rater"
+title: 'Cycle de Vie d''un Logiciel : Les 5 Étapes à Ne Pas Rater'
 author: Diane
 tags:
-  - 'SaaS'
-  - 'Logiciel'
-  - 'Business'
-description: "Guide complet du cycle de vie d'un logiciel : de l'idée au lancement, jusqu'à la maintenance et la croissance."
-pubDate: "2024-03-25"
+- SaaS
+- Business
+description: 'Guide complet du cycle de vie d''un logiciel : de l''idée au lancement,
+  jusqu''à la maintenance et la croissance.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

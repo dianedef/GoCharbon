@@ -2,10 +2,11 @@
 title: Analyse Marche
 author: Diane
 tags:
-  - 'Analyse'
-  - 'Stratégie'
-description: Guide complet sur analyse marche
-pubDate: "2024-03-25"
+- Analytics
+- Stratégie
+description: 'Analyse de marché : méthodologie, outils et techniques pour valider
+  ton idée business.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

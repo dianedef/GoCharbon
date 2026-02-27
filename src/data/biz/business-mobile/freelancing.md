@@ -1,13 +1,12 @@
 ---
-title: "Business Mobile : Freelancing"
+title: 'Business Mobile : Freelancing'
 author: Diane
 tags:
-  - 'Freelancing'
-  - 'Business Mobile'
-  - 'Revenu'
-  - 'Travail à distance'
+- Freelancing
+- Business Mobile
+- Revenus
 description: Profil business complet des apps de freelancing mobiles
-pubDate: "2026-01-17"
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

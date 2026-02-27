@@ -2,10 +2,11 @@
 title: Bonnes Pratiques
 author: Diane
 tags:
-  - 'SEO'
-  - 'Technique'
-description: Guide complet sur bonnes pratiques
-pubDate: "2024-03-25"
+- SEO
+- Technique
+description: 'Bonnes pratiques SEO : checklist et fondamentaux pour optimiser ton
+  référencement naturel.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

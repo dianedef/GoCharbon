@@ -1,12 +1,12 @@
 ---
-title: "App Developer / Développeur d'applications mobiles"
+title: App Developer / Développeur d'applications mobiles
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Développement'
-  - 'Apps'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Développement
+description: 'Deviens développeur d''applications indépendant : compétences, outils,
+  clients et stratégies de monétisation.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

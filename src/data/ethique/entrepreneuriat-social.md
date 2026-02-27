@@ -1,9 +1,11 @@
 ---
 title: Entrepreneuriat Social
 author: Diane
-tags: ['Éthique']
-description: Guide complet sur entrepreneuriat social
-pubDate: "2024-03-25"
+tags:
+- Éthique
+description: 'L''entrepreneuriat social expliqué : modèles économiques, impact et
+  stratégies pour entreprises à mission sociale.'
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

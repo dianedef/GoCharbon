@@ -1,12 +1,12 @@
 ---
-title: "Bootstrapping : Réaliser ses Projets sans Emprunter à la Banque"
+title: 'Bootstrapping : Réaliser ses Projets sans Emprunter à la Banque'
 author: Diane
 tags:
-  - 'Bootstrapping'
-  - 'Financement'
-  - 'Entrepreneuriat'
-description: "Guide complet pour financer et lancer ses projets avec ses propres ressources : bootstrapping, prévente et validation"
-pubDate: "2026-01-17"
+- Financement
+- Entrepreneuriat
+description: 'Guide complet pour financer et lancer ses projets avec ses propres ressources
+  : bootstrapping, prévente et validation'
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

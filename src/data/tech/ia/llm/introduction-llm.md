@@ -1,12 +1,12 @@
 ---
-title: "LLM : Comprendre les Modèles de Langage"
+title: 'LLM : Comprendre les Modèles de Langage'
 author: Diane
 tags:
-  - 'IA'
-  - 'LLM'
-  - 'Fondamentaux'
-description: Tout savoir sur les Large Language Models, de leur fonctionnement à leur utilisation pratique
-pubDate: "2024-03-25"
+- IA
+- Fondamentaux
+description: Tout savoir sur les Large Language Models, de leur fonctionnement à leur
+  utilisation pratique
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

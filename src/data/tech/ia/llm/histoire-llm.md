@@ -1,12 +1,12 @@
 ---
-title: "Histoire des LLM : De BERT à Claude 3.5"
+title: 'Histoire des LLM : De BERT à Claude 3.5'
 author: Diane
 tags:
-  - 'IA'
-  - 'LLM'
-  - 'Histoire'
-description: "L'évolution des modèles de langage de 2017 à 2024, des Transformers à l'AGI"
-pubDate: "2024-03-25"
+- IA
+- Contenu
+description: L'évolution des modèles de langage de 2017 à 2024, des Transformers à
+  l'AGI
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

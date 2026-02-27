@@ -1,12 +1,13 @@
 ---
-title: "Google Dorking : Les Techniques de Recherche Avancées qui Changent Tout"
+title: 'Google Dorking : Les Techniques de Recherche Avancées qui Changent Tout'
 author: Diane
 tags:
-  - 'Scraping'
-  - 'Recherche'
-  - 'Sécurité'
-description: Maîtrise Google Dorking pour dénicher des infos cachées et optimiser tes recherches en 10 minutes.
-pubDate: "2024-03-25"
+- Scraping
+- Analytics
+- Sécurité
+description: Maîtrise Google Dorking pour dénicher des infos cachées et optimiser
+  tes recherches en 10 minutes.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

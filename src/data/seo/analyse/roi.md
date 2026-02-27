@@ -1,12 +1,13 @@
 ---
-title: "ROI du SEO : Rentabiliser ton Trafic"
+title: 'ROI du SEO : Rentabiliser ton Trafic'
 author: Diane
 tags:
-  - 'SEO'
-  - 'ROI'
-  - 'Monétisation'
-description: "Le SEO n'est pas une dépense, c'est un investissement. Apprends à calculer ton ROI et à transformer tes clics en cash sans bullshit."
-pubDate: "2026-01-22"
+- SEO
+- Analytics
+- Monétisation
+description: Le SEO n'est pas une dépense, c'est un investissement. Apprends à calculer
+  ton ROI et à transformer tes clics en cash sans bullshit.
+pubDate: '2026-01-22'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

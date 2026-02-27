@@ -2,11 +2,12 @@
 title: Créateur de Contenu
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Contenu'
-  - 'Réseaux Sociaux'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Contenu
+- Social Media
+description: 'Guide du créateur de contenu : plateformes, formats, monétisation et
+  stratégies pour vivre de ta création.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

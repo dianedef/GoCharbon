@@ -1,12 +1,11 @@
 ---
-title: "LLM : Guide Complet des Modèles de Langage"
+title: 'LLM : Guide Complet des Modèles de Langage'
 author: Diane
 tags:
-  - 'IA'
-  - 'LLM'
-  - 'Machine Learning'
-description: Tout comprendre sur les Large Language Models, de leur fonctionnement à leur utilisation pratique
-pubDate: "2024-03-25"
+- IA
+description: Tout comprendre sur les Large Language Models, de leur fonctionnement
+  à leur utilisation pratique
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

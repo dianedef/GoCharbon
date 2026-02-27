@@ -1,13 +1,13 @@
 ---
-title: "RSE : LE BUSINESS RESPONSABLE"
+title: 'RSE : LE BUSINESS RESPONSABLE'
 author: Diane
 tags:
-  - 'RSE'
-  - 'Éthique'
-  - 'Stratégie'
-  - 'Développement Durable'
-description: Guide complet sur la responsabilité sociale des entreprises - comment construire un business rentable ET éthique
-pubDate: "2024-03-25"
+- RSE
+- Éthique
+- Stratégie
+description: Guide complet sur la responsabilité sociale des entreprises - comment
+  construire un business rentable ET éthique
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

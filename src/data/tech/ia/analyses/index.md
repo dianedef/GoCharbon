@@ -1,12 +1,12 @@
 ---
-title: "Analyses IA : Études de Cas et Réflexions"
+title: 'Analyses IA : Études de Cas et Réflexions'
 author: Diane
 tags:
-  - 'IA'
-  - 'Analyses'
-  - 'Études de cas'
-description: "Analyses approfondies, études de cas et réflexions sur l'IA"
-pubDate: "2024-03-25"
+- IA
+- Analytics
+- Études de cas
+description: Analyses approfondies, études de cas et réflexions sur l'IA
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

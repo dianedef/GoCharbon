@@ -2,11 +2,12 @@
 title: Amazon FBA
 author: Web Indé
 tags:
-  - 'Business'
-  - 'E-commerce'
-  - 'Marketplace'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- E-commerce
+- Marketplace
+description: 'Guide complet Amazon FBA : sélection produits, sourcing, logistique
+  et stratégies pour réussir sur la marketplace.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

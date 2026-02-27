@@ -2,11 +2,10 @@
 title: Expérimentation Growth
 author: Diane
 tags:
-  - 'Marketing'
-  - 'Growth'
-  - 'Acquisition'
-description: "Guide complet sur l'expérimentation en growth marketing"
-pubDate: "2024-03-25"
+- Marketing
+- Acquisition
+description: Guide complet sur l'expérimentation en growth marketing
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

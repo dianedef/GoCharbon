@@ -1,9 +1,11 @@
 ---
 title: Competences
 author: Diane
-tags: ['Performance']
-description: Guide complet sur competences
-pubDate: "2024-03-25"
+tags:
+- Performance
+description: 'Développe tes compétences d''entrepreneur : soft skills et hard skills
+  pour réussir.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

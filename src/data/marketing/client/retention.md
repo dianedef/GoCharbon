@@ -2,10 +2,10 @@
 title: Retention
 author: Diane
 tags:
-  - 'Retention'
-  - 'Relation Client'
-description: Guide complet sur retention
-pubDate: "2024-03-25"
+- CRM
+description: 'Stratégies de rétention client : fidélisation, churn et techniques pour
+  garder tes clients.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

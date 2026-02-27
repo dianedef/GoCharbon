@@ -2,12 +2,13 @@
 title: AI Content Creator
 author: Web Indé
 tags:
-  - 'Business'
-  - 'IA'
-  - 'Contenu'
-  - 'Automatisation'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- IA
+- Contenu
+- Automatisation
+description: 'Crée du contenu avec l''IA : outils, techniques et monétisation pour
+  les créateurs qui veulent scaler leur production.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

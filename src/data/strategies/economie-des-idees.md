@@ -1,13 +1,14 @@
 ---
-title: "L'Économie des Idées : Guide pour Prospérer dans l'Ère Numérique"
+title: 'L''Économie des Idées : Guide pour Prospérer dans l''Ère Numérique'
 author: Diane
 tags:
-  - 'Économie'
-  - 'Innovation'
-  - 'Digital'
-  - 'Business'
-description: "Guide complet sur l'économie des idées et la création de valeur dans l'ère numérique"
-pubDate: "2024-03-25"
+- Finance
+- Innovation
+- Digital
+- Business
+description: Guide complet sur l'économie des idées et la création de valeur dans
+  l'ère numérique
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

@@ -1,13 +1,12 @@
 ---
-title: "Business Mobile : Micro-tâches"
+title: 'Business Mobile : Micro-tâches'
 author: Diane
 tags:
-  - 'Micro-tâches'
-  - 'Business Mobile'
-  - 'Revenu'
-  - 'Pocket Money'
+- Freelancing
+- Business Mobile
+- Revenus
 description: Profil business complet des apps de micro-tâches mobiles
-pubDate: "2026-01-17"
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

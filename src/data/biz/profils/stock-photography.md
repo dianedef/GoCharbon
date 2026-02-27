@@ -2,11 +2,12 @@
 title: Stock Photography / Photographie et Vidéos Stock
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Revenu Passif'
-  - 'Freelancing'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Revenus
+- Freelancing
+description: 'Vends tes photos en stock : plateformes, techniques et stratégies pour
+  photographes indépendants.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

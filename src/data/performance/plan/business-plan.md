@@ -2,11 +2,12 @@
 title: Business Plan
 author: Diane
 tags:
-  - 'Business'
-  - 'Stratégie'
-  - 'Business Plan'
-description: Guide complet sur business plan
-pubDate: "2024-03-25"
+- Business
+- Stratégie
+- Business Plan
+description: 'Rédige un business plan convaincant : structure, chiffres et conseils
+  pour investisseurs.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

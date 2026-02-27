@@ -2,10 +2,11 @@
 title: Ecommerce
 author: Diane
 tags:
-  - 'SEO'
-  - 'E-commerce'
-description: Guide complet sur ecommerce
-pubDate: "2024-03-25"
+- SEO
+- E-commerce
+description: 'SEO e-commerce : optimisation boutique en ligne, fiches produits et
+  catégories.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

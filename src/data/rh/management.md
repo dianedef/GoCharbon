@@ -2,10 +2,11 @@
 title: Management
 author: Diane
 tags:
-  - 'Management'
-  - 'Ressources Humaines'
-description: Guide complet sur management
-pubDate: "2024-03-25"
+- Management
+- RH
+description: 'Management d''équipe : techniques, motivation et leadership pour dirigeants
+  de PME.'
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

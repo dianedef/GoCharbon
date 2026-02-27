@@ -1,13 +1,12 @@
 ---
-title: "Meta Ads : Facebook & Instagram Advertising"
+title: 'Meta Ads : Facebook & Instagram Advertising'
 author: Diane
 tags:
-  - 'Meta'
-  - 'Facebook'
-  - 'Instagram'
-  - 'Ads'
+- Ads
+- Facebook
+- Instagram
 description: Guide complet pour maîtriser la publicité sur Facebook et Instagram
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

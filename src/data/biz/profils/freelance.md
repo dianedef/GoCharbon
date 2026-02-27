@@ -2,11 +2,12 @@
 title: Freelance / Services en Ligne
 author: Web Indé
 tags:
-  - 'Business'
-  - 'Freelancing'
-  - 'Entrepreneuriat'
-description: Article en cours de rédaction.
-pubDate: "2024-01-01"
+- Business
+- Freelancing
+- Entrepreneuriat
+description: 'Guide du freelance : statuts, prospection, tarification et gestion pour
+  indépendants qui veulent réussir.'
+pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

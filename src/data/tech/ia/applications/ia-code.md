@@ -1,12 +1,13 @@
 ---
-title: "IA pour le Code : Guide Complet"
+title: 'IA pour le Code : Guide Complet'
 author: Diane
 tags:
-  - 'IA'
-  - 'Code'
-  - 'Productivité'
-description: "Les meilleurs outils d'IA pour développer : GitHub Copilot, Claude, Cursor, et comment les utiliser efficacement"
-pubDate: "2024-03-25"
+- IA
+- Développement
+- Productivité
+description: 'Les meilleurs outils d''IA pour développer : GitHub Copilot, Claude,
+  Cursor, et comment les utiliser efficacement'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

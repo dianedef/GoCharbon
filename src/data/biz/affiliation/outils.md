@@ -1,11 +1,11 @@
 ---
-title: "Les Meilleurs Outils pour l'Affiliation"
+title: Les Meilleurs Outils pour l'Affiliation
 author: Diane
 tags:
-  - 'Affiliation'
-  - 'Apps'
-description: "Découvre les outils essentiels pour automatiser et optimiser ton business d'affiliation"
-pubDate: "2024-03-25"
+- Affiliation
+description: Découvre les outils essentiels pour automatiser et optimiser ton business
+  d'affiliation
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
