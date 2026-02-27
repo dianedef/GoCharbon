@@ -1,21 +1,24 @@
 :root {
-  /* Brand palette */
+  /* Base palette */
+  --brand-charcoal: #2f2f2f;
   --brand-yellow: #f6c700;
   --brand-orange: #e2572d;
   --brand-black: #1e1b16;
-  --brand-soot: #3b3b3b;
-  --brand-copper: #b87333;
   --brand-ink: #0b0b0b;
-  --brand-anthracite: #2a2a2a;
-  --brand-coal: #4c4c4c;
-  --brand-ash: #6d6d6d;
-  --brand-ash-light: #8f8f8f;
-  --brand-dust: #b5b2aa;
-  --brand-dust-beige: #d9d3c7;
-  --brand-cream: #f2eee6;
-  --brand-cream-warm: #e8e0d4;
-  --brand-steel: #3e5661;
-  --brand-steel-light: #5a737f;
+  --brand-dust: var(--brand-charcoal);
+  --brand-cream: #f5f5f2;
+  --brand-cream-warm: #2f2f2f;
+  --brand-steel: var(--brand-black);
+  --brand-steel-light: var(--brand-orange);
+
+  /* Compatibility aliases */
+  --brand-soot: var(--brand-charcoal);
+  --brand-copper: var(--brand-orange);
+  --brand-anthracite: var(--brand-charcoal);
+  --brand-coal: var(--brand-charcoal);
+  --brand-ash: var(--brand-charcoal);
+  --brand-ash-light: var(--brand-charcoal);
+  --brand-dust-beige: var(--brand-dust);
 
   --border-color: var(--brand-black);
   --border-color-dark: var(--brand-cream);
@@ -43,55 +46,61 @@
 /* Section transitions - Brutal zigzag style */
 section {
   position: relative;
-  border-bottom: 5px solid var(--brand-black);
-  clip-path: polygon(
-    0 0, 
-    100% 0, 
-    100% calc(100% - 30px),
-    95% calc(100% - 15px),
-    90% calc(100% - 30px),
-    85% calc(100% - 15px),
-    80% calc(100% - 30px),
-    75% calc(100% - 15px),
-    70% calc(100% - 30px),
-    65% calc(100% - 15px),
-    60% calc(100% - 30px),
-    55% calc(100% - 15px),
-    50% calc(100% - 30px),
-    45% calc(100% - 15px),
-    40% calc(100% - 30px),
-    35% calc(100% - 15px),
-    30% calc(100% - 30px),
-    25% calc(100% - 15px),
-    20% calc(100% - 30px),
-    15% calc(100% - 15px),
-    10% calc(100% - 30px),
-    5% calc(100% - 15px),
-    0 calc(100% - 30px)
-  );
-  margin-bottom: 0;
-  padding-bottom: 50px !important; /* Ajoute du padding pour que le background couvre le zigzag */
-  z-index: var(--section-z, 1);
+  margin-bottom: 30px;
+  padding-bottom: 20px !important;
+  z-index: 1;
 }
 
-/* Fait remonter la section suivante sous la découpe en zigzag pour éviter
-   de voir le fond global entre les sections en mode clair */
-section + section {
-  margin-top: -30px;
-  position: relative;
+section::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -30px;
+  height: 30px;
+  background-color: inherit;
+  border-bottom: 5px solid var(--brand-black);
+  clip-path: polygon(
+    0 0,
+    100% 0,
+    95% 15px,
+    90% 0,
+    85% 15px,
+    80% 0,
+    75% 15px,
+    70% 0,
+    65% 15px,
+    60% 0,
+    55% 15px,
+    50% 0,
+    45% 15px,
+    40% 0,
+    35% 15px,
+    30% 0,
+    25% 15px,
+    20% 0,
+    15% 15px,
+    10% 0,
+    5% 15px,
+    0 0
+  );
+  pointer-events: none;
+  z-index: 2;
 }
 
 /* Mode sombre */
-.dark section {
+.dark section::after {
   border-bottom-color: var(--brand-yellow);
 }
 
 /* Retire l'effet pour la dernière section */
 section:last-child {
-  clip-path: none;
-  border-bottom: none;
   margin-bottom: 0;
   padding-bottom: 0 !important;
+}
+
+section:last-child::after {
+  display: none;
 }
 
 /* Global link styles */

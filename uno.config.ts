@@ -27,36 +27,34 @@ export default defineConfig({
   ],
   theme: {
     colors: {
-      // 🎨 COULEURS PRIMAIRES (mine + sécurité)
-      'yellow-primary': '#f6c700',    // Jaune sécurité
-      'yellow-gold': '#b87333',       // Cuivre / rouille
-      'yellow-bright': '#e2572d',     // Orange braise
-      'purple-bright': '#e2572d',     // Accent (alias)
-      'purple-medium': '#3e5661',     // Bleu acier
-      'purple-light': '#e8e0d4',      // Crème chaud
+      // Base palette (strict): yellow, orange, black, one charcoal gray
+      'yellow-primary': '#f6c700',
+      'yellow-gold': '#e2572d',
+      'yellow-bright': '#e2572d',
+      'purple-medium': '#2f2f2f',
+      'purple-light': '#f6c700',
+      'yellow-soft': '#f5f5f2',
+      'yellow-pale': '#e2572d',
+      'yellow': '#f6c700',
+      'yellow-dark': '#1c1c1c',
+      'white-soft': '#f5f5f2',
+      'purple-darker': '#121212',
 
-      // 🌈 COULEURS SECONDAIRES (backgrounds, subtils)
-      'yellow-soft': '#f2eee6',       // Crème poussière
-      'yellow-pale': '#e8e0d4',       // Crème chaud
-      'yellow': '#d9d3c7',            // Poussière beige
-      'yellow-dark': '#1c1c1c',       // Fond sombre
-      'purple-pale': '#f2eee6',       // Crème poussière (alias)
-      'purple-lighter': '#d9d3c7',    // Poussière beige (alias)
-      'white-soft': '#f2eee6',        // Fond clair
+      // Compatibility aliases (same values to keep existing classnames working)
+      'purple-bright': '#e2572d',
+      'purple-pale': '#f5f5f2',
+      'purple-lighter': '#2f2f2f',
+      'purple-darkest': '#1e1b16',
+      'purple-dark': '#1e1b16',
+      'gray-dark': '#2f2f2f',
+      'gray-blue': '#2f2f2f',
 
-      // 🌙 COULEURS DARK MODE
-      'purple-darkest': '#3e5661',    // Bleu acier (liens)
-      'purple-dark': '#2f2f2f',       // Surface sombre
-      'purple-darker': '#121212',     // Fond principal
-      'gray-dark': '#4c4c4c',         // Gris charbon
-      'gray-blue': '#3e5661',         // Bleu acier
-
-      // 🎯 ALIASES SÉMANTIQUES
-      'primary': '#f6c700',           // CTA principal
-      'secondary': '#e2572d',         // CTA secondaire
-      'accent': '#b87333',            // Accent cuivre
-      'link': '#3e5661',              // Liens
-      'link-hover': '#5a737f',        // Liens au survol
+      // Semantic aliases
+      'primary': '#f6c700',
+      'secondary': '#e2572d',
+      'accent': '#e2572d',
+      'link': '#1e1b16',
+      'link-hover': '#e2572d',
     },
     fontFamily: {
       sanchez: ['Sanchez', 'serif'],
@@ -75,7 +73,7 @@ export default defineConfig({
     [/^prose-dark$/, () => ({
       '--un-prose-headings': '#f2eee6',
       '--un-prose-body': '#f2eee6',
-      '--un-prose-links': '#5a737f',
+      '--un-prose-links': '#e2572d',
       '--un-prose-links-hover': '#f6c700',
       '--un-prose-lists': '#f2eee6',
       '--un-prose-hr': '#f2eee6',
