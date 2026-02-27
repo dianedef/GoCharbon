@@ -9,18 +9,18 @@ const {
 } = Astro.props;
 ---
 
-<style define:vars={{ color, softWhite: '#fff6d2' }}>
+<style define:vars={{ color, softWhite: 'var(--brand-cream)' }}>
 	.brutal-card-astro {
 		background-color: var(--color);
 		border-radius: 0.5rem;
-		border: 3px solid black;
+		border: 3px solid var(--brand-black);
 		filter: drop-shadow(7px 7px 0 rgb(0 0 0 / 1));
 		padding: 1rem;
-		color: black;
+		color: var(--brand-black);
 	}
 
 	:global(.dark) .brutal-card-astro {
-		background-color: black;
+		background-color: var(--brand-ink);
 		border: 3px solid var(--softWhite);
 		filter: drop-shadow(7px 7px 0 var(--softWhite));
 		color: var(--softWhite);

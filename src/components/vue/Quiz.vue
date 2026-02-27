@@ -182,22 +182,22 @@ const onLeave = (el: Element, done: () => void) => {
   font-size: 2.5rem;
   font-weight: bold;
   margin-bottom: 1rem;
-  color: #000;
+  color: var(--brand-black);
 }
 
 :global(.dark) .quiz-title {
-  color: #fff6d2;
+  color: var(--brand-cream);
 }
 
 .quiz-description {
   font-size: 1.125rem;
   margin-bottom: 2rem;
-  color: #333;
+  color: var(--brand-soot);
   line-height: 1.6;
 }
 
 :global(.dark) .quiz-description {
-  color: #e5e5e5;
+  color: var(--brand-cream-warm);
 }
 
 .quiz-btn {
@@ -205,7 +205,7 @@ const onLeave = (el: Element, done: () => void) => {
   font-size: 1.125rem;
   font-weight: 600;
   border-radius: 0.5rem;
-  border: 3px solid #000;
+  border: 3px solid var(--brand-black);
   cursor: pointer;
   transition: all 0.2s;
   text-decoration: none;
@@ -213,44 +213,44 @@ const onLeave = (el: Element, done: () => void) => {
 }
 
 .quiz-btn.primary {
-  background-color: #000;
-  color: #fff;
+  background-color: var(--brand-black);
+  color: var(--brand-cream);
 }
 
 .quiz-btn.primary:hover {
-  background-color: #333;
+  background-color: var(--brand-soot);
   transform: translateY(-2px);
 }
 
 .quiz-btn.secondary {
-  background-color: #fff;
-  color: #000;
+  background-color: var(--brand-cream);
+  color: var(--brand-black);
   margin-right: 1rem;
 }
 
 .quiz-btn.secondary:hover {
-  background-color: #f5f5f5;
+  background-color: var(--brand-cream-warm);
   transform: translateY(-2px);
 }
 
 :global(.dark) .quiz-btn {
-  border-color: #fff6d2;
+  border-color: var(--brand-cream);
 }
 
 :global(.dark) .quiz-btn.primary {
-  background-color: #fff6d2;
-  color: #000;
+  background-color: var(--brand-cream);
+  color: var(--brand-black);
 }
 
 :global(.dark) .quiz-btn.secondary {
-  background-color: #000;
-  color: #fff6d2;
+  background-color: var(--brand-ink);
+  color: var(--brand-cream);
 }
 
 .progress-bar {
   width: 100%;
   height: 8px;
-  background-color: #e5e5e5;
+  background-color: var(--brand-cream-warm);
   border-radius: 4px;
   margin-bottom: 2rem;
   overflow: hidden;
@@ -259,16 +259,16 @@ const onLeave = (el: Element, done: () => void) => {
 .progress-fill {
   width: 0%;
   height: 100%;
-  background-color: #000;
+  background-color: var(--brand-black);
   border-radius: 4px;
 }
 
 :global(.dark) .progress-bar {
-  background-color: #333;
+  background-color: var(--brand-soot);
 }
 
 :global(.dark) .progress-fill {
-  background-color: #fff6d2;
+  background-color: var(--brand-cream);
 }
 
 .question-wrapper {
@@ -276,15 +276,15 @@ const onLeave = (el: Element, done: () => void) => {
 }
 
 .question-card {
-  background: #fff;
-  border: 3px solid #000;
+  background: var(--brand-cream);
+  border: 3px solid var(--brand-black);
   border-radius: 1rem;
   padding: 2rem;
 }
 
 :global(.dark) .question-card {
-  background: #1a1a1a;
-  border-color: #fff6d2;
+  background: var(--brand-ink);
+  border-color: var(--brand-cream);
 }
 
 .question-number {
@@ -292,22 +292,22 @@ const onLeave = (el: Element, done: () => void) => {
   font-size: 0.875rem;
   font-weight: 600;
   margin-bottom: 1rem;
-  color: #666;
+  color: var(--brand-ash);
 }
 
 :global(.dark) .question-number {
-  color: #999;
+  color: var(--brand-ash-light);
 }
 
 .question-text {
   font-size: 1.75rem;
   font-weight: bold;
   margin-bottom: 2rem;
-  color: #000;
+  color: var(--brand-black);
 }
 
 :global(.dark) .question-text {
-  color: #fff6d2;
+  color: var(--brand-cream);
 }
 
 .answers-grid {
@@ -322,8 +322,8 @@ const onLeave = (el: Element, done: () => void) => {
   align-items: center;
   gap: 0.5rem;
   padding: 1.5rem;
-  background: #f9f9f9;
-  border: 2px solid #e5e5e5;
+  background: var(--brand-cream);
+  border: 2px solid var(--brand-cream-warm);
   border-radius: 0.75rem;
   cursor: pointer;
   transition: all 0.2s;
@@ -331,18 +331,18 @@ const onLeave = (el: Element, done: () => void) => {
 }
 
 .answer-btn:hover {
-  border-color: #000;
+  border-color: var(--brand-black);
   transform: translateY(-4px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 :global(.dark) .answer-btn {
-  background: #2a2a2a;
-  border-color: #444;
+  background: var(--brand-anthracite);
+  border-color: var(--brand-coal);
 }
 
 :global(.dark) .answer-btn:hover {
-  border-color: #fff6d2;
+  border-color: var(--brand-cream);
 }
 
 .answer-icon {
@@ -352,35 +352,35 @@ const onLeave = (el: Element, done: () => void) => {
 .answer-text {
   font-size: 1rem;
   font-weight: 500;
-  color: #000;
+  color: var(--brand-black);
 }
 
 :global(.dark) .answer-text {
-  color: #fff6d2;
+  color: var(--brand-cream);
 }
 
 .results-title {
   font-size: 2rem;
   font-weight: bold;
   margin-bottom: 2rem;
-  color: #000;
+  color: var(--brand-black);
 }
 
 :global(.dark) .results-title {
-  color: #fff6d2;
+  color: var(--brand-cream);
 }
 
 .result-card {
-  background: #fff;
-  border: 3px solid #000;
+  background: var(--brand-cream);
+  border: 3px solid var(--brand-black);
   border-radius: 1rem;
   padding: 3rem;
   text-align: left;
 }
 
 :global(.dark) .result-card {
-  background: #1a1a1a;
-  border-color: #fff6d2;
+  background: var(--brand-ink);
+  border-color: var(--brand-cream);
 }
 
 .result-icon {
@@ -394,11 +394,11 @@ const onLeave = (el: Element, done: () => void) => {
   font-weight: bold;
   text-align: center;
   margin-bottom: 1rem;
-  color: #000;
+  color: var(--brand-black);
 }
 
 :global(.dark) .result-name {
-  color: #fff6d2;
+  color: var(--brand-cream);
 }
 
 .result-description {
@@ -406,11 +406,11 @@ const onLeave = (el: Element, done: () => void) => {
   line-height: 1.6;
   margin-bottom: 2rem;
   text-align: center;
-  color: #333;
+  color: var(--brand-soot);
 }
 
 :global(.dark) .result-description {
-  color: #e5e5e5;
+  color: var(--brand-cream-warm);
 }
 
 .result-strengths {
@@ -422,14 +422,14 @@ const onLeave = (el: Element, done: () => void) => {
 .result-strengths li {
   padding: 0.75rem;
   margin-bottom: 0.5rem;
-  background: #f9f9f9;
+  background: var(--brand-cream);
   border-radius: 0.5rem;
-  color: #000;
+  color: var(--brand-black);
 }
 
 :global(.dark) .result-strengths li {
-  background: #2a2a2a;
-  color: #fff6d2;
+  background: var(--brand-anthracite);
+  color: var(--brand-cream);
 }
 
 .result-actions {

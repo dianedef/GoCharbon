@@ -54,20 +54,20 @@ function handleClick() {
 <style>
 /* Variables globales */
 :root {
-    --softWhite: #fff6d2;
+    --softWhite: var(--brand-cream);
 }
 
 .vue-brutal-pill {
-    background-color: var(--background-color, white);
+    background-color: var(--background-color, var(--brand-cream));
     border-radius: 9999px;
     border: 2px solid currentColor;
     padding: 0.25rem 0.75rem;
     font-size: small;
-    color: black;
+    color: var(--brand-black);
     transition: all 0.2s ease-out;
     will-change: transform, background-color, color;
     user-select: none;
-    box-shadow: 3px 3px 0 rgb(0 0 0 / 1);
+    box-shadow: 3px 3px 0 var(--brand-black);
 }
 
 .vue-brutal-pill:hover {
@@ -79,7 +79,7 @@ function handleClick() {
 }
 
 :global(.dark) .vue-brutal-pill {
-    background-color: var(--background-color, black);
+    background-color: var(--background-color, var(--brand-ink));
     color: var(--softWhite);
     box-shadow: 3px 3px 0 var(--softWhite);
 }

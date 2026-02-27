@@ -98,4 +98,3 @@ Pour optimiser ton content marketing :
 ---
 
 **Rappel :** Le meilleur contenu d'affiliation est celui qui apporte une vraie valeur à ton audience avant même de penser à la conversion.
-

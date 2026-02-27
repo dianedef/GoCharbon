@@ -12,23 +12,23 @@ const {
 	variant = 'default'
 } = Astro.props;
 
-const shadowColor = variant === 'hero' ? '#9e4fff' : '#9e4fff';
+const shadowColor = variant === 'hero' ? 'var(--brand-yellow)' : 'var(--brand-yellow)';
 ---
 
 <style define:vars={{ color, shadowColor }}>
 	a.brutal-btn {
 		filter: drop-shadow(5px 5px 0 rgb(0 0 0 / 1));
-		background-color: white;
+		background-color: var(--brand-cream);
 		display: inline-block;
 		padding: 1rem 2rem;
-		border: 3px solid black;
+		border: 3px solid var(--brand-black);
 		transition: all;
 		transition-duration: 0.5s;
 		animation: ease-in-out;
 		font-family: "Sanchez", serif;
 		font-size: 1.25rem;
 		font-weight: 700;
-		color: black;
+		color: var(--brand-black);
 	}
 	a.brutal-btn:hover {
 		filter: drop-shadow(3px 3px 0 rgb(0 0 0 / 1));
@@ -37,7 +37,7 @@ const shadowColor = variant === 'hero' ? '#9e4fff' : '#9e4fff';
 
 	:global(.dark) a.brutal-btn {
 		filter: drop-shadow(5px 5px 0 var(--shadowColor));
-		background-color: black;
+		background-color: var(--brand-ink);
 		border: 3px solid var(--shadowColor);
 		color: var(--shadowColor);
 	}

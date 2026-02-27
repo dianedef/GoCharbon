@@ -1,11 +1,29 @@
 :root {
-  --border-color: black;
-  --border-color-dark: #fff6d2;
-  
-  /* Brand colors */
-  --link-color: #45088a;
-  --link-hover-color: #caa1ff;
-  
+  /* Brand palette */
+  --brand-yellow: #f6c700;
+  --brand-orange: #e2572d;
+  --brand-black: #1e1b16;
+  --brand-soot: #3b3b3b;
+  --brand-copper: #b87333;
+  --brand-ink: #0b0b0b;
+  --brand-anthracite: #2a2a2a;
+  --brand-coal: #4c4c4c;
+  --brand-ash: #6d6d6d;
+  --brand-ash-light: #8f8f8f;
+  --brand-dust: #b5b2aa;
+  --brand-dust-beige: #d9d3c7;
+  --brand-cream: #f2eee6;
+  --brand-cream-warm: #e8e0d4;
+  --brand-steel: #3e5661;
+  --brand-steel-light: #5a737f;
+
+  --border-color: var(--brand-black);
+  --border-color-dark: var(--brand-cream);
+
+  /* Brand links */
+  --link-color: var(--brand-steel);
+  --link-hover-color: var(--brand-steel-light);
+
   /* Global font sizes */
   --text-base: 1rem;
   --text-lg: 1.125rem;
@@ -17,15 +35,15 @@
 }
 
 .dark {
-  --border-color: #fff6d2;
-  --link-color: #caa1ff;
-  --link-hover-color: #9e4fff;
+  --border-color: var(--brand-cream);
+  --link-color: var(--brand-steel-light);
+  --link-hover-color: var(--brand-yellow);
 }
 
 /* Section transitions - Brutal zigzag style */
 section {
   position: relative;
-  border-bottom: 5px solid #000;
+  border-bottom: 5px solid var(--brand-black);
   clip-path: polygon(
     0 0, 
     100% 0, 
@@ -51,13 +69,21 @@ section {
     5% calc(100% - 15px),
     0 calc(100% - 30px)
   );
-  margin-bottom: 30px;
+  margin-bottom: 0;
   padding-bottom: 50px !important; /* Ajoute du padding pour que le background couvre le zigzag */
+  z-index: var(--section-z, 1);
+}
+
+/* Fait remonter la section suivante sous la découpe en zigzag pour éviter
+   de voir le fond global entre les sections en mode clair */
+section + section {
+  margin-top: -30px;
+  position: relative;
 }
 
 /* Mode sombre */
 .dark section {
-  border-bottom-color: #9e4fff;
+  border-bottom-color: var(--brand-yellow);
 }
 
 /* Retire l'effet pour la dernière section */
@@ -80,19 +106,19 @@ a:not(.no-link-style):hover {
 
 /* Navbar icons - override link colors */
 header a {
-  color: black !important;
+  color: var(--brand-black) !important;
 }
 
 header a:hover {
-  color: #ffe001 !important; /* yellow-primary */
+  color: var(--brand-yellow) !important;
 }
 
 .dark header a {
-  color: #fff6d2 !important; /* yellow-soft */
+  color: var(--brand-cream) !important;
 }
 
 .dark header a:hover {
-  color: #eec93c !important; /* yellow-gold */
+  color: var(--brand-yellow) !important;
 }
 
 /* Brutal button styles for forms */
@@ -113,15 +139,15 @@ header a:hover {
 }
 
 .dark .brutal-btn-form {
-  filter: drop-shadow(5px 5px 0 #9e4fff);
+  filter: drop-shadow(5px 5px 0 var(--brand-yellow));
 }
 
 .dark .brutal-btn-form:hover {
-  filter: drop-shadow(3px 3px 0 #9e4fff);
+  filter: drop-shadow(3px 3px 0 var(--brand-yellow));
 }
 
 .dark .brutal-btn-form:active {
-  filter: drop-shadow(2px 2px 0 #9e4fff);
+  filter: drop-shadow(2px 2px 0 var(--brand-yellow));
 }
 
 /* Variante jaune pour Hero section */
@@ -133,11 +159,11 @@ header a:hover {
 
 /* Ombres noires uniquement pour les boutons dans la section Hero en dark mode */
 .dark .hero-section .brutal-btn {
-  filter: drop-shadow(5px 5px 0 #000000) !important;
+  filter: drop-shadow(5px 5px 0 var(--brand-ink)) !important;
 }
 
 .dark .hero-section .brutal-btn:hover {
-  filter: drop-shadow(3px 3px 0 #000000) !important;
+  filter: drop-shadow(3px 3px 0 var(--brand-ink)) !important;
 }
 
 /* Typography classes */
@@ -164,52 +190,53 @@ html {
 }
 
 body {
+  background-color: var(--brand-cream);
   transition: background-color 0.3s ease;
 }
 
 .dark body {
-  background-color: black;
+  background-color: var(--brand-ink);
 }
 
 ::selection {
-  background-color: aliceblue;
+  background-color: var(--brand-cream);
 }
 
 /* Scrollbar styles */
 ::-webkit-scrollbar {
   width: 22px;
-  background-color: white;
+  background-color: var(--brand-cream);
 }
 
 ::-webkit-scrollbar-track {
   background: linear-gradient(
       45deg,
-      black 25%,
+      var(--brand-black) 25%,
       transparent 25%,
       transparent 75%,
-      black 75%,
-      black
+      var(--brand-black) 75%,
+      var(--brand-black)
     ),
     linear-gradient(
       45deg,
-      black 25%,
+      var(--brand-black) 25%,
       transparent 25%,
       transparent 75%,
-      black 75%,
-      black
+      var(--brand-black) 75%,
+      var(--brand-black)
     );
-  background-color: white;
+  background-color: var(--brand-cream);
   background-size: 4px 4px;
   background-position: 0 0, 2px 2px;
   width: 10px;
-  border-left: 3px solid black;
+  border-left: 3px solid var(--brand-black);
 }
 
 ::-webkit-scrollbar-thumb {
   width: 20px;
   box-sizing: content-box;
-  background-color: white;
-  border: 2px solid black;
+  background-color: var(--brand-cream);
+  border: 2px solid var(--brand-black);
   border-right: none;
 }
 
@@ -246,51 +273,51 @@ body {
 
 /* Dark mode */
 .dark ::-webkit-scrollbar {
-  background-color: black;
+  background-color: var(--brand-ink);
 }
 
 .dark ::-webkit-scrollbar-track {
   background: linear-gradient(
       45deg,
-      #fff6d2 25%,
+      var(--brand-cream) 25%,
       transparent 25%,
       transparent 75%,
-      #fff6d2 75%,
-      #fff6d2
+      var(--brand-cream) 75%,
+      var(--brand-cream)
     ),
     linear-gradient(
       45deg,
-      #fff6d2 25%,
+      var(--brand-cream) 25%,
       transparent 25%,
       transparent 75%,
-      #fff6d2 75%,
-      #fff6d2
+      var(--brand-cream) 75%,
+      var(--brand-cream)
     );
-  background-color: black;
+  background-color: var(--brand-ink);
   background-size: 4px 4px;
   background-position: 0 0, 2px 2px;
-  border-left: 3px solid #fff6d2;
+  border-left: 3px solid var(--brand-cream);
 }
 
 .dark ::-webkit-scrollbar-thumb {
-  background-color: black;
-  border: 2px solid #fff6d2;
+  background-color: var(--brand-ink);
+  border: 2px solid var(--brand-cream);
   border-right: none;
 }
 
 /* Boutons de la scrollbar en mode sombre */
 .dark ::-webkit-scrollbar-button:vertical:start {
-  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='22' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='black' stroke='%23FFE8A7D3' d='M.5.5h21v22.375H.5z'/%3E%3Cpath fill='%23FFE8A7D3' d='M1 23h20v-2H1zM1.375 12.375h5.5V11h-5.5zM6.875 17.875h6.875V16.5H6.875zM6.875 17.875v-5.5H5.5v5.5zM9.625 5.5V4.125H8.25V5.5zM11 4.125V2.75H9.625v1.375zM19.25 12.375V11h-1.375v1.375zM17.875 11V9.625H16.5V11zM16.5 9.625V8.25h-1.375v1.375zM15.125 8.25V6.875H13.75V8.25zM13.75 6.875V5.5h-1.375v1.375zM12.375 5.5V4.125H11V5.5zM8.25 6.875V5.5H6.875v1.375zM6.875 8.25V6.875H5.5V8.25zM5.5 9.625V8.25H4.125v1.375zM4.125 11V9.625H2.75V11z'/%3E%3Cpath fill='%23FFE8A7D3' d='M2.75 12.375V11H1.375v1.375zM15.125 17.875v-5.5H13.75v5.5zM13.75 12.375h5.5V11h-5.5z'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='22' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='black' stroke='%23F2EEE6' d='M.5.5h21v22.375H.5z'/%3E%3Cpath fill='%23F2EEE6' d='M1 23h20v-2H1zM1.375 12.375h5.5V11h-5.5zM6.875 17.875h6.875V16.5H6.875zM6.875 17.875v-5.5H5.5v5.5zM9.625 5.5V4.125H8.25V5.5zM11 4.125V2.75H9.625v1.375zM19.25 12.375V11h-1.375v1.375zM17.875 11V9.625H16.5V11zM16.5 9.625V8.25h-1.375v1.375zM15.125 8.25V6.875H13.75V8.25zM13.75 6.875V5.5h-1.375v1.375zM12.375 5.5V4.125H11V5.5zM8.25 6.875V5.5H6.875v1.375zM6.875 8.25V6.875H5.5V8.25zM5.5 9.625V8.25H4.125v1.375zM4.125 11V9.625H2.75V11z'/%3E%3Cpath fill='%23F2EEE6' d='M2.75 12.375V11H1.375v1.375zM15.125 17.875v-5.5H13.75v5.5zM13.75 12.375h5.5V11h-5.5z'/%3E%3C/svg%3E");
 }
 
 .dark ::-webkit-scrollbar-button:vertical:start:active {
-  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='22' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='black' stroke='%23FFE8A7D3' d='M.5.5h21v22.38H.5z'/%3E%3Cpath fill='%23FFE8A7D3' d='M1 23.005h20v-2H1zM1.375 12.378h5.5v-1.375h-5.5zM6.875 17.879h6.875V6.877H6.875zM6.875 17.879v-5.501H5.5v5.5zM9.625 5.501V4.126H8.25v1.375zM11 4.126V2.75H9.625v1.375zM19.25 12.378v-1.375h-1.375v1.375zM17.875 11.002V9.627H13.75v1.375zM16.5 9.627V8.252h-2.75v1.375zM15.125 8.252V6.877H13.75v1.375zM13.75 6.876V5.501h-1.375v1.375zM12.375 5.501V4.126h-2.75v1.375zM12.375 6.876V5.501h-5.5v1.375zM6.875 8.252V6.877H5.5v1.375zM6.875 9.627V8.252h-2.75v1.375zM6.875 11.002V9.627H2.75v1.375z'/%3E%3Cpath fill='%23FFE8A7D3' d='M2.75 12.378v-1.375H1.375v1.375zM15.125 17.879v-5.501H13.75v5.5zM13.75 12.378h5.5v-1.375h-5.5z'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='22' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='black' stroke='%23F2EEE6' d='M.5.5h21v22.38H.5z'/%3E%3Cpath fill='%23F2EEE6' d='M1 23.005h20v-2H1zM1.375 12.378h5.5v-1.375h-5.5zM6.875 17.879h6.875V6.877H6.875zM6.875 17.879v-5.501H5.5v5.5zM9.625 5.501V4.126H8.25v1.375zM11 4.126V2.75H9.625v1.375zM19.25 12.378v-1.375h-1.375v1.375zM17.875 11.002V9.627H13.75v1.375zM16.5 9.627V8.252h-2.75v1.375zM15.125 8.252V6.877H13.75v1.375zM13.75 6.876V5.501h-1.375v1.375zM12.375 5.501V4.126h-2.75v1.375zM12.375 6.876V5.501h-5.5v1.375zM6.875 8.252V6.877H5.5v1.375zM6.875 9.627V8.252h-2.75v1.375zM6.875 11.002V9.627H2.75v1.375z'/%3E%3Cpath fill='%23F2EEE6' d='M2.75 12.378v-1.375H1.375v1.375zM15.125 17.879v-5.501H13.75v5.5zM13.75 12.378h5.5v-1.375h-5.5z'/%3E%3C/svg%3E");
 }
 
 .dark ::-webkit-scrollbar-button:vertical:end {
-  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='22' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='black' stroke='%23FFE8A7D3' d='M.5 22.88h21V.5H.5z'/%3E%3Cpath fill='%23FFE8A7D3' d='M1 .375h20v2H1zM1.375 11h5.5v1.375h-5.5zM6.875 5.5h6.875v1.375H6.875zM6.875 5.5V11H5.5V5.5zM9.625 17.875v1.375H8.25v-1.375zM11 19.25v1.375H9.625V19.25zM19.25 11v1.375h-1.375V11zM17.875 12.375v1.375H16.5v-1.375zM16.5 13.75v1.375h-1.375V13.75zM15.125 15.125V16.5H13.75v-1.375zM13.75 16.5v1.375h-1.375V16.5zM12.375 17.875v1.375H11v-1.375zM8.25 16.5v1.375H6.875V16.5zM6.875 15.125V16.5H5.5v-1.375zM5.5 13.75v1.375H4.125V13.75zM4.125 12.375v1.375H2.75v-1.375z'/%3E%3Cpath fill='%23FFE8A7D3' d='M2.75 11v1.375H1.375V11zM15.125 5.5V11H13.75V5.5zM13.75 11h5.5v1.375h-5.5z'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='22' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='black' stroke='%23F2EEE6' d='M.5 22.88h21V.5H.5z'/%3E%3Cpath fill='%23F2EEE6' d='M1 .375h20v2H1zM1.375 11h5.5v1.375h-5.5zM6.875 5.5h6.875v1.375H6.875zM6.875 5.5V11H5.5V5.5zM9.625 17.875v1.375H8.25v-1.375zM11 19.25v1.375H9.625V19.25zM19.25 11v1.375h-1.375V11zM17.875 12.375v1.375H16.5v-1.375zM16.5 13.75v1.375h-1.375V13.75zM15.125 15.125V16.5H13.75v-1.375zM13.75 16.5v1.375h-1.375V16.5zM12.375 17.875v1.375H11v-1.375zM8.25 16.5v1.375H6.875V16.5zM6.875 15.125V16.5H5.5v-1.375zM5.5 13.75v1.375H4.125V13.75zM4.125 12.375v1.375H2.75v-1.375z'/%3E%3Cpath fill='%23F2EEE6' d='M2.75 11v1.375H1.375V11zM15.125 5.5V11H13.75V5.5zM13.75 11h5.5v1.375h-5.5z'/%3E%3C/svg%3E");
 }
 
 .dark ::-webkit-scrollbar-button:vertical:end:active {
-  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='22' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='black' stroke='%23FFE8A7D3' d='M.5 22.88h21V.5H.5z'/%3E%3Cpath fill='%23FFE8A7D3' d='M1 .375h20v2H1zM1.375 11.002h5.5v1.375h-5.5zM6.875 5.501h6.875v11.002H6.875zM6.875 5.501v5.501H5.5v-5.5zM9.625 17.879v1.375H8.25v-1.375zM11 19.254v1.375H9.625v-1.375zM19.25 11.002v1.375h-1.375v-1.375zM17.875 12.378v1.375H13.75v-1.375zM16.5 13.753v1.375h-2.75v-1.375zM15.125 15.128v1.375H13.75v-1.375zM13.75 16.503v1.375h-1.375v-1.375zM12.375 17.879v1.375h-2.75v-1.375zM12.375 16.503v1.375h-5.5v-1.375zM6.875 15.128v1.375H5.5v-1.375zM6.875 13.753v1.375h-2.75v-1.375zM6.875 12.378v1.375H2.75v-1.375z'/%3E%3Cpath fill='%23FFE8A7D3' d='M2.75 11.002v1.375H1.375v-1.375zM15.125 5.501v5.501H13.75v-5.5zM13.75 11.002h5.5v1.375h-5.5z'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='22' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='black' stroke='%23F2EEE6' d='M.5 22.88h21V.5H.5z'/%3E%3Cpath fill='%23F2EEE6' d='M1 .375h20v2H1zM1.375 11.002h5.5v1.375h-5.5zM6.875 5.501h6.875v11.002H6.875zM6.875 5.501v5.501H5.5v-5.5zM9.625 17.879v1.375H8.25v-1.375zM11 19.254v1.375H9.625v-1.375zM19.25 11.002v1.375h-1.375v-1.375zM17.875 12.378v1.375H13.75v-1.375zM16.5 13.753v1.375h-2.75v-1.375zM15.125 15.128v1.375H13.75v-1.375zM13.75 16.503v1.375h-1.375v-1.375zM12.375 17.879v1.375h-2.75v-1.375zM12.375 16.503v1.375h-5.5v-1.375zM6.875 15.128v1.375H5.5v-1.375zM6.875 13.753v1.375h-2.75v-1.375zM6.875 12.378v1.375H2.75v-1.375z'/%3E%3Cpath fill='%23F2EEE6' d='M2.75 11.002v1.375H1.375v-1.375zM15.125 5.501v5.501H13.75v-5.5zM13.75 11.002h5.5v1.375h-5.5z'/%3E%3C/svg%3E");
 }

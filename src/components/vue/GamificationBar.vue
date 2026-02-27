@@ -101,21 +101,21 @@ watch(
   align-items: center;
   gap: 0.75rem;
   padding: 0.5rem 1rem;
-  border: 3px solid #000;
+  border: 3px solid var(--brand-black);
   border-radius: 9999px;
-  background: #ffe001;
-  box-shadow: 4px 4px 0 #000;
+  background: var(--brand-yellow);
+  box-shadow: 4px 4px 0 var(--brand-black);
   font-family: 'Sanchez', serif;
   font-size: 0.875rem;
   font-weight: 600;
-  color: #000;
+  color: var(--brand-black);
 }
 
 :global(.dark) .bar-inner {
-  background: #1a1a2e;
-  border-color: #fff6d2;
-  box-shadow: 4px 4px 0 #fff6d2;
-  color: #fff6d2;
+  background: var(--brand-ink);
+  border-color: var(--brand-cream);
+  box-shadow: 4px 4px 0 var(--brand-cream);
+  color: var(--brand-cream);
 }
 
 .streak-section {
@@ -167,19 +167,19 @@ watch(
   align-items: center;
   gap: 0.75rem;
   padding: 1rem 1.5rem;
-  border: 3px solid #000;
+  border: 3px solid var(--brand-black);
   border-radius: 0.5rem;
-  background: #ffe001;
-  box-shadow: 6px 6px 0 #000;
+  background: var(--brand-yellow);
+  box-shadow: 6px 6px 0 var(--brand-black);
   cursor: pointer;
   animation: toast-slide-in 0.4s ease-out;
 }
 
 :global(.dark) .toast-content {
-  background: #1a1a2e;
-  border-color: #fff6d2;
-  box-shadow: 6px 6px 0 #fff6d2;
-  color: #fff6d2;
+  background: var(--brand-ink);
+  border-color: var(--brand-cream);
+  box-shadow: 6px 6px 0 var(--brand-cream);
+  color: var(--brand-cream);
 }
 
 .toast-icon {

@@ -104,17 +104,17 @@ onMounted(() => {
 
 .dashboard-section {
   padding: 1.5rem;
-  border: 3px solid #000;
+  border: 3px solid var(--brand-black);
   border-radius: 0.75rem;
-  background: #fff;
-  box-shadow: 6px 6px 0 #000;
+  background: var(--brand-cream);
+  box-shadow: 6px 6px 0 var(--brand-black);
 }
 
 :global(.dark) .dashboard-section {
-  background: #1a1a2e;
-  border-color: #fff6d2;
-  box-shadow: 6px 6px 0 #fff6d2;
-  color: #fff6d2;
+  background: var(--brand-ink);
+  border-color: var(--brand-cream);
+  box-shadow: 6px 6px 0 var(--brand-cream);
+  color: var(--brand-cream);
 }
 
 .section-title {
@@ -171,14 +171,14 @@ onMounted(() => {
   flex-direction: column;
   align-items: center;
   padding: 1rem;
-  border: 2px solid #000;
+  border: 2px solid var(--brand-black);
   border-radius: 0.5rem;
-  background: #ffe001;
+  background: var(--brand-yellow);
 }
 
 :global(.dark) .stat-card {
-  background: #2a1a4e;
-  border-color: #fff6d2;
+  background: var(--brand-anthracite);
+  border-color: var(--brand-cream);
 }
 
 .stat-value {
@@ -230,20 +230,20 @@ onMounted(() => {
 
 .progress-track {
   height: 0.5rem;
-  background: #e0e0e0;
+  background: var(--brand-cream-warm);
   border-radius: 9999px;
-  border: 1px solid #000;
+  border: 1px solid var(--brand-black);
   overflow: hidden;
 }
 
 :global(.dark) .progress-track {
-  background: #333;
-  border-color: #fff6d2;
+  background: var(--brand-soot);
+  border-color: var(--brand-cream);
 }
 
 .progress-fill {
   height: 100%;
-  background: #9e4fff;
+  background: var(--brand-orange);
   border-radius: 9999px;
   transition: width 0.5s ease;
 }

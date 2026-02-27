@@ -31,18 +31,20 @@ const siteUrl = "https://gocharbon.com"
 
 	<style>
 		:root {
-			--yellow-primary: #ffe001;
-			--purple-bright: #9e4fff;
-			--purple-dark: #5f13bb;
-			--yellow-soft: #fff6d2;
+			--brand-yellow: #f6c700;
+			--brand-orange: #e2572d;
+			--brand-black: #1e1b16;
+			--brand-ink: #0b0b0b;
+			--brand-cream: #f2eee6;
+			--brand-surface: #2f2f2f;
 		}
 
 		* { margin: 0; padding: 0; box-sizing: border-box; }
 
 		body {
 			font-family: 'Sanchez', serif;
-			background: #000;
-			color: var(--yellow-soft);
+			background: var(--brand-ink);
+			color: var(--brand-cream);
 			min-height: 100vh;
 			display: flex;
 			justify-content: center;
@@ -62,26 +64,26 @@ const siteUrl = "https://gocharbon.com"
 			width: 96px;
 			height: 96px;
 			border-radius: 50%;
-			border: 3px solid var(--yellow-primary);
+			border: 3px solid var(--brand-yellow);
 			display: flex;
 			align-items: center;
 			justify-content: center;
 			font-size: 2.5rem;
-			background: var(--purple-dark);
+			background: var(--brand-surface);
 		}
 
 		.bio-name {
 			font-family: 'Poppins', sans-serif;
 			font-size: 1.5rem;
 			font-weight: 700;
-			color: var(--yellow-primary);
+			color: var(--brand-yellow);
 			text-align: center;
 		}
 
 		.bio-tagline {
 			font-size: 0.95rem;
 			text-align: center;
-			color: var(--yellow-soft);
+			color: var(--brand-cream);
 			line-height: 1.5;
 			max-width: 340px;
 		}
@@ -102,26 +104,26 @@ const siteUrl = "https://gocharbon.com"
 			font-family: 'Poppins', sans-serif;
 			font-weight: 600;
 			font-size: 1rem;
-			color: #000;
-			background: var(--yellow-primary);
-			border: 3px solid #000;
-			filter: drop-shadow(4px 4px 0 var(--purple-bright));
+			color: var(--brand-black);
+			background: var(--brand-yellow);
+			border: 3px solid var(--brand-black);
+			filter: drop-shadow(4px 4px 0 var(--brand-orange));
 			transition: all 0.2s ease;
 		}
 
 		.bio-link:hover {
-			filter: drop-shadow(2px 2px 0 var(--purple-bright));
+			filter: drop-shadow(2px 2px 0 var(--brand-orange));
 			transform: translate(2px, 2px);
 		}
 
 		.bio-link.accent {
-			background: var(--purple-bright);
-			color: #fff;
-			filter: drop-shadow(4px 4px 0 var(--yellow-primary));
+			background: var(--brand-orange);
+			color: var(--brand-cream);
+			filter: drop-shadow(4px 4px 0 var(--brand-yellow));
 		}
 
 		.bio-link.accent:hover {
-			filter: drop-shadow(2px 2px 0 var(--yellow-primary));
+			filter: drop-shadow(2px 2px 0 var(--brand-yellow));
 			transform: translate(2px, 2px);
 		}
 
@@ -132,12 +134,12 @@ const siteUrl = "https://gocharbon.com"
 		}
 
 		.bio-socials a {
-			color: var(--yellow-soft);
+			color: var(--brand-cream);
 			transition: color 0.2s ease;
 		}
 
 		.bio-socials a:hover {
-			color: var(--yellow-primary);
+			color: var(--brand-yellow);
 		}
 
 		.bio-socials svg {
@@ -147,7 +149,7 @@ const siteUrl = "https://gocharbon.com"
 
 		.bio-footer {
 			font-size: 0.8rem;
-			color: var(--yellow-soft);
+			color: var(--brand-cream);
 			opacity: 0.6;
 			margin-top: 1rem;
 		}

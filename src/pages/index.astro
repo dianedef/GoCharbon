@@ -10,7 +10,7 @@ import Button from "../components/components/Button.astro";
 >
 	<main class="min-h-screen">
 		<!-- Hero Section - JAUNE VIF / JAUNE FONCÉ -->
-		<section class="hero-section bg-yellow-primary dark:bg-yellow-dark">
+		<section class="hero-section bg-yellow-primary dark:bg-yellow-dark" style="--section-z: 100;">
 			<div class="px-6 py-16 md:py-24 max-w-6xl mx-auto text-center">
 				<h1 class="text-4xl md:text-6xl font-bold mb-6 poppins text-black dark:text-white">
 					Tu Veux Gagner ta Vie sur Internet, Mais tu ne Sais pas par Où Commencer ?
@@ -25,10 +25,10 @@ import Button from "../components/components/Button.astro";
 					ton business en ligne — même si tu pars de zéro aujourd'hui.
 				</p>
 				<div class="flex flex-col md:flex-row gap-4 justify-center items-center">
-					<Button href="/quiz" color="#ffe001" variant="hero">
+					<Button href="/quiz" color="var(--brand-yellow)" variant="hero">
 						🎯 Découvre Ton Business Idéal
 					</Button>
-					<Button href="#newsletter" color="#9e4fff" variant="hero">
+					<Button href="#newsletter" color="var(--brand-orange)" variant="hero">
 						📧 Reçois le Guide Gratuit
 					</Button>
 				</div>
@@ -36,7 +36,7 @@ import Button from "../components/components/Button.astro";
 		</section>
 
 		<!-- Value Proposition Section - BLANC CASSÉ / GRIS FONCÉ -->
-		<section class="px-6 py-16 bg-white-soft dark:bg-black">
+		<section class="px-6 py-16 bg-white-soft dark:bg-black" style="--section-z: 99;">
 			<div class="max-w-6xl mx-auto">
 				<h2 class="text-3xl md:text-5xl font-bold text-center mb-6 poppins text-black dark:text-white">
 					Pourquoi GoCharbon est Différent ?
@@ -81,7 +81,7 @@ import Button from "../components/components/Button.astro";
 		</section>
 
 		<!-- Topics Section - VIOLET CLAIR / VIOLET FONCÉ -->
-		<section class="bg-purple-light dark:bg-purple-dark">
+		<section class="bg-purple-light dark:bg-purple-dark" style="--section-z: 98;">
 			<div class="px-6 py-16 max-w-6xl mx-auto">
 				<h2 class="text-3xl md:text-5xl font-bold text-center mb-6 poppins text-black dark:text-white">
 					Qu'est-ce qu'on va t'Apprendre ?
@@ -124,7 +124,7 @@ import Button from "../components/components/Button.astro";
 		</section>
 
 		<!-- Quiz CTA Section - JAUNE DOUX / VIOLET FONCÉ -->
-		<section id="quiz" class="px-6 py-16 bg-yellow-soft dark:bg-purple-darker">
+		<section id="quiz" class="px-6 py-16 bg-yellow-soft dark:bg-purple-darker" style="--section-z: 97;">
 			<div class="max-w-4xl mx-auto text-center">
 				<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins text-black dark:text-white">
 					🎯 Pas Sûr de Quel Business Lancer ?
@@ -135,7 +135,7 @@ import Button from "../components/components/Button.astro";
 					et te recommande le modèle qui a le plus de chances de marcher pour toi. 
 					<strong>C'est gratuit et ça peut te faire gagner 6 mois d'essais-erreurs.</strong>
 				</p>
-				<Button href="/quiz" color="#ffe001">
+				<Button href="/quiz" color="var(--brand-yellow)">
 					Faire le Quiz Maintenant (2 min)
 				</Button>
 				<p class="text-sm mt-4 text-black dark:text-white">
@@ -145,7 +145,7 @@ import Button from "../components/components/Button.astro";
 		</section>
 
 		<!-- Newsletter Section - VIOLET PÂLE / VIOLET PLUS FONCÉ -->
-		<section id="newsletter" class="bg-purple-pale dark:bg-purple-darker">
+		<section id="newsletter" class="bg-purple-pale dark:bg-purple-darker" style="--section-z: 96;">
 			<div class="px-6 py-16 max-w-4xl mx-auto text-center">
 				<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins text-black dark:text-white">
 					📧 Reçois le Guide "Premier Business en 30 Jours"
@@ -180,7 +180,7 @@ import Button from "../components/components/Button.astro";
 		</section>
 
 		<!-- Blog Preview Section - BLANC CASSÉ / GRIS FONCÉ -->
-		<section class="px-6 py-16 bg-white-soft dark:bg-black">
+		<section class="px-6 py-16 bg-white-soft dark:bg-black" style="--section-z: 95;">
 			<div class="max-w-6xl mx-auto">
 				<div class="flex flex-col md:flex-row justify-between items-center mb-12 gap-4">
 					<div>
@@ -191,7 +191,7 @@ import Button from "../components/components/Button.astro";
 							Des guides concrets pour faire décoller ton business
 						</p>
 					</div>
-					<Button href="/blog" color="#caa1ff">
+					<Button href="/blog" color="var(--brand-copper)">
 						Voir tous les Articles →
 					</Button>
 				</div>
@@ -200,7 +200,7 @@ import Button from "../components/components/Button.astro";
 		</section>
 
 		<!-- French SaaS Section - JAUNE DORÉ / JAUNE FONCÉ -->
-		<section class="bg-yellow-gold dark:bg-yellow-dark">
+		<section class="bg-yellow-gold dark:bg-yellow-dark" style="--section-z: 94;">
 			<div class="px-6 py-16 max-w-6xl mx-auto">
 				<div class="text-center mb-12">
 					<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins text-black dark:text-white">
@@ -278,7 +278,7 @@ import Button from "../components/components/Button.astro";
 		</section>
 
 		<!-- About Me Section - BLANC / NOIR -->
-		<section class="px-6 py-16 bg-white dark:bg-black border-t-3 border-black dark:border-purple-bright">
+		<section class="px-6 py-16 bg-white dark:bg-black border-t-3 border-black dark:border-purple-bright" style="--section-z: 93;">
 			<div class="max-w-6xl mx-auto">
 				<div class="flex flex-col md:flex-row items-center gap-12">
 					<div class="w-48 h-48 md:w-64 md:h-64 flex-shrink-0">

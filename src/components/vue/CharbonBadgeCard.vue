@@ -26,27 +26,27 @@ defineProps<{
   align-items: center;
   gap: 0.75rem;
   padding: 0.75rem 1rem;
-  border: 3px solid #000;
+  border: 3px solid var(--brand-black);
   border-radius: 0.5rem;
-  background: #fff;
-  box-shadow: 4px 4px 0 #000;
+  background: var(--brand-cream);
+  box-shadow: 4px 4px 0 var(--brand-black);
   transition: transform 0.2s, box-shadow 0.2s;
 }
 
 .badge-card:hover {
   transform: translate(-2px, -2px);
-  box-shadow: 6px 6px 0 #000;
+  box-shadow: 6px 6px 0 var(--brand-black);
 }
 
 :global(.dark) .badge-card {
-  background: #1a1a2e;
-  border-color: #fff6d2;
-  box-shadow: 4px 4px 0 #fff6d2;
-  color: #fff6d2;
+  background: var(--brand-ink);
+  border-color: var(--brand-cream);
+  box-shadow: 4px 4px 0 var(--brand-cream);
+  color: var(--brand-cream);
 }
 
 :global(.dark) .badge-card:hover {
-  box-shadow: 6px 6px 0 #fff6d2;
+  box-shadow: 6px 6px 0 var(--brand-cream);
 }
 
 .badge-card.locked {
@@ -54,11 +54,11 @@ defineProps<{
 }
 
 .badge-card.earned {
-  background: #ffe001;
+  background: var(--brand-yellow);
 }
 
 :global(.dark) .badge-card.earned {
-  background: #2a1a4e;
+  background: var(--brand-anthracite);
 }
 
 .badge-icon-wrap {

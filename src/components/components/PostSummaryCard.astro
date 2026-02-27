@@ -21,12 +21,12 @@ console.log("PostSummaryCard reçoit:", {
 });
  */
 // Couleur fixe pour les boutons : violet clair (primaire)
-const buttonColor = '#caa1ff';
+const buttonColor = 'var(--brand-copper)';
 ---
 
-<style define:vars={{ softWhite: '#fff6d2' }}>
+<style define:vars={{ softWhite: 'var(--brand-cream)' }}>
 	.post-title {
-		color: black;
+		color: var(--brand-black);
 	}
 
 	:global(.dark) .post-title {
@@ -34,7 +34,7 @@ const buttonColor = '#caa1ff';
 	}
 
 	.post-description {
-		color: #000000;
+		color: var(--brand-black);
 	}
 
 	:global(.dark) .post-description {
@@ -42,7 +42,7 @@ const buttonColor = '#caa1ff';
 	}
 
 	.post-image-container {
-		border-color: black;
+		border-color: var(--brand-black);
 	}
 
 	:global(.dark) .post-image-container {
@@ -50,7 +50,7 @@ const buttonColor = '#caa1ff';
 	}
 
 	.draft-badge {
-		border-color: black;
+		border-color: var(--brand-black);
 	}
 
 	:global(.dark) .draft-badge {
@@ -60,7 +60,7 @@ const buttonColor = '#caa1ff';
 </style>
 
 <div transition:name={`post-${post.id}`}>
-	<Card color="white">
+	<Card color="var(--brand-cream)">
 		<div class="p-4 rounded-lg transition-colors dark:bg-black">
 			<h3
 				class="post-title poppins text-3xl md:text-4xl font-bold"
