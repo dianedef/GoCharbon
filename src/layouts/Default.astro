@@ -52,6 +52,21 @@ const {
 				document.documentElement.classList.add(theme);
 			});
 		</script>
+		<script is:inline>
+			(function() {
+				var blockEvent = function(event) { event.preventDefault(); };
+				document.addEventListener("copy", blockEvent);
+				document.addEventListener("cut", blockEvent);
+				document.addEventListener("contextmenu", blockEvent);
+				document.addEventListener("selectstart", blockEvent);
+				document.addEventListener("dragstart", blockEvent);
+				document.addEventListener("keydown", function(event) {
+					if (!(event.ctrlKey || event.metaKey)) return;
+					var key = event.key.toLowerCase();
+					if (["a", "c", "u", "x"].includes(key)) event.preventDefault();
+				});
+			})();
+		</script>
 	</head>
 
 	<body class:list={[classList]}>

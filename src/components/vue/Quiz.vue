@@ -51,6 +51,26 @@
         <div class="result-icon">{{ finalResultData.icon }}</div>
         <h3 class="result-name">{{ finalResultData.title }}</h3>
         <p class="result-description">{{ finalResultData.description }}</p>
+
+        <div class="result-insights">
+          <p :class="['confidence-badge', confidenceLevel.level]">{{ confidenceLevel.label }}</p>
+          <p class="confidence-text">{{ confidenceLevel.description }}</p>
+        </div>
+
+        <div v-if="secondResultData" class="top-two-wrapper">
+          <h4 class="top-two-title">Top 2 profils recommandés</h4>
+          <div class="top-two-grid">
+            <div class="top-two-card winner">
+              <span class="top-two-name">{{ finalResultData.icon }} {{ finalResultData.title }}</span>
+              <span class="top-two-score">{{ topResult.score }} pts</span>
+            </div>
+            <div class="top-two-card">
+              <span class="top-two-name">{{ secondResultData.icon }} {{ secondResultData.title }}</span>
+              <span class="top-two-score">{{ secondResult?.score ?? 0 }} pts</span>
+            </div>
+          </div>
+        </div>
+
         <ul class="result-strengths">
           <li v-for="(strength, index) in finalResultData.strengths" :key="index">
             ✓ {{ strength }}
@@ -87,17 +107,58 @@ const scores = reactive({
   service: 0,
   formation: 0,
 });
+const profileKeys = ['ecommerce', 'saas', 'content', 'service', 'formation'] as const;
+type ProfileKey = (typeof profileKeys)[number];
 
 const currentQuestion = computed(() => quizData.questions[currentIndex.value]);
 
-const finalResult = computed(() => {
-  const maxScore = Math.max(...Object.values(scores));
-  return Object.keys(scores).find(
-    (key) => scores[key as keyof typeof scores] === maxScore
-  ) || 'content';
-});
+const sortedResults = computed(() =>
+  profileKeys
+    .map((profile) => ({
+      profile,
+      score: scores[profile],
+    }))
+    .sort((a, b) => b.score - a.score)
+);
+
+const topResult = computed(
+  () => sortedResults.value[0] ?? { profile: 'content' as ProfileKey, score: 0 }
+);
+const secondResult = computed(() => sortedResults.value[1] ?? null);
+const finalResult = computed<ProfileKey>(() => topResult.value.profile);
 
 const finalResultData = computed(() => quizData.results[finalResult.value]);
+const secondResultData = computed(() =>
+  secondResult.value ? quizData.results[secondResult.value.profile] : null
+);
+
+const confidenceLevel = computed(() => {
+  const topScore = topResult.value.score;
+  const secondScore = secondResult.value?.score ?? 0;
+  const diff = topScore - secondScore;
+
+  if (diff >= 7) {
+    return {
+      level: 'high',
+      label: 'Confiance forte',
+      description: "Ton profil est très net: une direction se démarque clairement.",
+    };
+  }
+
+  if (diff >= 4) {
+    return {
+      level: 'medium',
+      label: 'Confiance moyenne',
+      description: 'Ton résultat principal est solide, avec une alternative crédible.',
+    };
+  }
+
+  return {
+    level: 'low',
+    label: 'Confiance exploratoire',
+    description: 'Deux voies sont proches: teste rapidement les deux pour trancher.',
+  };
+});
 
 const startQuiz = () => {
   quizStarted.value = true;
@@ -344,9 +405,79 @@ const onLeave = (el: Element, done: () => void) => {
 .result-description {
   font-size: 1.125rem;
   line-height: 1.6;
-  margin-bottom: 2rem;
+  margin-bottom: 1.25rem;
   text-align: center;
   color: var(--brand-soot);
+}
+
+.result-insights {
+  margin-bottom: 1.5rem;
+}
+
+.confidence-badge {
+  display: inline-block;
+  font-weight: 700;
+  font-family: "Sanchez", serif;
+  border: 2px solid var(--brand-black);
+  padding: 0.35rem 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.confidence-badge.high {
+  background: var(--brand-yellow);
+}
+
+.confidence-badge.medium {
+  background: #ffd89b;
+}
+
+.confidence-badge.low {
+  background: #ffe8d6;
+}
+
+.confidence-text {
+  margin: 0;
+  color: var(--brand-soot);
+}
+
+.top-two-wrapper {
+  margin-bottom: 2rem;
+}
+
+.top-two-title {
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  color: var(--brand-black);
+}
+
+.top-two-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+}
+
+.top-two-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  border: 2px solid var(--brand-black);
+  padding: 0.75rem;
+  background: var(--brand-cream);
+}
+
+.top-two-card.winner {
+  background: var(--brand-yellow);
+}
+
+.top-two-name {
+  font-weight: 600;
+}
+
+.top-two-score {
+  font-weight: 700;
+  font-family: "Sanchez", serif;
 }
 
 .result-strengths {
@@ -395,6 +526,10 @@ const onLeave = (el: Element, done: () => void) => {
 
   .result-card {
     padding: 1.75rem 1.25rem;
+  }
+
+  .top-two-grid {
+    grid-template-columns: 1fr;
   }
 
   .result-actions {
@@ -490,5 +625,26 @@ const onLeave = (el: Element, done: () => void) => {
   background: var(--brand-charcoal);
   border-color: var(--brand-cream);
   color: var(--brand-cream);
+}
+
+.dark .confidence-text,
+.dark .top-two-title {
+  color: var(--brand-cream);
+}
+
+.dark .confidence-badge {
+  border-color: var(--brand-cream);
+  color: var(--brand-black);
+}
+
+.dark .top-two-card {
+  background: var(--brand-charcoal);
+  border-color: var(--brand-cream);
+  color: var(--brand-cream);
+}
+
+.dark .top-two-card.winner {
+  background: var(--brand-yellow);
+  color: var(--brand-black);
 }
 </style>

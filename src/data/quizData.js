@@ -2,189 +2,459 @@ export const quizData = {
   questions: [
     {
       id: 1,
-      text: "Qu'est-ce qui te motive le plus dans le business en ligne ?",
+      text: "Quel est ton niveau actuel en business en ligne ?",
       options: [
-        { 
-          text: "Vendre des produits physiques ou digitaux", 
-          icon: "🛒", 
-          points: { ecommerce: 3, saas: 1 } 
+        {
+          text: "Je pars de zéro",
+          icon: "🌱",
+          points: { content: 2, service: 1, formation: 1 },
         },
-        { 
-          text: "Créer du contenu et bâtir une audience", 
-          icon: "📱", 
-          points: { content: 3, formation: 1 } 
+        {
+          text: "J'ai déjà testé quelques projets",
+          icon: "🧪",
+          points: { service: 2, content: 1, ecommerce: 1 },
         },
-        { 
-          text: "Développer des solutions logicielles", 
-          icon: "💻", 
-          points: { saas: 3, service: 1 } 
+        {
+          text: "J'ai déjà vendu en ligne",
+          icon: "💸",
+          points: { ecommerce: 2, service: 2, formation: 1 },
         },
-        { 
-          text: "Partager mes connaissances et former", 
-          icon: "🎓", 
-          points: { formation: 3, content: 1 } 
+        {
+          text: "J'ai déjà un système qui tourne",
+          icon: "⚙️",
+          points: { saas: 3, ecommerce: 1, formation: 1 },
         },
       ],
     },
     {
       id: 2,
-      text: "Quelles sont tes compétences principales ?",
+      text: "Quelles compétences maîtrises-tu le mieux ?",
       options: [
-        { 
-          text: "Marketing et vente", 
-          icon: "📊", 
-          points: { ecommerce: 2, content: 2 } 
+        {
+          text: "Vente, persuasion, relation client",
+          icon: "🤝",
+          points: { service: 3, ecommerce: 2, formation: 1 },
         },
-        { 
-          text: "Développement et technique", 
-          icon: "⚙️", 
-          points: { saas: 3, service: 2 } 
+        {
+          text: "Code, no-code, automatisation",
+          icon: "💻",
+          points: { saas: 3, service: 1 },
         },
-        { 
-          text: "Communication et création", 
-          icon: "🎨", 
-          points: { content: 3, formation: 1 } 
+        {
+          text: "Création de contenu, storytelling",
+          icon: "🎬",
+          points: { content: 3, formation: 1, ecommerce: 1 },
         },
-        { 
-          text: "Expertise dans un domaine", 
-          icon: "🧠", 
-          points: { formation: 3, service: 2 } 
+        {
+          text: "Pédagogie, structuration de savoir",
+          icon: "🎓",
+          points: { formation: 3, content: 1, service: 1 },
         },
       ],
     },
     {
       id: 3,
-      text: "Combien de temps peux-tu investir au départ ?",
+      text: "Quel budget peux-tu investir pour démarrer ?",
       options: [
-        { 
-          text: "Quelques heures par semaine", 
-          icon: "⏱️", 
-          points: { content: 2, service: 2 } 
+        {
+          text: "0€ à 100€",
+          icon: "🪙",
+          points: { content: 2, service: 2, formation: 1 },
         },
-        { 
-          text: "Mi-temps (20h/semaine)", 
-          icon: "📅", 
-          points: { ecommerce: 2, formation: 2 } 
+        {
+          text: "100€ à 500€",
+          icon: "💶",
+          points: { service: 2, formation: 2, ecommerce: 1 },
         },
-        { 
-          text: "Temps plein", 
-          icon: "🚀", 
-          points: { saas: 3, ecommerce: 1 } 
+        {
+          text: "500€ à 2 000€",
+          icon: "📈",
+          points: { ecommerce: 3, formation: 1, content: 1 },
         },
-        { 
-          text: "Flexible selon les projets", 
-          icon: "🔄", 
-          points: { service: 3, content: 1 } 
+        {
+          text: "2 000€ et plus",
+          icon: "🏦",
+          points: { saas: 2, ecommerce: 2, content: 1 },
         },
       ],
     },
     {
       id: 4,
-      text: "Quel modèle de revenu te correspond le mieux ?",
+      text: "Combien de temps peux-tu consacrer chaque semaine ?",
       options: [
-        { 
-          text: "Ventes ponctuelles", 
-          icon: "💰", 
-          points: { ecommerce: 3, formation: 1 } 
+        {
+          text: "5 à 8h",
+          icon: "⏱️",
+          points: { content: 2, formation: 1, service: 1 },
         },
-        { 
-          text: "Abonnements récurrents", 
-          icon: "🔁", 
-          points: { saas: 3, content: 2 } 
+        {
+          text: "10 à 15h",
+          icon: "📅",
+          points: { service: 2, content: 2, formation: 1 },
         },
-        { 
-          text: "Projets sur-mesure", 
-          icon: "🎯", 
-          points: { service: 3 } 
+        {
+          text: "20 à 30h",
+          icon: "🚀",
+          points: { ecommerce: 2, service: 2, saas: 1 },
         },
-        { 
-          text: "Mix de plusieurs revenus", 
-          icon: "💼", 
-          points: { formation: 2, content: 2 } 
+        {
+          text: "Temps plein",
+          icon: "🔥",
+          points: { saas: 3, ecommerce: 2, formation: 1 },
         },
       ],
     },
     {
       id: 5,
-      text: "Comment préfères-tu interagir avec tes clients ?",
+      text: "Quel niveau d'anglais as-tu pour travailler en ligne ?",
       options: [
-        { 
-          text: "Automatisation maximale", 
-          icon: "🤖", 
-          points: { saas: 3, ecommerce: 2 } 
+        {
+          text: "Débutant",
+          icon: "🇫🇷",
+          points: { service: 2, formation: 2, ecommerce: 1 },
         },
-        { 
-          text: "Relation personnalisée", 
-          icon: "🤝", 
-          points: { service: 3, formation: 2 } 
+        {
+          text: "Intermédiaire",
+          icon: "🗣️",
+          points: { ecommerce: 2, content: 2, service: 1 },
         },
-        { 
-          text: "Communauté en ligne", 
-          icon: "👥", 
-          points: { content: 3, formation: 1 } 
+        {
+          text: "Avancé",
+          icon: "🌍",
+          points: { saas: 2, content: 2, ecommerce: 1 },
         },
-        { 
-          text: "Mix d'automatique et humain", 
-          icon: "⚡", 
-          points: { ecommerce: 2, formation: 2 } 
+        {
+          text: "Bilingue",
+          icon: "🌐",
+          points: { saas: 3, content: 2, service: 1 },
+        },
+      ],
+    },
+    {
+      id: 6,
+      text: "Ton rapport au risque financier est plutôt...",
+      options: [
+        {
+          text: "Prudent, je limite les risques",
+          icon: "🛡️",
+          points: { service: 2, formation: 2, content: 1 },
+        },
+        {
+          text: "Mesuré, je teste petit puis j'accélère",
+          icon: "📊",
+          points: { ecommerce: 2, content: 2, service: 1 },
+        },
+        {
+          text: "Agressif, je peux investir fort",
+          icon: "⚡",
+          points: { saas: 2, ecommerce: 2, content: 1 },
+        },
+        {
+          text: "Je prends des risques si le potentiel est énorme",
+          icon: "🎯",
+          points: { saas: 3, ecommerce: 1, formation: 1 },
+        },
+      ],
+    },
+    {
+      id: 7,
+      text: "Comment préfères-tu travailler au quotidien ?",
+      options: [
+        {
+          text: "Indépendant, en autonomie totale",
+          icon: "🧭",
+          points: { content: 2, service: 2, saas: 1 },
+        },
+        {
+          text: "Avec des clients en direct",
+          icon: "👥",
+          points: { service: 3, formation: 1 },
+        },
+        {
+          text: "Autour d'un produit structuré",
+          icon: "🧱",
+          points: { saas: 2, ecommerce: 2, formation: 1 },
+        },
+        {
+          text: "En construisant une audience",
+          icon: "📣",
+          points: { content: 3, formation: 2 },
+        },
+      ],
+    },
+    {
+      id: 8,
+      text: "Quel délai te semble acceptable pour des revenus solides ?",
+      options: [
+        {
+          text: "Moins de 3 mois",
+          icon: "🏁",
+          points: { service: 3, ecommerce: 1 },
+        },
+        {
+          text: "3 à 6 mois",
+          icon: "📌",
+          points: { ecommerce: 2, service: 2, content: 1 },
+        },
+        {
+          text: "6 à 12 mois",
+          icon: "🧠",
+          points: { formation: 2, content: 2, ecommerce: 1 },
+        },
+        {
+          text: "12 mois et plus si le potentiel est fort",
+          icon: "🏗️",
+          points: { saas: 3, content: 1 },
+        },
+      ],
+    },
+    {
+      id: 9,
+      text: "Ton objectif principal ressemble le plus à...",
+      options: [
+        {
+          text: "Générer un complément de revenu fiable",
+          icon: "💼",
+          points: { service: 2, content: 2, formation: 1 },
+        },
+        {
+          text: "Créer un vrai actif scalable",
+          icon: "📈",
+          points: { saas: 3, ecommerce: 2, content: 1 },
+        },
+        {
+          text: "Monétiser mon expertise personnelle",
+          icon: "🧠",
+          points: { formation: 3, service: 2, content: 1 },
+        },
+        {
+          text: "Construire une marque visible",
+          icon: "🔥",
+          points: { content: 3, ecommerce: 1, formation: 1 },
+        },
+      ],
+    },
+    {
+      id: 10,
+      text: "Quel type de revenu te motive le plus ?",
+      options: [
+        {
+          text: "Prestations et missions facturées",
+          icon: "🧾",
+          points: { service: 3, formation: 1 },
+        },
+        {
+          text: "Abonnements récurrents",
+          icon: "🔁",
+          points: { saas: 3, content: 1, formation: 1 },
+        },
+        {
+          text: "Vente de produits (physiques ou digitaux)",
+          icon: "🛍️",
+          points: { ecommerce: 3, formation: 1 },
+        },
+        {
+          text: "Revenus mixtes et diversifiés",
+          icon: "🧩",
+          points: { content: 2, formation: 2, ecommerce: 1 },
+        },
+      ],
+    },
+    {
+      id: 11,
+      text: "Ton niveau de confort avec la technique est...",
+      options: [
+        {
+          text: "Faible, je veux du simple",
+          icon: "🙂",
+          points: { service: 2, formation: 2, content: 1 },
+        },
+        {
+          text: "Correct avec des outils no-code",
+          icon: "🧰",
+          points: { ecommerce: 2, content: 2, formation: 1 },
+        },
+        {
+          text: "Bon, je peux gérer des stacks complètes",
+          icon: "🖥️",
+          points: { saas: 3, ecommerce: 1, service: 1 },
+        },
+        {
+          text: "Excellent, j'aime résoudre des problèmes complexes",
+          icon: "🧬",
+          points: { saas: 3, service: 1 },
+        },
+      ],
+    },
+    {
+      id: 12,
+      text: "Quelle activité te donne le plus d'énergie ?",
+      options: [
+        {
+          text: "Négocier et convaincre",
+          icon: "🗣️",
+          points: { service: 3, ecommerce: 2 },
+        },
+        {
+          text: "Créer des systèmes et optimiser",
+          icon: "⚙️",
+          points: { saas: 3, ecommerce: 1 },
+        },
+        {
+          text: "Publier, expliquer, raconter",
+          icon: "🎥",
+          points: { content: 3, formation: 1 },
+        },
+        {
+          text: "Former et faire progresser les autres",
+          icon: "📚",
+          points: { formation: 3, service: 1, content: 1 },
+        },
+      ],
+    },
+    {
+      id: 13,
+      text: "Quelle contrainte est la plus forte aujourd'hui ?",
+      options: [
+        {
+          text: "Manque de temps",
+          icon: "⌛",
+          points: { content: 2, formation: 1, service: 1 },
+        },
+        {
+          text: "Manque de budget",
+          icon: "💳",
+          points: { service: 2, content: 2, formation: 1 },
+        },
+        {
+          text: "Manque de clarté stratégique",
+          icon: "🧭",
+          points: { formation: 2, service: 2, content: 1 },
+        },
+        {
+          text: "Manque de compétences techniques",
+          icon: "🔧",
+          points: { service: 2, formation: 2, content: 1 },
+        },
+      ],
+    },
+    {
+      id: 14,
+      text: "Quel niveau de liberté veux-tu d'ici 12 mois ?",
+      options: [
+        {
+          text: "Pouvoir choisir mes clients et mes horaires",
+          icon: "🕒",
+          points: { service: 3, formation: 1 },
+        },
+        {
+          text: "Avoir des revenus plus automatisés",
+          icon: "🤖",
+          points: { saas: 2, content: 2, ecommerce: 1 },
+        },
+        {
+          text: "Développer une marque personnelle forte",
+          icon: "⭐",
+          points: { content: 3, formation: 2 },
+        },
+        {
+          text: "Construire une machine de vente",
+          icon: "🏪",
+          points: { ecommerce: 3, saas: 1 },
+        },
+      ],
+    },
+    {
+      id: 15,
+      text: "Quel scénario te ressemble le plus ?",
+      options: [
+        {
+          text: "Je vends mon expertise en mission premium",
+          icon: "🎯",
+          points: { service: 3, formation: 1 },
+        },
+        {
+          text: "Je crée un logiciel qui résout un vrai problème",
+          icon: "🧠",
+          points: { saas: 3, service: 1 },
+        },
+        {
+          text: "Je développe une audience et je la monétise",
+          icon: "📣",
+          points: { content: 3, formation: 2 },
+        },
+        {
+          text: "Je lance une offre produit et j'optimise les marges",
+          icon: "🛒",
+          points: { ecommerce: 3, content: 1 },
         },
       ],
     },
   ],
   results: {
     ecommerce: {
-      title: "E-commerce / Dropshipping",
+      title: "E-commerce / Boutique en Ligne",
       icon: "🛒",
-      description: "Tu as l'âme d'un commerçant digital ! Lance ta boutique en ligne, que ce soit en dropshipping, produits digitaux ou print-on-demand.",
+      description:
+        "Tu as un profil orienté offre, vente et optimisation. Le e-commerce est pertinent si tu veux construire une machine commerciale avec des leviers concrets (offre, acquisition, conversion).",
       strengths: [
-        "Excellentes compétences en marketing",
-        "Capacité à gérer les stocks et la logistique",
-        "Sens commercial développé",
-        "Aptitude à optimiser les conversions",
+        "Capacité à transformer rapidement une idée en offre vendable",
+        "Bonne compatibilité avec la publicité et l'acquisition multicanale",
+        "Potentiel de croissance élevé si tu maîtrises les marges",
+        "Approche orientée test, data et amélioration continue",
+        "Possible de commencer petit puis scaler progressivement",
       ],
     },
     saas: {
       title: "SaaS (Logiciel en Service)",
       icon: "💻",
-      description: "Tu es parfait pour créer une solution logicielle ! Développe un outil qui résout un problème récurrent avec un modèle d'abonnement.",
+      description:
+        "Ton profil est très compatible avec la création de produit digital scalable. Le SaaS est idéal si tu veux bâtir un actif long terme avec revenus récurrents.",
       strengths: [
-        "Solides compétences techniques",
-        "Vision produit claire",
-        "Capacité à automatiser",
-        "Revenus récurrents prévisibles",
+        "Fort potentiel de revenus récurrents et prévisibles",
+        "Excellent fit pour un profil technique et orienté système",
+        "Scalabilité élevée avec des coûts marginaux faibles",
+        "Possibilité de créer une vraie barrière à l'entrée",
+        "Création d'un actif revendable à terme",
       ],
     },
     content: {
-      title: "Créateur de Contenu",
+      title: "Création de Contenu / Média",
       icon: "📱",
-      description: "Tu es fait pour bâtir une audience ! Crée du contenu de valeur sur YouTube, blog, réseaux sociaux et monétise ton influence.",
+      description:
+        "Tu as un profil audience-first. Le contenu est ton levier principal si tu veux bâtir une marque personnelle forte et monétiser via plusieurs canaux.",
       strengths: [
-        "Excellente communication",
-        "Créativité et régularité",
-        "Capacité à engager une audience",
-        "Multiples sources de revenus possibles",
+        "Démarrage rapide avec un budget limité",
+        "Multiples sources de monétisation (affiliation, offres, sponsoring)",
+        "Effet cumulatif puissant avec la régularité",
+        "Très bon levier pour créer la confiance et l'autorité",
+        "Permet d'ouvrir ensuite vers formation, service ou produit",
       ],
     },
     service: {
-      title: "Services en Ligne",
+      title: "Services en Ligne (Freelance / Agence)",
       icon: "🎯",
-      description: "Tu excelles dans le service client ! Propose ton expertise en consulting, freelance ou agence pour aider d'autres entrepreneurs.",
+      description:
+        "Ton profil est orienté exécution et résultats rapides. Le service est le meilleur choix pour générer du cash-flow rapidement à partir de compétences existantes.",
       strengths: [
-        "Expertise valorisable",
-        "Relation client personnalisée",
-        "Démarrage rapide possible",
-        "Revenus immédiats",
+        "Monétisation rapide sans gros capital initial",
+        "Validation directe de ton positionnement sur le marché",
+        "Montée en gamme possible via offres premium",
+        "Fort contrôle de ta relation client et de ton pricing",
+        "Base solide pour évoluer ensuite vers formation ou produit",
       ],
     },
     formation: {
-      title: "Formation en Ligne",
+      title: "Formation en Ligne / Coaching",
       icon: "🎓",
-      description: "Tu es un excellent pédagogue ! Crée et vends des formations, coaching ou membership pour transmettre ton savoir.",
+      description:
+        "Ton profil montre une forte capacité à structurer et transmettre. La formation est idéale si tu veux monétiser ton expertise avec des offres à forte valeur perçue.",
       strengths: [
-        "Expertise reconnue dans un domaine",
-        "Passion pour l'enseignement",
-        "Capacité à structurer des contenus",
-        "Évolutivité et revenu passif",
+        "Excellente valorisation de ton savoir et de ton expérience",
+        "Positionnement d'autorité dans une niche précise",
+        "Possibilité de mixer formation, coaching et communauté",
+        "Scalabilité progressive avec des formats digitaux",
+        "Création d'un actif pédagogique durable",
       ],
     },
   },
