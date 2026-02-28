@@ -14,7 +14,8 @@ const posts = await getCollection("posts")
 				.includes("apps"),
 		),
 	)
-	.then((filtered) => filtered.reverse());
+	.then((filtered) => filtered.reverse())
+	.then((sorted) => sorted.slice(0, 15));
 
 const mainTags = Object.keys(tagHierarchy);
 ---

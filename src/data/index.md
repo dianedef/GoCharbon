@@ -82,11 +82,11 @@ Maîtrise :
 Le succès n'attend pas. Chaque jour qui passe est une opportunité manquée de commencer ton aventure entrepreneuriale.
 
 :::tip[Cadeau de bienvenue 🎁]
-**Offert :** Télécharge notre guide exclusif *"10 outils français à ne pas rater pour être 3x plus efficace en tant qu’indépendant sur le web"*. 
+**Offert :** Télécharge notre guide exclusif *"Les 10 outils français gratuits incontournables pour lancer ton biz"*. 
 
 Rejoins notre newsletter pour recevoir ce guide et nos meilleurs conseils chaque semaine !
 
-[S'inscrire à la Newsletter →](#newsletter)
+[Télécharger le guide gratuit →](#newsletter)
 :::
 
 [Lance-toi maintenant →](/strategies/)

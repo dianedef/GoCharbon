@@ -29,7 +29,7 @@ export async function getStaticPaths() {
 		paths.push({
 			params: { tag: normalizedTag },
 			props: {
-				posts: filteredPosts,
+				posts: filteredPosts.slice(0, 15),
 				originalTag: tag,
 			},
 		});

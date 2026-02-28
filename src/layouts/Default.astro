@@ -38,6 +38,20 @@ const {
 			article={article}
 		/>
 		<ViewTransitions />
+		<script is:inline>
+			(function() {
+				var theme = localStorage.getItem("theme") ||
+					(window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+				document.documentElement.classList.remove("dark", "light");
+				document.documentElement.classList.add(theme);
+			})();
+			document.addEventListener("astro:after-swap", function() {
+				var theme = localStorage.getItem("theme") ||
+					(window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+				document.documentElement.classList.remove("dark", "light");
+				document.documentElement.classList.add(theme);
+			});
+		</script>
 	</head>
 
 	<body class:list={[classList]}>

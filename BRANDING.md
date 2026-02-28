@@ -177,51 +177,43 @@ Toute nouvelle décision visuelle doit être ajoutée ici pour éviter les déri
 
 **Philosophie :** Audacieux, direct, impossible à ignorer. Comme notre ton.
 
-**⚠️ RÈGLE D'OR : Uniquement les 19 couleurs de la palette officielle. Aucune autre couleur n'est autorisée.**
+**⚠️ RÈGLE D'OR : utiliser uniquement les tokens définis dans `src/styles/global.css`.**
 
 ### Palette de Couleurs
 
-#### Palette de Couleurs Officielle (PROPOSITION GoCharbon)
+#### Palette de Couleurs Officielle (implémentée)
 
-**Objectif :** palette "mine + mineurs" (charbon, poussière, acier, rouille) avec un accent "sécurité" reconnaissable.
-**IMPORTANT :** Ce sont les SEULES couleurs autorisées sur le site une fois validées.
+**Source technique :** `src/styles/global.css` (variables CSS `--brand-*`).
 
 ```
-🎨 COULEURS PRIMAIRES (CTAs, accents, zones fortes)
-#f6c700   - Jaune sécurité (primary)
-#e2572d   - Orange braise (accent)
-#1e1b16   - Charbon profond (brand black)
-#3b3b3b   - Suie (gris foncé)
-#b87333   - Cuivre / rouille (accent secondaire)
+🎨 COULEURS DE BASE
+--brand-yellow    #f6c700  (CTA primaire, accent fort)
+--brand-orange    #e2572d  (accent secondaire, hover CTA)
+--brand-black     #1e1b16  (texte principal, bordures light)
+--brand-ink       #0b0b0b  (fonds dark)
+--brand-charcoal  #2f2f2f  (surfaces secondaires)
+--brand-cream     #f5f5f2  (fonds light / cartes)
 
-🌈 COULEURS SECONDAIRES (backgrounds, textes secondaires)
-#0b0b0b   - Noir absolu
-#2a2a2a   - Anthracite
-#4c4c4c   - Gris charbon
-#6d6d6d   - Gris cendre
-#8f8f8f   - Cendre claire
-#b5b2aa   - Poussière claire
-#d9d3c7   - Poussière beige
-#f2eee6   - Crème poussière (fond clair)
-#e8e0d4   - Crème chaud (fond alternatif)
-
-🌙 COULEURS DARK MODE
-#121212   - Fond principal
-#1c1c1c   - Fond secondaire
-#2f2f2f   - Cartes / surfaces
-#3e5661   - Bleu acier (liens + contrast)
-#5a737f   - Bleu acier clair (hover)
+🔁 ALIASES UTILISÉS DANS LE CODE
+--brand-copper      -> --brand-orange
+--brand-soot        -> --brand-charcoal
+--brand-anthracite  -> --brand-charcoal
+--brand-coal        -> --brand-charcoal
+--brand-ash         -> --brand-charcoal
+--brand-ash-light   -> --brand-charcoal
 
 🔗 LIENS
-Normal:   #3e5661 (bleu acier) en light, #5a737f en dark
-Survol:   #5a737f (bleu acier clair) en light, #f6c700 en dark
+Light  : --link-color = --brand-black
+Hover  : --link-hover-color = --brand-orange
+Dark   : --link-color = --brand-orange
+Hover  : --link-hover-color = --brand-yellow
 ```
 
 **🎯 Règles d'utilisation :**
-- Couleurs primaires = CTAs, éléments importants, sections phares
-- Couleurs secondaires = backgrounds, textes secondaires
-- Bleu acier = liens et éléments interactifs secondaires
-- Tout le reste = couleurs fixes définies ici
+- Primaires = `--brand-yellow`, `--brand-orange`, `--brand-black`
+- Surfaces = `--brand-cream` (light), `--brand-ink` + `--brand-charcoal` (dark)
+- Bordures = `--brand-black` en light, `--brand-cream` en dark
+- Interdit : couleurs en dur hors palette (pas de nouveaux hex inline)
 
 ### Typographie
 
@@ -254,24 +246,31 @@ Caption             : sm (14px) / base (16px)
 #### Brutal Cards
 ```css
 border: 3px solid black
-border-radius: 8px (rounded-lg)
-box-shadow: 7px 7px 0 rgba(0,0,0,1) (light)
-box-shadow: 7px 7px 0 #FFD35AD9 (dark)
-background: white / colored (light)
-background: black (dark)
+border-radius: minimal ou 0 (priorité aux angles marqués)
+box-shadow: 6px 6px 0 var(--brand-black) (light)
+box-shadow: 6px 6px 0 var(--brand-cream) (dark)
+background: var(--brand-cream) (light)
+background: var(--brand-ink) (dark)
 ```
 
 #### Brutal Buttons
 ```css
 padding: 1rem 2rem
 border: 3px solid black
-border-radius: 8px
+border-radius: minimal ou 0
 font-size: 1.25rem (20px)
 font-weight: 700
+font-family: Sanchez
 box-shadow: 5px 5px 0 rgba(0,0,0,1)
-hover: box-shadow: 3px 3px 0 rgba(0,0,0,1)
-transition: 0.5s
+hover: translate(2px,2px) + box-shadow: 3px 3px 0 rgba(0,0,0,1)
+transition: 0.2s à 0.5s
 ```
+
+#### Règles Quiz
+- La page `/quiz` doit suivre le style brutaliste du site (pas de style SaaS arrondi générique).
+- Boutons quiz : même logique visuelle que les CTA du site (jaune/orange, bordure épaisse, ombre dure).
+- Cartes quiz/résultats : fond `--brand-cream` light / `--brand-ink` dark, bordure 3px, ombre dure.
+- Progression : barre avec bordure et remplissage `--brand-yellow`.
 
 #### Brutal Pills/Tags
 ```css

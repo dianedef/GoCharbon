@@ -1,18 +1,18 @@
 ---
-title: 10 outils français à ne pas rater pour être 3x plus efficace en tant qu’indépendant
+title: Les 10 outils français gratuits incontournables pour lancer ton biz
   sur le web
 author: Diane
 tags:
 - Freelancing
 - Productivité
 - Outils Français
-description: Découvrez les meilleurs outils français pour booster votre productivité
-  et gérer votre activité de freelance efficacement.
+description: Les 10 outils français gratuits incontournables pour lancer ton business
+  en ligne avec une stack simple et efficace.
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# 10 outils français à ne pas rater pour être 3x plus efficace en tant qu’indépendant sur le web
+# Les 10 outils français gratuits incontournables pour lancer ton biz sur le web
 
 Être indépendant signifie souvent jongler avec plusieurs casquettes : expert dans son domaine, comptable, commercial, et gestionnaire de projet. Pour ne pas se laisser déborder, le choix des outils est crucial. 
 

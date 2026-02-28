@@ -110,13 +110,13 @@ const submitAnswer = (points: { [key: string]: number }) => {
     }
   }
 
-  // Anime la barre de progression avec GSAP
+  // Progression "snap" (sans easing/fade) pour rester cohérent avec le style brutaliste
   if (progressFillRef.value) {
     const progress = ((currentIndex.value + 1) / quizData.questions.length) * 100;
     gsap.to(progressFillRef.value, {
       width: `${progress}%`,
-      duration: 0.4,
-      ease: "power2.out",
+      duration: 0.08,
+      ease: "none",
     });
   }
 
@@ -141,41 +141,45 @@ const resetQuiz = () => {
   }
 };
 
-// GSAP Animation Hooks (sans CSS)
+// GSAP Animation Hooks — slide vertical
 const onEnter = (el: Element, done: () => void) => {
-  gsap.fromTo(el, 
-    { opacity: 0, x: 50 }, 
-    { 
-      opacity: 1, 
-      x: 0, 
-      duration: 0.5, 
+  gsap.fromTo(el,
+    { y: 60, opacity: 0 },
+    {
+      y: 0,
+      opacity: 1,
+      duration: 0.25,
       ease: "power2.out",
-      onComplete: done 
+      onComplete: done
     }
   );
 };
 
 const onLeave = (el: Element, done: () => void) => {
-  gsap.to(el, { 
-    opacity: 0, 
-    x: -50, 
-    duration: 0.3, 
+  gsap.to(el, {
+    y: -40,
+    opacity: 0,
+    duration: 0.18,
     ease: "power2.in",
-    onComplete: done 
+    onComplete: done
   });
 };
 </script>
 
 <style scoped>
 .quiz-container {
-  max-width: 800px;
+  max-width: 860px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1.5rem;
 }
 
 .quiz-intro,
 .quiz-results {
   text-align: center;
+  background: var(--brand-cream);
+  border: 3px solid var(--brand-black);
+  box-shadow: 6px 6px 0 var(--brand-black);
+  padding: 2rem;
 }
 
 .quiz-title {
@@ -185,10 +189,6 @@ const onLeave = (el: Element, done: () => void) => {
   color: var(--brand-black);
 }
 
-:global(.dark) .quiz-title {
-  color: var(--brand-cream);
-}
-
 .quiz-description {
   font-size: 1.125rem;
   margin-bottom: 2rem;
@@ -196,118 +196,83 @@ const onLeave = (el: Element, done: () => void) => {
   line-height: 1.6;
 }
 
-:global(.dark) .quiz-description {
-  color: var(--brand-cream-warm);
-}
-
 .quiz-btn {
   padding: 1rem 2rem;
   font-size: 1.125rem;
-  font-weight: 600;
-  border-radius: 0.5rem;
+  font-weight: 700;
+  font-family: "Sanchez", serif;
   border: 3px solid var(--brand-black);
   cursor: pointer;
-  transition: all 0.2s;
+  transition: all 0.2s ease-in-out;
   text-decoration: none;
   display: inline-block;
+  box-shadow: 5px 5px 0 var(--brand-black);
 }
 
 .quiz-btn.primary {
-  background-color: var(--brand-black);
-  color: var(--brand-cream);
+  background-color: var(--brand-yellow);
+  color: var(--brand-black);
 }
 
 .quiz-btn.primary:hover {
-  background-color: var(--brand-soot);
-  transform: translateY(-2px);
+  background-color: var(--brand-orange);
+  transform: translate(2px, 2px);
+  box-shadow: 3px 3px 0 var(--brand-black);
 }
 
 .quiz-btn.secondary {
-  background-color: var(--brand-cream);
-  color: var(--brand-black);
+  background-color: var(--brand-black);
+  color: var(--brand-cream);
   margin-right: 1rem;
 }
 
 .quiz-btn.secondary:hover {
-  background-color: var(--brand-cream-warm);
-  transform: translateY(-2px);
-}
-
-:global(.dark) .quiz-btn {
-  border-color: var(--brand-cream);
-}
-
-:global(.dark) .quiz-btn.primary {
-  background-color: var(--brand-cream);
-  color: var(--brand-black);
-}
-
-:global(.dark) .quiz-btn.secondary {
-  background-color: var(--brand-ink);
-  color: var(--brand-cream);
+  background-color: var(--brand-charcoal);
+  transform: translate(2px, 2px);
+  box-shadow: 3px 3px 0 var(--brand-black);
 }
 
 .progress-bar {
   width: 100%;
-  height: 8px;
-  background-color: var(--brand-cream-warm);
-  border-radius: 4px;
+  height: 16px;
+  background-color: var(--brand-cream);
+  border: 3px solid var(--brand-black);
   margin-bottom: 2rem;
-  overflow: hidden;
+  overflow: clip;
 }
 
 .progress-fill {
   width: 0%;
   height: 100%;
-  background-color: var(--brand-black);
-  border-radius: 4px;
-}
-
-:global(.dark) .progress-bar {
-  background-color: var(--brand-soot);
-}
-
-:global(.dark) .progress-fill {
-  background-color: var(--brand-cream);
+  background-color: var(--brand-yellow);
 }
 
 .question-wrapper {
-  min-height: 400px;
+  min-height: 420px;
 }
 
 .question-card {
   background: var(--brand-cream);
   border: 3px solid var(--brand-black);
-  border-radius: 1rem;
+  box-shadow: 6px 6px 0 var(--brand-black);
   padding: 2rem;
-}
-
-:global(.dark) .question-card {
-  background: var(--brand-ink);
-  border-color: var(--brand-cream);
 }
 
 .question-number {
   display: block;
-  font-size: 0.875rem;
-  font-weight: 600;
+  font-size: 0.95rem;
+  font-weight: 700;
+  font-family: "Sanchez", serif;
   margin-bottom: 1rem;
-  color: var(--brand-ash);
-}
-
-:global(.dark) .question-number {
-  color: var(--brand-ash-light);
+  color: var(--brand-orange);
+  text-transform: uppercase;
 }
 
 .question-text {
-  font-size: 1.75rem;
+  font-size: 1.85rem;
   font-weight: bold;
   margin-bottom: 2rem;
   color: var(--brand-black);
-}
-
-:global(.dark) .question-text {
-  color: var(--brand-cream);
 }
 
 .answers-grid {
@@ -318,31 +283,23 @@ const onLeave = (el: Element, done: () => void) => {
 
 .answer-btn {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  gap: 0.5rem;
-  padding: 1.5rem;
+  justify-content: flex-start;
+  gap: 0.75rem;
+  padding: 1rem 1.25rem;
   background: var(--brand-cream);
-  border: 2px solid var(--brand-cream-warm);
-  border-radius: 0.75rem;
+  border: 3px solid var(--brand-black);
+  box-shadow: 4px 4px 0 var(--brand-black);
   cursor: pointer;
-  transition: all 0.2s;
-  text-align: center;
+  transition: all 0.2s ease-in-out;
+  text-align: left;
 }
 
 .answer-btn:hover {
-  border-color: var(--brand-black);
-  transform: translateY(-4px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-:global(.dark) .answer-btn {
-  background: var(--brand-anthracite);
-  border-color: var(--brand-coal);
-}
-
-:global(.dark) .answer-btn:hover {
-  border-color: var(--brand-cream);
+  background: var(--brand-yellow);
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0 var(--brand-black);
 }
 
 .answer-icon {
@@ -351,12 +308,8 @@ const onLeave = (el: Element, done: () => void) => {
 
 .answer-text {
   font-size: 1rem;
-  font-weight: 500;
+  font-weight: 600;
   color: var(--brand-black);
-}
-
-:global(.dark) .answer-text {
-  color: var(--brand-cream);
 }
 
 .results-title {
@@ -366,21 +319,12 @@ const onLeave = (el: Element, done: () => void) => {
   color: var(--brand-black);
 }
 
-:global(.dark) .results-title {
-  color: var(--brand-cream);
-}
-
 .result-card {
   background: var(--brand-cream);
   border: 3px solid var(--brand-black);
-  border-radius: 1rem;
+  box-shadow: 6px 6px 0 var(--brand-black);
   padding: 3rem;
   text-align: left;
-}
-
-:global(.dark) .result-card {
-  background: var(--brand-ink);
-  border-color: var(--brand-cream);
 }
 
 .result-icon {
@@ -397,20 +341,12 @@ const onLeave = (el: Element, done: () => void) => {
   color: var(--brand-black);
 }
 
-:global(.dark) .result-name {
-  color: var(--brand-cream);
-}
-
 .result-description {
   font-size: 1.125rem;
   line-height: 1.6;
   margin-bottom: 2rem;
   text-align: center;
   color: var(--brand-soot);
-}
-
-:global(.dark) .result-description {
-  color: var(--brand-cream-warm);
 }
 
 .result-strengths {
@@ -423,13 +359,8 @@ const onLeave = (el: Element, done: () => void) => {
   padding: 0.75rem;
   margin-bottom: 0.5rem;
   background: var(--brand-cream);
-  border-radius: 0.5rem;
+  border: 2px solid var(--brand-black);
   color: var(--brand-black);
-}
-
-:global(.dark) .result-strengths li {
-  background: var(--brand-anthracite);
-  color: var(--brand-cream);
 }
 
 .result-actions {
@@ -442,7 +373,12 @@ const onLeave = (el: Element, done: () => void) => {
 
 @media (max-width: 640px) {
   .quiz-container {
-    padding: 1rem;
+    padding: 0.75rem;
+  }
+
+  .quiz-intro,
+  .quiz-results {
+    padding: 1.5rem;
   }
 
   .quiz-title {
@@ -458,7 +394,7 @@ const onLeave = (el: Element, done: () => void) => {
   }
 
   .result-card {
-    padding: 2rem 1.5rem;
+    padding: 1.75rem 1.25rem;
   }
 
   .result-actions {
@@ -469,5 +405,90 @@ const onLeave = (el: Element, done: () => void) => {
     margin-right: 0;
     margin-bottom: 0.5rem;
   }
+}
+</style>
+
+<!-- Dark mode styles - unscoped because Astro breaks :global(.dark) in Vue scoped CSS -->
+<style>
+.dark .quiz-intro,
+.dark .quiz-results {
+  background: var(--brand-ink);
+  border-color: var(--brand-cream);
+  box-shadow: 6px 6px 0 var(--brand-cream);
+  color: var(--brand-cream);
+}
+
+.dark .quiz-title,
+.dark .quiz-description,
+.dark .question-text,
+.dark .answer-text,
+.dark .results-title,
+.dark .result-name,
+.dark .result-description,
+.dark .result-card {
+  color: var(--brand-cream);
+}
+
+.dark .quiz-btn {
+  border-color: var(--brand-cream);
+  box-shadow: 5px 5px 0 var(--brand-cream);
+}
+
+.dark .quiz-btn.primary {
+  background-color: var(--brand-yellow);
+  color: var(--brand-black);
+}
+
+.dark .quiz-btn.secondary {
+  background-color: var(--brand-charcoal);
+  color: var(--brand-cream);
+}
+
+.dark .progress-bar {
+  background-color: var(--brand-ink);
+  border-color: var(--brand-cream);
+}
+
+.dark .progress-fill {
+  background-color: var(--brand-yellow);
+}
+
+.dark .question-card {
+  background: var(--brand-ink);
+  border-color: var(--brand-cream);
+  box-shadow: 6px 6px 0 var(--brand-cream);
+}
+
+.dark .question-number {
+  color: var(--brand-yellow);
+}
+
+.dark .answer-btn {
+  background: var(--brand-charcoal);
+  border-color: var(--brand-cream);
+  box-shadow: 4px 4px 0 var(--brand-cream);
+}
+
+.dark .answer-btn:hover {
+  background: var(--brand-yellow);
+  color: var(--brand-black);
+  box-shadow: 2px 2px 0 var(--brand-cream);
+}
+
+.dark .answer-btn:hover .answer-text,
+.dark .answer-btn:hover .answer-icon {
+  color: var(--brand-black);
+}
+
+.dark .result-card {
+  background: var(--brand-ink);
+  border-color: var(--brand-cream);
+  box-shadow: 6px 6px 0 var(--brand-cream);
+}
+
+.dark .result-strengths li {
+  background: var(--brand-charcoal);
+  border-color: var(--brand-cream);
+  color: var(--brand-cream);
 }
 </style>

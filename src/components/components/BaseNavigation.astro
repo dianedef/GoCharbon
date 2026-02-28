@@ -94,8 +94,8 @@ const { pageTitle } = Astro.props;
 	<div class="flex justify-between items-center">
 		{pageTitle && <h1 class="hidden">{pageTitle}</h1>}
 		<div class="flex items-center gap-4">
-			<a href="/" title="Back to Home">
-				<p class="righteous text-3xl md:text-5xl text-black dark:text-yellow-soft">GOCHARBON</p>
+			<a href="/" title="Back to Home" class="inline-block cursor-pointer z-10 relative">
+				<span class="righteous text-3xl md:text-5xl text-black dark:text-yellow-soft">GOCHARBON</span>
 			</a>
 			<Breadcrumbs {...breadcrumbsConfig}>
 				<Home slot="home" class="w-5 h-5" />

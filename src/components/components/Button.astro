@@ -19,7 +19,9 @@ const shadowColor = variant === 'hero' ? 'var(--brand-yellow)' : 'var(--brand-ye
 	a.brutal-btn {
 		filter: drop-shadow(5px 5px 0 rgb(0 0 0 / 1));
 		background-color: var(--brand-cream);
-		display: inline-block;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
 		padding: 1rem 2rem;
 		border: 3px solid var(--brand-black);
 		transition: all;
@@ -29,6 +31,10 @@ const shadowColor = variant === 'hero' ? 'var(--brand-yellow)' : 'var(--brand-ye
 		font-size: 1.25rem;
 		font-weight: 700;
 		color: var(--brand-black);
+		cursor: pointer;
+		position: relative;
+		z-index: 3;
+		pointer-events: auto;
 	}
 	a.brutal-btn:hover {
 		filter: drop-shadow(3px 3px 0 rgb(0 0 0 / 1));
@@ -48,6 +54,6 @@ const shadowColor = variant === 'hero' ? 'var(--brand-yellow)' : 'var(--brand-ye
 	}
 </style>
 
-<a href={href} target={target} class="brutal-btn">
+<a href={href} target={target} class="brutal-btn" data-astro-reload>
 	<slot />
 </a>
