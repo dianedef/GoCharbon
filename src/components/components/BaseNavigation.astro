@@ -94,7 +94,13 @@ const { pageTitle } = Astro.props;
 	<div class="flex justify-between items-center">
 		{pageTitle && <h1 class="hidden">{pageTitle}</h1>}
 		<div class="flex items-center gap-4">
-			<a href="/" title="Back to Home" class="inline-block cursor-pointer z-10 relative">
+			<a
+				href="/"
+				title="Retour a l'accueil"
+				aria-label="Retour a l'accueil"
+				class="inline-block cursor-pointer z-10 relative"
+				data-astro-reload
+			>
 				<span class="righteous text-3xl md:text-5xl text-black dark:text-yellow-soft">GOCHARBON</span>
 			</a>
 			<Breadcrumbs {...breadcrumbsConfig}>

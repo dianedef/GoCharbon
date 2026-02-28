@@ -39,6 +39,7 @@ const shadowColor = variant === 'hero' ? 'var(--brand-yellow)' : 'var(--brand-ye
 	a.brutal-btn:hover {
 		filter: drop-shadow(3px 3px 0 rgb(0 0 0 / 1));
 		background-color: var(--color);
+		color: var(--brand-black) !important;
 	}
 
 	:global(.dark) a.brutal-btn {
@@ -51,6 +52,13 @@ const shadowColor = variant === 'hero' ? 'var(--brand-yellow)' : 'var(--brand-ye
 	:global(.dark) a.brutal-btn:hover {
 		filter: drop-shadow(3px 3px 0 var(--shadowColor));
 		background-color: var(--color);
+		color: var(--brand-black) !important;
+	}
+
+	:global(.dark) a.brutal-btn:active,
+	:global(.dark) a.brutal-btn:focus-visible {
+		background-color: var(--color);
+		color: var(--brand-black) !important;
 	}
 </style>
 
