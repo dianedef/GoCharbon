@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Google Search Console Avancée
 author: Diane
 tags:

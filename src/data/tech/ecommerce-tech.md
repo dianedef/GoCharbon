@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Technologies E-commerce : Guide Complet'
 author: Diane
 tags:

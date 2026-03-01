@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Guide Technique : Implémenter l'IA Dans Son Business"
 author: Tech Expert
 tags: ['IA']

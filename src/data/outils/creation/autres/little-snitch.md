@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Little Snitch
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 datePublié: null
 u_externe: null
 u_site: null

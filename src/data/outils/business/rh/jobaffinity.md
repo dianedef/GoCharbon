@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "jobaffinity"
 author: Diane
 tags:

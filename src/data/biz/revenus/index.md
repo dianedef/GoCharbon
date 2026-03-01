@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Revenus
 author: Diane
 tags:

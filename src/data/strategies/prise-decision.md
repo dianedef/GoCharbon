@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "L'Art de la Prise de Décision : Guide Stratégique"
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Stratégies de Content Marketing : Guide Complet'
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Closer / Sales Closer
 author: Web Indé
 tags:

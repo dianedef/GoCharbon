@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Resilience
 author: Diane
 tags:

@@ -27,7 +27,6 @@ const {
 			posts.map((post, index) => (
 				<li
 					class="post transition-transform hover:scale-[1.02] duration-200"
-					data-tags={JSON.stringify(post.data.tags)}
 				>
 					<PostSummaryCard post={post} index={index} />
 				</li>

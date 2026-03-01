@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Notion Expert / Spécialiste Notion
 author: Web Indé
 tags:

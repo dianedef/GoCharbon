@@ -1,71 +1,114 @@
 ---
-statut:
-- backlog
-type:
-- créa
-title: Proramme Beta
+section: blog
+title: "Programme Beta : tester ton tunnel en conditions réelles"
 author: Diane
-tags: []
-description: 'Découvre Proramme Beta : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
-pubDate: '2024-03-25'
+tags:
+  - Marketing
+  - Tunnel
+  - Beta
+description: Lance une version beta de ton tunnel, mesure les signaux forts et corrige rapidement avant scaling.
+pubDate: '2026-03-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-Hello Diane,
+# Programme Beta : tester avant de scaler
 
-**C'est l'heure de sortir le champagne et de trinquer avec nous : [la Micropreneure Academy](https://click.convertkit-mail2.com/75u3z6rdrks8hkkk2dzuz/dphehmuq62n80kul/aHR0cHM6Ly9taWNyb3ByZW5ldXJlLmFjYWRlbXk=) rouvre officiellement ses portes ce matin**
+Objectif: valider ton tunnel sur un petit volume, avec des métriques simples, avant d'investir plus de temps ou de budget.
 
-Ça veut dire...
+## Ce qu'est une beta utile
 
-**Fini, les soirées passées à se gaver de contenus gratuits en espérant trouver LA meilleure méthode magique pour développer son business.**
+Une beta n'est pas "publier vite et prier".  
+Une beta utile est un protocole de test avec:
 
-(Pour au final, récupérer des infos incomplètes, contradictoires et/ou saugrenues)
+- un objectif clair
+- une fenêtre de test courte
+- des seuils décisionnels
 
-Fini, la sensation d'éparpillement, de brouillard continu, ou encore le "Par quoi je commence ?!".
+## Cadre recommandé (10 jours)
 
-Fini, les semaines passées tout.e seul.e avec ses galères d'entrepreneur, sans personne à qui parler de sa réalité, de ses victoires comme de ses tracas.
+1. `Jour 1`: fixer l'offre testée
+2. `Jour 2`: finaliser la page d'entrée
+3. `Jour 3`: publier le mini quiz de qualification
+4. `Jour 4`: brancher preuve + offre
+5. `Jours 5-7`: envoyer trafic qualifié
+6. `Jours 8-9`: analyser abandons
+7. `Jour 10`: décision go/no-go
 
-**La Micropreneure Academy est le raccourci le plus rapide pour lancer ton entreprise de services, trouver des clients et vivre sereinement d'une activité qui a du sens pour toi...**
+## Les 5 métriques minimales
 
-**... Sans t'éparpiller dans tous les sens, ni t'épuiser.**
+- `CTR Entrée -> Quiz`
+- `Taux de complétion Quiz`
+- `Taux de clic vers Offre`
+- `Taux de conversion Offre`
+- `Taux d'activation J1`
 
----
+Si tu ne mesures pas ces 5 points, tu pilotes à l'intuition.
 
-Quand j'ai décidé de créer cette offre il y a deux ans, j'avais un seul objectif en tête : **proposer LE programme que j'aurais rêvé d'avoir à mes débuts**.
+## Seuils de décision (base de départ)
 
-J'ai voulu créer **un vrai compagnon de route**, avec tous les sujets un peu galères du lancement de business :
+- CTR < 1.5%: retravailler hook/angle
+- Complétion quiz < 45%: trop long ou trop confus
+- Clic offre < 20%: valeur/preuve insuffisantes
+- Conversion offre < 2%: promesse/prix/offre à revoir
+- Activation J1 < 40%: onboarding trop compliqué
 
-Se déclarer, gérer son entreprise, fixer ses prix, créer ses offres, vendre...
+Ces seuils sont des repères initiaux, à ajuster selon ton canal et ton marché.
 
-Toutes ces choses qu'on n'a jamais vraiment appris - à l'école ou en entreprise... Mais carrément indispensables au développement de notre business.
+## Boucle de correction rapide
 
-**2,5 ans plus tard et 500+ élèves formés, la Micropreneure Academy a bien changé, mais n'a rien perdu de tout ça**.
+À la fin de chaque journée de beta:
 
-C'est juste devenu... mieux
+1. identifier 1 friction dominante
+2. corriger 1 seul élément majeur
+3. relancer trafic
+4. comparer avant/après
 
-Plus de concret, plus de communauté, plus de soutien, arrivée de ma super collaboratrice Leïla...
+Règle: un changement à la fois, sinon tu ne sauras pas ce qui a eu de l'impact.
 
-**Ça fait 30 mois, non-stop, que je travaille intensivement sur ce projet** (avec une belle v3 dont j'ai accouché en novembre après des moiiis de travail !)
+## Gamification de la beta (côté utilisateur)
 
-J'ai littéralement réussi à **dupliquer mon cerveau** : toutes mes connaissances, mes compétences et mon expérience, après 2 business de services lancés.
+- `Niveau 1`: Quiz terminé
+- `Niveau 2`: Plan personnalisé consulté
+- `Niveau 3`: Offre activée
+- `Niveau 4`: Première victoire déclarée
 
-Je n'ai RIEN gardé pour moi
+Affiche clairement ce parcours sur l'interface pour augmenter la complétion.
 
-(Si tu trouves déjà mes contenus gratuits complets et utiles, imagine ça en x100
+## Gamification de la beta (côté équipe)
 
-)Avec Leïla on a également innové sur pas mal de points, autant dans le fond que dans la forme
+Crée un scoreboard quotidien:
 
-Mais je garde encore un peu de surprise :
+- activation du jour
+- conversion du jour
+- nombre de frictions corrigées
+- délai moyen de correction
 
-**[Clique ici pour découvrir toute l'expérience de l'Academy](https://click.convertkit-mail2.com/75u3z6rdrks8hkkk2dzuz/dphehmuq62n80kul/aHR0cHM6Ly9taWNyb3ByZW5ldXJlLmFjYWRlbXk=) (bien plus qu'une simple formation) : le programme, les modalités, l'organisation, les témoignages...**
+But: accélérer l'apprentissage collectif, pas "faire joli".
 
-Et peut-être réserver dès maintenant ta place Diane
+## Template de revue de fin de beta
 
-**Les inscriptions ferment mardi prochain (le 14/06).**
+### Ce qui a marché
 
-Comme d'habitude, je suis à ta disposition pour toute question, avec grand plaisir
+- canaux d'acquisition les plus efficaces
+- messages qui ont déclenché les clics
+- preuves qui ont augmenté la conversion
 
-Passe une très belle semaine,
+### Ce qui bloque
 
-Maëlane
+- étapes avec chute brutale
+- objections non traitées
+- problèmes de clarté UX
+
+### Décision
+
+- `Go`: on scale avec budget progressif
+- `Fix then Go`: 1 sprint de correction
+- `No-Go`: repositionner l'offre
+
+## Prochaine étape
+
+Si la beta est validée, passe à:
+
+- [Atelier Tunnel](/marketing/tunnel/atelier) pour renforcer le parcours complet
+- [Acquisition](/strategies/acquisition) pour scaler proprement
+- [KPIs Marketing](/marketing/analytics/kpis) pour piloter le ROI

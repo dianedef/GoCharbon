@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Recrutement
 author: Diane
 tags:

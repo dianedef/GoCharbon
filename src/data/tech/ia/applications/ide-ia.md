@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'IDE IA : Comparatif et Guide d''Achat'
 author: Diane
 tags:

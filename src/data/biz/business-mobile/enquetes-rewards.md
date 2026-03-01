@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Business Mobile : Enquêtes et Rewards'
 author: Diane
 tags:

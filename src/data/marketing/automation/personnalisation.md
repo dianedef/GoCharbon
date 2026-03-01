@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Personnalisation Marketing
 author: Diane
 tags:

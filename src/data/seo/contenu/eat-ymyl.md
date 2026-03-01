@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'E-A-T et YMYL en SEO : Guide Complet'
 author: Diane
 tags:

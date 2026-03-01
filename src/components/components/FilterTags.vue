@@ -22,32 +22,24 @@
   - Reactive state updates with Vue 3 Composition API
 -->
 <script setup lang="ts">
-import { ref, onMounted, watch, nextTick } from 'vue';
-import type { TagHierarchy, TagCategory } from '../../utils/types/tags';
-import type { Post, FilterTagsProps, PostsUpdateEvent } from '../../utils/types/content';
-import { useRandomColor } from '../../composables/useRandomColor';
+import { ref, onMounted, watch } from 'vue';
+import type { Post, PostsUpdateEvent } from '../../utils/types/content';
+import { tagHierarchy } from '../tagHierarchy';
 import Pill from './Pill.vue';
-import colors from '../config/colors.json';
 import PostGridVue from './PostGridVue.vue';
 
 interface Props {
     mainTags: string[];           // Top-level tag categories
-    tagHierarchy: TagHierarchy;   // Complete tag structure with subtags
     initialPosts: Post[];         // Posts to show before any filtering
     selectedTags?: string[];      // Pre-selected tags (from URL)
+    scope?: 'all' | 'apps' | 'blog' | 'tutos' | 'parcours';
 }
 
 const props = withDefaults(defineProps<Props>(), {
     mainTags: () => [],
-    tagHierarchy: () => ({
-        // Minimal default structure (should never be used in practice)
-        default: {
-            label: '',
-            subtags: {}
-        }
-    }),
     initialPosts: () => [],
-    selectedTags: () => []
+    selectedTags: () => [],
+    scope: 'all'
 });
 
 // Reactive state for tag selections
@@ -115,7 +107,7 @@ function toggleMainTag(tag: string) {
     
     // Create new array reference (avoids Vue reactivity issues)
     const newSelectedMainTags = [...selectedMainTags.value];
-    const mainTagData = props.tagHierarchy[tag];
+    const mainTagData = tagHierarchy[tag];
     
     if (index === -1) {
         // Tag not selected → add it
@@ -159,7 +151,7 @@ function toggleSubTag(mainTag: string, subtagKey: string) {
     } else {
         selectedSubTags.value = selectedSubTags.value.filter(t => t !== subtagKey);
         // Nettoyer les sous-sous-tags associés
-        const mainTagData = props.tagHierarchy[mainTag];
+        const mainTagData = tagHierarchy[mainTag];
         if (mainTagData?.subtags?.[subtagKey]) {
             const subtagData = mainTagData.subtags[subtagKey];
             if (subtagData.subtags) {
@@ -278,6 +270,7 @@ async function loadPosts() {
                 // ...selectedSubTags.value,
                 // ...selectedSubSubTags.value
             ];
+            const perPage = props.scope === 'apps' || props.scope === 'tutos' || props.scope === 'parcours' ? 1000 : 15;
             
             if (allSelectedTags.length === 0) {
                 posts.value = props.initialPosts;
@@ -290,15 +283,24 @@ async function loadPosts() {
             // OPTIMIZATION: Single tag uses static API (faster)
             if (allSelectedTags.length === 1) {
                 const mainTag = allSelectedTags[0];
-                response = await fetch(`/api/tags/${mainTag}.json`);
+                const params = new URLSearchParams();
+                if (props.scope !== 'all') {
+                    params.set('scope', props.scope);
+                }
+                params.set('perPage', String(perPage));
+
+                const endpoint = params.toString()
+                    ? `/api/tags/${mainTag}.json?${params}`
+                    : `/api/tags/${mainTag}.json`;
+
+                response = await fetch(endpoint);
                 data = await response.json();
-                
+
                 if (response.ok) {
                     posts.value = data.posts;
-                    totalPages.value = Math.ceil(data.posts.length / 15);
-                    console.log('Réponse depuis l\'API statique des tags principaux');
+                    totalPages.value = Math.ceil(data.posts.length / perPage);
                 }
-            } 
+            }
             // Multiple tags use filter API (may be cached if common combo)
             else {
                 const params = new URLSearchParams();
@@ -306,21 +308,17 @@ async function loadPosts() {
                     params.append('tags', tag.toLowerCase());
                 });
                 params.set('page', currentPage.value.toString());
-                params.set('perPage', '15');
+                params.set('perPage', String(perPage));
+                if (props.scope !== 'all') {
+                    params.set('scope', props.scope);
+                }
 
                 response = await fetch(`/api/filter-posts.json?${params}`);
                 data = await response.json();
 
                 if (response.ok) {
                     posts.value = data.posts;
-                    totalPages.value = Math.ceil(data.posts.length / 15);
-                    
-                    console.log('=== Détails de la réponse API ===');
-                    console.log('Tags sélectionnés:', allSelectedTags);
-                    console.log('Données reçues:', data);
-                    console.log('Nombre de posts:', data.posts.length);
-                    console.log('Titres des posts:', data.posts.map((p: Post) => p.data.title));
-                    console.log('================================');
+                    totalPages.value = Math.ceil(data.posts.length / perPage);
                 }
             }
 
@@ -374,7 +372,7 @@ onMounted(() => {
             } else {
                 // Vérifier si c'est un sous-tag ou un sous-sous-tag
                 for (const mainTag of props.mainTags) {
-                    const mainTagData = props.tagHierarchy[mainTag];
+                    const mainTagData = tagHierarchy[mainTag];
                     if (mainTagData?.subtags && Object.keys(mainTagData.subtags).includes(tag)) {
                         selectedSubTags.value.push(tag);
                         return;
@@ -398,10 +396,27 @@ onMounted(() => {
 
 <template>
     <div>
-        <div class="tags-filter space-y-0.5 md:space-y-4 sticky top-[68px] md:top-[72px] z-[9999] py-2 md:py-3">
-            <!-- Tags principaux -->
-            <div>
-                <ul class="flex flex-wrap gap-4 md:gap-6 justify-center items-center" style="row-gap: 1.5rem;">
+        <div class="tags-filter sticky top-[68px] md:top-[72px] z-[9999] py-2 md:py-3">
+            <div class="filters-shell">
+                <div class="filters-head">
+                    <p class="filters-title">Filtres</p>
+                    <div class="filters-actions">
+                        <span class="filters-count">
+                            {{ selectedMainTags.length }} actif<span v-if="selectedMainTags.length > 1">s</span>
+                        </span>
+                        <button
+                            v-if="selectedMainTags.length > 0"
+                            type="button"
+                            class="filters-reset"
+                            @click="resetFilters"
+                        >
+                            Réinitialiser
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Tags principaux -->
+                <ul class="tags-list">
                     <li v-for="tag in mainTags" :key="tag">
                         <label class="cursor-pointer mobile-pill-wrapper" @click.prevent="toggleMainTag(tag)">
                             <Pill 
@@ -505,6 +520,130 @@ onMounted(() => {
     transition: opacity 0.3s ease-out;
 }
 
+.filters-shell {
+    border: 3px solid var(--brand-black);
+    background: color-mix(in srgb, var(--brand-cream) 93%, white 7%);
+    box-shadow: 6px 6px 0 var(--brand-black);
+    border-radius: 0.85rem;
+    padding: 0.9rem 0.9rem 0.7rem;
+}
+
+:global(.dark) .filters-shell {
+    border-color: var(--brand-cream);
+    background: color-mix(in srgb, var(--brand-ink) 92%, var(--brand-charcoal) 8%);
+    box-shadow: 6px 6px 0 var(--brand-cream);
+}
+
+.filters-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    padding: 0.1rem 0.2rem 0.85rem;
+}
+
+.filters-title {
+    margin: 0;
+    font-family: "Righteous", sans-serif;
+    letter-spacing: 0.02em;
+    font-size: 1.15rem;
+    line-height: 1;
+    color: var(--brand-black);
+}
+
+:global(.dark) .filters-title {
+    color: var(--brand-cream);
+}
+
+.filters-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+}
+
+.filters-count {
+    border: 2px solid var(--brand-black);
+    border-radius: 999px;
+    padding: 0.15rem 0.55rem;
+    font-size: 0.78rem;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--brand-black);
+}
+
+:global(.dark) .filters-count {
+    border-color: var(--brand-cream);
+    color: var(--brand-cream);
+}
+
+.filters-reset {
+    border: 2px solid var(--brand-black);
+    border-radius: 999px;
+    padding: 0.25rem 0.65rem;
+    background: var(--brand-orange);
+    color: var(--brand-cream);
+    font-size: 0.78rem;
+    font-weight: 800;
+    cursor: pointer;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
+    box-shadow: 2px 2px 0 var(--brand-black);
+}
+
+.filters-reset:hover {
+    transform: translate(-1px, -1px);
+}
+
+.filters-reset:active {
+    transform: translate(1px, 1px);
+    box-shadow: 1px 1px 0 var(--brand-black);
+}
+
+:global(.dark) .filters-reset {
+    border-color: var(--brand-cream);
+    box-shadow: 2px 2px 0 var(--brand-cream);
+}
+
+:global(.dark) .filters-reset:active {
+    box-shadow: 1px 1px 0 var(--brand-cream);
+}
+
+.tags-list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 0.75rem;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+:deep(.mobile-pill.brutal-filter-pill) {
+    margin: 0;
+    padding: 0.5rem 0.9rem;
+    font-size: 0.95rem;
+    line-height: 1.1;
+    border-width: 2px;
+    box-shadow: none;
+    filter: none;
+    transform: none !important;
+    transition: transform 0.15s ease, background-color 0.15s ease, color 0.15s ease;
+}
+
+:deep(.mobile-pill.brutal-filter-pill:hover) {
+    transform: translateY(-1px) !important;
+}
+
+:deep(.mobile-pill.brutal-filter-pill.pill-selected) {
+    border-color: var(--brand-black);
+    box-shadow: inset 0 0 0 2px var(--brand-black);
+}
+
+:global(.dark) :deep(.mobile-pill.brutal-filter-pill.pill-selected) {
+    border-color: var(--brand-cream);
+    box-shadow: inset 0 0 0 2px var(--brand-cream);
+}
+
 .subtags-container,
 .subsubtags-container {
     opacity: 0;
@@ -541,6 +680,28 @@ onMounted(() => {
 
 /* Ajustements pour mobile */
 @media (max-width: 640px) {
+    .filters-shell {
+        border-radius: 0.65rem;
+        padding: 0.75rem 0.65rem 0.6rem;
+    }
+
+    .filters-head {
+        padding-bottom: 0.7rem;
+    }
+
+    .filters-title {
+        font-size: 1rem;
+    }
+
+    .filters-count,
+    .filters-reset {
+        font-size: 0.72rem;
+    }
+
+    .tags-list {
+        gap: 0.5rem;
+    }
+
     :deep(.mobile-pill-wrapper) {
         display: inline-block;
     }

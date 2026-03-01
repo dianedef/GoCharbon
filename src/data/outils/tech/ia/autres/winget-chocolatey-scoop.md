@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Winget Chocolatey Scoop
 author: Diane
 tags:

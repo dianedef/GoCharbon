@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Flowzsuite Pour Obsidian
 author: Diane
 tags:

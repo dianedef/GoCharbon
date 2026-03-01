@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Paper Club
 author: Diane
 tags:

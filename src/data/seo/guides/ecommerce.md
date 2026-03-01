@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Ecommerce
 author: Diane
 tags:

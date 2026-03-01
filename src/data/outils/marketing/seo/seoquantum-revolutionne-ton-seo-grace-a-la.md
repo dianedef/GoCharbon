@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Seoquantum, Révolutionne ton SEO grâce à la Sémantique"
 author: Diane
 tags:

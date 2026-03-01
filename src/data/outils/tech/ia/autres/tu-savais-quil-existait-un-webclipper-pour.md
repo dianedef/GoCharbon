@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Tu Savais Qu'Il Existait Un Webclipper Pour Obsidian Parce Que Moi Non !
 author: Diane
 tags:

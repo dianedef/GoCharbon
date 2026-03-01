@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Social Media Ads Manager / Gestionnaire de Publicités Réseaux Sociaux
 author: Web Indé
 tags:

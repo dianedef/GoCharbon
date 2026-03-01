@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "L'Analyse de Données : Guide Complet du Traitement à l'Intelligence"
 author: Diane
 tags: ['Data']

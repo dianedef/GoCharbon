@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Wordpress Services
 author: Diane
 tags: []

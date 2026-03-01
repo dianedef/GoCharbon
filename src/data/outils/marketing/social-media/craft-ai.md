@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Craft ai"
 author: Diane
 tags:

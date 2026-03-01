@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Installer Un Compiler C Sur Windows
 author: Diane
 tags:

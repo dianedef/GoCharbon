@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Guides IA : Comment l''Utiliser Efficacement'
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Développer un état d'esprit gagnant"
 author: Diane
 tags:

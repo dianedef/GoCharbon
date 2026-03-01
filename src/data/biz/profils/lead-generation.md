@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Lead Generation Specialist / Spécialiste en Génération de Leads
 author: Web Indé
 tags:

@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Votre data SEO, dans un outil simple et efficace."
 author: Diane
 tags:

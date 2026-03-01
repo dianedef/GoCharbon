@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Objectifs De La Semaine
 author: Diane
 tags:

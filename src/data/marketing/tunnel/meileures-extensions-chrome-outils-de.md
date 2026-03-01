@@ -1,4 +1,5 @@
 ---
+section: blog
 tags:
 - Marketing
 title: Meileures Extensions Chrome Outils De Productivités

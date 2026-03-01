@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "SEO : Guide Complet"
 author: Diane
 tags:

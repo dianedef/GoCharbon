@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Cas D''usage Des Agents : Vue D''ensemble'
 author: Diane
 tags:

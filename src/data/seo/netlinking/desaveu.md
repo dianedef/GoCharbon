@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Désaveu de Liens : Guide Complet"
 author: Diane
 tags:

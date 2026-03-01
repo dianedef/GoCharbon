@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "SERPmantics"
 author: Diane
 tags:

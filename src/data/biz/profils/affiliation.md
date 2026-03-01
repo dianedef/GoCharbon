@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Marketing d'Affiliation
 author: Web Indé
 tags:

@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Virtual Assistant / Assistant Virtuel Spécialisé
 author: Web Indé
 tags:

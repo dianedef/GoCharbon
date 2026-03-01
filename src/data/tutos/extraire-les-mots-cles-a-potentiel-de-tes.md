@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Rédaction
 imageNameKey: null

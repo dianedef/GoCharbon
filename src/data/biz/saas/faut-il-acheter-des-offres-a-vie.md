@@ -1,4 +1,5 @@
 ---
+section: blog
 u_externe: null
 u_interne: null
 _notes: null

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Tableaux de Bord SEO
 author: Diane
 tags:

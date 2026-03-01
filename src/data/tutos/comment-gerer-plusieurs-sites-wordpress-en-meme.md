@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Tutoriels
 title: Comment Gérer Plusieurs Sites Wordpress En Même Temps

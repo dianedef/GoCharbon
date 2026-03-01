@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'ESPANSO : L''OUTIL DE TEXT EXPANSION QUI VA CHANGER TA PRODUCTIVITÉ'
 author: Diane
 tags:

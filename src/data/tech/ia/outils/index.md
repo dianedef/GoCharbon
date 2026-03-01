@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: 'Outils IA : L''Écosystème'
 author: Diane
 tags:

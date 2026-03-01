@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Tutoriels
 imageNameKey: extraire-les-paa-de-google

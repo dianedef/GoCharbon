@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Agents En Recherche : Innovation Scientifique'
 author: Diane
 tags:

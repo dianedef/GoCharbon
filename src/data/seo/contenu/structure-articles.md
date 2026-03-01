@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Structure des Articles SEO : Guide Complet'
 author: Diane
 tags:

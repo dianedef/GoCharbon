@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Migration
 author: Diane
 tags:

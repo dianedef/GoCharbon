@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Mirror profiles"
 author: Diane
 tags:

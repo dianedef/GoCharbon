@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Tutoriels
 title: Comment Mettre À Jour Plusieurs Plugins Ou Thèmes En Même Temps Sur Wordpress

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Le SEUL Livre à Lire Pour Devenir RICHE en 2024
 author: Diane
 tags:

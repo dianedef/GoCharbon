@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Comment Choisir le Bon LLM : Guide Pratique'
 author: Diane
 tags:

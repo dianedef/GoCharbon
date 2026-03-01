@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Display Advertising
 author: Diane
 tags:

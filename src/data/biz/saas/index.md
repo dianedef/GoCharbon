@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Guide Complet du Business SaaS
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Les meilleures plateformes d'affiliation
 author: Diane
 tags:

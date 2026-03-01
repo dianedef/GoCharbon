@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Cycle de Vie de l''Automatisation : 5 Étapes pour Réussir'
 author: Diane
 tags:

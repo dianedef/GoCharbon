@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Stratégies d'Expansion : Guide Complet"
 author: Diane
 tags:

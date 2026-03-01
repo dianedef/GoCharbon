@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Développer ton influence naturelle
 author: Diane
 tags:

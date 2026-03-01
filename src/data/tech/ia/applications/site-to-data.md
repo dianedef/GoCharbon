@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Comment Transformer un Site Web en Données pour l'IA"
 author: "Diane"
 tags: ['IA']

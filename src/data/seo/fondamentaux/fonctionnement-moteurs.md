@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Fonctionnement Moteurs
 author: Diane
 tags:

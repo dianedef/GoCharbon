@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Analyse Marche
 author: Diane
 tags:

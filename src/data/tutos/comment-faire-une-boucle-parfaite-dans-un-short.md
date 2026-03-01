@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Tutoriels
 title: Comment Faire Une Boucle Parfaite Dans Un Short

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Business Mobile : Partage et Gig Economy'
 author: Diane
 tags:

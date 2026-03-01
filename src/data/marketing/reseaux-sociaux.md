@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'RÉSEAUX SOCIAUX : VISIBILITÉ SANS Y PASSER TA VIE'
 author: Diane
 tags:

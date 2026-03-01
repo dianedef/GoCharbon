@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Outils d'Analyse : Guide Complet"
 author: Expert Analytics
 tags:

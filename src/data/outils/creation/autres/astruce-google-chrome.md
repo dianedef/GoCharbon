@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Astruce Google Chrome
 author: Diane
 tags:

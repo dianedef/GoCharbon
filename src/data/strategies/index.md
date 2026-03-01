@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Stratégies Business : Guide Complet"
 author: Diane
 tags:

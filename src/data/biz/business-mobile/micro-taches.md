@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Business Mobile : Micro-tâches'
 author: Diane
 tags:

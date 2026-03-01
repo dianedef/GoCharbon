@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Services En Ligne
 author: Diane
 tags:

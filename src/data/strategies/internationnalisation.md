@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Stratégies d'Internationalisation : Guide Complet"
 author: Diane
 tags:

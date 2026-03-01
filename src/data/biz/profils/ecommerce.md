@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: E-commerce / Boutique en ligne
 author: Web Indé
 tags:

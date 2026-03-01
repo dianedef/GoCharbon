@@ -53,6 +53,58 @@ export const quizData = {
       ],
     },
     {
+      id: 16,
+      text: "As-tu une passion ou un talent que tu veux monétiser ?",
+      options: [
+        {
+          text: "Oui, une passion forte (musique, sport, cuisine, etc.)",
+          icon: "🔥",
+          points: { content: 3, formation: 2, ecommerce: 1 },
+        },
+        {
+          text: "Oui, un talent créatif (musique, dessin, vidéo, écriture)",
+          icon: "🎨",
+          points: { content: 3, formation: 2, service: 1 },
+        },
+        {
+          text: "Oui, une expertise technique/analytique",
+          icon: "🧠",
+          points: { service: 2, saas: 2, formation: 1 },
+        },
+        {
+          text: "Pas vraiment, je préfère partir d'une opportunité de marché",
+          icon: "📊",
+          points: { ecommerce: 2, saas: 2, service: 1 },
+        },
+      ],
+    },
+    {
+      id: 17,
+      text: "As-tu déjà une expertise métier monétisable ?",
+      options: [
+        {
+          text: "Oui, mon métier actuel est directement vendable en freelance",
+          icon: "💼",
+          points: { service: 3, formation: 2, content: 1 },
+        },
+        {
+          text: "Oui, mais je dois mieux structurer mon offre",
+          icon: "🧱",
+          points: { service: 2, formation: 2, content: 1 },
+        },
+        {
+          text: "Partiellement, j'ai des bases mais pas encore une offre claire",
+          icon: "🛠️",
+          points: { service: 2, content: 1, ecommerce: 1 },
+        },
+        {
+          text: "Non, je veux construire une compétence à partir de zéro",
+          icon: "🌱",
+          points: { content: 2, saas: 1, ecommerce: 1, formation: 1 },
+        },
+      ],
+    },
+    {
       id: 3,
       text: "Quel budget peux-tu investir pour démarrer ?",
       options: [

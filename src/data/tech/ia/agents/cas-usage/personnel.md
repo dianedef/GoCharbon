@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Agents Personnels : Assistants Du Quotidien'
 author: Diane
 tags:

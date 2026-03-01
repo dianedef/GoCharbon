@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Construire un Écosystème Business : Guide Complet'
 author: Diane
 tags:

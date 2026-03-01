@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: '2026-03-01'
 tags:
 - Outils Français
 - Tech

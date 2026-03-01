@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Data Brokers : Types, Dangers et Solutions de Protection"
 author: Tech Expert
 tags: ['Data']

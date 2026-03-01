@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Appumo Edit
 author: Diane
 tags: []

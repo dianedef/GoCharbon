@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Infoproduits / Produits Digitaux
 author: Web Indé
 tags:

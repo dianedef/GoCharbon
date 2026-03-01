@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Applications IA : Cas d''Usage Réels'
 author: Diane
 tags:

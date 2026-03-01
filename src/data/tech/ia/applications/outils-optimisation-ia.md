@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Outils pour Optimiser l'Utilisation de l'IA"
 author: Diane
 tags: ['IA']

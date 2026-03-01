@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Automatisation Business : Le Guide Complet pour Libérer Ton Temps'
 author: Diane
 tags:

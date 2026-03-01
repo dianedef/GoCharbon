@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Définir et atteindre tes objectifs
 author: Diane
 tags:

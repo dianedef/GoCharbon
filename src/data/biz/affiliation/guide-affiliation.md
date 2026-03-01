@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Affiliation Marketing : Le Guide Complet pour Générer des Revenus Passifs"
 author: Diane
 tags:

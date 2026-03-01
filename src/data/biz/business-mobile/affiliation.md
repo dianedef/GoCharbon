@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Business Mobile : Affiliation Mobile'
 author: Diane
 tags:

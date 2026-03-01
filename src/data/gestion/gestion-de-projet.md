@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "GESTION DE PROJET : L'ART DE FINIR CE QU'ON COMMENCE"
 author: Diane
 tags:

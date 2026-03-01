@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: TextMaster
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Prompt Engineering : Guide Complet'
 author: Diane
 tags:

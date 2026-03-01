@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Tutoriels
 title: Comment Organiser Un Concours Sur Les Réseaux Sociaux

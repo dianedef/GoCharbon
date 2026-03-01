@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Comprendre et Gérer les Hallucinations des LLMs
 author: Diane
 tags: ['IA']

@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "PrestaShop"
 author: Diane
 tags:

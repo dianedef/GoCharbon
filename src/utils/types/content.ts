@@ -7,6 +7,7 @@ export interface FilterTagsProps {
   tagHierarchy: Record<string, any>;
   initialPosts: Post[];
   selectedTags?: string[];
+  scope?: "all" | "apps" | "blog" | "tutos" | "parcours";
 }
 
 export interface PostGridProps {

@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Comment Je Traduis Mes Sites
 author: Diane
 tags:

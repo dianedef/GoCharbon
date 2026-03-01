@@ -1,4 +1,5 @@
 ---
+section: blog
 title: A/B Testing
 author: Diane
 tags:

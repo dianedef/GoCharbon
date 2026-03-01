@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Configuration Google Analytics 4
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Stratégies d'Acquisition Client : Guide Complet"
 author: Diane
 tags:

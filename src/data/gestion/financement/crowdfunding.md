@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Crowdfunding
 author: Diane
 tags:

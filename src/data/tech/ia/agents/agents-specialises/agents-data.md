@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Agents De Données : L''analyse Intelligente'
 author: Diane
 tags:

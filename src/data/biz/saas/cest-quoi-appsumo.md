@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "C'est quoi AppSumo et est-ce que ça vaut le coup ?"
 author: "Diane"
 tags: ['Lifetime Deals']

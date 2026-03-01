@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: AI Content Creator
 author: Web Indé
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Strategies
 author: Diane
 tags:

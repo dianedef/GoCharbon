@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Facebook & Instagram Ads
 author: Diane
 tags:

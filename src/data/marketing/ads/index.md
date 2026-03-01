@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Publicité en Ligne (Ads) : Le Guide Complet"
 author: Diane
 tags:

@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Regate by Qonto"
 author: Diane
 tags:

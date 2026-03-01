@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Vision Entrepreneuriale : Guide Complet"
 author: Diane
 tags:

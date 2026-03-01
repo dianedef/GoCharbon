@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Nuxt.js : Guide Complet'
 author: Diane
 tags:

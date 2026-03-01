@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Le Futur Des Agents IA : Perspectives Et Évolutions'
 author: Diane
 tags:

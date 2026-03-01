@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Mythes et Réalités SEO : Le Guide No Bullshit'
 author: Diane
 tags:

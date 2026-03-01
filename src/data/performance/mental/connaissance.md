@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "La Connaissance : Le Véritable Pouvoir de l'Entrepreneur"
 author: Diane
 tags:

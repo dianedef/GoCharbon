@@ -1,4 +1,5 @@
 ---
+section: blog
 tags:
 - Business
 u_site: null

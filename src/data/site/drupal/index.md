@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Guide Complet de Drupal
 author: Diane
 tags:

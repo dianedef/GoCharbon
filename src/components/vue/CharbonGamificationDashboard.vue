@@ -1,9 +1,18 @@
 <script setup lang="ts">
-import { ref, onMounted, computed } from 'vue'
+import { ref, onMounted, onBeforeUnmount, computed } from 'vue'
 import { useGamification, fireBadgeConfetti } from '@diane-winflowz/gamification'
 import type { Badge } from '@diane-winflowz/gamification'
 import { createCharbonConfig } from '../../gamification/config'
 import CharbonBadgeCard from './CharbonBadgeCard.vue'
+import { learningPaths } from '../../data/parcoursData'
+import {
+  buildPathDescriptors,
+  getPathBadges,
+  getPathStats,
+  type PathBadgeState,
+  type PathStats,
+} from '../../gamification/pathProgress'
+import { getXpLevel, getXpState, type XpState } from '../../gamification/xp'
 
 const mounted = ref(false)
 const toastBadge = ref<Badge | null>(null)
@@ -16,10 +25,67 @@ config.onBadgeEarned = (badge: Badge) => {
 
 const { reader, streak, badges, progress } = useGamification(config)
 
-const allBadges = computed(() => [...badges.earned.value, ...badges.unearned.value])
+const pathDescriptors = buildPathDescriptors(learningPaths)
+const pathStats = ref<PathStats>({
+  activePaths: 0,
+  completedPaths: 0,
+  totalPaths: pathDescriptors.length,
+  completedSteps: 0,
+  totalSteps: pathDescriptors.reduce((acc, item) => acc + item.totalSteps, 0),
+  percent: 0,
+})
+
+const pathBadges = computed<PathBadgeState[]>(() => getPathBadges(pathStats.value))
+const xp = ref<XpState>({
+  totalXp: 0,
+  readXp: 0,
+  taskXp: 0,
+  readCount: 0,
+  completedTaskCount: 0,
+})
+const xpLevel = computed(() => getXpLevel(xp.value.totalXp))
+
+const allBadgeCards = computed(() => {
+  const readingBadges = [
+    ...badges.earned.value.map((badge) => ({ badge, earned: true })),
+    ...badges.unearned.value.map((badge) => ({ badge, earned: false })),
+  ]
+
+  const parcoursBadges = pathBadges.value.map((badge) => ({
+    badge: {
+      id: badge.id,
+      name: badge.name,
+      description: badge.description,
+      icon: badge.icon,
+      condition: () => false,
+    } as Badge,
+    earned: badge.earned,
+  }))
+
+  return [...readingBadges, ...parcoursBadges]
+})
+
+const totalEarnedBadges = computed(() => allBadgeCards.value.filter((item) => item.earned).length)
+
+function refreshPathStats() {
+  pathStats.value = getPathStats(pathDescriptors)
+}
+
+function refreshXp() {
+  xp.value = getXpState()
+}
 
 onMounted(() => {
+  refreshPathStats()
+  refreshXp()
+  window.addEventListener('storage', refreshPathStats)
+  window.addEventListener('storage', refreshXp)
   mounted.value = true
+})
+
+onBeforeUnmount(() => {
+  window.removeEventListener('storage', refreshPathStats)
+  window.removeEventListener('storage', refreshXp)
 })
 </script>
 
@@ -53,20 +119,59 @@ onMounted(() => {
           <span class="stat-value">{{ progress.overall.value.percent }}%</span>
           <span class="stat-label">Progression</span>
         </div>
+        <div class="stat-card">
+          <span class="stat-value">{{ pathStats.completedSteps }}</span>
+          <span class="stat-label">Étapes parcours</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value">{{ pathStats.completedPaths }}</span>
+          <span class="stat-label">Parcours terminés</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value">{{ pathStats.percent }}%</span>
+          <span class="stat-label">Progression parcours</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value">{{ xp.totalXp }}</span>
+          <span class="stat-label">XP total</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value">N{{ xpLevel.level }}</span>
+          <span class="stat-label">Niveau</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value">{{ xp.readXp }}</span>
+          <span class="stat-label">XP lecture</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-value">{{ xp.taskXp }}</span>
+          <span class="stat-label">XP implémentation</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="dashboard-section progress-section">
+      <h2 class="section-title">Progression XP</h2>
+      <div class="progress-label">
+        <span class="progress-cat">Niveau {{ xpLevel.level }}</span>
+        <span class="progress-pct">{{ xpLevel.currentLevelXp }} / {{ xpLevel.nextLevelXp }} XP</span>
+      </div>
+      <div class="progress-track">
+        <div class="progress-fill" :style="{ width: xpLevel.progressPercent + '%' }"></div>
       </div>
     </section>
 
     <!-- Badges -->
     <section class="dashboard-section badges-section">
       <h2 class="section-title">
-        Badges ({{ badges.earned.value.length }} / {{ allBadges.length }})
+        Badges ({{ totalEarnedBadges }} / {{ allBadgeCards.length }})
       </h2>
       <div class="badges-grid">
         <CharbonBadgeCard
-          v-for="badge in allBadges"
-          :key="badge.id"
-          :badge="badge"
-          :earned="badges.earned.value.some((b) => b.id === badge.id)"
+          v-for="item in allBadgeCards"
+          :key="item.badge.id"
+          :badge="item.badge"
+          :earned="item.earned"
         />
       </div>
     </section>
@@ -191,6 +296,18 @@ onMounted(() => {
   font-size: 0.75rem;
   text-transform: uppercase;
   opacity: 0.8;
+}
+
+@media (max-width: 900px) {
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 580px) {
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* Badges */

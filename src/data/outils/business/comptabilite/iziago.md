@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Cegid Iziago"
 author: Diane
 tags:

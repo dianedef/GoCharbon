@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Cash Machine V3 : Mon Expérience Honnête'
 author: Diane
 tags:

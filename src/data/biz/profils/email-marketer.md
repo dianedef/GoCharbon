@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Email Marketer / Spécialiste Marketing par Email
 author: Web Indé
 tags:

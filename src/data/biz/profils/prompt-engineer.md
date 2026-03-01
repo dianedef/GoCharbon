@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Prompt Engineer / Consultant IA
 author: Web Indé
 tags:

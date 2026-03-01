@@ -3,16 +3,17 @@ import { getCollection } from "astro:content";
 import Layout from "../layouts/Default.astro";
 import FilterTags from "../components/components/FilterTags.vue";
 import { tagHierarchy } from "../components/tagHierarchy";
-import type { Post, PostsUpdateEvent } from "../utils/types/content";
+import { applyContentScope } from "../utils/content-section";
 
 // Récupération des posts initiaux pour le SSG
 const allPosts = await getCollection("posts");
-const initialPosts = allPosts
+const blogPosts = applyContentScope(allPosts, "blog");
+
+const initialPosts = blogPosts
 	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
 	.slice(0, 15);
 
 const mainTags = Object.keys(tagHierarchy);
-const totalPages = Math.ceil(allPosts.length / 15);
 ---
 
 <Layout title="Blog" description="Découvre tous les articles GOCHARBON : business, marketing, tech, SEO et productivité pour entrepreneurs et freelances. Conseils pratiques et stratégies actionnables." pageTitle="Blog GOCHARBON">
@@ -23,8 +24,8 @@ const totalPages = Math.ceil(allPosts.length / 15);
 			<FilterTags
 				client:visible
 				mainTags={mainTags}
-				tagHierarchy={tagHierarchy}
 				initialPosts={initialPosts}
+				scope="blog"
 			/>
 		</div>
 	</main>

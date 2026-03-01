@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Bootstrapping : Réaliser ses Projets sans Emprunter à la Banque'
 author: Diane
 tags:

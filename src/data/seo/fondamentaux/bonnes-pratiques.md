@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Bonnes Pratiques
 author: Diane
 tags:

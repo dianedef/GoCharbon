@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Business en Ligne : Guide Complet"
 author: Diane
 tags:
@@ -12,6 +13,18 @@ imgUrl: ../../assets/astro.jpeg
 # Business en Ligne : Guide Complet
 
 Tu veux lancer ton business en ligne mais tu ne sais pas par où commencer ? C'est normal. Il y a des milliers de façons de réussir, mais aussi des milliers de façons de se planter. Voici ce qui marche vraiment.
+
+## Fondamental: pars de ce que tu sais déjà faire
+
+Le chemin le plus rapide et le moins risqué, c'est souvent de monétiser:
+
+- ton métier actuel (freelance, consulting, prestation)
+- tes compétences concrètes (tech, design, vente, gestion, pédagogie)
+- ton talent ou ta passion (musique, sport, cuisine, création de contenu)
+
+Exemple simple: si tu maîtrises la musique, tu peux vendre des cours, du coaching, des packs d'exercices, une formation ou un ebook. Même logique pour presque toutes les expertises.
+
+Avant de chercher une idée "géniale", commence par inventorier ce que tu peux déjà transformer en valeur pour quelqu'un.
 
 ## Les 4 étapes pour lancer ton business
 

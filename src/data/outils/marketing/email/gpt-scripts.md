@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Gpt scripts"
 author: Diane
 tags:

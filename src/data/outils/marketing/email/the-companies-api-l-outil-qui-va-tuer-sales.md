@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "The Companies API, l’outil qui va tuer Sales Navigator"
 author: Diane
 tags:

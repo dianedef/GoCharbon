@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Checklist
 author: Diane
 tags:

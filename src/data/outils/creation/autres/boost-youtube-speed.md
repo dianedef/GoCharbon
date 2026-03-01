@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Boost Youtube Speed
 author: Diane
 tags:

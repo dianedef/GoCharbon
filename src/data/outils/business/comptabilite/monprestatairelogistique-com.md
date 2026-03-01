@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "MonPrestataireLogistique"
 author: Diane
 tags:

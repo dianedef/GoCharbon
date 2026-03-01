@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Guide Complet des Filtres WooCommerce
 author: Diane
 tags:

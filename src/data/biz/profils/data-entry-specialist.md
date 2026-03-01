@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Data Entry Specialist / Spécialiste Saisie de Données
 author: Web Indé
 tags:

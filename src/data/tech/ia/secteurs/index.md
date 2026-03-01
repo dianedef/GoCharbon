@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'IA par Secteur : Médecine, Sciences et Plus'
 author: Diane
 tags:

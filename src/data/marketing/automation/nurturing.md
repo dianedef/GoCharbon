@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Lead Nurturing
 author: Diane
 tags:

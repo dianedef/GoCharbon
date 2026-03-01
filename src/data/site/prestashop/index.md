@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "PrestaShop : Guide Complet"
 author: Diane
 tags:

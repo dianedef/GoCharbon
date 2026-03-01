@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Langchain : Le Framework Des Agents Conversationnels'
 author: Diane
 tags:

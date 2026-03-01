@@ -1,70 +1,180 @@
 ---
-title: Atelier
+section: blog
+title: "Atelier Tunnel : parcours balisé et gamifié"
 author: Diane
-tags: []
-description: 'Découvre Atelier : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
-pubDate: '2024-03-25'
+tags:
+  - Marketing
+  - Tunnel
+  - Gamification
+description: Construis un tunnel de vente clair, balisé et gamifié pour augmenter l'activation et la conversion.
+pubDate: '2026-03-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-regarder book bolt sur le web [02:59](https://www.youtube.com/watch?v=Bs6at2uf1Dc&t=179#t=02:59.45)  
-**  
-ATELIER EN LIGNE • Mercredi à 20h**
+# Atelier tunnel balisé et gamifié
 
-# **Découvrez 7 astuces simples pour monter 10x plus rapidement des vidéos qui donnent envie d’être vues**
+Objectif: construire un tunnel simple qui fait avancer le prospect étape par étape, avec des micro-victoires mesurables.
 
-## …même si vous n'y connaissez rien en montage.
+## Pourquoi baliser le tunnel
 
+Un tunnel qui convertit n'est pas juste "une page de vente + un bouton".  
+Tu dois rendre visible:
 
-Oui, je m'inscris GRATUITEMENT
+- où la personne en est
+- ce qu'elle gagne à l'étape suivante
+- ce qu'elle doit faire maintenant
 
-**Pourquoi nous demandons votre numéro ?**
+Sans balises, ton trafic se perd. Avec balises + gamification, tu augmentes l'activation et la complétion.
 
-Recevez un rappel pratique par SMS juste avant le début de l'atelier, pour être sûr de ne rien manquer des pépites que je vais partager avec vous durant cet évènement ! Nous respectons votre vie privée : votre numéro sera exclusivement utilisé pour vous envoyer un rappel avant l'atelier.
+## Structure recommandée (7 étapes)
 
-🔐 **Vos informations sont 100% sécurisées.**
+1. `Entrée`
+2. `Qualification rapide`
+3. `Valeur immédiate`
+4. `Preuve`
+5. `Offre`
+6. `Activation`
+7. `Rétention`
 
-_*En cliquant sur le bouton, vous acceptez que vos données soient traitées pour vous permettre d’assister à l'atelier. Vous pouvez vous désinscrire à tout moment conformément à notre_ [_politique de confidentialité_](https://strategievideo.podia.com/politique-de-confidentialite)_. Vos données ne sont pas revendues ni transmises à des partenaires._
+### Étape 1 - Entrée
 
-**Ce que vous allez découvrir :**
+But: capter l'attention d'une audience ciblée.
 
-- Comment j’ai fait **décoller ma chaîne YouTube** grâce à des montages qui claquent
-- 5 techniques simples pour **accélérer radicalement vos montages vidéos**
-- Les 2 techniques de Youtubeur pour **capter l’attention des spectateurs**
-- Comment vous aussi vous pouvez appliquer ces techniques **sans devenir un monteur professionnel**
+- Promesse claire en une phrase
+- 1 CTA principal
+- 1 seule action demandée
 
+KPI: taux de clic vers l'étape 2.
 
-Mercredi
+### Étape 2 - Qualification rapide
 
-20h (heure de Paris)
+But: segmenter sans friction.
 
+- mini quiz (3 à 5 questions)
+- branchement vers la bonne offre/parcours
+- message personnalisé selon le profil
 
-Présenté par
+KPI: taux de complétion du quiz.
 
-Olivier Juprelle
+### Étape 3 - Valeur immédiate
 
+But: délivrer un "quick win" en moins de 10 minutes.
 
-Durée
+- checklist actionnable
+- mini template
+- vidéo courte (3 à 7 min)
 
-90 minutes
+KPI: consommation du contenu (clic, lecture, watch time).
 
+### Étape 4 - Preuve
 
-Pas de replay.
+But: réduire le risque perçu.
 
-Assurez-vous de ne pas le manquer
+- étude de cas courte
+- avant/après
+- objections traitées
 
-**AVERTISSEMENT :** Les résultats partagés dans cet atelier sont des études de cas d'entrepreneurs. Veuillez noter que ces résultats sont atypiques et résultent souvent d'une grande expérience dans l'entrepreneuriat que je vais m'efforcer de vous partager. La plupart des personnes qui suivent ces conseils (et qui ne passent pas à l'action) n'obtiennent pas de résultats voire très peu. Si vous n'acceptez pas cela, ce n'est pas fait pour vous.
+KPI: taux de passage vers l'offre.
 
-  
+### Étape 5 - Offre
 
-Ce site ne fait pas partie du site web Facebook ou de Facebook, Inc. ni de Google Inc. En outre, ce site n’est pas endossé par Facebook en aucune façon ni par Google Inc. Facebook est une marque déposée de Facebook, Inc.
+But: transformer l'intention en décision.
 
+- promesse spécifique
+- résultat + délai + cadre
+- bonus utiles (pas gadgets)
 
-Copyright 2021 strategievideo.com
+KPI: taux de conversion offre.
 
-[Conditions d'utilisation](https://strategievideo.podia.com/cgv)
+### Étape 6 - Activation
 
-[Politique de confidentialité](https://strategievideo.podia.com/politique-de-confidentialite)
+But: faire agir vite après achat/inscription.
 
-[Avertissement](https://strategievideo.podia.com/avertissement)
+- onboarding en 3 actions maximum
+- première victoire sous 24h
+- barre de progression visible
+
+KPI: taux d'activation J1.
+
+### Étape 7 - Rétention
+
+But: transformer un acheteur en client récurrent / ambassadeur.
+
+- séquence email d'accompagnement
+- suivi des résultats clés
+- proposition d'étape suivante
+
+KPI: taux de réachat, taux de recommandation.
+
+## Couche gamification à ajouter
+
+Tu n'as pas besoin d'un système complexe. Commence avec ces 4 briques:
+
+1. `Progression`: barre de progression par étape
+2. `XP`: points à chaque action utile
+3. `Badges`: récompenses sur des jalons concrets
+4. `Streak`: série de jours actifs
+
+Règle: récompense l'action qui crée de la valeur, pas les clics vides.
+
+## Matrice "Action -> Récompense"
+
+- Quiz terminé -> `+20 XP`
+- Checklist appliquée -> `+30 XP`
+- Premier résultat documenté -> `Badge Starter`
+- 7 jours consécutifs d'exécution -> `Badge Momentum`
+- Tunnel complet lancé -> `Badge Finisher`
+
+## Checklist de mise en production
+
+- [ ] 1 objectif business par étape
+- [ ] 1 CTA unique par écran
+- [ ] 1 métrique prioritaire par étape
+- [ ] suivi analytics configuré
+- [ ] message de relance si abandon
+- [ ] fallback mobile propre
+
+## Plan de sprint (14 jours)
+
+### Jours 1-3
+
+- formaliser la promesse
+- dessiner le tunnel en 7 étapes
+- définir les KPI par étape
+
+### Jours 4-7
+
+- produire les actifs (quiz, lead magnet, preuve)
+- écrire les séquences email
+- implémenter les événements de tracking
+
+### Jours 8-11
+
+- activer la barre de progression
+- ajouter XP/badges de base
+- préparer onboarding 24h
+
+### Jours 12-14
+
+- lancer trafic test
+- analyser les abandons
+- corriger les frictions majeures
+
+## Erreurs fréquentes
+
+- trop d'options dès l'entrée
+- promesse floue
+- pas de preuve
+- gamification décorative sans impact business
+- pas de relance après abandon
+
+## Résultat attendu
+
+Un tunnel balisé et gamifié donne:
+
+- meilleure lisibilité pour le prospect
+- meilleure complétion des étapes
+- meilleure conversion finale
+- meilleure rétention post-achat
+
+Passe ensuite sur [Programme Beta](/marketing/tunnel/proramme-beta) pour lancer une version test en conditions réelles.

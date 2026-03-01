@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Financement d'Entreprise : Guide Complet"
 author: Diane
 tags:

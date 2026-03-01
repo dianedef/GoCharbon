@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Coaching en Ligne
 author: Web Indé
 tags:

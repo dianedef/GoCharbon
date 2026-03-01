@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Techniques de Growth Hacking
 author: Diane
 tags:

@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "📊 KlapAudience : Des lead magnets qui convertissent avec succès"
 author: Diane
 tags:

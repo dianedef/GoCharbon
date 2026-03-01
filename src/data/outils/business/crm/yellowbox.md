@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "YellowBox CRM"
 author: Diane
 tags:

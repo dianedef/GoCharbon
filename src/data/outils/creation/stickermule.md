@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Sticker Mule"
 author: Diane
 tags:

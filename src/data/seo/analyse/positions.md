@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Suivi des Positions SEO
 author: Diane
 tags:

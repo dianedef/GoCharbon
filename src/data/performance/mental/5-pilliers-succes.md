@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Les Clés du Succès Entrepreneurial : Guide Complet"
 author: Diane
 tags:

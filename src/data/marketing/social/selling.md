@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Social Selling : Vendre sur les Réseaux Sociaux'
 author: Diane
 tags:

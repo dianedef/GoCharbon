@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Newsletter / Email Business
 author: Web Indé
 tags:

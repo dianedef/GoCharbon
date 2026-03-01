@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Blogging / Site de Contenu
 author: Web Indé
 tags:

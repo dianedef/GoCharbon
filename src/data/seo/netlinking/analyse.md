@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Analyse
 author: Diane
 tags:

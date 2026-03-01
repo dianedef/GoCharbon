@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Les Meilleurs Outils pour l'Affiliation
 author: Diane
 tags:

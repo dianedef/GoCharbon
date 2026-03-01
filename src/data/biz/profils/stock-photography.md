@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Stock Photography / Photographie et Vidéos Stock
 author: Web Indé
 tags:

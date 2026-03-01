@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: '2026-03-01'
 datePublié: null
 u_site: https://www.o2switch.fr
 u_affiAdmin: https://ui.awin.com/awin/affiliate/1176882/merchant-profile/13324#joinprog

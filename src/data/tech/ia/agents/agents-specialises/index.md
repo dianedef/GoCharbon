@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'AGENTS SPÉCIALISÉS : VUE D''ENSEMBLE'
 author: Diane
 tags:

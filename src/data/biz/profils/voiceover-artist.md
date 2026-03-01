@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Voiceover Artist / Comédien de Doublage
 author: Web Indé
 tags:

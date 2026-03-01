@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Web Scraping pour LLM : Créer ta Base de Connaissances en 1 Heure'
 author: Diane
 tags:

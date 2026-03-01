@@ -1,4 +1,5 @@
 ---
+section: tutos
 type: Blog
 statut:
 - backlog

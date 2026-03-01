@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Google Analytics
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Stratégie Email Marketing
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Content Marketing pour l'Affiliation
 author: Diane
 tags:

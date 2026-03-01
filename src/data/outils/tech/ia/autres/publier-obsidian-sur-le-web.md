@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Publier Obsidian Sur Le Web
 author: Diane
 tags:

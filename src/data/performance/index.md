@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Performance Web et Business : Guide Complet"
 author: Diane
 tags:

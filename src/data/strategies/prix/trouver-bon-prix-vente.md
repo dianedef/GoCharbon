@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Comment Trouver le Bon Prix de Vente : Guide Complet"
 author: Diane
 tags:

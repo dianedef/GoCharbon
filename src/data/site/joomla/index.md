@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Joomla : Guide Complet"
 author: Diane
 tags:

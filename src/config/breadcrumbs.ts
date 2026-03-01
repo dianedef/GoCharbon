@@ -9,6 +9,8 @@ export const breadcrumbsConfig: BreadcrumbsOptions = {
     "tech": "Technologie",
     "business": "Business",
     "apps": "Applications",
+    "tutos": "Tutoriels",
+    "parcours": "Parcours",
     "ia": "Intelligence Artificielle",
     "saas": "SaaS",
     "marketing": "Marketing"

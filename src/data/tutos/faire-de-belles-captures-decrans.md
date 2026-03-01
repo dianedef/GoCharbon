@@ -1,4 +1,5 @@
 ---
+section: tutos
 type: Tuto
 statut:
 - backlog

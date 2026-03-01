@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: AWZ Screen Recorder
 author: Diane
 tags:

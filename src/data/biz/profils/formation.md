@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Formation en Ligne
 author: Web Indé
 tags:

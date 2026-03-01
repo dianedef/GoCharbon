@@ -1,4 +1,5 @@
 ---
+section: tutos
 title: Comment Ajouter un Favicon à Son Site
 author: Diane
 tags:

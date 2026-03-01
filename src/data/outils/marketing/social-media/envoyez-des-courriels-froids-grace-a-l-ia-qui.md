@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Envoyez des courriels froids grâce à l'IA qui brise la glace et obtient des répo"
 author: Diane
 tags:

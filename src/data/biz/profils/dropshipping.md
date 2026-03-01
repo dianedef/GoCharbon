@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Dropshipping
 author: Web Indé
 tags:

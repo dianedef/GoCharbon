@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'AGENTS AUTONOMES : L''INTELLIGENCE EN ACTION'
 author: Diane
 tags:

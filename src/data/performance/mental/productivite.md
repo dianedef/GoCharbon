@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Maîtriser ta productivité
 author: Diane
 tags:

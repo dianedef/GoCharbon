@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Consulting / Conseil Stratégique
 author: Web Indé
 tags:

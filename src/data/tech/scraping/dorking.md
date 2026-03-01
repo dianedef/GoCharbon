@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Google Dorking : Les Techniques de Recherche Avancées qui Changent Tout'
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'IA en Médecine et Sciences : Révolution de la Recherche et des Soins'
 author: Diane
 tags:

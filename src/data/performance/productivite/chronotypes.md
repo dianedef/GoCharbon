@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Le Mythe des Lève-Tôt et des Couche-Tard
 author: Diane
 tags: ['Performance']

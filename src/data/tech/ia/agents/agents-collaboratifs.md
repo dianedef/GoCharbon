@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'AGENTS COLLABORATIFS : LA FORCE DU COLLECTIF'
 author: Diane
 tags:

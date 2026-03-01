@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Mental et Performance : Guide Complet"
 author: Diane
 tags:

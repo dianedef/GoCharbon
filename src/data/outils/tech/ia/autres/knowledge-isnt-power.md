@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Knowledge Isnt Power
 author: Diane
 tags:

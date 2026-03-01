@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Mobile First
 author: Diane
 tags:

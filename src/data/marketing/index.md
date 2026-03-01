@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Marketing Digital : Guide Complet"
 author: Diane
 tags:

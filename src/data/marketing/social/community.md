@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Community Management : Construire une Communauté Engagée'
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Agents IA : Comprendre les Fondamentaux'
 author: Diane
 tags:

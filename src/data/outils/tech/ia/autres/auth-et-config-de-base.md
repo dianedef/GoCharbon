@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Auth Et Config De Base
 author: Diane
 tags:

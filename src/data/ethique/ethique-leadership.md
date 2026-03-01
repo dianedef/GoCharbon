@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Éthique et Leadership : Entre Pouvoir et Responsabilité"
 author: Diane
 tags:

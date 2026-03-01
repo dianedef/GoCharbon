@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Optimisation de la Vitesse : Guide Complet"
 author: Diane
 tags:

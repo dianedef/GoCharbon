@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Écrire un Livre avec l''IA : LlamaEdgeBook et Plus'
 author: Diane
 tags:

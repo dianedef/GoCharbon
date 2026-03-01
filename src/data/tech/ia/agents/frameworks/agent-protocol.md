@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Agent Protocol : Le Standard Des Agents IA'
 author: Diane
 tags:

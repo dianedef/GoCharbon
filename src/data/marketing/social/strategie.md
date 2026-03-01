@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Stratégie Réseaux Sociaux : Guide Complet'
 author: Diane
 tags:

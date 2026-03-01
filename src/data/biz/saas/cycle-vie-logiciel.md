@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Cycle de Vie d''un Logiciel : Les 5 Étapes à Ne Pas Rater'
 author: Diane
 tags:

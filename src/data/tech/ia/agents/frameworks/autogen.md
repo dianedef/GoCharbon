@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Autogen : Les Agents Multi-Tâches De Microsoft'
 author: Diane
 tags:

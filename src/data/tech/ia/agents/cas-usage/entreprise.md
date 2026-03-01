@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Agents En Entreprise : Transformation Digitale'
 author: Diane
 tags:

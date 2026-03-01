@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Stratégie de Netlinking : Guide Complet"
 author: Diane
 tags:

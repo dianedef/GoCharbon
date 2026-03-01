@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'TYPES D''AGENTS IA : GUIDE COMPLET'
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Mes Services Freelance
 author: Diane
 tags:

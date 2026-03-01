@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Goals are for Losers, Systems are for Winners
 author: Diane
 tags:

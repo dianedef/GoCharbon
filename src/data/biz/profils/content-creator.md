@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Créateur de Contenu
 author: Web Indé
 tags:

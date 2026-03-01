@@ -4,5 +4,4 @@ Disallow: /apps/?page=
 Allow: /$
 Allow: /apps/$
 
-Host: https://gocharbon.com/
 Sitemap: https://gocharbon.com/sitemap-index.xml

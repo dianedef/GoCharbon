@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'LLM : Guide Complet des Modèles de Langage'
 author: Diane
 tags:

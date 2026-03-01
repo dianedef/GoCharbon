@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Analyse de la transcription"
 author: Diane
 tags:

@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Une solution tout-en-un très simple d’utilisation développée pourles freelances,"
 author: Diane
 tags:

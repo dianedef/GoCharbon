@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'ROI du SEO : Rentabiliser ton Trafic'
 author: Diane
 tags:

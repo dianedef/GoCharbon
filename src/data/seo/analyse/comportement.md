@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Analyse Comportementale SEO
 author: Diane
 tags:

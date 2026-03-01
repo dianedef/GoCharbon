@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Création de Contenu avec l'IA : Guide Pratique"
 author: Diane
 tags:

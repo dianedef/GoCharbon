@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Ghost : Guide Complet"
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Tutoriels
 title: Extraire Des Listes De Compta Insta

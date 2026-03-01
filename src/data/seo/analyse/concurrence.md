@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Analyse Concurrentielle SEO
 author: Diane
 tags:

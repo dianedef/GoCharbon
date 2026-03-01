@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Core Web Vitals
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Scraping IA : Les Outils qui Révolutionnent l'Extraction de Données"
 author: Diane
 tags:

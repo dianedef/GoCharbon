@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Les Ressources Indispensables pour Développeurs Web
 author: Diane
 tags:

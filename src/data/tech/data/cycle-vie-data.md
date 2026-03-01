@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Cycle de Vie des Données : De la Collecte à l'Archivage"
 author: Diane
 tags: ['Data']

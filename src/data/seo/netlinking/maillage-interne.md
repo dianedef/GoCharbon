@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Maillage Interne : Guide Complet'
 author: Diane
 tags:

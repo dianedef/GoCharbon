@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'NLP : Traitement du Langage Naturel'
 author: Diane
 tags:

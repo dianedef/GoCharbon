@@ -13,7 +13,12 @@ import type {
 
 type Props = BaseNavigationProps;
 
-const navigationItems: NavigationItem[] = [{ name: "Apps", url: "/apps" }];
+const navigationItems: NavigationItem[] = [
+	{ name: "Apps", url: "/apps" },
+	{ name: "Blog", url: "/blog" },
+	{ name: "Tutos", url: "/tutos" },
+	{ name: "Parcours", url: "/parcours" },
+];
 
 const socialIcons: SocialLink[] = [
 	{
@@ -130,7 +135,7 @@ const { pageTitle } = Astro.props;
 							<a
 								href={item.url}
 								target="_blank"
-								title={`'See @ElianCodes on ${item.name}`}
+								title={`Voir GoCharbon sur ${item.name}`}
 							>
 								<div
 									class:list={[item.icon, "w-6 h-6 md:w-7 md:h-7"]}
@@ -147,6 +152,70 @@ const { pageTitle } = Astro.props;
 		<nav class="md:hidden flex items-center gap-3">
 			<h2 class="hidden">Mobile Navigation</h2>
 			<ThemeToggle />
+			<button
+				id="mobile-menu-btn"
+				class="p-2 border-2 border-black dark:border-yellow-soft rounded"
+				aria-label="Ouvrir le menu"
+				aria-expanded="false"
+				aria-controls="mobile-menu"
+			>
+				<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+					<path id="hamburger-icon" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+					<path id="close-icon" class="hidden" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+				</svg>
+			</button>
 		</nav>
 	</div>
+	<!-- Mobile menu panel -->
+	<div id="mobile-menu" class="md:hidden hidden border-t-2 border-black dark:border-yellow-soft px-4 py-4">
+		<ul class="flex flex-col gap-4 poppins">
+			{
+				navigationItems.map((item) => (
+					<li>
+						<a
+							class="mobile-link text-lg font-medium block py-2"
+							href={item.url}
+						>
+							{item.name}
+						</a>
+					</li>
+				))
+			}
+		</ul>
+		<div class="border-t border-black/20 dark:border-white/20 my-3"></div>
+		<ul class="flex flex-wrap gap-4">
+			{
+				socialIcons.map((item) => (
+					<li>
+						<a
+							href={item.url}
+							target="_blank"
+							rel="noopener noreferrer"
+							title={`Voir GoCharbon sur ${item.name}`}
+							class="mobile-link"
+						>
+							<div class:list={[item.icon, "w-7 h-7"]} />
+						</a>
+					</li>
+				))
+			}
+		</ul>
+	</div>
 </header>
+
+<script>
+	document.addEventListener("astro:page-load", () => {
+		const btn = document.getElementById("mobile-menu-btn");
+		const menu = document.getElementById("mobile-menu");
+		const hamburgerIcon = document.getElementById("hamburger-icon");
+		const closeIcon = document.getElementById("close-icon");
+
+		btn?.addEventListener("click", () => {
+			const isOpen = menu?.classList.toggle("hidden") === false;
+			btn.setAttribute("aria-expanded", String(isOpen));
+			btn.setAttribute("aria-label", isOpen ? "Fermer le menu" : "Ouvrir le menu");
+			hamburgerIcon?.classList.toggle("hidden", isOpen);
+			closeIcon?.classList.toggle("hidden", !isOpen);
+		});
+	});
+</script>

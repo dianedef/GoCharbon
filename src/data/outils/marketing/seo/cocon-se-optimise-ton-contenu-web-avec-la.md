@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Cocon.se, Optimise Ton Contenu Web avec la Sémantique"
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: tutos
 type: tuto
 tags:
 - Tutoriels

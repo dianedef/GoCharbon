@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Chemin Business En Ligne
 author: Diane
 tags:

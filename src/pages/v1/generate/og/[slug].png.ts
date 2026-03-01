@@ -27,12 +27,15 @@ import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import satori from 'satori';
 import { html as toReactElement } from 'satori-html';
+import { readFileSync } from 'node:fs';
+import { resolve } from 'node:path';
 
-// Load font at module level (shared across all image generations)
-const fontFile = await fetch(
-  'https://og-playground.vercel.app/inter-latin-ext-700-normal.woff'
+// Load font at module level (shared across all image generations) without network dependency
+const fontBuffer = readFileSync(resolve(process.cwd(), 'public/fonts/poppins.ttf'));
+const fontData: ArrayBuffer = fontBuffer.buffer.slice(
+  fontBuffer.byteOffset,
+  fontBuffer.byteOffset + fontBuffer.byteLength
 );
-const fontData: ArrayBuffer = await fontFile.arrayBuffer();
 
 // Social media optimal dimensions
 const height = 630;  // Twitter/Facebook recommended height
@@ -89,7 +92,7 @@ export const GET: APIRoute = async ({ params, props }) => {
             <p style="font-size: 48px;">Brutal theme for Astro</p>
             <p style="font-size: 38px;">${title}</p>
           </div>
-          <img src="https://www.elian.codes/assets/img/elian.jpg" width="200px" height="200px" style="border: 3px solid black; border-radius: 0.5rem;" />
+          <div style="font-size: 30px; border: 3px solid black; border-radius: 0.5rem; padding: 0.75rem 1rem; height: fit-content;">GOCHARBON</div>
         </div>
         <div style="display: flex;">
           <p style="font-size: 24px;">${description}</p>
@@ -103,7 +106,7 @@ export const GET: APIRoute = async ({ params, props }) => {
   const svg = await satori(html, {
     fonts: [
       {
-        name: 'Inter Latin',
+        name: 'Poppins',
         data: fontData,
         style: 'normal',
       },

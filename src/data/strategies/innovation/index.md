@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Innovation
 author: Diane
 tags:

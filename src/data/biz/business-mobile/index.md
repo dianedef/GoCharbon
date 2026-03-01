@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Business Mobile : Guide Complet des Apps pour Gagner de l''Argent'
 author: Diane
 tags:

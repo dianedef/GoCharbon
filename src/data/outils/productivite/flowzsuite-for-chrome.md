@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "FlowzSuite for Chrome"
 author: Diane
 tags:

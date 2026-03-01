@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Loyoly (ex-Wiink)"
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: tutos
 title: Ajouter des icônes interactives sur vos publications réseaux sociaux
 author: Diane
 tags:

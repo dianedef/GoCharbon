@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: 'Cursor avec Modèles Locaux : Guide Complet'
 author: Diane
 tags:

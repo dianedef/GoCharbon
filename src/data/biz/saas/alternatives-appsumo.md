@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "AppSumo, c'est Fini ! Voici 10 Alternatives Qui Vont Vous Faire Économiser des Milliers d'Euros"
 author: Diane
 tags: ['Lifetime Deals']

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Finances
 author: Diane
 tags:

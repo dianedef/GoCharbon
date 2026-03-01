@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "📋 Avis sur Pairokay - Génération de Contenu par Intelligence Artificielle"
 author: Diane
 tags:

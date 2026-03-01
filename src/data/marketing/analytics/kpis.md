@@ -1,4 +1,5 @@
 ---
+section: blog
 title: KPIs Marketing
 author: Diane
 tags:

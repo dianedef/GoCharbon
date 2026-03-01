@@ -1,4 +1,5 @@
 ---
+section: blog
 title: UX Design
 author: Diane
 tags:

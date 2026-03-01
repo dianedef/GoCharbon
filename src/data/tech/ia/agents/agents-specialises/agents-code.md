@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Agents De Code : Les Assistants Du Développement'
 author: Diane
 tags:

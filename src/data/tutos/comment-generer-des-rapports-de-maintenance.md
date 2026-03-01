@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Tutoriels
 title: Comment Générer Des Rapports De Maintenance Wordpress Pour Vos Clients

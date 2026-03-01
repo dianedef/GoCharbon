@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "GESTION DES RISQUES : ANTICIPER POUR NE PAS SUBIR"
 author: Diane
 tags:

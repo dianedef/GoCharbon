@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Facteurs Classement
 author: Diane
 tags:

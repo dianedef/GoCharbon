@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "WcMultiShipping"
 author: Diane
 tags:

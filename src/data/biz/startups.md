@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Startups : Le Guide Complet pour Entreprendre et Innover"
 author: Diane
 tags:

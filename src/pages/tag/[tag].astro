@@ -57,10 +57,9 @@ const selectedTags = [originalTag];
 	>
 		<FilterTags
 			mainTags={mainTags}
-			tagHierarchy={tagHierarchy}
 			initialPosts={posts}
 			selectedTags={selectedTags}
-			client:load
+			client:visible
 		/>
 		{
 			posts.length === 0 && (

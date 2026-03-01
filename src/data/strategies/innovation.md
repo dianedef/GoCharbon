@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Les Fondamentaux de l''Innovation : Guide Complet'
 author: Diane
 tags:

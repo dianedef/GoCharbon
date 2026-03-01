@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Tutoriels
 title: Comment Installer Un Plugin Wordpress Sans Prendre Aucun Risque

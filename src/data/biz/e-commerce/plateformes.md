@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Guide Complet des Plateformes en Ligne
 author: Diane
 tags:

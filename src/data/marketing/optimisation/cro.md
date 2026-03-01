@@ -1,4 +1,5 @@
 ---
+section: blog
 title: CRO (Conversion Rate Optimization)
 author: Diane
 tags:

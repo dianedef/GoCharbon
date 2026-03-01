@@ -11,29 +11,37 @@
     </div>
 
     <div v-else-if="!isFinished" class="quiz-content">
-      <div class="progress-bar" ref="progressBarRef">
-        <div 
-          class="progress-fill" 
-          ref="progressFillRef"
+      <div class="quiz-nav">
+        <button
+          type="button"
+          class="quiz-btn secondary back-btn"
+          :disabled="!canGoBack"
+          @click="goBack"
+        >
+          ← Retour
+        </button>
+      </div>
+
+      <div class="progress-bar">
+        <div
+          class="progress-fill"
+          :style="{ width: progressPercent + '%' }"
         ></div>
       </div>
 
       <Transition
-        :css="false"
-        @enter="onEnter"
-        @leave="onLeave"
         mode="out-in"
       >
         <div :key="currentIndex" class="question-wrapper">
           <div class="question-card">
-            <span class="question-number">Question {{ currentIndex + 1 }} / {{ quizData.questions.length }}</span>
+            <span class="question-number">Question {{ currentIndex + 1 }} / {{ activeQuizData.questions.length }}</span>
             <h3 class="question-text">{{ currentQuestion.text }}</h3>
             
             <div class="answers-grid">
               <button
                 v-for="(option, index) in currentQuestion.options"
                 :key="index"
-                @click="submitAnswer(option.points)"
+                @click="submitAnswer(option, index)"
                 class="answer-btn"
               >
                 <span class="answer-icon">{{ option.icon }}</span>
@@ -49,8 +57,8 @@
       <h2 class="results-title">Ton Business Idéal :</h2>
       <div class="result-card">
         <div class="result-icon">{{ finalResultData.icon }}</div>
-        <h3 class="result-name">{{ finalResultData.title }}</h3>
-        <p class="result-description">{{ finalResultData.description }}</p>
+        <h3 class="result-name">{{ finalResultTitle }}</h3>
+        <p class="result-description">{{ finalResultDescription }}</p>
 
         <div class="result-insights">
           <p :class="['confidence-badge', confidenceLevel.level]">{{ confidenceLevel.label }}</p>
@@ -61,11 +69,11 @@
           <h4 class="top-two-title">Top 2 profils recommandés</h4>
           <div class="top-two-grid">
             <div class="top-two-card winner">
-              <span class="top-two-name">{{ finalResultData.icon }} {{ finalResultData.title }}</span>
+              <span class="top-two-name">{{ finalResultData.icon }} {{ finalResultTitle }}</span>
               <span class="top-two-score">{{ topResult.score }} pts</span>
             </div>
             <div class="top-two-card">
-              <span class="top-two-name">{{ secondResultData.icon }} {{ secondResultData.title }}</span>
+              <span class="top-two-name">{{ secondResultData.icon }} {{ secondResultTitle }}</span>
               <span class="top-two-score">{{ secondResult?.score ?? 0 }} pts</span>
             </div>
           </div>
@@ -77,12 +85,26 @@
           </li>
         </ul>
         <div class="result-actions">
+          <a v-if="finalBizProfile?.learningPathUrl" :href="finalBizProfile.learningPathUrl" class="quiz-btn primary">
+            Commencer le Parcours
+          </a>
+          <a v-if="finalBizProfile" :href="finalBizProfile.slug" class="quiz-btn primary">
+            Voir la Fiche
+          </a>
           <button @click="resetQuiz" class="quiz-btn secondary">
             Refaire le Quiz
           </button>
           <a href="/apps" class="quiz-btn primary">
             Voir les Apps
           </a>
+          <button
+            v-if="mode === 'quick'"
+            type="button"
+            class="quiz-btn primary"
+            @click="goToAdvancedQuiz"
+          >
+            Passer au Quiz Avancé
+          </button>
         </div>
       </div>
     </div>
@@ -90,15 +112,85 @@
 </template>
 
 <script setup lang="ts">
-import { ref, reactive, computed } from 'vue';
-import { gsap } from 'gsap';
-import { quizData } from '../../data/quizData.js';
+import { ref, reactive, computed, onMounted } from 'vue';
+
+type ProfileKey = 'ecommerce' | 'saas' | 'content' | 'service' | 'formation';
+type ProfileScores = Record<ProfileKey, number>;
+
+interface BizProfileData {
+  title: string;
+  description: string;
+  slug: string;
+  tags: string[];
+  learningPathUrl?: string;
+}
+
+interface QuizOption {
+  text: string;
+  icon: string;
+  points: Partial<ProfileScores>;
+  prefill?: {
+    questionId: number;
+    optionIndex: number;
+  };
+}
+
+interface QuizQuestion {
+  id: number;
+  text: string;
+  options: QuizOption[];
+}
+
+interface QuizResultData {
+  title: string;
+  icon: string;
+  description: string;
+  strengths: string[];
+}
+
+interface QuizPayload {
+  questions: QuizQuestion[];
+  results: Record<ProfileKey, QuizResultData>;
+}
+
+interface PrefillAnswer {
+  questionId: number;
+  optionIndex: number;
+}
+
+const props = withDefaults(
+  defineProps<{
+    bizProfiles?: Partial<Record<ProfileKey, BizProfileData | null>>;
+    data?: QuizPayload | null;
+    mode?: 'quick' | 'advanced';
+    prefillAnswers?: PrefillAnswer[];
+  }>(),
+  {
+    bizProfiles: () => ({}),
+    data: null,
+    mode: 'advanced',
+    prefillAnswers: () => [],
+  }
+);
+
+const emptyQuizData: QuizPayload = {
+  questions: [],
+  results: {
+    ecommerce: { title: 'E-commerce', icon: '🛒', description: '', strengths: [] },
+    saas: { title: 'SaaS', icon: '⚙️', description: '', strengths: [] },
+    content: { title: 'Contenu', icon: '🎥', description: '', strengths: [] },
+    service: { title: 'Service', icon: '🤝', description: '', strengths: [] },
+    formation: { title: 'Formation', icon: '📚', description: '', strengths: [] },
+  },
+};
 
 const quizStarted = ref(false);
 const isFinished = ref(false);
 const currentIndex = ref(0);
-const progressBarRef = ref<HTMLElement | null>(null);
-const progressFillRef = ref<HTMLElement | null>(null);
+const answerHistory = ref<Array<Partial<ProfileScores>>>([]);
+const selectedAnswers = ref<Array<{ questionId: number; optionIndex: number } | null>>([]);
+const prefilledQuestionIndexes = ref<Set<number>>(new Set());
+const sessionPrefillAnswers = ref<PrefillAnswer[]>([]);
 
 const scores = reactive({
   ecommerce: 0,
@@ -107,10 +199,10 @@ const scores = reactive({
   service: 0,
   formation: 0,
 });
-const profileKeys = ['ecommerce', 'saas', 'content', 'service', 'formation'] as const;
-type ProfileKey = (typeof profileKeys)[number];
+const profileKeys: ProfileKey[] = ['ecommerce', 'saas', 'content', 'service', 'formation'];
+const activeQuizData = computed<QuizPayload>(() => props.data ?? emptyQuizData);
 
-const currentQuestion = computed(() => quizData.questions[currentIndex.value]);
+const currentQuestion = computed(() => activeQuizData.value.questions[currentIndex.value]);
 
 const sortedResults = computed(() =>
   profileKeys
@@ -127,10 +219,28 @@ const topResult = computed(
 const secondResult = computed(() => sortedResults.value[1] ?? null);
 const finalResult = computed<ProfileKey>(() => topResult.value.profile);
 
-const finalResultData = computed(() => quizData.results[finalResult.value]);
+const finalResultData = computed(() => activeQuizData.value.results[finalResult.value]);
 const secondResultData = computed(() =>
-  secondResult.value ? quizData.results[secondResult.value.profile] : null
+  secondResult.value ? activeQuizData.value.results[secondResult.value.profile] : null
 );
+const finalBizProfile = computed(() => props.bizProfiles[finalResult.value] ?? null);
+const secondBizProfile = computed(() =>
+  secondResult.value ? props.bizProfiles[secondResult.value.profile] ?? null : null
+);
+
+const finalResultTitle = computed(() => finalBizProfile.value?.title ?? finalResultData.value.title);
+const finalResultDescription = computed(
+  () => finalBizProfile.value?.description ?? finalResultData.value.description
+);
+
+const secondResultTitle = computed(() => {
+  if (!secondResult.value) {
+    return '';
+  }
+
+  return secondBizProfile.value?.title ?? secondResultData.value?.title ?? '';
+});
+const mode = computed(() => props.mode);
 
 const confidenceLevel = computed(() => {
   const topScore = topResult.value.score;
@@ -160,70 +270,236 @@ const confidenceLevel = computed(() => {
   };
 });
 
-const startQuiz = () => {
-  quizStarted.value = true;
-};
+const answeredCount = computed(() =>
+  answerHistory.value.filter((answer) => answer && Object.keys(answer).length > 0).length
+);
+const progressPercent = computed(() => {
+  const total = activeQuizData.value?.questions?.length ?? 0;
+  if (!total) return 0;
+  return Math.round((answeredCount.value / total) * 100);
+});
+const canGoBack = computed(() => previousAnswerableIndex(currentIndex.value - 1) >= 0);
 
-const submitAnswer = (points: { [key: string]: number }) => {
-  for (const [profile, value] of Object.entries(points)) {
-    if (profile in scores) {
-      scores[profile as keyof typeof scores] += value;
+const buildPrefillPayload = () =>
+  selectedAnswers.value
+    .filter((item): item is { questionId: number; optionIndex: number } => item !== null)
+    .map((item) => {
+      const question = activeQuizData.value.questions.find((q) => q.id === item.questionId);
+      const option = question?.options[item.optionIndex];
+      return option?.prefill ?? null;
+    })
+    .filter(
+      (item): item is { questionId: number; optionIndex: number } =>
+        Boolean(item && Number.isInteger(item.questionId) && Number.isInteger(item.optionIndex))
+    );
+
+const advancedPrefillUrl = computed(() => {
+  const payload = buildPrefillPayload();
+  if (payload.length === 0) {
+    return '';
+  }
+  return `/quiz-avance?prefill=${encodeURIComponent(JSON.stringify(payload))}`;
+});
+
+const goToAdvancedQuiz = () => {
+  const payload = buildPrefillPayload();
+  if (typeof window === 'undefined') {
+    return;
+  }
+
+  try {
+    if (payload.length > 0) {
+      window.sessionStorage.setItem('quiz_prefill_answers', JSON.stringify(payload));
+    } else {
+      window.sessionStorage.removeItem('quiz_prefill_answers');
+    }
+  } catch {
+    // Ignore storage errors, fallback to query string if available.
+    if (advancedPrefillUrl.value) {
+      window.location.assign(advancedPrefillUrl.value);
+      return;
     }
   }
 
-  // Progression "snap" (sans easing/fade) pour rester cohérent avec le style brutaliste
-  if (progressFillRef.value) {
-    const progress = ((currentIndex.value + 1) / quizData.questions.length) * 100;
-    gsap.to(progressFillRef.value, {
-      width: `${progress}%`,
-      duration: 0.08,
-      ease: "none",
-    });
+  window.location.assign('/quiz-avance');
+};
+
+const addPoints = (points: Partial<ProfileScores>) => {
+  for (const [profile, value] of Object.entries(points)) {
+    if (profile in scores) {
+      scores[profile as keyof typeof scores] += value ?? 0;
+    }
+  }
+};
+
+const removePoints = (points: Partial<ProfileScores>) => {
+  for (const [profile, value] of Object.entries(points)) {
+    if (profile in scores) {
+      scores[profile as keyof typeof scores] -= value ?? 0;
+    }
+  }
+};
+
+const nextAnswerableIndex = (fromIndex: number) => {
+  let nextIndex = fromIndex;
+
+  while (
+    nextIndex < activeQuizData.value.questions.length &&
+    prefilledQuestionIndexes.value.has(nextIndex)
+  ) {
+    nextIndex += 1;
   }
 
-  if (currentIndex.value < quizData.questions.length - 1) {
-    currentIndex.value++;
+  return nextIndex;
+};
+
+const previousAnswerableIndex = (fromIndex: number) => {
+  let previousIndex = fromIndex;
+
+  while (previousIndex >= 0 && prefilledQuestionIndexes.value.has(previousIndex)) {
+    previousIndex -= 1;
+  }
+
+  return previousIndex;
+};
+
+const updateProgressBar = () => {
+  // Progression geree en CSS via progressPercent.
+};
+
+const applyPrefillAnswers = () => {
+  const rawPrefill =
+    props.prefillAnswers.length > 0 ? props.prefillAnswers : sessionPrefillAnswers.value;
+
+  if (mode.value !== 'advanced' || rawPrefill.length === 0) {
+    return;
+  }
+
+  const parsed = rawPrefill
+    .filter(
+      (item) =>
+        Number.isInteger(item.questionId) &&
+        Number.isInteger(item.optionIndex) &&
+        item.optionIndex >= 0
+    )
+    .slice(0, 12);
+
+  parsed.forEach((prefill) => {
+    const questionIndex = activeQuizData.value.questions.findIndex((q) => q.id === prefill.questionId);
+
+    if (questionIndex === -1) {
+      return;
+    }
+
+    const option = activeQuizData.value.questions[questionIndex]?.options?.[prefill.optionIndex];
+
+    if (!option) {
+      return;
+    }
+
+    addPoints(option.points);
+    answerHistory.value[questionIndex] = { ...option.points };
+    selectedAnswers.value[questionIndex] = {
+      questionId: prefill.questionId,
+      optionIndex: prefill.optionIndex,
+    };
+    prefilledQuestionIndexes.value.add(questionIndex);
+  });
+};
+
+onMounted(() => {
+  if (mode.value !== 'advanced' || props.prefillAnswers.length > 0 || typeof window === 'undefined') {
+    return;
+  }
+
+  try {
+    const raw = window.sessionStorage.getItem('quiz_prefill_answers');
+    if (!raw) {
+      return;
+    }
+
+    const parsed = JSON.parse(raw);
+    if (Array.isArray(parsed)) {
+      sessionPrefillAnswers.value = parsed.filter(
+        (item) =>
+          item &&
+          Number.isInteger(item.questionId) &&
+          Number.isInteger(item.optionIndex) &&
+          item.optionIndex >= 0
+      );
+    }
+
+    window.sessionStorage.removeItem('quiz_prefill_answers');
+  } catch {
+    sessionPrefillAnswers.value = [];
+  }
+});
+
+const startQuiz = () => {
+  if (!quizStarted.value) {
+    applyPrefillAnswers();
+    currentIndex.value = nextAnswerableIndex(0);
+    if (currentIndex.value >= activeQuizData.value.questions.length) {
+      isFinished.value = true;
+    }
+  }
+
+  quizStarted.value = true;
+  updateProgressBar();
+};
+
+const submitAnswer = (option: QuizOption, optionIndex: number) => {
+  const points = option.points;
+  answerHistory.value[currentIndex.value] = { ...points };
+  selectedAnswers.value[currentIndex.value] = {
+    questionId: currentQuestion.value.id,
+    optionIndex,
+  };
+
+  addPoints(points);
+
+  updateProgressBar();
+
+  const nextIndex = nextAnswerableIndex(currentIndex.value + 1);
+
+  if (nextIndex < activeQuizData.value.questions.length) {
+    currentIndex.value = nextIndex;
   } else {
     isFinished.value = true;
   }
+};
+
+const goBack = () => {
+  const previousIndex = previousAnswerableIndex(currentIndex.value - 1);
+
+  if (previousIndex < 0) {
+    return;
+  }
+
+  const previousPoints = answerHistory.value[previousIndex];
+
+  if (previousPoints && Object.keys(previousPoints).length > 0) {
+    removePoints(previousPoints);
+  }
+
+  answerHistory.value[previousIndex] = {};
+  selectedAnswers.value[previousIndex] = null;
+  currentIndex.value = previousIndex;
+  updateProgressBar();
 };
 
 const resetQuiz = () => {
   quizStarted.value = false;
   isFinished.value = false;
   currentIndex.value = 0;
+  answerHistory.value = [];
+  selectedAnswers.value = [];
+  prefilledQuestionIndexes.value = new Set();
   
   Object.keys(scores).forEach((key) => {
     scores[key as keyof typeof scores] = 0;
   });
 
-  if (progressFillRef.value) {
-    gsap.set(progressFillRef.value, { width: '0%' });
-  }
-};
-
-// GSAP Animation Hooks — slide vertical
-const onEnter = (el: Element, done: () => void) => {
-  gsap.fromTo(el,
-    { y: 60, opacity: 0 },
-    {
-      y: 0,
-      opacity: 1,
-      duration: 0.25,
-      ease: "power2.out",
-      onComplete: done
-    }
-  );
-};
-
-const onLeave = (el: Element, done: () => void) => {
-  gsap.to(el, {
-    y: -40,
-    opacity: 0,
-    duration: 0.18,
-    ease: "power2.in",
-    onComplete: done
-  });
 };
 </script>
 
@@ -293,6 +569,24 @@ const onLeave = (el: Element, done: () => void) => {
   box-shadow: 3px 3px 0 var(--brand-black);
 }
 
+.quiz-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: 5px 5px 0 var(--brand-black);
+}
+
+.quiz-nav {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 1rem;
+}
+
+.back-btn {
+  padding: 0.65rem 1rem;
+  font-size: 1rem;
+}
+
 .progress-bar {
   width: 100%;
   height: 16px;
@@ -306,10 +600,26 @@ const onLeave = (el: Element, done: () => void) => {
   width: 0%;
   height: 100%;
   background-color: var(--brand-yellow);
+  transition: width 120ms linear;
 }
 
 .question-wrapper {
   min-height: 420px;
+}
+
+:deep(.v-enter-active),
+:deep(.v-leave-active) {
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+:deep(.v-enter-from) {
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+:deep(.v-leave-to) {
+  opacity: 0;
+  transform: translateY(-20px);
 }
 
 .question-card {

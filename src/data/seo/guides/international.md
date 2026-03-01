@@ -1,4 +1,5 @@
 ---
+section: blog
 title: International
 author: Diane
 tags:

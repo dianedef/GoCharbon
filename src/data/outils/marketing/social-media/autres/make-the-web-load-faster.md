@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Make The Web Load Faster
 author: Diane
 tags:

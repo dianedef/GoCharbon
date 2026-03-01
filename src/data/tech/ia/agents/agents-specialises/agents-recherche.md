@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Agents De Recherche : L''exploration Augmentée'
 author: Diane
 tags:

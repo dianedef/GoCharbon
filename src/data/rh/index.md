@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Guide Complet des Ressources Humaines
 author: Diane
 tags:

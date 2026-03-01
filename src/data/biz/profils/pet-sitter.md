@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Pet Sitter (Garde d'animaux)
 author: Web Indé
 tags:

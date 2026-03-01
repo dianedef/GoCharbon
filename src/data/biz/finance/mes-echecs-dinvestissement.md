@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Mes Échecs d''Investissement : La Vérité Brute'
 author: Diane
 tags:

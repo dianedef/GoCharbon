@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: 'Enregistreur d''Écran Pas Cher : Guide Complet'
 author: Diane
 tags:

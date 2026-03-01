@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "SaaS : Le Guide Complet pour Créer un Logiciel en Abonnement"
 author: Diane
 tags:

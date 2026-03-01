@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Web Scraping : 10 Cas d'Usage Qui Vont Booster Ton Business"
 author: Diane
 tags:

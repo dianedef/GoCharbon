@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Tutoriels
 title: Trouver Une Identité À Partir D'Une Photo En Quelques Secondes

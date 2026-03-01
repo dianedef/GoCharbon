@@ -8,6 +8,8 @@ const postCollection = defineCollection({
       title: z.string(),
       author: z.string(),
       tags: z.array(z.string()),
+      section: z.enum(["blog", "apps", "tutos", "parcours"]).optional(),
+      metadataEnrichedAt: z.string().nullable().optional(),
       description: z.string(),
       pubDate: z.string().transform((str) => new Date(str)),
       imgUrl: image(),

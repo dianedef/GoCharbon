@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Améliore ton suivi des mots-clés avec les outils de surveillance de YouTube"
 author: Diane
 tags:

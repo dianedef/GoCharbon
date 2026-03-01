@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Les Techniques de Neuromarketing Dévoilées
 author: Psychology Expert
 tags:

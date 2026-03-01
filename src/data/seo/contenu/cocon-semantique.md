@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Cocon Sémantique : Guide Complet"
 author: Diane
 tags:

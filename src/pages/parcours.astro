@@ -1,0 +1,119 @@
+---
+import Layout from "../layouts/Default.astro";
+import { learningPaths } from "../data/parcoursData";
+import { getParcoursSlug } from "../data/parcoursSlugs";
+
+const sortedPaths = [...learningPaths].sort((a, b) => a.profileTitle.localeCompare(b.profileTitle, 'fr'));
+---
+
+<Layout
+  title="Parcours Business - GOCHARBON"
+  description="Tous les parcours d'apprentissage business en ligne: du niveau debutant a l'execution terrain, par profil metier."
+  pageTitle="Parcours"
+>
+  <main class="min-h-screen bg-yellow-soft dark:bg-black py-12 md:py-20">
+    <div class="container mx-auto px-4">
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-10">
+          <h1 class="text-4xl md:text-5xl font-bold mb-4 poppins text-black dark:text-yellow-soft">
+            Parcours d'Apprentissage Business
+          </h1>
+          <p class="text-lg md:text-xl text-gray-700 dark:text-gray-300">
+            42 parcours relies a vos profils business, avec fondations communes + specialisation + execution.
+          </p>
+        </div>
+
+        <div class="paths-grid">
+          {sortedPaths.map((path) => (
+            <a href={`/parcours/${getParcoursSlug(path.id)}`} class="path-card">
+              <p class="path-category">{path.category}</p>
+              <h2>{path.profileTitle}</h2>
+              <p>{path.outcome}</p>
+              <div class="path-meta">
+                <span>{path.modules.length} modules</span>
+                <span>{path.estimatedDuration}</span>
+              </div>
+              <span class="path-cta">Voir le parcours →</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </main>
+</Layout>
+
+<style>
+  .container {
+    max-width: 1280px;
+  }
+
+  .paths-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+
+  .path-card {
+    display: block;
+    text-decoration: none;
+    color: var(--brand-black);
+    background: var(--brand-cream);
+    border: 3px solid var(--brand-black);
+    box-shadow: 5px 5px 0 var(--brand-black);
+    padding: 1rem;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .path-card:hover {
+    transform: translate(2px, 2px);
+    box-shadow: 3px 3px 0 var(--brand-black);
+    background: var(--brand-yellow);
+  }
+
+  .path-card h2 {
+    margin: 0.3rem 0 0.5rem;
+    font-size: 1.35rem;
+  }
+
+  .path-card p {
+    margin: 0.2rem 0;
+    line-height: 1.45;
+  }
+
+  .path-category {
+    display: inline-block;
+    border: 2px solid var(--brand-black);
+    font-family: "Sanchez", serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    padding: 0.15rem 0.4rem;
+  }
+
+  .path-meta {
+    display: flex;
+    gap: 0.5rem;
+    margin: 0.6rem 0;
+    font-size: 0.9rem;
+  }
+
+  .path-cta {
+    font-weight: 700;
+  }
+
+  :global(.dark) .path-card {
+    color: var(--brand-cream);
+    background: var(--brand-ink);
+    border-color: var(--brand-cream);
+    box-shadow: 5px 5px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .path-card:hover {
+    background: var(--brand-charcoal);
+    box-shadow: 3px 3px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .path-category {
+    border-color: var(--brand-cream);
+  }
+</style>

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Innovation Technologique 2024 : La Méthode pour Propulser ton Business vers
   une Croissance Explosive'
 author: Diane

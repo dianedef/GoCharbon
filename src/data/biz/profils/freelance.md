@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Freelance / Services en Ligne
 author: Web Indé
 tags:

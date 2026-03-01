@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Indicateurs
 author: Diane
 tags:

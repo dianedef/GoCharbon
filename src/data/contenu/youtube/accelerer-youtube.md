@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Comment Accélérer YouTube en 2026
 author: Diane
 tags:

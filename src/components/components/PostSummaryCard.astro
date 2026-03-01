@@ -59,12 +59,11 @@ const buttonColor = 'var(--brand-copper)';
 	}
 </style>
 
-<div transition:name={`post-${post.id}`}>
+<div>
 	<Card color="var(--brand-cream)">
 		<div class="p-4 rounded-lg transition-colors dark:bg-black">
 			<h3
 				class="post-title poppins text-3xl md:text-4xl font-bold"
-				transition:name={`title-${post.id}`}
 			>
 				{data.title}
 			</h3>
@@ -73,13 +72,12 @@ const buttonColor = 'var(--brand-copper)';
 			>
 				<Image
 					src={data.imgUrl}
-					alt={data.title}
+					alt={data.description}
 					width={800}
 					height={400}
 					loading={isInitialLoad ? "eager" : "lazy"}
 					decoding={isInitialLoad ? "sync" : "async"}
 					class="rounded h-full w-full object-cover"
-					transition:name={`image-${post.id}`}
 				/>
 			</div>
 			<p class="post-description poppins text-xl md:text-2xl leading-relaxed">
@@ -130,10 +128,3 @@ const buttonColor = 'var(--brand-copper)';
 	</Card>
 </div>
 
-<style>
-	::view-transition-old(*),
-	::view-transition-new(*) {
-		animation-duration: 0.3s;
-		animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-	}
-</style>

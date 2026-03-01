@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Feedback
 author: Diane
 tags:

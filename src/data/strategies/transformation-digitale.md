@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Transformation Digitale : Guide Complet'
 author: Diane
 tags:

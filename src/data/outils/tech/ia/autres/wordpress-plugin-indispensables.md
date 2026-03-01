@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Wordpress Plugin Indispensables
 author: Diane
 tags:

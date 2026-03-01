@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Créer Un Crawler Qui Résume Le Site Web Entier D'Une Application
 author: Diane
 tags:

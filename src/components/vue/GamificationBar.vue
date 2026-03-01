@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed, onMounted, watch } from 'vue'
+import { ref, computed, onMounted, onBeforeUnmount, watch } from 'vue'
 import {
   useGamification,
   AchievementToast,
@@ -7,6 +7,14 @@ import {
 } from '@diane-winflowz/gamification'
 import type { Badge } from '@diane-winflowz/gamification'
 import { createCharbonConfig } from '../../gamification/config'
+import { learningPaths } from '../../data/parcoursData'
+import {
+  autoCompleteStepsFromVisitedPath,
+  buildPathDescriptors,
+  getPathStats,
+  type PathStats,
+} from '../../gamification/pathProgress'
+import { awardReadXp, getXpLevel, getXpState, setTaskCompleted, type XpState } from '../../gamification/xp'
 
 const props = defineProps<{
   slug: string
@@ -25,12 +33,54 @@ config.onBadgeEarned = (badge: Badge) => {
 const { reader, streak, badges, markAsRead } = useGamification(config)
 
 const recentBadges = computed(() => badges.earned.value.slice(-3))
+const pathDescriptors = buildPathDescriptors(learningPaths)
+const pathStats = ref<PathStats>({
+  activePaths: 0,
+  completedPaths: 0,
+  totalPaths: pathDescriptors.length,
+  completedSteps: 0,
+  totalSteps: pathDescriptors.reduce((acc, item) => acc + item.totalSteps, 0),
+  percent: 0,
+})
+const xp = ref<XpState>({
+  totalXp: 0,
+  readXp: 0,
+  taskXp: 0,
+  readCount: 0,
+  completedTaskCount: 0,
+})
+const xpLevel = computed(() => getXpLevel(xp.value.totalXp))
+
+function refreshPathStats() {
+  pathStats.value = getPathStats(pathDescriptors)
+}
+
+function refreshXp() {
+  xp.value = getXpState()
+}
 
 onMounted(() => {
   mounted.value = true
+  refreshPathStats()
+  refreshXp()
+  window.addEventListener('storage', refreshPathStats)
+  window.addEventListener('storage', refreshXp)
   if (props.slug) {
     markAsRead(props.slug, props.category)
+    xp.value = awardReadXp(props.slug)
+    const autoCompleted = autoCompleteStepsFromVisitedPath(learningPaths, `/${props.slug}`)
+    if (autoCompleted.length > 0) {
+      for (const item of autoCompleted) {
+        xp.value = setTaskCompleted(`${item.pathId}::${item.stepKey}`, true, item.stepType)
+      }
+      refreshPathStats()
+    }
   }
+})
+
+onBeforeUnmount(() => {
+  window.removeEventListener('storage', refreshPathStats)
+  window.removeEventListener('storage', refreshXp)
 })
 
 watch(
@@ -38,6 +88,14 @@ watch(
   (newSlug) => {
     if (newSlug && mounted.value) {
       markAsRead(newSlug, props.category)
+      xp.value = awardReadXp(newSlug)
+      const autoCompleted = autoCompleteStepsFromVisitedPath(learningPaths, `/${newSlug}`)
+      if (autoCompleted.length > 0) {
+        for (const item of autoCompleted) {
+          xp.value = setTaskCompleted(`${item.pathId}::${item.stepKey}`, true, item.stepType)
+        }
+        refreshPathStats()
+      }
     }
   }
 )
@@ -65,6 +123,14 @@ watch(
         >
           {{ badge.icon }}
         </span>
+      </div>
+
+      <div class="path-section">
+        <span class="path-count">🎯 {{ pathStats.completedSteps }} étapes</span>
+      </div>
+
+      <div class="xp-section">
+        <span class="xp-count">⭐ N{{ xpLevel.level }} • {{ xp.totalXp }} XP</span>
       </div>
 
       <div class="read-section">
@@ -153,6 +219,18 @@ watch(
   border-left: 2px solid currentColor;
   padding-left: 0.75rem;
   opacity: 0.8;
+}
+
+.path-section {
+  border-left: 2px solid currentColor;
+  padding-left: 0.75rem;
+  opacity: 0.85;
+}
+
+.xp-section {
+  border-left: 2px solid currentColor;
+  padding-left: 0.75rem;
+  opacity: 0.9;
 }
 
 .toast-wrapper {

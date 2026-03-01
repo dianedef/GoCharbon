@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Shopify : Guide Complet"
 author: Diane
 tags:

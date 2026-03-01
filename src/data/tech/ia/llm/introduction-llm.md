@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'LLM : Comprendre les Modèles de Langage'
 author: Diane
 tags:

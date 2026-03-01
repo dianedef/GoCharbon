@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Guide Complet du Business en Ligne
 author: Diane
 tags:

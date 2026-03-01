@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Tutoriels
 title: Comment Effectuer La Maintenance D'Un Site Wordpress

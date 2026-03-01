@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Lipitt (Equos)"
 author: Diane
 tags:

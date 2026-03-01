@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Plus de 20% du trafic organique de Google provient de la recherche d'images"
 author: Diane
 tags:

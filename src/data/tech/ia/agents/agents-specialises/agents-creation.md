@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Agents De Création : L''art Et Le Contenu Intelligent'
 author: Diane
 tags:

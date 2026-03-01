@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Black Hat SEO & Automatisation : Le Guide No Bullshit"
 author: Diane
 tags:

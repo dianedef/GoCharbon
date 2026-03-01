@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Histoire des LLM : De BERT à Claude 3.5'
 author: Diane
 tags:

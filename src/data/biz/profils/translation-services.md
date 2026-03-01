@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Translation Services / Services de Traduction
 author: Web Indé
 tags:

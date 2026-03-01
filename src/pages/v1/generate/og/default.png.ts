@@ -2,12 +2,14 @@ import { Resvg, type ResvgRenderOptions } from '@resvg/resvg-js';
 import type { APIRoute } from 'astro';
 import satori from 'satori';
 import { html as toReactElement } from 'satori-html';
+import { readFileSync } from 'node:fs';
+import { resolve } from 'node:path';
 
-const fontFile = await fetch(
-  'https://og-playground.vercel.app/inter-latin-ext-700-normal.woff'
+const fontBuffer = readFileSync(resolve(process.cwd(), 'public/fonts/poppins.ttf'));
+const fontData: ArrayBuffer = fontBuffer.buffer.slice(
+  fontBuffer.byteOffset,
+  fontBuffer.byteOffset + fontBuffer.byteLength
 );
-
-const fontData: ArrayBuffer = await fontFile.arrayBuffer();
 
 const height = 630;
 const width = 1200;
@@ -25,7 +27,7 @@ export const GET: APIRoute = async () => {
         </div>
         <div style="display: flex; justify-content: space-between; align-items: baseline; padding-top: -2rem;">
           <p style="font-size: 32px">${link}</p>
-          <img src="https://www.elian.codes/assets/img/elian.jpg" width="200px" height="200px" style="border: 3px solid black; border-radius: 0.5rem;" />
+          <div style="font-size: 32px; border: 3px solid black; border-radius: 0.5rem; padding: 0.75rem 1rem;">GOCHARBON</div>
         </div>
       </div>
     </div>
@@ -35,7 +37,7 @@ export const GET: APIRoute = async () => {
   const svg = await satori(html, {
     fonts: [
       {
-        name: 'Inter Latin',
+        name: 'Poppins',
         data: fontData,
         style: 'normal',
       },

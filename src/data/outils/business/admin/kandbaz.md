@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Kandbaz : Révolutionnez Votre Domiciliation d'Entreprise En Ligne"
 author: Diane
 tags:

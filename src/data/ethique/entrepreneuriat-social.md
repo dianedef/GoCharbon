@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Entrepreneuriat Social
 author: Diane
 tags:

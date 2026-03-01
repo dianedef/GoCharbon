@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "OUTILS BUSINESS & GESTION FRANÇAIS"
 author: Diane
 tags:

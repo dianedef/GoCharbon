@@ -1,4 +1,5 @@
 ---
+section: blog
 tags:
 - Productivité
 imageNameKey: null

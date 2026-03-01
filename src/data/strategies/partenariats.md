@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Partenariats Stratégiques : Guide Complet"
 author: Diane
 tags:

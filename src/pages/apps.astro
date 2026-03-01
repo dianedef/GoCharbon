@@ -3,19 +3,10 @@ import { getCollection } from "astro:content";
 import Layout from "../layouts/Default.astro";
 import FilterTags from "../components/components/FilterTags.vue";
 import { tagHierarchy } from "../components/tagHierarchy";
-import colors from "../components/config/colors.json";
-import type { TagHierarchy } from "../utils/types/tags";
+import { applyContentScope } from "../utils/content-section";
 
-const posts = await getCollection("posts")
-	.then((collection) =>
-		collection.filter((post) =>
-			post.data.tags
-				.map((tag: string) => tag.toLowerCase())
-				.includes("apps"),
-		),
-	)
-	.then((filtered) => filtered.reverse())
-	.then((sorted) => sorted.slice(0, 15));
+const posts = applyContentScope(await getCollection("posts"), "apps")
+	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 
 const mainTags = Object.keys(tagHierarchy);
 ---
@@ -28,8 +19,8 @@ const mainTags = Object.keys(tagHierarchy);
 			<FilterTags
 				client:visible
 				mainTags={mainTags}
-				tagHierarchy={tagHierarchy}
 				initialPosts={posts}
+				scope="apps"
 			/>
 		</div>
 	</main>

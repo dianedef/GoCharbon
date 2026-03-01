@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "EasyA Solutions"
 author: Diane
 tags:

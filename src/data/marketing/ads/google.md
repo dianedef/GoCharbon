@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Google Ads - Guide Complet
 author: Diane
 tags:

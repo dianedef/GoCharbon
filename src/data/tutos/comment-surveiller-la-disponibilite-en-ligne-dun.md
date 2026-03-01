@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Tutoriels
 title: Comment Surveiller La Disponibilité En Ligne D'Un Site Wordpress

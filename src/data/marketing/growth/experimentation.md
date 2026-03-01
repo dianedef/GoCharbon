@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Expérimentation Growth
 author: Diane
 tags:

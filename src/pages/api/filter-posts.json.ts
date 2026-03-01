@@ -23,6 +23,7 @@
 import type { APIRoute } from 'astro';
 import { getFilteredPosts, isCommonCombination } from '../../utils/static-responses';
 import { commonCombinations, cacheConfig } from '../../config/tags';
+import { parseContentScope } from '../../utils/content-section';
 
 /**
  * Pre-generates static routes for common tag combinations
@@ -73,9 +74,10 @@ export const GET: APIRoute = async ({ url, props }) => {
         const tags = searchParams.getAll('tags').map(tag => tag.toLowerCase());
         const page = parseInt(searchParams.get('page') || '1');
         const perPage = parseInt(searchParams.get('perPage') || '15');
+        const scope = parseContentScope(searchParams.get('scope'));
 
         // Apply filtering logic (handles tag hierarchy and normalization)
-        const posts = await getFilteredPosts(tags, page);
+        const posts = await getFilteredPosts(tags, page, scope, perPage);
         
         // Determine if this is a pre-generated (static) or dynamic route
         // Static routes get longer cache for better performance
@@ -86,6 +88,7 @@ export const GET: APIRoute = async ({ url, props }) => {
 
         return new Response(JSON.stringify({
             tags,
+            scope,
             posts,
             page,
             perPage,

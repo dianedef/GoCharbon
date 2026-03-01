@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: ShopCaisse
 author: Diane
 tags:

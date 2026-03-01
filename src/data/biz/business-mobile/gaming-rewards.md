@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Business Mobile : Gaming et Rewards'
 author: Diane
 tags:

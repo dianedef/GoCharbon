@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Magento : Guide Complet"
 author: Diane
 tags:

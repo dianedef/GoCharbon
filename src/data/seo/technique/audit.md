@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Guide Complet de l'Audit SEO Technique"
 author: Diane
 tags:

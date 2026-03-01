@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "WordPress : Guide Complet"
 author: Diane
 tags:

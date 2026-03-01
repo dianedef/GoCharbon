@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Comprendre les scores d’optimisation seo (soseo) et de danger seo (dseo) de your"
 author: Diane
 tags:

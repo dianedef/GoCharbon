@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Les Données : Le Nouveau Pétrole de l'Économie Numérique"
 author: Tech Expert
 tags: ['Data']

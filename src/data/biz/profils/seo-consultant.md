@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: SEO Consultant / Consultant en Référencement Naturel
 author: Web Indé
 tags:

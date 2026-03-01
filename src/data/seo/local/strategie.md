@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Stratégie SEO Local : Guide Complet'
 author: Diane
 tags:

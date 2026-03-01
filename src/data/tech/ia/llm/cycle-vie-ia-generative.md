@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Cycle de Vie des Modèles d'IA Générative : Du Développement au Monitoring"
 author: Diane
 tags: ['IA']

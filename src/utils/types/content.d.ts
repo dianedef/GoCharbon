@@ -38,6 +38,7 @@ export interface FilterTagsProps {
   mainTags: string[];
   tagHierarchy: TagHierarchy;
   initialPosts: Post[];
+  scope?: "all" | "apps" | "blog" | "tutos" | "parcours";
 }
 
 export interface PostMetadata {

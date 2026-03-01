@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Champ Sémantique SEO : Guide Complet"
 author: Diane
 tags:

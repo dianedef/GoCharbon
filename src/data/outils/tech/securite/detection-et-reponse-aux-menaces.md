@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Détection et réponse aux menaces"
 author: Diane
 tags:

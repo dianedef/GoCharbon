@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: App Developer / Développeur d'applications mobiles
 author: Web Indé
 tags:

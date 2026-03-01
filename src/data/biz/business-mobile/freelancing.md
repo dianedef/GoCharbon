@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Business Mobile : Freelancing'
 author: Diane
 tags:

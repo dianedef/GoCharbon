@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'VPN : Est-ce Vraiment Indispensable en 2026 ?'
 author: Diane
 tags:

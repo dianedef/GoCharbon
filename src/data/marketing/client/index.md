@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Guide Complet de la Relation Client
 author: Diane
 tags:

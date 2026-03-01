@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Aspects Légaux de l'Affiliation"
 author: Diane
 tags:

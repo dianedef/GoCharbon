@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "SwiftRead"
 author: Diane
 tags:

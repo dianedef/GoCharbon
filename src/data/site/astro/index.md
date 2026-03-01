@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Astro : Guide Complet'
 author: Diane
 tags:

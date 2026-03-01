@@ -14,6 +14,7 @@ import { getCollection } from 'astro:content';
 import type { Post } from './types/content';
 import { commonCombinations, paginationConfig } from '../config/tags';
 import { tagHierarchy } from '../components/tagHierarchy';
+import { applyContentScope, type ContentScope } from './content-section';
 
 /**
  * Normalise une chaîne en retirant les accents et en mettant en minuscules
@@ -58,9 +59,6 @@ function normalizeString(str: string): string {
  * // "seo" est ignoré car il a un sous-tag sélectionné
  */
 function groupTagsByParent(tags: string[]): { mainTags: string[], subTagsByParent: { [key: string]: string[] } } {
-    console.log('=== Début groupTagsByParent ===');
-    console.log('Tags reçus:', tags);
-    
     const mainTags: string[] = [];
     const subTagsByParent: { [key: string]: string[] } = {};
     const parentsToIgnore = new Set<string>();
@@ -68,20 +66,14 @@ function groupTagsByParent(tags: string[]): { mainTags: string[], subTagsByParen
     // D'abord, identifier tous les sous-tags et marquer leurs parents comme à ignorer
     tags.forEach(tag => {
         const normalizedTag = normalizeString(tag);
-        console.log(`\nAnalyse du tag "${tag}" (normalisé: "${normalizedTag}")`);
-        
+
         for (const [parentTag, data] of Object.entries(tagHierarchy)) {
             const normalizedParentTag = normalizeString(parentTag);
-            console.log(`- Vérification avec le parent "${parentTag}" (normalisé: "${normalizedParentTag}")`);
-            
+
             if (data.subtags) {
-                const subtags = Object.keys(data.subtags);
-                console.log(`  Sous-tags disponibles:`, subtags);
-                const normalizedSubtags = subtags.map(t => normalizeString(t));
-                console.log(`  Sous-tags normalisés:`, normalizedSubtags);
-                
+                const normalizedSubtags = Object.keys(data.subtags).map(t => normalizeString(t));
+
                 if (normalizedSubtags.includes(normalizedTag)) {
-                    console.log(`  ✓ Le tag "${tag}" est un sous-tag de "${parentTag}"`);
                     if (!subTagsByParent[parentTag]) {
                         subTagsByParent[parentTag] = [];
                     }
@@ -92,28 +84,15 @@ function groupTagsByParent(tags: string[]): { mainTags: string[], subTagsByParen
         }
     });
 
-    console.log('\nParents à ignorer:', Array.from(parentsToIgnore));
-
     // Ensuite, ajouter uniquement les tags principaux qui n'ont pas de sous-tags sélectionnés
     tags.forEach(tag => {
         const normalizedTag = normalizeString(tag);
-        console.log(`\nVérification si "${tag}" est un tag principal`);
         if (Object.keys(tagHierarchy).some(t => normalizeString(t) === normalizedTag)) {
             if (!parentsToIgnore.has(normalizedTag)) {
-                console.log(`✓ "${tag}" est un tag principal et n'a pas de sous-tags sélectionnés`);
                 mainTags.push(tag);
-            } else {
-                console.log(`✗ "${tag}" est ignoré car il a des sous-tags sélectionnés`);
             }
-        } else {
-            console.log(`- "${tag}" n'est pas un tag principal`);
         }
     });
-
-    console.log('\nRésultat final:');
-    console.log('Tags principaux:', mainTags);
-    console.log('Sous-tags par parent:', subTagsByParent);
-    console.log('=== Fin groupTagsByParent ===\n');
 
     return { mainTags, subTagsByParent };
 }
@@ -131,8 +110,13 @@ function groupTagsByParent(tags: string[]): { mainTags: string[], subTagsByParen
  * @example
  * const seoPosts = await getTagPosts("seo", 1); // Première page des posts SEO
  */
-export async function getTagPosts(tag: string, page: number = 1): Promise<Post[]> {
-    const allPosts = await getCollection('posts');
+export async function getTagPosts(
+    tag: string,
+    page: number = 1,
+    scope: ContentScope = 'all',
+    perPage: number = paginationConfig.defaultPerPage
+): Promise<Post[]> {
+    const allPosts = applyContentScope(await getCollection('posts'), scope);
     const normalizedSearchTag = normalizeString(tag);
     const filteredPosts = allPosts
         .filter(post => 
@@ -140,8 +124,9 @@ export async function getTagPosts(tag: string, page: number = 1): Promise<Post[]
         )
         .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 
-    const start = (page - 1) * paginationConfig.defaultPerPage;
-    const end = start + paginationConfig.defaultPerPage;
+    const safePerPage = Number.isFinite(perPage) && perPage > 0 ? Math.floor(perPage) : paginationConfig.defaultPerPage;
+    const start = (page - 1) * safePerPage;
+    const end = start + safePerPage;
     
     return filteredPosts.slice(start, end);
 }
@@ -184,69 +169,40 @@ export async function getTagPosts(tag: string, page: number = 1): Promise<Post[]
  * await getFilteredPosts(["seo", "backlinks"], 1)
  * // Retourne seulement les posts avec "Backlinks" (SEO est ignoré car redondant)
  */
-export async function getFilteredPosts(tags: string[], page: number = 1): Promise<Post[]> {
-    console.log('\n=== Début getFilteredPosts ===');
-    
-    // Si aucun tag, retourner un tableau vide
+export async function getFilteredPosts(
+    tags: string[],
+    page: number = 1,
+    scope: ContentScope = 'all',
+    perPage: number = paginationConfig.defaultPerPage
+): Promise<Post[]> {
     if (tags.length === 0) {
-        console.log('Aucun tag fourni, retour tableau vide');
         return [];
     }
 
-    console.log('Tags reçus:', tags);
-
-    // Grouper les tags par leur parent pour déterminer quels tags utiliser
     const { mainTags, subTagsByParent } = groupTagsByParent(tags);
-    console.log('\nTags groupés:');
-    console.log('- Tags principaux:', mainTags);
-    console.log('- Sous-tags par parent:', subTagsByParent);
 
-    // Récupérer tous les tags à rechercher (sous-tags + tags principaux sans sous-tags)
     const tagsToSearch = [
         ...mainTags,
         ...Object.values(subTagsByParent).flat()
     ];
-    console.log('\nTags à rechercher:', tagsToSearch);
 
-    // Normaliser les tags à rechercher
     const normalizedTagsToSearch = tagsToSearch.map(tag => normalizeString(tag));
-    console.log('Tags à rechercher (normalisés):', normalizedTagsToSearch);
 
-    const allPosts = await getCollection('posts');
-    console.log(`\nNombre total de posts: ${allPosts.length}`);
+    const allPosts = applyContentScope(await getCollection('posts'), scope);
 
     const filteredPosts = allPosts
         .filter(post => {
-            console.log(`\nAnalyse du post "${post.data.title}"`);
-            // Normaliser tous les tags du post
             const normalizedPostTags = post.data.tags.map(t => normalizeString(t));
-            console.log('Tags du post (normalisés):', normalizedPostTags);
-            
-            // Vérifier que le post contient tous les tags recherchés
-            const hasAllTags = normalizedTagsToSearch.every(searchTag => {
-                const hasTag = normalizedPostTags.includes(searchTag);
-                if (hasTag) {
-                    console.log(`✓ Tag trouvé: "${searchTag}"`);
-                } else {
-                    console.log(`✗ Tag manquant: "${searchTag}"`);
-                }
-                return hasTag;
-            });
-            
-            console.log('Post a tous les tags?', hasAllTags ? '✓ Oui' : '✗ Non');
-            return hasAllTags;
+            return normalizedTagsToSearch.every(searchTag =>
+                normalizedPostTags.includes(searchTag)
+            );
         })
         .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 
-    console.log(`\nNombre de posts filtrés: ${filteredPosts.length}`);
-    if (filteredPosts.length > 0) {
-        console.log('Posts trouvés:', filteredPosts.map(p => p.data.title));
-    }
+    const safePerPage = Number.isFinite(perPage) && perPage > 0 ? Math.floor(perPage) : paginationConfig.defaultPerPage;
+    const start = (page - 1) * safePerPage;
+    const end = start + safePerPage;
 
-    const start = (page - 1) * paginationConfig.defaultPerPage;
-    const end = start + paginationConfig.defaultPerPage;
-    
-    console.log('=== Fin getFilteredPosts ===\n');
     return filteredPosts.slice(start, end);
 }
 

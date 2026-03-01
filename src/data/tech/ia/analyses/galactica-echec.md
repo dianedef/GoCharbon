@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Galactica : L'Échec qui a Changé l'IA"
 author: Diane
 tags:

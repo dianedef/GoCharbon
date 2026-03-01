@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Personnalisation Email Marketing
 author: Diane
 tags:

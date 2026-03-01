@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Licornes Françaises : Le Fleuron de la French Tech'
 author: Diane
 tags:

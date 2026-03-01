@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Analysez vos facteurs de succès SEO avec l'apprentissage automatique !"
 author: Diane
 tags:

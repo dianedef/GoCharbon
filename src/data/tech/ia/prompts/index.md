@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Prompts
 author: Diane
 tags:

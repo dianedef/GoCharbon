@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Social Media Manager
 author: Web Indé
 tags:

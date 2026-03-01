@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: E-learning Creator / Créateur de Formations en Ligne
 author: Web Indé
 tags:

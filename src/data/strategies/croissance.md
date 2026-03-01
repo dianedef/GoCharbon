@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Stratégies de Croissance pour Entreprises Digitales
 author: Diane
 tags:

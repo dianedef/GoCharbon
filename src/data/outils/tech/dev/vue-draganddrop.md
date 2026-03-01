@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Vue Draganddrop
 author: Diane
 tags:

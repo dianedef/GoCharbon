@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Stratégies de Marketing Digital : Guide Complet"
 author: Diane
 tags:

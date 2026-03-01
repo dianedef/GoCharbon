@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Rédaction Web SEO : Guide Complet"
 author: Diane
 tags:

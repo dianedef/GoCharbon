@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Le Vibe Coding C'Est Pour Les Ploucs
 author: Diane
 tags:

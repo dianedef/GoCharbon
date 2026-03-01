@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'ARCHITECTURE DES AGENTS IA : LES ROUAGES INTERNES'
 author: Diane
 tags:

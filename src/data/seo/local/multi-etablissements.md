@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "SEO Local Multi-Établissements : Guide Complet"
 author: Diane
 tags:

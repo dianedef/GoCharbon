@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Subventions
 author: Diane
 tags:

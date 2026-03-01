@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Next.js : Guide Complet'
 author: Diane
 tags:

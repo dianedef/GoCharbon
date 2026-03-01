@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'L''Avenir de l''IA : Ce qui Vient Vraiment'
 author: Diane
 tags:

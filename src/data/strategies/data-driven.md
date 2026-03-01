@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Marketing Piloté par la Data : Guide Complet"
 author: Diane
 tags:

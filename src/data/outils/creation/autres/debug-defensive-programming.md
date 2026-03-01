@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Debug & Defensive Programming
 author: Diane
 tags:

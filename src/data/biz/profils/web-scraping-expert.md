@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Web Scraping Expert / Expert en Web Scraping
 author: Web Indé
 tags:

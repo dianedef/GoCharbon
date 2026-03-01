@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Culture
 author: Diane
 tags:

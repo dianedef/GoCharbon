@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Éthique
 author: Diane
 tags:

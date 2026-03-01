@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Experience Client
 author: Diane
 tags:

@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "WP-Generator"
 author: Diane
 tags:

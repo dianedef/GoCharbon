@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Bases du SEO : Guide Complet"
 author: Diane
 tags:

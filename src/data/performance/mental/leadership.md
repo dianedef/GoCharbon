@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Leadership
 author: Diane
 tags:

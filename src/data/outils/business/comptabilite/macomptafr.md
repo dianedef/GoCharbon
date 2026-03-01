@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "Macompta.fr"
 author: Diane
 tags:

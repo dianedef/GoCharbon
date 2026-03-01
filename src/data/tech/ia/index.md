@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'L''Intelligence Artificielle : Guide Complet 2024'
 author: Diane
 tags:

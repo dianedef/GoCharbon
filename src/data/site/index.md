@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Création de Site Web : Guide Complet"
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Les 10 outils français gratuits incontournables pour lancer ton biz
   sur le web
 author: Diane

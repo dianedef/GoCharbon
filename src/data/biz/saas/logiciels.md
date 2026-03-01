@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Logiciels de Gestion : Les Outils Essentiels pour ton Business'
 author: Diane
 tags:

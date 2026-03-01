@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'CONTENT MARKETING : L''ART D''ATTIRER SANS VENDRE'
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Scaling Growth
 author: Diane
 tags:

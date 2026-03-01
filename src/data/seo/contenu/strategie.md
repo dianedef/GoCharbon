@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Stratégie de Contenu SEO : Guide Complet"
 author: Diane
 tags:

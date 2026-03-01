@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Meta Ads : Facebook & Instagram Advertising'
 author: Diane
 tags:

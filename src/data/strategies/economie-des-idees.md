@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'L''Économie des Idées : Guide pour Prospérer dans l''Ère Numérique'
 author: Diane
 tags:

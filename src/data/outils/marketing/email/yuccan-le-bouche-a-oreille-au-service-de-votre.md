@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "📣 Yuccan, Le bouche-à-oreille au service de votre développement"
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Retention
 author: Diane
 tags:

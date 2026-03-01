@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Chatbot Developer (No-Code)
 author: Web Indé
 tags:

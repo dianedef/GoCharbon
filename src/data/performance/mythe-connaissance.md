@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Le Plus Grand Mythe de la Connaissance
 author: Diane
 tags:

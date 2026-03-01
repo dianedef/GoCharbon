@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'NLP (Natural Language Processing) : Guide Complet'
 author: Diane
 tags:

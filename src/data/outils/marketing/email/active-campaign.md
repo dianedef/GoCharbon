@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "ActiveCampaign"
 author: Diane
 tags:

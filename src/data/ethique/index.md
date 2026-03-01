@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'RSE : LE BUSINESS RESPONSABLE'
 author: Diane
 tags:

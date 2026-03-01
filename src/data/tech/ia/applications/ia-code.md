@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'IA pour le Code : Guide Complet'
 author: Diane
 tags:

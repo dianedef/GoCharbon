@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Guide Complet de l'E-commerce"
 author: Diane
 tags:

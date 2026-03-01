@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Automatisation Email Marketing
 author: Diane
 tags:

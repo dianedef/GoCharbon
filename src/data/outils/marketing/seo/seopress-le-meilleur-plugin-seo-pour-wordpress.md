@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: "SEOPress, le meilleur plugin SEO pour WordPress (mise à jour 2022)"
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Business Mobile : Cashback'
 author: Diane
 tags:

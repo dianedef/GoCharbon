@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Citations
 author: Diane
 tags:

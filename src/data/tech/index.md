@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Technologies Web 2024 : Le Guide Ultime pour Propulser ton Business dans le
   Futur'
 author: Diane

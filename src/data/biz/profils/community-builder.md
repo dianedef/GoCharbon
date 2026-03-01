@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Community Builder / Gestionnaire de Communauté
 author: Web Indé
 tags:

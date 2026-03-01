@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Google Business Profile : Guide Complet'
 author: Diane
 tags:

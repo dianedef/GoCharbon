@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: 'Cursor : L''IDE IA du Futur'
 author: Diane
 tags:

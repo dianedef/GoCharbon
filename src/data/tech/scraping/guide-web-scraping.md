@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Web Scraping : Le Guide Complet pour Debuter en 1 Heure"
 author: Diane
 tags:

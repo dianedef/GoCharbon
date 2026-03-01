@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'AGENTS IA : LES ASSISTANTS INTELLIGENTS DU FUTUR'
 author: Diane
 tags:

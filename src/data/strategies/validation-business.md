@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Validation d'Idées Business : Guide Complet"
 author: Diane
 tags:

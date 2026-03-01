@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Frameworks Pour Agents : Vue D''ensemble'
 author: Diane
 tags:

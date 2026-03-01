@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Designer Graphique Freelance
 author: Web Indé
 tags:

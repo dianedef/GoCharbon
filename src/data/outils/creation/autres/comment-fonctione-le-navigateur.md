@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Comment Fonctione Le Navigateur
 author: Diane
 tags:

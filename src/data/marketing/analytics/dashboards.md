@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Tableaux de Bord Marketing
 author: Diane
 tags:

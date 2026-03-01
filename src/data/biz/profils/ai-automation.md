@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: AI Automation Agency
 author: Web Indé
 tags:

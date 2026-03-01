@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Bombyx4WP
 author: Diane
 tags:

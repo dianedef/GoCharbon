@@ -1,4 +1,6 @@
 ---
+section: apps
+metadataEnrichedAt: null
 title: Services de Développement Web & IA
 description: Expert en création de sites web modernes (WordPress, Astro.js, Vue.js)
   et applications intelligentes avec IA intégrée. Solutions sur mesure pour votre

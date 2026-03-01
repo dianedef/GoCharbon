@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Analyses IA : Études de Cas et Réflexions'
 author: Diane
 tags:

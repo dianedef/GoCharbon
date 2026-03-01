@@ -1,4 +1,5 @@
 ---
+section: blog
 title: "Comment Dépasser la Concurrence : Guide Stratégique"
 author: Diane
 tags:

@@ -1,4 +1,5 @@
 ---
+section: tutos
 tags:
 - Tutoriels
 title: Comment Trouver Les Erreurs Php Présente Sur Un Site Wordpress

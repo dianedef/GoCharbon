@@ -1,4 +1,5 @@
 ---
+section: blog
 title: Fondamentaux du Marketing Digital
 author: Diane
 tags:

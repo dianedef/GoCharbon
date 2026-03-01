@@ -1,6 +1,12 @@
 ---
 import Layout from "../layouts/Default.astro";
 import Button from "../components/components/Button.astro";
+import PostSummaryCard from "../components/components/PostSummaryCard.astro";
+import { getCollection } from "astro:content";
+
+const recentPosts = (await getCollection("posts"))
+	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+	.slice(0, 3);
 ---
 
 <Layout 
@@ -160,9 +166,11 @@ import Button from "../components/components/Button.astro";
 					Objectif : te faire gagner du temps et t'aider à passer à l'action dès aujourd'hui.
 				</p>
 				<form class="flex flex-col md:flex-row gap-4 max-w-2xl mx-auto">
-					<input 
-						type="email" 
-						placeholder="Ton email pour recevoir le guide..." 
+					<label for="guide-email" class="sr-only">Ton adresse email</label>
+					<input
+						id="guide-email"
+						type="email"
+						placeholder="Ton email pour recevoir le guide..."
 						class="flex-1 px-6 py-4 text-lg border-3 border-black dark:border-purple-bright text-black dark:text-white bg-white-soft dark:bg-black font-sanchez"
 						required
 					/>
@@ -198,7 +206,13 @@ import Button from "../components/components/Button.astro";
 						Voir tous les Articles →
 					</Button>
 				</div>
-				<!-- TODO: Add recent posts component here -->
+				<ul class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+					{recentPosts.map((post, index) => (
+						<li>
+							<PostSummaryCard post={post} index={index} />
+						</li>
+					))}
+				</ul>
 			</div>
 		</section>
 

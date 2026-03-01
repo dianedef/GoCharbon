@@ -1,4 +1,5 @@
 ---
+section: parcours
 title: Copywriter / Rédacteur Publicitaire
 author: Web Indé
 tags:

@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Guide de Cybersécurité pour les Entrepreneurs : Guide Complet'
 author: Diane
 tags:

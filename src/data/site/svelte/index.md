@@ -1,4 +1,5 @@
 ---
+section: blog
 title: 'Svelte : Guide Complet'
 author: Diane
 tags:
