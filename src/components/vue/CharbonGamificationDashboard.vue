@@ -5,6 +5,8 @@ import type { Badge } from '@diane-winflowz/gamification'
 import { createCharbonConfig } from '../../gamification/config'
 import CharbonBadgeCard from './CharbonBadgeCard.vue'
 import { learningPaths } from '../../data/parcoursData'
+import { hydrateGamificationFromConvex } from '../../gamification/convexSync'
+import { GAMIFICATION_UPDATED_EVENT } from '../../gamification/storageKeys'
 import {
   buildPathDescriptors,
   getPathBadges,
@@ -76,16 +78,22 @@ function refreshXp() {
 }
 
 onMounted(() => {
-  refreshPathStats()
-  refreshXp()
+  void hydrateGamificationFromConvex().finally(() => {
+    refreshPathStats()
+    refreshXp()
+  })
   window.addEventListener('storage', refreshPathStats)
   window.addEventListener('storage', refreshXp)
+  window.addEventListener(GAMIFICATION_UPDATED_EVENT, refreshPathStats)
+  window.addEventListener(GAMIFICATION_UPDATED_EVENT, refreshXp)
   mounted.value = true
 })
 
 onBeforeUnmount(() => {
   window.removeEventListener('storage', refreshPathStats)
   window.removeEventListener('storage', refreshXp)
+  window.removeEventListener(GAMIFICATION_UPDATED_EVENT, refreshPathStats)
+  window.removeEventListener(GAMIFICATION_UPDATED_EVENT, refreshXp)
 })
 </script>
 

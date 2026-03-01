@@ -1,6 +1,9 @@
 <script setup lang="ts">
 import { computed, onMounted, onBeforeUnmount, ref } from 'vue';
 import type { LearningPath } from '../../data/parcoursData';
+import BrutalCheckbox from './BrutalCheckbox.vue';
+import { hydrateGamificationFromConvex } from '../../gamification/convexSync';
+import { GAMIFICATION_UPDATED_EVENT } from '../../gamification/storageKeys';
 import {
   createPathStepKey,
   getCompletedStepIds,
@@ -103,12 +106,14 @@ function toggleStep(moduleId: string, stepId: string, checked: boolean): void {
 }
 
 onMounted(() => {
-  refreshFromStorage();
+  void hydrateGamificationFromConvex().finally(refreshFromStorage);
   window.addEventListener('storage', refreshFromStorage);
+  window.addEventListener(GAMIFICATION_UPDATED_EVENT, refreshFromStorage);
 });
 
 onBeforeUnmount(() => {
   window.removeEventListener('storage', refreshFromStorage);
+  window.removeEventListener(GAMIFICATION_UPDATED_EVENT, refreshFromStorage);
 });
 </script>
 
@@ -134,21 +139,25 @@ onBeforeUnmount(() => {
 
         <ol>
           <li v-for="(step, stepIndex) in module.steps" :key="step.id">
-            <label class="step-check">
-              <input
-                type="checkbox"
-                :checked="isCompleted(module.id, step.id)"
-                @change="toggleStep(module.id, step.id, ($event.target as HTMLInputElement).checked)"
+            <div class="step-check">
+              <BrutalCheckbox
+                :model-value="isCompleted(module.id, step.id)"
+                :label="`Valider l'étape ${stepIndex + 1}: ${step.title}`"
+                @update:model-value="(checked: boolean) => toggleStep(module.id, step.id, checked)"
               />
-              <span>
+              <button
+                type="button"
+                class="step-content-btn"
+                @click="toggleStep(module.id, step.id, !isCompleted(module.id, step.id))"
+              >
                 <strong>Étape {{ stepIndex + 1 }}: {{ step.title }}</strong>
                 <span class="step-meta">
                   <span class="step-type" :class="step.type">{{ stepTypeLabel(step.type as TaskType) }}</span>
                   <span class="step-xp">+{{ stepXp(step.type as TaskType) }} XP</span>
                 </span>
                 <p>{{ step.description }}</p>
-              </span>
-            </label>
+              </button>
+            </div>
             <a :href="step.href">Ouvrir</a>
           </li>
         </ol>
@@ -159,16 +168,32 @@ onBeforeUnmount(() => {
 
 <style scoped>
 .path-progress {
+  --pp-surface: var(--brand-cream);
+  --pp-surface-muted: var(--brand-cream);
+  --pp-border: var(--brand-black);
+  --pp-shadow: var(--brand-black);
+  --pp-text: var(--brand-black);
+  --pp-link: var(--brand-black);
+  --pp-link-hover: var(--brand-orange);
+  --pp-progress-track: var(--brand-cream-warm);
+  --pp-progress-fill: var(--brand-orange);
+  --pp-badge-text: var(--brand-black);
+
   display: flex;
   flex-direction: column;
   gap: 1rem;
 }
 
 .progress-overview {
-  background: var(--brand-cream);
-  border: 3px solid var(--brand-black);
-  box-shadow: 6px 6px 0 var(--brand-black);
+  background: var(--pp-surface);
+  border: 3px solid var(--pp-border);
+  box-shadow: none;
+  filter: drop-shadow(6px 6px 0 var(--pp-shadow));
+  color: var(--pp-text);
   padding: 1rem;
+  position: sticky;
+  top: 0;
+  z-index: 30;
 }
 
 .progress-overview h2 {
@@ -185,8 +210,8 @@ onBeforeUnmount(() => {
 
 .progress-track {
   height: 0.8rem;
-  border: 2px solid var(--brand-black);
-  background: var(--brand-cream-warm);
+  border: 2px solid var(--pp-border);
+  background: var(--pp-progress-track);
   border-radius: 999px;
   overflow: hidden;
   margin-bottom: 0.5rem;
@@ -194,7 +219,7 @@ onBeforeUnmount(() => {
 
 .progress-fill {
   height: 100%;
-  background: var(--brand-orange);
+  background: var(--pp-progress-fill);
   transition: width 0.25s ease;
 }
 
@@ -205,10 +230,16 @@ onBeforeUnmount(() => {
 }
 
 .module-card {
-  background: var(--brand-cream);
-  border: 3px solid var(--brand-black);
-  box-shadow: 5px 5px 0 var(--brand-black);
+  background: var(--pp-surface);
+  border: 3px solid var(--pp-border);
+  box-shadow: none;
+  filter: drop-shadow(5px 5px 0 var(--pp-shadow));
+  color: var(--pp-text);
   padding: 1rem;
+}
+
+.path-progress section::after {
+  border-bottom-color: var(--pp-border);
 }
 
 .module-card h3 {
@@ -238,7 +269,8 @@ onBeforeUnmount(() => {
   justify-content: space-between;
   align-items: flex-start;
   gap: 0.8rem;
-  border: 2px solid var(--brand-black);
+  background: var(--pp-surface-muted);
+  border: 2px solid var(--pp-border);
   padding: 0.6rem;
 }
 
@@ -246,11 +278,19 @@ onBeforeUnmount(() => {
   display: flex;
   align-items: flex-start;
   gap: 0.5rem;
-  cursor: pointer;
+  width: 100%;
 }
 
-.step-check input {
-  margin-top: 0.2rem;
+.step-content-btn {
+  all: unset;
+  display: block;
+  cursor: pointer;
+  width: 100%;
+}
+
+.step-content-btn:focus-visible {
+  outline: 2px dashed var(--brand-orange);
+  outline-offset: 2px;
 }
 
 .step-meta {
@@ -263,63 +303,85 @@ onBeforeUnmount(() => {
 .step-type,
 .step-xp {
   display: inline-block;
-  font-size: 0.75rem;
-  font-weight: 700;
-  border: 2px solid var(--brand-black);
-  padding: 0.08rem 0.45rem;
+  font-size: 0.82rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  border: 2px solid var(--pp-border);
+  padding: 0.12rem 0.52rem;
   line-height: 1.2;
+  text-align: center;
 }
 
 .step-type.quiz {
-  background: #d9e8ff;
+  background: #bfd8ff;
+  color: #0e2b4d;
 }
 
 .step-type.guide {
-  background: #dff7df;
+  background: #c9efcd;
+  color: #12381f;
 }
 
 .step-type.tuto {
-  background: #ffe9d2;
+  background: #ffd8b2;
+  color: #4a2b0f;
 }
 
 .step-type.action {
-  background: #ffd8d8;
+  background: #ffc2c2;
+  color: #4e1313;
 }
 
 .step-xp {
   background: var(--brand-yellow);
+  color: var(--brand-black);
 }
 
 .module-card li a {
   white-space: nowrap;
   font-weight: 700;
-  color: var(--brand-black);
+  color: var(--pp-link);
 }
 
-:global(.dark) .progress-overview,
-:global(.dark) .module-card {
-  background: var(--brand-ink);
-  border-color: var(--brand-cream);
-  box-shadow: 6px 6px 0 var(--brand-cream);
-  color: var(--brand-cream);
+.module-card li a:hover {
+  color: var(--pp-link-hover);
 }
 
-:global(.dark) .progress-track {
-  border-color: var(--brand-cream);
-  background: var(--brand-soot);
-}
-
-:global(.dark) .module-card li {
-  border-color: var(--brand-cream);
-}
-
-:global(.dark) .module-card li a {
-  color: var(--brand-yellow);
+:global(.dark) .step-content-btn:focus-visible {
+  outline-color: var(--brand-yellow);
 }
 
 :global(.dark) .step-type,
 :global(.dark) .step-xp {
-  border-color: var(--brand-cream);
+  border-color: var(--pp-border);
+}
+
+:global(.dark) .step-type {
+  color: var(--pp-badge-text);
+}
+
+:global(.dark) .step-type.quiz {
+  background: #0f4c81;
+  color: #f5f5f2;
+}
+
+:global(.dark) .step-type.guide {
+  background: #1f6b3a;
+  color: #f5f5f2;
+}
+
+:global(.dark) .step-type.tuto {
+  background: #8a4b11;
+  color: #f5f5f2;
+}
+
+:global(.dark) .step-type.action {
+  background: #8b1f1f;
+  color: #f5f5f2;
+}
+
+:global(.dark) .step-xp {
   color: var(--brand-black);
 }
 
@@ -328,5 +390,21 @@ onBeforeUnmount(() => {
     flex-direction: column;
     align-items: flex-start;
   }
+}
+</style>
+
+<style>
+html.dark .path-progress,
+.dark .path-progress {
+  --pp-surface: var(--brand-ink);
+  --pp-surface-muted: var(--brand-charcoal);
+  --pp-border: var(--brand-cream);
+  --pp-shadow: var(--brand-cream);
+  --pp-text: var(--brand-cream);
+  --pp-link: var(--brand-yellow);
+  --pp-link-hover: var(--brand-cream);
+  --pp-progress-track: var(--brand-soot);
+  --pp-progress-fill: var(--brand-yellow);
+  --pp-badge-text: var(--brand-cream);
 }
 </style>

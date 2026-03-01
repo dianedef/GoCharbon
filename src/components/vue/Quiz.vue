@@ -85,16 +85,16 @@
           </li>
         </ul>
         <div class="result-actions">
-          <a v-if="finalBizProfile?.learningPathUrl" :href="finalBizProfile.learningPathUrl" class="quiz-btn primary">
+          <a v-if="finalBizProfile?.learningPathUrl" :href="finalBizProfile.learningPathUrl" class="quiz-btn primary no-link-style">
             Commencer le Parcours
           </a>
-          <a v-if="finalBizProfile" :href="finalBizProfile.slug" class="quiz-btn primary">
+          <a v-if="finalBizProfile" :href="finalBizProfile.slug" class="quiz-btn primary no-link-style">
             Voir la Fiche
           </a>
           <button @click="resetQuiz" class="quiz-btn secondary">
             Refaire le Quiz
           </button>
-          <a href="/apps" class="quiz-btn primary">
+          <a href="/apps" class="quiz-btn primary no-link-style">
             Voir les Apps
           </a>
           <button
@@ -884,9 +884,23 @@ const resetQuiz = () => {
   color: var(--brand-black);
 }
 
+.dark .quiz-btn.primary:hover {
+  background-color: var(--brand-orange);
+  box-shadow: 3px 3px 0 var(--brand-cream);
+}
+
 .dark .quiz-btn.secondary {
   background-color: var(--brand-charcoal);
   color: var(--brand-cream);
+}
+
+.dark .quiz-btn.secondary:hover {
+  background-color: var(--brand-soot);
+  box-shadow: 3px 3px 0 var(--brand-cream);
+}
+
+.dark .quiz-btn:disabled {
+  box-shadow: 5px 5px 0 var(--brand-cream);
 }
 
 .dark .progress-bar {
@@ -944,7 +958,21 @@ const resetQuiz = () => {
 
 .dark .confidence-badge {
   border-color: var(--brand-cream);
+}
+
+.dark .confidence-badge.high {
+  background: var(--brand-yellow);
   color: var(--brand-black);
+}
+
+.dark .confidence-badge.medium {
+  background: #d29238;
+  color: var(--brand-black);
+}
+
+.dark .confidence-badge.low {
+  background: #6d4a3a;
+  color: var(--brand-cream);
 }
 
 .dark .top-two-card {

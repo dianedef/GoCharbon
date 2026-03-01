@@ -123,6 +123,7 @@ const { pageTitle } = Astro.props;
 								class="text-lg font-medium hover:underline transition-all duration-150 ease-in-out"
 								href={item.url}
 								title={`Go to ${item.name}`}
+								data-astro-reload
 							>
 								{item.name}
 							</a>
@@ -175,6 +176,7 @@ const { pageTitle } = Astro.props;
 						<a
 							class="mobile-link text-lg font-medium block py-2"
 							href={item.url}
+							data-astro-reload
 						>
 							{item.name}
 						</a>
@@ -209,6 +211,7 @@ const { pageTitle } = Astro.props;
 		const menu = document.getElementById("mobile-menu");
 		const hamburgerIcon = document.getElementById("hamburger-icon");
 		const closeIcon = document.getElementById("close-icon");
+		const mobileLinks = menu?.querySelectorAll('a[href^="/"]');
 
 		btn?.addEventListener("click", () => {
 			const isOpen = menu?.classList.toggle("hidden") === false;
@@ -216,6 +219,16 @@ const { pageTitle } = Astro.props;
 			btn.setAttribute("aria-label", isOpen ? "Fermer le menu" : "Ouvrir le menu");
 			hamburgerIcon?.classList.toggle("hidden", isOpen);
 			closeIcon?.classList.toggle("hidden", !isOpen);
+		});
+
+		mobileLinks?.forEach((link) => {
+			link.addEventListener("click", () => {
+				menu?.classList.add("hidden");
+				btn?.setAttribute("aria-expanded", "false");
+				btn?.setAttribute("aria-label", "Ouvrir le menu");
+				hamburgerIcon?.classList.remove("hidden");
+				closeIcon?.classList.add("hidden");
+			});
 		});
 	});
 </script>

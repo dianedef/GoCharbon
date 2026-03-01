@@ -1,7 +1,10 @@
 import type { LearningPath } from '../data/parcoursData';
 import type { TaskType } from './xp';
-
-const PATH_PROGRESS_STORAGE_KEY = 'charbon_path_progress_v1';
+import { PATH_PROGRESS_STORAGE_KEY } from './storageKeys';
+import {
+  notifyGamificationLocalWrite,
+  scheduleConvexGamificationSync,
+} from './convexSync';
 
 export interface StoredPathProgress {
   startedAt: string;
@@ -59,6 +62,8 @@ function readStore(): PathProgressStore {
 function writeStore(store: PathProgressStore): void {
   if (!isClient()) return;
   window.localStorage.setItem(PATH_PROGRESS_STORAGE_KEY, JSON.stringify(store));
+  notifyGamificationLocalWrite();
+  scheduleConvexGamificationSync();
 }
 
 function normalizePath(path: string): string {

@@ -11,21 +11,21 @@ const sortedPaths = [...learningPaths].sort((a, b) => a.profileTitle.localeCompa
   description="Tous les parcours d'apprentissage business en ligne: du niveau debutant a l'execution terrain, par profil metier."
   pageTitle="Parcours"
 >
-  <main class="min-h-screen bg-yellow-soft dark:bg-black py-12 md:py-20">
+  <main class="parcours-main min-h-screen py-12 md:py-20">
     <div class="container mx-auto px-4">
       <div class="max-w-6xl mx-auto">
         <div class="text-center mb-10">
-          <h1 class="text-4xl md:text-5xl font-bold mb-4 poppins text-black dark:text-yellow-soft">
+          <h1 class="parcours-title text-4xl md:text-5xl font-bold mb-4 poppins">
             Parcours d'Apprentissage Business
           </h1>
-          <p class="text-lg md:text-xl text-gray-700 dark:text-gray-300">
+          <p class="parcours-subtitle text-lg md:text-xl">
             42 parcours relies a vos profils business, avec fondations communes + specialisation + execution.
           </p>
         </div>
 
         <div class="paths-grid">
           {sortedPaths.map((path) => (
-            <a href={`/parcours/${getParcoursSlug(path.id)}`} class="path-card">
+            <a href={`/parcours/${getParcoursSlug(path.id)}`} class="path-card no-link-style">
               <p class="path-category">{path.category}</p>
               <h2>{path.profileTitle}</h2>
               <p>{path.outcome}</p>
@@ -47,6 +47,18 @@ const sortedPaths = [...learningPaths].sort((a, b) => a.profileTitle.localeCompa
     max-width: 1280px;
   }
 
+  .parcours-main {
+    background: var(--brand-yellow);
+  }
+
+  .parcours-title {
+    color: var(--brand-black);
+  }
+
+  .parcours-subtitle {
+    color: #3f3f46;
+  }
+
   .paths-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -65,6 +77,7 @@ const sortedPaths = [...learningPaths].sort((a, b) => a.profileTitle.localeCompa
   }
 
   .path-card:hover {
+    color: var(--brand-black);
     transform: translate(2px, 2px);
     box-shadow: 3px 3px 0 var(--brand-black);
     background: var(--brand-yellow);
@@ -109,8 +122,21 @@ const sortedPaths = [...learningPaths].sort((a, b) => a.profileTitle.localeCompa
   }
 
   :global(.dark) .path-card:hover {
+    color: var(--brand-cream);
     background: var(--brand-charcoal);
     box-shadow: 3px 3px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .parcours-main {
+    background: var(--brand-ink);
+  }
+
+  :global(.dark) .parcours-title {
+    color: var(--brand-yellow);
+  }
+
+  :global(.dark) .parcours-subtitle {
+    color: var(--brand-cream);
   }
 
   :global(.dark) .path-category {

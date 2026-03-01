@@ -1,4 +1,8 @@
-const XP_STORAGE_KEY = 'charbon_xp_v1';
+import { XP_STORAGE_KEY } from './storageKeys';
+import {
+  notifyGamificationLocalWrite,
+  scheduleConvexGamificationSync,
+} from './convexSync';
 const READ_XP = 20;
 const DEFAULT_TASK_XP = 35;
 
@@ -71,6 +75,8 @@ function readStore(): XpStore {
 function writeStore(store: XpStore): void {
   if (!isClient()) return;
   window.localStorage.setItem(XP_STORAGE_KEY, JSON.stringify(store));
+  notifyGamificationLocalWrite();
+  scheduleConvexGamificationSync();
 }
 
 export function getXpState(): XpState {

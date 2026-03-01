@@ -1,5 +1,6 @@
 ---
 import Layout from "../../layouts/Default.astro";
+import { getEntry, render } from "astro:content";
 import { learningPaths, learningPathById } from "../../data/parcoursData";
 import { getParcoursIdFromSlug, getParcoursSlug } from "../../data/parcoursSlugs";
 import PathProgressTracker from "../../components/vue/PathProgressTracker.vue";
@@ -16,38 +17,64 @@ export function getStaticPaths() {
 }
 
 const { id } = Astro.params;
-const pathData = id ? learningPathById[getParcoursIdFromSlug(id)] : null;
-
-if (!pathData) {
-  return Astro.redirect('/parcours');
-}
+const normalizedId = id?.toLowerCase().trim();
+const canonicalId = normalizedId ? getParcoursIdFromSlug(normalizedId) : null;
+const pathData = canonicalId
+  ? (learningPathById[canonicalId] ??
+    learningPaths.find(
+      (path) =>
+        path.id === normalizedId ||
+        path.id === canonicalId ||
+        getParcoursSlug(path.id) === normalizedId
+    ) ??
+    null)
+  : null;
+const pathEntry = canonicalId ? await getEntry("parcours", canonicalId) : null;
+const pathEntryRendered = pathEntry ? await render(pathEntry) : null;
+const PathContent = pathEntryRendered?.Content;
 ---
 
 <Layout
-  title={`Parcours ${pathData.profileTitle} | GOCHARBON`}
-  description={`Parcours ${pathData.profileTitle}: fondations, specialisation et execution terrain.`}
-  pageTitle={`Parcours ${pathData.profileTitle}`}
+  title={pathData ? `Parcours ${pathData.profileTitle} | GOCHARBON` : "Parcours introuvable | GOCHARBON"}
+  description={pathData ? `Parcours ${pathData.profileTitle}: fondations, specialisation et execution terrain.` : "Ce parcours est introuvable. Retourne a la liste des parcours."}
+  pageTitle={pathData ? `Parcours ${pathData.profileTitle}` : "Parcours introuvable"}
 >
   <main class="min-h-screen bg-yellow-soft dark:bg-black py-12 md:py-20">
     <div class="container mx-auto px-4">
       <div class="max-w-5xl mx-auto">
-        <div class="path-header">
-          <p class="path-tag">{pathData.category}</p>
-          <h1>{pathData.profileTitle}</h1>
-          <p class="path-outcome">{pathData.outcome}</p>
-          <div class="path-header-meta">
-            <span>Niveau: {pathData.level}</span>
-            <span>Duree: {pathData.estimatedDuration}</span>
-            <a href={`/biz/profils/${pathData.profileSlug}`}>Voir la fiche profil</a>
+        {pathData ? (
+          <>
+            <div class="path-header">
+              <p class="path-tag">{pathData.category}</p>
+              <h1>{pathData.profileTitle}</h1>
+              <p class="path-outcome">{pathData.outcome}</p>
+              <div class="path-header-meta">
+                <span>Niveau: {pathData.level}</span>
+                <span>Duree: {pathData.estimatedDuration}</span>
+                <a href={`/biz/profils/${pathData.profileSlug}`} class="no-link-style">Voir la fiche profil</a>
+              </div>
+            </div>
+
+            <PathProgressTracker client:load pathData={pathData} />
+
+            {PathContent && (
+              <div class="path-editorial">
+                <PathContent />
+              </div>
+            )}
+
+            <div class="path-actions">
+              <a href="/quiz-avance" class="path-btn no-link-style">Refaire le quiz avance</a>
+              <a href="/parcours" class="path-btn secondary no-link-style">Voir tous les parcours</a>
+            </div>
+          </>
+        ) : (
+          <div class="path-not-found">
+            <h1>Parcours introuvable</h1>
+            <p>Le lien utilise probablement un identifiant invalide.</p>
+            <a href="/parcours" class="path-btn no-link-style">Voir tous les parcours</a>
           </div>
-        </div>
-
-        <PathProgressTracker client:load pathData={pathData} />
-
-        <div class="path-actions">
-          <a href="/quiz-avance" class="path-btn">Refaire le quiz avance</a>
-          <a href="/parcours" class="path-btn secondary">Voir tous les parcours</a>
-        </div>
+        )}
       </div>
     </div>
   </main>
@@ -106,6 +133,34 @@ if (!pathData) {
     margin-top: 1rem;
   }
 
+  .path-editorial {
+    margin-top: 1rem;
+    background: var(--brand-cream);
+    border: 3px solid var(--brand-black);
+    box-shadow: 6px 6px 0 var(--brand-black);
+    padding: 1rem 1.1rem;
+  }
+
+  .path-editorial :global(h2) {
+    margin: 0 0 0.6rem;
+  }
+
+  .path-editorial :global(a) {
+    font-weight: 700;
+  }
+
+  .path-editorial :global(p),
+  .path-editorial :global(li) {
+    line-height: 1.5;
+  }
+
+  .path-not-found {
+    background: var(--brand-cream);
+    border: 3px solid var(--brand-black);
+    box-shadow: 6px 6px 0 var(--brand-black);
+    padding: 1.25rem;
+  }
+
   .path-btn {
     display: inline-block;
     text-decoration: none;
@@ -116,6 +171,12 @@ if (!pathData) {
     font-weight: 700;
     background: var(--brand-yellow);
     color: var(--brand-black);
+    transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+  }
+
+  .path-btn:hover {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0 var(--brand-black);
   }
 
   .path-btn.secondary {
@@ -135,5 +196,41 @@ if (!pathData) {
 
   :global(.dark) .path-header-meta a {
     color: var(--brand-yellow);
+  }
+
+  :global(.dark) .path-not-found {
+    background: var(--brand-ink);
+    border-color: var(--brand-cream);
+    box-shadow: 6px 6px 0 var(--brand-cream);
+    color: var(--brand-cream);
+  }
+
+  :global(.dark) .path-editorial {
+    background: var(--brand-ink);
+    border-color: var(--brand-cream);
+    box-shadow: 6px 6px 0 var(--brand-cream);
+    color: var(--brand-cream);
+  }
+
+  :global(.dark) .path-editorial :global(a) {
+    color: var(--brand-yellow);
+  }
+
+  :global(.dark) .path-editorial :global(a:hover) {
+    color: var(--brand-cream);
+  }
+
+  :global(.dark) .path-btn {
+    border-color: var(--brand-cream);
+    box-shadow: 4px 4px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .path-btn:hover {
+    box-shadow: 2px 2px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .path-btn.secondary {
+    background: var(--brand-ink);
+    color: var(--brand-cream);
   }
 </style>

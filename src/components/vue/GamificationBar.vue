@@ -8,6 +8,8 @@ import {
 import type { Badge } from '@diane-winflowz/gamification'
 import { createCharbonConfig } from '../../gamification/config'
 import { learningPaths } from '../../data/parcoursData'
+import { hydrateGamificationFromConvex } from '../../gamification/convexSync'
+import { GAMIFICATION_UPDATED_EVENT } from '../../gamification/storageKeys'
 import {
   autoCompleteStepsFromVisitedPath,
   buildPathDescriptors,
@@ -61,10 +63,14 @@ function refreshXp() {
 
 onMounted(() => {
   mounted.value = true
-  refreshPathStats()
-  refreshXp()
+  void hydrateGamificationFromConvex().finally(() => {
+    refreshPathStats()
+    refreshXp()
+  })
   window.addEventListener('storage', refreshPathStats)
   window.addEventListener('storage', refreshXp)
+  window.addEventListener(GAMIFICATION_UPDATED_EVENT, refreshPathStats)
+  window.addEventListener(GAMIFICATION_UPDATED_EVENT, refreshXp)
   if (props.slug) {
     markAsRead(props.slug, props.category)
     xp.value = awardReadXp(props.slug)
@@ -81,6 +87,8 @@ onMounted(() => {
 onBeforeUnmount(() => {
   window.removeEventListener('storage', refreshPathStats)
   window.removeEventListener('storage', refreshXp)
+  window.removeEventListener(GAMIFICATION_UPDATED_EVENT, refreshPathStats)
+  window.removeEventListener(GAMIFICATION_UPDATED_EVENT, refreshXp)
 })
 
 watch(

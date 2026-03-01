@@ -17,6 +17,20 @@ const postCollection = defineCollection({
     }).passthrough(),
 });
 
+const parcoursCollection = defineCollection({
+  loader: glob({ pattern: '*.md', base: "./src/content/parcours" }),
+  schema: z.object({
+    profileId: z.string(),
+    title: z.string(),
+    description: z.string(),
+    category: z.string(),
+    level: z.enum(["debutant", "intermediaire", "avance"]),
+    status: z.enum(["draft", "active"]).default("active"),
+    updatedAt: z.string(),
+  }),
+});
+
 export const collections = {
   posts: postCollection,
+  parcours: parcoursCollection,
 };
