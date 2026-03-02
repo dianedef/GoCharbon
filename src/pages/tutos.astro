@@ -4,12 +4,15 @@ import Layout from "../layouts/Default.astro";
 import FilterTags from "../components/components/FilterTags.vue";
 import { tagHierarchy } from "../components/tagHierarchy";
 import { applyContentScope } from "../utils/content-section";
+import { toPostPreviews } from "../utils/post-preview";
 
 const allPosts = await getCollection("posts");
 const tutosPosts = applyContentScope(allPosts, "tutos");
 
 const initialPosts = tutosPosts
-	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+	.slice(0, 60);
+const initialPostPreviews = toPostPreviews(initialPosts);
 
 const mainTags = Object.keys(tagHierarchy);
 ---
@@ -19,16 +22,16 @@ const mainTags = Object.keys(tagHierarchy);
 	description="Tutoriels GOCHARBON: guides actionnables, pas à pas, pour exécuter plus vite sur le web."
 	pageTitle="Tutos GOCHARBON"
 >
-	<main class="px-2 md:px-6 py-6 max-w-7xl mx-auto">
-		<div id="dynamic-content">
-			<FilterTags
-				client:visible
-				mainTags={mainTags}
-				initialPosts={initialPosts}
-				scope="tutos"
-			/>
-		</div>
-	</main>
+		<main class="px-2 md:px-6 py-6 max-w-7xl mx-auto">
+			<div id="dynamic-content">
+				<FilterTags
+					client:visible
+					mainTags={mainTags}
+					initialPosts={initialPostPreviews}
+					scope="tutos"
+				/>
+			</div>
+		</main>
 </Layout>
 
 <style>

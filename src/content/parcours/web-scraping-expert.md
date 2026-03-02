@@ -8,29 +8,29 @@ status: "active"
 updatedAt: "2026-03-01"
 ---
 ## Objectif
-Transformer des donnees web en insights/actionnables exploitables business.
+Transformer des données web en insights/actionnables exploitables business.
 
-## Positionnement metier
-- Cible prioritaire: Equipes growth, pricing, leadgen et veille concurrentielle.
-- Canal d'acquisition dominant: Cas usage ROI (prix, leads, veille) documentes.
-- Angle differentiant: execution orientee resultat, pas seulement production.
+## Positionnement métier
+- Cible prioritaire : Equipes growth, pricing, leadgen et veille concurrentielle.
+- Canal d'acquisition dominant : Cas usage ROI (prix, leads, veille) documentes.
+- Angle différenciant : exécution orientée résultat, pas seulement production.
 
-## Offres a tester
+## Offres à tester
 1. Audit sources + faisabilite scraping
 2. Pipeline extraction + nettoyage
-3. Monitoring recurrent + alerting
+3. Monitoring récurrent + alerting
 
-## Plan d'execution 30-90 jours
-1. Jours 1-15: formaliser une offre lisible, choisir un sous-marche, produire 2 preuves (demo, cas, avant/apres).
-2. Jours 16-45: lancer prospection + contenu d'autorite, signer 1 a 3 clients beta, cadrer delivery.
-3. Jours 46-90: standardiser process, augmenter panier moyen, documenter les resultats pour scaler.
+## Plan d'exécution 1-7 jours
+1. Jour 1 : transformer "Audit sources + faisabilite scraping" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
+2. Jours 2-4 : activer le canal prioritaire (Cas usage ROI (prix, leads, veille) documentes.) pour vendre "Pipeline extraction + nettoyage" à des clients pilotes avec retours structurés.
+3. Jours 5-7 : standardiser la livraison de "Monitoring récurrent + alerting", suivre fiabilité extraction et fréquence mise a jour dataset, puis optimiser marge et répétition.
 
 ## KPI de pilotage
 - Fiabilite extraction
 - Frequence mise a jour dataset
-- Temps gain pour equipe cliente
+- Temps gain pour équipe cliente
 
-## Risques critiques a eviter
+## Risques critiques à éviter
 - Ignorer contraintes legales/robots
 - Pipeline fragile anti-bot
 - Absence observabilite jobs
@@ -40,16 +40,16 @@ Transformer des donnees web en insights/actionnables exploitables business.
 - Process technique versionne avec QA
 - Mesure impact business (temps, cout, revenu)
 
-## Liens existants a activer maintenant
+## Liens existants à activer maintenant
 - [Fiche profil Web Scraping Expert](/biz/profils/web-scraping-expert)
 - [Quiz rapide (orientation)](/quiz-rapide)
-- [Quiz avance (validation)](/quiz-avance)
+- [Quiz avancé (validation)](/quiz-avance)
 - [Tracker parcours](/parcours/web-scraping-expert)
-- [Ressource metier 1](/tutos/quelle-api-pour-scraper-google-maps)
-- [Ressource metier 2](/tutos/extraction-leads-google-maps)
-- [Ressource metier 3](/tutos/surveiller-les-prix-ou-autre-info-sur-le-web)
+- [Ressource métier 1](/tutos/quelle-api-pour-scraper-google-maps)
+- [Ressource métier 2](/tutos/extraction-leads-google-maps)
+- [Ressource métier 3](/tutos/surveiller-les-prix-ou-autre-info-sur-le-web)
 
-## Liens futurs a produire (backlog editorial)
-- [Guide futur 1: checklist conformite scraping](/tutos/web-scraping-expert/checklist-conformite-scraping)
+## Liens futurs à produire (backlog éditorial)
+- [Guide futur 1: checklist conformité scraping](/tutos/web-scraping-expert/checklist-conformite-scraping)
 - [Guide futur 2: pipeline resilient proxy](/tutos/web-scraping-expert/pipeline-resilient-proxy)
 - [Guide futur 3: monitoring jobs extraction](/tutos/web-scraping-expert/monitoring-jobs-extraction)

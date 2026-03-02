@@ -20,6 +20,7 @@ import { getTagPosts, isMainTag } from '../../../utils/static-responses';
 import { cacheConfig } from '../../../config/tags';
 import { tagHierarchy } from '../../../components/tagHierarchy';
 import { parseContentScope } from '../../../utils/content-section';
+import { toPostPreviews } from '../../../utils/post-preview';
 
 /**
  * Pre-generates routes for all main tags at build time
@@ -72,11 +73,12 @@ export const GET: APIRoute = async ({ params, props, url }) => {
 
         // Fetch posts for this tag (with date sorting)
         const posts = await getTagPosts(tag, 1, scope, perPage);
+        const postPreviews = toPostPreviews(posts);
         const isStatic = props?.isMainTag || isMainTag(tag);
 
         return new Response(JSON.stringify({
             tag,
-            posts,
+            posts: postPreviews,
             scope,
             isStatic
         }), {

@@ -16,7 +16,7 @@ const props = withDefaults(defineProps<Props>(), {
 });
 
 const { data } = props.post;
-const isInitialLoad = props.index < 15;
+const isInitialLoad = props.index < 2;
 
 // Utiliser le composable pour générer les couleurs de manière réactive
 const { randomColor, randomDarkColor } = useRandomColor({

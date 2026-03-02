@@ -16,6 +16,8 @@ Les francophones qui veulent lancer un business en ligne font face à 3 murs :
 
 **Notre positionnement** : On est le filtre anti-bullshit entre cet océan d'info et le solopreneur francophone qui veut avancer sans se faire arnaquer.
 
+**Notre modèle pédagogique** : On ne vend pas des parcours longs de type "formation de 6 mois". On délivre des parcours d'activation courts (quelques heures à quelques jours) pour débloquer un premier résultat concret, puis on redirige vers des experts, outils et programmes plus avancés via affiliation quand c'est le bon moment.
+
 ---
 
 ## Personas
@@ -37,7 +39,7 @@ Les francophones qui veulent lancer un business en ligne font face à 3 murs :
 - Veut des étapes claires, pas de la théorie
 - Se méfie des promesses trop belles
 
-**Ce qu'on lui apporte** : Un parcours structuré (quiz > articles > newsletter > outils recommandés) qui le fait passer de "je sais pas par où commencer" à "j'ai lancé mon truc".
+**Ce qu'on lui apporte** : Un parcours structuré court (quiz > plan d'action > mise en pratique rapide > recommandations) qui le fait passer de "je sais pas par où commencer" à "j'ai lancé mon truc", puis l'oriente vers les meilleurs spécialistes pour l'étape suivante.
 
 ### Persona 2 : Le Freelance Équipé (cible secondaire)
 
@@ -177,11 +179,18 @@ Les francophones qui veulent lancer un business en ligne font face à 3 murs :
 
 ## Modèle de Revenus
 
+### Principe central
+- Les parcours GOCHARBON servent d'**accélérateurs de démarrage** (quick wins, cadrage, premières actions).
+- La profondeur expert (juridique, ads avancées, dev spécifique, coaching pointu, etc.) est assumée comme externe.
+- La monétisation se fait principalement quand on recommande la bonne solution externe au bon profil, au bon moment.
+- On gagne la confiance sur la clarté et l'honnêteté, pas sur la rétention artificielle.
+
 ### Actuel
 | Source | Mécanisme | Potentiel |
 |--------|-----------|-----------|
 | Affiliation SaaS | Liens affiliés dans les articles (AppSumo, Brevo, Vie De Dingue, etc.) | 10-70% de commission par vente |
 | Affiliation lifetime deals | Recommandations dans les guides comparatifs | Volume x tickets moyens de 50-200€ |
+| Orientation experts | Redirection vers prestataires/programmes pertinents après parcours court | Commission fixe ou variable selon partenaire |
 
 ### Projeté
 | Source | Mécanisme | Horizon |
@@ -206,14 +215,14 @@ CONSIDÉRATION (Comparatifs + Guides)
    Articles avec pros/cons, vrais prix, avis honnêtes
          |
          v
-ENGAGEMENT (Quiz + Newsletter)
+ENGAGEMENT (Quiz + Parcours Courts)
    Quiz "Quel business en ligne est fait pour toi ?"
-   Lead magnet : "10 outils français indispensables"
+   Parcours d'activation (quelques heures/jours max) + premiers livrables
          |
          v
-CONVERSION (Affiliation + Produits)
-   Liens affiliés naturellement intégrés
-   Guides premium / Deals exclusifs
+ORIENTATION (Affiliation Contextuelle)
+   Redirection vers experts/outils partenaires selon blocage réel
+   Liens affiliés intégrés avec transparence + rationale
          |
          v
 RÉTENTION (Newsletter + Communauté)
@@ -233,8 +242,6 @@ Ce qui nous rend **impossibles à copier** :
 
 3. **L'autorité par la vulnérabilité** — "J'ai échoué, voilà pourquoi" est plus puissant que "j'ai réussi, voilà comment". Ça construit une confiance que le marketing classique ne peut pas acheter.
 
-4. **La profondeur technique** — On ne reste pas en surface. On explique les architectures, on montre du code, on compare des frameworks. C'est pour les gens sérieux.
-
 5. **Transparence totale sur la monétisation** — Chaque lien affilié est signalé. Chaque limite est mentionnée. Ça fidélise.
 
 ---
@@ -245,6 +252,7 @@ Ce qui nous rend **impossibles à copier** :
 - **Francophone first** : présenter l'alternative FR/EU avant l'US
 - **Anti-bullshit** : pas de promesses irréalistes, pas de "guru vibes"
 - **Transparence** : signaler les affiliations, avouer les limites
+- **Honnêteté de périmètre** : on aide à démarrer vite, on n'usurpe pas l'expertise métier profonde
 - **Accessibilité** : expliquer comme si le lecteur avait 12 ans, sans le prendre de haut
 - **Pragmatisme** : si l'outil US est 10x meilleur, on le dit. Le but c'est que le lecteur réussisse.
 
@@ -258,6 +266,8 @@ Ce qui nous rend **impossibles à copier** :
 | Taux d'inscription newsletter | >10% des visiteurs | Lead generation |
 | Taux d'ouverture newsletter | >30% | Engagement réel |
 | Taux de clic affiliation | >5% | Revenus |
+| Taux de passage parcours -> recommandation partenaire | >15% | Validation du modèle "activation puis orientation" |
+| Taux de satisfaction post-orientation | >4/5 | Qualité réelle des redirections |
 | Temps sur article | >3 min | Contenu qui retient |
 | Pages/session | >2 | Maillage interne efficace |
 | Taux de rebond | <50% | Contenu pertinent |
@@ -265,5 +275,5 @@ Ce qui nous rend **impossibles à copier** :
 
 ---
 
-*Dernière mise à jour : Janvier 2026*
+*Dernière mise à jour : Mars 2026*
 *Ce document évolue avec le business. Les objectifs sont recalibrés chaque trimestre.*

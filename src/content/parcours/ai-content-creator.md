@@ -10,46 +10,46 @@ updatedAt: "2026-03-01"
 ## Objectif
 Produire du contenu multi-format assiste IA avec niveau editorial humain.
 
-## Positionnement metier
-- Cible prioritaire: Coachs, SaaS B2B et marques perso qui doivent publier en continu.
-- Canal d'acquisition dominant: Portfolio de transformations contenu brut vers contenu publish-ready.
-- Angle differentiant: execution orientee resultat, pas seulement production.
+## Positionnement métier
+- Cible prioritaire : Coachs, SaaS B2B et marques perso qui doivent publier en continu.
+- Canal d'acquisition dominant : Portfolio de transformations contenu brut vers contenu publish-ready.
+- Angle différenciant : exécution orientée résultat, pas seulement production.
 
-## Offres a tester
+## Offres à tester
 1. Calendrier editorial 30 jours + prompts proprietaires
 2. Pack contenu cross-canal (article + carrousel + script video)
 3. Service ghostwriting IA supervise
 
-## Plan d'execution 30-90 jours
-1. Jours 1-15: formaliser une offre lisible, choisir un sous-marche, produire 2 preuves (demo, cas, avant/apres).
-2. Jours 16-45: lancer prospection + contenu d'autorite, signer 1 a 3 clients beta, cadrer delivery.
-3. Jours 46-90: standardiser process, augmenter panier moyen, documenter les resultats pour scaler.
+## Plan d'exécution 1-7 jours
+1. Jour 1 : transformer "Calendrier editorial 30 jours + prompts proprietaires" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
+2. Jours 2-4 : activer le canal prioritaire (Portfolio de transformations contenu brut vers contenu publish-ready.) pour vendre "Pack contenu cross-canal (article + carrousel + script video)" à des clients pilotes avec retours structurés.
+3. Jours 5-7 : standardiser la livraison de "Service ghostwriting IA supervise", suivre temps prod par asset en baisse et taux publication respecte > 90%, puis optimiser marge et répétition.
 
 ## KPI de pilotage
 - Temps prod par asset en baisse
 - Taux publication respecte > 90%
 - Leads entrants via contenu organique
 
-## Risques critiques a eviter
+## Risques critiques à éviter
 - Contenu IA generique sans angle
 - Absence de QA factualite
-- Incoherence de ton de marque
+- Incohérence de ton de marque
 
 ## Livrables attendus
 - Ligne editoriale claire sur 3 piliers
-- Systeme de production contenu repetable
+- Système de production contenu repetable
 - Monetisation reliee au contenu (offres/sponsors/affiliation)
 
-## Liens existants a activer maintenant
+## Liens existants à activer maintenant
 - [Fiche profil Ai Content Creator](/biz/profils/ai-content-creator)
 - [Quiz rapide (orientation)](/quiz-rapide)
-- [Quiz avance (validation)](/quiz-avance)
+- [Quiz avancé (validation)](/quiz-avance)
 - [Tracker parcours](/parcours/ai-content-creator)
-- [Ressource metier 1](/tutos/detecter-un-contenu-genere-par-ia)
-- [Ressource metier 2](/tutos/comment-generer-des-videos-en-masse)
-- [Ressource metier 3](/marketing/content-marketing)
+- [Ressource métier 1](/tutos/detecter-un-contenu-genere-par-ia)
+- [Ressource métier 2](/tutos/comment-generer-des-videos-en-masse)
+- [Ressource métier 3](/marketing/content-marketing)
 
-## Liens futurs a produire (backlog editorial)
+## Liens futurs à produire (backlog éditorial)
 - [Guide futur 1: systeme brief editorial](/tutos/ai-content-creator/systeme-brief-editorial)
 - [Guide futur 2: workflow humanisation](/tutos/ai-content-creator/workflow-humanisation)
 - [Guide futur 3: pack prompts marque](/tutos/ai-content-creator/pack-prompts-marque)

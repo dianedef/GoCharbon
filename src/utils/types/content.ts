@@ -1,6 +1,22 @@
-import type { CollectionEntry } from "astro:content";
-
-export type Post = CollectionEntry<"posts">;
+export interface Post {
+  id: string;
+  data: {
+    title: string;
+    description: string;
+    tags: string[];
+    imgUrl:
+      | string
+      | {
+          src: string;
+          width?: number;
+          height?: number;
+          format?: string;
+        };
+    draft?: boolean;
+    pubDate?: Date | string;
+    author?: string;
+  };
+}
 
 export interface FilterTagsProps {
   mainTags: string[];

@@ -1,6 +1,5 @@
 ---
 import ThemeToggle from "./ThemeToggle.astro";
-import colors from "../config/colors.json";
 import { Breadcrumbs } from "astro-breadcrumbs";
 import "astro-breadcrumbs/breadcrumbs.css";
 import { Home, ChevronRight } from "lucide-astro";
@@ -104,7 +103,6 @@ const { pageTitle } = Astro.props;
 				title="Retour a l'accueil"
 				aria-label="Retour a l'accueil"
 				class="inline-block cursor-pointer z-10 relative"
-				data-astro-reload
 			>
 				<span class="righteous text-3xl md:text-5xl text-black dark:text-yellow-soft">GOCHARBON</span>
 			</a>
@@ -116,18 +114,17 @@ const { pageTitle } = Astro.props;
 		<nav class="hidden md:inline-block">
 			<h2 class="hidden">Navigation</h2>
 			<ul class="flex gap-6 poppins items-center">
-				{
-					navigationItems.map((item) => (
-						<li>
-							<a
-								class="text-lg font-medium hover:underline transition-all duration-150 ease-in-out"
-								href={item.url}
-								title={`Go to ${item.name}`}
-								data-astro-reload
-							>
-								{item.name}
-							</a>
-						</li>
+					{
+						navigationItems.map((item) => (
+							<li>
+								<a
+									class="text-lg font-medium hover:underline transition-all duration-150 ease-in-out"
+									href={item.url}
+									title={`Go to ${item.name}`}
+								>
+									{item.name}
+								</a>
+							</li>
 					))
 				}
 				{
@@ -176,7 +173,6 @@ const { pageTitle } = Astro.props;
 						<a
 							class="mobile-link text-lg font-medium block py-2"
 							href={item.url}
-							data-astro-reload
 						>
 							{item.name}
 						</a>

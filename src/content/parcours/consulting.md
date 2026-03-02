@@ -8,48 +8,48 @@ status: "active"
 updatedAt: "2026-03-01"
 ---
 ## Objectif
-Vendre du conseil strategique avec livrables actionnables et impact business.
+Vendre du conseil stratégique avec livrables actionnables et impact business.
 
-## Positionnement metier
-- Cible prioritaire: Dirigeants PME et fondateurs qui veulent clarifier priorites.
-- Canal d'acquisition dominant: Thought leadership + recommandations + preuve transformation.
-- Angle differentiant: execution orientee resultat, pas seulement production.
+## Positionnement métier
+- Cible prioritaire : Dirigeants PME et fondateurs qui veulent clarifier priorites.
+- Canal d'acquisition dominant : Thought leadership + recommandations + preuve transformation.
+- Angle différenciant : exécution orientée résultat, pas seulement production.
 
-## Offres a tester
+## Offres à tester
 1. Audit 360 + roadmap
-2. Atelier strategie 1 journee
-3. Suivi mensuel execution board
+2. Atelier stratégie 1 journee
+3. Suivi mensuel exécution board
 
-## Plan d'execution 30-90 jours
-1. Jours 1-15: formaliser une offre lisible, choisir un sous-marche, produire 2 preuves (demo, cas, avant/apres).
-2. Jours 16-45: lancer prospection + contenu d'autorite, signer 1 a 3 clients beta, cadrer delivery.
-3. Jours 46-90: standardiser process, augmenter panier moyen, documenter les resultats pour scaler.
+## Plan d'exécution 1-7 jours
+1. Jour 1 : transformer "Audit 360 + roadmap" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
+2. Jours 2-4 : activer le canal prioritaire (Thought leadership + recommandations + preuve transformation.) pour vendre "Atelier stratégie 1 journee" à des clients pilotes avec retours structurés.
+3. Jours 5-7 : standardiser la livraison de "Suivi mensuel exécution board", suivre nb diagnostics signes/mois et taux transformation audit->retainer, puis optimiser marge et répétition.
 
 ## KPI de pilotage
 - Nb diagnostics signes/mois
 - Taux transformation audit->retainer
 - Valeur moyenne mission
 
-## Risques critiques a eviter
+## Risques critiques à éviter
 - Conseil trop theorique
 - Pas de priorisation
-- Absence transfert execution
+- Absence transfert exécution
 
 ## Livrables attendus
-- Offre service delimitee avec perimetre et SLA
-- Pipeline commercial operationnel
+- Offre service délimitée avec périmètre et SLA
+- Pipeline commercial opérationnel
 - Cadre delivery + communication client standard
 
-## Liens existants a activer maintenant
+## Liens existants à activer maintenant
 - [Fiche profil Consulting](/biz/profils/consulting)
 - [Quiz rapide (orientation)](/quiz-rapide)
-- [Quiz avance (validation)](/quiz-avance)
+- [Quiz avancé (validation)](/quiz-avance)
 - [Tracker parcours](/parcours/consulting)
-- [Ressource metier 1](/performance/plan/analyse-marche)
-- [Ressource metier 2](/performance/plan/business-plan)
-- [Ressource metier 3](/marketing/client/experience-client)
+- [Ressource métier 1](/performance/plan/analyse-marche)
+- [Ressource métier 2](/performance/plan/business-plan)
+- [Ressource métier 3](/marketing/client/experience-client)
 
-## Liens futurs a produire (backlog editorial)
+## Liens futurs à produire (backlog éditorial)
 - [Guide futur 1: canevas diagnostic 360](/tutos/consulting/canevas-diagnostic-360)
 - [Guide futur 2: atelier priorisation ceo](/tutos/consulting/atelier-priorisation-ceo)
 - [Guide futur 3: template roadmap 90 jours](/tutos/consulting/template-roadmap-90-jours)

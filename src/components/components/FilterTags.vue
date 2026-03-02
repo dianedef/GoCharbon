@@ -270,7 +270,7 @@ async function loadPosts() {
                 // ...selectedSubTags.value,
                 // ...selectedSubSubTags.value
             ];
-            const perPage = props.scope === 'apps' || props.scope === 'tutos' || props.scope === 'parcours' ? 1000 : 15;
+            const perPage = props.scope === 'apps' || props.scope === 'tutos' || props.scope === 'parcours' ? 60 : 15;
             
             if (allSelectedTags.length === 0) {
                 posts.value = props.initialPosts;

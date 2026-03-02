@@ -10,46 +10,46 @@ updatedAt: "2026-03-01"
 ## Objectif
 Piloter acquisition et revenu via sequences email performantes.
 
-## Positionnement metier
-- Cible prioritaire: Ecom, SaaS, infopreneurs avec base email existante ou a construire.
-- Canal d'acquisition dominant: Lead magnets qualifies + popups contextuels + partenariats liste.
-- Angle differentiant: execution orientee resultat, pas seulement production.
+## Positionnement métier
+- Cible prioritaire : Ecom, SaaS, infopreneurs avec base email existante ou a construire.
+- Canal d'acquisition dominant : Lead magnets qualifiés + popups contextuels + partenariats liste.
+- Angle différenciant : exécution orientée résultat, pas seulement production.
 
-## Offres a tester
+## Offres à tester
 1. Setup automation lifecycle
 2. Refonte newsletter hebdo
 3. Sprint deliverabilite + hygiene list
 
-## Plan d'execution 30-90 jours
-1. Jours 1-15: formaliser une offre lisible, choisir un sous-marche, produire 2 preuves (demo, cas, avant/apres).
-2. Jours 16-45: lancer prospection + contenu d'autorite, signer 1 a 3 clients beta, cadrer delivery.
-3. Jours 46-90: standardiser process, augmenter panier moyen, documenter les resultats pour scaler.
+## Plan d'exécution 1-7 jours
+1. Jour 1 : transformer "Setup automation lifecycle" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
+2. Jours 2-4 : activer le canal prioritaire (Lead magnets qualifiés + popups contextuels + partenariats liste.) pour vendre "Refonte newsletter hebdo" à des clients pilotes avec retours structurés.
+3. Jours 5-7 : standardiser la livraison de "Sprint deliverabilite + hygiene list", suivre open rate segmenté et ctr campagnes, puis optimiser marge et répétition.
 
 ## KPI de pilotage
-- Open rate segmente
+- Open rate segmenté
 - CTR campagnes
 - Revenu par email envoye
 
-## Risques critiques a eviter
+## Risques critiques à éviter
 - Listes froides non nettoyees
 - Sequence unique pour tous segments
 - Suivi revenu absent
 
 ## Livrables attendus
-- Offre marketing packagee avec promesse et cas usage cible
-- Systeme acquisition actif sur 1 canal principal
-- Reporting KPI hebdomadaire avec decisions actionnables
+- Offre marketing packagée avec promesse et cas usage cible
+- Système acquisition actif sur 1 canal principal
+- Reporting KPI hebdomadaire avec décisions actionnables
 
-## Liens existants a activer maintenant
+## Liens existants à activer maintenant
 - [Fiche profil Email Marketer](/biz/profils/email-marketer)
 - [Quiz rapide (orientation)](/quiz-rapide)
-- [Quiz avance (validation)](/quiz-avance)
+- [Quiz avancé (validation)](/quiz-avance)
 - [Tracker parcours](/parcours/email-marketer)
-- [Ressource metier 1](/marketing/email/strategie)
-- [Ressource metier 2](/marketing/email/automation)
-- [Ressource metier 3](/tutos/ameliorer-sa-deliverabilite)
+- [Ressource métier 1](/marketing/email/strategie)
+- [Ressource métier 2](/marketing/email/automation)
+- [Ressource métier 3](/tutos/ameliorer-sa-deliverabilite)
 
-## Liens futurs a produire (backlog editorial)
+## Liens futurs à produire (backlog éditorial)
 - [Guide futur 1: plan segmentation rfm](/tutos/email-marketer/plan-segmentation-rfm)
 - [Guide futur 2: checklist deliverabilite](/tutos/email-marketer/checklist-deliverabilite)
 - [Guide futur 3: modele welcome sequence](/tutos/email-marketer/modele-welcome-sequence)

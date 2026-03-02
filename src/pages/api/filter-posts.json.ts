@@ -24,6 +24,7 @@ import type { APIRoute } from 'astro';
 import { getFilteredPosts, isCommonCombination } from '../../utils/static-responses';
 import { commonCombinations, cacheConfig } from '../../config/tags';
 import { parseContentScope } from '../../utils/content-section';
+import { toPostPreviews } from '../../utils/post-preview';
 
 /**
  * Pre-generates static routes for common tag combinations
@@ -78,18 +79,19 @@ export const GET: APIRoute = async ({ url, props }) => {
 
         // Apply filtering logic (handles tag hierarchy and normalization)
         const posts = await getFilteredPosts(tags, page, scope, perPage);
+        const postPreviews = toPostPreviews(posts);
         
         // Determine if this is a pre-generated (static) or dynamic route
         // Static routes get longer cache for better performance
         const isStatic = props?.isCommonCombo || isCommonCombination(tags);
 
-        // User-friendly message when no results found
-        const message = posts.length === 0 ? 'Aucun résultat trouvé pour cette combinaison de tags' : undefined;
+	        // User-friendly message when no results found
+	        const message = postPreviews.length === 0 ? 'Aucun résultat trouvé pour cette combinaison de tags' : undefined;
 
         return new Response(JSON.stringify({
             tags,
             scope,
-            posts,
+            posts: postPreviews,
             page,
             perPage,
             isStatic,

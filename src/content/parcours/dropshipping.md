@@ -10,29 +10,29 @@ updatedAt: "2026-03-01"
 ## Objectif
 Trouver une offre gagnante et fiabiliser acquisition + logistique.
 
-## Positionnement metier
-- Cible prioritaire: Operateurs e-commerce qui veulent lancer rapidement des tests produit.
-- Canal d'acquisition dominant: Meta ads UGC + tests offers courts + pages pre-sell.
-- Angle differentiant: execution orientee resultat, pas seulement production.
+## Positionnement métier
+- Cible prioritaire : Operateurs e-commerce qui veulent lancer rapidement des tests produit.
+- Canal d'acquisition dominant : Meta ads UGC + tests offers courts + pages pre-sell.
+- Angle différenciant : exécution orientée résultat, pas seulement production.
 
-## Offres a tester
+## Offres à tester
 1. Setup boutique + funnel conversion
 2. Pack test creatives ads 14 jours
 3. Pilotage marge et SAV externalise
 
-## Plan d'execution 30-90 jours
-1. Jours 1-15: formaliser une offre lisible, choisir un sous-marche, produire 2 preuves (demo, cas, avant/apres).
-2. Jours 16-45: lancer prospection + contenu d'autorite, signer 1 a 3 clients beta, cadrer delivery.
-3. Jours 46-90: standardiser process, augmenter panier moyen, documenter les resultats pour scaler.
+## Plan d'exécution 1-7 jours
+1. Jour 1 : transformer "Setup boutique + funnel conversion" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
+2. Jours 2-4 : activer le canal prioritaire (Meta ads UGC + tests offers courts + pages pre-sell.) pour vendre "Pack test creatives ads 14 jours" à des clients pilotes avec retours structurés.
+3. Jours 5-7 : standardiser la livraison de "Pilotage marge et SAV externalise", suivre roas par angle et taux remboursement, puis optimiser marge et répétition.
 
 ## KPI de pilotage
 - ROAS par angle
 - Taux remboursement
 - Marge nette par commande
 
-## Risques critiques a eviter
-- Dependance fournisseur unique
-- Mauvaise experience livraison
+## Risques critiques à éviter
+- Dépendance fournisseur unique
+- Mauvaise expérience livraison
 - Scale trop rapide sans supply
 
 ## Livrables attendus
@@ -40,16 +40,16 @@ Trouver une offre gagnante et fiabiliser acquisition + logistique.
 - Tunnel conversion audite (fiche -> checkout)
 - Pilotage stock, retours et rentabilite par produit
 
-## Liens existants a activer maintenant
+## Liens existants à activer maintenant
 - [Fiche profil Dropshipping](/biz/profils/dropshipping)
 - [Quiz rapide (orientation)](/quiz-rapide)
-- [Quiz avance (validation)](/quiz-avance)
+- [Quiz avancé (validation)](/quiz-avance)
 - [Tracker parcours](/parcours/dropshipping)
-- [Ressource metier 1](/biz/e-commerce/index)
-- [Ressource metier 2](/tutos/shopify-store-qui-font-des-millions)
-- [Ressource metier 3](/marketing/ads/meta)
+- [Ressource métier 1](/biz/e-commerce/index)
+- [Ressource métier 2](/tutos/shopify-store-qui-font-des-millions)
+- [Ressource métier 3](/marketing/ads/meta)
 
-## Liens futurs a produire (backlog editorial)
+## Liens futurs à produire (backlog éditorial)
 - [Guide futur 1: methodologie test produit](/tutos/dropshipping/methodologie-test-produit)
 - [Guide futur 2: sop supply saver](/tutos/dropshipping/sop-supply-saver)
 - [Guide futur 3: tableau bord marge logistique](/tutos/dropshipping/tableau-bord-marge-logistique)

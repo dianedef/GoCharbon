@@ -104,47 +104,45 @@ const breadcrumbSchema = {
 };
 ---
 
-<head>
-	<LocalFont />
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<meta name="generator" content={Astro.generator} />
-	<meta name="robots" content={metaRobots} />
-	<ClientRouter />
+<LocalFont />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="generator" content={Astro.generator} />
+<meta name="robots" content={metaRobots} />
+<ClientRouter />
 
-	<link
-		rel="alternate"
-		href="https://gocharbon.com/feed.xml"
-		type="application/rss+xml"
-	/>
+<link
+	rel="alternate"
+	href="https://gocharbon.com/feed.xml"
+	type="application/rss+xml"
+/>
 
-	<meta name="title" content={`GOCHARBON | ${title}`} />
-	<meta name="description" content={description} />
+<meta name="title" content={`GOCHARBON | ${title}`} />
+<meta name="description" content={description} />
 
-	<meta property="og:type" content="website" />
-	<meta property="og:url" content={canonicalURL} />
-	<meta property="og:title" content={title} />
-	<meta property="og:description" content={description} />
-	<meta property="og:image" content={fullOgImageUrl} />
+<meta property="og:type" content="website" />
+<meta property="og:url" content={canonicalURL} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={fullOgImageUrl} />
 
-	<meta property="twitter:card" content="summary_large_image" />
-	<meta property="twitter:url" content={canonicalURL} />
-	<meta property="twitter:title" content={title} />
-	<meta property="twitter:description" content={description} />
-	<meta property="twitter:image" content={fullOgImageUrl} />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content={canonicalURL} />
+<meta property="twitter:title" content={title} />
+<meta property="twitter:description" content={description} />
+<meta property="twitter:image" content={fullOgImageUrl} />
 
-	<link rel="canonical" href={canonicalURL} />
-	<link rel="icon" type="image/svg" href="/favicon.svg" />
+<link rel="canonical" href={canonicalURL} />
+<link rel="icon" type="image/svg" href="/favicon.svg" />
 
-	<title>GOCHARBON | {title}</title>
+<title>GOCHARBON | {title}</title>
 
-	<!-- JSON-LD Structured Data -->
-	{breadcrumbItems.length > 1 && (
-		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
-	)}
-	{blogPostingSchema && (
-		<script type="application/ld+json" set:html={JSON.stringify(blogPostingSchema)} />
-	)}
+<!-- JSON-LD Structured Data -->
+{breadcrumbItems.length > 1 && (
+	<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+)}
+{blogPostingSchema && (
+	<script type="application/ld+json" set:html={JSON.stringify(blogPostingSchema)} />
+)}
 
-	<slot />
-</head>
+<slot />

@@ -8,48 +8,48 @@ status: "active"
 updatedAt: "2026-03-01"
 ---
 ## Objectif
-Concevoir une formation en ligne qui produit un resultat concret eleve.
+Concevoir une formation en ligne qui produit un résultat concret eleve.
 
-## Positionnement metier
-- Cible prioritaire: Experts metier qui veulent transformer leur savoir en programme vendu.
-- Canal d'acquisition dominant: Lead magnet + webinaire + sequence emails de conversion.
-- Angle differentiant: execution orientee resultat, pas seulement production.
+## Positionnement métier
+- Cible prioritaire : Experts métier qui veulent transformer leur savoir en programme vendu.
+- Canal d'acquisition dominant : Lead magnet + webinaire + sequence emails de conversion.
+- Angle différenciant : exécution orientée résultat, pas seulement production.
 
-## Offres a tester
-1. Architecture pedagogique + curriculum
+## Offres à tester
+1. Architecture pédagogique + curriculum
 2. Lancement cohorte pilote
-3. Systeme support eleves + community
+3. Système support eleves + community
 
-## Plan d'execution 30-90 jours
-1. Jours 1-15: formaliser une offre lisible, choisir un sous-marche, produire 2 preuves (demo, cas, avant/apres).
-2. Jours 16-45: lancer prospection + contenu d'autorite, signer 1 a 3 clients beta, cadrer delivery.
-3. Jours 46-90: standardiser process, augmenter panier moyen, documenter les resultats pour scaler.
+## Plan d'exécution 1-7 jours
+1. Jour 1 : transformer "Architecture pédagogique + curriculum" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
+2. Jours 2-4 : activer le canal prioritaire (Lead magnet + webinaire + sequence emails de conversion.) pour vendre "Lancement cohorte pilote" à des clients pilotes avec retours structurés.
+3. Jours 5-7 : standardiser la livraison de "Système support eleves + community", suivre taux completion et taux transformation leads->eleves, puis optimiser marge et répétition.
 
 ## KPI de pilotage
 - Taux completion
 - Taux transformation leads->eleves
 - Taux satisfaction fin de parcours
 
-## Risques critiques a eviter
+## Risques critiques à éviter
 - Cours long sans progression
 - Promesse non measurable
 - Absence accompagnement
 
 ## Livrables attendus
-- Programme pedagogique relie a un resultat concret
+- Programme pédagogique relie à un résultat concret
 - Mecanique de vente active (webinaire, calls, email)
-- Systeme suivi apprenants et preuve de progression
+- Système suivi apprenants et preuve de progression
 
-## Liens existants a activer maintenant
+## Liens existants à activer maintenant
 - [Fiche profil Elearning Creator](/biz/profils/elearning-creator)
 - [Quiz rapide (orientation)](/quiz-rapide)
-- [Quiz avance (validation)](/quiz-avance)
+- [Quiz avancé (validation)](/quiz-avance)
 - [Tracker parcours](/parcours/elearning-creator)
-- [Ressource metier 1](/tutos/creer-une-formation-en-ligne)
-- [Ressource metier 2](/tutos/comment-creer-un-quiz-qui-convertit)
-- [Ressource metier 3](/marketing/email/automation)
+- [Ressource métier 1](/tutos/creer-une-formation-en-ligne)
+- [Ressource métier 2](/tutos/comment-creer-un-quiz-qui-convertit)
+- [Ressource métier 3](/marketing/email/automation)
 
-## Liens futurs a produire (backlog editorial)
+## Liens futurs à produire (backlog éditorial)
 - [Guide futur 1: design curriculum resultat](/tutos/elearning-creator/design-curriculum-resultat)
 - [Guide futur 2: onboarding eleve](/tutos/elearning-creator/onboarding-eleve)
 - [Guide futur 3: dashboard completion](/tutos/elearning-creator/dashboard-completion)

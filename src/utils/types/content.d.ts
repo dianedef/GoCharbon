@@ -1,25 +1,25 @@
-import type { CollectionEntry } from "astro:content";
-
 export interface Post {
     id: string;
     data: {
         title: string;
         description: string;
-        pubDate: Date;
-        author: string;
         tags: string[];
-        imgUrl: {
-            src: string;
-            width: number;
-            height: number;
-            format: string;
-        };
+        imgUrl:
+            | string
+            | {
+                  src: string;
+                  width?: number;
+                  height?: number;
+                  format?: string;
+              };
         draft?: boolean;
+        pubDate?: Date | string;
+        author?: string;
     };
 }
 
 export interface PostGridProps {
-    posts: CollectionEntry<"posts">[];
+    posts: Post[];
     showLoadingSpinner?: boolean;
     currentPage?: number;
     totalPages?: number;
@@ -27,7 +27,7 @@ export interface PostGridProps {
 }
 
 export interface PostListProps {
-  posts: CollectionEntry<"posts">[];
+  posts: Post[];
 }
 
 export interface RecentPostsProps {

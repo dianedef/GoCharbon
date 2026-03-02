@@ -10,46 +10,46 @@ updatedAt: "2026-03-01"
 ## Objectif
 Generer du revenu via campagnes paid social structurees et mesurables.
 
-## Positionnement metier
-- Cible prioritaire: Ecom, info-business, services locaux avec budget test.
-- Canal d'acquisition dominant: Resultats chiffrables ROAS/CPA et audits comptes existants.
-- Angle differentiant: execution orientee resultat, pas seulement production.
+## Positionnement métier
+- Cible prioritaire : Ecom, info-business, services locaux avec budget test.
+- Canal d'acquisition dominant : Resultats chiffrables ROAS/CPA et audits comptes existants.
+- Angle différenciant : exécution orientée résultat, pas seulement production.
 
-## Offres a tester
+## Offres à tester
 1. Setup tracking + comptes pub
 2. Gestion campagnes Meta/TikTok
 3. Sprint creatives + scaling rules
 
-## Plan d'execution 30-90 jours
-1. Jours 1-15: formaliser une offre lisible, choisir un sous-marche, produire 2 preuves (demo, cas, avant/apres).
-2. Jours 16-45: lancer prospection + contenu d'autorite, signer 1 a 3 clients beta, cadrer delivery.
-3. Jours 46-90: standardiser process, augmenter panier moyen, documenter les resultats pour scaler.
+## Plan d'exécution 1-7 jours
+1. Jour 1 : transformer "Setup tracking + comptes pub" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
+2. Jours 2-4 : activer le canal prioritaire (Resultats chiffrables ROAS/CPA et audits comptes existants.) pour vendre "Gestion campagnes Meta/TikTok" à des clients pilotes avec retours structurés.
+3. Jours 5-7 : standardiser la livraison de "Sprint creatives + scaling rules", suivre cpa/cpl cible et roas net, puis optimiser marge et répétition.
 
 ## KPI de pilotage
 - CPA/CPL cible
 - ROAS net
 - Frequence + fatigue creatives
 
-## Risques critiques a eviter
+## Risques critiques à éviter
 - Tracking non fiable
 - Creatives pas renouvelees
 - Scale sans rentabilite
 
 ## Livrables attendus
-- Offre marketing packagee avec promesse et cas usage cible
-- Systeme acquisition actif sur 1 canal principal
-- Reporting KPI hebdomadaire avec decisions actionnables
+- Offre marketing packagée avec promesse et cas usage cible
+- Système acquisition actif sur 1 canal principal
+- Reporting KPI hebdomadaire avec décisions actionnables
 
-## Liens existants a activer maintenant
+## Liens existants à activer maintenant
 - [Fiche profil Social Media Ads Manager](/biz/profils/social-media-ads-manager)
 - [Quiz rapide (orientation)](/quiz-rapide)
-- [Quiz avance (validation)](/quiz-avance)
+- [Quiz avancé (validation)](/quiz-avance)
 - [Tracker parcours](/parcours/social-media-ads-manager)
-- [Ressource metier 1](/marketing/ads/meta)
-- [Ressource metier 2](/marketing/ads/google)
-- [Ressource metier 3](/tutos/espionner-les-pubs-de-vos-concurrents-sur-fb-yt)
+- [Ressource métier 1](/marketing/ads/meta)
+- [Ressource métier 2](/marketing/ads/google)
+- [Ressource métier 3](/tutos/espionner-les-pubs-de-vos-concurrents-sur-fb-yt)
 
-## Liens futurs a produire (backlog editorial)
+## Liens futurs à produire (backlog éditorial)
 - [Guide futur 1: checklist tracking conversion](/tutos/social-media-ads-manager/checklist-tracking-conversion)
 - [Guide futur 2: cadre test creatives](/tutos/social-media-ads-manager/cadre-test-creatives)
 - [Guide futur 3: regles scaling budget](/tutos/social-media-ads-manager/regles-scaling-budget)

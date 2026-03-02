@@ -44,7 +44,7 @@ const FOUNDATION_STEPS: PathStep[] = [
   {
     id: 'bases-business',
     title: 'Bases du business en ligne',
-    description: 'Comprendre modèle, validation et execution.',
+    description: 'Comprendre modèle, validation et exécution.',
     href: '/biz/index',
     type: 'guide',
   },
@@ -198,8 +198,8 @@ function executionModule(profileSlug: string): PathModule {
 
   return {
     id: 'execution',
-    title: 'Exécution 30 jours',
-    objective: `Passer de la théorie à une offre ${label} testée sur le marché.`,
+    title: 'Exécution 7 jours',
+    objective: `Passer de la théorie à une offre ${label} testée en conditions réelles sur 7 jours.`,
     steps: [
       {
         id: 'offre',
@@ -240,7 +240,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Marketing d'Affiliation",
     category: 'marketing',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -259,7 +259,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Agence Digitale",
     category: 'service',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -278,7 +278,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "AI Automation Agency",
     category: 'tech',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -297,7 +297,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "AI Content Creator",
     category: 'content',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -316,7 +316,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Amazon FBA",
     category: 'ecommerce',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -335,7 +335,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "App Developer / Développeur d'applications mobiles",
     category: 'tech',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -354,7 +354,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Blogging / Site de Contenu",
     category: 'content',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -373,7 +373,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Chatbot Developer (No-Code)",
     category: 'tech',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -392,7 +392,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Closer / Sales Closer",
     category: 'service',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -411,7 +411,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Coaching en Ligne",
     category: 'formation',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -430,7 +430,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Community Builder / Gestionnaire de Communauté",
     category: 'content',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -449,7 +449,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Consulting / Conseil Stratégique",
     category: 'service',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -468,7 +468,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Créateur de Contenu",
     category: 'content',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -487,7 +487,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Copywriter / Rédacteur Publicitaire",
     category: 'marketing',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -506,7 +506,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Data Entry Specialist / Spécialiste Saisie de Données",
     category: 'service',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -525,7 +525,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Designer Graphique Freelance",
     category: 'marketing',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -544,7 +544,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Dropshipping",
     category: 'ecommerce',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -563,7 +563,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "E-commerce / Boutique en ligne",
     category: 'ecommerce',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -582,7 +582,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "E-learning Creator / Créateur de Formations en Ligne",
     category: 'formation',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -601,7 +601,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Email Marketer / Spécialiste Marketing par Email",
     category: 'marketing',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -620,7 +620,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Formation en Ligne",
     category: 'formation',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -639,7 +639,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Freelance / Services en Ligne",
     category: 'service',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -658,7 +658,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Infoproduits / Produits Digitaux",
     category: 'formation',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -677,7 +677,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Lead Generation Specialist / Spécialiste en Génération de Leads",
     category: 'marketing',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -696,7 +696,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Newsletter / Email Business",
     category: 'content',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -715,7 +715,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Notion Expert / Spécialiste Notion",
     category: 'formation',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -734,7 +734,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Online Tutor / Enseignant en Ligne",
     category: 'service',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -753,7 +753,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Pet Sitter (Garde d'animaux)",
     category: 'general',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -772,7 +772,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Podcast",
     category: 'content',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -791,7 +791,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Print-on-Demand (POD)",
     category: 'ecommerce',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -810,7 +810,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Prompt Engineer / Consultant IA",
     category: 'tech',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -829,7 +829,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "SaaS (Logiciel en Service)",
     category: 'tech',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -848,7 +848,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "SEO Consultant / Consultant en Référencement Naturel",
     category: 'marketing',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -867,7 +867,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Setter / Appointment Setter",
     category: 'service',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -886,7 +886,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Social Media Ads Manager / Gestionnaire de Publicités Réseaux Sociaux",
     category: 'marketing',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -905,7 +905,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Social Media Manager",
     category: 'marketing',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -924,7 +924,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Stock Photography / Photographie et Vidéos Stock",
     category: 'content',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -943,7 +943,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Translation Services / Services de Traduction",
     category: 'service',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -962,7 +962,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Virtual Assistant / Assistant Virtuel Spécialisé",
     category: 'service',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -981,7 +981,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Voiceover Artist / Comédien de Doublage",
     category: 'content',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -1000,7 +1000,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "Web Scraping Expert / Expert en Web Scraping",
     category: 'tech',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {
@@ -1019,7 +1019,7 @@ export const learningPaths: LearningPath[] = [
     profileTitle: "YouTubeur",
     category: 'content',
     level: 'debutant',
-    estimatedDuration: '4 à 8 semaines',
+    estimatedDuration: "3 à 8 heures + 1 à 7 jours d'application",
     outcome: 'Lancer une offre concrète et obtenir des signaux de marché.',
     modules: [
       {

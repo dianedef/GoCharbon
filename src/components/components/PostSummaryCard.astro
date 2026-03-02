@@ -11,7 +11,7 @@ type Props = PostSummaryCardProps;
 
 const { post, index = 0 } = Astro.props;
 const { data } = post;
-const isInitialLoad = index < 15;
+const isInitialLoad = index < 2;
 /* 
 console.log("PostSummaryCard reçoit:", {
 	postId: post.id,
@@ -127,4 +127,3 @@ const buttonColor = 'var(--brand-copper)';
 		</div>
 	</Card>
 </div>
-

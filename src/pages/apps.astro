@@ -4,9 +4,11 @@ import Layout from "../layouts/Default.astro";
 import FilterTags from "../components/components/FilterTags.vue";
 import { tagHierarchy } from "../components/tagHierarchy";
 import { applyContentScope } from "../utils/content-section";
+import { toPostPreviews } from "../utils/post-preview";
 
 const posts = applyContentScope(await getCollection("posts"), "apps")
 	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+const initialPosts = toPostPreviews(posts.slice(0, 60));
 
 const mainTags = Object.keys(tagHierarchy);
 ---
@@ -19,7 +21,7 @@ const mainTags = Object.keys(tagHierarchy);
 			<FilterTags
 				client:visible
 				mainTags={mainTags}
-				initialPosts={posts}
+				initialPosts={initialPosts}
 				scope="apps"
 			/>
 		</div>

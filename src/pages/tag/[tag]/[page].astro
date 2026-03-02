@@ -5,6 +5,7 @@ import FilterTags from "../../../components/components/FilterTags.vue";
 import PostGrid from "../../../components/components/PostGrid.astro";
 import { tagHierarchy } from "../../../components/tagHierarchy";
 import type { Post, PostsUpdateEvent } from "../../../utils/types/content";
+import { toPostPreviews } from "../../../utils/post-preview";
 
 // Récupération des posts initiaux pour le SSG
 const allPosts = await getCollection("posts");
@@ -65,6 +66,7 @@ export async function getStaticPaths() {
 const { tag: encodedTag, posts } = Astro.props;
 const tag = decodeURIComponent(encodedTag);
 const selectedTags = [tag];
+const clientPosts = toPostPreviews(posts);
 ---
 
 <Layout
@@ -79,12 +81,12 @@ const selectedTags = [tag];
 		class="page-background bg-gray-2 dark:bg-gray-8 p-6"
 		transition:name="posts-container"
 	>
-		<FilterTags
-			mainTags={mainTags}
-			initialPosts={posts}
-			selectedTags={selectedTags}
-			client:visible
-		/>
+			<FilterTags
+				mainTags={mainTags}
+				initialPosts={clientPosts}
+				selectedTags={selectedTags}
+				client:visible
+			/>
 		{
 			posts.length > 0 ? (
 				<div>
