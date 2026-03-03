@@ -60,3 +60,21 @@ Ne serait-ce pas génial si ton CRM pouvait fonctionner avec d'autres applicatio
 ## Conclusion
 
 Félicitations, jeunes entrepreneurs ! Tu as appris à construire ton propre CRM personnalisé sans aucune compétence en matière de codage. En utilisant une plateforme conviviale comme Formaloo, tu peux créer un outil puissant pour organiser et gérer tes relations avec tes clients. N'oublie pas qu'un CRM a pour but de fournir un meilleur service à tes clients et d'établir des relations solides avec eux. Alors vas-y, commence à créer ton CRM personnalisé, et regarde ton entreprise prospérer !
+## Ressources utiles pour continuer
+
+### Lectures liées
+
+- [Comment faire de l'automatisation marketing](/tutos/comment-faire-de-lautomatisation-marketing)
+- [Créer une liste email B2B pour la prospection](/tutos/comment-creer-une-liste-email-pour-de-la)
+
+### Outils et stratégies complémentaires
+
+- [Stratégie email: plan clair pour démarrer](/marketing/email/strategie)
+- [Automatisation email: scénarios essentiels](/marketing/email/automation)
+
+## Checklist express
+
+- [ ] Choisis un objectif unique pour cette étape.
+- [ ] Lance une première action test à petite échelle.
+- [ ] Mesure le résultat après 7 jours.
+- [ ] Ajuste avant de passer à l'échelle.

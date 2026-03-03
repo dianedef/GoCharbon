@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
-Vendre du conseil stratégique avec livrables actionnables et impact business.
+## Ton objectif
+Vendre du conseil stratégique avec des actions concrètes qui font avancer le business.
 
-## Positionnement métier
-- Cible prioritaire : Dirigeants PME et fondateurs qui veulent clarifier priorites.
-- Canal d'acquisition dominant : Thought leadership + recommandations + preuve transformation.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Dirigeants PME et fondateurs qui veulent clarifier priorités.
+- Où trouver les clients : contenu d'expertise + recommandations + preuve transformation.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
-1. Audit 360 + roadmap
-2. Atelier stratégie 1 journee
+## Idées d'offres à tester
+1. Audit 360 + plan d'action
+2. Atelier stratégie 1 journée
 3. Suivi mensuel exécution board
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Audit 360 + roadmap" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Thought leadership + recommandations + preuve transformation.) pour vendre "Atelier stratégie 1 journee" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Suivi mensuel exécution board", suivre nb diagnostics signes/mois et taux transformation audit->retainer, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Audit 360 + plan d'action" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (contenu d'expertise + recommandations + preuve transformation.) pour proposer "Atelier stratégie 1 journée" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Suivi mensuel exécution board", puis suis nb diagnostics signes/mois et taux transformation audit->abonnement mensuel, puis ajuste petit à petit.
 
-## KPI de pilotage
+## Les chiffres utiles à suivre
 - Nb diagnostics signes/mois
-- Taux transformation audit->retainer
+- Taux transformation audit->abonnement mensuel
 - Valeur moyenne mission
 
-## Risques critiques à éviter
-- Conseil trop theorique
+## Pièges à éviter
+- Conseil trop théorique
 - Pas de priorisation
 - Absence transfert exécution
 
-## Livrables attendus
-- Offre service délimitée avec périmètre et SLA
-- Pipeline commercial opérationnel
-- Cadre delivery + communication client standard
+## À la fin, tu dois avoir
+- Une offre claire avec ce qui est inclus (et ce qui ne l'est pas)
+- Une façon simple de trouver des clients régulièrement
+- Une routine de travail claire et des messages prêts pour tes clients
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Consulting](/biz/profils/consulting)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/consulting)
-- [Ressource métier 1](/performance/plan/analyse-marche)
-- [Ressource métier 2](/performance/plan/business-plan)
-- [Ressource métier 3](/marketing/client/experience-client)
+- [Suivi du parcours](/parcours/consulting)
+- [Ressource utile 1](/performance/plan/analyse-marche)
+- [Ressource utile 2](/performance/plan/business-plan)
+- [Ressource utile 3](/marketing/client/experience-client)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: canevas diagnostic 360](/tutos/consulting/canevas-diagnostic-360)
-- [Guide futur 2: atelier priorisation ceo](/tutos/consulting/atelier-priorisation-ceo)
-- [Guide futur 3: template roadmap 90 jours](/tutos/consulting/template-roadmap-90-jours)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: canevas diagnostic 360](/tutos/consulting/canevas-diagnostic-360)
+- [Guide à venir 2: atelier priorisation ceo](/tutos/consulting/atelier-priorisation-ceo)
+- [Guide à venir 3: template roadmap 90 jours](/tutos/consulting/template-roadmap-90-jours)

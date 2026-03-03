@@ -85,7 +85,12 @@
           </li>
         </ul>
         <div class="result-actions">
-          <a v-if="finalBizProfile?.learningPathUrl" :href="finalBizProfile.learningPathUrl" class="quiz-btn primary no-link-style">
+          <a
+            v-if="finalBizProfile?.learningPathUrl"
+            :href="finalBizProfile.learningPathUrl"
+            class="quiz-btn primary no-link-style"
+            @click="startLearningPath"
+          >
             Commencer le Parcours
           </a>
           <a v-if="finalBizProfile" :href="finalBizProfile.slug" class="quiz-btn primary no-link-style">
@@ -113,6 +118,12 @@
 
 <script setup lang="ts">
 import { ref, reactive, computed, onMounted } from 'vue';
+import {
+  createPathStepKey,
+  getCompletedStepIds,
+  setCompletedStepIds,
+} from '../../gamification/pathProgress';
+import { setTaskCompleted } from '../../gamification/xp';
 
 type ProfileKey = 'ecommerce' | 'saas' | 'content' | 'service' | 'formation';
 type ProfileScores = Record<ProfileKey, number>;
@@ -123,6 +134,7 @@ interface BizProfileData {
   slug: string;
   tags: string[];
   learningPathUrl?: string;
+  learningPathId?: string;
 }
 
 interface QuizOption {
@@ -323,6 +335,32 @@ const goToAdvancedQuiz = () => {
 
   window.location.assign('/quiz-avance');
 };
+
+function markQuizStepAsCompleted(pathId: string): void {
+  if (!pathId) return;
+
+  const stepId = mode.value === 'quick' ? 'orientation-rapide' : 'orientation-avance';
+  const stepKey = createPathStepKey('fondations', stepId);
+  const completed = new Set(getCompletedStepIds(pathId));
+
+  completed.add(stepKey);
+  setCompletedStepIds(pathId, Array.from(completed));
+  setTaskCompleted(`${pathId}::${stepKey}`, true, 'quiz');
+}
+
+function startLearningPath(event: MouseEvent): void {
+  const href = finalBizProfile.value?.learningPathUrl;
+  if (!href || typeof window === 'undefined') {
+    return;
+  }
+
+  event.preventDefault();
+  const pathId = finalBizProfile.value?.learningPathId;
+  if (pathId) {
+    markQuizStepAsCompleted(pathId);
+  }
+  window.location.assign(href);
+}
 
 const addPoints = (points: Partial<ProfileScores>) => {
   for (const [profile, value] of Object.entries(points)) {

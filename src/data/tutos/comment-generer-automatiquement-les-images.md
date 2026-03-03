@@ -121,3 +121,21 @@ Lorsque votre article est parfait, appuyez sur le bouton de publication et voil�
 > Vous avez trouvé le titre/image parfait à utiliser à la dernière minute ?
 
 # **Félicitations ! 🎉**
+## Ressources utiles pour continuer
+
+### Lectures liées
+
+- [Comment faire de l'automatisation marketing](/tutos/comment-faire-de-lautomatisation-marketing)
+- [Créer une liste email B2B pour la prospection](/tutos/comment-creer-une-liste-email-pour-de-la)
+
+### Outils et stratégies complémentaires
+
+- [Stratégie email: plan clair pour démarrer](/marketing/email/strategie)
+- [Automatisation email: scénarios essentiels](/marketing/email/automation)
+
+## Checklist express
+
+- [ ] Choisis un objectif unique pour cette étape.
+- [ ] Lance une première action test à petite échelle.
+- [ ] Mesure le résultat après 7 jours.
+- [ ] Ajuste avant de passer à l'échelle.

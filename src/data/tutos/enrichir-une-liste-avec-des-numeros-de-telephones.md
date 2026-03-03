@@ -108,3 +108,21 @@ Après c’est ce qu’il y a sur le marché. Sinon y en a qui prennent des leak
 UPDATE : j’ai fait un script qui check les sites-web. Il est à la recherche d’expressions régulières 06 et 07, et il les ajoute à un gsheet lorsqu’il les trouve.  J’ai un taux d’enrichissement à 43%.  Si ça intéresse quelqu’un, il peut me MP  
 
 [Enrichir une BDD de CEOs avec des 06 ? - Scraping - Growthhacking.fr | Communauté française de growth hacking](https://www.growthhacking.fr/t/enrichir-une-bdd-de-ceos-avec-des-06/31718)
+## Ressources utiles pour continuer
+
+### Lectures liées
+
+- [Comment faire de l'automatisation marketing](/tutos/comment-faire-de-lautomatisation-marketing)
+- [Créer une liste email B2B pour la prospection](/tutos/comment-creer-une-liste-email-pour-de-la)
+
+### Outils et stratégies complémentaires
+
+- [Stratégie email: plan clair pour démarrer](/marketing/email/strategie)
+- [Automatisation email: scénarios essentiels](/marketing/email/automation)
+
+## Checklist express
+
+- [ ] Choisis un objectif unique pour cette étape.
+- [ ] Lance une première action test à petite échelle.
+- [ ] Mesure le résultat après 7 jours.
+- [ ] Ajuste avant de passer à l'échelle.

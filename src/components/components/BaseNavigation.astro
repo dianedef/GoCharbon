@@ -202,15 +202,18 @@ const { pageTitle } = Astro.props;
 </header>
 
 <script>
-	document.addEventListener("astro:page-load", () => {
+	const initMobileMenu = () => {
 		const btn = document.getElementById("mobile-menu-btn");
 		const menu = document.getElementById("mobile-menu");
 		const hamburgerIcon = document.getElementById("hamburger-icon");
 		const closeIcon = document.getElementById("close-icon");
 		const mobileLinks = menu?.querySelectorAll('a[href^="/"]');
 
-		btn?.addEventListener("click", () => {
-			const isOpen = menu?.classList.toggle("hidden") === false;
+		if (!btn || !menu || btn.dataset.mobileMenuInit === "true") return;
+		btn.dataset.mobileMenuInit = "true";
+
+		btn.addEventListener("click", () => {
+			const isOpen = menu.classList.toggle("hidden") === false;
 			btn.setAttribute("aria-expanded", String(isOpen));
 			btn.setAttribute("aria-label", isOpen ? "Fermer le menu" : "Ouvrir le menu");
 			hamburgerIcon?.classList.toggle("hidden", isOpen);
@@ -219,12 +222,17 @@ const { pageTitle } = Astro.props;
 
 		mobileLinks?.forEach((link) => {
 			link.addEventListener("click", () => {
-				menu?.classList.add("hidden");
-				btn?.setAttribute("aria-expanded", "false");
-				btn?.setAttribute("aria-label", "Ouvrir le menu");
+				menu.classList.add("hidden");
+				btn.setAttribute("aria-expanded", "false");
+				btn.setAttribute("aria-label", "Ouvrir le menu");
 				hamburgerIcon?.classList.remove("hidden");
 				closeIcon?.classList.add("hidden");
 			});
 		});
-	});
+	};
+
+	initMobileMenu();
+	document.addEventListener("astro:page-load", initMobileMenu);
+	document.addEventListener("astro:after-swap", initMobileMenu);
+	document.addEventListener("DOMContentLoaded", initMobileMenu);
 </script>

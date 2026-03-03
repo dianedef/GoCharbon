@@ -43,22 +43,22 @@ const FOUNDATION_STEPS: PathStep[] = [
   },
   {
     id: 'bases-business',
-    title: 'Bases du business en ligne',
-    description: 'Comprendre modèle, validation et exécution.',
+    title: 'Les bases du business en ligne',
+    description: 'Comprendre le modèle, tester l’idée et passer à l’action.',
     href: '/biz/index',
     type: 'guide',
   },
   {
     id: 'bases-marketing',
-    title: 'Fondamentaux marketing',
-    description: 'Acquisition, message, conversion et parcours client.',
+    title: 'Les bases pour trouver des clients',
+    description: 'Message, visibilité et passage à l’action.',
     href: '/marketing/fondamentaux',
     type: 'guide',
   },
   {
     id: 'bases-seo',
-    title: 'Bases SEO',
-    description: "Installer un socle d'acquisition organique durable.",
+    title: 'Les bases du SEO',
+    description: "Poser des bases SEO qui apportent des visites dans le temps.",
     href: '/seo/fondamentaux/bases-seo',
     type: 'guide',
   },
@@ -74,19 +74,19 @@ function toProfileLabel(profileSlug: string): string {
 function categoryAngle(category: string): string {
   switch (category) {
     case 'marketing':
-      return 'positionnement, offre et canaux d’acquisition';
+      return 'idée claire, offre simple et canaux pour trouver des clients';
     case 'ecommerce':
-      return 'offre, tunnel de vente et conversion';
+      return 'offre claire, page de vente et passage à l’achat';
     case 'tech':
-      return 'proposition de valeur, produit et validation terrain';
+      return 'problème utile, produit simple et test avec de vraies personnes';
     case 'content':
-      return 'ligne éditoriale, audience et monétisation';
+      return 'sujets utiles, audience fidèle et revenus';
     case 'formation':
-      return 'programme, promesse pédagogique et ventes';
+      return 'programme clair, promesse d’apprentissage et ventes';
     case 'service':
-      return 'offre freelance, prospection et delivery';
+      return 'offre de service, prospection et travail bien rendu';
     default:
-      return 'offre, acquisition et exécution';
+      return 'offre, clients, action';
   }
 }
 
@@ -113,7 +113,7 @@ const PROFILE_SPECIALIZATION_LINKS: Record<string, string[]> = {
   coaching: ["/biz/profils/formation", "/marketing/client/experience-client", "/marketing/tunnel/atelier"],
   "community-builder": ["/marketing/social/community", "/marketing/social/strategie", "/tutos/comment-organiser-un-concours-sur-les-reseaux"],
   consulting: ["/performance/plan/analyse-marche", "/performance/plan/business-plan", "/marketing/client/experience-client"],
-  "content-creator": ["/marketing/content-marketing", "/tutos/construire-un-calendrier-editorial-qui", "/tutos/generer-des-carousels-pour-tous-les-reseaux"],
+  "content-creator": ["/marketing/content-marketing", "/tutos/comment-construire-un-calendrier-editorial-qui", "/tutos/generer-des-carousels-pour-tous-les-reseaux"],
   copywriter: ["/marketing/email/strategie", "/marketing/content-marketing", "/tutos/comment-ecrire-un-script-youtube-captivant"],
   "data-entry-specialist": ["/tutos/enrichir-une-liste-avec-des-numeros-de-telephones", "/tutos/extraction-leads-google-maps", "/tutos/construire-un-tableau-de-bord-personnalise-sur"],
   "design-graphique": ["/tutos/comment-faire-des-vignettes-youtube-miniatures", "/tutos/comment-generer-automatiquement-les-images", "/outils/creation/index"],
@@ -126,7 +126,7 @@ const PROFILE_SPECIALIZATION_LINKS: Record<string, string[]> = {
   infoproduits: ["/tutos/comment-auto-editer-son-propre-livre-en-ligne", "/marketing/tunnel/atelier", "/marketing/email/strategie"],
   "lead-generation": ["/tutos/extraction-leads-google-maps", "/tutos/creer-une-1ere-campagne-de-cold-emailing", "/outils/business/autres/crm"],
   newsletter: ["/marketing/email/strategie", "/tutos/comment-creer-une-liste-email-pour-de-la", "/tutos/envoyer-email-a-partir-de-wordpress"],
-  "notion-expert": ["/tutos/comment-creer-saas-avec-espace-membre-avec-notion", "/tutos/creer-un-pdf-remplissalbe", "/marketing/tunnel/atelier"],
+  "notion-expert": ["/tutos/comment-creer-saas-avec-espace-membre-avec-notion", "/tutos/comment-creer-un-pdf-remplissalbe", "/marketing/tunnel/atelier"],
   "online-tutor": ["/tutos/creer-une-formation-en-ligne", "/marketing/tunnel/atelier", "/tutos/comment-creer-un-quiz-qui-convertit"],
   "pet-sitter": ["/marketing/fondamentaux", "/tutos/creer-sa-page-de-resa-google-calendar", "/tutos/recolter-les-avis-de-ses-clients-en-video"],
   podcast: ["/marketing/content-marketing", "/tutos/convertir-un-audio-en-texte-mp3-mp4-vers-word-txt", "/tutos/comment-avoir-un-son-parfait-sur-tes-videos-pour"],
@@ -158,8 +158,8 @@ function specializationModule(profileSlug: string, category: string): PathModule
 
   return {
     id: 'specialisation',
-    title: 'Spécialisation métier',
-    objective: `Monétiser ${label} avec un plan clair: ${angle}.`,
+    title: 'Approfondir ton activité',
+    objective: `Lancer ${label} avec un plan simple: ${angle}.`,
     steps: [
       {
         id: 'profil-principal',
@@ -170,22 +170,22 @@ function specializationModule(profileSlug: string, category: string): PathModule
       },
       {
         id: 'specialisation-1',
-        title: `Stratégie cœur ${label}`,
-        description: `Construire la stratégie principale adaptée à ${label}.`,
+        title: `Base du métier ${label}`,
+        description: `Poser une base claire pour ${label}.`,
         href: links[0],
         type: 'guide',
       },
       {
         id: 'specialisation-2',
-        title: `Acquisition & exécution ${label}`,
-        description: `Renforcer acquisition, exécution et qualité de delivery pour ${label}.`,
+        title: `Trouver des clients & bien servir ${label}`,
+        description: `Améliorer la prospection, le service rendu et la qualité pour ${label}.`,
         href: links[1],
         type: 'guide',
       },
       {
         id: 'specialisation-3',
-        title: `Stack d’outils ${label}`,
-        description: `Sélectionner les outils prioritaires pour accélérer ${label}.`,
+        title: `Outils utiles ${label}`,
+        description: `Choisir les outils les plus utiles pour ${label}.`,
         href: links[2],
         type: 'tuto',
       },
@@ -198,27 +198,27 @@ function executionModule(profileSlug: string): PathModule {
 
   return {
     id: 'execution',
-    title: 'Exécution 7 jours',
-    objective: `Passer de la théorie à une offre ${label} testée en conditions réelles sur 7 jours.`,
+    title: 'Plan 7 jours',
+    objective: `Passer à l’action en 7 jours pour valider ton offre ${label} dans la vraie vie.`,
     steps: [
       {
         id: 'offre',
-        title: `Formuler l’offre ${label}`,
-        description: `Définir cible, promesse et proposition de valeur pour ${label}.`,
+        title: `Créer ton offre ${label}`,
+        description: `Choisir pour qui tu aides, ce que tu proposes et à quel prix pour ${label}.`,
         href: '/marketing/tunnel/proramme-beta',
         type: 'action',
       },
       {
         id: 'acquisition',
-        title: `Lancer l’acquisition ${label}`,
-        description: `Mettre en place le canal prioritaire d’acquisition pour ${label}.`,
+        title: `Trouver tes premiers clients ${label}`,
+        description: `Activer un canal simple pour trouver tes premiers clients pour ${label}.`,
         href: '/marketing/tunnel/atelier',
         type: 'action',
       },
       {
         id: 'pilotage',
-        title: `Mesurer & optimiser ${label}`,
-        description: `Suivre les indicateurs clés et ajuster rapidement ${label}.`,
+        title: `Suivre et améliorer ${label}`,
+        description: `Regarder les chiffres utiles et ajuster vite pour ${label}.`,
         href: '/marketing/analytics/kpis',
         type: 'action',
       },
@@ -245,8 +245,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('affiliation', 'marketing'),
@@ -264,8 +264,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('agence', 'service'),
@@ -283,8 +283,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('ai-automation', 'tech'),
@@ -302,8 +302,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('ai-content-creator', 'content'),
@@ -321,8 +321,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('amazon-fba', 'ecommerce'),
@@ -340,8 +340,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('app-developer', 'tech'),
@@ -359,8 +359,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('blogging', 'content'),
@@ -378,8 +378,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('chatbot-developer', 'tech'),
@@ -397,8 +397,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('closing', 'service'),
@@ -416,8 +416,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('coaching', 'formation'),
@@ -435,8 +435,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('community-builder', 'content'),
@@ -454,8 +454,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('consulting', 'service'),
@@ -473,8 +473,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('content-creator', 'content'),
@@ -492,8 +492,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('copywriter', 'marketing'),
@@ -511,8 +511,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('data-entry-specialist', 'service'),
@@ -530,8 +530,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('design-graphique', 'marketing'),
@@ -549,8 +549,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('dropshipping', 'ecommerce'),
@@ -568,8 +568,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('ecommerce', 'ecommerce'),
@@ -587,8 +587,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('elearning-creator', 'formation'),
@@ -606,8 +606,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('email-marketer', 'marketing'),
@@ -625,8 +625,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('formation', 'formation'),
@@ -644,8 +644,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('freelance', 'service'),
@@ -663,8 +663,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('infoproduits', 'formation'),
@@ -682,8 +682,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('lead-generation', 'marketing'),
@@ -701,8 +701,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('newsletter', 'content'),
@@ -720,8 +720,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('notion-expert', 'formation'),
@@ -739,8 +739,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('online-tutor', 'service'),
@@ -758,8 +758,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('pet-sitter', 'general'),
@@ -777,8 +777,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('podcast', 'content'),
@@ -796,8 +796,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('print-on-demand', 'ecommerce'),
@@ -815,8 +815,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('prompt-engineer', 'tech'),
@@ -834,8 +834,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('saas', 'tech'),
@@ -853,8 +853,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('seo-consultant', 'marketing'),
@@ -872,8 +872,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('setter', 'service'),
@@ -891,8 +891,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('social-media-ads-manager', 'marketing'),
@@ -910,8 +910,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('social-media-manager', 'marketing'),
@@ -929,8 +929,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('stock-photography', 'content'),
@@ -948,8 +948,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('translation-services', 'service'),
@@ -967,8 +967,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('virtual-assistant', 'service'),
@@ -986,8 +986,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('voiceover-artist', 'content'),
@@ -1005,8 +1005,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('web-scraping-expert', 'tech'),
@@ -1024,8 +1024,8 @@ export const learningPaths: LearningPath[] = [
     modules: [
       {
         id: 'fondations',
-        title: 'Fondations communes',
-        objective: 'Comprendre les bases business, marketing et acquisition.',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premiers clients.',
         steps: FOUNDATION_STEPS,
       },
       specializationModule('youtube', 'content'),

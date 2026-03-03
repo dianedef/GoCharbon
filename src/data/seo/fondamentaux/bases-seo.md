@@ -4,189 +4,111 @@ title: "Bases du SEO : Guide Complet"
 author: Diane
 tags:
   - 'SEO'
-  - 'Référencement'
-description: Les fondamentaux du référencement naturel sans bullshit en 2026
+  - 'Referencement'
+description: Les bases SEO expliquees simplement pour obtenir des visites utiles et regulieres.
 pubDate: "2026-01-17"
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Bases du SEO : Ce Qui Marche en 2026
+# Bases du SEO: faire simple et efficace
 
-Le SEO (Search Engine Optimization) = améliorer ta visibilité sur Google. C'est pas magique, c'est de la méthode. Voici les bases.
+Le SEO, c'est rendre ton site visible quand les gens cherchent deja ce que tu proposes.
 
-## Comment fonctionne Google ?
+## Ton objectif
 
-Google a 3 étapes pour classer ton site :
+Obtenir des visites qualifiees et durables, sans dependre uniquement de la pub.
 
-1. **Crawling** : Google découvre tes pages (via liens, sitemap)
-2. **Indexing** : Google stocke tes pages dans sa base
-3. **Ranking** : Google classe tes pages selon la pertinence
+## En clair (version simple)
 
-**Réalité :** Si Google ne peut pas crawler ou indexer ton site, tu n'exsites pas. Vérifie dans Google Search Console.
+Le SEO repose sur 3 piliers:
 
-## Les 3 piliers du SEO
+1. technique: ton site doit etre lisible par Google
+2. contenu: tes pages doivent repondre a une intention de recherche
+3. autorite: d'autres sites doivent te citer
 
-### 1. Technique
+## Etape 1 - Technique propre
 
-Ce que Google doit voir pour comprendre ton site.
+Controle minimum:
 
-**Indispensable :**
+- site accessible en mobile
+- chargement correct
+- maillage interne logique
+- pages importantes indexables
 
-- Sitemap XML (liste de toutes tes pages)
-- Robots.txt (dit à Google quoi crawler)
-- Structure propre (H1 → H2 → H3)
-- Mobile-first responsive
-- Vitesse de chargement < 3 secondes
+Outils de base:
+- Google Search Console
+- PageSpeed Insights
 
-**À vérifier d'abord :**
+## Etape 2 - Contenu utile
 
-| Outil                 | Usage                    |
-| --------------------- | ------------------------ |
-| Google Search Console | Pages indexées, erreurs  |
-| PageSpeed Insights    | Vitesse, Core Web Vitals |
-| Screaming Frog        | Structure, liens brisés  |
-| Lighthouse            | Audit technique complet  |
+Pour chaque page:
 
-### 2. Contenu
+- un sujet principal
+- une intention claire
+- une structure H1/H2/H3 lisible
+- des exemples concrets
+- une conclusion actionnable
 
-Le contenu doit répondre à l'intention de recherche.
+## Etape 3 - Autorite progressive
 
-**Types d'intention :**
+Pas besoin de 1000 backlinks spam.
+Vise des liens utiles:
 
-| Intention      | Requête type               | Format optimal     |
-| -------------- | -------------------------- | ------------------ |
-| Informationnel | "Comment optimiser le SEO" | Guide complet      |
-| Transactionnel | "Avoir le meilleur CRM"    | Comparaison        |
-| Navigationnel  | "GoCharbon"                | Page d'accueil     |
-| Investigation  | "CRM vs Notion"            | Tableau comparatif |
+- partenariats
+- contenus cites naturellement
+- collaborations de niche
 
-**Règles d'or :**
+## Plan SEO 30 jours
 
-- Titre H1 unique par page
-- 1 mot-clé principal par page
-- Contenu long-form (1000-2000 mots) pour les guides
-- Structure sémantique (H2, H3)
-- Méta description optimisée (150-160 caractères)
+### Semaine 1
 
-### 3. Autorité
+- audit technique rapide
+- liste de 20 mots-cles pertinents
 
-Les backlinks = votes de confiance pour ton site.
+### Semaine 2
 
-**Types de backlinks :**
+- publication de 2 contenus cibles
+- optimisation des titres et metas
 
-| Type         | Valeur        | Comment obtenir         |
-| ------------ | ------------- | ----------------------- |
-| Éditorial    | Haute         | Créer du contenu unique |
-| Guest post   | Moyenne-Haute | Proposer des articles   |
-| Forum/Reddit | Basse-Moyenne | Participer activement   |
-| Commentaire  | Faible        | Éviter (souvent spam)   |
+### Semaine 3
 
-**Réalité :** Un bon backlink vaut 100 backlinks de merde. Qualité > quantité.
+- renforcement du maillage interne
+- amelioration mobile et vitesse
 
-## Les 5 erreurs à éviter
+### Semaine 4
 
-### 1. Keyword stuffing
+- premiere passe netlinking propre
+- suivi des positions et ajustements
 
-"Le SEO SEO SEO est SEO important pour SEO ton SEO site"
+## KPI SEO utiles
 
-Google détecte et pénalise. Écris pour les humains, pas pour les robots.
+- impressions
+- clics
+- CTR
+- positions moyennes
+- conversions issues du SEO
 
-### 2. Ignorer le mobile
+## Erreurs frequentes
 
-62% du trafic est mobile. Si ton site pète sur mobile, Google te pénalise.
+- viser des mots-cles trop competitifs trop tot
+- ecrire pour Google au lieu d'ecrire pour l'humain
+- oublier les mises a jour de contenu
+- abandonner trop vite
 
-**Checklist mobile :**
+## Checklist
 
-- Test sur smartphone
-- Vitesse mobile < 3s
-- Pas de pop-ups intrusifs
-- Boutons cliquables (min 44×44 pixels)
+- [ ] Search Console active
+- [ ] priorites mots-cles definies
+- [ ] 2 contenus publies ce mois-ci
+- [ ] maillage interne renforce
+- [ ] suivi KPI hebdo
 
-### 3. Contenu dupliqué
+## Ressources utiles
 
-Copier-coller le contenu d'un autre site = pénalité.
+- [Comment se classer en premier sur Google](/tutos/comment-se-classer-en-premier-sur-google)
+- [Comment creer un topic cluster](/tutos/comment-creer-un-topic-cluster)
+- [KPIs marketing](/marketing/analytics/kpis)
+- [Fondamentaux marketing](/marketing/fondamentaux)
 
-**Solutions :**
-
-- Crée du contenu original
-- Utilise canonicals pour éviter duplicate interne
-- Vérifie avec Copyscape ou tools similaires
-
-### 4. Ignorer les Core Web Vitals
-
-Google mesure l'expérience utilisateur.
-
-| Métrique | Cible   | Impact           |
-| -------- | ------- | ---------------- |
-| LCP      | < 2.5s  | Performance      |
-| FID      | < 100ms | Interactivité    |
-| CLS      | < 0.1   | Layout stability |
-
-### 5. Abandonner après 2 mois
-
-"Personne ne me trouve sur Google" → Tu as testé comment ?
-
-Le SEO prend 6-12 mois avant de voir des résultats. Sois patient.
-
-## Comment commencer ?
-
-### Étape 1 : Audit (1 semaine)
-
-- [ ] Installer Google Search Console
-- [ ] Vérifier l'indexation des pages
-- [ ] Analyser les erreurs (404, 5xx)
-- [ ] Tester la vitesse de chargement
-- [ ] Vérifier la compatibilité mobile
-
-### Étape 2 : Recherche de mots-clés (1 semaine)
-
-- [ ] Identifier 20-30 mots-clés pertinents
-- [ ] Analyser la difficulté (KD)
-- [ ] Vérifier le volume de recherche
-- [ ] Regarder les concurrents
-- [ ] Prioriser (facile + volume décent)
-
-**Outils :**
-
-- Google Keyword Planner (gratuit)
-- Ubersuggest (gratuit)
-- Ahrefs (payant, mais worth it)
-- Semrush (payant)
-
-### Étape 3 : Création de contenu (continuel)
-
-- [ ] Écrire 1-2 articles par semaine
-- [ ] Optimiser chaque article pour 1 mot-clé
-- [ ] Ajouter des liens internes
-- [ ] Mettre à jour le contenu ancien
-- [ ] Publier régulièrement
-
-### Étape 4 : Autorité (continuel)
-
-- [ ] Créer du contenu link-worthy
-- [ ] Faire du guest posting
-- [ ] Participer dans les forums
-- [ ] Réparer les liens brisés
-- [ ] Être actif sur les réseaux sociaux
-
-## KPIs SEO à suivre
-
-| KPI                 | Objectif         | Comment mesurer  |
-| ------------------- | ---------------- | ---------------- |
-| Trafic organique    | +50% en 12 mois  | GA4              |
-| Position moyenne    | Top 10           | Search Console   |
-| CTR (click-through) | > 5%             | Search Console   |
-| Pages indexées      | Toutes tes pages | Search Console   |
-| Backlinks           | +10/mois qualité | Ahrefs / Semrush |
-
-## En savoir plus
-
-- [Comment fonctionnent les moteurs](/seo/fondamentaux/fonctionnement-moteurs) - Comment Google classe
-- [Mythes et Réalités SEO](/seo/fondamentaux/mythes-realites) - Le guide No Bullshit
-- [Facteurs de classement](/seo/fondamentaux/facteurs-classement) - Les 200+ facteurs
-- [SEO Mobile-first](/seo/fondamentaux/mobile-first) - Optimiser pour mobile
-- [Bonnes pratiques SEO](/seo/fondamentaux/bonnes-pratiques) - Les règles d'or
-
----
-
-Le SEO n'est pas compliqué. Technique propre + contenu de qualité + autorité progressive = visibilité. Le reste est du bruit. Commence aujourd'hui, sois patient, mesure les résultats.
+Le SEO recompense la regularite.
+Fais peu, mais fais-le bien, chaque semaine.

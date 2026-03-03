@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
-Creer des chatbots utiles qui resolvent un cas concret (support, lead, onboarding).
+## Ton objectif
+Creer des chatbots utiles qui resolvent un cas concret (support, contact, démarrage).
 
-## Positionnement métier
-- Cible prioritaire : PME services, e-commerce et support client surcharge.
-- Canal d'acquisition dominant : Avant/apres temps de réponse et taux qualification.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : PME services, e-commerce et support client surcharge.
+- Où trouver les clients : Avant/apres temps de réponse et taux qualification.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
+## Idées d'offres à tester
 1. Bot FAQ + handoff humain
-2. Bot qualification leads multicanal
+2. Bot qualification contacts multicanal
 3. Pack optimisation intents + training mensuel
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Bot FAQ + handoff humain" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Avant/apres temps de réponse et taux qualification.) pour vendre "Bot qualification leads multicanal" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Pack optimisation intents + training mensuel", suivre taux resolution bot et taux handoff propre, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Bot FAQ + handoff humain" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Avant/apres temps de réponse et taux qualification.) pour proposer "Bot qualification contacts multicanal" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Pack optimisation intents + training mensuel", puis suis taux résolution bot et taux handoff propre, puis ajuste petit à petit.
 
-## KPI de pilotage
-- Taux resolution bot
+## Les chiffres utiles à suivre
+- Taux résolution bot
 - Taux handoff propre
-- Leads qualifiés via bot
+- contacts qualifiés via bot
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Bot sans base connaissance fiable
 - Conversation trop rigide
 - Absence process escalation
 
-## Livrables attendus
-- Specification claire du service/produit a livrer
-- Process technique versionne avec QA
-- Mesure impact business (temps, cout, revenu)
+## À la fin, tu dois avoir
+- Une version claire de ton service ou produit
+- Un process simple pour produire sans te perdre
+- Un suivi simple du temps, des coûts et des revenus
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Chatbot Developer](/biz/profils/chatbot-developer)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/chatbot-developer)
-- [Ressource métier 1](/tutos/chatbot-whatsapp)
-- [Ressource métier 2](/tutos/creer-chatbot-messenger)
-- [Ressource métier 3](/tutos/creer-un-custom-gpt-gratuitement)
+- [Suivi du parcours](/parcours/chatbot-developer)
+- [Ressource utile 1](/tutos/chatbot-whatsapp)
+- [Ressource utile 2](/tutos/creer-chatbot-messenger)
+- [Ressource utile 3](/tutos/creer-un-custom-gpt-gratuitement)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: architecture intents](/tutos/chatbot-developer/architecture-intents)
-- [Guide futur 2: hand off crm](/tutos/chatbot-developer/hand-off-crm)
-- [Guide futur 3: mesure qualité réponses](/tutos/chatbot-developer/mesure-qualite-reponses)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: architecture intents](/tutos/chatbot-developer/architecture-intents)
+- [Guide à venir 2: hand off crm](/tutos/chatbot-developer/hand-off-crm)
+- [Guide à venir 3: mesure qualité réponses](/tutos/chatbot-developer/mesure-qualite-reponses)

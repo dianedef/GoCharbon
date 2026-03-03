@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
+## Ton objectif
 Transformer une expertise en offre de formation vendable et scalable.
 
-## Positionnement métier
-- Cible prioritaire : Formateurs independants et organismes voulant digitaliser leur offre.
-- Canal d'acquisition dominant : Webinaire, contenu pédagogique et preuve résultats apprenants.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Formateurs independants et organismes voulant digitaliser leur offre.
+- Où trouver les clients : Webinaire, contenu pédagogique et preuve résultats apprenants.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
+## Idées d'offres à tester
 1. Offre formation signature
 2. Tunnel de vente programme
 3. Accompagnement cohortes + support
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Offre formation signature" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Webinaire, contenu pédagogique et preuve résultats apprenants.) pour vendre "Tunnel de vente programme" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Accompagnement cohortes + support", suivre taux inscription et taux completion, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Offre formation signature" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Webinaire, contenu pédagogique et preuve résultats apprenants.) pour proposer "Tunnel de vente programme" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Accompagnement cohortes + support", puis suis taux inscription et taux completion, puis ajuste petit à petit.
 
-## KPI de pilotage
+## Les chiffres utiles à suivre
 - Taux inscription
 - Taux completion
 - Upsell vers offre avancee
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Catalogue trop large
 - Pas de differenciation pédagogique
 - Suivi apprenants insuffisant
 
-## Livrables attendus
+## À la fin, tu dois avoir
 - Programme pédagogique relie à un résultat concret
 - Mecanique de vente active (webinaire, calls, email)
 - Système suivi apprenants et preuve de progression
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Formation](/biz/profils/formation)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/formation)
-- [Ressource métier 1](/biz/profils/formation)
-- [Ressource métier 2](/tutos/creer-une-formation-en-ligne)
-- [Ressource métier 3](/marketing/tunnel/atelier)
+- [Suivi du parcours](/parcours/formation)
+- [Ressource utile 1](/biz/profils/formation)
+- [Ressource utile 2](/tutos/creer-une-formation-en-ligne)
+- [Ressource utile 3](/marketing/tunnel/atelier)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: cadre promesse pédagogique](/tutos/formation/cadre-promesse-pedagogique)
-- [Guide futur 2: plan lancement cohorte](/tutos/formation/plan-lancement-cohorte)
-- [Guide futur 3: systeme evaluation apprenants](/tutos/formation/systeme-evaluation-apprenants)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: cadre promesse pédagogique](/tutos/formation/cadre-promesse-pedagogique)
+- [Guide à venir 2: plan lancement cohorte](/tutos/formation/plan-lancement-cohorte)
+- [Guide à venir 3: systeme evaluation apprenants](/tutos/formation/systeme-evaluation-apprenants)

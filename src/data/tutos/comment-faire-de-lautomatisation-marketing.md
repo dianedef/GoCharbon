@@ -6,13 +6,143 @@ imageNameKey: null
 u_site: null
 title: Comment Faire De L'Automatisation Marketing
 author: Diane
-description: 'Découvre Comment Faire De L''Automatisation Marketing : outil français
-  pour entrepreneurs, fonctionnalités et avis.'
+description: 'Découvre Comment Faire De L''Automatisation Marketing : outil français pour entrepreneurs, fonctionnalités et avis.'
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-A really interesting new study from McKinsey & Company is just in, they’ve found that about a third of all sales tasks can be automated. Get in touch to see how PhantomBuster can help reduce your costs! [https://buff.ly/2WY98J1](https://t.co/0gad7r3QrJ)
+# Comment faire de l'automatisation marketing
 
+L'automatisation marketing sert à envoyer le bon message au bon moment, sans tout faire à la main.
 
-Pour [l'automatisation du marketing,](https://www.pcmag.com/picks/the-best-marketing-automation-software) Sendinblue s'est avéré facile, que vous soyez un spécialiste du marketing plus avancé cherchant à créer quelque chose de personnalisé ou simplement un débutant souhaitant automatiser des séquences d'e-mails de base. L'outil propose des modèles de workflow de base que vous pouvez modifier et reconcevoir pour des tâches spécifiques. Vous trouverez un message de bienvenue, un message d'anniversaire, des chariots abandonnés, une visite de page, une visite de site Web, un achat de produit et des modèles basés sur les activités. Ce n'est pas très flexible, mais nous avons trouvé que c'était un point de départ idéal pour les e-mails et les campagnes de goutte à goutte axés sur le commerce.Vous pouvez démarrer un flux de travail personnalisé avec les types de fichiers suivants : un fichier de contact de base, un contact qui a terminé une activité de courrier électronique ou de site Web, un contact qui a soumis des données de formulaire ou un contact qui a été tagué lors de la visite de votre site Web. Une fois que vous avez déterminé les contacts à ajouter au flux de travail, vous baserez votre séquence sur une série de conditions « si/alors » pour déterminer ce qu'il faut envoyer pour votre prochaine communication. Si quelqu'un ouvre un e-mail, il reçoit un message différent de celui qui ne l'a pas fait. Il n'y a pas de limite au nombre d'interactions que vous pouvez créer, mais votre compte est limité en fonction du nombre d'e-mails que vous pouvez envoyer.Ce qui se démarque vraiment, c'est que Sendinblue offre un moyen simple de créer des filtres de contact en fonction de diverses données démographiques. Vous le souhaitez car cela vous permet d'ajouter automatiquement quelqu'un à un flux de travail. Par exemple, si un contact atteint un certain âge ou passe un certain temps sur votre site Web, il est alors ajouté à un flux de travail qui peut tenter de tirer parti de cette interaction. Ce n'est pas seulement l'une des règles d'automatisation les plus astucieuses que nous avons vues par rapport à nos autres concurrents, Sendinblue l'a également rendue très facile à utiliser.Cette facilité d'utilisation s'étend au reste des capacités d'automatisation de Sendinblue, qui sont considérables pour un outil avec ce prix bas. Il existe plus de 350 000 options pour automatiser les processus de marketing et de vente. Ces actions incluent l'envoi d'e-mails et de SMS, l'organisation des contacts dans différentes listes et la mise à jour des informations dans votre base de données de contacts.PublicitéL'automatisation s'étend également à vos différents canaux marketing, ce qui nous amène à une autre caractéristique remarquable : SendinBlue est l'une des rares solutions que nous avons testées cette année qui s'est penchée sur le marketing par SMS et pas seulement sur les campagnes par e-mail. C'est bien, mais cela peut être une arme à double tranchant car de nombreux consommateurs pensent que le marketing par SMS est beaucoup plus invasif qu'un e-mail. Pourtant, le SMS s'est avéré à la fois plus efficace et personnel que le courrier électronique, il vaut donc la peine de le tester.Toute cette automatisation est aussi ce qui alimente la fonctionnalité [CRM](https://www.pcmag.com/picks/the-best-crm-software) intégrée de Sendinblue . Parce qu'il peut suivre une multitude d'activités d'abonnés, puis les faire correspondre à votre base de données de contacts, vous pouvez facilement faire apparaître ces correspondances et agir sur les opportunités qu'elles offrent. Cela ressemble beaucoup à ce qu'un CRM standard peut faire, sans gestion de pipeline.Dans l'ensemble, les fonctionnalités d'automatisation de Sendinblue se sont démarquées car elles sont étonnamment robustes compte tenu du prix. Cependant, ils ne sont toujours pas dans la même ligue que les concurrents qui ont conçu leurs plates-formes pour des campagnes d'entreprise géantes. Si tel est votre objectif, vos meilleurs paris seront [HubSpot Marketing Hub](https://www.pcmag.com/reviews/hubspot-marketing-hub) et [Salesforce Pardot](https://www.pcmag.com/reviews/salesforce-pardot) , nos outils Editors' Choice pour l'automatisation du marketing.Intégrations et plug-ins-----------------------Sendinblue commence avec des plug-ins pour les plateformes de commerce électronique, [Shopify](https://www.pcmag.com/reviews/shopify) et WooCommerce. Ceux-ci vous permettent de combiner le marketing numérique avec une surveillance des achats de produits de base afin que vous puissiez par la suite ajouter des utilisateurs aux flux de travail en fonction de leur activité d'achat. Cela inclut non seulement un achat, mais également des paniers d'achat abandonnés et la navigation de produits.Outre les achats, Sendinblue propose davantage de plug-ins qui vous permettent d'interagir avec un certain nombre d'applications différentes, en particulier des outils d'analyse et de CRM. La plate-forme est également livrée avec une interface de programmation d'applications (API) ouverte, qui permet à un développeur compétent de créer de nouvelles intégrations au cas où vous auriez besoin de combinaisons de fonctionnalités vraiment personnalisées. Enfin, il existe une extension Facebook Ads qui peut vous aider à tirer le meilleur parti de cette plate-forme si vos abonnés y sont actifs.Un Sendinblue bien amélioré--------------------------Lorsque nous avons examiné Sendinblue pour la première fois il y a plus d'un an, nous avons été déçus par plusieurs aspects : le manque d'intégrations tierces, le manque de fonctionnalités d'automatisation et un système de conception de courrier électronique médiocre. Sendinblue a répondu à toutes ces préoccupations dans cette nouvelle version et a même ajouté des fonctionnalités supplémentaires, notamment sa capacité CRM et le service de consultation de modèles personnalisés.Bien qu'une grande partie de cela soit facile à utiliser, de nombreuses parties de l'application sont encore un peu déroutantes, en particulier pour les nouveaux utilisateurs. Heureusement, Sendinblue dispose d'une base décente de ressources d'assistance. Il existe des boutons d'aide contextuelle sur la plupart des écrans, et vous pouvez également accéder à des didacticiels vidéo plus approfondis sur le site Web de Sendinblue. Il existe également des FAQ consultables et un support technique standard, bien que cela ne soit accessible qu'en créant un ticket Web ou en appelant le numéro sans frais de l'entreprise.PublicitéSendinblue a parcouru un long chemin depuis notre dernier test. Des contrôles d'automatisation exceptionnels à la navigation dans le marketing par SMS, il s'agit désormais d'une plate-forme mature et flexible qui peut être obtenue à un prix très raisonnable. C'est beaucoup de travail en un peu plus d'un an, et cela lui vaut certainement un clin d'œil Editors' Choice.
+## Ce que tu peux automatiser
+
+- emails de bienvenue,
+- relance panier abandonné,
+- suivi post-achat,
+- réactivation clients inactifs,
+- qualification de leads.
+
+## Étape 1 - Fixe un objectif business
+
+Exemples:
+- plus de RDV,
+- plus de ventes,
+- plus de réachat,
+- moins d'abandons.
+
+1 workflow = 1 objectif.
+
+## Étape 2 - Mappe le parcours client
+
+Du premier contact à l'achat:
+- point d'entrée,
+- actions utilisateur,
+- déclencheurs (triggers),
+- messages attendus.
+
+## Étape 3 - Choisis ta stack
+
+Stack simple:
+- CRM,
+- outil email/SMS,
+- tracking site,
+- outil d'automatisation (native ou Make/Zapier).
+
+## Étape 4 - Crée 3 workflows prioritaires
+
+### Workflow 1: bienvenue
+Trigger: inscription.
+
+### Workflow 2: relance abandon
+Trigger: panier abandonné.
+
+### Workflow 3: réactivation
+Trigger: inactivité 30-60 jours.
+
+## Étape 5 - Définis les conditions
+
+Exemples:
+- si email ouvert -> message A,
+- sinon -> message B,
+- si clic -> offre ciblée,
+- si achat -> sortir du workflow.
+
+## Étape 6 - Lance en test contrôlé
+
+- petit segment,
+- vérification des envois,
+- contrôle des liens,
+- contrôle des doublons.
+
+## Étape 7 - Mesure et optimise
+
+KPI utiles:
+- open rate (taux d'ouverture),
+- CTR (taux de clic),
+- conversion,
+- revenu par workflow,
+- désinscriptions.
+
+## Exemple concret (e-commerce)
+
+1. visite produit,
+2. ajout panier,
+3. pas d'achat 2h,
+4. email rappel,
+5. pas d'achat 24h,
+6. email preuve sociale,
+7. achat -> sortie workflow.
+
+## Erreurs fréquentes
+
+- automatiser trop tôt un message faible,
+- faire des workflows trop complexes,
+- oublier les tests,
+- ne pas segmenter,
+- ignorer les métriques.
+
+## Plan 7 jours
+
+### Jour 1
+Objectif + parcours client.
+
+### Jour 2
+Choix outils + tracking.
+
+### Jour 3
+Rédaction emails workflow 1.
+
+### Jour 4
+Rédaction workflows 2 et 3.
+
+### Jour 5
+Configuration technique.
+
+### Jour 6
+Tests bout en bout.
+
+### Jour 7
+Lancement + monitoring.
+
+## Checklist
+
+- [ ] objectif clair
+- [ ] 3 workflows prioritaires
+- [ ] triggers configurés
+- [ ] tests validés
+- [ ] KPI suivis
+
+## Ressources pour aller plus loin
+
+### Tutoriels liés
+
+- [Créer une liste email B2B pour la prospection](/tutos/comment-creer-une-liste-email-pour-de-la)
+- [Comment se faire payer par ses clients](/tutos/comment-se-faire-payer-par-ses-clients)
+
+### Guides marketing complémentaires
+
+- [Automatisation email: scénarios essentiels](/marketing/email/automation)
+- [Stratégie email: plan clair pour débuter](/marketing/email/strategie)
+
+L'automatisation n'est pas magique. Elle amplifie un bon process marketing.

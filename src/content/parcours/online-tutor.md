@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
-Donner des cours en ligne structures avec progression visible.
+## Ton objectif
+Donner des cours en ligne structurés avec progression visible.
 
-## Positionnement métier
-- Cible prioritaire : Eleves, adultes en reconversion et publics preparation examens.
-- Canal d'acquisition dominant : Contenu educatif court + recommandations + partenariats ecoles.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Élèves, adultes en reconversion et publics en préparation d'examens.
+- Où trouver les clients : Contenu éducatif court + recommandations + partenariats écoles.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
+## Idées d'offres à tester
 1. Cours individuels packs 10 sessions
-2. Ateliers collectifs thematiques
-3. Programme suivi progression personnalise
+2. Ateliers collectifs thématiques
+3. Programme suivi progression personnalisé
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Cours individuels packs 10 sessions" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Contenu educatif court + recommandations + partenariats ecoles.) pour vendre "Ateliers collectifs thematiques" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Programme suivi progression personnalise", suivre taux rétention eleves et progression objective apprenants, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Cours individuels packs 10 sessions" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Contenu éducatif court + recommandations + partenariats écoles.) pour proposer "Ateliers collectifs thématiques" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Programme suivi progression personnalisé", puis suis taux rétention élèves et progression claire apprenants, puis ajuste petit à petit.
 
-## KPI de pilotage
-- Taux rétention eleves
+## Les chiffres utiles à suivre
+- Taux rétention élèves
 - Progression objective apprenants
 - Occupation planning hebdo
 
-## Risques critiques à éviter
-- Cours improvises sans méthode
-- Tarification horaire sous-valuee
-- Pas de materiel pédagogique reutilisable
+## Pièges à éviter
+- Cours improvisés sans méthode
+- Tarification horaire sous-évaluée
+- Pas de matériel pédagogique réutilisable
 
-## Livrables attendus
-- Offre service délimitée avec périmètre et SLA
-- Pipeline commercial opérationnel
-- Cadre delivery + communication client standard
+## À la fin, tu dois avoir
+- Une offre claire avec ce qui est inclus (et ce qui ne l'est pas)
+- Une façon simple de trouver des clients régulièrement
+- Une routine de travail claire et des messages prêts pour tes clients
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Online Tutor](/biz/profils/online-tutor)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/online-tutor)
-- [Ressource métier 1](/tutos/creer-une-formation-en-ligne)
-- [Ressource métier 2](/marketing/tunnel/atelier)
-- [Ressource métier 3](/tutos/comment-creer-un-quiz-qui-convertit)
+- [Suivi du parcours](/parcours/online-tutor)
+- [Ressource utile 1](/tutos/creer-une-formation-en-ligne)
+- [Ressource utile 2](/marketing/tunnel/atelier)
+- [Ressource utile 3](/tutos/comment-creer-un-quiz-qui-convertit)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: cadre session efficace](/tutos/online-tutor/cadre-session-efficace)
-- [Guide futur 2: plan evaluation apprenants](/tutos/online-tutor/plan-evaluation-apprenants)
-- [Guide futur 3: systeme reservation paiement](/tutos/online-tutor/systeme-reservation-paiement)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: cadre session efficace](/tutos/online-tutor/cadre-session-efficace)
+- [Guide à venir 2: plan evaluation apprenants](/tutos/online-tutor/plan-evaluation-apprenants)
+- [Guide à venir 3: systeme reservation paiement](/tutos/online-tutor/systeme-reservation-paiement)

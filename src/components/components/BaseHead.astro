@@ -1,7 +1,6 @@
 ---
 import LocalFont from "./LocalFont.astro";
 import type { BaseProps } from "../../utils/types/props";
-import { ClientRouter } from "astro:transitions";
 
 interface ArticleData {
 	author?: string;
@@ -109,7 +108,6 @@ const breadcrumbSchema = {
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="generator" content={Astro.generator} />
 <meta name="robots" content={metaRobots} />
-<ClientRouter />
 
 <link
 	rel="alternate"

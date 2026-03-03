@@ -82,3 +82,21 @@ HARPA price monitors have a wide range of applications and are saving people tim
 - 🔍 **Deal Hunters**: Deal hunters use Monitoring feature to keep tabs on a variety of products and be informed of any changes. Prices and deals can be easily monitored across multiple websites, such as Amazon and Rakuten.
 
 You are not limited to monitoring prices with HARPA AI. Every piece of data on any website can be monitored. This includes time slot availabilities, legislations, official notices, business KPIs where API is not available, social statuses, brand mentions and updates. Experiment with web monitor to see what it can do for you today!
+## Ressources utiles pour continuer
+
+### Lectures liées
+
+- [Comment faire de l'automatisation marketing](/tutos/comment-faire-de-lautomatisation-marketing)
+- [Créer une liste email B2B pour la prospection](/tutos/comment-creer-une-liste-email-pour-de-la)
+
+### Outils et stratégies complémentaires
+
+- [Stratégie email: plan clair pour démarrer](/marketing/email/strategie)
+- [Automatisation email: scénarios essentiels](/marketing/email/automation)
+
+## Checklist express
+
+- [ ] Choisis un objectif unique pour cette étape.
+- [ ] Lance une première action test à petite échelle.
+- [ ] Mesure le résultat après 7 jours.
+- [ ] Ajuste avant de passer à l'échelle.

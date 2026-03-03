@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
-Structurer une agence orientée résultats avec process de delivery replicables.
+## Ton objectif
+Structurer une agence orientée résultats avec un process de travail simple et répétable.
 
-## Positionnement métier
-- Cible prioritaire : PME, DNVB, infopreneurs avec besoin acquisition + exécution continue.
-- Canal d'acquisition dominant : Prospection outbound ciblée + referral + contenu preuve de résultats.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : PME, DNVB, infopreneurs avec besoin acquisition + exécution continue.
+- Où trouver les clients : Prospection prospection sortante ciblée + referral + contenu preuve de résultats.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
-1. Offre socle retainer (stratégie + exécution mensuelle)
-2. Sprint 14 jours (diagnostic + quick wins)
+## Idées d'offres à tester
+1. Offre socle abonnement mensuel (stratégie + exécution mensuelle)
+2. phase test rapide 14 jours (diagnostic + résultats rapides)
 3. Offre premium CMO fractionne
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Offre socle retainer (stratégie + exécution mensuelle)" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Prospection outbound ciblée + referral + contenu preuve de résultats.) pour vendre "Sprint 14 jours (diagnostic + quick wins)" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Offre premium CMO fractionne", suivre taux closing rdv > 20% et marge brute par compte > 50%, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Offre socle abonnement mensuel (stratégie + exécution mensuelle)" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Prospection prospection sortante ciblée + referral + contenu preuve de résultats.) pour proposer "phase test rapide 14 jours (diagnostic + résultats rapides)" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Offre premium CMO fractionne", puis suis taux signature rdv > 20% et marge brute par compte > 50%, puis ajuste petit à petit.
 
-## KPI de pilotage
-- Taux closing RDV > 20%
+## Les chiffres utiles à suivre
+- Taux signature RDV > 20%
 - Marge brute par compte > 50%
 - Churn client mensuel < 10%
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Vendre sur mesure sans cadre
 - Sous-estimer charge projet
 - Pas de standard quality-control
 
-## Livrables attendus
-- Offre service délimitée avec périmètre et SLA
-- Pipeline commercial opérationnel
-- Cadre delivery + communication client standard
+## À la fin, tu dois avoir
+- Une offre claire avec ce qui est inclus (et ce qui ne l'est pas)
+- Une façon simple de trouver des clients régulièrement
+- Une routine de travail claire et des messages prêts pour tes clients
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Agence](/biz/profils/agence)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/agence)
-- [Ressource métier 1](/biz/freelance/index)
-- [Ressource métier 2](/tutos/trouver-des-prospects-qualifies-pour-votre-agence)
-- [Ressource métier 3](/tutos/implementer-un-gestionnaire-de-relations-clients)
+- [Suivi du parcours](/parcours/agence)
+- [Ressource utile 1](/biz/freelance/index)
+- [Ressource utile 2](/tutos/trouver-des-prospects-qualifies-pour-votre-agence)
+- [Ressource utile 3](/tutos/implementer-un-gestionnaire-de-relations-clients)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: matrice offres retainer](/tutos/agence/matrice-offres-retainer)
-- [Guide futur 2: playbook onboarding client](/tutos/agence/playbook-onboarding-client)
-- [Guide futur 3: calcule marge par mission](/tutos/agence/calcule-marge-par-mission)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: matrice offres abonnement mensuel](/tutos/agence/matrice-offres-abonnement-mensuel)
+- [Guide à venir 2: guide démarrage client](/tutos/agence/playbook-onboarding-client)
+- [Guide à venir 3: calcule marge par mission](/tutos/agence/calcule-marge-par-mission)

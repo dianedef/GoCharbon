@@ -6,6 +6,28 @@ The theme has no JavaScript integration out of the box, but can always be added 
 
 This template is based on [my own personal website](<https://www.elian.codes/>), with some more generic things added.
 
+## GoCharbon - Product Notes (Parcours)
+
+### Editorial Direction
+
+- Goal: make online business accessible to beginners, without removing useful technical depth.
+- Principle: **accessible technicality**.
+  - Keep important terms when they help learning and SEO.
+  - Explain them in context with simple, actionable language.
+- Tone: friendly, clear, coaching-oriented.
+
+### Parcours Link Status (2026-03-03)
+
+- Active parcours links verified (steps + `Liens utiles pour avancer`): **0 broken links**.
+- Remaining missing links are in `Idées de contenus pour aller plus loin` (intentional editorial backlog).
+
+### Parcours Content Quality (2026-03-03)
+
+- Active content links audited: **126**
+- Fragile content: **0**
+- Medium content: **0**
+- Solid content: **126**
+
 ## Usage
 
 You can bootstrap a new Astro project using Brutal with the following command:
@@ -28,6 +50,7 @@ All commands are run from the root of the project, from a terminal:
 | `pnpm dev`          | Starts local dev server at `localhost:3000`        |
 | `pnpm build`        | Build your production site to `./dist/`            |
 | `pnpm preview`      | Preview your build locally, before deploying       |
+| `pnpm audit:parcours` | Run parcours content quality and link audit       |
 | `pnpm astro ...`    | Run CLI commands like `astro add`, `astro preview` |
 | `pnpm astro --help` | Get help using the Astro CLI                       |
 

@@ -6,42 +6,122 @@ imageNameKey: null
 u_site: null
 title: Récupérer Les Clients De Vos Concurrents Linkedin
 author: Diane
-description: 'Découvre Récupérer Les Clients De Vos Concurrents Linkedin : outil français
-  pour entrepreneurs, fonctionnalités et avis.'
+description: 'Découvre Récupérer Les Clients De Vos Concurrents Linkedin : outil français pour entrepreneurs, fonctionnalités et avis.'
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-Une tactique intéressante consiste à récupérer la liste des personnes qui suivent la page entreprise de vos concurrents sur LinkedIn.
+# Récupérer les clients de tes concurrents sur LinkedIn (proprement)
 
-Pour cela vous devez :
+Le but n'est pas de spammer. Le but est d'identifier des prospects déjà intéressés par ton sujet, puis de leur proposer une offre claire.
 
-1. Créer un nouveau compte ou connectez-vous à LinkedIn (⚠️ nous avons remarqué que la technique fonctionnait beaucoup mieux si le compte était nouveau ! Sinon les informations dans Sales Navigator mettent beaucoup de temps à changer)‍
-2. Créer un compte Sales Navigator (gratuit le 1er mois)‍
-3. Changer le poste actuel du compte Linkedin que vous avez choisi d'utiliser et mettre l'entreprise de votre concurrent :‍
+## Ce que cette méthode permet
 
+- trouver des profils proches de ton client idéal,
+- construire une liste de prospection qualifiée,
+- envoyer des messages mieux ciblés,
+- gagner du temps sur la recherche de leads.
 
-Voici un exemple avec Testa (si c'est votre concurrent)
+## Ce qu'il te faut
 
-‍
+- un compte LinkedIn,
+- idéalement Sales Navigator (essai gratuit possible),
+- un fichier pour suivre les prospects (CRM ou tableur),
+- un script de message court et personnalisé.
 
-1. À partir de ce moment-là, vous aurez accès dans Sales Navigator aux personnes qui suivent la page LinkedIn de vos concurrents. Vous pourrez choisir un critère de recherche (c'est nécessaire), par exemple : "Zone géographique = France"‍
-2. Cliquer ensuite sur Spotlights et choisissez "Prospects qui suivent votre entreprise sur LinkedIn"‍
+## Étape 1 - Choisis 3 à 10 concurrents pertinents
 
+Prends des concurrents qui:
+- vendent une offre similaire,
+- ciblent le même marché,
+- publient régulièrement.
 
-Attention, parfois cela peut être à un autre endroit (dans la barre horizontale, comme dans l'exemple suivant)
+Évite les géants non comparables à ton positionnement.
 
+## Étape 2 - Définis ton ICP (client idéal)
 
-‍
+Avant d'extraire des profils, fixe tes filtres:
+- secteur,
+- taille d'entreprise,
+- poste (ex: fondateur, marketing manager, sales manager),
+- zone géographique.
 
-1. Maintenant que vous avez la liste des personnes qui suivent vos concurrents, copiez l'URL dans la barre d'adresse‍
-2. Créer un compte PhantomBuster (Gratuit pendant 14 jours)‍
-3. Choisissez le Phantom "Sales Navigator Search export" et configurez-le avec votre compte : [](https://trail.sweal.fr/api/t/c/usr_zbArTBtjeXM5vtK9v/tsk_mJwxBkph78xETCsWF/enc_U2FsdGVkX1-dHlCMpubNmy5VOfBU1p_yr0FkxOYaYJnRGZhfbe2VQ7q8GpzyUcV8opTarihUxen1ghCMJAoZvD3SML1a9v9QrwS8ZcG1k9307zErcgyfMq7rhbsb8McTNlwTnUOt06ocu-82YKgSZA==)[https://phantombuster.com/automations/linkedin/6988/sales-navigator-search-export/tutorial](https://phantombuster.com/automations/linkedin/6988/sales-navigator-search-export/tutorial)
+Sans ICP, tu vas récupérer du volume mais pas de qualité.
 
-‍
+## Étape 3 - Recherche les profils qui suivent l'écosystème concurrent
 
-C'est terminé ! Vous avez désormais la liste des personnes qui suivent l'entreprise de vos concurrents. Maintenant, vous pouvez par exemple l'uploader dans un outil comme Dropcontact afin de découvrir les adresses email et lancer une campagne de Cold Emailing !
+Avec Sales Navigator, crée une recherche avancée puis filtre:
+- par géographie,
+- par fonction,
+- par séniorité,
+- par activité récente.
 
-Et voilà, à vous de jouer !
+Tu peux aussi croiser avec:
+- les personnes qui interagissent avec leurs publications,
+- les membres de groupes de niche,
+- les contacts de second niveau pertinents.
 
-On se retrouve bientôt pour une nouvelle astuce 🚀🚀🚀
+## Étape 4 - Exporte et nettoie la liste
+
+Tu peux exporter via des outils dédiés (ex: PhantomBuster) ou travailler manuellement selon ton volume.
+
+Ensuite, nettoie:
+- doublons,
+- postes non pertinents,
+- comptes inactifs,
+- personnes hors cible.
+
+## Étape 5 - Prépare un message qui ouvre la conversation
+
+Structure simple:
+1. contexte personnalisé,
+2. problème concret,
+3. proposition courte,
+4. question de qualification.
+
+Exemple:
+
+"Hello {{prénom}}, j'ai vu que tu bosses sur {{sujet}}. J'aide les équipes {{cible}} à {{résultat}} en {{délai}}. Si tu veux, je peux t'envoyer un mini audit en 3 points sur ton cas."
+
+## Étape 6 - Lance en petit volume
+
+Ne commence pas à 300 messages/jour.
+
+Commence par:
+- 15 à 25 prises de contact/jour,
+- suivi quotidien des réponses,
+- amélioration du message chaque semaine.
+
+## Métriques à suivre
+
+- taux d'acceptation connexion,
+- taux de réponse,
+- taux de réponse positive,
+- RDV obtenus,
+- taux de conversion en client.
+
+## Erreurs fréquentes
+
+- message trop commercial dès le 1er contact,
+- absence de personnalisation,
+- volume trop élevé trop vite,
+- pas de suivi (relance douce à J+3 / J+7),
+- cibler "tout LinkedIn".
+
+## Cadre légal et bonne pratique
+
+- respecte le RGPD,
+- n'envoie pas de messages agressifs ou trompeurs,
+- propose un opt-out si tu passes ensuite par email,
+- privilégie la conversation utile plutôt que l'automatisation aveugle.
+
+## Checklist
+
+- [ ] ICP défini
+- [ ] Liste concurrents validée
+- [ ] Filtres Sales Navigator configurés
+- [ ] Liste nettoyée
+- [ ] Script de message prêt
+- [ ] Suivi KPI en place
+
+Si tu veux industrialiser ensuite, tu peux connecter ta recherche à un CRM et à ton outil de prospection pour un flux plus régulier.

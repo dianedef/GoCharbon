@@ -32,7 +32,7 @@ Concrètement, tu vas :
 - Identifier un problème ou une compétence demandée
 - Structurer ton programme de formation
 - Enregistrer des vidéos ou créer du contenu écrit
-- Ajouter des exercices et des quiz
+- Intégrer des exercices et des quiz
 - Vendre ta formation sur des plateformes ou ton propre site
 
 Ton travail peut être **100% passif** une fois la formation lancée : les gens achètent et suivent la formation sans que tu aies à intervenir.
@@ -408,3 +408,22 @@ L'**e-learning creation** est l'un des business models les plus gratifiants : tu
 **Temps requis** : 15-30h/semaine (upfront) + 5-10h/semaine (maintenance)
 
 **Next step** : Identifie une compétence que tu maîtrises et que les autres veulent apprendre, écris un programme détaillé cette semaine, et enregistre ta première vidéo d'ici la fin du mois. Le premier paiement arrive quand tu fais un produit de qualité.
+
+## Ressources utiles pour continuer
+
+### Lectures liées
+
+- [Comment faire de l'automatisation marketing](/tutos/comment-faire-de-lautomatisation-marketing)
+- [Créer une liste email B2B pour la prospection](/tutos/comment-creer-une-liste-email-pour-de-la)
+
+### Outils et stratégies complémentaires
+
+- [Stratégie email: plan clair pour démarrer](/marketing/email/strategie)
+- [Automatisation email: scénarios essentiels](/marketing/email/automation)
+
+## Checklist express
+
+- [ ] Choisis un objectif unique pour cette étape.
+- [ ] Lance une première action test à petite échelle.
+- [ ] Mesure le résultat après 7 jours.
+- [ ] Ajuste avant de passer à l'échelle.

@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
+## Ton objectif
 Construire une marque perso contenu avec monétisation progressive.
 
-## Positionnement métier
-- Cible prioritaire : Créateurs solo et experts qui veulent un business audience-first.
-- Canal d'acquisition dominant : Format signature + distribution multi-plateformes.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Créateurs solo et experts qui veulent un business audience-first.
+- Où trouver les clients : Format signature + distribution multi-plateformes.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
-1. Strategie contenu 3 piliers
+## Idées d'offres à tester
+1. Stratégie contenu 3 piliers
 2. Production hebdo multi-format
-3. Monetisation (sponsors, offres, affiliation)
+3. Monétisation (partenariats, offres, affiliation)
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Strategie contenu 3 piliers" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Format signature + distribution multi-plateformes.) pour vendre "Production hebdo multi-format" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Monetisation (sponsors, offres, affiliation)", suivre croissance audience qualifiée et taux engagement par format, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Stratégie contenu 3 piliers" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Format signature + distribution multi-plateformes.) pour proposer "Production hebdo multi-format" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Monétisation (partenariats, offres, affiliation)", puis suis croissance audience qualifiée et taux engagement par format, puis ajuste petit à petit.
 
-## KPI de pilotage
+## Les chiffres utiles à suivre
 - Croissance audience qualifiée
 - Taux engagement par format
 - Revenu mensuel par canal
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Publier sans positionnement
 - Dépendance à une plateforme
 - Pas de CTA business
 
-## Livrables attendus
-- Ligne editoriale claire sur 3 piliers
-- Système de production contenu repetable
-- Monetisation reliee au contenu (offres/sponsors/affiliation)
+## À la fin, tu dois avoir
+- Ligne éditoriale claire sur 3 piliers
+- Système de production contenu répétable
+- Monétisation reliée au contenu (offres/partenariats/affiliation)
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Content Creator](/biz/profils/content-creator)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/content-creator)
-- [Ressource métier 1](/marketing/content-marketing)
-- [Ressource métier 2](/tutos/construire-un-calendrier-editorial-qui)
-- [Ressource métier 3](/tutos/generer-des-carousels-pour-tous-les-reseaux)
+- [Suivi du parcours](/parcours/content-creator)
+- [Ressource utile 1](/marketing/content-marketing)
+- [Ressource utile 2](/tutos/comment-construire-un-calendrier-editorial-qui)
+- [Ressource utile 3](/tutos/generer-des-carousels-pour-tous-les-reseaux)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: format signature](/tutos/content-creator/format-signature)
-- [Guide futur 2: reemploi contenu 7x](/tutos/content-creator/reemploi-contenu-7x)
-- [Guide futur 3: modeles deal sponsor](/tutos/content-creator/modeles-deal-sponsor)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: format signature](/tutos/content-creator/format-signature)
+- [Guide à venir 2: reemploi contenu 7x](/tutos/content-creator/reemploi-contenu-7x)
+- [Guide à venir 3: modeles deal sponsor](/tutos/content-creator/modeles-deal-sponsor)

@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
-Creer des collections POD vendables avec tests creatives et marge controlee.
+## Ton objectif
+Creer des collections POD vendables avec tests visuels pubs et marge controlee.
 
-## Positionnement métier
-- Cible prioritaire : Créateurs visuels et operateurs e-commerce niche.
-- Canal d'acquisition dominant : Test creatives courts + pages themes + collabs niches.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Créateurs visuels et operateurs e-commerce niche.
+- Où trouver les clients : Test visuels pubs courts + pages themes + collabs niches.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
+## Idées d'offres à tester
 1. Lancement collection 20 designs
 2. Optimisation catalogue + mockups
-3. Scale ads + saisonnalite
+3. montée publicités + saisonnalite
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Lancement collection 20 designs" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Test creatives courts + pages themes + collabs niches.) pour vendre "Optimisation catalogue + mockups" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Scale ads + saisonnalite", suivre taux conversion fiche produit et marge nette par design, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Lancement collection 20 designs" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Test visuels pubs courts + pages themes + collabs niches.) pour proposer "Optimisation catalogue + mockups" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "montée publicités + saisonnalite", puis suis taux conversion fiche produit et marge nette par design, puis ajuste petit à petit.
 
-## KPI de pilotage
+## Les chiffres utiles à suivre
 - Taux conversion fiche produit
 - Marge nette par design
 - Taux retour par catégorie produit
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Design sans validation marche
 - Prix mal calibres
 - Dépendance plateforme unique
 
-## Livrables attendus
+## À la fin, tu dois avoir
 - Offre/catalogue priorise selon marge et demande
 - Tunnel conversion audite (fiche -> checkout)
-- Pilotage stock, retours et rentabilite par produit
+- Suivi stock, retours et rentabilité par produit
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Print On Demand](/biz/profils/print-on-demand)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/print-on-demand)
-- [Ressource métier 1](/biz/e-commerce/index)
-- [Ressource métier 2](/tutos/comment-generer-automatiquement-les-images)
-- [Ressource métier 3](/marketing/ads/meta)
+- [Suivi du parcours](/parcours/print-on-demand)
+- [Ressource utile 1](/biz/e-commerce/index)
+- [Ressource utile 2](/tutos/comment-generer-automatiquement-les-images)
+- [Ressource utile 3](/marketing/ads/meta)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: process test design](/tutos/print-on-demand/process-test-design)
-- [Guide futur 2: calcule prix marge pod](/tutos/print-on-demand/calcule-prix-marge-pod)
-- [Guide futur 3: calendrier collections saisonnieres](/tutos/print-on-demand/calendrier-collections-saisonnieres)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: process test design](/tutos/print-on-demand/process-test-design)
+- [Guide à venir 2: calcule prix marge pod](/tutos/print-on-demand/calcule-prix-marge-pod)
+- [Guide à venir 3: calendrier collections saisonnieres](/tutos/print-on-demand/calendrier-collections-saisonnieres)

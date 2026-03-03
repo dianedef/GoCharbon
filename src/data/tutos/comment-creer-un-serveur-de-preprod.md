@@ -317,7 +317,7 @@ En cliquant sur ce bouton, l'outil va
     
 -   Vérifier si un certificat SSL est en place et si ce n'est pas le cas, tenter la génération d'un certificat Let's Encrypt
     
--   Ajouter une redirection dans le fichier .htaccess du site pour forcer le site en HTTPS
+-   Mettre en place une redirection dans le fichier .htaccess du site pour forcer le site en HTTPS
     
 
 ## Retrouver la main sur le compte administrateur[](https://faq.o2switch.fr/hebergement-mutualise/tutoriels-cpanel/wptiger#retrouver-la-main-sur-le-compte-administrateur)

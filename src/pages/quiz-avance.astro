@@ -34,6 +34,7 @@ const quizBizProfiles = Object.fromEntries(
             description: entry.data.description,
             slug: `/${entry.id}`,
             tags: entry.data.tags,
+            learningPathId: profileToLearningPathId[profileKey as keyof typeof profileToLearningPathId],
             learningPathUrl: `/parcours/${getParcoursSlug(profileToLearningPathId[profileKey as keyof typeof profileToLearningPathId])}`,
           }
         : null,

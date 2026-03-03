@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
+## Ton objectif
 Lancer un produit FBA rentable avec controle marge et rotation stock.
 
-## Positionnement métier
-- Cible prioritaire : Operateus e-commerce voulant passer par la place de marche Amazon.
-- Canal d'acquisition dominant : Recherche mots-cles Amazon + pub sponsorisee + preuves sociales.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Operateus e-commerce voulant passer par la place de marche Amazon.
+- Où trouver les clients : Recherche mots-clés Amazon + pub sponsorisee + preuves sociales.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
+## Idées d'offres à tester
 1. Audit fiche produit + SEO Amazon
 2. Pack lancement PPC + optimisation listing
-3. Pilotage marge/logistique 60 jours
+3. Suivi marge/logistique 60 jours
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Audit fiche produit + SEO Amazon" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Recherche mots-cles Amazon + pub sponsorisee + preuves sociales.) pour vendre "Pack lancement PPC + optimisation listing" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Pilotage marge/logistique 60 jours", suivre acos sous seuil cible et taux conversion listing > baseline catégorie, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Audit fiche produit + SEO Amazon" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Recherche mots-clés Amazon + pub sponsorisee + preuves sociales.) pour proposer "Pack lancement PPC + optimisation listing" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Suivi marge/logistique 60 jours", puis suis acos sous seuil cible et taux conversion listing > baseline catégorie, puis ajuste petit à petit.
 
-## KPI de pilotage
+## Les chiffres utiles à suivre
 - ACOS sous seuil cible
 - Taux conversion listing > baseline catégorie
 - Ruptures stock mensuelles = 0
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Marge ignoree apres fees
 - Sous-estimation retours/logistique
 - Dépendance complete à une SKU
 
-## Livrables attendus
+## À la fin, tu dois avoir
 - Offre/catalogue priorise selon marge et demande
 - Tunnel conversion audite (fiche -> checkout)
-- Pilotage stock, retours et rentabilite par produit
+- Suivi stock, retours et rentabilité par produit
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Amazon Fba](/biz/profils/amazon-fba)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/amazon-fba)
-- [Ressource métier 1](/biz/e-commerce/index)
-- [Ressource métier 2](/tutos/generez-vos-descriptions-de-fiches-produits-en)
-- [Ressource métier 3](/marketing/ads/google)
+- [Suivi du parcours](/parcours/amazon-fba)
+- [Ressource utile 1](/biz/e-commerce/index)
+- [Ressource utile 2](/tutos/generez-vos-descriptions-de-fiches-produits-en)
+- [Ressource utile 3](/marketing/ads/google)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: calcul marge nette fba](/tutos/amazon-fba/calcul-marge-nette-fba)
-- [Guide futur 2: plan lancement ppc 30 jours](/tutos/amazon-fba/plan-lancement-ppc-30-jours)
-- [Guide futur 3: checklist variation listing](/tutos/amazon-fba/checklist-variation-listing)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: calcul marge nette fba](/tutos/amazon-fba/calcul-marge-nette-fba)
+- [Guide à venir 2: plan lancement ppc 30 jours](/tutos/amazon-fba/plan-lancement-ppc-30-jours)
+- [Guide à venir 3: checklist variation listing](/tutos/amazon-fba/checklist-variation-listing)

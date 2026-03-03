@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
+## Ton objectif
 Monétiser un service local de garde animale fiable et récurrent.
 
-## Positionnement métier
-- Cible prioritaire : Proprietaires chiens/chats urbains avec besoins reguliers ou vacances.
-- Canal d'acquisition dominant : Avis clients locaux + plateformes + partenariats vetos/commerces.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Propriétaires chiens/chats urbains avec besoins réguliers ou vacances.
+- Où trouver les clients : Avis clients locaux + plateformes + partenariats vétos/commerces.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
+## Idées d'offres à tester
 1. Pack promenade hebdo
 2. Garde week-end avec updates média
-3. Formule premium soins + administration medicaments
+3. Formule premium soins + administration médicaments
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Pack promenade hebdo" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Avis clients locaux + plateformes + partenariats vetos/commerces.) pour vendre "Garde week-end avec updates média" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Formule premium soins + administration medicaments", suivre taux rebooking mensuel et avis 5 étoiles obtenus, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Pack promenade hebdo" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Avis clients locaux + plateformes + partenariats vétos/commerces.) pour proposer "Garde week-end avec updates média" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Formule premium soins + administration médicaments", puis suis taux rebooking mensuel et avis 5 étoiles obtenus, puis ajuste petit à petit.
 
-## KPI de pilotage
+## Les chiffres utiles à suivre
 - Taux rebooking mensuel
 - Avis 5 étoiles obtenus
 - Taux remplissage planning
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Brief animal incomplet
 - Pas de protocole urgence
 - Sous-tarification déplacements
 
-## Livrables attendus
+## À la fin, tu dois avoir
 - Offre locale claire et facilement comprenable
-- Canal d acquisition principal opérationnel
-- Tableau de suivi activité, revenus et satisfaction client
+- Un canal principal qui t'apporte des clients
+- Un tableau simple pour suivre activité, revenus et satisfaction client
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Pet Sitter](/biz/profils/pet-sitter)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/pet-sitter)
-- [Ressource métier 1](/marketing/fondamentaux)
-- [Ressource métier 2](/tutos/creer-sa-page-de-resa-google-calendar)
-- [Ressource métier 3](/tutos/recolter-les-avis-de-ses-clients-en-video)
+- [Suivi du parcours](/parcours/pet-sitter)
+- [Ressource utile 1](/marketing/fondamentaux)
+- [Ressource utile 2](/tutos/creer-sa-page-de-resa-google-calendar)
+- [Ressource utile 3](/tutos/recolter-les-avis-de-ses-clients-en-video)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: checklist rencontre prealable](/tutos/pet-sitter/checklist-rencontre-prealable)
-- [Guide futur 2: protocole urgence animal](/tutos/pet-sitter/protocole-urgence-animal)
-- [Guide futur 3: grille tarifaire zone](/tutos/pet-sitter/grille-tarifaire-zone)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: checklist rencontre prealable](/tutos/pet-sitter/checklist-rencontre-prealable)
+- [Guide à venir 2: protocole urgence animal](/tutos/pet-sitter/protocole-urgence-animal)
+- [Guide à venir 3: grille tarifaire zone](/tutos/pet-sitter/grille-tarifaire-zone)

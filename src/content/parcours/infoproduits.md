@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
+## Ton objectif
 Vendre des produits digitaux standardises avec distribution automatisable.
 
-## Positionnement métier
-- Cible prioritaire : Créateurs et experts voulant scaler hors service pur.
-- Canal d'acquisition dominant : Funnel lead magnet -> tripwire -> offre coeur.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Créateurs et experts voulant montéer hors service pur.
+- Où trouver les clients : Funnel contact magnet -> tripwire -> offre cœur.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
+## Idées d'offres à tester
 1. Mini-produit validation marche
-2. Pack templates premium
+2. Pack modèles premium
 3. Bundle infoproduits + upsell coaching
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Mini-produit validation marche" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Funnel lead magnet -> tripwire -> offre coeur.) pour vendre "Pack templates premium" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Bundle infoproduits + upsell coaching", suivre taux conversion page produit et earnings per lead, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Mini-produit validation marche" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Funnel contact magnet -> tripwire -> offre cœur.) pour proposer "Pack modèles premium" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Bundle infoproduits + upsell coaching", puis suis taux conversion page produit et earnings per contact, puis ajuste petit à petit.
 
-## KPI de pilotage
+## Les chiffres utiles à suivre
 - Taux conversion page produit
-- Earnings per lead
+- Earnings per contact
 - Refund rate
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Produit cree sans validation
 - Promesse trop large
 - Support client oublie
 
-## Livrables attendus
+## À la fin, tu dois avoir
 - Programme pédagogique relie à un résultat concret
 - Mecanique de vente active (webinaire, calls, email)
 - Système suivi apprenants et preuve de progression
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Infoproduits](/biz/profils/infoproduits)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/infoproduits)
-- [Ressource métier 1](/tutos/comment-auto-editer-son-propre-livre-en-ligne)
-- [Ressource métier 2](/marketing/tunnel/atelier)
-- [Ressource métier 3](/marketing/email/strategie)
+- [Suivi du parcours](/parcours/infoproduits)
+- [Ressource utile 1](/tutos/comment-auto-editer-son-propre-livre-en-ligne)
+- [Ressource utile 2](/marketing/tunnel/atelier)
+- [Ressource utile 3](/marketing/email/strategie)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: validation offre 7 jours](/tutos/infoproduits/validation-offre-7-jours)
-- [Guide futur 2: architecture funnel tripwire](/tutos/infoproduits/architecture-funnel-tripwire)
-- [Guide futur 3: process support digital](/tutos/infoproduits/process-support-digital)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: validation offre 7 jours](/tutos/infoproduits/validation-offre-7-jours)
+- [Guide à venir 2: architecture parcours de vente tripwire](/tutos/infoproduits/architecture-parcours-de-vente-tripwire)
+- [Guide à venir 3: process support digital](/tutos/infoproduits/process-support-digital)

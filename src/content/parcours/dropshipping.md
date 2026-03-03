@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
+## Ton objectif
 Trouver une offre gagnante et fiabiliser acquisition + logistique.
 
-## Positionnement métier
-- Cible prioritaire : Operateurs e-commerce qui veulent lancer rapidement des tests produit.
-- Canal d'acquisition dominant : Meta ads UGC + tests offers courts + pages pre-sell.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Operateurs e-commerce qui veulent lancer rapidement des tests produit.
+- Où trouver les clients : Meta publicités contenu client + tests offers courts + pages pre-sell.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
-1. Setup boutique + funnel conversion
-2. Pack test creatives ads 14 jours
-3. Pilotage marge et SAV externalise
+## Idées d'offres à tester
+1. mise en place boutique + parcours de vente conversion
+2. Pack test visuels pubs publicités 14 jours
+3. Suivi marge et SAV externalise
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Setup boutique + funnel conversion" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Meta ads UGC + tests offers courts + pages pre-sell.) pour vendre "Pack test creatives ads 14 jours" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Pilotage marge et SAV externalise", suivre roas par angle et taux remboursement, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "mise en place boutique + parcours de vente conversion" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Meta publicités contenu client + tests offers courts + pages pre-sell.) pour proposer "Pack test visuels pubs publicités 14 jours" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Suivi marge et SAV externalise", puis suis retour sur pub (ROAS) par angle et taux remboursement, puis ajuste petit à petit.
 
-## KPI de pilotage
-- ROAS par angle
+## Les chiffres utiles à suivre
+- retour sur pub (ROAS) par angle
 - Taux remboursement
 - Marge nette par commande
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Dépendance fournisseur unique
 - Mauvaise expérience livraison
-- Scale trop rapide sans supply
+- montée trop rapide sans supply
 
-## Livrables attendus
+## À la fin, tu dois avoir
 - Offre/catalogue priorise selon marge et demande
 - Tunnel conversion audite (fiche -> checkout)
-- Pilotage stock, retours et rentabilite par produit
+- Suivi stock, retours et rentabilité par produit
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Dropshipping](/biz/profils/dropshipping)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/dropshipping)
-- [Ressource métier 1](/biz/e-commerce/index)
-- [Ressource métier 2](/tutos/shopify-store-qui-font-des-millions)
-- [Ressource métier 3](/marketing/ads/meta)
+- [Suivi du parcours](/parcours/dropshipping)
+- [Ressource utile 1](/biz/e-commerce/index)
+- [Ressource utile 2](/tutos/shopify-store-qui-font-des-millions)
+- [Ressource utile 3](/marketing/ads/meta)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: methodologie test produit](/tutos/dropshipping/methodologie-test-produit)
-- [Guide futur 2: sop supply saver](/tutos/dropshipping/sop-supply-saver)
-- [Guide futur 3: tableau bord marge logistique](/tutos/dropshipping/tableau-bord-marge-logistique)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: methodologie test produit](/tutos/dropshipping/methodologie-test-produit)
+- [Guide à venir 2: sop supply saver](/tutos/dropshipping/sop-supply-saver)
+- [Guide à venir 3: tableau bord marge logistique](/tutos/dropshipping/tableau-bord-marge-logistique)

@@ -151,7 +151,7 @@ Règle: récompense l'action qui crée de la valeur, pas les clics vides.
 ### Jours 8-11
 
 - activer la barre de progression
-- ajouter XP/badges de base
+- activer XP/badges de base
 - préparer onboarding 24h
 
 ### Jours 12-14
@@ -178,3 +178,22 @@ Un tunnel balisé et gamifié donne:
 - meilleure rétention post-achat
 
 Passe ensuite sur [Programme Beta](/marketing/tunnel/proramme-beta) pour lancer une version test en conditions réelles.
+
+## Ressources utiles pour continuer
+
+### Lectures liées
+
+- [Comment faire de l'automatisation marketing](/tutos/comment-faire-de-lautomatisation-marketing)
+- [Créer une liste email B2B pour la prospection](/tutos/comment-creer-une-liste-email-pour-de-la)
+
+### Outils et stratégies complémentaires
+
+- [Stratégie email: plan clair pour démarrer](/marketing/email/strategie)
+- [Automatisation email: scénarios essentiels](/marketing/email/automation)
+
+## Checklist express
+
+- [ ] Choisis un objectif unique pour cette étape.
+- [ ] Lance une première action test à petite échelle.
+- [ ] Mesure le résultat après 7 jours.
+- [ ] Ajuste avant de passer à l'échelle.

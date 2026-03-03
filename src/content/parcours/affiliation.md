@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
+## Ton objectif
 Monter un média niche qui convertit sur des offres evergreen (SaaS, formation, outils B2B).
 
-## Positionnement métier
-- Cible prioritaire : Créateurs solo, blogs B2B, audiences newsletter déjà actives.
-- Canal d'acquisition dominant : SEO + comparatifs + newsletter hebdomadaire produit.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Créateurs solo, blogs B2B, audiences newsletter déjà actives.
+- Où trouver les clients : SEO + comparatifs + newsletter hebdomadaire produit.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
+## Idées d'offres à tester
 1. Audit programme affilié + plan de contenu comparatif
-2. Pack 5 pages "best X" + tracking UTM
-3. Sprint optimisation taux de clic sur pages money
+2. Pack 5 pages "best X" + suivi UTM
+3. phase test rapide pour améliorer le taux de clic (CTR) sur les pages qui vendent
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Audit programme affilié + plan de contenu comparatif" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (SEO + comparatifs + newsletter hebdomadaire produit.) pour vendre "Pack 5 pages "best X" + tracking UTM" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Sprint optimisation taux de clic sur pages money", suivre ctr liens affilié >= 3% et EPC (earnings per click) en hausse chaque mois, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Audit programme affilié + plan de contenu comparatif" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (SEO + comparatifs + newsletter hebdomadaire produit.) pour proposer "Pack 5 pages "best X" + suivi UTM" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "phase test rapide pour améliorer le taux de clic (CTR) sur les pages qui vendent", puis suis taux de clic (CTR) des liens affiliés >= 3% et revenu par clic en hausse chaque mois, puis ajuste petit à petit.
 
-## KPI de pilotage
-- CTR liens affilié >= 3%
-- EPC (earnings per click) en hausse chaque mois
+## Les chiffres utiles à suivre
+- taux de clic (CTR) liens affilié >= 3%
+- revenu par clic en hausse chaque mois
 - Part trafic organique sur pages money >= 40%
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Promouvoir des offres faibles pour la commission
 - Dépendance à un seul programme affilié
-- Contenu trop top-funnel sans intention achat
+- Contenu trop haut du tunnel sans intention achat
 
-## Livrables attendus
-- Offre marketing packagée avec promesse et cas usage cible
-- Système acquisition actif sur 1 canal principal
-- Reporting KPI hebdomadaire avec décisions actionnables
+## À la fin, tu dois avoir
+- Une offre claire qui explique le résultat promis
+- Un canal principal qui t'apporte des prospects
+- Un point chaque semaine pour voir ce qui marche et corriger ce qui bloque
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Affiliation](/biz/profils/affiliation)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/affiliation)
-- [Ressource métier 1](/tutos/creer-un-programme-affilie)
-- [Ressource métier 2](/tutos/comment-gerer-les-liens-daffiliation-au-niveau-seo)
-- [Ressource métier 3](/seo/fondamentaux/bases-seo)
+- [Suivi du parcours](/parcours/affiliation)
+- [Ressource utile 1](/tutos/creer-un-programme-affilie)
+- [Ressource utile 2](/tutos/comment-gerer-les-liens-daffiliation-au-niveau-seo)
+- [Ressource utile 3](/seo/fondamentaux/bases-seo)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: stack tracking postback](/tutos/affiliation/stack-tracking-postback)
-- [Guide futur 2: creer hub comparatifs](/tutos/affiliation/creer-hub-comparatifs)
-- [Guide futur 3: negocier taux commission](/tutos/affiliation/negocier-taux-commission)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: outils de suivi postback](/tutos/affiliation/stack-suivi-postback)
+- [Guide à venir 2: creer hub comparatifs](/tutos/affiliation/creer-hub-comparatifs)
+- [Guide à venir 3: negocier taux commission](/tutos/affiliation/negocier-taux-commission)

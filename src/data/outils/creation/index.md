@@ -6,43 +6,117 @@ author: Diane
 tags:
   - 'Outils Français'
   - 'Création'
-description: "Les meilleurs outils de création français : design, vidéo, audio, rédaction. Crée du contenu qui claque."
+description: "Sélection d'outils de création pour design, vidéo, audio et rédaction: quoi choisir selon ton niveau et ton usage."
 pubDate: "2024-03-25"
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Outils Création Français
+# Outils création français
 
-Crée du contenu de qualité professionnelle avec des outils français qui rivalisent avec les géants américains.
+Tu veux créer du contenu plus vite, avec une qualité pro, sans te perdre dans 50 apps.
 
-## Design & Graphisme
+Ce guide t'aide à choisir des outils selon ton besoin réel: visuel, vidéo, audio ou rédaction.
 
-Création visuelle, infographies, présentations.
+## Comment choisir un outil sans te tromper
 
-**Top outils** : Genially, Canva FR, PlayPlay, Lumen5 FR
+Avant d'installer un nouvel outil, réponds à ces 4 questions:
+- Quel résultat concret je veux produire ?
+- En combien de temps ?
+- Quel est mon niveau actuel ?
+- Quel budget max je peux assumer chaque mois ?
 
-[→ Voir tous les outils design](/outils/creation/design/)
+Règle simple: **1 besoin = 1 outil principal**.
+
+## Design & visuels
+
+Pour miniatures, visuels réseaux, carrousels, présentations:
+- [Abyssale](/outils/creation/abyssale)
+- [AllImagesAI](/outils/creation/allimagesai)
+- [Storyfox](/outils/creation/storyfox)
+
+À surveiller:
+- cohérence de charte (couleurs, typo, logo),
+- vitesse d'export,
+- formats disponibles.
 
 ## Vidéo
 
-Montage, animation, sous-titrage.
+Pour sous-titres, montage court, versions social media:
+- [Pitchy](/outils/creation/pitchy)
+- [Checksub](/outils/creation/checksub)
+- [Submagic](/outils/creation/video/submagic)
+- [Charlie](/outils/creation/video/charlie)
 
-**Top outils** : PlayPlay, Pitchy, EasyMovie, Checksub
+À surveiller:
+- qualité auto-sous-titres,
+- facilité de coupe,
+- format vertical/horizontal.
 
-[→ Voir tous les outils vidéo](/outils/creation/video/)
+## Audio & podcast
 
-## Audio & Podcast
+Pour enregistrer, nettoyer et publier:
+- [Rumble Studio](/outils/creation/rumble-studio)
+- [Saooti](/outils/creation/saooti)
+- [Getasound](/outils/creation/getasound)
 
-Enregistrement, édition, hébergement.
+À surveiller:
+- qualité micro,
+- suppression bruit,
+- publication multi-plateformes.
 
-**Top outils** : Ausha, Podcast.fr, Music Maker FR
+## Rédaction
 
-[→ Voir tous les outils audio](/outils/creation/audio/)
+Pour accélérer l'écriture, corriger et structurer:
+- [Scribeur](/outils/creation/redaction/scribeur-gagnez-5000-mois-en-ecrivant-de-chez-vous)
+- [TextMaster](/outils/creation/redaction/textmaster-devenez-un-redacteur-web-surpaye-en-30)
+- [Textbroker](/outils/creation/redaction/textbroker-comment-jai-gagne-10k-en-un-mois-avec)
 
-## Rédaction & Copywriting
+À surveiller:
+- clarté des textes,
+- ton de marque,
+- qualité finale relue par un humain.
 
-Aide à la rédaction, correction, SEO.
+## Stack minimale recommandée (débutant)
 
-**Top outils** : Scribeur, Merci App, Antidote, Bescherelle
+Si tu débutes, commence avec:
+- 1 outil design
+- 1 outil vidéo
+- 1 outil rédaction
 
-[→ Voir tous les outils rédaction](/outils/creation/redaction/)
+Puis ajoute l'audio si ton format l'exige.
+
+## Erreurs fréquentes
+
+- cumuler trop d'outils qui font la même chose,
+- payer des abonnements sans usage réel,
+- ne pas documenter ton process,
+- changer d'outil toutes les semaines.
+
+## Mini plan d'action (7 jours)
+
+### Jour 1
+Choisis tes 3 outils de base.
+
+### Jour 2
+Crée un template de contenu (visuel + texte + CTA).
+
+### Jour 3
+Produis 1 contenu complet.
+
+### Jour 4
+Optimise ton process (temps de production).
+
+### Jour 5
+Crée une checklist qualité avant publication.
+
+### Jour 6
+Publie et mesure engagement/conversion.
+
+### Jour 7
+Conserve uniquement les outils utiles.
+
+## Conclusion
+
+Le meilleur stack, c'est celui que tu utilises vraiment chaque semaine.
+
+Commence simple, mesure, puis améliore.

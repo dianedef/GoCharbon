@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
-Piloter acquisition et revenu via sequences email performantes.
+## Ton objectif
+Piloter acquisition et revenu via séquences email performantes.
 
-## Positionnement métier
-- Cible prioritaire : Ecom, SaaS, infopreneurs avec base email existante ou a construire.
-- Canal d'acquisition dominant : Lead magnets qualifiés + popups contextuels + partenariats liste.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : e-commerce, SaaS, infopreneurs avec base email existante ou à construire.
+- Où trouver les clients : contenus gratuits attractifs qualifiés + popups contextuels + partenariats liste.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
-1. Setup automation lifecycle
+## Idées d'offres à tester
+1. mise en place automatisation email
 2. Refonte newsletter hebdo
-3. Sprint deliverabilite + hygiene list
+3. phase test rapide délivrabilité + nettoyage de liste
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Setup automation lifecycle" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Lead magnets qualifiés + popups contextuels + partenariats liste.) pour vendre "Refonte newsletter hebdo" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Sprint deliverabilite + hygiene list", suivre open rate segmenté et ctr campagnes, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "mise en place automatisation email" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (contenus gratuits attractifs qualifiés + popups contextuels + partenariats liste.) pour proposer "Refonte newsletter hebdo" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "phase test rapide délivrabilité + nettoyage de liste", puis suis taux d'ouverture segmenté et ctr campagnes, puis ajuste petit à petit.
 
-## KPI de pilotage
+## Les chiffres utiles à suivre
 - Open rate segmenté
-- CTR campagnes
-- Revenu par email envoye
+- taux de clic (CTR) campagnes
+- Revenu par email envoyé
 
-## Risques critiques à éviter
-- Listes froides non nettoyees
+## Pièges à éviter
+- Listes froides non nettoyées
 - Sequence unique pour tous segments
 - Suivi revenu absent
 
-## Livrables attendus
-- Offre marketing packagée avec promesse et cas usage cible
-- Système acquisition actif sur 1 canal principal
-- Reporting KPI hebdomadaire avec décisions actionnables
+## À la fin, tu dois avoir
+- Une offre claire qui explique le résultat promis
+- Un canal principal qui t'apporte des prospects
+- Un point chaque semaine pour voir ce qui marche et corriger ce qui bloque
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Email Marketer](/biz/profils/email-marketer)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/email-marketer)
-- [Ressource métier 1](/marketing/email/strategie)
-- [Ressource métier 2](/marketing/email/automation)
-- [Ressource métier 3](/tutos/ameliorer-sa-deliverabilite)
+- [Suivi du parcours](/parcours/email-marketer)
+- [Ressource utile 1](/marketing/email/strategie)
+- [Ressource utile 2](/marketing/email/automation)
+- [Ressource utile 3](/tutos/ameliorer-sa-deliverabilite)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: plan segmentation rfm](/tutos/email-marketer/plan-segmentation-rfm)
-- [Guide futur 2: checklist deliverabilite](/tutos/email-marketer/checklist-deliverabilite)
-- [Guide futur 3: modele welcome sequence](/tutos/email-marketer/modele-welcome-sequence)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: plan segmentation rfm](/tutos/email-marketer/plan-segmentation-rfm)
+- [Guide à venir 2: checklist deliverabilite](/tutos/email-marketer/checklist-deliverabilite)
+- [Guide à venir 3: modele welcome sequence](/tutos/email-marketer/modele-welcome-sequence)

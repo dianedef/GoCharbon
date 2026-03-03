@@ -258,6 +258,59 @@ Ce qui nous rend **impossibles à copier** :
 
 ---
 
+## Décisions Produit Parcours (Mars 2026)
+
+### 1) Ligne éditoriale validée
+
+On applique une règle simple: **technicité accessible**.
+
+- On ne supprime pas les termes importants (SEO, business, performance).
+- On garde les mots-clés utiles à l'éducation et au référencement.
+- On les explique immédiatement avec des mots simples et des exemples concrets.
+- On privilégie le ton d'accompagnement: clair, amical, actionnable.
+
+### 2) Standard rédactionnel des fiches parcours
+
+Chaque fiche parcours doit suivre une structure stable:
+
+- Ton objectif
+- En clair (version simple)
+- Idées d'offres à tester
+- Ton plan simple sur 7 jours
+- Les chiffres utiles à suivre
+- Pièges à éviter
+- À la fin, tu dois avoir
+- Liens utiles pour avancer
+- Idées de contenus pour aller plus loin
+
+Objectif: réduire la charge cognitive et rendre chaque parcours utilisable immédiatement.
+
+### 3) Qualité des liens parcours (état confirmé)
+
+- Liens actifs parcours vérifiés (étapes + \"Liens utiles pour avancer\"): **0 lien cassé**.
+- Les liens manquants restants sont dans \"Idées de contenus pour aller plus loin\": backlog éditorial volontaire (contenus futurs).
+
+### 4) Qualité des contenus référencés
+
+Audit sur les contenus activement pointés par les parcours:
+
+- 126 contenus actifs analysés.
+- Réécriture prioritaire de 11 contenus initialement fragiles (clarté, structure, actionnabilité).
+- Passe de renforcement additionnelle sur les contenus moyens restants.
+- Passe premium conversion sur 5 pages pivot (business, marketing, SEO, KPIs, programme beta).
+- Statut actuel: **0 contenu fragile**, **0 moyen**, **126 solides**.
+- Seuil minimum maintenu: **0 contenu actif < 180 mots**.
+
+Le focus n'est plus la quantité brute, mais la capacité du lecteur à appliquer.
+
+### 5) Priorités opérationnelles (prochaine étape)
+
+1. Maintenir le contrôle qualité continu avant publication sur les liens utilisés par les parcours.
+2. Démarrer une passe d'amélioration qualitative manuelle sur les contenus à plus fort impact conversion.
+3. Conserver une ligne éditoriale "technicité accessible" sur les prochains contenus ajoutés.
+
+---
+
 ## Métriques Clés à Suivre
 
 | Métrique | Cible | Pourquoi |
@@ -268,6 +321,8 @@ Ce qui nous rend **impossibles à copier** :
 | Taux de clic affiliation | >5% | Revenus |
 | Taux de passage parcours -> recommandation partenaire | >15% | Validation du modèle "activation puis orientation" |
 | Taux de satisfaction post-orientation | >4/5 | Qualité réelle des redirections |
+| Liens actifs parcours cassés | 0 | Fiabilité du produit |
+| Contenus actifs parcours < 180 mots | 0 | Seuil minimum de complétude |
 | Temps sur article | >3 min | Contenu qui retient |
 | Pages/session | >2 | Maillage interne efficace |
 | Taux de rebond | <50% | Contenu pertinent |
@@ -275,5 +330,5 @@ Ce qui nous rend **impossibles à copier** :
 
 ---
 
-*Dernière mise à jour : Mars 2026*
+*Dernière mise à jour : 3 mars 2026*
 *Ce document évolue avec le business. Les objectifs sont recalibrés chaque trimestre.*

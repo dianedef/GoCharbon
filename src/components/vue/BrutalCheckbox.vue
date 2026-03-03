@@ -96,25 +96,28 @@ function onKeydown(event: KeyboardEvent): void {
   height: 100%;
 }
 
-:global(.dark) .brutal-checkbox {
-  border-color: var(--brand-cream);
-  box-shadow: 2px 2px 0 var(--brand-cream);
-  background: var(--brand-ink);
-  color: var(--brand-cream);
+:global(.dark) .brutal-checkbox,
+:global(html.dark) .brutal-checkbox {
+  border-color: var(--brand-yellow) !important;
+  box-shadow: 2px 2px 0 var(--brand-yellow) !important;
+  background: var(--brand-ink) !important;
+  color: var(--brand-yellow) !important;
 }
 
-:global(.dark) .brutal-checkbox:hover {
-  box-shadow: 1px 1px 0 var(--brand-cream);
+:global(.dark) .brutal-checkbox:hover,
+:global(html.dark) .brutal-checkbox:hover {
+  box-shadow: 1px 1px 0 var(--brand-yellow) !important;
 }
 
 :global(.dark) .brutal-checkbox:focus-visible {
   outline-color: var(--brand-yellow);
 }
 
-:global(.dark) .brutal-checkbox.checked {
-  background: var(--brand-yellow);
-  color: var(--brand-black);
-  border-color: var(--brand-black);
-  box-shadow: 2px 2px 0 var(--brand-cream);
+:global(.dark) .brutal-checkbox.checked,
+:global(html.dark) .brutal-checkbox.checked {
+  background: var(--brand-ink) !important;
+  color: var(--brand-yellow) !important;
+  border-color: var(--brand-yellow) !important;
+  box-shadow: 2px 2px 0 var(--brand-yellow) !important;
 }
 </style>

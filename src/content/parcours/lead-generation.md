@@ -1,55 +1,55 @@
 ---
 profileId: "lead-generation"
-title: "Parcours Lead Generation Specialist / Spécialiste en Génération de Leads"
-description: "Plan d'action pour Lead Generation Specialist / Spécialiste en Génération de Leads."
+title: "Parcours Lead Generation Specialist / Spécialiste en Génération de Contacts"
+description: "Plan d'action pour Lead Generation Specialist / Spécialiste en Génération de Contacts."
 category: "marketing"
 level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
-Generer des leads qualifiés et exploitables pour équipes commerciales.
+## Ton objectif
+Générer des contacts qualifiés et utiles pour les équipes commerciales.
 
-## Positionnement métier
-- Cible prioritaire : Agences B2B, closers, consultants, SaaS early-stage.
-- Canal d'acquisition dominant : Outbound data-driven + enrichment + personnalisation.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Agences B2B, closers, consultants, SaaS en démarrage.
+- Où trouver les clients : prospection sortante avec données fiables + enrichissement + personnalisation.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
-1. Sourcing + qualification ICP
-2. Système cold email multietape
-3. Dashboard leads + suivi conversion
+## Idées d'offres à tester
+1. Sourcing + qualification client idéal
+2. Système email à froid multi-étapes
+3. Tableau de suivi contacts + suivi conversion
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Sourcing + qualification ICP" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Outbound data-driven + enrichment + personnalisation.) pour vendre "Système cold email multietape" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Dashboard leads + suivi conversion", suivre reply rate positif et rdv obtenus/semaine, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Sourcing + qualification client idéal" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (prospection sortante avec données fiables + enrichissement + personnalisation.) pour proposer "Système email à froid multi-étapes" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Tableau de suivi contacts + suivi conversion", puis suis le taux de réponse positif et les RDV obtenus par semaine, puis ajuste petit à petit.
 
-## KPI de pilotage
-- Reply rate positif
-- RDV obtenus/semaine
-- Cout par lead qualifié
+## Les chiffres utiles à suivre
+- Taux de réponse positif
+- RDV obtenus par semaine
+- Coût par contact qualifié
 
-## Risques critiques à éviter
-- Donnees sales
-- Message non personnalise
+## Pièges à éviter
+- Données de mauvaise qualité
+- Message non personnalisé
 - Suivi CRM incomplet
 
-## Livrables attendus
-- Offre marketing packagée avec promesse et cas usage cible
-- Système acquisition actif sur 1 canal principal
-- Reporting KPI hebdomadaire avec décisions actionnables
+## À la fin, tu dois avoir
+- Une offre claire qui explique le résultat promis
+- Un canal principal qui t'apporte des prospects
+- Un point chaque semaine pour voir ce qui marche et corriger ce qui bloque
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Lead Generation](/biz/profils/lead-generation)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/lead-generation)
-- [Ressource métier 1](/tutos/extraction-leads-google-maps)
-- [Ressource métier 2](/tutos/creer-une-1ere-campagne-de-cold-emailing)
-- [Ressource métier 3](/outils/business/autres/crm)
+- [Suivi du parcours](/parcours/lead-generation)
+- [Ressource utile 1](/tutos/extraction-leads-google-maps)
+- [Ressource utile 2](/tutos/creer-une-1ere-campagne-de-cold-emailing)
+- [Ressource utile 3](/outils/business/autres/crm)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: matrice icp persona](/tutos/lead-generation/matrice-icp-persona)
-- [Guide futur 2: sequence cold email b2b](/tutos/lead-generation/sequence-cold-email-b2b)
-- [Guide futur 3: controle qualité leads](/tutos/lead-generation/controle-qualite-leads)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: matrice client idéal persona](/tutos/lead-generation/matrice-icp-persona)
+- [Guide à venir 2: séquence email à froid B2B](/tutos/lead-generation/sequence-cold-email-b2b)
+- [Guide à venir 3: controle qualité leads](/tutos/lead-generation/controle-qualite-leads)

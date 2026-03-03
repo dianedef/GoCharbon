@@ -168,3 +168,21 @@ Un tel bot WhatsApp peut donc vous apporter une aide utile pour votre business, 
 Puisque les Chatbots ont des capacités d’apprentissage innées en matière d’intelligence artificielle, plus votre Chatbot parle aux visiteurs et aux clients, plus il apprend et plus il rassemble d’informations pour vous et votre entreprise. C’est un cercle vertueux.
 
 Avec un peu d’amour et d’attention, de réglage et d’optimisation, l’efficacité de votre Chatbot augmentera au fil du temps. Plus tôt vous le mettrez en place, mieux ce sera.
+## Ressources utiles pour continuer
+
+### Lectures liées
+
+- [Comment faire de l'automatisation marketing](/tutos/comment-faire-de-lautomatisation-marketing)
+- [Créer une liste email B2B pour la prospection](/tutos/comment-creer-une-liste-email-pour-de-la)
+
+### Outils et stratégies complémentaires
+
+- [Stratégie email: plan clair pour démarrer](/marketing/email/strategie)
+- [Automatisation email: scénarios essentiels](/marketing/email/automation)
+
+## Checklist express
+
+- [ ] Choisis un objectif unique pour cette étape.
+- [ ] Lance une première action test à petite échelle.
+- [ ] Mesure le résultat après 7 jours.
+- [ ] Ajuste avant de passer à l'échelle.

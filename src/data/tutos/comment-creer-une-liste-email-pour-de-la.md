@@ -7,44 +7,145 @@ tags:
 - Tutoriels
 title: Comment Créer Une Liste Email Pour De La Prospection B2B
 author: Diane
-description: 'Découvre Comment Créer Une Liste Email Pour De La Prospection B2B :
-  outil français pour entrepreneurs, fonctionnalités et avis.'
+description: 'Découvre Comment Créer Une Liste Email Pour De La Prospection B2B : outil français pour entrepreneurs, fonctionnalités et avis.'
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-Comment créer des listes infinies de contacts B2B pour la prospection en ⏰ 2 minutes : 
+# Créer une liste email B2B pour la prospection
 
-## 1. Choisir Parmi les 4000 Catégorie Professionnelle de Google Maps Celle Qui Correspond le Mieux à Ta Clientèle Cible
+Une bonne prospection commence par une bonne liste.
 
-   → ici on prend les photographes de mariage comme exemple 🤵👰‍♀️
+Si la liste est mauvaise, même le meilleur script ne convertit pas.
 
-- Choisis une catégorie professionnelle qui correspond le mieux à celle de ton client idéal
+## Objectif
 
-## 2. Choisir le Pays Dans Lequel Sont Situées les Entreprises Que Tu Veux
+Construire une liste B2B:
+- ciblée,
+- propre,
+- exploitable,
+- conforme.
 
-## 3. Choisir la Subdivision Géographique de Niveau Un
+## Étape 1 - Définis ton ICP (client idéal)
 
-En France ce sont les régions
+Tu dois préciser:
+- secteur,
+- taille d'entreprise,
+- zone géographique,
+- poste cible,
+- problème principal.
 
-## 4. Choisir la Division Géographique de Niveau 2
+Exemple:
+"Photographes de mariage indépendants en France, 1 à 5 personnes, besoin de plus de leads qualifiés."
 
-En france ce sont les départements
+## Étape 2 - Choisis ta source de collecte
 
-## 5. Choisir la Ville Qui t’intéresse
+Sources fréquentes:
+- Google Maps,
+- LinkedIn,
+- annuaires pros,
+- bases publiques.
 
-## 6. (Option) Choisir des Filtrer
+Commence par 1 source maîtrisée avant de multiplier.
 
-## 7. Cliquer Sur Rechercher
+## Étape 3 - Extrait les données utiles
 
-Le logiciel va te trouver toutes les entreprises qui correpondantes qui ont référencé leur activité sur Google Maps, avec leur email, leur numéro de téléphone, leur site internet, leur contact de réseaux sociaux, et des dizaines d’autres informations utiles
+Champs minimum:
+- entreprise,
+- prénom / nom (si possible),
+- email pro,
+- téléphone,
+- ville,
+- site web,
+- source,
+- date d'extraction.
 
-🔍 En 3 minutes, le logiciel va trouver pour toi toutes les entreprises qui correspondent à ces filtres et te restituer leur 📧 email, 📞 numéro de téléphone, 🌐 site internet, contact de réseaux sociaux…. Il y a bien d'autres informations utiles notamment pour les agences SEO ou marketing : Le pixel Facebook est-il installé, y a t-il des avis positifs ⭐️, les métas de leur site web sont-elles soigneusement renseignés, les fiches sont-elles réclamées ?
+## Étape 4 - Enrichis et vérifie
 
-## 6. Choisir Un Format D'export
+Fais une vérification email pour limiter les rebonds:
+- format valide,
+- domaine actif,
+- rôle générique vs nominatif.
 
-- Tu vas pouvoir exporter ces données dans un listing au format qui te convient,
-- ecrire un beau message de prospection percutant et pertinent ou passe directement un coup de téléphone et commence ta prospection dès aujourd’hui
-Tu peux exporter ces données dans un listing au format qui te convient et le revendre si tu le souhaites !
+Priorise les emails nominatifs quand possible.
 
-Alors partez à la recherche de nouveaux clients dès aujourd'hui 🙂
+## Étape 5 - Segmente avant envoi
+
+Découpe ta liste en segments:
+- secteur,
+- taille,
+- niveau de maturité,
+- urgence perçue.
+
+Tu pourras adapter ton message par segment.
+
+## Étape 6 - Prépare ton fichier d'envoi
+
+Colonnes recommandées:
+- `first_name`
+- `company`
+- `role`
+- `pain_point`
+- `email`
+- `source`
+
+Évite les caractères cassés et les colonnes inutiles.
+
+## Étape 7 - Lance un petit test
+
+N'envoie pas 2000 emails d'un coup.
+
+Lance un test sur 50-100 contacts:
+- mesure taux d'ouverture,
+- taux de réponse,
+- réponses positives,
+- rebonds.
+
+Puis ajuste la liste et le message.
+
+## KPI à suivre
+
+- bounce rate (taux de rebond),
+- reply rate (taux de réponse),
+- positive reply rate,
+- RDV obtenus,
+- coût par opportunité.
+
+## Cadre légal
+
+- respecte le RGPD,
+- informe clairement sur l'origine du contact,
+- propose un moyen simple de ne plus être contacté,
+- garde une trace de la source des données.
+
+## Erreurs fréquentes
+
+- cibler trop large,
+- envoyer sans vérification email,
+- ne pas segmenter,
+- personnaliser zéro ligne du message,
+- ne pas mesurer les résultats.
+
+## Checklist
+
+- [ ] ICP clair
+- [ ] source validée
+- [ ] données extraites
+- [ ] emails vérifiés
+- [ ] segments créés
+- [ ] test 50-100 contacts
+- [ ] KPI suivis
+
+## Ressources pour aller plus loin
+
+### Tutoriels liés
+
+- [Quelle API utiliser pour scraper Google Maps](/tutos/quelle-api-pour-scraper-google-maps)
+- [Comment se faire payer par ses clients](/tutos/comment-se-faire-payer-par-ses-clients)
+
+### Stratégie et automation
+
+- [Stratégie email: base simple et claire](/marketing/email/strategie)
+- [Automatisation email: workflows essentiels](/marketing/email/automation)
+
+Une liste B2B bien construite est un actif: elle te permet de prospecter régulièrement avec moins de friction.

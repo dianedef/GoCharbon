@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
-Construire une chaine YouTube rentable via format signature et système publication.
+## Ton objectif
+Construire une chaîne YouTube rentable via format signature et système publication.
 
-## Positionnement métier
-- Cible prioritaire : Créateurs experts, entertainers niches, marques perso educatives.
-- Canal d'acquisition dominant : SEO YouTube + miniatures + distribution shorts/newsletter.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Créateurs experts, créateurs de niche, marques perso éducatives.
+- Où trouver les clients : SEO YouTube + miniatures + distribution shorts/newsletter.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
-1. Strategie chaine + piliers contenu
-2. Production video complete
-3. Monetisation multi-revenus (ads, sponsors, offres)
+## Idées d'offres à tester
+1. Stratégie chaîne + piliers contenu
+2. Production vidéo complete
+3. Monétisation multi-revenus (publicités, partenariats, offres)
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Strategie chaine + piliers contenu" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (SEO YouTube + miniatures + distribution shorts/newsletter.) pour vendre "Production video complete" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Monetisation multi-revenus (ads, sponsors, offres)", suivre ctr miniature/titre et rétention video moyenne, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Stratégie chaîne + piliers contenu" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (SEO YouTube + miniatures + distribution shorts/newsletter.) pour proposer "Production vidéo complete" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Monétisation multi-revenus (publicités, partenariats, offres)", puis suis ctr miniature/titre et rétention vidéo moyenne, puis ajuste petit à petit.
 
-## KPI de pilotage
-- CTR miniature/titre
-- Retention video moyenne
-- Revenu mensuel par format video
+## Les chiffres utiles à suivre
+- taux de clic (CTR) miniature/titre
+- Retention vidéo moyenne
+- Revenu mensuel par format vidéo
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Publier sans retours loop
-- Qualite audio/video secondaire
-- Dépendance ad revenue uniquement
+- Qualité audio/vidéo secondaire
+- Dépendance revenus pub uniquement
 
-## Livrables attendus
-- Ligne editoriale claire sur 3 piliers
-- Système de production contenu repetable
-- Monetisation reliee au contenu (offres/sponsors/affiliation)
+## À la fin, tu dois avoir
+- Ligne éditoriale claire sur 3 piliers
+- Système de production contenu répétable
+- Monétisation reliée au contenu (offres/partenariats/affiliation)
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil YouTube](/biz/profils/youtube)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/youtube)
-- [Ressource métier 1](/contenu/youtube/accelerer-youtube)
-- [Ressource métier 2](/tutos/comment-optimiser-ses-video-youtube)
-- [Ressource métier 3](/tutos/comment-activer-les-pubs-sur-sa-chaine-youtube)
+- [Suivi du parcours](/parcours/youtube)
+- [Ressource utile 1](/contenu/youtube/accelerer-youtube)
+- [Ressource utile 2](/tutos/comment-optimiser-ses-video-youtube)
+- [Ressource utile 3](/tutos/comment-activer-les-pubs-sur-sa-chaine-youtube)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: cadre optimisation miniatures](/tutos/youtube/cadre-optimisation-miniatures)
-- [Guide futur 2: systeme production batch](/tutos/youtube/systeme-production-batch)
-- [Guide futur 3: negocier sponsors chaine](/tutos/youtube/negocier-sponsors-chaine)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: cadre optimisation miniatures](/tutos/youtube/cadre-optimisation-miniatures)
+- [Guide à venir 2: systeme production batch](/tutos/youtube/systeme-production-batch)
+- [Guide à venir 3: negocier sponsors chaine](/tutos/youtube/negocier-sponsors-chaine)

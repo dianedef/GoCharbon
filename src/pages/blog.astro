@@ -1,35 +1,38 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Default.astro";
-import FilterTags from "../components/components/FilterTags.vue";
-import { tagHierarchy } from "../components/tagHierarchy";
+import PostGrid from "../components/components/PostGrid.astro";
+import Button from "../components/components/Button.astro";
 import { applyContentScope } from "../utils/content-section";
-import { toPostPreviews } from "../utils/post-preview";
 
-// Récupération des posts initiaux pour le SSG
-const allPosts = await getCollection("posts");
-const blogPosts = applyContentScope(allPosts, "blog");
-
-const initialPosts = blogPosts
+const blogPosts = applyContentScope(await getCollection("posts"), "blog")
 	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
-	.slice(0, 15);
-const initialPostPreviews = toPostPreviews(initialPosts);
+	.slice(0, 30);
 
-const mainTags = Object.keys(tagHierarchy);
+const pillarTags = [
+	{ label: "Business", href: "/tag/business" },
+	{ label: "Marketing", href: "/tag/marketing" },
+	{ label: "Tech", href: "/tag/tech" },
+	{ label: "Productivité", href: "/tag/productivite" },
+];
 ---
 
 <Layout title="Blog" description="Découvre tous les articles GOCHARBON : business, marketing, tech, SEO et productivité pour entrepreneurs et freelances. Conseils pratiques et stratégies actionnables." pageTitle="Blog GOCHARBON">
 	<main class="px-2 md:px-6 py-6 max-w-7xl mx-auto">
-		<!-- Zone de contenu dynamique -->
-			<div id="dynamic-content">
-				<!-- Composant Vue pour le filtrage -->
-				<FilterTags
-					client:visible
-					mainTags={mainTags}
-					initialPosts={initialPostPreviews}
-					scope="blog"
-				/>
+		<section class="mb-8 p-4 md:p-6 border-3 border-black dark:border-yellow-soft bg-white-soft dark:bg-black">
+			<h2 class="poppins text-2xl md:text-3xl font-bold mb-3 text-black dark:text-white">Pages piliers</h2>
+			<p class="poppins text-lg mb-4 text-black dark:text-white">
+				Choisis une thématique principale sans filtre dynamique.
+			</p>
+			<div class="flex flex-wrap gap-3">
+				{pillarTags.map((tag) => (
+					<Button href={tag.href} color="var(--brand-copper)">
+						{tag.label}
+					</Button>
+				))}
 			</div>
+		</section>
+		<PostGrid posts={blogPosts} />
 	</main>
 </Layout>
 

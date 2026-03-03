@@ -11,11 +11,12 @@
   },
   "homepage": "https://brutal.elian.codes",
   "scripts": {
-    "dev": "astro dev --host 0.0.0.0",
-    "start": "astro dev --host 0.0.0.0",
+    "dev": "astro dev --host 0.0.0.0 --port 3014",
+    "start": "astro dev --host 0.0.0.0 --port 3014",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "audit:parcours": "node scripts/audit_parcours_content.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.15",

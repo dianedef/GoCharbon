@@ -120,22 +120,33 @@ onBeforeUnmount(() => {
 <template>
   <div class="path-progress">
     <section class="progress-overview">
-      <h2>Progression du parcours</h2>
-      <p>{{ completedCount }} / {{ totalSteps }} étapes complétées</p>
-      <p class="xp-line">XP parcours: {{ xp.taskXp }} XP</p>
+      <div class="progress-top">
+        <div class="progress-title-wrap">
+          <h2>Progression du parcours</h2>
+          <p class="progress-summary">{{ completedCount }} / {{ totalSteps }} étapes complétées</p>
+        </div>
+        <div class="progress-badges">
+          <span class="progress-badge progress-badge-percent">{{ progressPercent }}%</span>
+          <span class="progress-badge progress-badge-xp">⭐ {{ xp.taskXp }} XP</span>
+        </div>
+      </div>
       <div class="progress-track" role="progressbar" :aria-valuenow="progressPercent" aria-valuemin="0" aria-valuemax="100">
         <div class="progress-fill" :style="{ width: progressPercent + '%' }"></div>
       </div>
-      <strong>{{ progressPercent }}%</strong>
     </section>
 
     <div class="modules-list">
       <section v-for="(module, moduleIndex) in pathData.modules" :key="module.id" class="module-card">
-        <h3>Module {{ moduleIndex + 1 }}: {{ module.title }}</h3>
-        <p>{{ module.objective }}</p>
-        <p class="module-stats">
-          {{ moduleProgress(module.id, module.steps.map((step) => step.id)).done }} / {{ module.steps.length }} étapes
-        </p>
+        <div class="module-header">
+          <div class="module-header-top">
+            <span class="module-index-badge">Module {{ moduleIndex + 1 }}</span>
+            <h3 class="module-title-center">{{ module.title }}</h3>
+            <p class="module-stats">
+              {{ moduleProgress(module.id, module.steps.map((step) => step.id)).done }} / {{ module.steps.length }} étapes
+            </p>
+          </div>
+          <p class="module-objective">{{ module.objective }}</p>
+        </div>
 
         <ol>
           <li v-for="(step, stepIndex) in module.steps" :key="step.id">
@@ -145,20 +156,16 @@ onBeforeUnmount(() => {
                 :label="`Valider l'étape ${stepIndex + 1}: ${step.title}`"
                 @update:model-value="(checked: boolean) => toggleStep(module.id, step.id, checked)"
               />
-              <button
-                type="button"
-                class="step-content-btn"
-                @click="toggleStep(module.id, step.id, !isCompleted(module.id, step.id))"
-              >
+              <div class="step-content">
                 <strong>Étape {{ stepIndex + 1 }}: {{ step.title }}</strong>
                 <span class="step-meta">
                   <span class="step-type" :class="step.type">{{ stepTypeLabel(step.type as TaskType) }}</span>
                   <span class="step-xp">+{{ stepXp(step.type as TaskType) }} XP</span>
                 </span>
                 <p>{{ step.description }}</p>
-              </button>
+              </div>
             </div>
-            <a :href="step.href">Ouvrir</a>
+            <a :href="step.href" class="step-open-link no-link-style" data-astro-prefetch>Ouvrir</a>
           </li>
         </ol>
       </section>
@@ -178,6 +185,9 @@ onBeforeUnmount(() => {
   --pp-progress-track: var(--brand-cream-warm);
   --pp-progress-fill: var(--brand-orange);
   --pp-badge-text: var(--brand-black);
+  --pp-module-stats-bg: var(--brand-cream);
+  --pp-module-stats-border: var(--pp-border);
+  --pp-module-stats-text: var(--pp-text);
 
   display: flex;
   flex-direction: column;
@@ -190,31 +200,79 @@ onBeforeUnmount(() => {
   box-shadow: none;
   filter: drop-shadow(6px 6px 0 var(--pp-shadow));
   color: var(--pp-text);
-  padding: 1rem;
+  padding: 0.75rem 0.85rem !important;
   position: sticky;
-  top: 0;
-  z-index: 30;
+  top: 4.6rem;
+  z-index: 35;
+}
+
+.progress-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.progress-title-wrap {
+  min-width: 0;
 }
 
 .progress-overview h2 {
-  margin: 0 0 0.35rem;
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.2;
 }
 
-.progress-overview p {
-  margin: 0 0 0.5rem;
+.progress-summary {
+  margin: 0.12rem 0 0;
+  font-size: 0.88rem;
+  opacity: 0.85;
+  line-height: 1.2;
 }
 
-.xp-line {
-  font-weight: 700;
+.progress-badges {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.progress-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--pp-border);
+  padding: 0.16rem 0.52rem;
+  font-size: 0.78rem;
+  font-weight: 800;
+  line-height: 1.15;
+  white-space: nowrap;
+}
+
+.progress-badge-percent {
+  background: var(--pp-progress-fill);
+  color: var(--brand-black);
+}
+
+.progress-badge-xp {
+  background: var(--brand-yellow);
+  color: var(--brand-black);
 }
 
 .progress-track {
-  height: 0.8rem;
+  height: 0.58rem;
   border: 2px solid var(--pp-border);
   background: var(--pp-progress-track);
-  border-radius: 999px;
+  border-radius: 0;
   overflow: hidden;
-  margin-bottom: 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .progress-overview {
+    top: 5.6rem;
+  }
 }
 
 .progress-fill {
@@ -242,17 +300,67 @@ onBeforeUnmount(() => {
   border-bottom-color: var(--pp-border);
 }
 
-.module-card h3 {
-  margin: 0 0 0.4rem;
+.module-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.48rem;
+  padding: 0;
+  margin-bottom: 0.65rem;
 }
 
-.module-card p {
-  margin: 0.3rem 0;
-  line-height: 1.45;
+.module-header-top {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.module-index-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--pp-border);
+  background: var(--brand-yellow);
+  color: var(--brand-black);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  padding: 0.18rem 0.48rem;
+  line-height: 1.2;
+}
+
+.module-title-center {
+  margin: 0;
+  font-size: 1.22rem;
+  line-height: 1.25;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  text-align: center;
+  min-width: 0;
+}
+
+.module-objective {
+  margin: 0.24rem 0 0;
+  line-height: 1.35;
+  font-size: 1rem;
 }
 
 .module-stats {
-  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--pp-module-stats-border);
+  background: var(--pp-module-stats-bg);
+  color: var(--pp-module-stats-text);
+  font-size: 0.9rem;
+  font-weight: 800;
+  white-space: nowrap;
+  margin: 0;
+  padding: 0.2rem 0.55rem;
+  line-height: 1.2;
 }
 
 .module-card ol {
@@ -265,8 +373,8 @@ onBeforeUnmount(() => {
 }
 
 .module-card li {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
   align-items: flex-start;
   gap: 0.8rem;
   background: var(--pp-surface-muted);
@@ -279,18 +387,12 @@ onBeforeUnmount(() => {
   align-items: flex-start;
   gap: 0.5rem;
   width: 100%;
+  min-width: 0;
 }
 
-.step-content-btn {
-  all: unset;
+.step-content {
   display: block;
-  cursor: pointer;
   width: 100%;
-}
-
-.step-content-btn:focus-visible {
-  outline: 2px dashed var(--brand-orange);
-  outline-offset: 2px;
 }
 
 .step-meta {
@@ -341,20 +443,40 @@ onBeforeUnmount(() => {
 .module-card li a {
   white-space: nowrap;
   font-weight: 700;
-  color: var(--pp-link);
+  color: var(--pp-link) !important;
+}
+
+.step-open-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  align-self: flex-start;
+  min-width: 5.5rem;
+  padding: 0.35rem 0.6rem;
+  border: 2px solid var(--pp-border);
+  background: var(--pp-surface);
+  text-decoration: none;
+  line-height: 1.2;
 }
 
 .module-card li a:hover {
   color: var(--pp-link-hover);
 }
 
-:global(.dark) .step-content-btn:focus-visible {
-  outline-color: var(--brand-yellow);
-}
-
 :global(.dark) .step-type,
 :global(.dark) .step-xp {
   border-color: var(--pp-border);
+}
+
+:global(.dark) .module-index-badge {
+  border-color: var(--pp-border);
+  background: var(--brand-yellow);
+  color: var(--brand-black);
+}
+
+:global(.dark) .module-objective {
+  color: var(--brand-cream);
+  opacity: 0.95;
 }
 
 :global(.dark) .step-type {
@@ -385,12 +507,21 @@ onBeforeUnmount(() => {
   color: var(--brand-black);
 }
 
-@media (max-width: 720px) {
-  .module-card li {
-    flex-direction: column;
-    align-items: flex-start;
+@media (max-width: 780px) {
+  .module-stats {
+    font-size: 0.84rem;
+    padding: 0.18rem 0.45rem;
+  }
+
+  .module-title-center {
+    font-size: 1.05rem;
+  }
+
+  .module-objective {
+    font-size: 0.94rem;
   }
 }
+
 </style>
 
 <style>
@@ -406,5 +537,8 @@ html.dark .path-progress,
   --pp-progress-track: var(--brand-soot);
   --pp-progress-fill: var(--brand-yellow);
   --pp-badge-text: var(--brand-cream);
+  --pp-module-stats-bg: var(--brand-charcoal);
+  --pp-module-stats-border: var(--brand-yellow);
+  --pp-module-stats-text: var(--brand-yellow);
 }
 </style>

@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
+## Ton objectif
 Developper une boutique rentable en combinant offre, conversion et rétention.
 
-## Positionnement métier
-- Cible prioritaire : Marques D2C, boutiques niche et revendeurs en ligne.
-- Canal d'acquisition dominant : SEO catégorie + ads performance + offres bundle.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Marques D2C, boutiques niche et revendeurs en ligne.
+- Où trouver les clients : SEO catégorie + publicités performance + offres bundle.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
+## Idées d'offres à tester
 1. Audit conversion boutique
 2. Plan acquisition multicanal
 3. Programme rétention email/sms
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Audit conversion boutique" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (SEO catégorie + ads performance + offres bundle.) pour vendre "Plan acquisition multicanal" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Programme rétention email/sms", suivre taux conversion checkout et aov panier moyen, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Audit conversion boutique" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (SEO catégorie + publicités performance + offres bundle.) pour proposer "Plan acquisition multicanal" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Programme rétention email/sms", puis suis taux conversion checkout et aov panier moyen, puis ajuste petit à petit.
 
-## KPI de pilotage
+## Les chiffres utiles à suivre
 - Taux conversion checkout
 - AOV panier moyen
 - Repeat purchase rate
 
-## Risques critiques à éviter
-- Depenser ads sans tracking fiable
+## Pièges à éviter
+- Depenser publicités sans suivi fiable
 - Catalogues non priorises
 - Negliger rétention post-achat
 
-## Livrables attendus
+## À la fin, tu dois avoir
 - Offre/catalogue priorise selon marge et demande
 - Tunnel conversion audite (fiche -> checkout)
-- Pilotage stock, retours et rentabilite par produit
+- Suivi stock, retours et rentabilité par produit
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Ecommerce](/biz/profils/ecommerce)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/ecommerce)
-- [Ressource métier 1](/biz/e-commerce/index)
-- [Ressource métier 2](/tutos/comment-importer-des-produits-amazon-dans)
-- [Ressource métier 3](/marketing/ads/meta)
+- [Suivi du parcours](/parcours/ecommerce)
+- [Ressource utile 1](/biz/e-commerce/index)
+- [Ressource utile 2](/tutos/comment-importer-des-produits-amazon-dans)
+- [Ressource utile 3](/marketing/ads/meta)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: plan bundle et upsell](/tutos/ecommerce/plan-bundle-et-upsell)
-- [Guide futur 2: carte frictions checkout](/tutos/ecommerce/carte-frictions-checkout)
-- [Guide futur 3: stratégie rétention 90 jours](/tutos/ecommerce/strategie-retention-90-jours)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: plan bundle et upsell](/tutos/ecommerce/plan-bundle-et-upsell)
+- [Guide à venir 2: carte frictions checkout](/tutos/ecommerce/carte-frictions-checkout)
+- [Guide à venir 3: stratégie rétention 90 jours](/tutos/ecommerce/strategie-retention-90-jours)

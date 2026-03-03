@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
-Lancer un SaaS problem-solution fit puis structurer acquisition retenue.
+## Ton objectif
+Lancer un SaaS adéquation problème-solution puis structurer acquisition retenue.
 
-## Positionnement métier
-- Cible prioritaire : Fondateurs solo et équipes produit early-stage.
-- Canal d'acquisition dominant : Build in public + contenu probleme + outreach beta users.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Fondateurs solo et équipes produit en démarrage.
+- Où trouver les clients : contenu public régulier + contenu problème + prospection directe premiers utilisateurs.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
-1. Validation probleme + landing test
-2. MVP SaaS monetisable
-3. Pilotage MRR + churn optimization
+## Idées d'offres à tester
+1. Validation problème + page de test
+2. version simple du SaaS monétisable
+3. Suivi revenu mensuel + perte d'abonnés optimisation
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Validation probleme + landing test" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Build in public + contenu probleme + outreach beta users.) pour vendre "MVP SaaS monetisable" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Pilotage MRR + churn optimization", suivre mrr net nouveau et churn logo/revenu, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Validation problème + page de test" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (contenu public régulier + contenu problème + prospection directe premiers utilisateurs.) pour proposer "version simple du SaaS monétisable" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Suivi revenu mensuel + perte d'abonnés optimisation", puis suis revenu mensuel net nouveau (MRR net nouveau) et perte d'abonnés logo/revenu, puis ajuste petit à petit.
 
-## KPI de pilotage
-- MRR net nouveau
-- Churn logo/revenu
+## Les chiffres utiles à suivre
+- revenu mensuel net nouveau (MRR net nouveau)
+- perte de clients / perte de revenu (churn)
 - Activation utilisateur J7
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Construire trop avant ventes
 - Positionnement flou
-- Support client sous-dimensionne
+- Support client sous-dimensionné
 
-## Livrables attendus
-- Specification claire du service/produit a livrer
-- Process technique versionne avec QA
-- Mesure impact business (temps, cout, revenu)
+## À la fin, tu dois avoir
+- Une version claire de ton service ou produit
+- Un process simple pour produire sans te perdre
+- Un suivi simple du temps, des coûts et des revenus
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil SaaS](/biz/profils/saas)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/saas)
-- [Ressource métier 1](/biz/saas/index)
-- [Ressource métier 2](/tutos/comment-creer-saas-avec-espace-membre-avec-notion)
-- [Ressource métier 3](/marketing/analytics/kpis)
+- [Suivi du parcours](/parcours/saas)
+- [Ressource utile 1](/biz/saas/index)
+- [Ressource utile 2](/tutos/comment-creer-saas-avec-espace-membre-avec-notion)
+- [Ressource utile 3](/marketing/analytics/kpis)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: scorecard problem solution fit](/tutos/saas/scorecard-problem-solution-fit)
-- [Guide futur 2: cadre onboarding produit](/tutos/saas/cadre-onboarding-produit)
-- [Guide futur 3: plan reduction churn](/tutos/saas/plan-reduction-churn)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: scorecard problem solution fit](/tutos/saas/scorecard-problem-solution-fit)
+- [Guide à venir 2: cadre de démarrage produit](/tutos/saas/cadre-onboarding-produit)
+- [Guide à venir 3: plan réduction perte d'abonnés](/tutos/saas/plan-reduction-perte-abonnes)

@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
+## Ton objectif
 Construire une newsletter utile, attendue et monetable sans fatigue audience.
 
-## Positionnement métier
-- Cible prioritaire : Experts niches, medias independants, créateurs B2B.
-- Canal d'acquisition dominant : Co-marketing, lead magnets et cross-posting reseaux.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Experts niches, medias independants, créateurs B2B.
+- Où trouver les clients : Co-marketing, contenus gratuits attractifs et cross-posting reseaux.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
+## Idées d'offres à tester
 1. Lancement newsletter 30 jours
-2. Refonte ligne editoriale + cadence
-3. Monetisation sponsor/produit
+2. Refonte ligne éditoriale + cadence
+3. Monétisation sponsor/produit
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Lancement newsletter 30 jours" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Co-marketing, lead magnets et cross-posting reseaux.) pour vendre "Refonte ligne editoriale + cadence" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Monetisation sponsor/produit", suivre croissance liste nette et taux lecture/réponse, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Lancement newsletter 30 jours" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Co-marketing, contenus gratuits attractifs et cross-posting reseaux.) pour proposer "Refonte ligne éditoriale + cadence" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Monétisation sponsor/produit", puis suis croissance liste nette et taux lecture/réponse, puis ajuste petit à petit.
 
-## KPI de pilotage
+## Les chiffres utiles à suivre
 - Croissance liste nette
 - Taux lecture/réponse
-- Revenu par edition envoyee
+- Revenu par edition envoyée
 
-## Risques critiques à éviter
-- Promesse editoriale floue
+## Pièges à éviter
+- Promesse éditoriale floue
 - Cadence non tenue
-- Monetisation trop agressive
+- Monétisation trop agressive
 
-## Livrables attendus
-- Ligne editoriale claire sur 3 piliers
-- Système de production contenu repetable
-- Monetisation reliee au contenu (offres/sponsors/affiliation)
+## À la fin, tu dois avoir
+- Ligne éditoriale claire sur 3 piliers
+- Système de production contenu répétable
+- Monétisation reliée au contenu (offres/partenariats/affiliation)
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Newsletter](/biz/profils/newsletter)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/newsletter)
-- [Ressource métier 1](/marketing/email/strategie)
-- [Ressource métier 2](/tutos/comment-creer-une-liste-email-pour-de-la)
-- [Ressource métier 3](/tutos/envoyer-email-a-partir-de-wordpress)
+- [Suivi du parcours](/parcours/newsletter)
+- [Ressource utile 1](/marketing/email/strategie)
+- [Ressource utile 2](/tutos/comment-creer-une-liste-email-pour-de-la)
+- [Ressource utile 3](/tutos/envoyer-email-a-partir-de-wordpress)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: systeme angles editoriaux](/tutos/newsletter/systeme-angles-editoriaux)
-- [Guide futur 2: plan sponsor media kit](/tutos/newsletter/plan-sponsor-media-kit)
-- [Guide futur 3: automatisation production](/tutos/newsletter/automatisation-production)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: systeme angles editoriaux](/tutos/newsletter/systeme-angles-editoriaux)
+- [Guide à venir 2: plan sponsor media kit](/tutos/newsletter/plan-sponsor-media-kit)
+- [Guide à venir 3: automatisation production](/tutos/newsletter/automatisation-production)

@@ -4,6 +4,7 @@ import { getEntry, render } from "astro:content";
 import { learningPaths, learningPathById } from "../../data/parcoursData";
 import { getParcoursIdFromSlug, getParcoursSlug } from "../../data/parcoursSlugs";
 import PathProgressTracker from "../../components/vue/PathProgressTracker.vue";
+import mineursBg from "../../assets/mineurs-fond.svg";
 
 export function getStaticPaths() {
   return learningPaths.flatMap((path) => {
@@ -32,26 +33,48 @@ const pathData = canonicalId
 const pathEntry = canonicalId ? await getEntry("parcours", canonicalId) : null;
 const pathEntryRendered = pathEntry ? await render(pathEntry) : null;
 const PathContent = pathEntryRendered?.Content;
+const levelLabelByValue: Record<string, string> = {
+  debutant: "Débutant",
+  intermediaire: "Intermédiaire",
+  avance: "Avancé",
+};
+const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.level) : "";
 ---
 
 <Layout
   title={pathData ? `Parcours ${pathData.profileTitle} | GOCHARBON` : "Parcours introuvable | GOCHARBON"}
-  description={pathData ? `Parcours ${pathData.profileTitle}: fondations, specialisation et execution terrain.` : "Ce parcours est introuvable. Retourne a la liste des parcours."}
+  description={pathData ? `Parcours ${pathData.profileTitle}: les bases, un plan simple et des actions concrètes.` : "Ce parcours est introuvable. Retourne à la liste des parcours."}
   pageTitle={pathData ? `Parcours ${pathData.profileTitle}` : "Parcours introuvable"}
 >
-  <main class="min-h-screen bg-yellow-soft dark:bg-black py-12 md:py-20">
+  <main class="parcours-mine-bg min-h-screen py-12 md:py-20">
+    <img src={mineursBg} alt="" class="mine-bg-illustration" aria-hidden="true" />
+    <div class="mine-bg-overlay" aria-hidden="true"></div>
     <div class="container mx-auto px-4">
       <div class="max-w-5xl mx-auto">
         {pathData ? (
           <>
             <div class="path-header">
-              <p class="path-tag">{pathData.category}</p>
+              <div class="path-header-top">
+                <p class="path-tag">{pathData.category}</p>
+                <a href={`/biz/profils/${pathData.profileSlug}`} class="path-profile-btn no-link-style">Voir le Business</a>
+              </div>
               <h1>{pathData.profileTitle}</h1>
               <p class="path-outcome">{pathData.outcome}</p>
               <div class="path-header-meta">
-                <span>Niveau: {pathData.level}</span>
-                <span>Duree: {pathData.estimatedDuration}</span>
-                <a href={`/biz/profils/${pathData.profileSlug}`} class="no-link-style">Voir la fiche profil</a>
+                <span class="path-meta-card level">
+                  <span class="meta-icon" aria-hidden="true">🎯</span>
+                  <span class="meta-content">
+                    <span class="meta-label">Niveau</span>
+                    <strong class="meta-value level-value">{levelLabel}</strong>
+                  </span>
+                </span>
+                <span class="path-meta-card duration">
+                  <span class="meta-icon" aria-hidden="true">⏱️</span>
+                  <span class="meta-content">
+                    <span class="meta-label">Durée</span>
+                    <strong class="meta-value">{pathData.estimatedDuration}</strong>
+                  </span>
+                </span>
               </div>
             </div>
 
@@ -59,12 +82,16 @@ const PathContent = pathEntryRendered?.Content;
 
             {PathContent && (
               <div class="path-editorial">
+                <p class="path-editorial-kicker">Résumé du projet</p>
+                <p class="path-editorial-intro">
+                  Ici, tu as la vue d'ensemble: le but, l'idée et le plan sur 7 jours. Pour avancer étape par étape, utilise la checklist juste au-dessus.
+                </p>
                 <PathContent />
               </div>
             )}
 
             <div class="path-actions">
-              <a href="/quiz-avance" class="path-btn no-link-style">Refaire le quiz avance</a>
+              <a href="/quiz-avance" class="path-btn no-link-style">Refaire le quiz avancé</a>
               <a href="/parcours" class="path-btn secondary no-link-style">Voir tous les parcours</a>
             </div>
           </>
@@ -83,6 +110,54 @@ const PathContent = pathEntryRendered?.Content;
 <style>
   .container {
     max-width: 1280px;
+    position: relative;
+    z-index: 2;
+  }
+
+  .parcours-mine-bg {
+    position: relative;
+    overflow: clip;
+    background-color: var(--brand-yellow);
+  }
+
+  .mine-bg-illustration {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 30%;
+    opacity: 0.78;
+  }
+
+  .mine-bg-overlay {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+    background: linear-gradient(to bottom, rgb(246 199 0 / 0.2), rgb(246 199 0 / 0.34));
+  }
+
+  :global(.dark) .parcours-mine-bg {
+    background-color: var(--brand-ink);
+  }
+
+  :global(.dark) .mine-bg-illustration {
+    opacity: 0.72;
+  }
+
+  :global(.dark) .mine-bg-overlay {
+    background: linear-gradient(to bottom, rgb(11 11 11 / 0.52), rgb(11 11 11 / 0.66));
+  }
+
+  @media (max-width: 899px) {
+    .mine-bg-illustration {
+      object-position: center 35%;
+      transform: scale(1.1);
+      transform-origin: center;
+    }
   }
 
   .path-header {
@@ -91,6 +166,13 @@ const PathContent = pathEntryRendered?.Content;
     box-shadow: 6px 6px 0 var(--brand-black);
     padding: 1.25rem;
     margin-bottom: 1.2rem;
+  }
+
+  .path-header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.8rem;
   }
 
   .path-tag {
@@ -104,8 +186,30 @@ const PathContent = pathEntryRendered?.Content;
     margin: 0;
   }
 
+  .path-profile-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid var(--brand-black);
+    background: var(--brand-yellow);
+    color: var(--brand-black);
+    font-family: "Sanchez", serif;
+    font-size: 0.86rem;
+    font-weight: 700;
+    padding: 0.35rem 0.65rem;
+    box-shadow: 3px 3px 0 var(--brand-black);
+    transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+    flex-shrink: 0;
+  }
+
+  .path-profile-btn:hover {
+    transform: translate(1px, 1px);
+    box-shadow: 2px 2px 0 var(--brand-black);
+    background: var(--brand-orange);
+  }
+
   .path-header h1 {
-    margin: 0.5rem 0;
+    margin: 0.55rem 0 0.45rem;
     font-size: 2rem;
   }
 
@@ -115,15 +219,59 @@ const PathContent = pathEntryRendered?.Content;
   }
 
   .path-header-meta {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
     gap: 0.8rem;
-    font-size: 0.95rem;
+    align-items: stretch;
   }
 
-  .path-header-meta a {
-    font-weight: 700;
-    color: var(--brand-black);
+  .path-meta-card {
+    display: flex;
+    align-items: center;
+    flex: 1 1 0;
+    gap: 0.55rem;
+    border: 2px solid var(--brand-black);
+    padding: 0.4rem 0.55rem;
+    background: var(--brand-cream);
+    min-width: 0;
+  }
+
+  .path-meta-card.level {
+    background: #ffe9a8;
+  }
+
+  .path-meta-card.duration {
+    background: #ffd8b2;
+  }
+
+  .meta-icon {
+    font-size: 1rem;
+    line-height: 1;
+  }
+
+  .meta-content {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    gap: 0.06rem;
+  }
+
+  .meta-label {
+    font-size: 0.72rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    line-height: 1.2;
+  }
+
+  .meta-value {
+    font-size: 0.9rem;
+    line-height: 1.2;
+    overflow-wrap: anywhere;
+  }
+
+  .level-value {
+    text-transform: capitalize;
   }
 
   .path-actions {
@@ -133,25 +281,116 @@ const PathContent = pathEntryRendered?.Content;
     margin-top: 1rem;
   }
 
+  @media (max-width: 720px) {
+    .path-header {
+      padding: 1rem;
+    }
+
+    .path-header h1 {
+      font-size: 1.6rem;
+    }
+
+    .path-profile-btn {
+      font-size: 0.8rem;
+      padding: 0.28rem 0.5rem;
+    }
+
+    .path-header-meta {
+      grid-template-columns: 1fr 1fr;
+      gap: 0.5rem;
+    }
+  }
+
   .path-editorial {
     margin-top: 1rem;
     background: var(--brand-cream);
     border: 3px solid var(--brand-black);
     box-shadow: 6px 6px 0 var(--brand-black);
-    padding: 1rem 1.1rem;
+    padding: 1rem 1.15rem;
+  }
+
+  .path-editorial-kicker {
+    margin: 0 0 0.7rem;
+    display: inline-block;
+    border: 2px solid var(--brand-black);
+    background: var(--brand-yellow);
+    color: var(--brand-black);
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    line-height: 1.2;
+    padding: 0.18rem 0.46rem;
+  }
+
+  .path-editorial-intro {
+    margin: 0 0 0.85rem;
+    font-size: 0.92rem;
+    line-height: 1.45;
+    font-weight: 600;
   }
 
   .path-editorial :global(h2) {
-    margin: 0 0 0.6rem;
+    margin: 1rem 0 0.65rem;
+    border: 2px solid var(--brand-black);
+    background: #ffe9a8;
+    padding: 0.28rem 0.55rem;
+    font-size: 1.05rem;
+    line-height: 1.3;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+  }
+
+  .path-editorial :global(h2:first-child) {
+    margin-top: 0;
+  }
+
+  .path-editorial :global(h3) {
+    margin: 0.9rem 0 0.45rem;
+    font-size: 1rem;
+    line-height: 1.3;
+    font-weight: 800;
   }
 
   .path-editorial :global(a) {
     font-weight: 700;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 2px;
   }
 
   .path-editorial :global(p),
   .path-editorial :global(li) {
-    line-height: 1.5;
+    line-height: 1.55;
+    font-size: 0.97rem;
+  }
+
+  .path-editorial :global(p) {
+    margin: 0.35rem 0 0.55rem;
+  }
+
+  .path-editorial :global(ul),
+  .path-editorial :global(ol) {
+    margin: 0.45rem 0 0.8rem;
+    padding-left: 1.15rem;
+  }
+
+  .path-editorial :global(ul li),
+  .path-editorial :global(ol li) {
+    margin: 0.34rem 0;
+  }
+
+  .path-editorial :global(code) {
+    border: 1px solid var(--brand-black);
+    background: rgb(255 255 255 / 65%);
+    padding: 0.06rem 0.32rem;
+    font-size: 0.88em;
+  }
+
+  .path-editorial :global(blockquote) {
+    margin: 0.75rem 0;
+    padding: 0.45rem 0.7rem;
+    border-left: 4px solid var(--brand-black);
+    background: rgb(0 0 0 / 4%);
   }
 
   .path-not-found {
@@ -194,7 +433,37 @@ const PathContent = pathEntryRendered?.Content;
     border-color: var(--brand-cream);
   }
 
-  :global(.dark) .path-header-meta a {
+  :global(.dark) .path-profile-btn {
+    border-color: var(--brand-cream);
+    box-shadow: 3px 3px 0 var(--brand-cream);
+    background: transparent;
+    color: var(--brand-yellow);
+  }
+
+  :global(.dark) .path-profile-btn:hover {
+    box-shadow: 2px 2px 0 var(--brand-cream);
+    background: var(--brand-charcoal);
+    color: var(--brand-cream);
+  }
+
+  :global(.dark) .path-meta-card {
+    border-color: var(--brand-cream);
+    background: var(--brand-charcoal);
+  }
+
+  :global(.dark) .path-meta-card.level {
+    background: #1a2f57;
+  }
+
+  :global(.dark) .path-meta-card.duration {
+    background: #5a3f16;
+  }
+
+  :global(.dark) .meta-label {
+    color: var(--brand-cream);
+  }
+
+  :global(.dark) .meta-value {
     color: var(--brand-yellow);
   }
 
@@ -210,6 +479,37 @@ const PathContent = pathEntryRendered?.Content;
     border-color: var(--brand-cream);
     box-shadow: 6px 6px 0 var(--brand-cream);
     color: var(--brand-cream);
+  }
+
+  :global(.dark) .path-editorial-kicker {
+    border-color: var(--brand-cream);
+    background: transparent;
+    color: var(--brand-yellow);
+  }
+
+  :global(.dark) .path-editorial-intro {
+    color: var(--brand-cream);
+  }
+
+  :global(.dark) .path-editorial :global(h2) {
+    border-color: var(--brand-cream);
+    background: #1a2f57;
+    color: var(--brand-cream);
+  }
+
+  :global(.dark) .path-editorial :global(h3) {
+    color: var(--brand-yellow);
+  }
+
+  :global(.dark) .path-editorial :global(code) {
+    border-color: var(--brand-cream);
+    background: rgb(255 255 255 / 9%);
+    color: var(--brand-cream);
+  }
+
+  :global(.dark) .path-editorial :global(blockquote) {
+    border-left-color: var(--brand-yellow);
+    background: rgb(255 255 255 / 7%);
   }
 
   :global(.dark) .path-editorial :global(a) {
@@ -233,4 +533,54 @@ const PathContent = pathEntryRendered?.Content;
     background: var(--brand-ink);
     color: var(--brand-cream);
   }
+
+  .path-editorial :global(h2.path-objective-heading) {
+    position: relative;
+    background: linear-gradient(90deg, #f6c700 0 18%, #ffe9a8 18% 100%);
+    border-width: 3px;
+    box-shadow: 4px 4px 0 var(--brand-black);
+    padding: 0.45rem 0.65rem 0.45rem 0.75rem;
+    font-size: 1.12rem;
+    letter-spacing: 0.03em;
+    margin-top: 1.1rem;
+  }
+
+  .path-editorial :global(h2.path-objective-heading)::before {
+    content: "OBJECTIF";
+    display: inline-block;
+    margin-right: 0.55rem;
+    border: 2px solid var(--brand-black);
+    background: var(--brand-cream);
+    color: var(--brand-black);
+    font-size: 0.68rem;
+    font-weight: 900;
+    line-height: 1.1;
+    padding: 0.12rem 0.34rem;
+    vertical-align: middle;
+  }
+
+  :global(.dark) .path-editorial :global(h2.path-objective-heading) {
+    border-color: var(--brand-cream);
+    background: linear-gradient(90deg, #c59c00 0 18%, #1a2f57 18% 100%);
+    color: var(--brand-cream);
+    box-shadow: 4px 4px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .path-editorial :global(h2.path-objective-heading)::before {
+    border-color: var(--brand-cream);
+    background: var(--brand-ink);
+    color: var(--brand-yellow);
+  }
 </style>
+
+<script is:inline>
+  (() => {
+    const headings = document.querySelectorAll(".path-editorial h2");
+    headings.forEach((heading) => {
+      const label = (heading.textContent || "").toLowerCase();
+      if (label.includes("objectif")) {
+        heading.classList.add("path-objective-heading");
+      }
+    });
+  })();
+</script>

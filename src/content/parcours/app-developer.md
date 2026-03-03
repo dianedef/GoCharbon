@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
+## Ton objectif
 Construire des outils utiles avec boucle retours rapide et monétisation claire.
 
-## Positionnement métier
-- Cible prioritaire : PME, créateurs, operations terrain qui ont un besoin mobile precis.
-- Canal d'acquisition dominant : Demo fonctionnelle + cas usage vertical (terrain, commerce, education).
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : PME, créateurs, operations terrain qui ont un besoin mobile precis.
+- Où trouver les clients : Demo fonctionnelle + cas usage vertical (terrain, commerce, education).
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
+## Idées d'offres à tester
 1. MVP mobile 4-6 semaines
 2. Refonte UX + analytics produit
 3. Abonnement maintenance et evolutions
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "MVP mobile 4-6 semaines" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Demo fonctionnelle + cas usage vertical (terrain, commerce, education).) pour vendre "Refonte UX + analytics produit" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Abonnement maintenance et evolutions", suivre activation j1 et rétention semaine 4, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "MVP mobile 4-6 semaines" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Demo fonctionnelle + cas usage vertical (terrain, commerce, education).) pour proposer "Refonte UX + analytics produit" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Abonnement maintenance et evolutions", puis suis activation j1 et rétention semaine 4, puis ajuste petit à petit.
 
-## KPI de pilotage
+## Les chiffres utiles à suivre
 - Activation J1
 - Retention semaine 4
-- MRR ou revenu projet récurrent
+- revenu mensuel ou revenu projet récurrent
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Surconstruire avant validation
 - Absence instrumentation analytics
 - Dette technique precoce
 
-## Livrables attendus
-- Specification claire du service/produit a livrer
-- Process technique versionne avec QA
-- Mesure impact business (temps, cout, revenu)
+## À la fin, tu dois avoir
+- Une version claire de ton service ou produit
+- Un process simple pour produire sans te perdre
+- Un suivi simple du temps, des coûts et des revenus
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil App Developer](/biz/profils/app-developer)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/app-developer)
-- [Ressource métier 1](/biz/saas/index)
-- [Ressource métier 2](/tutos/deployer-un-serveur)
-- [Ressource métier 3](/tutos/comment-creer-un-serveur-de-preprod)
+- [Suivi du parcours](/parcours/app-developer)
+- [Ressource utile 1](/biz/saas/index)
+- [Ressource utile 2](/tutos/deployer-un-serveur)
+- [Ressource utile 3](/tutos/comment-creer-un-serveur-de-preprod)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: matrice priorisation features](/tutos/app-developer/matrice-priorisation-features)
-- [Guide futur 2: setup analytics mobile](/tutos/app-developer/setup-analytics-mobile)
-- [Guide futur 3: plan release beta](/tutos/app-developer/plan-release-beta)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: matrice priorisation features](/tutos/app-developer/matrice-priorisation-features)
+- [Guide à venir 2: setup analytics mobile](/tutos/app-developer/setup-analytics-mobile)
+- [Guide à venir 3: plan release beta](/tutos/app-developer/plan-release-beta)

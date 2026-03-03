@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
+## Ton objectif
 Monétiser une voix-off pro avec pipeline commande et qualité studio.
 
-## Positionnement métier
-- Cible prioritaire : Créateurs video, agences pub, e-learning et podcasts marques.
-- Canal d'acquisition dominant : Demo réel cible par industrie + prospection producteurs.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : Créateurs vidéo, agences pub, e-learning et podcasts marques.
+- Où trouver les clients : Demo réel cible par industrie + prospection producteurs.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
-1. Voix-off pub/social ads
+## Idées d'offres à tester
+1. Voix-off pub/social publicités
 2. Pack narration e-learning
 3. Abonnement voice assets récurrent
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Voix-off pub/social ads" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Demo réel cible par industrie + prospection producteurs.) pour vendre "Pack narration e-learning" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Abonnement voice assets récurrent", suivre délai livraison audio et taux reconduction clients, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Voix-off pub/social publicités" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Demo réel cible par industrie + prospection producteurs.) pour proposer "Pack narration e-learning" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Abonnement voice assets récurrent", puis suis délai livraison audio et taux reconduction clients, puis ajuste petit à petit.
 
-## KPI de pilotage
+## Les chiffres utiles à suivre
 - Delai livraison audio
 - Taux reconduction clients
 - Panier moyen par session
 
-## Risques critiques à éviter
-- Qualite audio inconstante
+## Pièges à éviter
+- Qualité audio inconstante
 - Cessions droits non cadrees
-- Setup enregistrement non standardise
+- mise en place enregistrement non standardise
 
-## Livrables attendus
-- Ligne editoriale claire sur 3 piliers
-- Système de production contenu repetable
-- Monetisation reliee au contenu (offres/sponsors/affiliation)
+## À la fin, tu dois avoir
+- Ligne éditoriale claire sur 3 piliers
+- Système de production contenu répétable
+- Monétisation reliée au contenu (offres/partenariats/affiliation)
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Voiceover Artist](/biz/profils/voiceover-artist)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/voiceover-artist)
-- [Ressource métier 1](/tutos/faire-une-dictee-vocale)
-- [Ressource métier 2](/tutos/comment-retirer-les-silences-et-humm-de-vos-videos)
-- [Ressource métier 3](/tutos/comment-avoir-un-son-parfait-sur-tes-videos-pour)
+- [Suivi du parcours](/parcours/voiceover-artist)
+- [Ressource utile 1](/tutos/faire-une-dictee-vocale)
+- [Ressource utile 2](/tutos/comment-retirer-les-silences-et-humm-de-vos-videos)
+- [Ressource utile 3](/tutos/comment-avoir-un-son-parfait-sur-tes-videos-pour)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: setup home studio](/tutos/voiceover-artist/setup-home-studio)
-- [Guide futur 2: template contrat cession droits](/tutos/voiceover-artist/template-contrat-cession-droits)
-- [Guide futur 3: creation demo réel cible](/tutos/voiceover-artist/creation-demo-reel-cible)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: setup home studio](/tutos/voiceover-artist/setup-home-studio)
+- [Guide à venir 2: template contrat cession droits](/tutos/voiceover-artist/template-contrat-cession-droits)
+- [Guide à venir 3: creation demo réel cible](/tutos/voiceover-artist/creation-demo-reel-cible)

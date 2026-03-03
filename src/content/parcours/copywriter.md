@@ -7,49 +7,49 @@ level: "debutant"
 status: "active"
 updatedAt: "2026-03-01"
 ---
-## Objectif
-Ecrire des assets de conversion qui augmentent clics, leads et ventes.
+## Ton objectif
+Écrire des assets de conversion qui augmentent clics, contacts et ventes.
 
-## Positionnement métier
-- Cible prioritaire : SaaS, infoproduits, e-commerce et agences performance.
-- Canal d'acquisition dominant : Etudes de cas copy avant/apres et audits publics.
-- Angle différenciant : exécution orientée résultat, pas seulement production.
+## En clair (version simple)
+- Pour qui : SaaS, infoproduits, e-commerce et agences performance.
+- Où trouver les clients : Études de cas copy avant/apres et audits publics.
+- Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
-## Offres à tester
-1. Pack page de vente + sequence email
+## Idées d'offres à tester
+1. Pack page de vente + séquence email
 2. Refonte messaging marque
-3. Optimization copy CRO continu
+3. Optimisation continue des textes de vente
 
-## Plan d'exécution 1-7 jours
-1. Jour 1 : transformer "Pack page de vente + sequence email" en offre vendable (promesse, périmètre, preuve) et préparer 2 actifs de crédibilité.
-2. Jours 2-4 : activer le canal prioritaire (Etudes de cas copy avant/apres et audits publics.) pour vendre "Refonte messaging marque" à des clients pilotes avec retours structurés.
-3. Jours 5-7 : standardiser la livraison de "Optimization copy CRO continu", suivre cvr page de vente et ctr emails, puis optimiser marge et répétition.
+## Ton plan simple sur 7 jours
+1. Jour 1 : rends "Pack page de vente + séquence email" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+2. Jours 2-4 : utilise ton canal principal (Études de cas copy avant/apres et audits publics.) pour proposer "Refonte messaging marque" à tes premiers clients et noter leurs retours.
+3. Jours 5-7 : continue avec "Optimisation continue des textes de vente", puis suis taux de conversion de la page de vente (CVR) et taux de clic (CTR) des emails, puis ajuste petit à petit.
 
-## KPI de pilotage
-- CVR page de vente
-- CTR emails
+## Les chiffres utiles à suivre
+- Taux de conversion de la page de vente
+- taux de clic (CTR) emails
 - Valeur contrat moyen copy
 
-## Risques critiques à éviter
+## Pièges à éviter
 - Copie persuasive sans data
-- Promesse non alignee offre
+- Promesse non alignée offre
 - A/B tests absents
 
-## Livrables attendus
-- Offre marketing packagée avec promesse et cas usage cible
-- Système acquisition actif sur 1 canal principal
-- Reporting KPI hebdomadaire avec décisions actionnables
+## À la fin, tu dois avoir
+- Une offre claire qui explique le résultat promis
+- Un canal principal qui t'apporte des prospects
+- Un point chaque semaine pour voir ce qui marche et corriger ce qui bloque
 
-## Liens existants à activer maintenant
+## Liens utiles pour avancer
 - [Fiche profil Copywriter](/biz/profils/copywriter)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Tracker parcours](/parcours/copywriter)
-- [Ressource métier 1](/marketing/email/strategie)
-- [Ressource métier 2](/marketing/content-marketing)
-- [Ressource métier 3](/tutos/comment-ecrire-un-script-youtube-captivant)
+- [Suivi du parcours](/parcours/copywriter)
+- [Ressource utile 1](/marketing/email/strategie)
+- [Ressource utile 2](/marketing/content-marketing)
+- [Ressource utile 3](/tutos/comment-ecrire-un-script-youtube-captivant)
 
-## Liens futurs à produire (backlog éditorial)
-- [Guide futur 1: checklist page vente](/tutos/copywriter/checklist-page-vente)
-- [Guide futur 2: sequence email 7 jours](/tutos/copywriter/sequence-email-7-jours)
-- [Guide futur 3: process ab test copy](/tutos/copywriter/process-ab-test-copy)
+## Idées de contenus pour aller plus loin
+- [Guide à venir 1: checklist page vente](/tutos/copywriter/checklist-page-vente)
+- [Guide à venir 2: sequence email 7 jours](/tutos/copywriter/sequence-email-7-jours)
+- [Guide à venir 3: process ab test copy](/tutos/copywriter/process-ab-test-copy)

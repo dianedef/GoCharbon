@@ -3,7 +3,7 @@ module.exports = {
     name: "GoCharbon",
     cwd: "/home/claude/GoCharbon",
     script: "bash",
-    args: ["-c", "export PORT=3014 && flox activate -- pnpm dev -- --port 3014"],
+    args: ["-c", "export PORT=3014 && flox activate -- pnpm dev"],
     env: {
       PORT: 3014
     },

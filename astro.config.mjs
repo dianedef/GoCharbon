@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
     server: {
-        port: parseInt(process.env.PORT) || 3000
+        port: parseInt(process.env.PORT || "3014", 10)
     },
     integrations: [
         vue({

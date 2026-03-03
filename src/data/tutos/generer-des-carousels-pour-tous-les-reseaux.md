@@ -6,138 +6,111 @@ imageNameKey: null
 u_site: null
 title: Génerer Des Carousels Pour Tous Les Réseaux Sociaux Avec Notion Et Abyssale
 author: Diane
-description: 'Découvre Génerer Des Carousels Pour Tous Les Réseaux Sociaux Avec Notion
-  Et Abyssale : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: 'Découvre Génerer Des Carousels Pour Tous Les Réseaux Sociaux Avec Notion Et Abyssale : outil français pour entrepreneurs, fonctionnalités et avis.'
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-**Table des matières :**
+# Générer des carrousels pour tous les réseaux (Notion + Abyssale)
 
-# **How to import my Notion database into Abyssale ?**
+Tu peux produire des carrousels en série sans repartir de zéro à chaque fois.
 
-Your Notion database can now be quickly and easily imported on Abyssale! Let's dive into it:
+Le principe: Notion contient le contenu, Abyssale gère le design, puis tu exportes tous les slides en lot.
 
-# **Add your Notion API key**
+## Pourquoi cette méthode est utile
 
-First go to
+- cadence de publication stable,
+- charte graphique cohérente,
+- moins de temps passé sur la mise en page,
+- facile à déléguer.
 
-**Notion**
+## Étape 1 - Crée une base Notion propre
 
-& log in
+Colonnes recommandées:
+- `hook` (slide 1)
+- `slide_2` ... `slide_8`
+- `cta`
+- `theme`
+- `status`
 
-On the left panel at the top click on
+Conseil: garde une longueur max par slide pour éviter le texte coupé.
 
-**settings and member**
+## Étape 2 - Prépare un template carrousel
 
-:
+Dans Abyssale:
+- crée un template 1080x1080 (ou format cible),
+- définis styles de texte,
+- place les zones variables (titre, texte, CTA),
+- verrouille les éléments de marque (logo, couleurs).
 
+## Étape 3 - Connecte Notion et Abyssale
 
-On your
+- récupère la clé API Notion,
+- connecte la base dans Abyssale,
+- mappe chaque colonne vers une zone de ton template.
 
-**Account Settings page**
+Fais un test sur 1 enregistrement avant lot complet.
 
-, you'll find an
+## Étape 4 - Gère les variantes multi-réseaux
 
-**My connection area**
+Prévois plusieurs formats:
+- Instagram (1:1)
+- LinkedIn (1:1 ou 4:5)
+- TikTok/Shorts (9:16 si besoin)
 
-. Click on
+La structure reste la même, seul le cadrage change.
 
-**develop or manage integrations**
+## Étape 5 - Export et publication
 
+- export en lot,
+- vérification rapide des slides,
+- publication planifiée via ton outil social.
 
-You are now redirected to the developer Notion page. You must now add a new manual integration. Click on
+## Structure de carrousel qui convertit
 
-**New integration**
+1. Hook fort
+2. Problème concret
+3. Erreur fréquente
+4. Méthode claire
+5. Exemple
+6. Résultat attendu
+7. Récap
+8. CTA
 
+## KPI à suivre
 
-Let the default parameters for this new integration, name it and select you workspace
+- taux de complétion du carrousel,
+- sauvegardes,
+- partages,
+- clic CTA,
+- leads générés.
 
-Copy the API key from your new notion integration
+## Erreurs fréquentes
 
+- trop de texte par slide,
+- visuel joli mais message flou,
+- CTA absent,
+- aucun suivi des performances.
 
-Go to
+## Checklist
 
-**[app.abyssale.com](http://app.abyssale.com)**
+- [ ] base Notion structurée
+- [ ] template prêt
+- [ ] mapping API validé
+- [ ] test unitaire OK
+- [ ] export lot OK
+- [ ] KPI suivis chaque semaine
 
-& log in.
+## Ressources pour aller plus loin
 
-Go to your
+### Tutoriels liés
 
-**Abyssale account Settings > Connect > Notion**
+- [Comment générer des images en lots](/tutos/comment-generer-des-images-en-lots)
+- [Comment générer des vidéos en masse](/tutos/comment-generer-des-videos-en-masse)
 
-; Paste your Notion API Key in the input field and click the Save your key button.
+### Distribution et suivi
 
+- [Comment construire un calendrier éditorial qui tient](/tutos/comment-construire-un-calendrier-editorial-qui)
+- [Comment faire de l'automatisation marketing](/tutos/comment-faire-de-lautomatisation-marketing)
 
-Your Notion account is now connected to Abyssale 🎉.
-
-# **How to import my Notion database now?**
-
-Once your API key has been successfully added to your Abyssale account.
-
-Go to
-
-**My templates**
-
-Click on one of your Template
-
-Select the Spreadsheet generation method
-
-There are multiple creation methods available including
-
-**Notion base import**
-
-. To import your notion data click Select
-
-A popup window will appear asking for your
-
-**Notion database url**
-
-or the "Notion database id**.
-
-
-### **Notion database url**
-
-Go to your
-
-**Notion**
-
-database page
-
-**Copy the url**
-
-and paste it in the appropriate field
-
-**Beware, each Notion "Database" has a dedicated page with a unique ID**
-
-### **Notion database ID**
-
-Go to your
-
-**Notion**
-
-database page
-
-In the url of your database page, get the id
-
-If everything has been done properly, a mapping will be displayed in the popup window
-
-_(all checkboxes are unselected by default)_
-
-.
-
-
-Here you need to check your Abyssale layers (from your template) that you would like to populate with a column extracted from your Notion Database. To do that, just enable the desired layers, and select on the right side which columns you would like to map.
-
-**When fetching your data, Abyssale is guessing which kind of column you have. That's why you don't see all columns on all selected fields. "image_urls" will only contain image fields, "color" & "background_color" only hexadecimal (#FFFFFF) color fields...**
-
-Once you have done your mapping, click on
-
-**Create Spreadsheet**
-
-.
-
-Your Spreadsheet will be created and you will be redirected to it.
-
-
-You can now edit all your data & start generating visual from them 👏.
+Résultat: des carrousels réguliers, lisibles et orientés business, sans épuiser ton temps.
