@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Azopio"
+title: Azopio
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Azopio est une plateforme française d'automatisation comptable. Collecte auto des factures, reconnaissance IA, rapprochement bancaire. Pour TPE/PME et cabinets comptables. RGPD compliant."
-pubDate: "2024-03-25"
+- Outils
+description: Azopio est une plateforme française d'automatisation comptable. Collecte
+  auto des factures, reconnaissance IA, rapprochement bancaire. Pour TPE/PME et cabinets
+  comptables. RGPD compliant.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.azopio.com/fr/index/"
+u_site: https://www.azopio.com/fr/index/
 ---
 
 # Azopio

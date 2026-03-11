@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Altays"
+title: Altays
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'RH'
-  - 'Business'
-description: "Altays est un logiciel SIRH modulaire conçu pour faciliter la gestion des ressources humaines, des entretiens à la rémunération en passant par la base de données économiques et soc"
-pubDate: "2024-03-25"
+- Outils
+description: Altays est un logiciel SIRH modulaire conçu pour faciliter la gestion
+  des ressources humaines, des entretiens à la rémunération en passant par la base
+  de données économiques et soc
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.altays.com/fr/"
+u_site: https://www.altays.com/fr/
 ---
 
 # Altays

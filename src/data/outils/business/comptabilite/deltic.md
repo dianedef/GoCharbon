@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Deltic"
+title: Deltic
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Deltic est une solution française de dématérialisation et d'archivage électronique. Factures, bulletins de paie, notes de frais. Certifié ISO 27001. Automatise 85% des tâches comptables."
-pubDate: "2024-03-25"
+- Outils
+description: Deltic est une solution française de dématérialisation et d'archivage
+  électronique. Factures, bulletins de paie, notes de frais. Certifié ISO 27001. Automatise
+  85% des tâches comptables.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://deltic.fr"
+u_site: https://deltic.fr
 ---
 
 # Deltic

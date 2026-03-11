@@ -4,10 +4,7 @@ metadataEnrichedAt: '2026-03-01'
 type:
 - app
 tags:
-- Outils Français
-- Rédaction
-- Tech
-- IA
+- Outils
 imageNameKey: sendshort
 u_site: https://fr.sendshort.ai
 u_affi: null

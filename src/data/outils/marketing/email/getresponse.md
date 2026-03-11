@@ -1,14 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "GetResponse"
+title: GetResponse
 author: Diane
 tags:
-  - 'Marketing'
-description: "GetResponse est une plateforme complète d'email marketing et d'automatisation. Newsletters, webinaires, cours en ligne, landing pages. 100 000+ clients. Dès 19$/mois. Fondée en 1998."
-pubDate: "2024-03-25"
+- Outils
+description: GetResponse est une plateforme complète d'email marketing et d'automatisation.
+  Newsletters, webinaires, cours en ligne, landing pages. 100 000+ clients. Dès 19$/mois.
+  Fondée en 1998.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.getresponse.com"
+u_site: https://www.getresponse.com
 ---
 
 # GetResponse

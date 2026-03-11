@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
-- Comptabilité
+- Outils
 title: Etude De Marché
 author: Diane
 description: 'Découvre Etude De Marché : outil français pour entrepreneurs, fonctionnalités

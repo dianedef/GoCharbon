@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Le Feed Rss Qui Va Révolutionner Votre Veille Et Booster Votre Business

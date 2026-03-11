@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Positionnement Et Tou
 author: Diane
 description: 'Découvre Positionnement Et Tou : outil français pour entrepreneurs,

@@ -3,9 +3,7 @@ section: blog
 title: 'RÉSEAUX SOCIAUX : VISIBILITÉ SANS Y PASSER TA VIE'
 author: Diane
 tags:
-- Social Media
 - Marketing
-- Stratégie
 description: Guide complet pour utiliser les réseaux sociaux efficacement sans devenir
   esclave des algorithmes
 pubDate: '2024-03-25'

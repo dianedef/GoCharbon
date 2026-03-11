@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Spendesk"
+title: Spendesk
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Spendesk est la plateforme de gestion des dépenses n°1 en Europe. Cartes corporate, notes de frais, factures fournisseurs et automatisation comptable. 3 500+ clients, rentable depuis 2025."
-pubDate: "2024-03-25"
+- Outils
+description: Spendesk est la plateforme de gestion des dépenses n°1 en Europe. Cartes
+  corporate, notes de frais, factures fournisseurs et automatisation comptable. 3
+  500+ clients, rentable depuis 2025.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.spendesk.com/fr/"
+u_site: https://www.spendesk.com/fr/
 ---
 
 # Spendesk

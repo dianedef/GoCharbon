@@ -4,8 +4,6 @@ title: Coaching en Ligne
 author: Web Indé
 tags:
 - Business
-- Freelancing
-- Formation
 description: 'Lance ton activité de coaching : positionnement, acquisition clients,
   tarification et scaling pour coachs ambitieux.'
 pubDate: '2024-01-01'

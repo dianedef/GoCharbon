@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Sticker Mule"
+title: Sticker Mule
 author: Diane
 tags:
-  - 'Design'
-  - 'Création'
-description: "Sticker Mule est un service d'impression de stickers et produits personnalisés. 100 000+ clients. Fondé 2010 à New York. Stickers, magnets, emballages. Dès 9$."
-pubDate: "2024-03-25"
+- Outils
+description: Sticker Mule est un service d'impression de stickers et produits personnalisés.
+  100 000+ clients. Fondé 2010 à New York. Stickers, magnets, emballages. Dès 9$.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.stickermule.com/fr"
+u_site: https://www.stickermule.com/fr
 ---
 
 # Sticker Mule

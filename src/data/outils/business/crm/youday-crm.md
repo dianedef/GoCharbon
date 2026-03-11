@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Youday CRM"
+title: Youday CRM
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Youday CRM est le CRM français 100% personnalisable sans code. Basé à Nantes, hébergé en France, RGPD. Dès 40€ HT/mois/utilisateur (min. 3 licences)."
+- Outils
+description: Youday CRM est le CRM français 100% personnalisable sans code. Basé à
+  Nantes, hébergé en France, RGPD. Dès 40€ HT/mois/utilisateur (min. 3 licences).
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.youday.fr"
+u_site: https://www.youday.fr
 ---
 
 # Youday CRM

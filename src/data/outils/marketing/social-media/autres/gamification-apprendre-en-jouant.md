@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Gamification Apprendre En Jouant
 author: Diane
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 description: 'Découvre Gamification Apprendre En Jouant : outil français pour entrepreneurs,
   fonctionnalités et avis.'
 pubDate: '2024-03-25'

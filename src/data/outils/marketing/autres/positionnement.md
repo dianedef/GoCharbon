@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Positionnement
 author: Diane
 description: 'Découvre Positionnement : outil français pour entrepreneurs, fonctionnalités

@@ -4,8 +4,7 @@ metadataEnrichedAt: null
 title: Comment Je Traduis Mes Sites
 author: Diane
 tags:
-- Outils Français
-- Tech
+- Outils
 description: 'Découvre Comment Je Traduis Mes Sites : outil français pour entrepreneurs,
   fonctionnalités et avis.'
 pubDate: '2024-03-25'

@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Efficy"
+title: Efficy
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Efficy est un CRM européen (belge) pour PME à grandes entreprises. Ventes, marketing, service client, projets. 13 500+ clients, 60+ pays. Cloud ou on-premise."
-pubDate: "2024-03-25"
+- Outils
+description: Efficy est un CRM européen (belge) pour PME à grandes entreprises. Ventes,
+  marketing, service client, projets. 13 500+ clients, 60+ pays. Cloud ou on-premise.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.efficy.com/fr/"
+u_site: https://www.efficy.com/fr/
 ---
 
 # Efficy

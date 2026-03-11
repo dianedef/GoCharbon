@@ -3,8 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: aklamio
 u_site: https://www.aklamio.com/fr/
 u_affi: null

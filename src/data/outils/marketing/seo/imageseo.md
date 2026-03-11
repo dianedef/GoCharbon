@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: imageseo
 u_site: https://imageseo.io/fr/
 u_affi: null

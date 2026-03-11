@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Fasterize"
+title: Fasterize
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Hébergement'
-  - 'Tech'
-description: "Fasterize est la solution française d'optimisation web et EdgeSEO. Accélère ton site e-commerce, améliore Core Web Vitals et SEO. Sur devis."
-pubDate: "2024-03-25"
+- Outils
+description: Fasterize est la solution française d'optimisation web et EdgeSEO. Accélère
+  ton site e-commerce, améliore Core Web Vitals et SEO. Sur devis.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.fasterize.com/fr/"
+u_site: https://www.fasterize.com/fr/
 ---
 
 # Fasterize

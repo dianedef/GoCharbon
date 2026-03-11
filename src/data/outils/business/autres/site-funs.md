@@ -4,8 +4,7 @@ metadataEnrichedAt: null
 title: Site Funs
 author: Diane
 tags:
-- Outils Français
-- Business
+- Outils
 description: 'Découvre Site Funs : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

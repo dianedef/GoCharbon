@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: L'Inbound Marketing Qui Va Faire Exploser Votre Trafic De 1000%

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Financez Votre Projet Comme Un Pro Les Secrets Des Startups Qui Cartonnent
 author: Diane
 description: 'Découvre Financez Votre Projet Comme Un Pro Les Secrets Des Startups

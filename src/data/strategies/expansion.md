@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Stratégies d'Expansion : Guide Complet"
+title: 'Stratégies d''Expansion : Guide Complet'
 author: Diane
 tags:
-  - 'Expansion'
-  - 'Croissance'
-  - 'Stratégie'
-  - 'Business'
-description: "Guide complet sur les stratégies d'expansion et de croissance d'entreprise"
-pubDate: "2024-03-25"
+- Business
+description: Guide complet sur les stratégies d'expansion et de croissance d'entreprise
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "karmen"
+title: karmen
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Finance'
-  - 'Business'
-description: "Karmen offre des solutions de financement sur-mesure pour les entreprises en croissance. Avec une plateforme 100% digitalisée, Karmen propose des prêts courts termes, des lignes de"
-pubDate: "2024-03-25"
+- Outils
+description: Karmen offre des solutions de financement sur-mesure pour les entreprises
+  en croissance. Avec une plateforme 100% digitalisée, Karmen propose des prêts courts
+  termes, des lignes de
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.karmen.io"
+u_site: https://www.karmen.io
 ---
 
 # karmen

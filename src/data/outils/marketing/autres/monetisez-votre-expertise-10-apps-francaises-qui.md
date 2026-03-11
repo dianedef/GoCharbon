@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Monétisez Votre Expertise 10 Apps Françaises Qui Vont Vous Rendre Riche

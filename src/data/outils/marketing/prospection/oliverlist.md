@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Oliverlist, Booste Ta Prospection B2b Avec Performance assurée"
+title: Oliverlist, Booste Ta Prospection B2b Avec Performance assurée
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Obtenez des rendez-vous qualifiés dans votre agenda. Payez uniquement lorsque la plateforme génère des résultats concrets. Tarifs compétitifs, 2/3 moins élevés que la norme du marc"
-pubDate: "2024-03-25"
+- Outils
+description: Obtenez des rendez-vous qualifiés dans votre agenda. Payez uniquement
+  lorsque la plateforme génère des résultats concrets. Tarifs compétitifs, 2/3 moins
+  élevés que la norme du marc
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.oliverlist.com"
+u_site: https://www.oliverlist.com
 ---
 
 # Oliverlist, Booste Ta Prospection B2b Avec Performance assurée

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: glowbl
 u_site: https://www.glowbl.com/fr/
 u_affi: null

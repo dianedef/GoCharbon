@@ -1,10 +1,12 @@
 ---
 section: blog
-title: "C'est quoi AppSumo et est-ce que ça vaut le coup ?"
-author: "Diane"
-tags: ['Lifetime Deals']
-description: "AppSumo propose des bons plans de réductions sur des outils digitaux pour réussir son webmarketing à prix d'or, des conseils, et des même offres gratuites"
-pubDate: "2023-02-21"
+title: C'est quoi AppSumo et est-ce que ça vaut le coup ?
+author: Diane
+tags:
+- Business
+description: AppSumo propose des bons plans de réductions sur des outils digitaux
+  pour réussir son webmarketing à prix d'or, des conseils, et des même offres gratuites
+pubDate: '2023-02-21'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

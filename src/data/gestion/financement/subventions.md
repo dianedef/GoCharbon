@@ -3,8 +3,7 @@ section: blog
 title: Subventions
 author: Diane
 tags:
-- Subventions
-- Financement
+- Business
 description: 'Guide des subventions : aides publiques, BPI et financements pour entrepreneurs
   français.'
 pubDate: '2024-03-25'

@@ -5,9 +5,7 @@ statut: []
 type: Logiciel
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 u_site: https://yourtext.guru
 imageNameKey: yourtext-guru
 title: Yourtext Guru

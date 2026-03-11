@@ -2,16 +2,15 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-  - Outils Français
-  - Productivité
-  - Collaboration
+- Outils
 imageNameKey: klaxoon
 u_site: https://klaxoon.com/fr
 u_affi: null
 u_affiAdmin: null
 title: Klaxoon
 author: Diane
-description: 'Klaxoon : plateforme collaborative française (Rennes). Tableau blanc, quiz, brainstorming. 7 500+ entreprises clientes. Acquise par Wrike en 2025.'
+description: 'Klaxoon : plateforme collaborative française (Rennes). Tableau blanc,
+  quiz, brainstorming. 7 500+ entreprises clientes. Acquise par Wrike en 2025.'
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---

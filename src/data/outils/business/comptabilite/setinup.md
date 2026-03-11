@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "SetInUp"
+title: SetInUp
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "SetInUp est un ERP SaaS français pour TPE/PME/artisans. Prospection, facturation, stocks, achats, livraisons, contrats. Par Info3w (20 ans d'expérience). Dès 9,99€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: SetInUp est un ERP SaaS français pour TPE/PME/artisans. Prospection,
+  facturation, stocks, achats, livraisons, contrats. Par Info3w (20 ans d'expérience).
+  Dès 9,99€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.setinup.com"
+u_site: https://www.setinup.com
 ---
 
 # SetInUp

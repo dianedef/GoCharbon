@@ -2,15 +2,15 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-  - Outils Français
-  - E-commerce
+- Outils
 imageNameKey: pcsurmesure
 u_site: https://www.pcsurmesure.com
 u_affi: null
 u_affiAdmin: null
 title: PC sur Mesure
 author: Diane
-description: 'PC sur Mesure : configurateur français de PC personnalisés. Bureau, gamer, pro, laptop. IA intégrée, livraison 8 jours, garantie constructeur.'
+description: 'PC sur Mesure : configurateur français de PC personnalisés. Bureau,
+  gamer, pro, laptop. IA intégrée, livraison 8 jours, garantie constructeur.'
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---

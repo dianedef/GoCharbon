@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: findcustomer
 u_site: https://www.findcustomer.io/
 u_affi: null

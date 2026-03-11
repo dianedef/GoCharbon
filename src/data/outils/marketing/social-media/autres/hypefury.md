@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 type:
 - app
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: hypefury
 title: Hypefury
 author: Diane

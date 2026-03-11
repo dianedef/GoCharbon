@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "redactai"
+title: redactai
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Économise du temps Facile à utiliser Une IA de qualité Freelancers, entrepreneurs, responsables marketing Avec un ou deux mots, génère 3 idées de posts LinkedIn. Une idée comporte "
-pubDate: "2024-03-25"
+- Outils
+description: 'Économise du temps Facile à utiliser Une IA de qualité Freelancers,
+  entrepreneurs, responsables marketing Avec un ou deux mots, génère 3 idées de posts
+  LinkedIn. Une idée comporte '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.redactai.io"
+u_site: https://www.redactai.io
 ---
 
 # redactai

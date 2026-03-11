@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "ezword"
+title: ezword
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "[cette vidéo qui explique en détail le concept et le calcul des metamots](https://www.youtube.com/watch?v=h7VIki7ePrs) le nouvel outil de christian mélinée sylvain doré ils sont co"
-pubDate: "2024-03-25"
+- Outils
+description: '[cette vidéo qui explique en détail le concept et le calcul des metamots](https://www.youtube.com/watch?v=h7VIki7ePrs)
+  le nouvel outil de christian mélinée sylvain doré ils sont co'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://ezword.info/login.php?action=users"
+u_site: https://ezword.info/login.php?action=users
 ---
 
 # ezword

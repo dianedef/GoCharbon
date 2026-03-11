@@ -3,9 +3,7 @@ section: blog
 title: 'IA pour le Code : Guide Complet'
 author: Diane
 tags:
-- IA
-- Développement
-- Productivité
+- Tech
 description: 'Les meilleurs outils d''IA pour développer : GitHub Copilot, Claude,
   Cursor, et comment les utiliser efficacement'
 pubDate: '2024-03-25'

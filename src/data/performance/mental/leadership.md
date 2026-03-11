@@ -3,9 +3,7 @@ section: blog
 title: Leadership
 author: Diane
 tags:
-- Business
-- Management
-- Leadership
+- Productivité
 description: 'Leadership pour entrepreneurs : styles, influence et management pour
   inspirer ton équipe.'
 pubDate: '2024-03-25'

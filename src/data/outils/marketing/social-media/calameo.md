@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: calameo
 u_site: https://www.calameo.com
 u_affi: null

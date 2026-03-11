@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Qonto"
+title: Qonto
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Qonto est la néobanque pro n°1 en Europe avec 600 000+ clients. Compte pro, cartes, facturation, comptabilité automatisée et gestion des dépenses d'équipe. À partir de 9€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Qonto est la néobanque pro n°1 en Europe avec 600 000+ clients. Compte
+  pro, cartes, facturation, comptabilité automatisée et gestion des dépenses d'équipe.
+  À partir de 9€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://qonto.com/fr"
+u_site: https://qonto.com/fr
 ---
 
 # Qonto

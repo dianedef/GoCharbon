@@ -2,7 +2,7 @@
   "mcpServers": {
     "codebase": {
       "command": "python3",
-      "args": ["/home/claude/tools/codebase-mcp/server.py", "/home/claude/GoCharbon"]
+      "args": ["/home/claude/ShipFlow/tools/codebase-mcp/server.py", "/home/claude/GoCharbon"]
     }
   }
 }

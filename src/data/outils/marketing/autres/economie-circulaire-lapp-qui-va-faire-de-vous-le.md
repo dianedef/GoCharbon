@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Économie Circulaire L'App Qui Va Faire De Vous Le Nouveau Héros De L'Écologie

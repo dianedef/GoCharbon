@@ -6,9 +6,7 @@ statut:
 - en-attente
 _priorité: important
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 url_lienExterne: https://webinde.fr/mots-cles-longue-traine/
 title: C'Est Quoi La Longue Traîne
 author: Diane

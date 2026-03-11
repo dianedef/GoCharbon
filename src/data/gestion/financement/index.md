@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Financement d'Entreprise : Guide Complet"
+title: 'Financement d''Entreprise : Guide Complet'
 author: Diane
 tags:
-  - 'Financement'
-  - 'Investissement'
-  - 'Stratégie'
-  - 'Business'
+- Business
 description: Comment financer ton business en 2026 sans vendre ton âme aux investisseurs
-pubDate: "2026-01-17"
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
-- CRM
+- Outils
 u_site: null
 title: Rétention Clients
 author: Diane

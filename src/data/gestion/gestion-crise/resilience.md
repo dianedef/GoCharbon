@@ -3,7 +3,7 @@ section: blog
 title: Resilience
 author: Diane
 tags:
-- Gestion de Crise
+- Business
 description: 'Développe ta résilience d''entrepreneur : mindset, stratégies et rebond
   face aux difficultés.'
 pubDate: '2024-03-25'

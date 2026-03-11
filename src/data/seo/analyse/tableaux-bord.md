@@ -3,11 +3,9 @@ section: blog
 title: Tableaux de Bord SEO
 author: Diane
 tags:
-  - 'SEO'
-  - 'Audit'
-  - 'Analytics'
+- SEO
 description: Guide complet pour créer et exploiter des tableaux de bord SEO efficaces
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

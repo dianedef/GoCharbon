@@ -4,8 +4,6 @@ title: E-commerce / Boutique en ligne
 author: Web Indé
 tags:
 - Business
-- E-commerce
-- Business en Ligne
 description: 'Lance ta boutique e-commerce : plateformes, produits, marketing et logistique
   pour entrepreneurs du digital.'
 pubDate: '2024-01-01'

@@ -119,7 +119,7 @@ onBeforeUnmount(() => {
 
 <template>
   <div class="path-progress">
-    <section class="progress-overview">
+    <article class="progress-overview">
       <div class="progress-top">
         <div class="progress-title-wrap">
           <h2>Progression du parcours</h2>
@@ -133,10 +133,10 @@ onBeforeUnmount(() => {
       <div class="progress-track" role="progressbar" :aria-valuenow="progressPercent" aria-valuemin="0" aria-valuemax="100">
         <div class="progress-fill" :style="{ width: progressPercent + '%' }"></div>
       </div>
-    </section>
+    </article>
 
     <div class="modules-list">
-      <section v-for="(module, moduleIndex) in pathData.modules" :key="module.id" class="module-card">
+      <article v-for="(module, moduleIndex) in pathData.modules" :key="module.id" class="module-card">
         <div class="module-header">
           <div class="module-header-top">
             <span class="module-index-badge">Module {{ moduleIndex + 1 }}</span>
@@ -168,7 +168,7 @@ onBeforeUnmount(() => {
             <a :href="step.href" class="step-open-link no-link-style" data-astro-prefetch>Ouvrir</a>
           </li>
         </ol>
-      </section>
+      </article>
     </div>
   </div>
 </template>
@@ -204,6 +204,46 @@ onBeforeUnmount(() => {
   position: sticky;
   top: 4.6rem;
   z-index: 35;
+  overflow: visible;
+  margin-bottom: 30px;
+  padding-bottom: 20px !important;
+}
+
+.progress-overview::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -30px;
+  height: 30px;
+  background-color: inherit;
+  border-bottom: 5px solid var(--pp-border);
+  clip-path: polygon(
+    0 0,
+    100% 0,
+    95% 15px,
+    90% 0,
+    85% 15px,
+    80% 0,
+    75% 15px,
+    70% 0,
+    65% 15px,
+    60% 0,
+    55% 15px,
+    50% 0,
+    45% 15px,
+    40% 0,
+    35% 15px,
+    30% 0,
+    25% 15px,
+    20% 0,
+    15% 15px,
+    10% 0,
+    5% 15px,
+    0 0
+  );
+  pointer-events: none;
+  z-index: 2;
 }
 
 .progress-top {
@@ -294,10 +334,56 @@ onBeforeUnmount(() => {
   filter: drop-shadow(5px 5px 0 var(--pp-shadow));
   color: var(--pp-text);
   padding: 1rem;
+  position: relative;
+  overflow: visible;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
 }
 
-.path-progress section::after {
-  border-bottom-color: var(--pp-border);
+.module-card::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -30px;
+  height: 30px;
+  background-color: inherit;
+  border-bottom: 5px solid var(--pp-border);
+  clip-path: polygon(
+    0 0,
+    100% 0,
+    95% 15px,
+    90% 0,
+    85% 15px,
+    80% 0,
+    75% 15px,
+    70% 0,
+    65% 15px,
+    60% 0,
+    55% 15px,
+    50% 0,
+    45% 15px,
+    40% 0,
+    35% 15px,
+    30% 0,
+    25% 15px,
+    20% 0,
+    15% 15px,
+    10% 0,
+    5% 15px,
+    0 0
+  );
+  pointer-events: none;
+  z-index: 2;
+}
+
+.modules-list .module-card:last-child {
+  margin-bottom: 0;
+  padding-bottom: 1rem;
+}
+
+.modules-list .module-card:last-child::after {
+  display: none;
 }
 
 .module-header {

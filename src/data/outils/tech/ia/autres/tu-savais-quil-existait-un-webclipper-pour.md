@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Tu Savais Qu'Il Existait Un Webclipper Pour Obsidian Parce Que Moi Non !
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Tu Savais Qu''Il Existait Un Webclipper Pour Obsidian Parce
   Que Moi Non ! : outil français pour entrepreneurs, fonctionnalités et avis.'
 pubDate: '2024-03-25'

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Clémentine"
+title: Clémentine
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Clémentine est un cabinet d'expertise-comptable en ligne français. 180 conseillers, synchronisation bancaire, bilan certifié, tableau de bord temps réel. Dès 25€ HT/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Clémentine est un cabinet d'expertise-comptable en ligne français. 180
+  conseillers, synchronisation bancaire, bilan certifié, tableau de bord temps réel.
+  Dès 25€ HT/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.clementine.fr"
+u_site: https://www.clementine.fr
 ---
 
 # Clémentine

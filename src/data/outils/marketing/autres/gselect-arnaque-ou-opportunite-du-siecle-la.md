@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 url_lienExterne: https://webinde.fr/gselect-assurances-arnaque-ou-opportunite/

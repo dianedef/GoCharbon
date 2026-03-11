@@ -27,6 +27,11 @@ const socialLinks = [
 ];
 
 const currentYear = new Date().getFullYear();
+const worldIcons = {
+	charbon: "/world/charbon.svg",
+	mine: "/world/mine.svg",
+	or: "/world/or.svg",
+};
 ---
 
 {
@@ -67,6 +72,20 @@ const currentYear = new Date().getFullYear();
 				<p class="poppins text-lg mb-4 text-black dark:text-white">
 					Le guide de survie digital pour entrepreneurs francophones qui refusent d'enrichir la Silicon Valley.
 				</p>
+				<div class="mine-icon-belt mb-4" aria-label="Repères du monde GoCharbon">
+					<span class="mine-icon-chip">
+						<img src={worldIcons.charbon} alt="" aria-hidden="true" loading="lazy" />
+						Charbon
+					</span>
+					<span class="mine-icon-chip mine">
+						<img src={worldIcons.mine} alt="" aria-hidden="true" loading="lazy" />
+						Mine
+					</span>
+					<span class="mine-icon-chip or">
+						<img src={worldIcons.or} alt="" aria-hidden="true" loading="lazy" />
+						Or
+					</span>
+				</div>
 				<p class="poppins text-sm text-black dark:text-white">
 					🇫🇷 Made in France avec ❤️
 				</p>

@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Goalflowz
 author: Diane
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 description: 'Découvre Goalflowz : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

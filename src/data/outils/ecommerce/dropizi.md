@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: '2026-03-01'
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: dropizi
 u_site: https://www.dropizi.fr
 u_affi: null

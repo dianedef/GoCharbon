@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "jobaffinity"
+title: jobaffinity
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "Jobaffinity est un logiciel de recrutement qui offre de nombreux avantages aux entreprises de toutes tailles et aux acteurs de la fonction publique. En l'utilisant, tu pourras : - "
-pubDate: "2024-03-25"
+- Outils
+description: 'Jobaffinity est un logiciel de recrutement qui offre de nombreux avantages
+  aux entreprises de toutes tailles et aux acteurs de la fonction publique. En l''utilisant,
+  tu pourras : - '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://intuition-software.com"
+u_site: https://intuition-software.com
 ---
 
 # jobaffinity

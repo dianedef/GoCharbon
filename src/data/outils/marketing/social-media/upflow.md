@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: upflow
 u_site: https://upflow.io/fr
 u_affi: null

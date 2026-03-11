@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: fiveoffices
 u_site: https://www.fiveoffices.com/fr
 u_affi: null

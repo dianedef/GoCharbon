@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: merciapp
 u_site: null
 u_affi: https://www.merci-app.com/?utm_source=lamallettebusiness&utm_medium=affiliate&utm_campaign=app

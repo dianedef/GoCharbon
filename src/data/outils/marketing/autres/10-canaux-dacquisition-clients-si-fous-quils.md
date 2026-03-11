@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 10 Canaux D'Acquisition Clients Si Fous Qu'Ils Pourraient Être Illégaux

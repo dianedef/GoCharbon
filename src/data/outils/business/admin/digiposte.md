@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Digiposte"
+title: Digiposte
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Business'
-description: "Digiposte est le coffre-fort numérique de La Poste. Stockage sécurisé, archivage 50 ans, valeur légale. Certifié ISO 27001 & NF Z 42-013. Dès 0€ (5 Go)."
-pubDate: "2024-03-25"
+- Outils
+description: Digiposte est le coffre-fort numérique de La Poste. Stockage sécurisé,
+  archivage 50 ans, valeur légale. Certifié ISO 27001 & NF Z 42-013. Dès 0€ (5 Go).
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.laposte.fr/digiposte"
+u_site: https://www.laposte.fr/digiposte
 ---
 
 # Digiposte

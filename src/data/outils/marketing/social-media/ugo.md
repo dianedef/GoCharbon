@@ -3,15 +3,14 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: ugo
 u_site: https://ugo.co
 u_affi: null
 title: Ugo
 author: Diane
-description: 'Ugo : logiciel tout-en-un français pour commerçants. Site internet IA, avis Google, réseaux sociaux, click & collect et prise de RDV.'
+description: 'Ugo : logiciel tout-en-un français pour commerçants. Site internet IA,
+  avis Google, réseaux sociaux, click & collect et prise de RDV.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

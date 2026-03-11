@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 u_site: null
 title: Quel Est L'Impact Du Prix Sur Ton Offre Et Tes Produits
 author: Diane

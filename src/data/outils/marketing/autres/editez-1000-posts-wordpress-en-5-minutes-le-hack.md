@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Éditez 1000 Posts Wordpress En 5 Minutes Le Hack Ultime Pour Travailler 10X

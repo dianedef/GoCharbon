@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Rédaction Web SEO : Guide Complet"
+title: 'Rédaction Web SEO : Guide Complet'
 author: Diane
 tags:
-  - 'SEO'
-  - 'Rédaction'
-  - 'Contenu'
-  - 'Web'
+- SEO
 description: Guide complet sur les techniques de rédaction web optimisée pour le SEO
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

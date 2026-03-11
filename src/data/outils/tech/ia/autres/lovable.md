@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Lovable
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Lovable : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

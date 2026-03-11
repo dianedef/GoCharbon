@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Shopify Tremble 10 Alternatives Françaises Qui Vont Exploser Vos Ventes

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Rédaction
-- Marketing
+- Outils
 imageNameKey: avis-wizard-academy
 u_site: null
 title: Wizards Academy La Formation Secrète Des Entrepreneurs Millionnaires

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Productivité
+- Outils
 imageNameKey: null
 u_site: null
 title: Madate.Fr Le Site Qui Va Révolutionner Votre Vie Pro

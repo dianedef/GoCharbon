@@ -5,8 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Business
+- Outils
 title: Innovation
 author: Diane
 description: 'Découvre Innovation : outil français pour entrepreneurs, fonctionnalités

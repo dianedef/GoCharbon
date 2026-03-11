@@ -2,9 +2,11 @@
 section: blog
 title: Comprendre et Gérer les Hallucinations des LLMs
 author: Diane
-tags: ['IA']
-description: Guide pratique pour comprendre, détecter et minimiser les hallucinations des modèles de langage, avec des exemples concrets et solutions testées
-pubDate: "2024-03-25"
+tags:
+- Tech
+description: Guide pratique pour comprendre, détecter et minimiser les hallucinations
+  des modèles de langage, avec des exemples concrets et solutions testées
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

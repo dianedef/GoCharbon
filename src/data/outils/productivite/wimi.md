@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Wimi"
+title: Wimi
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-description: "Wimi est la suite collaborative souveraine française. 450 000 utilisateurs, 70 000 clients. SecNumCloud visé T1 2026. Chiffrement bout-en-bout. ISO 27001. Dès 3€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Wimi est la suite collaborative souveraine française. 450 000 utilisateurs,
+  70 000 clients. SecNumCloud visé T1 2026. Chiffrement bout-en-bout. ISO 27001. Dès
+  3€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.wimi-teamwork.com/fr/"
+u_site: https://www.wimi-teamwork.com/fr/
 ---
 
 # Wimi

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "jump"
+title: jump
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'RH'
-  - 'Business'
-description: "Jump est une solution de portage salarial innovante et accessible qui offre de nombreux avantages aux indépendants. Elle est particulièrement adaptée aux freelances qui souhaitent "
-pubDate: "2024-03-25"
+- Outils
+description: 'Jump est une solution de portage salarial innovante et accessible qui
+  offre de nombreux avantages aux indépendants. Elle est particulièrement adaptée
+  aux freelances qui souhaitent '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.join-jump.com"
+u_site: https://www.join-jump.com
 ---
 
 # jump

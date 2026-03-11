@@ -2,16 +2,16 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Dev
-- Tech
+- Outils
 imageNameKey: null
 u_site: https://www.octoparse.fr/
 u_affi: null
 u_affiAdmin: null
 title: Octoparse
 author: Diane
-description: "Web scraping sans code pour extraire des données de n'importe quel site. Templates prêts à l'emploi, interface visuelle, et automatisation cloud. À partir de 119$/mois."
+description: Web scraping sans code pour extraire des données de n'importe quel site.
+  Templates prêts à l'emploi, interface visuelle, et automatisation cloud. À partir
+  de 119$/mois.
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

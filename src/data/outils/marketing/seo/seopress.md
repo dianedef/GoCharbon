@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: seopress
 u_site: https://www.seopress.org/fr/
 title: Seopress

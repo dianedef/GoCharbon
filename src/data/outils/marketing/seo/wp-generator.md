@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "WP-Generator"
+title: WP-Generator
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "ALT/ [WP Automatic - World Best WordPress Automatic Plugin](https://wpautomatic.com/) WP Generator stimule ta présence en ligne et tes stratégies de référencement Sa génération de "
-pubDate: "2024-03-25"
+- Outils
+description: 'ALT/ [WP Automatic - World Best WordPress Automatic Plugin](https://wpautomatic.com/)
+  WP Generator stimule ta présence en ligne et tes stratégies de référencement Sa
+  génération de '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.wpgenerator.ai"
+u_site: https://www.wpgenerator.ai
 ---
 
 # WP-Generator

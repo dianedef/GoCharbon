@@ -1,13 +1,12 @@
 ---
 section: blog
-title: "Web Scraping : Le Guide Complet pour Debuter en 1 Heure"
+title: 'Web Scraping : Le Guide Complet pour Debuter en 1 Heure'
 author: Diane
 tags:
-  - 'Scraping'
-  - 'Tech'
-  - 'Automatisation'
-description: "Guide complet du web scraping : outils no-code, techniques de base, cas d'usage et aspects légaux à respecter."
-pubDate: "2024-03-25"
+- Tech
+description: 'Guide complet du web scraping : outils no-code, techniques de base,
+  cas d''usage et aspects légaux à respecter.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

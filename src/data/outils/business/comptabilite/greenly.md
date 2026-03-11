@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Greenly"
+title: Greenly
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Greenly est la plateforme française de bilan carbone pour entreprises. Mesure, analyse et réduis tes émissions CO2 (Scope 1, 2, 3). 52M$ levés en Series B. À partir de 3 800$/an."
-pubDate: "2024-03-25"
+- Outils
+description: Greenly est la plateforme française de bilan carbone pour entreprises.
+  Mesure, analyse et réduis tes émissions CO2 (Scope 1, 2, 3). 52M$ levés en Series
+  B. À partir de 3 800$/an.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://greenly.earth/fr-fr"
+u_site: https://greenly.earth/fr-fr
 ---
 
 # Greenly

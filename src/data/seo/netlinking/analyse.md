@@ -4,8 +4,6 @@ title: Analyse
 author: Diane
 tags:
 - SEO
-- Backlinks
-- Audit
 description: 'Analyse de backlinks : outils, métriques et audit pour évaluer ton profil
   de liens.'
 pubDate: '2024-03-25'

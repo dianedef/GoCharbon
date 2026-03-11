@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: caapse
 u_site: https://www.caapse.co/fr
 u_affi: null

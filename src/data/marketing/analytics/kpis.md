@@ -3,8 +3,9 @@ section: blog
 title: KPIs Marketing
 author: Diane
 tags:
-- Analytics
-description: Les KPI marketing essentiels pour piloter ton acquisition et tes conversions sans te perdre dans les vanity metrics.
+- Marketing
+description: Les KPI marketing essentiels pour piloter ton acquisition et tes conversions
+  sans te perdre dans les vanity metrics.
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---

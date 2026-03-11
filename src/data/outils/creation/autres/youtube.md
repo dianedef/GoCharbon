@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: important
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 title: Youtube
 author: Diane
 description: 'Découvre Youtube : outil français pour entrepreneurs, fonctionnalités

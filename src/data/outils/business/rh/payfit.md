@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Payfit"
+title: Payfit
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'RH'
-  - 'Business'
-description: "[Découvrez notre histoire](https://payfit.com/fr/notre-histoire/) **tl;dr:** PayFit est une solution SIRH complète conçue pour automatiser et simplifier la gestion de la paie d'ent"
-pubDate: "2024-03-25"
+- Outils
+description: '[Découvrez notre histoire](https://payfit.com/fr/notre-histoire/) **tl;dr:**
+  PayFit est une solution SIRH complète conçue pour automatiser et simplifier la gestion
+  de la paie d''ent'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://payfit.com/fr/"
+u_site: https://payfit.com/fr/
 ---
 
 # Payfit

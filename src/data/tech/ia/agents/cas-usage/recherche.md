@@ -3,8 +3,6 @@ section: blog
 title: 'Agents En Recherche : Innovation Scientifique'
 author: Diane
 tags:
-- IA
-- Analytics
 - Tech
 description: L'utilisation des agents IA dans la recherche scientifique et l'innovation
   technologique

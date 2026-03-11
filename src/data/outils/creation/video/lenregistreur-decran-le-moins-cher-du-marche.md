@@ -4,13 +4,12 @@ metadataEnrichedAt: null
 title: AWZ Screen Recorder
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Vidéo'
-  - 'Création'
-description: "AWZ Screen Recorder : enregistreur d'écran Windows/Mac en 4K, licence à vie dès 19$. Free version sans watermark. 2 200+ avis."
-pubDate: "2024-03-25"
+- Outils
+description: 'AWZ Screen Recorder : enregistreur d''écran Windows/Mac en 4K, licence
+  à vie dès 19$. Free version sans watermark. 2 200+ avis.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.awzware.com/screen-recorder"
+u_site: https://www.awzware.com/screen-recorder
 ---
 
 # AWZ Screen Recorder

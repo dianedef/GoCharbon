@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "TheAssistant"
+title: TheAssistant
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-description: "TheAssistant est le service français d'assistanat virtuel augmenté par l'IA et la RPA. 500+ clients, 45 collaborateurs, 400 000+ tâches réalisées. 4,8/5. Dès 1,25€/action."
-pubDate: "2024-03-25"
+- Outils
+description: TheAssistant est le service français d'assistanat virtuel augmenté par
+  l'IA et la RPA. 500+ clients, 45 collaborateurs, 400 000+ tâches réalisées. 4,8/5.
+  Dès 1,25€/action.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.theassistant.com"
+u_site: https://www.theassistant.com
 ---
 
 # TheAssistant

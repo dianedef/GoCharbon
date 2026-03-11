@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "SEOPress, le meilleur plugin SEO pour WordPress (mise à jour 2022)"
+title: SEOPress, le meilleur plugin SEO pour WordPress (mise à jour 2022)
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "SEO Press propose ensuite différents modules optionnels : * **Titres et métas** : pour définir les règles de construction automatiques des titres et métas de vos contenus. * **Plan"
-pubDate: "2024-03-25"
+- Outils
+description: 'SEO Press propose ensuite différents modules optionnels : * **Titres
+  et métas** : pour définir les règles de construction automatiques des titres et
+  métas de vos contenus. * **Plan'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.seopress.org/fr/"
+u_site: https://www.seopress.org/fr/
 ---
 
 # SEOPress, le meilleur plugin SEO pour WordPress (mise à jour 2022)

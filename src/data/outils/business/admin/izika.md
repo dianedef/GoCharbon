@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "izika"
+title: izika
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Admin'
-  - 'Business'
-description: "- **Fondateurs :** Pierre, Tom, Ben - **Nombre d'employés :** 3 - [(4) Gestion automatique des indemnités kilométriques : IZIKA 3.0 - YouTube](https://www.youtube.com/watch?v=5RiIq"
-pubDate: "2024-03-25"
+- Outils
+description: '- **Fondateurs :** Pierre, Tom, Ben - **Nombre d''employés :** 3 - [(4)
+  Gestion automatique des indemnités kilométriques : IZIKA 3.0 - YouTube](https://www.youtube.com/watch?v=5RiIq'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://izika.com"
+u_site: https://izika.com
 ---
 
 # izika

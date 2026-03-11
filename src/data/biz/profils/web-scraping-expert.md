@@ -4,8 +4,6 @@ title: Web Scraping Expert / Expert en Web Scraping
 author: Web Indé
 tags:
 - Business
-- Scraping
-- Freelancing
 description: 'Deviens expert web scraping : outils, éthique et stratégies pour extraire
   des données à grande échelle.'
 pubDate: '2024-01-01'

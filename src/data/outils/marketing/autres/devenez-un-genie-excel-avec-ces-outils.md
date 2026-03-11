@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Devenez Un Génie Excel Avec Ces Outils Extraordinaires
 author: Diane
 description: 'Découvre Devenez Un Génie Excel Avec Ces Outils Extraordinaires : outil

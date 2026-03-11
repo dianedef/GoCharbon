@@ -3,8 +3,7 @@ section: blog
 title: 'L''Avenir de l''IA : Ce qui Vient Vraiment'
 author: Diane
 tags:
-- IA
-- Innovation
+- Tech
 description: Tendances et perspectives de l'IA pour les 5-10 prochaines années, sans
   scifi
 pubDate: '2024-03-25'

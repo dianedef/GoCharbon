@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: La Prospection Qui Cartonne Est Elle Faite Pour Vous Le Test Ultime

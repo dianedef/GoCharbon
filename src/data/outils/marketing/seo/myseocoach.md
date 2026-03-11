@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "myseocoach"
+title: myseocoach
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Promis depuis si longtemps, MySEO.coach est enfin disponible ! Cela fait peut-être de longs mois que vous vous étiez inscrit(e) à la liste d’attente de MySEO.coach. Vous aviez peut"
-pubDate: "2024-03-25"
+- Outils
+description: Promis depuis si longtemps, MySEO.coach est enfin disponible ! Cela fait
+  peut-être de longs mois que vous vous étiez inscrit(e) à la liste d’attente de MySEO.coach.
+  Vous aviez peut
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://myseo.coach"
+u_site: https://myseo.coach
 ---
 
 # myseocoach

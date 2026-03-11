@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: semantlnk
 u_site: https://semantlink.com/
 u_affi: null

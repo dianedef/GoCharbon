@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: organiser-onglets-navigateur
 u_site: null
 title: L'Outil Qui Va Enfin Mettre De L'Ordre Dans Vos 100 Onglets Ouverts

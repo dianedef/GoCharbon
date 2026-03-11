@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
+- Outils
 imageNameKey: simplicite
 u_site: https://simplicite.fr
 u_affi: null

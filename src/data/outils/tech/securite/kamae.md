@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Kamaé"
+title: Kamaé
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Tech'
-  - 'Sécurité'
-description: "Kamaé, la plateforme qui sensibilise à la cybersécurité de manière ludique Découvrez la solution Kamaé, qui propose une approche gamifiée et centrée sur l’utilisateur, pour répondr"
-pubDate: "2024-03-25"
+- Outils
+description: Kamaé, la plateforme qui sensibilise à la cybersécurité de manière ludique
+  Découvrez la solution Kamaé, qui propose une approche gamifiée et centrée sur l’utilisateur,
+  pour répondr
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://kamae.fr"
+u_site: https://kamae.fr
 ---
 
 # Kamaé

@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Rocketleads Instant flow"
+title: Rocketleads Instant flow
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Cible Sur Instagram 3 possibilités de ciblage Prospecte En Automatique Messages automatisés Trie Tous Tes Contacts Backoffice & Tags Fini Toutes Ces Journées À Te Demander Si Tu Au"
-pubDate: "2024-03-25"
+- Outils
+description: Cible Sur Instagram 3 possibilités de ciblage Prospecte En Automatique
+  Messages automatisés Trie Tous Tes Contacts Backoffice & Tags Fini Toutes Ces Journées
+  À Te Demander Si Tu Au
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://rocketleads.fr"
+u_site: https://rocketleads.fr
 ---
 
 # Rocketleads Instant flow

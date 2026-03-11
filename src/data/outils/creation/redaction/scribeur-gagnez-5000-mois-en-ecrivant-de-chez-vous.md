@@ -4,13 +4,12 @@ metadataEnrichedAt: null
 title: Scribeur
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Rédaction'
-  - 'Création'
-description: "Scribeur : plateforme française de rédaction web SEO, 22 000+ rédacteurs. Rachetée par Contents.com en 2023. Dès 0.012€/mot."
-pubDate: "2024-03-25"
+- Outils
+description: 'Scribeur : plateforme française de rédaction web SEO, 22 000+ rédacteurs.
+  Rachetée par Contents.com en 2023. Dès 0.012€/mot.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.scribeur.com/"
+u_site: https://www.scribeur.com/
 ---
 
 # Scribeur

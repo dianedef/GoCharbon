@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "All Images AI"
+title: All Images AI
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Création'
-description: "All Images AI est une banque d'images IA française. 2M+ images générées par intelligence artificielle, images sur mesure, intégration WordPress. Libres de droits. Dès 0,10€/image."
-pubDate: "2024-03-25"
+- Outils
+description: All Images AI est une banque d'images IA française. 2M+ images générées
+  par intelligence artificielle, images sur mesure, intégration WordPress. Libres
+  de droits. Dès 0,10€/image.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://all-images.ai"
+u_site: https://all-images.ai
 ---
 
 # All Images AI

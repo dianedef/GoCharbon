@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
-- Comptabilité
+- Outils
 imageNameKey: null
 u_site: null
 u_affi: null

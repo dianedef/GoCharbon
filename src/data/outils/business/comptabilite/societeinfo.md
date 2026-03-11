@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "SocieteInfo"
+title: SocieteInfo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "SocieteInfo est une plateforme française d'intelligence commerciale B2B. 12M+ d'entreprises françaises, enrichissement de données, API. 100 000+ utilisateurs. Dès 69€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: SocieteInfo est une plateforme française d'intelligence commerciale B2B.
+  12M+ d'entreprises françaises, enrichissement de données, API. 100 000+ utilisateurs.
+  Dès 69€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://societeinfo.com"
+u_site: https://societeinfo.com
 ---
 
 # SocieteInfo

@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Créer Un Design System Avec Tailwind
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Créer Un Design System Avec Tailwind : outil français pour
   entrepreneurs, fonctionnalités et avis.'
 pubDate: '2024-03-25'

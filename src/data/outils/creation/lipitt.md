@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Lipitt (Equos)"
+title: Lipitt (Equos)
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Vidéo'
-  - 'Création'
-description: "Lipitt (rebrandé Equos en 2025) est l'outil français de traduction vidéo IA avec lip-sync. Fondé 2023. Mistral AI + Scaleway. CES 2025. Dès 32,90€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Lipitt (rebrandé Equos en 2025) est l'outil français de traduction vidéo
+  IA avec lip-sync. Fondé 2023. Mistral AI + Scaleway. CES 2025. Dès 32,90€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://equos.ai"
+u_site: https://equos.ai
 ---
 
 # Lipitt (Equos)

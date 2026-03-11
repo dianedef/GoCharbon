@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "eProShopping"
+title: eProShopping
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "eProShopping est le CMS e-commerce français simple et abordable. Plan gratuit (200 produits), à partir de 20€/mois. Idéal pour artisans et commerçants."
-pubDate: "2024-03-25"
+- Outils
+description: eProShopping est le CMS e-commerce français simple et abordable. Plan
+  gratuit (200 produits), à partir de 20€/mois. Idéal pour artisans et commerçants.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.eproshopping.fr"
+u_site: https://www.eproshopping.fr
 ---
 
 # eProShopping

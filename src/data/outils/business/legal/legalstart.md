@@ -3,8 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Business
+- Outils
 imageNameKey: legalstart
 u_site: https://www.legalstart.fr
 u_affi: null

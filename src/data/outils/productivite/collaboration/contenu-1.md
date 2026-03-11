@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Genially"
+title: Genially
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-  - 'Collaboration'
-description: "Genially est la plateforme de création de contenu interactif et gamifié. 30M+ utilisateurs, 190 pays. Présentations, quiz, infographies. Gratuit ou Premium."
-pubDate: "2024-03-25"
+- Outils
+description: Genially est la plateforme de création de contenu interactif et gamifié.
+  30M+ utilisateurs, 190 pays. Présentations, quiz, infographies. Gratuit ou Premium.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://genially.com/fr/"
+u_site: https://genially.com/fr/
 ---
 
 # Genially

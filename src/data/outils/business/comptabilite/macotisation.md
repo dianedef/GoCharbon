@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "MaCotisation"
+title: MaCotisation
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "MaCotisation est un logiciel français de gestion d'associations : cotisations en ligne, CRM adhérents, boutique, événements, comptabilité. Gratuit jusqu'à 50 contacts, puis dès 9€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: 'MaCotisation est un logiciel français de gestion d''associations : cotisations
+  en ligne, CRM adhérents, boutique, événements, comptabilité. Gratuit jusqu''à 50
+  contacts, puis dès 9€/mois.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://macotisation.fr"
+u_site: https://macotisation.fr
 ---
 
 # MaCotisation

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Findly"
+title: Findly
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "[Findly (@findly_fr) | TikTok](https://www.tiktok.com/@findly_fr) [Findly - Agence d'influence : Overview | LinkedIn](https://www.linkedin.com/company/findly-fr/) [x.com/Findly_fr]"
-pubDate: "2024-03-25"
+- Outils
+description: '[Findly (@findly_fr) | TikTok](https://www.tiktok.com/@findly_fr) [Findly
+  - Agence d''influence : Overview | LinkedIn](https://www.linkedin.com/company/findly-fr/)
+  [x.com/Findly_fr]'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://findly.co"
+u_site: https://findly.co
 ---
 
 # Findly

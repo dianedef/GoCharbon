@@ -6,8 +6,7 @@ statut:
 - backlog
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Le Hack Ultime Pour Transférer Vos Données Notion Vers Obsidian En Un Clic
 author: Diane
 description: 'Découvre Le Hack Ultime Pour Transférer Vos Données Notion Vers Obsidian

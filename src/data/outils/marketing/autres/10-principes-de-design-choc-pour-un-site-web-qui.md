@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 10 Principes De Design Choc Pour Un Site Web Qui Rend Vos Concurrents Jaloux

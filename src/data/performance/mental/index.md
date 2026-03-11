@@ -1,13 +1,12 @@
 ---
 section: blog
-title: "Mental et Performance : Guide Complet"
+title: 'Mental et Performance : Guide Complet'
 author: Diane
 tags:
-  - 'Mental'
-  - 'Performance'
-  - 'Mindset'
-description: Développe ton mental et ta performance pour réussir dans le business en ligne
-pubDate: "2026-01-17"
+- Productivité
+description: Développe ton mental et ta performance pour réussir dans le business
+  en ligne
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

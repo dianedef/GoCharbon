@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Dolibarr"
+title: Dolibarr
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Dolibarr est un ERP/CRM open source français pour TPE, PME et associations. Gratuit, modulaire, auto-hébergeable. 200 000+ organisations, 1M+ utilisateurs."
-pubDate: "2024-03-25"
+- Outils
+description: Dolibarr est un ERP/CRM open source français pour TPE, PME et associations.
+  Gratuit, modulaire, auto-hébergeable. 200 000+ organisations, 1M+ utilisateurs.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.dolibarr.org"
+u_site: https://www.dolibarr.org
 ---
 
 # Dolibarr

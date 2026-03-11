@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Stratégie de Netlinking : Guide Complet"
+title: 'Stratégie de Netlinking : Guide Complet'
 author: Diane
 tags:
-  - 'SEO'
-  - 'Netlinking'
-  - 'Backlinks'
-  - 'Stratégie'
+- SEO
 description: Guide complet sur la stratégie de création de liens externes
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

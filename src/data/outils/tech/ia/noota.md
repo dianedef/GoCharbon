@@ -4,9 +4,7 @@ metadataEnrichedAt: '2026-03-01'
 type:
 - app
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: noota
 u_site: https://www.noota.io/fr
 u_affi: null

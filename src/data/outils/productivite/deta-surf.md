@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Deta Surf"
+title: Deta Surf
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-description: "Deta Surf est le navigateur IA qui transforme ta navigation en base de connaissances. Notebooks, résumés, code. Berlin/New York. Chromium. Gratuit en beta."
-pubDate: "2024-03-25"
+- Outils
+description: Deta Surf est le navigateur IA qui transforme ta navigation en base de
+  connaissances. Notebooks, résumés, code. Berlin/New York. Chromium. Gratuit en beta.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://deta.surf"
+u_site: https://deta.surf
 ---
 
 # Deta Surf

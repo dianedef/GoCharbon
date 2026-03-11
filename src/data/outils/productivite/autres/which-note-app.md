@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Productivité
+- Outils
 title: Which Note App
 author: Diane
 description: 'Découvre Which Note App : outil français pour entrepreneurs, fonctionnalités

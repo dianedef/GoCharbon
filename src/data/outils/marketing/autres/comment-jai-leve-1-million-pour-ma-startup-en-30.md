@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Comment J'Ai Levé 1 Million Pour Ma Startup En 30 Jours La Méthode Choc

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: geeers
 u_site: https://www.geeers.com/fr/
 u_affi: null

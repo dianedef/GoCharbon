@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "videomenthe"
+title: videomenthe
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Création'
-description: "[Facebook](https://www.facebook.com/videomenthe) [Videomenthe (@videomenthe) • Photos et vidéos Instagram](https://www.instagram.com/videomenthe/) [twitter.com/VideomentheC](https:"
-pubDate: "2024-03-25"
+- Outils
+description: '[Facebook](https://www.facebook.com/videomenthe) [Videomenthe (@videomenthe)
+  • Photos et vidéos Instagram](https://www.instagram.com/videomenthe/) [twitter.com/VideomentheC](https:'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://videomenthe-corporate.com"
+u_site: https://videomenthe-corporate.com
 ---
 
 # videomenthe

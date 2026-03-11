@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Respaid"
+title: Respaid
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Respaid est une solution IA française de recouvrement amiable de petits impayés (5€-5000€). 50% de récupération en 20 jours. Paiement au succès. YC S23. Levée 2,5M€."
-pubDate: "2024-03-25"
+- Outils
+description: Respaid est une solution IA française de recouvrement amiable de petits
+  impayés (5€-5000€). 50% de récupération en 20 jours. Paiement au succès. YC S23.
+  Levée 2,5M€.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://respaid.com"
+u_site: https://respaid.com
 ---
 
 # Respaid

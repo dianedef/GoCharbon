@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Créer Une Stratégie De Contenu
 author: Diane
 description: 'Découvre Créer Une Stratégie De Contenu : outil français pour entrepreneurs,

@@ -53,6 +53,9 @@ const posts = await getCollection('posts');
  * Example: "tech/frameworks/react" → "tech--frameworks--react"
  */
 export function getStaticPaths() {
+  // Disabled by default to avoid generating thousands of OG images at build time.
+  if (process.env.BUILD_DYNAMIC_OG !== '1') return [];
+
   return posts.map((post) => ({
     params: { slug: post.id.replace(/\//g, '--') }, // Safe URL encoding
     props: { title: post.data.title, description: post.data.description },

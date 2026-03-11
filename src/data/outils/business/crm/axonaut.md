@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Axonaut"
+title: Axonaut
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Axonaut est un CRM français tout-en-un pour TPE/PME. Ventes, facturation, comptabilité, projets, RH. 189 000+ utilisateurs. Basé à Toulouse. Dès 25€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Axonaut est un CRM français tout-en-un pour TPE/PME. Ventes, facturation,
+  comptabilité, projets, RH. 189 000+ utilisateurs. Basé à Toulouse. Dès 25€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://axonaut.com/"
+u_site: https://axonaut.com/
 ---
 
 # Axonaut

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Pleo"
+title: Pleo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Pleo est une plateforme de gestion des dépenses avec cartes corporate intelligentes. 20 000+ entreprises en Europe. Automatise notes de frais, budgets d'équipe et clôture comptable."
-pubDate: "2024-03-25"
+- Outils
+description: Pleo est une plateforme de gestion des dépenses avec cartes corporate
+  intelligentes. 20 000+ entreprises en Europe. Automatise notes de frais, budgets
+  d'équipe et clôture comptable.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.pleo.io"
+u_site: https://www.pleo.io
 ---
 
 # Pleo

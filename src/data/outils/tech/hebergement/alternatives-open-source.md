@@ -4,8 +4,7 @@ metadataEnrichedAt: null
 title: Alternatives Open Source
 author: Diane
 tags:
-- Outils Français
-- Tech
+- Outils
 description: 'Découvre Alternatives Open Source : outil français pour entrepreneurs,
   fonctionnalités et avis.'
 pubDate: '2024-03-25'

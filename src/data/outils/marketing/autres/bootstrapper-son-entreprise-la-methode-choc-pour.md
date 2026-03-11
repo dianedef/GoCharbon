@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Bootstrapper Son Entreprise La Méthode Choc Pour Devenir Millionnaire Sans
   Un Sou

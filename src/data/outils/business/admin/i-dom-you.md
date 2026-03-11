@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "I Dom You"
+title: I Dom You
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Admin'
-  - 'Business'
-description: "I Dom You est un service français de domiciliation d'entreprise à Paris, Lyon et Marseille. Application mobile, gestion du courrier, notification WhatsApp. Dès 99€/an."
-pubDate: "2024-03-25"
+- Outils
+description: I Dom You est un service français de domiciliation d'entreprise à Paris,
+  Lyon et Marseille. Application mobile, gestion du courrier, notification WhatsApp.
+  Dès 99€/an.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://idomyou.fr"
+u_site: https://idomyou.fr
 ---
 
 # I Dom You

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les Techniques De Team Building Qui Transforment Les Employés En Superhéros
 author: Diane

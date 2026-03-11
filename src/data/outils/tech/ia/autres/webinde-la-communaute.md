@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Web'Indé La Communauté
 author: Diane
 description: 'Découvre Web''Indé La Communauté : outil français pour entrepreneurs,

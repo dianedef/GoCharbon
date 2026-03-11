@@ -1,13 +1,11 @@
 ---
 section: blog
-title: "Aspects Légaux de l'Affiliation"
+title: Aspects Légaux de l'Affiliation
 author: Diane
 tags:
-  - 'Affiliation'
-  - 'Éthique'
-  - 'Légal'
-description: "Guide essentiel pour une pratique éthique et conforme de l'affiliation"
-pubDate: "2024-03-25"
+- Business
+description: Guide essentiel pour une pratique éthique et conforme de l'affiliation
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

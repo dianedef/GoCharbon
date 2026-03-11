@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Les Plus Grosses Arnaques De Tous Les Temps Comment Ne Pas Se Faire Avoir

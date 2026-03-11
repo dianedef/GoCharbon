@@ -1,13 +1,12 @@
 ---
 section: blog
-title: "Création de Contenu avec l'IA : Guide Pratique"
+title: 'Création de Contenu avec l''IA : Guide Pratique'
 author: Diane
 tags:
-  - 'IA'
-  - 'Contenu'
-  - 'Productivité'
-description: "Comment utiliser l'IA efficacement pour créer du contenu : outils, stratégies et pièges à éviter"
-pubDate: "2024-03-25"
+- Tech
+description: 'Comment utiliser l''IA efficacement pour créer du contenu : outils,
+  stratégies et pièges à éviter'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

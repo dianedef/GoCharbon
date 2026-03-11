@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: null
 title: Les Nouveaux Usages Des Réseaux Sociaux
 author: Diane

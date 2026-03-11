@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Le Juste Prix Est Un Mythe Voici Comment Fixer Vos Tarifs Pour Devenir Riche

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 title: Bienvenue À Web'Indé
 author: Diane
 description: 'Découvre Bienvenue À Web''Indé : outil français pour entrepreneurs,

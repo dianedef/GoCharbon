@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: La Polémique Wordpress Drama
 author: Diane
 description: 'Découvre La Polémique Wordpress Drama : outil français pour entrepreneurs,

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Les Secrets Des Réseaux Sociaux Que Les Influenceurs Ne Veulent Pas Que Vous

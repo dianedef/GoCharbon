@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Email
+- Outils
 title: Quels Sont Les Meilleurs Outils Pour Gérer Et Suivre Les Campagnes De Marketing
   En Ligne
 author: Diane

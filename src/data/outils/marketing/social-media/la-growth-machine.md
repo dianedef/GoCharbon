@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: la-growth-machine
 u_site: https://lagrowthmachine.com/fr/
 u_affi: null

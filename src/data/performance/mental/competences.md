@@ -3,7 +3,7 @@ section: blog
 title: Competences
 author: Diane
 tags:
-- Performance
+- Productivité
 description: 'Développe tes compétences d''entrepreneur : soft skills et hard skills
   pour réussir.'
 pubDate: '2024-03-25'

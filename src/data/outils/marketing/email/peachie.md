@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Contenu"
+title: Contenu
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "La route n’a pas toujours été facile. Ça fait aujourd’hui près de 2 ans que je travaille sur cet outil. Je suis parti de zéro, et je suis fier d’être arrivé là aujourd’hui. Je me s"
-pubDate: "2024-03-25"
+- Outils
+description: La route n’a pas toujours été facile. Ça fait aujourd’hui près de 2 ans
+  que je travaille sur cet outil. Je suis parti de zéro, et je suis fier d’être arrivé
+  là aujourd’hui. Je me s
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://peachie.io"
+u_site: https://peachie.io
 ---
 
 # Contenu

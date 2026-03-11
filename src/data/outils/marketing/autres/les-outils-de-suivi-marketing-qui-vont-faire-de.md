@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Outils De Suivi Marketing Qui Vont Faire De Vous Un Génie De L'Analytics
 author: Diane
 description: 'Découvre Les Outils De Suivi Marketing Qui Vont Faire De Vous Un Génie

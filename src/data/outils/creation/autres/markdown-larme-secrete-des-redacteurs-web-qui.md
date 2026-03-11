@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
+- Outils
 u_site: null
 title: Markdown L'Arme Secrète Des Rédacteurs Web Qui Cartonnent
 author: Diane

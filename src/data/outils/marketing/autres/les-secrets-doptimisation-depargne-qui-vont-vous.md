@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les Secrets D'Optimisation D'Épargne Qui Vont Vous Rendre Millionnaire À La
   Retraite

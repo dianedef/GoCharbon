@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Rédaction
-- Tech
+- Outils
 imageNameKey: ksaar
 u_site: https://www.ksaar.com
 u_affi: null

@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "InstantFlow"
+title: InstantFlow
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "InstantFlow automatise ta prospection Instagram et Facebook. DM de masse personnalisés, CRM intégré, ciblage par filtre. 3.3/5 Trustpilot. Essai gratuit."
-pubDate: "2024-03-25"
+- Outils
+description: InstantFlow automatise ta prospection Instagram et Facebook. DM de masse
+  personnalisés, CRM intégré, ciblage par filtre. 3.3/5 Trustpilot. Essai gratuit.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://instantflow.ai"
+u_site: https://instantflow.ai
 ---
 
 # InstantFlow

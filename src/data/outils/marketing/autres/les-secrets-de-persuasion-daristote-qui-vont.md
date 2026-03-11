@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Les Secrets De Persuasion D'Aristote Qui Vont Booster Vos Ventes De 300%

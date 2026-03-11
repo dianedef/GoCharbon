@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Termes Secrets Du Business En Ligne Que Les Pros Ne Veulent Pas Que Vous
   Connaissiez
 author: Diane

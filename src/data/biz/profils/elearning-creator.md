@@ -4,8 +4,6 @@ title: E-learning Creator / Créateur de Formations en Ligne
 author: Web Indé
 tags:
 - Business
-- Formation
-- Contenu
 description: 'Crée et vends des formations en ligne : plateformes, pédagogie et stratégies
   de lancement pour formateurs.'
 pubDate: '2024-01-01'

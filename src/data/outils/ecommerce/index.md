@@ -1,13 +1,13 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "OUTILS E-COMMERCE FRANÇAIS"
+title: OUTILS E-COMMERCE FRANÇAIS
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "Les meilleurs outils e-commerce français : CMS, paiement, logistique. Lance ta boutique en ligne made in France."
-pubDate: "2024-03-25"
+- Outils
+description: 'Les meilleurs outils e-commerce français : CMS, paiement, logistique.
+  Lance ta boutique en ligne made in France.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

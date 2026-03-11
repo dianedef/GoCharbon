@@ -6,8 +6,7 @@ statut:
 - backlog
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: 10 Astuces Seo Interdites Qui Vont Propulser Votre Site En Top 1 Google
 author: Diane
 description: 'Découvre 10 Astuces Seo Interdites Qui Vont Propulser Votre Site En

@@ -5,8 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Business
+- Outils
 title: Start With Why
 author: Diane
 description: 'Découvre Start With Why : outil français pour entrepreneurs, fonctionnalités

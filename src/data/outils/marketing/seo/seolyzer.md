@@ -2,10 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Rédaction
-- Marketing
-- SEO
+- Outils
 imageNameKey: seolyzer
 u_site: https://seolyzer.io/fr/
 u_affi: null

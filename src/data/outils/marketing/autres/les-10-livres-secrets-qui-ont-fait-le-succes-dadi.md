@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Les 10 Livres Secrets Qui Ont Fait Le Succès D'Adi Soozin Enfin Dévoilés

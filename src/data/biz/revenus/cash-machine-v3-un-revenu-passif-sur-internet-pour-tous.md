@@ -3,9 +3,7 @@ section: blog
 title: 'Cash Machine V3 : Mon Expérience Honnête'
 author: Diane
 tags:
-- Revenus
 - Business
-- Études de cas
 description: J'ai acheté la Cash Machine de David Pontoizeau. Je ne l'ai jamais mise
   en place. Voici mon expérience.
 pubDate: '2026-01-17'

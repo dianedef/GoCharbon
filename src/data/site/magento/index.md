@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Magento : Guide Complet"
+title: 'Magento : Guide Complet'
 author: Diane
 tags:
-  - 'Magento'
-  - 'E-commerce'
-  - 'Web'
-  - 'Digital'
-description: "La plateforme e-commerce enterprise : quand l'équipe est prête à investir"
-pubDate: "2026-01-17"
+- Tech
+description: 'La plateforme e-commerce enterprise : quand l''équipe est prête à investir'
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

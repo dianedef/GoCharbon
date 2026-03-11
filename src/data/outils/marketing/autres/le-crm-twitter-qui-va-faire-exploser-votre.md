@@ -6,8 +6,7 @@ statut: []
 _priorité: normal
 imageNameKey: twitter-crm
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Le Crm Twitter Qui Va Faire Exploser Votre Influence Tout Révélé
 author: Diane
 description: 'Découvre Le Crm Twitter Qui Va Faire Exploser Votre Influence Tout Révélé

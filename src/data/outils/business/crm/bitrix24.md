@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Bitrix24"
+title: Bitrix24
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Bitrix24 est une suite tout-en-un : CRM, gestion de projets, collaboration, RH, création de sites. Plan gratuit illimité. Fondé 1998/2012. Dès 61€/mois. Cloud ou On-Premise."
-pubDate: "2024-03-25"
+- Outils
+description: 'Bitrix24 est une suite tout-en-un : CRM, gestion de projets, collaboration,
+  RH, création de sites. Plan gratuit illimité. Fondé 1998/2012. Dès 61€/mois. Cloud
+  ou On-Premise.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.bitrix24.fr"
+u_site: https://www.bitrix24.fr
 ---
 
 # Bitrix24

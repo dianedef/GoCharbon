@@ -4,10 +4,9 @@ metadataEnrichedAt: null
 title: Bombyx4WP
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Bombyx4WP : le plugin WordPress qui automatise ton cocon semantique. Cree par Laurent Bourrelly et Benoit Chevillot, maillage interne intelligent."
+- Outils
+description: 'Bombyx4WP : le plugin WordPress qui automatise ton cocon semantique.
+  Cree par Laurent Bourrelly et Benoit Chevillot, maillage interne intelligent.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.bombyx4wp.com/

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Dattak"
+title: Dattak
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Assurance'
-  - 'Business'
-description: "Dattak est un courtier grossiste français en cyber-assurance pour PME. Devis en 1 min, souscription digitale, outils de prévention intégrés. Levée 7M€. Fondé 2021."
-pubDate: "2024-03-25"
+- Outils
+description: Dattak est un courtier grossiste français en cyber-assurance pour PME.
+  Devis en 1 min, souscription digitale, outils de prévention intégrés. Levée 7M€.
+  Fondé 2021.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.dattak.io"
+u_site: https://www.dattak.io
 ---
 
 # Dattak

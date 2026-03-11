@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Simple CRM"
+title: Simple CRM
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Simple CRM Enterprise est un CRM en ligne pour PME avec IA intégrée (HaPPi). Ventes, marketing, GED, projets, géolocalisation. 5 000+ intégrations. Dès 40€/mois/utilisateur."
-pubDate: "2024-03-25"
+- Outils
+description: Simple CRM Enterprise est un CRM en ligne pour PME avec IA intégrée (HaPPi).
+  Ventes, marketing, GED, projets, géolocalisation. 5 000+ intégrations. Dès 40€/mois/utilisateur.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://crm-pour-pme.fr"
+u_site: https://crm-pour-pme.fr
 ---
 
 # Simple CRM

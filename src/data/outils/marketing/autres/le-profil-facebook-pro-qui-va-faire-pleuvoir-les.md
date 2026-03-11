@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Le Profil Facebook Pro Qui Va Faire Pleuvoir Les Clients Tout Révélé
 author: Diane
 description: 'Découvre Le Profil Facebook Pro Qui Va Faire Pleuvoir Les Clients Tout

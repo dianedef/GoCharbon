@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: L'App Calendrier Secrète Utilisée Par Les Pdg Français Les Plus Performants

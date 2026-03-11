@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Fygr"
+title: Fygr
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Business'
-description: "Fygr est le logiciel français de gestion et prévision de trésorerie. IA + Data Science, 1000+ clients, 5/5 Google. Fondé en 2019. Dès 49€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Fygr est le logiciel français de gestion et prévision de trésorerie.
+  IA + Data Science, 1000+ clients, 5/5 Google. Fondé en 2019. Dès 49€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.fygr.io"
+u_site: https://www.fygr.io
 ---
 
 # Fygr

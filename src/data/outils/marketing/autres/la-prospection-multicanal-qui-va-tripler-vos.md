@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: La Prospection Multicanal Qui Va Tripler Vos Résultats La Méthode Secrète Dévoilée

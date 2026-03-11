@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Bulldoz"
+title: Bulldoz
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "[00:04](https://www.youtube.com/watch?v=AXuAStHb_4o&t=4#t=4.26) Bulldoz est une plateforme de rédaction et de netlinking qui vise à connecter directement les entrepreneurs avec leu"
-pubDate: "2024-03-25"
+- Outils
+description: '[00:04](https://www.youtube.com/watch?v=AXuAStHb_4o&t=4#t=4.26) Bulldoz
+  est une plateforme de rédaction et de netlinking qui vise à connecter directement
+  les entrepreneurs avec leu'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.bulldoz.net"
+u_site: https://www.bulldoz.net
 ---
 
 # Bulldoz

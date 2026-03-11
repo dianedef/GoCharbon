@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Validation d'Idées Business : Guide Complet"
+title: 'Validation d''Idées Business : Guide Complet'
 author: Diane
 tags:
-  - 'Validation'
-  - 'Business'
-  - 'Entrepreneuriat'
-  - 'Innovation'
-description: "Guide complet sur la validation d'idées business et de concepts entrepreneuriaux"
-pubDate: "2024-03-25"
+- Business
+description: Guide complet sur la validation d'idées business et de concepts entrepreneuriaux
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: La Technique De La Page Pilier Qui Va Propulser Votre Site En Première Page
   De Google
 author: Diane

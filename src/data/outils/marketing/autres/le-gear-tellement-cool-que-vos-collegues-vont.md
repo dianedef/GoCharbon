@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Le Gear Tellement Cool Que Vos Collègues Vont Devenir Fous De Jalousie
 author: Diane
 description: 'Découvre Le Gear Tellement Cool Que Vos Collègues Vont Devenir Fous

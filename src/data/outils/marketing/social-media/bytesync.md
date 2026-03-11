@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: bytesync
 u_site: https://www.bytesyncapp.com/fr/
 u_affi: null

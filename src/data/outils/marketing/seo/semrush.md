@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Semrush"
+title: Semrush
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Semrush est un outil SEO puissant qui peut transformer votre site web en améliorant votre classement sur Google. Il offre une multitude de fonctionnalités pour la recherche de mots"
-pubDate: "2024-03-25"
+- Outils
+description: Semrush est un outil SEO puissant qui peut transformer votre site web
+  en améliorant votre classement sur Google. Il offre une multitude de fonctionnalités
+  pour la recherche de mots
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://fr.semrush.com"
+u_site: https://fr.semrush.com
 ---
 
 # Semrush

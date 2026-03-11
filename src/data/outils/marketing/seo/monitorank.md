@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: monitorank
 u_site: https://www.monitorank.com/fr/
 title: Monitorank

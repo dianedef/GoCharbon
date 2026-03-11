@@ -2,7 +2,8 @@
 section: blog
 title: Appumo Edit
 author: Diane
-tags: []
+tags:
+- Business
 description: 'Découvre Appumo Edit : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

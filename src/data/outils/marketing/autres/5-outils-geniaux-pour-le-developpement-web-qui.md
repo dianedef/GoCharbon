@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 5 Outils Géniaux Pour Le Développement Web Qui Vont Changer Ta Vie

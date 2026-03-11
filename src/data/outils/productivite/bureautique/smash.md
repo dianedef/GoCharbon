@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Smash"
+title: Smash
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-description: "Smash est le service français de transfert de fichiers sans limite de taille. 4.9/5 Trustpilot (28K+ avis), Lyon. Alternative éthique à WeTransfer. Gratuit."
-pubDate: "2024-03-25"
+- Outils
+description: Smash est le service français de transfert de fichiers sans limite de
+  taille. 4.9/5 Trustpilot (28K+ avis), Lyon. Alternative éthique à WeTransfer. Gratuit.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://fromsmash.com"
+u_site: https://fromsmash.com
 ---
 
 # Smash

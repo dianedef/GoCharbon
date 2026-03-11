@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Stellar"
+title: Stellar
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "Chez Stellar, une équipe de personnes pluridisciplinaire et passionnée s’efforce de créer des solutions simples, innovantes et éclairées par les data, pour permettre aux marques de"
-pubDate: "2024-03-25"
+- Outils
+description: Chez Stellar, une équipe de personnes pluridisciplinaire et passionnée
+  s’efforce de créer des solutions simples, innovantes et éclairées par les data,
+  pour permettre aux marques de
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://stellar.io/fr/accueil/"
+u_site: https://stellar.io/fr/accueil/
 ---
 
 # Stellar

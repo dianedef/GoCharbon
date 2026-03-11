@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Caarl"
+title: Caarl
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Assurance'
-  - 'Business'
-description: "Caarl est une assurtech française de protection juridique pour entrepreneurs. Visio avocat, recouvrement, hotline juridique. 200 000+ clients. 12,50€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Caarl est une assurtech française de protection juridique pour entrepreneurs.
+  Visio avocat, recouvrement, hotline juridique. 200 000+ clients. 12,50€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.caarl.fr/"
+u_site: https://www.caarl.fr/
 ---
 
 # Caarl

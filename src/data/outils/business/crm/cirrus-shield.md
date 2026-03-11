@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Cirrus Shield"
+title: Cirrus Shield
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Cirrus Shield est un CRM français low-code par Aliston. Formation, conseil, immobilier, BTP. Automatisation, devis/factures. Dès 99€/mois pour 2 utilisateurs."
-pubDate: "2024-03-25"
+- Outils
+description: Cirrus Shield est un CRM français low-code par Aliston. Formation, conseil,
+  immobilier, BTP. Automatisation, devis/factures. Dès 99€/mois pour 2 utilisateurs.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.cirrus-shield.fr"
+u_site: https://www.cirrus-shield.fr
 ---
 
 # Cirrus Shield

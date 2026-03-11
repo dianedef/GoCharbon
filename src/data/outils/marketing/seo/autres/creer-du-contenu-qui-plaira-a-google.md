@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 u_site: null
 title: Créer Du Contenu Qui Plaira À Google
 author: Diane

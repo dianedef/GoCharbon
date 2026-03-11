@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 u_site: null
 title: Evaluer Le Potentiel Financier De Ton Projet Et Sa Faisabilité
 author: Diane

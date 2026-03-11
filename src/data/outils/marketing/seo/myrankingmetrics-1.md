@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: myrankingmetrics
 u_site: https://myrankingmetrics.com    https://fr.myrankingmetrics.com
 u_affi: null

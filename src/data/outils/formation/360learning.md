@@ -4,9 +4,9 @@ metadataEnrichedAt: null
 title: 360Learning
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Formation'
-description: "360Learning : LMS collaboratif français utilisé par 2 500+ entreprises. Création de cours en 7 min, 91% de complétion. Dès 8 euros/mois."
+- Outils
+description: '360Learning : LMS collaboratif français utilisé par 2 500+ entreprises.
+  Création de cours en 7 min, 91% de complétion. Dès 8 euros/mois.'
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://360learning.com/fr/

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Gest4U"
+title: Gest4U
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Gest4U est un logiciel français de comptabilité IA pour auto-entrepreneurs et indépendants. Déclarations fiscales, facturation, trésorerie. Gratuit ou 19€/mois Premium."
-pubDate: "2024-03-25"
+- Outils
+description: Gest4U est un logiciel français de comptabilité IA pour auto-entrepreneurs
+  et indépendants. Déclarations fiscales, facturation, trésorerie. Gratuit ou 19€/mois
+  Premium.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://gest4u.fr"
+u_site: https://gest4u.fr
 ---
 
 # Gest4U

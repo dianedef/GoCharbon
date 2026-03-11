@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Hello Harel"
+title: Hello Harel
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Hello Harel est un ERP français tout-en-un pour TPE/PME. Gestion commerciale, CRM, stocks, compta et e-commerce en un seul outil. 69€ HT/utilisateur/mois, sans frais de mise en place."
-pubDate: "2024-03-25"
+- Outils
+description: Hello Harel est un ERP français tout-en-un pour TPE/PME. Gestion commerciale,
+  CRM, stocks, compta et e-commerce en un seul outil. 69€ HT/utilisateur/mois, sans
+  frais de mise en place.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.helloharel.com"
+u_site: https://www.helloharel.com
 ---
 
 # Hello Harel

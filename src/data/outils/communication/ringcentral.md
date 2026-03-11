@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "La plateforme de communications complète"
+title: La plateforme de communications complète
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "RingCentral offre une solution complète pour améliorer le service client, augmenter la satisfaction des clients et optimiser les opérations. Voici un aperçu de ce logiciel essentie"
-pubDate: "2024-03-25"
+- Outils
+description: RingCentral offre une solution complète pour améliorer le service client,
+  augmenter la satisfaction des clients et optimiser les opérations. Voici un aperçu
+  de ce logiciel essentie
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.ringcentral.com/fr/fr/"
+u_site: https://www.ringcentral.com/fr/fr/
 ---
 
 # La plateforme de communications complète

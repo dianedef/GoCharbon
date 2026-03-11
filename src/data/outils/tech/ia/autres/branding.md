@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Branding
 author: Diane
 description: 'Découvre Branding : outil français pour entrepreneurs, fonctionnalités

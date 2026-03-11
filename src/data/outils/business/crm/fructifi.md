@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Fructifi"
+title: Fructifi
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Fructifi : outil français de Sales Intelligence B2B. Prédit les réapprovisionnements, segmente par RFM, détecte le churn. 30-50% de conversations converties."
-pubDate: "2024-03-25"
+- Outils
+description: 'Fructifi : outil français de Sales Intelligence B2B. Prédit les réapprovisionnements,
+  segmente par RFM, détecte le churn. 30-50% de conversations converties.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://landing.fructifi.io/"
+u_site: https://landing.fructifi.io/
 ---
 
 # Fructifi

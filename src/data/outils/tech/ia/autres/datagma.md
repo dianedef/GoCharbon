@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: null
 LienDuSite: https://datagma.com/fr/
 LienAffilié: null

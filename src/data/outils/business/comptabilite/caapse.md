@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Caapse"
+title: Caapse
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Caapse est un outil IA de sous-titrage automatique pour vidéos social media. Captions personnalisables, emojis auto, export 4K. À partir de 6,50€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Caapse est un outil IA de sous-titrage automatique pour vidéos social
+  media. Captions personnalisables, emojis auto, export 4K. À partir de 6,50€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.caapse.co/fr"
+u_site: https://www.caapse.co/fr
 ---
 
 # Caapse

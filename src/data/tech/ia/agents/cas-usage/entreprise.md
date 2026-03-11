@@ -3,9 +3,7 @@ section: blog
 title: 'Agents En Entreprise : Transformation Digitale'
 author: Diane
 tags:
-- IA
-- Business
-- Productivité
+- Tech
 description: Comment les agents IA transforment les processus d'entreprise et augmentent
   la productivité
 pubDate: '2024-03-26'

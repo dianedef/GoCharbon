@@ -3,8 +3,7 @@ section: blog
 title: 'Guides IA : Comment l''Utiliser Efficacement'
 author: Diane
 tags:
-- IA
-- Tutoriels
+- Tech
 description: 'Guides pratiques pour implémenter l''IA dans ton business : outils,
   plateformes, bonnes pratiques'
 pubDate: '2024-03-25'

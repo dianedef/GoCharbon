@@ -3,9 +3,7 @@ section: blog
 title: Guide Complet des Ressources Humaines
 author: Diane
 tags:
-- RH
-- Management
-- Stratégie
+- Business
 description: Guide complet sur la gestion des ressources humaines
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg

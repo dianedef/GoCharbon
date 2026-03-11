@@ -4,8 +4,6 @@ title: Dropshipping
 author: Web Indé
 tags:
 - Business
-- E-commerce
-- Business en Ligne
 description: 'Guide complet dropshipping : fournisseurs, boutique e-commerce et stratégies
   marketing pour réussir en 2024.'
 pubDate: '2024-01-01'

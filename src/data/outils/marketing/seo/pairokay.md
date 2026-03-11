@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: pairokay
 u_site: https://www.pairokay.com
 u_affi: null

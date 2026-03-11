@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Evoliz"
+title: Evoliz
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Facturation'
-  - 'Business'
-description: "Evoliz est un logiciel français de facturation et pré-comptabilité pour TPE-PME. Devis, factures, achats, OCR. Certifié NF 203/525. Dès 13,50€/mois. Hébergé en France."
-pubDate: "2024-03-25"
+- Outils
+description: Evoliz est un logiciel français de facturation et pré-comptabilité pour
+  TPE-PME. Devis, factures, achats, OCR. Certifié NF 203/525. Dès 13,50€/mois. Hébergé
+  en France.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.evoliz.com"
+u_site: https://www.evoliz.com
 ---
 
 # Evoliz

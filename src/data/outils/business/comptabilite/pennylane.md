@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Pennylane"
+title: Pennylane
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Pennylane est la licorne française de la comptabilité en ligne. 800 000+ entreprises et 6 000 cabinets comptables utilisent sa plateforme IA pour automatiser factures, compta et trésorerie."
-pubDate: "2024-03-25"
+- Outils
+description: Pennylane est la licorne française de la comptabilité en ligne. 800 000+
+  entreprises et 6 000 cabinets comptables utilisent sa plateforme IA pour automatiser
+  factures, compta et trésorerie.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.pennylane.com"
+u_site: https://www.pennylane.com
 ---
 
 # Pennylane

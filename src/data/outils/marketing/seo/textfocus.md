@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "TextFocus"
+title: TextFocus
 author: Diane
 tags:
-  - "Outils Français"
-  - "SEO"
-  - "Marketing"
-description: "TextFocus : outil d'analyse SEO et semantique de page web. Audit on-page, TF-IDF, coach redaction, NLP. 4.9/5 sur AppSumo."
-pubDate: "2024-03-25"
+- Outils
+description: 'TextFocus : outil d''analyse SEO et semantique de page web. Audit on-page,
+  TF-IDF, coach redaction, NLP. 4.9/5 sur AppSumo.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.textfocus.net"
+u_site: https://www.textfocus.net
 ---
 
 # TextFocus

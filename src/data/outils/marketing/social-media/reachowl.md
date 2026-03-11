@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: reachowl
 u_site: null
 u_affi: null

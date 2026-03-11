@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "SOPlanning"
+title: SOPlanning
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-description: "SOPlanning est le logiciel open-source français de planning en ligne d'équipe. GNU GPLv3, auto-hébergeable, Google Agenda, Outlook. Gratuit ou SaaS dès 15€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: SOPlanning est le logiciel open-source français de planning en ligne
+  d'équipe. GNU GPLv3, auto-hébergeable, Google Agenda, Outlook. Gratuit ou SaaS dès
+  15€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.soplanning.org/fr/"
+u_site: https://www.soplanning.org/fr/
 ---
 
 # SOPlanning

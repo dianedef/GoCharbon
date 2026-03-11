@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Vos données en grand !"
+title: Vos données en grand !
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "15 Novembre 2022[Voir dans votre navigateur](https://mailchi.mp/2eb8a06792c8/liens-pointilles?e=cb32490b6c)Des liens riches de sens !Toutes les relations entre objets n’ont pas la "
-pubDate: "2024-03-25"
+- Outils
+description: '15 Novembre 2022[Voir dans votre navigateur](https://mailchi.mp/2eb8a06792c8/liens-pointilles?e=cb32490b6c)Des
+  liens riches de sens !Toutes les relations entre objets n’ont pas la '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://stemic.app/fr"
+u_site: https://stemic.app/fr
 ---
 
 # Vos données en grand !

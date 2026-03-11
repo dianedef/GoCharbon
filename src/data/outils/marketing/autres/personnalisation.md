@@ -5,8 +5,7 @@ type: Blog
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Personnalisation
 author: Diane
 description: 'Découvre Personnalisation : outil français pour entrepreneurs, fonctionnalités

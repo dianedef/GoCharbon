@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: path-social
 title: Path Social
 author: Diane

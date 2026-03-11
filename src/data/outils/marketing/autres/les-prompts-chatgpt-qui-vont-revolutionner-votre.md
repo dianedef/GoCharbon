@@ -5,8 +5,7 @@ type: Blog
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Prompts Chatgpt Qui Vont Révolutionner Votre Business Résultats Garantis
 author: Diane
 description: 'Découvre Les Prompts Chatgpt Qui Vont Révolutionner Votre Business Résultats

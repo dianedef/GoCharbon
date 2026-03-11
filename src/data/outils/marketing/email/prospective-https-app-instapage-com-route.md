@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "[Prospective](https://app.instapage.com/route/21273036/?url=www.prospective-fr.c"
+title: '[Prospective](https://app.instapage.com/route/21273036/?url=www.prospective-fr.c'
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "**Matisoft Édition** est une entreprise française spécialisée dans le marketing en ligne. Nous proposons des solutions pour aider les indépendants et les TPE à prospecter efficacem"
-pubDate: "2024-03-25"
+- Outils
+description: '**Matisoft Édition** est une entreprise française spécialisée dans le
+  marketing en ligne. Nous proposons des solutions pour aider les indépendants et
+  les TPE à prospecter efficacem'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.contact-express.net/"
+u_site: https://www.contact-express.net/
 ---
 
 # [Prospective](https://app.instapage.com/route/21273036/?url=www.prospective-fr.c

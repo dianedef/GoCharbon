@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: La Technique D'Outreach Qui Va Faire Exploser Votre Trafic Web
 author: Diane
 description: 'Découvre La Technique D''Outreach Qui Va Faire Exploser Votre Trafic

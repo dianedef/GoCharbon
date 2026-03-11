@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 _notes: null
 _priorité: normal
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: null
 datePublié: null
 seo_type: null

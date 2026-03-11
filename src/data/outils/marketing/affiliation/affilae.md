@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "affilae"
+title: affilae
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Affiliation'
-  - 'Marketing'
-description: "Affilae est un logiciel phare conçu pour aider les entreprises à maximiser leurs ventes en recrutant des partenaires d'affiliation de qualité. Dans cette revue, nous allons explore"
-pubDate: "2024-03-25"
+- Outils
+description: Affilae est un logiciel phare conçu pour aider les entreprises à maximiser
+  leurs ventes en recrutant des partenaires d'affiliation de qualité. Dans cette revue,
+  nous allons explore
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://affilae.com/fr/"
+u_site: https://affilae.com/fr/
 ---
 
 # affilae

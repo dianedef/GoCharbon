@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Ux Ui Les Astuces Secrètes Pour Rendre Vos Utilisateurs Accros
 author: Diane

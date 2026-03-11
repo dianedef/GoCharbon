@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: saas-veille
 title: Les Saas De Veille Qui Vont Faire De Vous Un Devin Du Business
 author: Diane

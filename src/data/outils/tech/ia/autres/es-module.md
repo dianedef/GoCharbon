@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Es Module
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Es Module : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

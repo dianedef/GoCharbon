@@ -3,9 +3,6 @@ section: blog
 title: 'L''Économie des Idées : Guide pour Prospérer dans l''Ère Numérique'
 author: Diane
 tags:
-- Finance
-- Innovation
-- Digital
 - Business
 description: Guide complet sur l'économie des idées et la création de valeur dans
   l'ère numérique

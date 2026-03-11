@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: null
 u_site: null
 title: Pourquoi L'Ia Va Tuer Votre Business La Vérité Choquante

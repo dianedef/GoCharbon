@@ -3,11 +3,10 @@ section: blog
 title: Automatisation Email Marketing
 author: Diane
 tags:
-  - 'Marketing'
-  - 'Newsletter'
-  - 'Email'
-description: "Automatisation email expliquée simplement: scénarios essentiels, triggers, KPIs et plan de déploiement progressif."
-pubDate: "2024-03-25"
+- Marketing
+description: 'Automatisation email expliquée simplement: scénarios essentiels, triggers,
+  KPIs et plan de déploiement progressif.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

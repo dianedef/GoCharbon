@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: 59 Vidéo
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre 59 Vidéo : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

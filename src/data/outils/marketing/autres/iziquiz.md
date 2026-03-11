@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "iziquiz"
+title: iziquiz
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "**Cédric Floris est un copywriter / entrepreneur / créateur de logiciels français !** - Auteur de plusieurs formations business - Créateur de Screeber, Calengo, Persona Maker, Call"
-pubDate: "2024-03-25"
+- Outils
+description: '**Cédric Floris est un copywriter / entrepreneur / créateur de logiciels
+  français !** - Auteur de plusieurs formations business - Créateur de Screeber, Calengo,
+  Persona Maker, Call'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://app.iziquiz.io"
+u_site: https://app.iziquiz.io
 ---
 
 # iziquiz

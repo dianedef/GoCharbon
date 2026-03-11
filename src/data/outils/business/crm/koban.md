@@ -4,11 +4,10 @@ metadataEnrichedAt: null
 title: Koban
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Koban, CRM 100% français concu a Lyon. 450+ PME, 2 300+ utilisateurs, 4 plans de 29 a 85 euros/mois. Vente, facturation, marketing, SAV."
-pubDate: "2025-02-14"
+- Outils
+description: Koban, CRM 100% français concu a Lyon. 450+ PME, 2 300+ utilisateurs,
+  4 plans de 29 a 85 euros/mois. Vente, facturation, marketing, SAV.
+pubDate: '2025-02-14'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.koban.cloud
 ---

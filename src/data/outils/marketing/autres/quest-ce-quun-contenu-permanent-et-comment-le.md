@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Qu'Est Ce Qu'Un Contenu Permanent Et Comment Le Créer
 author: Diane
 description: 'Découvre Qu''Est Ce Qu''Un Contenu Permanent Et Comment Le Créer : outil

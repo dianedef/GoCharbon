@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "octopulse"
+title: octopulse
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Octopulse est une solution simple et intuitive qui te permettra d'améliorer ton trafic web étape par étape. Cette plateforme tout-en-un est idéale pour les novices cherchant à augm"
-pubDate: "2024-03-25"
+- Outils
+description: Octopulse est une solution simple et intuitive qui te permettra d'améliorer
+  ton trafic web étape par étape. Cette plateforme tout-en-un est idéale pour les
+  novices cherchant à augm
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.octopulse.io"
+u_site: https://www.octopulse.io
 ---
 
 # octopulse

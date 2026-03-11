@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 'Le Côté Obscur Du Business Enfin Révélé Êtes Vous Prêt Pour La Vérité '

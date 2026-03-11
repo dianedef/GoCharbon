@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Yapla"
+title: Yapla
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Yapla : plateforme canadienne tout-en-un pour associations. 100 000+ gestionnaires, 550M EUR collectes. Gratuit ou des 24 EUR/mois. Partenaire Credit Agricole."
-pubDate: "2024-03-25"
+- Outils
+description: 'Yapla : plateforme canadienne tout-en-un pour associations. 100 000+
+  gestionnaires, 550M EUR collectes. Gratuit ou des 24 EUR/mois. Partenaire Credit
+  Agricole.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.yapla.com/fr-fr/"
+u_site: https://www.yapla.com/fr-fr/
 ---
 
 # Yapla

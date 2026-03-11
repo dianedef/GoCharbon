@@ -2,16 +2,15 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: null
 u_site: https://socialshaker.com
 u_affi: null
 u_affiAdmin: null
 title: Socialshaker
 author: Diane
-description: 'Socialshaker : plateforme française de gamification marketing pour créer des jeux concours, roue de la fortune, quiz et calendriers de l''avent.'
+description: 'Socialshaker : plateforme française de gamification marketing pour créer
+  des jeux concours, roue de la fortune, quiz et calendriers de l''avent.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

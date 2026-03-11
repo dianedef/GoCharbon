@@ -7,9 +7,7 @@ type: []
 title: Harpa
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Harpa : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

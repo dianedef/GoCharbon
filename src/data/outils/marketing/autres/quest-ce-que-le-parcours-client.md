@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Qu'Est Ce Que Le Parcours Client
 author: Diane
 description: 'Découvre Qu''Est Ce Que Le Parcours Client : outil français pour entrepreneurs,

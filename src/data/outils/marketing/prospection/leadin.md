@@ -3,8 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: leadin
 u_site: https://www.leadin.fr
 u_affi: null

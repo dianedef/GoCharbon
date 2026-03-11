@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Regate by Qonto"
+title: Regate by Qonto
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Regate by Qonto est une plateforme française d'automatisation financière et comptable pour TPE/PME. Factures, notes de frais, paiements, reporting. Levée 27M€. 10 000+ clients."
-pubDate: "2024-03-25"
+- Outils
+description: Regate by Qonto est une plateforme française d'automatisation financière
+  et comptable pour TPE/PME. Factures, notes de frais, paiements, reporting. Levée
+  27M€. 10 000+ clients.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.regate.io"
+u_site: https://www.regate.io
 ---
 
 # Regate by Qonto

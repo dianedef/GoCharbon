@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "SwiftRead"
+title: SwiftRead
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-description: "SwiftRead est l'extension Chrome de lecture rapide RSVP. Lis 2 à 5x plus vite sur le web. Résumés de livres, articles, emails. Gratuit ou Premium."
-pubDate: "2024-03-25"
+- Outils
+description: SwiftRead est l'extension Chrome de lecture rapide RSVP. Lis 2 à 5x plus
+  vite sur le web. Résumés de livres, articles, emails. Gratuit ou Premium.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://swiftread.com"
+u_site: https://swiftread.com
 ---
 
 # SwiftRead

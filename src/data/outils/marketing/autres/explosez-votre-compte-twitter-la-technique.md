@@ -5,8 +5,7 @@ type: Blog
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Explosez Votre Compte Twitter La Technique Secrète Des Influenceurs
 author: Diane
 description: 'Découvre Explosez Votre Compte Twitter La Technique Secrète Des Influenceurs

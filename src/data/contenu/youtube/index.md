@@ -3,7 +3,7 @@ section: blog
 title: Youtube
 author: Diane
 tags:
-- Business
+- Contenu
 description: Articles et guides sur youtube pour entrepreneurs.
 pubDate: '2024-01-15'
 imgUrl: ../../../assets/astro.jpeg

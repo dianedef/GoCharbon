@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "ranks"
+title: ranks
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "(List benefit and key advantage are expected for a business by using this software, in this format: ) Améliorez votre référencement sans effort Suivi en temps réel de vos positions"
-pubDate: "2024-03-25"
+- Outils
+description: '(List benefit and key advantage are expected for a business by using
+  this software, in this format: ) Améliorez votre référencement sans effort Suivi
+  en temps réel de vos positions'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.ranks.fr/fr/"
+u_site: https://www.ranks.fr/fr/
 ---
 
 # ranks

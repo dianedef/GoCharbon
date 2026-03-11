@@ -5,8 +5,7 @@ type: Blog
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Créez Une Page Facebook Qui Attire Des Millions De Fans En 24H
 author: Diane
 description: 'Découvre Créez Une Page Facebook Qui Attire Des Millions De Fans En

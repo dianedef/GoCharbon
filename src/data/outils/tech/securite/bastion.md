@@ -3,8 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Tech
+- Outils
 imageNameKey: bastion
 u_site: https://bastion.tech
 u_affi: null

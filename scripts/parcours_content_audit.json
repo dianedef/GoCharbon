@@ -1,6 +1,6 @@
 {
   "summary": {
-    "auditedAt": "2026-03-03T05:24:15.019Z",
+    "auditedAt": "2026-03-07T11:37:02.103Z",
     "activeLinksCount": 171,
     "missingActiveLinksCount": 0,
     "activeContentLinksCount": 126,
@@ -12,33 +12,7 @@
   "missingActiveLinks": [],
   "fragileFirst": [
     {
-      "url": "/biz/e-commerce/index",
-      "file": "src/data/biz/e-commerce/index.md",
-      "words": 326,
-      "h2": 10,
-      "h3": 17,
-      "bullets": 57,
-      "links": 2,
-      "hasActionFramework": true,
-      "artifactFlags": [],
-      "score": 80,
-      "quality": "solide"
-    },
-    {
-      "url": "/biz/freelance/index",
-      "file": "src/data/biz/freelance/index.md",
-      "words": 300,
-      "h2": 10,
-      "h3": 18,
-      "bullets": 60,
-      "links": 2,
-      "hasActionFramework": true,
-      "artifactFlags": [],
-      "score": 80,
-      "quality": "solide"
-    },
-    {
-      "url": "/biz/index",
+      "url": "/biz",
       "file": "src/data/biz/index.md",
       "words": 424,
       "h2": 8,
@@ -51,7 +25,33 @@
       "quality": "solide"
     },
     {
-      "url": "/biz/saas/index",
+      "url": "/biz/e-commerce",
+      "file": "src/data/biz/e-commerce/index.md",
+      "words": 326,
+      "h2": 10,
+      "h3": 17,
+      "bullets": 57,
+      "links": 2,
+      "hasActionFramework": true,
+      "artifactFlags": [],
+      "score": 80,
+      "quality": "solide"
+    },
+    {
+      "url": "/biz/freelance",
+      "file": "src/data/biz/freelance/index.md",
+      "words": 300,
+      "h2": 10,
+      "h3": 18,
+      "bullets": 60,
+      "links": 2,
+      "hasActionFramework": true,
+      "artifactFlags": [],
+      "score": 80,
+      "quality": "solide"
+    },
+    {
+      "url": "/biz/saas",
       "file": "src/data/biz/saas/index.md",
       "words": 288,
       "h2": 5,
@@ -142,7 +142,7 @@
       "quality": "solide"
     },
     {
-      "url": "/outils/creation/index",
+      "url": "/outils/creation",
       "file": "src/data/outils/creation/index.md",
       "words": 380,
       "h2": 9,
@@ -1299,7 +1299,7 @@
       "quality": "solide"
     },
     {
-      "url": "/tech/ia/guides/index",
+      "url": "/tech/ia/guides",
       "file": "src/data/tech/ia/guides/index.md",
       "words": 579,
       "h2": 9,

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Evaboot"
+title: Evaboot
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "- Evaboot est une plateforme de marketing automation qui permet de gérer et d'automatiser des campagnes marketing sur différents canaux sur LinkedIn et par email pour augmenter la "
-pubDate: "2024-03-25"
+- Outils
+description: '- Evaboot est une plateforme de marketing automation qui permet de gérer
+  et d''automatiser des campagnes marketing sur différents canaux sur LinkedIn et
+  par email pour augmenter la '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://evaboot.com/fr"
+u_site: https://evaboot.com/fr
 ---
 
 # Evaboot

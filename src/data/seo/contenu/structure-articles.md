@@ -4,9 +4,6 @@ title: 'Structure des Articles SEO : Guide Complet'
 author: Diane
 tags:
 - SEO
-- Contenu
-- Rédaction
-- Architecture
 description: Guide complet sur la structuration optimale des articles pour le SEO
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg

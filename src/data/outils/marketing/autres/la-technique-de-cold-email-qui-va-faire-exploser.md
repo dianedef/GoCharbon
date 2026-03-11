@@ -6,8 +6,7 @@ statut:
 - backlog
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: La Technique De Cold Email Qui Va Faire Exploser Vos Ventes De 500%
 author: Diane
 description: 'Découvre La Technique De Cold Email Qui Va Faire Exploser Vos Ventes

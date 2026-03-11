@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: cosmic-data
 LienDuSite: https://www.cosmic-data.io
 LienAffilié: null

@@ -3,9 +3,7 @@ section: blog
 title: 'Écrire un Livre avec l''IA : LlamaEdgeBook et Plus'
 author: Diane
 tags:
-- IA
-- Rédaction
-- Formation
+- Tech
 description: Comment utiliser LlamaEdgeBook, Novelcrafter et d'autres outils IA pour
   écrire ton livre en quelques jours
 pubDate: '2024-03-26'

@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Aircall"
+title: Aircall
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Aircall est la téléphonie cloud pour équipes vente et support. 100+ intégrations CRM, analytics IA, power dialer. Fondé à Paris en 2014. Dès 30€/licence/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Aircall est la téléphonie cloud pour équipes vente et support. 100+ intégrations
+  CRM, analytics IA, power dialer. Fondé à Paris en 2014. Dès 30€/licence/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://aircall.io/fr/"
+u_site: https://aircall.io/fr/
 ---
 
 # Aircall

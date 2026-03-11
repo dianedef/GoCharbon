@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Faites Exploser Votre Audience 5 Astuces De Croissance Folles Dont Vous N'Avez

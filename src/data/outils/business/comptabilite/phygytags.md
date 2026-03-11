@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "PhygiTags"
+title: PhygiTags
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "PhygiTags est une entreprise française de cartes de visite connectées NFC/QR Code. Personnalisables, sans abonnement, modifiables à vie. Basée à Toulouse (IoT Valley)."
-pubDate: "2024-03-25"
+- Outils
+description: PhygiTags est une entreprise française de cartes de visite connectées
+  NFC/QR Code. Personnalisables, sans abonnement, modifiables à vie. Basée à Toulouse
+  (IoT Valley).
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.phygitags.com/fr/"
+u_site: https://www.phygitags.com/fr/
 ---
 
 # PhygiTags

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Erreurs De Prospection À Froid Qui Vous Coûtent Des Millions
 author: Diane
 description: 'Découvre Les Erreurs De Prospection À Froid Qui Vous Coûtent Des Millions

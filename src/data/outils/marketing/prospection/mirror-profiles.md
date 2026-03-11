@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Mirror profiles"
+title: Mirror profiles
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Mirror Profiles, fondée par BANCE et DUHIREL, est une startup basée à Nantes, créée il y a plusieurs années. Elle permet de louer des comptes LinkedIn chauffés (+500 connexions) po"
-pubDate: "2024-03-25"
+- Outils
+description: Mirror Profiles, fondée par BANCE et DUHIREL, est une startup basée à
+  Nantes, créée il y a plusieurs années. Elle permet de louer des comptes LinkedIn
+  chauffés (+500 connexions) po
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://mirrorprofiles.com"
+u_site: https://mirrorprofiles.com
 ---
 
 # Mirror profiles

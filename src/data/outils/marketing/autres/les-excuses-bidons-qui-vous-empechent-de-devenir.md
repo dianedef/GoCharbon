@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les Excuses Bidons Qui Vous Empêchent De Devenir Riche Arrêtez Ça Tout De Suite
 author: Diane

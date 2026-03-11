@@ -45,7 +45,7 @@ Trouver une offre gagnante et fiabiliser acquisition + logistique.
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
 - [Suivi du parcours](/parcours/dropshipping)
-- [Ressource utile 1](/biz/e-commerce/index)
+- [Ressource utile 1](/biz/e-commerce)
 - [Ressource utile 2](/tutos/shopify-store-qui-font-des-millions)
 - [Ressource utile 3](/marketing/ads/meta)
 

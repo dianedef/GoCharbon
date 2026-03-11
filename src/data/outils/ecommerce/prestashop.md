@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "PrestaShop"
+title: PrestaShop
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "PrestaShop est la plateforme e-commerce open source n°1 en Europe. 300 000+ boutiques, 160+ pays, 60+ langues. Gratuit (self-hosted) ou dès 24€/mois (hébergé). 8.9K stars GitHub."
-pubDate: "2024-03-25"
+- Outils
+description: PrestaShop est la plateforme e-commerce open source n°1 en Europe. 300
+  000+ boutiques, 160+ pays, 60+ langues. Gratuit (self-hosted) ou dès 24€/mois (hébergé).
+  8.9K stars GitHub.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://prestashop.fr"
+u_site: https://prestashop.fr
 ---
 
 # PrestaShop

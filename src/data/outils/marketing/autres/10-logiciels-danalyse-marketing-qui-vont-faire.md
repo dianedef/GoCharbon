@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 10 Logiciels D'Analyse Marketing Qui Vont Faire Exploser Vos Ventes

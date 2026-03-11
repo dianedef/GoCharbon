@@ -3,8 +3,7 @@ section: blog
 title: 'Business Mobile : Enquêtes et Rewards'
 author: Diane
 tags:
-- Études de cas
-- Business Mobile
+- Business
 description: Profil business complet des apps d'enquêtes et rewards mobiles
 pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg

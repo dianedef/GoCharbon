@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Productivité
+- Outils
 title: Obsidian Tasks
 author: Diane
 description: 'Découvre Obsidian Tasks : outil français pour entrepreneurs, fonctionnalités

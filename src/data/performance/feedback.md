@@ -3,7 +3,7 @@ section: blog
 title: Feedback
 author: Diane
 tags:
-- CRM
+- Productivité
 description: 'Culture du feedback : donner, recevoir et intégrer les retours pour
   progresser en entreprise.'
 pubDate: '2024-03-25'

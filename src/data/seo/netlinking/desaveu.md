@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Désaveu de Liens : Guide Complet"
+title: 'Désaveu de Liens : Guide Complet'
 author: Diane
 tags:
-  - 'SEO'
-  - 'Désaveu'
-  - 'Netlinking'
-  - 'Backlinks'
+- SEO
 description: Guide complet sur le désaveu de liens toxiques pour le SEO
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

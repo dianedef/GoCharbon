@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: L'App De Rédaction Qui Va Faire De Vous Le Nouveau Victor Hugo Du Web

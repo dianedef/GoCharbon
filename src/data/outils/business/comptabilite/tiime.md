@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: tiime
 author: Diane
 tags:
-- Outils Français
-- CRM
-- Business
+- Outils
 description: 1. 2. Tiime est une solution tout-en-un pour les entrepreneurs et les
   PME. Elle permet de gérer votre entreprise depuis une seule application avec des
 pubDate: '2024-03-25'

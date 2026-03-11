@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Astro Et Obsidian Symlinks
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Astro Et Obsidian Symlinks : outil français pour entrepreneurs,
   fonctionnalités et avis.'
 pubDate: '2024-03-25'

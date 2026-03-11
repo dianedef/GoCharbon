@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Predikt Seo"
+title: Predikt Seo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "<a href='https://www.youtube.com/watch?v=JJBfSOvOB8o'>PrediktSEO : Lancement de l'Outils SEO (x3 En 1) = Kws + IA (OptiSEO) + Backlinks - YouTube</a> - ## 📊 SEO Predict : Logiciel "
-pubDate: "2024-03-25"
+- Outils
+description: '<a href=''https://www.youtube.com/watch?v=JJBfSOvOB8o''>PrediktSEO :
+  Lancement de l''Outils SEO (x3 En 1) = Kws + IA (OptiSEO) + Backlinks - YouTube</a>
+  - ## 📊 SEO Predict : Logiciel '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://app.predikt-seo.com/login"
+u_site: https://app.predikt-seo.com/login
 ---
 
 # Predikt Seo

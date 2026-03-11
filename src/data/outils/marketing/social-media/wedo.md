@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Wedo"
+title: Wedo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "WEDO est une plateforme collaborative qui vous permet d’optimiser la préparation et la réalisation de toutes vos réunions en équipe, afin d’améliorer votre productivité. Elle s’adr"
-pubDate: "2024-03-25"
+- Outils
+description: WEDO est une plateforme collaborative qui vous permet d’optimiser la
+  préparation et la réalisation de toutes vos réunions en équipe, afin d’améliorer
+  votre productivité. Elle s’adr
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://wedo.com"
+u_site: https://wedo.com
 ---
 
 # Wedo

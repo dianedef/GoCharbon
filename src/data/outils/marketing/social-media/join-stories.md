@@ -4,13 +4,12 @@ metadataEnrichedAt: null
 title: Join Stories
 author: Diane
 tags:
-  - 'Outils Francais'
-  - 'Social Media'
-  - 'Marketing'
+- Outils
 imageNameKey: join-stories
-u_site: "https://join-stories.com"
+u_site: https://join-stories.com
 u_affi: null
-description: "Join Stories : solution francaise de video commerce par web stories. +300 marques, +6,4% conversion, +19% ajout panier. Demo gratuite."
+description: 'Join Stories : solution francaise de video commerce par web stories.
+  +300 marques, +6,4% conversion, +19% ajout panier. Demo gratuite.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

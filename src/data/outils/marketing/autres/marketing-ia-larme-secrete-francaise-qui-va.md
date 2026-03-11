@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Marketing Ia L'Arme Secrète Française Qui Va Pulvériser Vos Objectifs

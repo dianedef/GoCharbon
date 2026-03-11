@@ -3,12 +3,9 @@ section: blog
 title: Guide Complet des Plateformes en Ligne
 author: Diane
 tags:
-  - 'Plateformes'
-  - 'Digital'
-  - 'Business'
-  - 'Web'
+- Business
 description: Guide complet sur les plateformes digitales et leur utilisation
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 # Plateformes de Vente : Optimiser sa Distribution

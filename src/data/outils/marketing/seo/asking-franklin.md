@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Asking Franklin"
+title: Asking Franklin
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-description: "Asking Franklin est un assistant IA français pour la rédaction SEO. Analyse des recherches Google, génération de contenu optimisé, analyse SERP. Alternative française à AnswerThePublic."
-pubDate: "2024-03-25"
+- Outils
+description: Asking Franklin est un assistant IA français pour la rédaction SEO. Analyse
+  des recherches Google, génération de contenu optimisé, analyse SERP. Alternative
+  française à AnswerThePublic.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.askingfranklin.com"
+u_site: https://www.askingfranklin.com
 ---
 
 # Asking Franklin

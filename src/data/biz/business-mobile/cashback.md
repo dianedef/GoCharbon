@@ -3,10 +3,7 @@ section: blog
 title: 'Business Mobile : Cashback'
 author: Diane
 tags:
-- E-commerce
-- Business Mobile
-- Revenus
-- Finance
+- Business
 description: Profil business complet des apps de cashback mobiles avec les 8 apps
   françaises
 pubDate: '2026-01-17'

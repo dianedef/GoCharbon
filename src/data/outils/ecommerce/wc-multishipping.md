@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "WcMultiShipping"
+title: WcMultiShipping
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "WcMultiShipping est le plugin WooCommerce pour Mondial Relay, Chronopost et InPost. 5.0/5 WordPress, 5K+ installations, millions d'étiquettes. Dès 49$/an."
-pubDate: "2024-03-25"
+- Outils
+description: WcMultiShipping est le plugin WooCommerce pour Mondial Relay, Chronopost
+  et InPost. 5.0/5 WordPress, 5K+ installations, millions d'étiquettes. Dès 49$/an.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.wcmultishipping.com"
+u_site: https://www.wcmultishipping.com
 ---
 
 # WcMultiShipping

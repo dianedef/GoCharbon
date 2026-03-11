@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "workin"
+title: workin
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "[Facebook](https://www.facebook.com/WorkinSpaceFR/) [twitter.com/WorkinSpaceFR](https://twitter.com/WorkinSpaceFR) [workin.space: Overview | LinkedIn](https://www.linkedin.com/comp"
-pubDate: "2024-03-25"
+- Outils
+description: '[Facebook](https://www.facebook.com/WorkinSpaceFR/) [twitter.com/WorkinSpaceFR](https://twitter.com/WorkinSpaceFR)
+  [workin.space: Overview | LinkedIn](https://www.linkedin.com/comp'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://workin.space"
+u_site: https://workin.space
 ---
 
 # workin

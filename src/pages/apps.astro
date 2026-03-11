@@ -4,15 +4,16 @@ import Layout from "../layouts/Default.astro";
 import PostGrid from "../components/components/PostGrid.astro";
 import Button from "../components/components/Button.astro";
 import { applyContentScope } from "../utils/content-section";
+import { filterBuildVisiblePosts } from "../utils/build-posts";
 
-const posts = applyContentScope(await getCollection("posts"), "apps")
+const posts = applyContentScope(filterBuildVisiblePosts(await getCollection("posts")), "apps")
 	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 const visiblePosts = posts.slice(0, 30);
 const pillarTags = [
-	{ label: "Outils Français", href: "/tag/outils-francais" },
-	{ label: "Automatisation", href: "/tag/automatisation" },
-	{ label: "IA", href: "/tag/ia" },
-	{ label: "SaaS", href: "/tag/saas" },
+	{ label: "Outils", href: "/tag/outils" },
+	{ label: "Tech", href: "/tag/tech" },
+	{ label: "Business", href: "/tag/business" },
+	{ label: "Marketing", href: "/tag/marketing" },
 ];
 ---
 

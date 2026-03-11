@@ -5,8 +5,7 @@ type: Blog
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Idées Tirées De Neuroscience Pour Connecter Avec Votre Client
 author: Diane
 description: 'Découvre Idées Tirées De Neuroscience Pour Connecter Avec Votre Client

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "leeway"
+title: leeway
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Legal'
-  - 'Business'
-description: "Le logiciel Leeway est une solution puissante pour la gestion des contrats, aidant les entreprises à réduire le temps consacré à cette tâche cruciale, tout en offrant un meilleur c"
-pubDate: "2024-03-25"
+- Outils
+description: Le logiciel Leeway est une solution puissante pour la gestion des contrats,
+  aidant les entreprises à réduire le temps consacré à cette tâche cruciale, tout
+  en offrant un meilleur c
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.getleeway.com/fr/"
+u_site: https://www.getleeway.com/fr/
 ---
 
 # leeway

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Acceptez Des Paiements En Ligne Comme Un Pro Et Devenez Riche En 30 Jours

@@ -3,8 +3,7 @@ section: blog
 title: Management
 author: Diane
 tags:
-- Management
-- RH
+- Business
 description: 'Management d''équipe : techniques, motivation et leadership pour dirigeants
   de PME.'
 pubDate: '2024-03-25'

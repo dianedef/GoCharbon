@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: L'Ia Qui Fact Check Mieux Que Les Journalistes La Fin Des Fake News

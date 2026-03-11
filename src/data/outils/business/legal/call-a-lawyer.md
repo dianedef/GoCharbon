@@ -3,8 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Business
+- Outils
 imageNameKey: callalawyer
 u_site: https://callalawyer.fr
 u_affi: null

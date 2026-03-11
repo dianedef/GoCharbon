@@ -4,8 +4,7 @@ metadataEnrichedAt: null
 type:
 - app
 tags:
-- Outils Français
-- Création
+- Outils
 imageNameKey: gifing
 u_site: https://gifing.com
 u_affi: https://giff1.com/WFXRQK

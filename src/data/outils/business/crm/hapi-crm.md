@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "H.api CRM"
+title: H.api CRM
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "H.api CRM est une solution française d'emailing et CRM par MMCréation. Gestion de newsletters, templates, statistiques. Dès 50€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: H.api CRM est une solution française d'emailing et CRM par MMCréation.
+  Gestion de newsletters, templates, statistiques. Dès 50€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://about.hapicrm.com/fr/"
+u_site: https://about.hapicrm.com/fr/
 ---
 
 🔹✅💡🥊🛡️🔇🧠📣🎁🏆📚🛠💥🙌😱❌✂️

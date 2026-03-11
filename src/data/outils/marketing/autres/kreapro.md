@@ -8,9 +8,7 @@ _priorité: null
 imageNameKey: null
 datePublié: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 u_interne: null
 u_externe: null
 u_site: https://www.kreapro.fr

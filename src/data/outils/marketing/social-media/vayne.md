@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "vayne"
+title: vayne
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "Vayne est un logiciel puissant conçu pour aider les entrepreneurs à générer rapidement des fichiers de prospection avec des e-mails à partir de LinkedIn, tout en développant leurs "
-pubDate: "2024-03-25"
+- Outils
+description: 'Vayne est un logiciel puissant conçu pour aider les entrepreneurs à
+  générer rapidement des fichiers de prospection avec des e-mails à partir de LinkedIn,
+  tout en développant leurs '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.vayne.io/fr"
+u_site: https://www.vayne.io/fr
 ---
 
 # vayne

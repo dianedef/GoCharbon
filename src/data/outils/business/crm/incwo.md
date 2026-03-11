@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Incwo"
+title: Incwo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Incwo est un ERP/CRM français modulaire pour TPE-PME. Facturation NF 525, gestion commerciale, stocks, achats, caisse iPad. 5000+ clients, 15+ ans. Dès 13€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Incwo est un ERP/CRM français modulaire pour TPE-PME. Facturation NF
+  525, gestion commerciale, stocks, achats, caisse iPad. 5000+ clients, 15+ ans. Dès
+  13€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.incwo.com"
+u_site: https://www.incwo.com
 ---
 
 # Incwo

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Alan"
+title: Alan
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Légal'
-  - 'Business'
-description: "1. Alan est une néobanque française qui propose une alternative aux banques traditionnelles. Elle offre une gamme de services bancaires en ligne, y compris la gestion de comptes co"
-pubDate: "2024-03-25"
+- Outils
+description: 1. Alan est une néobanque française qui propose une alternative aux banques
+  traditionnelles. Elle offre une gamme de services bancaires en ligne, y compris
+  la gestion de comptes co
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://alan.com/"
+u_site: https://alan.com/
 ---
 
 # Alan

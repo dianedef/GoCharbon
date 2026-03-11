@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
-- Email
+- Outils
 imageNameKey: the-good-count
 title: The Good Count
 author: Diane

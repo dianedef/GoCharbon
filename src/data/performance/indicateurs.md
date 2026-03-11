@@ -3,9 +3,7 @@ section: blog
 title: Indicateurs
 author: Diane
 tags:
-- Business
-- Analytics
-- Indicateurs
+- Productivité
 description: 'KPIs et indicateurs de performance : métriques essentielles pour piloter
   ton business.'
 pubDate: '2024-03-25'

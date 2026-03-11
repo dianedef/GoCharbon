@@ -3,10 +3,7 @@ section: blog
 title: 'Business Mobile : Affiliation Mobile'
 author: Diane
 tags:
-- Affiliation
-- Business Mobile
-- Revenus
-- Marketing
+- Business
 description: Profil business complet des apps d'affiliation mobiles
 pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg

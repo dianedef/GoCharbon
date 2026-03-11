@@ -4,8 +4,6 @@ title: Consulting / Conseil Stratégique
 author: Web Indé
 tags:
 - Business
-- Freelancing
-- Entrepreneuriat
 description: 'Deviens consultant indépendant : expertise, prospection, tarification
   et fidélisation clients pour réussir.'
 pubDate: '2024-01-01'

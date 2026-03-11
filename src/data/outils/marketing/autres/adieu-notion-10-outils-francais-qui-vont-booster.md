@@ -6,8 +6,7 @@ statut:
 - en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Adieu Notion 10 Outils Français Qui Vont Booster Votre Créativité
 author: Diane
 description: 'Découvre Adieu Notion 10 Outils Français Qui Vont Booster Votre Créativité

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 8 Astuces De Gestion Du Temps Qui Vont Faire De Vous Un Dieu De La Productivité

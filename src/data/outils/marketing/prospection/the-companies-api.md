@@ -3,8 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: the-compaines-api
 u_site: https://www.thecompaniesapi.com/
 u_affi: no-aff

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
+- Outils
 title: Plugin Obsidian Pour Les Développeurs Le Code Extensions
 author: Diane
 description: 'Découvre Plugin Obsidian Pour Les Développeurs Le Code Extensions :

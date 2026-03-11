@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Letsignit"
+title: Letsignit
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Facturation'
-  - 'Business'
-description: "Grâce à Letsignit, tu peux créer, gérer, et déployer des signatures mail Outlook et des campagnes marketing pour toute ton entreprise en toute simplicité. Voici les principaux avan"
-pubDate: "2024-03-25"
+- Outils
+description: Grâce à Letsignit, tu peux créer, gérer, et déployer des signatures mail
+  Outlook et des campagnes marketing pour toute ton entreprise en toute simplicité.
+  Voici les principaux avan
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.letsignit.fr"
+u_site: https://www.letsignit.fr
 ---
 
 # Letsignit

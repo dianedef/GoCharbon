@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: mailo
 u_site: https://www.mailo.com
 u_affi: null

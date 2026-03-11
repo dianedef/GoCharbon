@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Comment Créer Son Offre Irrésistible
 author: Diane
 description: 'Découvre Comment Créer Son Offre Irrésistible : outil français pour

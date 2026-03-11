@@ -2,10 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- SEO
-- Tech
-- IA
+- Outils
 seo_aucune balise intitle: false
 yt_chaînes <5000: false
 yt_VPH: ''

@@ -1,13 +1,12 @@
 ---
 section: blog
-title: "Scraping IA : Les Outils qui Révolutionnent l'Extraction de Données"
+title: 'Scraping IA : Les Outils qui Révolutionnent l''Extraction de Données'
 author: Diane
 tags:
-  - 'Scraping'
-  - 'IA'
-  - 'Automatisation'
-description: "Découvre comment l'IA transforme le web scraping et les meilleurs outils pour automatiser tes extractions de données."
-pubDate: "2024-03-25"
+- Tech
+description: Découvre comment l'IA transforme le web scraping et les meilleurs outils
+  pour automatiser tes extractions de données.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

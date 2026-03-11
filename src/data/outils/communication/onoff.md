@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "onoff"
+title: onoff
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Avec Onoff App, tu peux obtenir un deuxième numéro de téléphone pour ton entreprise, sans avoir besoin d'une seconde carte SIM ni d'un second téléphone. Les avantages clés incluent"
-pubDate: "2024-03-25"
+- Outils
+description: Avec Onoff App, tu peux obtenir un deuxième numéro de téléphone pour
+  ton entreprise, sans avoir besoin d'une seconde carte SIM ni d'un second téléphone.
+  Les avantages clés incluent
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.onoff.app/fr/"
+u_site: https://www.onoff.app/fr/
 ---
 
 # onoff

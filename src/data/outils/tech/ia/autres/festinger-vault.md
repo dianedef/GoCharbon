@@ -11,9 +11,7 @@ projet:
 title: Festinger Vault
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Festinger Vault : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

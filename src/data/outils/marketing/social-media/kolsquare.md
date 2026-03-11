@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: kolsquare
 u_site: https://www.kolsquare.com/fr/
 u_affi: null

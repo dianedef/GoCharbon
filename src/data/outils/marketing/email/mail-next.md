@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Mail next"
+title: Mail next
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "Augmentation des ventes Ciblage précis des contacts Respect du RGPD Statistiques détaillées Entrepreneurs Responsables Marketing Chefs de produit Directeurs Marketing ♻ Mailchimp ♻"
-pubDate: "2024-03-25"
+- Outils
+description: Augmentation des ventes Ciblage précis des contacts Respect du RGPD Statistiques
+  détaillées Entrepreneurs Responsables Marketing Chefs de produit Directeurs Marketing
+  ♻ Mailchimp ♻
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.mail-next.net/"
+u_site: https://www.mail-next.net/
 ---
 
 # Mail next

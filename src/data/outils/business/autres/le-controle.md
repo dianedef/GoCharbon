@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
+- Outils
 title: Le Controle
 author: Diane
 description: 'Découvre Le Controle : outil français pour entrepreneurs, fonctionnalités

@@ -15,6 +15,9 @@ import type { Post } from './types/content';
 import { commonCombinations, paginationConfig } from '../config/tags';
 import { tagHierarchy } from '../components/tagHierarchy';
 import { applyContentScope, type ContentScope } from './content-section';
+import { MAIN_TAGS, extractMainTags, resolveTagToMain } from './tag-groups';
+import { normalizeTag } from './tags';
+import { filterBuildVisiblePosts } from './build-posts';
 
 /**
  * Normalise une chaîne en retirant les accents et en mettant en minuscules
@@ -116,12 +119,12 @@ export async function getTagPosts(
     scope: ContentScope = 'all',
     perPage: number = paginationConfig.defaultPerPage
 ): Promise<Post[]> {
-    const allPosts = applyContentScope(await getCollection('posts'), scope);
-    const normalizedSearchTag = normalizeString(tag);
+    const mainTag = resolveTagToMain(tag);
+    if (!mainTag) return [];
+
+    const allPosts = applyContentScope(filterBuildVisiblePosts(await getCollection('posts')), scope);
     const filteredPosts = allPosts
-        .filter(post => 
-            post.data.tags.some(t => normalizeString(t) === normalizedSearchTag)
-        )
+        .filter(post => extractMainTags(post.data.tags).includes(mainTag))
         .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 
     const safePerPage = Number.isFinite(perPage) && perPage > 0 ? Math.floor(perPage) : paginationConfig.defaultPerPage;
@@ -179,22 +182,16 @@ export async function getFilteredPosts(
         return [];
     }
 
-    const { mainTags, subTagsByParent } = groupTagsByParent(tags);
+    const mainTagsToSearch = [...new Set(tags.map((tag) => resolveTagToMain(tag)).filter((tag): tag is string => !!tag))];
+    if (!mainTagsToSearch.length) return [];
 
-    const tagsToSearch = [
-        ...mainTags,
-        ...Object.values(subTagsByParent).flat()
-    ];
-
-    const normalizedTagsToSearch = tagsToSearch.map(tag => normalizeString(tag));
-
-    const allPosts = applyContentScope(await getCollection('posts'), scope);
+    const allPosts = applyContentScope(filterBuildVisiblePosts(await getCollection('posts')), scope);
 
     const filteredPosts = allPosts
         .filter(post => {
-            const normalizedPostTags = post.data.tags.map(t => normalizeString(t));
-            return normalizedTagsToSearch.every(searchTag =>
-                normalizedPostTags.includes(searchTag)
+            const postMainTags = extractMainTags(post.data.tags);
+            return mainTagsToSearch.every(searchTag =>
+                postMainTags.includes(searchTag)
             );
         })
         .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
@@ -220,9 +217,7 @@ export async function getFilteredPosts(
  * isMainTag("backlinks") // false (c'est un sous-tag)
  */
 export function isMainTag(tag: string): boolean {
-    const normalizedTag = normalizeString(tag);
-    const mainTagsSet = new Set(Object.keys(tagHierarchy).map(key => normalizeString(key as string)));
-    return mainTagsSet.has(normalizedTag);
+    return MAIN_TAGS.includes(normalizeTag(tag));
 }
 
 /**

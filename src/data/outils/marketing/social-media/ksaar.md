@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "ksaar"
+title: ksaar
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: " [Ksaar: Overview | LinkedIn](https://www.linkedin.com/company/ksaar/) Ksaar permet aux entrepreneurs de créer des applications personnalisées sans coder, ce qui le"
-pubDate: "2024-03-25"
+- Outils
+description: ' [Ksaar: Overview | LinkedIn](https://www.linkedin.com/company/ksaar/)
+  Ksaar permet aux entrepreneurs de créer des applications personnalisées sans coder,
+  ce qui le'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.ksaar.com"
+u_site: https://www.ksaar.com
 ---
 
 # ksaar

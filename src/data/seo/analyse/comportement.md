@@ -3,11 +3,10 @@ section: blog
 title: Analyse Comportementale SEO
 author: Diane
 tags:
-  - 'SEO'
-  - 'Audit'
-  - 'Analytics'
-description: Guide complet pour comprendre et optimiser le comportement des utilisateurs sur votre site
-pubDate: "2024-03-25"
+- SEO
+description: Guide complet pour comprendre et optimiser le comportement des utilisateurs
+  sur votre site
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

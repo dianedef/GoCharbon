@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Api Obsidian
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Api Obsidian : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

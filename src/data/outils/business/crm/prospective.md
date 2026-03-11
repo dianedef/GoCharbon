@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Prospective"
+title: Prospective
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Prospective est un logiciel français de gestion de contacts pour indépendants et TPE. Fiches personnalisées, tâches, SMS, email, phoning. Depuis 2006. Par Matisoft."
-pubDate: "2024-03-25"
+- Outils
+description: Prospective est un logiciel français de gestion de contacts pour indépendants
+  et TPE. Fiches personnalisées, tâches, SMS, email, phoning. Depuis 2006. Par Matisoft.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.prospective-fr.com"
+u_site: https://www.prospective-fr.com
 ---
 
 # Prospective

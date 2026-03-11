@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Linkedin Vs Gmaps Quel Scraping Va Vous Rendre Riche La Vérité Choc

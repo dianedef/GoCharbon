@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: L'Ia Selon Bill Gates Les Prédictions Choc Qui Vont Vous Faire Trembler

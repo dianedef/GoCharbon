@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: '100 Secrets Seo Époustouflants D''Un Gourou De 10 Ans   Le #47 Va Vous Choquer'

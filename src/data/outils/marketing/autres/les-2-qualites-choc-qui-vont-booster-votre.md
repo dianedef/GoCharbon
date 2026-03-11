@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les 2 Qualités Choc Qui Vont Booster Votre Productivité À 1000%
 author: Diane

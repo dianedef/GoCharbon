@@ -1,14 +1,12 @@
 ---
 section: blog
-title: "Optimisation de la Vitesse : Guide Complet"
+title: 'Optimisation de la Vitesse : Guide Complet'
 author: Diane
 tags:
-  - 'SEO'
-  - 'Performance'
-  - 'Vitesse'
-  - 'Technique'
-description: "Guide complet sur l'optimisation de la vitesse des sites web pour le SEO"
-pubDate: "2024-03-25"
+- SEO
+description: Guide complet sur l'optimisation de la vitesse des sites web pour le
+  SEO
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

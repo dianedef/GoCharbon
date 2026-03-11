@@ -67,6 +67,7 @@
 - [x] 🟡 dist reduced from 637 MB to 553 MB (84 MB / 13% saved)
 
 **Remaining:**
-- [ ] 🟡 Complete legal pages (CGU, mentions légales, confidentialité) — empty placeholders, required by French law
+- [x] 🟡 Page confidentialité créée à `/confidentialite` avec bouton opt-out PostHog — 2026-03-10
+- [ ] 🟡 Compléter CGU et mentions légales — placeholders toujours vides, requis par la loi française
 - [ ] 🟡 Optimize tagHierarchy serialization — full object passed as prop to every tag page
 - [ ] 🟡 `trailingSlash: 'ignore'` in astro.config.ts — should be `'never'` per CLAUDE.md

@@ -3,12 +3,9 @@ section: blog
 title: Les Ressources Indispensables pour Développeurs Web
 author: Diane
 tags:
-  - 'Développement'
-  - 'Web'
-  - 'Productivité'
-  - 'Tech'
+- Tech
 description: Guide complet des ressources et outils pour développeurs web
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

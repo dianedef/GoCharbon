@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
+- Outils
 title: Comment Gagner De L'Argent Sur Le Web
 author: Diane
 description: 'Découvre Comment Gagner De L''Argent Sur Le Web : outil français pour

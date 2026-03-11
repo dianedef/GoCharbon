@@ -1,13 +1,12 @@
 ---
 section: blog
-title: "Marketing Digital : Guide Complet"
+title: 'Marketing Digital : Guide Complet'
 author: Diane
 tags:
-  - 'Marketing'
-  - 'Business'
-  - 'Stratégie'
-description: Maîtrise le marketing digital avec nos stratégies éprouvées pour développer ton entreprise en ligne
-pubDate: "2026-01-17"
+- Marketing
+description: Maîtrise le marketing digital avec nos stratégies éprouvées pour développer
+  ton entreprise en ligne
+pubDate: '2026-01-17'
 imgUrl: ../../assets/astro.jpeg
 ---
 

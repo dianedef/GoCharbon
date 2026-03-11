@@ -3,8 +3,7 @@ section: blog
 title: Crowdfunding
 author: Diane
 tags:
-- Crowdfunding
-- Financement
+- Business
 description: 'Guide crowdfunding : plateformes, campagnes et stratégies pour financer
   ton projet par la foule.'
 pubDate: '2024-03-25'

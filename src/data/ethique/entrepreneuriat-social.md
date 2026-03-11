@@ -3,7 +3,7 @@ section: blog
 title: Entrepreneuriat Social
 author: Diane
 tags:
-- Éthique
+- Business
 description: 'L''entrepreneuriat social expliqué : modèles économiques, impact et
   stratégies pour entreprises à mission sociale.'
 pubDate: '2024-03-25'

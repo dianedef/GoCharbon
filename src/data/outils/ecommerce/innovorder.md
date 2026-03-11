@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Innovorder"
+title: Innovorder
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "Innovorder est la suite digitale française pour la restauration. Caisse, bornes, IA Scan, commande en ligne, fidélité. 2500+ restaurants, 17K points de vente. 11M€ levés. NF525."
-pubDate: "2024-03-25"
+- Outils
+description: Innovorder est la suite digitale française pour la restauration. Caisse,
+  bornes, IA Scan, commande en ligne, fidélité. 2500+ restaurants, 17K points de vente.
+  11M€ levés. NF525.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.innovorder.com"
+u_site: https://www.innovorder.com
 ---
 
 # Innovorder

@@ -13,8 +13,7 @@ statut:
 type:
 - Logiciel
 tags:
-- Outils Français
-- Tech
+- Outils
 title: O2Switch
 author: Diane
 description: 'Découvre O2Switch : outil français pour entrepreneurs, fonctionnalités

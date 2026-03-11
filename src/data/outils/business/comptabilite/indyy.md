@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Indy"
+title: Indy
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Indy (ex-Georges) est l'app de comptabilité automatisée pour indépendants. Catégorisation IA, déclarations fiscales, factures et compte bancaire intégré. 44M$ levés en Series B."
-pubDate: "2024-03-25"
+- Outils
+description: Indy (ex-Georges) est l'app de comptabilité automatisée pour indépendants.
+  Catégorisation IA, déclarations fiscales, factures et compte bancaire intégré. 44M$
+  levés en Series B.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.weareindy.com"
+u_site: https://www.weareindy.com
 ---
 
 # Indy

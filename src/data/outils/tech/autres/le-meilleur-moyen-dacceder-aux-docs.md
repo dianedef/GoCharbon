@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
+- Outils
 title: Le Meilleur Moyen D'Accéder Aux Docs
 author: Diane
 description: 'Découvre Le Meilleur Moyen D''Accéder Aux Docs : outil français pour

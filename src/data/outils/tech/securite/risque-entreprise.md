@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
+- Outils
 title: Risque Entreprise
 author: Diane
 description: 'Découvre Risque Entreprise : outil français pour entrepreneurs, fonctionnalités

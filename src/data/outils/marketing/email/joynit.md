@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "joynit"
+title: joynit
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "Joynit est une plateforme sociale française pour créer des événements en ligne et gérer les invitations avec simplicité. - Joynit est une plateforme sociale made in France pour cré"
-pubDate: "2024-03-25"
+- Outils
+description: Joynit est une plateforme sociale française pour créer des événements
+  en ligne et gérer les invitations avec simplicité. - Joynit est une plateforme sociale
+  made in France pour cré
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.joynit.fr"
+u_site: https://www.joynit.fr
 ---
 
 # joynit

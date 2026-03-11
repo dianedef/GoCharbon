@@ -3,7 +3,7 @@ section: blog
 title: Retention
 author: Diane
 tags:
-- CRM
+- Marketing
 description: 'Stratégies de rétention client : fidélisation, churn et techniques pour
   garder tes clients.'
 pubDate: '2024-03-25'

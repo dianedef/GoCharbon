@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Productivité
+- Outils
 imageNameKey: null
 seo_motClef: null
 u_site: null

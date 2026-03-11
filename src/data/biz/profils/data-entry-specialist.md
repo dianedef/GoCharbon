@@ -4,7 +4,6 @@ title: Data Entry Specialist / Spécialiste Saisie de Données
 author: Web Indé
 tags:
 - Business
-- Freelancing
 description: 'Lance-toi dans la saisie de données : outils, plateformes de freelance
   et stratégies pour décrocher des missions.'
 pubDate: '2024-01-01'

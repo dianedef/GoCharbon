@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: La Plateforme De Création De Formation Qui Va Vous Rendre Millionnaire
 author: Diane

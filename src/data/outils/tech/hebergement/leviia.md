@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: leviia
 u_site: https://www.leviia.com
 u_affi: null

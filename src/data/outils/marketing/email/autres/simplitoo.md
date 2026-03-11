@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Email
+- Outils
 imageNameKey: simplitoo
 u_site: null
 title: Simplitoo

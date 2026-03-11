@@ -4,13 +4,12 @@ metadataEnrichedAt: null
 title: Ordalie
 author: Diane
 tags:
-- Outils Français
-- Business
-- Tech
-description: "Ordalie : IA juridique française souveraine pour avocats et juristes. Réduit 80% du temps de recherche. 170+ clients. 1,8M€ levés."
+- Outils
+description: 'Ordalie : IA juridique française souveraine pour avocats et juristes.
+  Réduit 80% du temps de recherche. 170+ clients. 1,8M€ levés.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://ordalie.tech"
+u_site: https://ordalie.tech
 ---
 
 # Ordalie

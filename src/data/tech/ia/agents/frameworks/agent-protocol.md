@@ -3,7 +3,6 @@ section: blog
 title: 'Agent Protocol : Le Standard Des Agents IA'
 author: Diane
 tags:
-- IA
 - Tech
 description: Comprendre et utiliser le protocole standard pour la communication entre
   agents IA

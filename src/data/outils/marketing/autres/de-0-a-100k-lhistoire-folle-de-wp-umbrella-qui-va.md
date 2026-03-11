@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: De 0 À 100K€ L'Histoire Folle De Wp Umbrella Qui Va Vous Inspirer

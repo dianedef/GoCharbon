@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Infonet"
+title: Infonet
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "**Sources & Partenaires :** - Bodacc - Infogreffe - Nota PME - Altares - SmartData - INPI - Data Gouv - INSEE - RNCS Infonet + s’adresse exclusivement aux professionnels souhaitant"
-pubDate: "2024-03-25"
+- Outils
+description: '**Sources & Partenaires :** - Bodacc - Infogreffe - Nota PME - Altares
+  - SmartData - INPI - Data Gouv - INSEE - RNCS Infonet + s’adresse exclusivement
+  aux professionnels souhaitant'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://infonet.fr"
+u_site: https://infonet.fr
 ---
 
 # Infonet

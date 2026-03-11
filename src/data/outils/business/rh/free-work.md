@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Free-Work"
+title: Free-Work
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'RH'
-  - 'Business'
-description: "[Société Free-Work : Overview | LinkedIn](https://www.linkedin.com/company/agsi-it/) [Facebook](https://www.facebook.com/Freework.tech) [twitter.com/freework_tech](https://twitter."
-pubDate: "2024-03-25"
+- Outils
+description: '[Société Free-Work : Overview | LinkedIn](https://www.linkedin.com/company/agsi-it/)
+  [Facebook](https://www.facebook.com/Freework.tech) [twitter.com/freework_tech](https://twitter.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.free-work.com/fr/tech-it"
+u_site: https://www.free-work.com/fr/tech-it
 ---
 
 # Free-Work

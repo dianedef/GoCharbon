@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: logiciel-musique-windows
 title: Le Lecteur De Musique Windows Qui Va Révolutionner Votre Expérience Audio
 author: Diane

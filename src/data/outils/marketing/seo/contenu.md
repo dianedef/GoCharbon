@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Contenu"
+title: Contenu
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Thot SEO est un outil d'optimisation de contenu développé par Paul Grillet, consultant SEO expérimenté. Il vise à améliorer le référencement des sites web en optimisant les textes "
-pubDate: "2024-03-25"
+- Outils
+description: 'Thot SEO est un outil d''optimisation de contenu développé par Paul
+  Grillet, consultant SEO expérimenté. Il vise à améliorer le référencement des sites
+  web en optimisant les textes '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://thot-seo.fr"
+u_site: https://thot-seo.fr
 ---
 
 # Contenu

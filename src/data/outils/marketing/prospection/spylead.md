@@ -3,8 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: splylead
 u_site: https://www.fr.spylead.com/
 title: Spylead

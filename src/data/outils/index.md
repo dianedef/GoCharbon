@@ -1,12 +1,14 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "LES MEILLEURS OUTILS FRANÇAIS POUR ENTREPRENEURS"
+title: LES MEILLEURS OUTILS FRANÇAIS POUR ENTREPRENEURS
 author: Diane
 tags:
-  - 'Outils Français'
-description: "Découvre notre sélection des meilleurs outils et logiciels français pour développer ton business. CRM, marketing, comptabilité, productivité - tous made in France."
-pubDate: "2024-03-25"
+- Outils
+description: Découvre notre sélection des meilleurs outils et logiciels français pour
+  développer ton business. CRM, marketing, comptabilité, productivité - tous made
+  in France.
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

@@ -2,7 +2,7 @@
 import type { Post, PostSummaryCardProps } from "../../utils/types/content";
 import Button from "./Button.vue";
 import Pill from "./Pill.vue";
-import { normalizeTag } from "../../utils/tags";
+import { extractMainTags, getMainTagLabel } from "../../utils/tag-groups";
 import { useRandomColor } from "../../composables/useRandomColor";
 import { computed } from "vue";
 
@@ -30,6 +30,8 @@ const imgSrc = computed(() => {
     }
     return data.imgUrl.src;
 });
+
+const mainTags = computed(() => extractMainTags(data.tags));
 </script>
 
 <template>
@@ -71,9 +73,9 @@ const imgSrc = computed(() => {
             <div class="hidden sm:inline-block mt-4">
                 <div class="flex justify-between items-center">
                     <ul class="flex flex-wrap gap-4 mt-2">
-                        <li v-for="tag in data.tags" :key="tag">
-                            <a class="sanchez text-sm md:text-base" :href="`/tag/${encodeURIComponent(normalizeTag(tag))}`">
-                                <Pill :content="tag">{{ tag }}</Pill>
+                        <li v-for="mainTag in mainTags" :key="mainTag">
+                            <a class="sanchez text-sm md:text-base" :href="`/tag/${encodeURIComponent(mainTag)}`">
+                                <Pill :content="getMainTagLabel(mainTag)">{{ getMainTagLabel(mainTag) }}</Pill>
                             </a>
                         </li>
                     </ul>

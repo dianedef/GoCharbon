@@ -4,9 +4,9 @@ metadataEnrichedAt: null
 title: Pappers
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Pappers : accès gratuit aux données de 22M+ d'entreprises françaises. API, scoring, surveillance. 3M d'utilisateurs mensuels."
+- Outils
+description: 'Pappers : accès gratuit aux données de 22M+ d''entreprises françaises.
+  API, scoring, surveillance. 3M d''utilisateurs mensuels.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.pappers.fr/

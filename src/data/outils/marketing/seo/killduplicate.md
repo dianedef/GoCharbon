@@ -4,10 +4,9 @@ metadataEnrichedAt: null
 title: Kill Duplicate
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Kill Duplicate detecte le contenu duplique et le plagiat. Outil francais par Paul Sanchez (SEOHackers). A partir de 19EUR/mois."
+- Outils
+description: Kill Duplicate detecte le contenu duplique et le plagiat. Outil francais
+  par Paul Sanchez (SEOHackers). A partir de 19EUR/mois.
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://app.killduplicate.com/fr

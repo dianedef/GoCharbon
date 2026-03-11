@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
+- Outils
 imageNameKey: null
 title: Trouver Un Sens À Sa Vie, Son Pourquoi
 author: Diane

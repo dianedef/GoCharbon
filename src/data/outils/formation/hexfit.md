@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: hexfit
 u_site: https://www.myhexfit.com/fr-fr/
 u_affi: null

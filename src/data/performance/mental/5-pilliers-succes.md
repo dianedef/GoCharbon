@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Les Clés du Succès Entrepreneurial : Guide Complet"
+title: 'Les Clés du Succès Entrepreneurial : Guide Complet'
 author: Diane
 tags:
-  - 'Succès'
-  - 'Entrepreneuriat'
-  - 'Business'
-  - 'Développement'
+- Productivité
 description: Guide complet sur les clés du succès en entrepreneuriat
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -3,8 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Business
+- Outils
 imageNameKey: doctrine
 u_site: https://www.doctrine.fr
 u_affi: null

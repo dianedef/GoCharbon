@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Qontrol"
+title: Qontrol
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Tech'
-  - 'Sécurité'
-description: "xLes petites entreprises ont du mal à projeter une image de confiance à leur clients organiser les bonnes briques de la sécurité outils culture et process interne la politique cybe"
-pubDate: "2024-03-25"
+- Outils
+description: xLes petites entreprises ont du mal à projeter une image de confiance
+  à leur clients organiser les bonnes briques de la sécurité outils culture et process
+  interne la politique cybe
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.qontrol.io"
+u_site: https://www.qontrol.io
 ---
 
 # Qontrol

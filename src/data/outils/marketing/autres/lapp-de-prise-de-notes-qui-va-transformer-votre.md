@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: L'App De Prise De Notes Qui Va Transformer Votre Cerveau En Superordinateur
 author: Diane

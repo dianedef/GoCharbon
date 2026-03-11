@@ -4,7 +4,6 @@ title: Lead Nurturing
 author: Diane
 tags:
 - Marketing
-- CRM
 description: Guide complet sur le nurturing des prospects et clients
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg

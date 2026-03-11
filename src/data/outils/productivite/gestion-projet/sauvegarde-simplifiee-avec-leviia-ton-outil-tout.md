@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Leviia"
+title: Leviia
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-  - 'Gestion de projet'
-description: "Leviia est le cloud souverain français de sauvegarde et stockage S3. HDS + ISO 27001, 9,99€/To/mois. 500+ clients. 3x moins cher qu'AWS. 100% open source."
-pubDate: "2024-03-25"
+- Outils
+description: Leviia est le cloud souverain français de sauvegarde et stockage S3.
+  HDS + ISO 27001, 9,99€/To/mois. 500+ clients. 3x moins cher qu'AWS. 100% open source.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.leviia.com"
+u_site: https://www.leviia.com
 ---
 
 # Leviia

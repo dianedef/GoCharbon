@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Evoliz"
+title: Evoliz
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Evoliz est un logiciel français de facturation et comptabilité pour TPE, artisans et freelances. Racheté par Visma en 2025. Devis, factures, gestion des achats et synchronisation bancaire."
-pubDate: "2024-03-25"
+- Outils
+description: Evoliz est un logiciel français de facturation et comptabilité pour TPE,
+  artisans et freelances. Racheté par Visma en 2025. Devis, factures, gestion des
+  achats et synchronisation bancaire.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.evoliz.com"
+u_site: https://www.evoliz.com
 ---
 
 # Evoliz

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Créez Des Présentations Si Incroyables Qu'Elles Vont Hypnotiser Votre Audience
 author: Diane
 description: 'Découvre Créez Des Présentations Si Incroyables Qu''Elles Vont Hypnotiser

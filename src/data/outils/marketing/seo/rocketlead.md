@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Rocketlead"
+title: Rocketlead
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Rocketlead etait une base de donnees B2B francaise de 13 millions de societes. Le service a ferme en mars 2025."
-pubDate: "2024-03-25"
+- Outils
+description: Rocketlead etait une base de donnees B2B francaise de 13 millions de
+  societes. Le service a ferme en mars 2025.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.rocketlead.fr/"
+u_site: https://www.rocketlead.fr/
 ---
 
 # Rocketlead

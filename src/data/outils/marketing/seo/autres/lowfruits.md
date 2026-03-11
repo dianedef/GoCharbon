@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 title: Lowfruits
 author: Diane
 description: 'Découvre Lowfruits : outil français pour entrepreneurs, fonctionnalités

@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "reputation"
+title: reputation
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "B-Reputation est une solution essentielle pour les entrepreneurs en France. Cette plateforme offre une vue à 360° sur plus de 11 millions d'entreprises et 5 millions de dirigeants,"
-pubDate: "2024-03-25"
+- Outils
+description: B-Reputation est une solution essentielle pour les entrepreneurs en France.
+  Cette plateforme offre une vue à 360° sur plus de 11 millions d'entreprises et 5
+  millions de dirigeants,
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://b-reputation.com/fr"
+u_site: https://b-reputation.com/fr
 ---
 
 # reputation

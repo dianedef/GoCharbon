@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Cashpad"
+title: Cashpad
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "Cashpad est une caisse enregistreuse iPad Made in France pour la restauration. 11 000 caisses en Europe. 3x plus rapide. Click & collect, bornes, KDS, Tap to Pay. Certifié NF525."
-pubDate: "2024-03-25"
+- Outils
+description: Cashpad est une caisse enregistreuse iPad Made in France pour la restauration.
+  11 000 caisses en Europe. 3x plus rapide. Click & collect, bornes, KDS, Tap to Pay.
+  Certifié NF525.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.cashpad.io"
+u_site: https://www.cashpad.io
 ---
 
 # Cashpad

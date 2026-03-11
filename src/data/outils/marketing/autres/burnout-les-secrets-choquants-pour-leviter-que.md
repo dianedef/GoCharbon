@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Burnout Les Secrets Choquants Pour L'Éviter Que Votre Patron Ne Veut Pas Que

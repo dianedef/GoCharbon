@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: derisqueur
 u_site: https://www.derisqueur.fr/le-derisqueur/
 u_affi: null

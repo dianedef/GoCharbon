@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Lucca"
+title: Lucca
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Légal'
-  - 'Business'
-description: "Lucca est un _**SIRH à la carte**_ qui vient répondre aux besoins de dématérialisation des entreprises. Il est modulable pour répondre au plus près à vos attentes. Avec ses différe"
-pubDate: "2024-03-25"
+- Outils
+description: Lucca est un _**SIRH à la carte**_ qui vient répondre aux besoins de
+  dématérialisation des entreprises. Il est modulable pour répondre au plus près à
+  vos attentes. Avec ses différe
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.lucca.fr"
+u_site: https://www.lucca.fr
 ---
 
 # Lucca

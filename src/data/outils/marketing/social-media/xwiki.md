@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "xwiki"
+title: xwiki
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "XWiki est un logiciel SaaS innovant qui révolutionne la manière dont les entreprises gèrent leurs connaissances. Dans cette revue, nous allons plonger dans les détails de ce logici"
-pubDate: "2024-03-25"
+- Outils
+description: XWiki est un logiciel SaaS innovant qui révolutionne la manière dont
+  les entreprises gèrent leurs connaissances. Dans cette revue, nous allons plonger
+  dans les détails de ce logici
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://xwiki.com/fr/"
+u_site: https://xwiki.com/fr/
 ---
 
 # xwiki

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: null
 title: Les Secret De Gorgias, L'Orateur Le Plus Prisé D'Athènes
 author: Diane

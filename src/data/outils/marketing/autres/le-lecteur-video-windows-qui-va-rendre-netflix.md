@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Le Lecteur Vidéo Windows Qui Va Rendre Netflix Obsolète
 author: Diane
 description: 'Découvre Le Lecteur Vidéo Windows Qui Va Rendre Netflix Obsolète : outil

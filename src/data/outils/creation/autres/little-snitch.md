@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Little Snitch
 author: Diane
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 description: 'Découvre Little Snitch : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

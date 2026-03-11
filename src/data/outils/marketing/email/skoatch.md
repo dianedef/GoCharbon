@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Contenu"
+title: Contenu
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "Optimisez votre temps et vos articles grâce à Skoatch Générez rapidement des articles adaptés à différents personas Enrichissez vos articles de liens, images et vidéos Planifiez di"
-pubDate: "2024-03-25"
+- Outils
+description: Optimisez votre temps et vos articles grâce à Skoatch Générez rapidement
+  des articles adaptés à différents personas Enrichissez vos articles de liens, images
+  et vidéos Planifiez di
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://skoatch.com"
+u_site: https://skoatch.com
 ---
 
 # Contenu

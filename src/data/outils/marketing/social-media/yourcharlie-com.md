@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "yourcharlie.com"
+title: yourcharlie.com
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "automatiser les témoignages vidéos [YourCharlie: Overview | LinkedIn](https://www.linkedin.com/company/yourcharlie-testimonials/?originalSubdomain=fr) Imagine que tu as un site int"
-pubDate: "2024-03-25"
+- Outils
+description: 'automatiser les témoignages vidéos [YourCharlie: Overview | LinkedIn](https://www.linkedin.com/company/yourcharlie-testimonials/?originalSubdomain=fr)
+  Imagine que tu as un site int'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.leadin.fr"
+u_site: https://www.leadin.fr
 ---
 
 # yourcharlie.com

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Le Plugin De Cache Wordpress Qui Va Booster Votre Site À La Vitesse De L'Éclair

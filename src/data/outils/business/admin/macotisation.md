@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "macotisation"
+title: macotisation
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Admin'
-  - 'Business'
-description: "- **Nom de la Startup** : MaCotisation - **Fondateurs** : Arnaud Tranché, Aurélien Paul, Brian Lombert - **Année de création** : 2016 - **Ville d'origine** : Boulogne-Billancourt -"
-pubDate: "2024-03-25"
+- Outils
+description: '- **Nom de la Startup** : MaCotisation - **Fondateurs** : Arnaud Tranché,
+  Aurélien Paul, Brian Lombert - **Année de création** : 2016 - **Ville d''origine**
+  : Boulogne-Billancourt -'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://macotisation.fr/"
+u_site: https://macotisation.fr/
 ---
 
 # macotisation

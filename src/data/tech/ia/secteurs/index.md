@@ -3,9 +3,7 @@ section: blog
 title: 'IA par Secteur : Médecine, Sciences et Plus'
 author: Diane
 tags:
-- IA
 - Tech
-- Business
 description: 'Comment l''IA transforme les différents secteurs : médecine, sciences,
   industrie, etc.'
 pubDate: '2024-03-25'

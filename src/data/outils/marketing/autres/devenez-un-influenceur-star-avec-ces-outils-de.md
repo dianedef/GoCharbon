@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Devenez Un Influenceur Star Avec Ces Outils De Campagne D'Influence Secrets

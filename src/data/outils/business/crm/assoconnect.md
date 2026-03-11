@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "AssoConnect"
+title: AssoConnect
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "AssoConnect est le logiciel français tout-en-un pour associations. Comptabilité, CRM, paiements, site web. 40 000+ assos. Levée 10M$. Fondé 2013 à Paris."
-pubDate: "2024-03-25"
+- Outils
+description: AssoConnect est le logiciel français tout-en-un pour associations. Comptabilité,
+  CRM, paiements, site web. 40 000+ assos. Levée 10M$. Fondé 2013 à Paris.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.assoconnect.com"
+u_site: https://www.assoconnect.com
 ---
 
 # AssoConnect

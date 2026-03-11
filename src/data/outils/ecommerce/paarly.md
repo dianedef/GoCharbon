@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Paarly"
+title: Paarly
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "Paarly est la solution française de veille tarifaire et pricing intelligence. Technologie brevetée, 350+ entreprises, 3000+ marques. Essai 10 jours gratuit."
-pubDate: "2024-03-25"
+- Outils
+description: Paarly est la solution française de veille tarifaire et pricing intelligence.
+  Technologie brevetée, 350+ entreprises, 3000+ marques. Essai 10 jours gratuit.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://fr.paarly.com"
+u_site: https://fr.paarly.com
 ---
 
 # Paarly

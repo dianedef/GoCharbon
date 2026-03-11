@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Rss
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Rss : outil français pour entrepreneurs, fonctionnalités et
   avis.'
 pubDate: '2024-03-25'

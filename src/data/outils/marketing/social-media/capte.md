@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "capté"
+title: capté
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "[Perdu ?](https://www.getcapte.com/blog) [Capte | Facebook](https://www.facebook.com/Capteapp) [twitter.com/capte_app](https://twitter.com/i/flow/login?redirect_after_login=%2Fcapt"
-pubDate: "2024-03-25"
+- Outils
+description: '[Perdu ?](https://www.getcapte.com/blog) [Capte | Facebook](https://www.facebook.com/Capteapp)
+  [twitter.com/capte_app](https://twitter.com/i/flow/login?redirect_after_login=%2Fcapt'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://getcapte.com/fr/"
+u_site: https://getcapte.com/fr/
 ---
 
 # capté

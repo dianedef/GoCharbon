@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Mon Crm
 author: Diane
 tags:
-- Outils Français
-- Business
-- CRM
+- Outils
 description: 'Découvre Mon Crm : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

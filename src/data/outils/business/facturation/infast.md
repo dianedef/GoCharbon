@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "INFast"
+title: INFast
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Facturation'
-  - 'Business'
-description: "INFast (par INTIA) est un logiciel de facturation français simple pour auto-entrepreneurs et TPE. Devis, factures, relances, paiement en ligne. Version gratuite disponible."
-pubDate: "2024-03-25"
+- Outils
+description: INFast (par INTIA) est un logiciel de facturation français simple pour
+  auto-entrepreneurs et TPE. Devis, factures, relances, paiement en ligne. Version
+  gratuite disponible.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://intia.fr/fr/"
+u_site: https://intia.fr/fr/
 ---
 
 # INFast

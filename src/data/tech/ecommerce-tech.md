@@ -3,9 +3,7 @@ section: blog
 title: 'Technologies E-commerce : Guide Complet'
 author: Diane
 tags:
-- E-commerce
 - Tech
-- Digital
 description: Guide complet sur les technologies et solutions pour l'e-commerce moderne
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg

@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 type:
 - app
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: m-work
 u_site: https://www.m-work.co
 u_affi: null

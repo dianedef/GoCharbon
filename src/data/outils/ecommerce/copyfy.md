@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Copyfy"
+title: Copyfy
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "Copyfy est l'outil SaaS pour espionner les boutiques Shopify. Tracking CA, export produits, analyse thèmes. 4.4/5 Trustpilot. Dès 49,99€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Copyfy est l'outil SaaS pour espionner les boutiques Shopify. Tracking
+  CA, export produits, analyse thèmes. 4.4/5 Trustpilot. Dès 49,99€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.copyfy.io"
+u_site: https://www.copyfy.io
 ---
 
 # Copyfy

@@ -3,7 +3,7 @@ section: blog
 title: Levee De Fonds
 author: Diane
 tags:
-- Financement
+- Business
 description: 'Lever des fonds : investisseurs, pitch deck et négociation pour startups
   en recherche de financement.'
 pubDate: '2024-03-25'

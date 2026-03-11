@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Analytics B2B Secrets Qui Vont Transformer Votre Business En Machine À
   Cash
 author: Diane

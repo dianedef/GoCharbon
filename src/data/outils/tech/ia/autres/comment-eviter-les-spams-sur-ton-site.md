@@ -11,9 +11,7 @@ projet:
 title: Comment Éviter Les Spams Sur Ton Site
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Comment Éviter Les Spams Sur Ton Site : outil français pour
   entrepreneurs, fonctionnalités et avis.'
 pubDate: '2024-03-25'

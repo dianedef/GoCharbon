@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Crewdle"
+title: Crewdle
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Crewdle est une visioconférence écologique et sécurisée en peer-to-peer. Zéro serveur, chiffrement bout en bout, 600 000+ utilisateurs. Gratuit jusqu'à 12 participants."
-pubDate: "2024-03-25"
+- Outils
+description: Crewdle est une visioconférence écologique et sécurisée en peer-to-peer.
+  Zéro serveur, chiffrement bout en bout, 600 000+ utilisateurs. Gratuit jusqu'à 12
+  participants.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://crewdle.com/"
+u_site: https://crewdle.com/
 ---
 
 # Crewdle

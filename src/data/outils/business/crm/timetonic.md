@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "TimeTonic"
+title: TimeTonic
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "TimeTonic est une plateforme no-code française de gestion et collaboration. Base de données visuelle, apps métier, IA intégrée. Utilisée par Engie, GRDF, AP-HP. Dès 0€."
-pubDate: "2024-03-25"
+- Outils
+description: TimeTonic est une plateforme no-code française de gestion et collaboration.
+  Base de données visuelle, apps métier, IA intégrée. Utilisée par Engie, GRDF, AP-HP.
+  Dès 0€.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://home.timetonic.com"
+u_site: https://home.timetonic.com
 ---
 
 # TimeTonic

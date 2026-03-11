@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Nona"
+title: Nona
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Nona est un logiciel français de gestion pour la restauration collective. Menus, commandes, stocks, nutrition EGalim, communication. Co-construit avec 100+ professionnels."
-pubDate: "2024-03-25"
+- Outils
+description: Nona est un logiciel français de gestion pour la restauration collective.
+  Menus, commandes, stocks, nutrition EGalim, communication. Co-construit avec 100+
+  professionnels.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.nona.fr"
+u_site: https://www.nona.fr
 ---
 
 # Nona

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Construire Un Site Efficace Checklist
 author: Diane
 description: 'Découvre Construire Un Site Efficace Checklist : outil français pour

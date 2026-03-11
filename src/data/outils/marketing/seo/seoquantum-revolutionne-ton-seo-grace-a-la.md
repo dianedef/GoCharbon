@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Seoquantum, Révolutionne ton SEO grâce à la Sémantique"
+title: Seoquantum, Révolutionne ton SEO grâce à la Sémantique
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "[(4) Post | Feed | LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7263090941647884289/?utm_source=brevo&utm_campaign=sq-recap-46&utm_medium=email) 🔔 Qu'est-ce que S"
-pubDate: "2024-03-25"
+- Outils
+description: '[(4) Post | Feed | LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7263090941647884289/?utm_source=brevo&utm_campaign=sq-recap-46&utm_medium=email)
+  🔔 Qu''est-ce que S'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.seoquantum.com/"
+u_site: https://www.seoquantum.com/
 ---
 
 # Seoquantum, Révolutionne ton SEO grâce à la Sémantique

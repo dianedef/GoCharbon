@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Réussir Sur Instagram
 author: Diane
 description: 'Découvre Réussir Sur Instagram : outil français pour entrepreneurs,

@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 title: Seo Backlinck
 author: Diane
 description: 'Découvre Seo Backlinck : outil français pour entrepreneurs, fonctionnalités

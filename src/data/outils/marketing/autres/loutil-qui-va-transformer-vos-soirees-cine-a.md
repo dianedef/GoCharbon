@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: L'Outil Qui Va Transformer Vos Soirées Ciné À Distance En Expérience Inoubliable

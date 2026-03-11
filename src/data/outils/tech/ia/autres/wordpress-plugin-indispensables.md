@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Wordpress Plugin Indispensables
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Wordpress Plugin Indispensables : outil français pour entrepreneurs,
   fonctionnalités et avis.'
 pubDate: '2024-03-25'

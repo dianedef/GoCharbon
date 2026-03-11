@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
+- Outils
 imageNameKey: null
 u_site: null
 title: Obsidian L'App Qui Va Booster Votre Productivité De 500%

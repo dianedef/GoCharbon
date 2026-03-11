@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: L'Outil Gratuit Indispensable Qui Va Propulser Votre Business Vers Les Sommets

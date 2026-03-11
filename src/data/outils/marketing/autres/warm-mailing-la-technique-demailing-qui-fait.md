@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Warm Mailing La Technique D'Emailing Qui Fait Exploser Les Taux D'Ouverture

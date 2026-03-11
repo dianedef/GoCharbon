@@ -1,13 +1,13 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "OUTILS BUSINESS & GESTION FRANÇAIS"
+title: OUTILS BUSINESS & GESTION FRANÇAIS
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Business'
-description: "Les meilleurs outils français pour gérer ton entreprise : CRM, facturation, comptabilité, RH et juridique. Made in France."
-pubDate: "2024-03-25"
+- Outils
+description: 'Les meilleurs outils français pour gérer ton entreprise : CRM, facturation,
+  comptabilité, RH et juridique. Made in France.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

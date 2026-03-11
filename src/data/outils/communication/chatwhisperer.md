@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "ChatWhisperer"
+title: ChatWhisperer
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "ChatWhisperer est un chatbot IA personnalisable pour sites web. Basé sur GPT, il s'entraîne sur tes données. Multilingue, sans code. Installation en quelques minutes."
-pubDate: "2024-03-25"
+- Outils
+description: ChatWhisperer est un chatbot IA personnalisable pour sites web. Basé
+  sur GPT, il s'entraîne sur tes données. Multilingue, sans code. Installation en
+  quelques minutes.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://chatwhisperer.ai/fr/"
+u_site: https://chatwhisperer.ai/fr/
 ---
 
 # ChatWhisperer

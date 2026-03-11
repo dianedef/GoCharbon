@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les Outils Indispensables Des Nomades Digitaux Qui Cartonnent
 author: Diane

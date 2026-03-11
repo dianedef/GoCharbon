@@ -6,8 +6,7 @@ statut:
 - backlog
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Créez 1000 Articles Instantanément La Vérité Choquante Que Votre Ordinateur
   Ne Veut Pas Que Vous Sachiez
 author: Diane

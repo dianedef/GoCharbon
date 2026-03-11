@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Analysez vos facteurs de succès SEO avec l'apprentissage automatique !"
+title: Analysez vos facteurs de succès SEO avec l'apprentissage automatique !
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "[IA et intelligence humaine : la French Tech SEO monte en puissance !](https://ia4marketing.fr/ia-marketing/search-marketing/christophebernard/2021/08/la-french-tech-seo-monte-en-p"
-pubDate: "2024-03-25"
+- Outils
+description: '[IA et intelligence humaine : la French Tech SEO monte en puissance
+  !](https://ia4marketing.fr/ia-marketing/search-marketing/christophebernard/2021/08/la-french-tech-seo-monte-en-p'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.babbar.tech/fr"
+u_site: https://www.babbar.tech/fr
 ---
 
 # Analysez vos facteurs de succès SEO avec l'apprentissage automatique !

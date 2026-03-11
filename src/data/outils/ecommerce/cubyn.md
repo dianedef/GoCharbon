@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Cubyn"
+title: Cubyn
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "Cubyn était la solution logistique e-commerce française (French Tech 120). En liquidation judiciaire depuis octobre 2024. 4.0/5 Trustpilot (11 033 avis)."
-pubDate: "2024-03-25"
+- Outils
+description: Cubyn était la solution logistique e-commerce française (French Tech
+  120). En liquidation judiciaire depuis octobre 2024. 4.0/5 Trustpilot (11 033 avis).
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.cubyn.com/fr"
+u_site: https://www.cubyn.com/fr
 ---
 
 # Cubyn

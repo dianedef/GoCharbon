@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Furious"
+title: Furious
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Furious est un ERP/CRM français pour agences et ESN. CRM, projets, staffing, facturation, IA conversationnelle. Noté 4.3/5. Dès 35€ HT/utilisateur/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Furious est un ERP/CRM français pour agences et ESN. CRM, projets, staffing,
+  facturation, IA conversationnelle. Noté 4.3/5. Dès 35€ HT/utilisateur/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://furious-squad.com"
+u_site: https://furious-squad.com
 ---
 
 # Furious

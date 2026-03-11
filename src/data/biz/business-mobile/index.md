@@ -3,9 +3,7 @@ section: blog
 title: 'Business Mobile : Guide Complet des Apps pour Gagner de l''Argent'
 author: Diane
 tags:
-- Business Mobile
-- Revenus
-- Tech
+- Business
 description: Toutes les apps Android et iOS pour gagner de l'argent, classées par
   type avec profils business détaillés
 pubDate: '2026-01-17'

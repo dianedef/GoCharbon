@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Pep's Up"
+title: Pep's Up
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Pep's Up est un logiciel français de gestion d'associations tout-en-un. Site web, adhérents, comptabilité, boutique, événements, paiements en ligne. Dès 10€/mois, essai 30 jours."
-pubDate: "2024-03-25"
+- Outils
+description: Pep's Up est un logiciel français de gestion d'associations tout-en-un.
+  Site web, adhérents, comptabilité, boutique, événements, paiements en ligne. Dès
+  10€/mois, essai 30 jours.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.pepsup.com"
+u_site: https://www.pepsup.com
 ---
 
 # Pep's Up

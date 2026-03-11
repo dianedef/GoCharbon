@@ -3,7 +3,6 @@ section: blog
 title: 'NLP (Natural Language Processing) : Guide Complet'
 author: Diane
 tags:
-- IA
 - Tech
 description: Guide complet sur le traitement du langage naturel et ses applications
 pubDate: '2024-03-25'

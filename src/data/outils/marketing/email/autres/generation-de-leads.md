@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: important
 tags:
-- Outils Français
-- Marketing
-- Email
+- Outils
 title: Génération De Leads
 author: Diane
 description: 'Découvre Génération De Leads : outil français pour entrepreneurs, fonctionnalités

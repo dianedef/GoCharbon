@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Outils De Recherche Incroyables Qui Vont Révolutionner Votre Travail
 author: Diane
 description: 'Découvre Les Outils De Recherche Incroyables Qui Vont Révolutionner

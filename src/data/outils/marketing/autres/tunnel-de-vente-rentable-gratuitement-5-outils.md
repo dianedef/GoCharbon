@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Tunnel De Vente Rentable Gratuitement 5 Outils Secrets Que Les Pros Ne Veulent

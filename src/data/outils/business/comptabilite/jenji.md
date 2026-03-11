@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Jenji"
+title: Jenji
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Jenji est une solution française de gestion des notes de frais boostée par l'IA. Automatisation, OCR, analyse financière. 40 000+ entreprises. Racheté par Silae en 2022."
-pubDate: "2024-03-25"
+- Outils
+description: Jenji est une solution française de gestion des notes de frais boostée
+  par l'IA. Automatisation, OCR, analyse financière. 40 000+ entreprises. Racheté
+  par Silae en 2022.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.jenji.io/fr"
+u_site: https://www.jenji.io/fr
 ---
 
 # Jenji

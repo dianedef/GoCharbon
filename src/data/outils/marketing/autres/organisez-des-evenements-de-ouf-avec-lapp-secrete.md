@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Organisez Des Événements De Ouf Avec L'App Secrète Des Plus Grands Festivals

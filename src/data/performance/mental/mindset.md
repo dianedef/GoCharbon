@@ -1,13 +1,12 @@
 ---
 section: blog
-title: "Développer un état d'esprit gagnant"
+title: Développer un état d'esprit gagnant
 author: Diane
 tags:
-  - 'Productivité'
-  - 'Mental'
-  - 'Mindset'
-description: "Cultive le mindset qui te permettra d'atteindre tes objectifs et de réussir dans le business en ligne"
-pubDate: "2024-03-25"
+- Productivité
+description: Cultive le mindset qui te permettra d'atteindre tes objectifs et de réussir
+  dans le business en ligne
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -1,13 +1,13 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "OUTILS MARKETING FRANÇAIS"
+title: OUTILS MARKETING FRANÇAIS
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Les meilleurs outils marketing français : email, SEO, réseaux sociaux, analytics. Développe ta visibilité made in France."
-pubDate: "2024-03-25"
+- Outils
+description: 'Les meilleurs outils marketing français : email, SEO, réseaux sociaux,
+  analytics. Développe ta visibilité made in France.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

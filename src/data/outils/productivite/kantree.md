@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Kantree"
+title: Kantree
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-description: "Kantree est un outil français de gestion de projet flexible (SCOP Digicoop). Kanban, Gantt, automations, API. Clients : Orange, Thales, Orano. Dès 6,40€/user/mois."
-pubDate: "2024-03-25"
+- Outils
+description: 'Kantree est un outil français de gestion de projet flexible (SCOP Digicoop).
+  Kanban, Gantt, automations, API. Clients : Orange, Thales, Orano. Dès 6,40€/user/mois.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://kantree.io/fr"
+u_site: https://kantree.io/fr
 ---
 
 # Kantree

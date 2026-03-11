@@ -1,14 +1,12 @@
 ---
 section: blog
-title: "Stratégie de Contenu SEO : Guide Complet"
+title: 'Stratégie de Contenu SEO : Guide Complet'
 author: Diane
 tags:
-  - 'SEO'
-  - 'Contenu'
-  - 'Stratégie'
-  - 'Marketing'
-description: Arrête de jeter des bouteilles à la mer. Crée une stratégie de contenu SEO qui rank vraiment avec ce guide pratique et sans blabla.
-pubDate: "2026-01-22"
+- SEO
+description: Arrête de jeter des bouteilles à la mer. Crée une stratégie de contenu
+  SEO qui rank vraiment avec ce guide pratique et sans blabla.
+pubDate: '2026-01-22'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

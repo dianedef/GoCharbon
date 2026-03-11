@@ -4,8 +4,6 @@ title: Print-on-Demand (POD)
 author: Web Indé
 tags:
 - Business
-- E-commerce
-- Business en Ligne
 description: 'Guide print-on-demand : designs, plateformes et marketing pour vendre
   des produits personnalisés sans stock.'
 pubDate: '2024-01-01'

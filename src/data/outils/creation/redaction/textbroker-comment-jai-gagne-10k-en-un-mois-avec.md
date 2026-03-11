@@ -4,13 +4,12 @@ metadataEnrichedAt: null
 title: Textbroker
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Rédaction'
-  - 'Création'
-description: "Textbroker : 1ère plateforme mondiale de rédaction web. 80 000+ clients, 11M+ textes commandés. Tarifs dès 1,1 cent/mot."
-pubDate: "2024-03-25"
+- Outils
+description: 'Textbroker : 1ère plateforme mondiale de rédaction web. 80 000+ clients,
+  11M+ textes commandés. Tarifs dès 1,1 cent/mot.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.textbroker.fr/"
+u_site: https://www.textbroker.fr/
 ---
 
 # Textbroker

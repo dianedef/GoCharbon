@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Transformez Votre Entreprise En Héros Écoloooo Avec Ces Astuces Secrètes
 author: Diane

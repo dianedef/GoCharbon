@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Expensya"
+title: Expensya
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Expensya automatise la gestion des notes de frais grâce à l'IA. 5 000+ clients dans 100+ pays (H&M, Volvo, BPCE). OCR intelligent, multi-devises et archivage légal. À partir de 5€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Expensya automatise la gestion des notes de frais grâce à l'IA. 5 000+
+  clients dans 100+ pays (H&M, Volvo, BPCE). OCR intelligent, multi-devises et archivage
+  légal. À partir de 5€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.expensya.com/fr"
+u_site: https://www.expensya.com/fr
 ---
 
 # Expensya

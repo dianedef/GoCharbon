@@ -4,13 +4,12 @@ metadataEnrichedAt: null
 title: TextMaster
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Rédaction'
-  - 'Création'
-description: "TextMaster : plateforme SaaS de traduction pro, 10 000+ clients dont Estée Lauder et Club Med. 50+ langues. Dès 0,088$/mot."
-pubDate: "2024-03-25"
+- Outils
+description: 'TextMaster : plateforme SaaS de traduction pro, 10 000+ clients dont
+  Estée Lauder et Club Med. 50+ langues. Dès 0,088$/mot.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://fr.textmaster.com"
+u_site: https://fr.textmaster.com
 ---
 
 # TextMaster

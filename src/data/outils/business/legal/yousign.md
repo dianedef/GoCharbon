@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Yousign"
+title: Yousign
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Facturation'
-  - 'Business'
-description: "**tl;dr:** Découvrez comment Yousign, une solution de signature électronique française, légale et conviviale, peut stimuler la croissance de votre entreprise en automatisant vos si"
-pubDate: "2024-03-25"
+- Outils
+description: '**tl;dr:** Découvrez comment Yousign, une solution de signature électronique
+  française, légale et conviviale, peut stimuler la croissance de votre entreprise
+  en automatisant vos si'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://yousign.com/fr-fr"
+u_site: https://yousign.com/fr-fr
 ---
 
 # Yousign

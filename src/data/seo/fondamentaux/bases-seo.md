@@ -1,12 +1,12 @@
 ---
 section: blog
-title: "Bases du SEO : Guide Complet"
+title: 'Bases du SEO : Guide Complet'
 author: Diane
 tags:
-  - 'SEO'
-  - 'Referencement'
-description: Les bases SEO expliquees simplement pour obtenir des visites utiles et regulieres.
-pubDate: "2026-01-17"
+- SEO
+description: Les bases SEO expliquees simplement pour obtenir des visites utiles et
+  regulieres.
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

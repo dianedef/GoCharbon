@@ -4,7 +4,7 @@ type:
 - Tuto
 _priorité: normal
 tags:
-- Rédaction
+- Tutoriels
 imageNameKey: optimiser-wordpress-vitesse
 title: Améliorer La Vitesse De Son Site Grâce Au Cache
 author: Diane

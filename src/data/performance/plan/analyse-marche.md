@@ -3,8 +3,7 @@ section: blog
 title: Analyse Marche
 author: Diane
 tags:
-- Analytics
-- Stratégie
+- Productivité
 description: 'Analyse de marché : méthodologie, outils et techniques pour valider
   ton idée business.'
 pubDate: '2024-03-25'

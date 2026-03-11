@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "webikeo"
+title: webikeo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "Webikeo est une plateforme de webinaire qui offre des avantages significatifs aux entrepreneurs, les aidant à accroître leurs ventes et à gagner du temps dans leur activité. Découv"
-pubDate: "2024-03-25"
+- Outils
+description: Webikeo est une plateforme de webinaire qui offre des avantages significatifs
+  aux entrepreneurs, les aidant à accroître leurs ventes et à gagner du temps dans
+  leur activité. Découv
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://webikeo.fr"
+u_site: https://webikeo.fr
 ---
 
 # webikeo

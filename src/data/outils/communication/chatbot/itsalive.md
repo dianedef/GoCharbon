@@ -4,13 +4,12 @@ metadataEnrichedAt: null
 title: ItsAlive
 author: Diane
 tags:
-- Outils Français
-- Communication
-- Chatbot
-description: "ItsAlive : plateforme française no-code pour créer des chatbots Facebook Messenger. Storyflows, NLP, analytics. Dès 19€/mois."
+- Outils
+description: 'ItsAlive : plateforme française no-code pour créer des chatbots Facebook
+  Messenger. Storyflows, NLP, analytics. Dès 19€/mois.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://itsalive.io/"
+u_site: https://itsalive.io/
 ---
 
 # ItsAlive

@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "onepilot"
+title: onepilot
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Onepilot est une solution révolutionnaire de service client externalisé qui promet de transformer votre interaction avec les clients en une expérience fluide et rentable. Grâce à d"
-pubDate: "2024-03-25"
+- Outils
+description: Onepilot est une solution révolutionnaire de service client externalisé
+  qui promet de transformer votre interaction avec les clients en une expérience fluide
+  et rentable. Grâce à d
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.onepilot.co/fr/"
+u_site: https://www.onepilot.co/fr/
 ---
 
 # onepilot

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Harpa L'Outil Secret Des Marketeurs Qui Cartonnent
 author: Diane
 description: 'Découvre Harpa L''Outil Secret Des Marketeurs Qui Cartonnent : outil

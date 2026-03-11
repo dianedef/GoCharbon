@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Mes Outils De Productivité Secrets Pour Devenir Un Superhéros Du Business
 author: Diane

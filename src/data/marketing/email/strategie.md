@@ -3,11 +3,10 @@ section: blog
 title: Stratégie Email Marketing
 author: Diane
 tags:
-  - 'Marketing'
-  - 'Newsletter'
-  - 'Email'
-description: "Stratégie email marketing claire : acquisition, segmentation, contenu, mesure et plan d'action 30 jours."
-pubDate: "2024-03-25"
+- Marketing
+description: 'Stratégie email marketing claire : acquisition, segmentation, contenu,
+  mesure et plan d''action 30 jours.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

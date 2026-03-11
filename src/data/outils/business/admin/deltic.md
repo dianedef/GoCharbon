@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Deltic"
+title: Deltic
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Admin'
-  - 'Business'
-description: "Deltic est un logiciel français de dématérialisation de documents pour PME. Facturation électronique, GED, workflows, archivage. 10+ ans d'expertise."
-pubDate: "2024-03-25"
+- Outils
+description: Deltic est un logiciel français de dématérialisation de documents pour
+  PME. Facturation électronique, GED, workflows, archivage. 10+ ans d'expertise.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://deltic.fr"
+u_site: https://deltic.fr
 ---
 
 # Deltic

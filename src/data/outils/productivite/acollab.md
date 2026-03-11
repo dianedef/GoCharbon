@@ -1,17 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Acollab"
+title: Acollab
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Collaboration'
-  - 'Gestion Projet'
-  - 'Productivité'
-description: "Acollab est une plateforme collaborative française par Akelio. Gestion de projets, partage de fichiers, agenda, messagerie, suivi des temps. Hébergement en France. Dès 5€/mois/utilisateur."
-pubDate: "2024-03-25"
+- Outils
+description: Acollab est une plateforme collaborative française par Akelio. Gestion
+  de projets, partage de fichiers, agenda, messagerie, suivi des temps. Hébergement
+  en France. Dès 5€/mois/utilisateur.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.acollab.com"
+u_site: https://www.acollab.com
 ---
 
 # Acollab

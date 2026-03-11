@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Pourquoi Les Mauvais Business Ne Rendent Pas Riche La Vérité Qui Dérange
 author: Diane

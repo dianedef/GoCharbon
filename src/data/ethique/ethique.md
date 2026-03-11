@@ -3,7 +3,7 @@ section: blog
 title: Éthique
 author: Diane
 tags:
-- Éthique
+- Business
 description: 'L''éthique en business : principes, bonnes pratiques et responsabilité
   pour entrepreneurs conscients.'
 pubDate: '2024-03-25'

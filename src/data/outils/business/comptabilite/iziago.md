@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Cegid Iziago"
+title: Cegid Iziago
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Cegid Iziago est un logiciel français de gestion de trésorerie, paiements et prélèvements pour TPE/PME. Multi-banques, prévisions cash flow, SEPA/ISO 20022. Modules dès 4€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Cegid Iziago est un logiciel français de gestion de trésorerie, paiements
+  et prélèvements pour TPE/PME. Multi-banques, prévisions cash flow, SEPA/ISO 20022.
+  Modules dès 4€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.iziago.com"
+u_site: https://www.iziago.com
 ---
 
 # Cegid Iziago

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: 1fr
 u_site: https://1.fr
 title: 1.Fr

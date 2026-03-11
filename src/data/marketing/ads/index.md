@@ -1,13 +1,11 @@
 ---
 section: blog
-title: "Publicité en Ligne (Ads) : Le Guide Complet"
+title: 'Publicité en Ligne (Ads) : Le Guide Complet'
 author: Diane
 tags:
-  - 'Ads'
-  - 'Marketing'
-  - 'Acquisition'
+- Marketing
 description: Maîtrisez les différents canaux publicitaires pour booster votre croissance
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Seobserver"
+title: Seobserver
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Le guide complet sur SEObserver en 2023 est une ressource incontournable pour tout professionnel du référencement. Il offre des informations détaillées sur cet outil SEO, couvrant "
-pubDate: "2024-03-25"
+- Outils
+description: 'Le guide complet sur SEObserver en 2023 est une ressource incontournable
+  pour tout professionnel du référencement. Il offre des informations détaillées sur
+  cet outil SEO, couvrant '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.seobserver.com/#home"
+u_site: https://www.seobserver.com/#home
 ---
 
 # Seobserver

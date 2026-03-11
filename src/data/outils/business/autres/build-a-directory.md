@@ -4,8 +4,7 @@ metadataEnrichedAt: null
 title: Build A Directory
 author: Diane
 tags:
-- Outils Français
-- Business
+- Outils
 description: 'Découvre Build A Directory : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

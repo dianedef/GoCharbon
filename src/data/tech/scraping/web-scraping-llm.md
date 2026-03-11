@@ -3,9 +3,7 @@ section: blog
 title: 'Web Scraping pour LLM : Créer ta Base de Connaissances en 1 Heure'
 author: Diane
 tags:
-- IA
-- Scraping
-- Automatisation
+- Tech
 description: Transforme n'importe quel site web en données exploitables par les LLMs
   avec ce guide pratique et des outils no-code.
 pubDate: '2024-03-26'

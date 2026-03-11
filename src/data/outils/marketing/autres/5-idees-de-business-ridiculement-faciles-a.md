@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 5 Idées De Business Ridiculement Faciles À Développer En Parallèle De Ton Activité

@@ -4,14 +4,13 @@ metadataEnrichedAt: null
 title: Submagic
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Vidéo'
-  - 'Création'
-description: "Submagic : outil IA français pour sous-titres, montage auto et clips viraux. 8M$ ARR, bootstrappé. Dès 12$/mois."
-pubDate: "2024-03-25"
+- Outils
+description: 'Submagic : outil IA français pour sous-titres, montage auto et clips
+  viraux. 8M$ ARR, bootstrappé. Dès 12$/mois.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.submagic.co/"
-u_affi: "https://submagic.co?fpr=webinde"
+u_site: https://www.submagic.co/
+u_affi: https://submagic.co?fpr=webinde
 ---
 
 # Submagic

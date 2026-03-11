@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: incubateurs-startups-france
 title: Les Incubateurs De Startups Secrets Où Naissent Les Futurs Licornes
 author: Diane

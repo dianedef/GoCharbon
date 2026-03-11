@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 10 Lois Époustouflantes Pour Créer Du Contenu Si Bon Que C'En Est Presque Illégal

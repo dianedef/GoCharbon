@@ -1,12 +1,11 @@
 ---
 section: blog
-title: "Programme Beta : tester ton tunnel en conditions reelles"
+title: 'Programme Beta : tester ton tunnel en conditions reelles'
 author: Diane
 tags:
-  - Marketing
-  - Tunnel
-  - Beta
-description: Lance une beta de ton tunnel, mesure les signaux forts et corrige vite avant de scaler.
+- Marketing
+description: Lance une beta de ton tunnel, mesure les signaux forts et corrige vite
+  avant de scaler.
 pubDate: '2026-03-01'
 imgUrl: ../../../assets/astro.jpeg
 ---

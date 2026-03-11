@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "DYALOG"
+title: DYALOG
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-  - 'Bureautique'
-description: "DYALOG est la suite française de gestion de parc d'impression. Infogérance MPS, supervision, économie toner. Groupe ARMOR. Forfait mensuel tout inclus."
-pubDate: "2024-03-25"
+- Outils
+description: DYALOG est la suite française de gestion de parc d'impression. Infogérance
+  MPS, supervision, économie toner. Groupe ARMOR. Forfait mensuel tout inclus.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.mydyalog.com"
+u_site: https://www.mydyalog.com
 ---
 
 # DYALOG

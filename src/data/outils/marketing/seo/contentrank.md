@@ -1,16 +1,14 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "ContentRank"
+title: ContentRank
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Je suis Elliott BOBIET, co-fondateur de [content-rank.fr](http://url289.content-rank.fr/ls/click?upn=293EmUP-2Bat2PLBOCFJwbBWGgjQ8ic7EhS8OsCdFkIIDnQ8MNQUZ8l4qfW5PD4rTIF2wT_amqQxOEh"
-pubDate: "2024-03-25"
+- Outils
+description: Je suis Elliott BOBIET, co-fondateur de [content-rank.fr](http://url289.content-rank.fr/ls/click?upn=293EmUP-2Bat2PLBOCFJwbBWGgjQ8ic7EhS8OsCdFkIIDnQ8MNQUZ8l4qfW5PD4rTIF2wT_amqQxOEh
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.content-rank.fr"
+u_site: https://www.content-rank.fr
 ---
 
 # ContentRank

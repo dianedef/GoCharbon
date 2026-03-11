@@ -4,7 +4,6 @@ title: Checklist
 author: Diane
 tags:
 - SEO
-- Audit
 description: 'Checklist SEO complète : audit technique, contenu et netlinking pour
   ton site.'
 pubDate: '2024-03-25'

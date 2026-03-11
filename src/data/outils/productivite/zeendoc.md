@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "zeendoc"
+title: zeendoc
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Affiliation'
-  - 'Marketing'
-description: "Zeendoc, la Solution de Gestion Électronique des Documents, est conçue pour propulser les entreprises vers le numérique en offrant une dématérialisation efficace, un partage fluide"
-pubDate: "2024-03-25"
+- Outils
+description: Zeendoc, la Solution de Gestion Électronique des Documents, est conçue
+  pour propulser les entreprises vers le numérique en offrant une dématérialisation
+  efficace, un partage fluide
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.zeendoc.com"
+u_site: https://www.zeendoc.com
 ---
 
 # zeendoc

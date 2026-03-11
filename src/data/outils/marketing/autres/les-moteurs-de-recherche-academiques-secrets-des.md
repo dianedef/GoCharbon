@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les Moteurs De Recherche Académiques Secrets Des Chercheurs De Génie
 author: Diane

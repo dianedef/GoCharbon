@@ -3,7 +3,6 @@ section: blog
 title: 'Cycle de Vie d''un Logiciel : Les 5 Étapes à Ne Pas Rater'
 author: Diane
 tags:
-- SaaS
 - Business
 description: 'Guide complet du cycle de vie d''un logiciel : de l''idée au lancement,
   jusqu''à la maintenance et la croissance.'

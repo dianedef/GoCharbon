@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Rédaction
-- Marketing
+- Outils
 imageNameKey: emrys-nutrition
 u_site: null
 title: Emrys Nutrition Le Plan Minceur Qui Affole L'Industrie De La Diététique

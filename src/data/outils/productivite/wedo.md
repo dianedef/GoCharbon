@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "WEDO"
+title: WEDO
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-description: "WEDO est la plateforme collaborative suisse de gestion de réunions et tâches. 700+ entreprises, ISO 27001, 4.7/5 Capterra. Dès 19,90€/mois/user. Essai 14j."
-pubDate: "2024-03-25"
+- Outils
+description: WEDO est la plateforme collaborative suisse de gestion de réunions et
+  tâches. 700+ entreprises, ISO 27001, 4.7/5 Capterra. Dès 19,90€/mois/user. Essai
+  14j.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://wedo.com"
+u_site: https://wedo.com
 ---
 
 # WEDO

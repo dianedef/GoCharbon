@@ -4,7 +4,6 @@ title: Les Techniques de Neuromarketing Dévoilées
 author: Psychology Expert
 tags:
 - Marketing
-- Psychologie
 description: Découvrez les mécanismes psychologiques utilisés en marketing et apprenez
   à les reconnaître pour faire des choix plus éclairés
 pubDate: '2024-03-25'

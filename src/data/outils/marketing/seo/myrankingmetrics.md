@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "MyRankingMetrics"
+title: MyRankingMetrics
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "[Comment trouver tous les mots-clés de vos pages dans Google (SEO) - YouTube](https://youtu.be/L_P2UNc1rw8?t=105) Trouver la totalité des mots clefs d’une page avece MRM, + les can"
-pubDate: "2024-03-25"
+- Outils
+description: '[Comment trouver tous les mots-clés de vos pages dans Google (SEO) -
+  YouTube](https://youtu.be/L_P2UNc1rw8?t=105) Trouver la totalité des mots clefs
+  d’une page avece MRM, + les can'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://myrankingmetrics.com"
+u_site: https://myrankingmetrics.com
 ---
 
 # MyRankingMetrics

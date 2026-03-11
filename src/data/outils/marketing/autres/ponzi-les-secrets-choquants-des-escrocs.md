@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Ponzi Les Secrets Choquants Des Escrocs Financiers Enfin Révélés
 author: Diane
 description: 'Découvre Ponzi Les Secrets Choquants Des Escrocs Financiers Enfin Révélés

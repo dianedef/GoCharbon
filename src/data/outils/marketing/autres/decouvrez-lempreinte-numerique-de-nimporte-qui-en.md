@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Découvrez L'Empreinte Numérique De N'Importe Qui En Un Clic Flippant Mais Légal

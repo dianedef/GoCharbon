@@ -4,7 +4,6 @@ title: Migration
 author: Diane
 tags:
 - SEO
-- Technique
 description: 'Migration SEO : checklist, redirections et bonnes pratiques pour changer
   de site.'
 pubDate: '2024-03-25'

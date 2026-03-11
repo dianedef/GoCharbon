@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: smartscribe
 u_site: https://www.smartscribe.co/fr/index.html
 u_affi: null

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Skello"
+title: Skello
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'RH'
-  - 'Business'
-description: "Skello, une solution de gestion de planification et de performance pour les équipes, offre une variété de fonctionnalités pour aider les entreprises à gérer leurs opérations plus e"
-pubDate: "2024-03-25"
+- Outils
+description: Skello, une solution de gestion de planification et de performance pour
+  les équipes, offre une variété de fonctionnalités pour aider les entreprises à gérer
+  leurs opérations plus e
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.skello.io"
+u_site: https://www.skello.io
 ---
 
 # Skello

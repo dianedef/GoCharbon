@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: lien-visuel
 u_site: Votre code : **bLmLpAe9bW**
 u_affi: https://viededingue1.com/Eh3rVe   https://webinde.fr/lienvisuel

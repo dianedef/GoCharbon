@@ -3,9 +3,7 @@ section: blog
 title: 'Astro : Guide Complet'
 author: Diane
 tags:
-- Frameworks
-- Web
-- Développement
+- Tech
 description: Le framework web ultra-rapide pour les sites de contenu en 2026
 pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg

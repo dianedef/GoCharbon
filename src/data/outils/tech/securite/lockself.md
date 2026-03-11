@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "lockself"
+title: lockself
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Sécurité'
-  - 'Tech'
-description: "[Blog - Lockself](https://blog.lockself.com/) [Support LockSelf](https://support.lockself.com/hc/fr) [(22) LockPass - Le gestionnaire de mots de passe certifié par l'ANSSI - YouTub"
-pubDate: "2024-03-25"
+- Outils
+description: '[Blog - Lockself](https://blog.lockself.com/) [Support LockSelf](https://support.lockself.com/hc/fr)
+  [(22) LockPass - Le gestionnaire de mots de passe certifié par l''ANSSI - YouTub'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.lockself.com"
+u_site: https://www.lockself.com
 ---
 
 # lockself

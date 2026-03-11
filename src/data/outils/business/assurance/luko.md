@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Luko"
+title: Luko
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Assurance'
-  - 'Business'
-description: "Luko était une insurtech française d'assurance habitation avec capteurs IoT et IA. Fondée en 2016, rachetée par Allianz Direct en 2024 pour 4,3M€."
-pubDate: "2024-03-25"
+- Outils
+description: Luko était une insurtech française d'assurance habitation avec capteurs
+  IoT et IA. Fondée en 2016, rachetée par Allianz Direct en 2024 pour 4,3M€.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://fr.luko.eu"
+u_site: https://fr.luko.eu
 ---
 
 # Luko

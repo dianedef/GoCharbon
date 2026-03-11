@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les Apps Meubles Qui Vont Transformer Votre Intérieur En Palace
 author: Diane

@@ -5,9 +5,7 @@ type: Logiciel
 statut: null
 _priorité: urgent
 tags:
-- Outils Français
-- Marketing
-- Email
+- Outils
 imageNameKey: scrapio
 title: Scrapio, Le Sniper De L'Extraction Google Maps
 author: Diane

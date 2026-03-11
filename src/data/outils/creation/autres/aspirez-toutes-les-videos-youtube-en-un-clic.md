@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 imageNameKey: null
 u_site: null
 title: Aspirez Toutes Les Vidéos Youtube En Un Clic L'Astuce Cachée

@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "H.api CRM"
+title: H.api CRM
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "H.api CRM par MMCréation : emailing et newsletters pour hôtels et PME. Drag & drop, templates custom, stats temps réel. Dès 50€/mois. 700+ clients."
-pubDate: "2024-03-25"
+- Outils
+description: 'H.api CRM par MMCréation : emailing et newsletters pour hôtels et PME.
+  Drag & drop, templates custom, stats temps réel. Dès 50€/mois. 700+ clients.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://about.hapicrm.com/fr/"
+u_site: https://about.hapicrm.com/fr/
 ---
 
 # H.api CRM

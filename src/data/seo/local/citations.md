@@ -4,7 +4,6 @@ title: Citations
 author: Diane
 tags:
 - SEO
-- Local
 description: 'Citations locales SEO : annuaires, NAP et stratégies pour référencement
   local.'
 pubDate: '2024-03-25'

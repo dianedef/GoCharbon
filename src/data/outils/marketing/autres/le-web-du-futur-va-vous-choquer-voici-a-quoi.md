@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Le Web Du Futur Va Vous Choquer Voici À Quoi Ressembleront Vos Réseaux Sociaux
 author: Diane

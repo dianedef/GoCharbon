@@ -4,7 +4,6 @@ title: Scaling Growth
 author: Diane
 tags:
 - Marketing
-- Acquisition
 description: Guide complet sur le passage à l'échelle des stratégies growth
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg

@@ -3,8 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: useartemis
 u_site: https://useartemis.co/
 u_affi: null

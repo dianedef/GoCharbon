@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Sparkreceipt
 author: Diane
 description: 'Découvre Sparkreceipt : outil français pour entrepreneurs, fonctionnalités

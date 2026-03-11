@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "rapidely"
+title: rapidely
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "Rapide.ly est un outil remarquable pour les entrepreneurs, influenceurs et gestionnaires de médias sociaux. Il offre une solution innovante pour stimuler la portée et l'engagement "
-pubDate: "2024-03-25"
+- Outils
+description: 'Rapide.ly est un outil remarquable pour les entrepreneurs, influenceurs
+  et gestionnaires de médias sociaux. Il offre une solution innovante pour stimuler
+  la portée et l''engagement '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://rapidely.app"
+u_site: https://rapidely.app
 ---
 
 # rapidely

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Domaine Legal"
+title: Domaine Legal
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Legal'
-  - 'Business'
-description: "Domaine Legal est un service d'avocat en ligne français. Consultations juridiques, rédaction de contrats, création d'entreprise, recouvrement. Accessible et abordable."
-pubDate: "2024-03-25"
+- Outils
+description: Domaine Legal est un service d'avocat en ligne français. Consultations
+  juridiques, rédaction de contrats, création d'entreprise, recouvrement. Accessible
+  et abordable.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://domaine-legal.com"
+u_site: https://domaine-legal.com
 ---
 
 # Domaine Legal

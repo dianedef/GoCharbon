@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 title: Viralité
 author: Diane
 description: 'Découvre Viralité : outil français pour entrepreneurs, fonctionnalités

@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: spliiit
 u_site: https://www.spliiit.com/fr
 u_affi: null

@@ -3,8 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Tech
+- Outils
 imageNameKey: crowdsec
 u_site: https://www.crowdsec.net
 u_affi: null

@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "livestorm"
+title: livestorm
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Webinars et video conférences intégrées pour votre entreprise. Livestorm aide les entreprises à exploiter au mieux le webinar. Notre mission est de rendre vos webinars plus simples"
-pubDate: "2024-03-25"
+- Outils
+description: Webinars et video conférences intégrées pour votre entreprise. Livestorm
+  aide les entreprises à exploiter au mieux le webinar. Notre mission est de rendre
+  vos webinars plus simples
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://livestorm.co/fr"
+u_site: https://livestorm.co/fr
 ---
 
 # livestorm

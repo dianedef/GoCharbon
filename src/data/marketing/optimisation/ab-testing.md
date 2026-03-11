@@ -3,11 +3,9 @@ section: blog
 title: A/B Testing
 author: Diane
 tags:
-  - 'Marketing'
-  - 'A/B Testing'
-  - 'CRO'
-description: "Guide complet sur l'A/B testing pour optimiser vos performances marketing"
-pubDate: "2024-03-25"
+- Marketing
+description: Guide complet sur l'A/B testing pour optimiser vos performances marketing
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

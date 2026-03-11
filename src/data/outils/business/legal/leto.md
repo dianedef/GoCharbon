@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "leto"
+title: leto
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Legal'
-  - 'Business'
-description: "DashThis est un outil de reporting marketing automatisé qui offre de nombreux avantages aux entreprises. En utilisant DashThis, tu peux économiser des heures de travail en créant r"
-pubDate: "2024-03-25"
+- Outils
+description: DashThis est un outil de reporting marketing automatisé qui offre de
+  nombreux avantages aux entreprises. En utilisant DashThis, tu peux économiser des
+  heures de travail en créant r
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.leto.legal"
+u_site: https://www.leto.legal
 ---
 
 # leto

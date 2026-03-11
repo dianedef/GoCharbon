@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "MashUp Web"
+title: MashUp Web
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "- [Accueil](https://rouen.fr/) - MashUp Web  **MashUp Web est une entreprise basée à Rouen. Ell"
-pubDate: "2024-03-25"
+- Outils
+description: '- [Accueil](https://rouen.fr/) - MashUp Web  **MashUp Web est une entreprise
+  basée à Rouen. Ell'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.mashup-web.com/"
+u_site: https://www.mashup-web.com/
 ---
 
 # MashUp Web

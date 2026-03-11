@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "netlinking"
+title: netlinking
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "moment très intéressant sur les types de liens : https://youtu.be/QhD-D88dQ0I?t=645 [Backlinks SEO à 10€ vs 50€ vs 100€ : J'Achète 1000€ de Liens - YouTube](https://www.youtube.com"
-pubDate: "2024-03-25"
+- Outils
+description: 'moment très intéressant sur les types de liens : https://youtu.be/QhD-D88dQ0I?t=645
+  [Backlinks SEO à 10€ vs 50€ vs 100€ : J''Achète 1000€ de Liens - YouTube](https://www.youtube.com'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.netlinking.fr"
+u_site: https://www.netlinking.fr
 ---
 
 # netlinking

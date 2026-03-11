@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Open Ai Closing
 author: Diane
 description: 'Découvre Open Ai Closing : outil français pour entrepreneurs, fonctionnalités

@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Business
-- CRM
+- Outils
 title: Gamification
 author: Diane
 description: 'Découvre Gamification : outil français pour entrepreneurs, fonctionnalités

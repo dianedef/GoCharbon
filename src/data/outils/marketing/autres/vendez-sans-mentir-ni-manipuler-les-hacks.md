@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Vendez Sans Mentir Ni Manipuler Les Hacks Éthiques Qui Cartonnent

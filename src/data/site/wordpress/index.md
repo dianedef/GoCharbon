@@ -1,14 +1,12 @@
 ---
 section: blog
-title: "WordPress : Guide Complet"
+title: 'WordPress : Guide Complet'
 author: Diane
 tags:
-  - 'WordPress'
-  - 'CMS'
-  - 'Web'
-  - 'Développement'
-description: "Le CMS le plus populaire au monde : avantages, limites et alternatives en 2026"
-pubDate: "2026-01-17"
+- Tech
+description: 'Le CMS le plus populaire au monde : avantages, limites et alternatives
+  en 2026'
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

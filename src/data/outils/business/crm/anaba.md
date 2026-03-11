@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Anaba"
+title: Anaba
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Anaba est un CRM français qui automatise la gestion de contacts depuis tes emails. 300+ cabinets d'avocats clients. Fondée 2018 à Montpellier. RGPD, serveurs FR."
-pubDate: "2024-03-25"
+- Outils
+description: Anaba est un CRM français qui automatise la gestion de contacts depuis
+  tes emails. 300+ cabinets d'avocats clients. Fondée 2018 à Montpellier. RGPD, serveurs
+  FR.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.anaba.fr"
+u_site: https://www.anaba.fr
 ---
 
 # Anaba

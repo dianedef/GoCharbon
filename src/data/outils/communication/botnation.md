@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Botnation AI"
+title: Botnation AI
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Botnation AI est une plateforme française de création de chatbots no-code. Messenger, WhatsApp, web, WordPress. NLP + ChatGPT. Fondé 2016 à Paris. Dès 9€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Botnation AI est une plateforme française de création de chatbots no-code.
+  Messenger, WhatsApp, web, WordPress. NLP + ChatGPT. Fondé 2016 à Paris. Dès 9€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://botnation.ai/fr/"
+u_site: https://botnation.ai/fr/
 ---
 
 # Botnation AI

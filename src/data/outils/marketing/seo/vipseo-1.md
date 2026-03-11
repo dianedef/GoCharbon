@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: null
 u_site: https://vipseo.fr
 u_affi: null

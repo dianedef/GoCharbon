@@ -4,10 +4,9 @@ metadataEnrichedAt: null
 title: HuntReach
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'RH'
-  - 'Business'
-description: "HuntReach : outil français de cold email illimité à 15 euros/mois. Warmup, IA anti-spam, email finder et LinkedIn scraper inclus."
+- Outils
+description: 'HuntReach : outil français de cold email illimité à 15 euros/mois. Warmup,
+  IA anti-spam, email finder et LinkedIn scraper inclus.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.huntreach.com/fr

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les Facteurs De Ranking Google Secrets Que Personne Ne Vous Dit
 author: Diane

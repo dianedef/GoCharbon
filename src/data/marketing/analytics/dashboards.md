@@ -3,10 +3,9 @@ section: blog
 title: Tableaux de Bord Marketing
 author: Diane
 tags:
-  - 'Marketing'
-  - 'Analytics'
+- Marketing
 description: Créez des dashboards marketing efficaces pour piloter votre performance
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

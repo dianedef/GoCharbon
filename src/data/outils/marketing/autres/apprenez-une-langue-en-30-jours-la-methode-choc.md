@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Apprenez Une Langue En 30 Jours La Méthode Choc Qui Affole Les Polyglottes

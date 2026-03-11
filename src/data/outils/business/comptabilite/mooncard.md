@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Mooncard"
+title: Mooncard
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Mooncard automatise la gestion des notes de frais grâce à une carte corporate intelligente. 6 000+ entreprises, intégrations Sage/Cegid/SAP, 97% des reçus récupérés en 24h."
-pubDate: "2024-03-25"
+- Outils
+description: Mooncard automatise la gestion des notes de frais grâce à une carte corporate
+  intelligente. 6 000+ entreprises, intégrations Sage/Cegid/SAP, 97% des reçus récupérés
+  en 24h.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.mooncard.co"
+u_site: https://www.mooncard.co
 ---
 
 # Mooncard

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
+- Outils
 title: Pourquoi J'Abandonne Wordpress
 author: Diane
 description: 'Découvre Pourquoi J''Abandonne Wordpress : outil français pour entrepreneurs,

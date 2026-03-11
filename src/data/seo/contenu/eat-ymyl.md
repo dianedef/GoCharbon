@@ -4,9 +4,6 @@ title: 'E-A-T et YMYL en SEO : Guide Complet'
 author: Diane
 tags:
 - SEO
-- E-A-T
-- YMYL
-- Audit
 description: Guide complet sur les concepts E-A-T et YMYL pour le référencement naturel
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: La Vérité Choquante Sur L'Échec De 80% Des Entreprises Comment L'Éviter
 author: Diane
 description: 'Découvre La Vérité Choquante Sur L''Échec De 80% Des Entreprises Comment

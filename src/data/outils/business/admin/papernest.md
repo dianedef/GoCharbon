@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "papernest"
+title: papernest
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Admin'
-  - 'Business'
-description: "- 📝 Souscritoo est un site web destiné aux particuliers pour souscrire leurs abonnements box, assurance et énergie en une seule fois, sans frais ni papier. - 🚀 La startup a été fon"
-pubDate: "2024-03-25"
+- Outils
+description: '- 📝 Souscritoo est un site web destiné aux particuliers pour souscrire
+  leurs abonnements box, assurance et énergie en une seule fois, sans frais ni papier.
+  - 🚀 La startup a été fon'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.papernest.com"
+u_site: https://www.papernest.com
 ---
 
 # papernest

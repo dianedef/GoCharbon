@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Favikon"
+title: Favikon
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Favikon est une plateforme française de marketing d'influence alimentée par l'IA. Découverte et scoring d'influenceurs sur 9 réseaux. 10M+ créateurs. Dès 49€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Favikon est une plateforme française de marketing d'influence alimentée
+  par l'IA. Découverte et scoring d'influenceurs sur 9 réseaux. 10M+ créateurs. Dès
+  49€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.favikon.com"
+u_site: https://www.favikon.com
 ---
 
 # Favikon

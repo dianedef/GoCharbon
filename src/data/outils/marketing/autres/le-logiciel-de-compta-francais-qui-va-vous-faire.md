@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Le Logiciel De Compta Français Qui Va Vous Faire Aimer Les Chiffres
 author: Diane

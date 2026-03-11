@@ -5,8 +5,7 @@ type: Blog
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Découvertes Médicales Choquantes Qui Vont Changer Votre Vie
 author: Diane
 description: 'Découvre Les Découvertes Médicales Choquantes Qui Vont Changer Votre

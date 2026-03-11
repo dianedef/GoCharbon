@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Batch"
+title: Batch
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Batch est la plateforme française d'engagement client omnicanal. Push, email, SMS, in-app, WhatsApp. 400+ clients, 800 milliards de messages envoyés. 20M€ levés."
-pubDate: "2024-03-25"
+- Outils
+description: Batch est la plateforme française d'engagement client omnicanal. Push,
+  email, SMS, in-app, WhatsApp. 400+ clients, 800 milliards de messages envoyés. 20M€
+  levés.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://batch.com/fr"
+u_site: https://batch.com/fr
 ---
 
 # Batch

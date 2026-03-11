@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 title: Nomore Boring Stuff
 author: Diane
 description: 'Découvre Nomore Boring Stuff : outil français pour entrepreneurs, fonctionnalités

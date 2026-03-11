@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "aify"
+title: aify
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "Aify.co est une solution révolutionnaire pour la rédaction d'articles de blog, propulsée par l'intelligence artificielle. Cette plateforme offre des avantages clés pour les entrepr"
-pubDate: "2024-03-25"
+- Outils
+description: Aify.co est une solution révolutionnaire pour la rédaction d'articles
+  de blog, propulsée par l'intelligence artificielle. Cette plateforme offre des avantages
+  clés pour les entrepr
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://aify.co/fr"
+u_site: https://aify.co/fr
 ---
 
 # aify

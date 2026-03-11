@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Mythes Seo Qui Vous Coûtent Des Milliers D'Euros La Vérité Enfin Révélée
 author: Diane
 description: 'Découvre Les Mythes Seo Qui Vous Coûtent Des Milliers D''Euros La Vérité

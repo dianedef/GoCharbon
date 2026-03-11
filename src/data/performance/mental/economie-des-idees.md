@@ -1,10 +1,12 @@
 ---
 section: blog
-title: "L'Économie des Idées : Guide pour Prospérer dans l'Ère Numérique"
-author: "Tech Expert"
-tags: ['Stratégie']
-description: "Découvrez comment développer votre valeur professionnelle et personnelle dans l'économie moderne des idées, inspiré par James Altucher"
-pubDate: "2024-03-25"
+title: 'L''Économie des Idées : Guide pour Prospérer dans l''Ère Numérique'
+author: Tech Expert
+tags:
+- Productivité
+description: Découvrez comment développer votre valeur professionnelle et personnelle
+  dans l'économie moderne des idées, inspiré par James Altucher
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

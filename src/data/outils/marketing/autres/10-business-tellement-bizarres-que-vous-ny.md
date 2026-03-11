@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Rédaction
-- Marketing
+- Outils
 imageNameKey: business-chelous
 u_site: null
 title: 10 Business Tellement Bizarres Que Vous N'Y Croirez Pas

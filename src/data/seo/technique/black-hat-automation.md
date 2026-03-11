@@ -1,13 +1,12 @@
 ---
 section: blog
-title: "Black Hat SEO & Automatisation : Le Guide No Bullshit"
+title: 'Black Hat SEO & Automatisation : Le Guide No Bullshit'
 author: Diane
 tags:
-  - 'Black Hat'
-  - 'Automatisation'
-  - 'SEO'
-description: Découvre comment automatiser ta génération de contenu et utiliser les techniques de Black Hat SEO pour ranker vite.
-pubDate: "2026-01-22"
+- SEO
+description: Découvre comment automatiser ta génération de contenu et utiliser les
+  techniques de Black Hat SEO pour ranker vite.
+pubDate: '2026-01-22'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

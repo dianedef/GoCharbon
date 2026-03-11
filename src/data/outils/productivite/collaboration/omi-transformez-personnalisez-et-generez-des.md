@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Omi"
+title: Omi
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-  - 'Collaboration'
-description: "Omi est la plateforme française de jumeaux numériques 3D pour marques CPG. 3000+ marques, 90% d'économies vs photos. Paris. Dès $39/mois. Résolution 8K."
-pubDate: "2024-03-25"
+- Outils
+description: Omi est la plateforme française de jumeaux numériques 3D pour marques
+  CPG. 3000+ marques, 90% d'économies vs photos. Paris. Dès $39/mois. Résolution 8K.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://omi.so/fr/"
+u_site: https://omi.so/fr/
 ---
 
 # Omi

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: L'Ordi Dans Le Cloud Qui Va Rendre Votre Pc Obsolète
 author: Diane
 description: 'Découvre L''Ordi Dans Le Cloud Qui Va Rendre Votre Pc Obsolète : outil

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Générez du trafic et suivez vos concurrents!"
+title: Générez du trafic et suivez vos concurrents!
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Agences SEO E-commerces Entreprises de toutes tailles Consultants SEO ♻ SEMrush ♻ Ahrefs ♻ Moz Cocolyze propose plusieurs plans tarifaires adaptés aux besoins des utilisateurs : - "
-pubDate: "2024-03-25"
+- Outils
+description: 'Agences SEO E-commerces Entreprises de toutes tailles Consultants SEO
+  ♻ SEMrush ♻ Ahrefs ♻ Moz Cocolyze propose plusieurs plans tarifaires adaptés aux
+  besoins des utilisateurs : - '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://cocolyze.com/fr/"
+u_site: https://cocolyze.com/fr/
 ---
 
 # Générez du trafic et suivez vos concurrents!

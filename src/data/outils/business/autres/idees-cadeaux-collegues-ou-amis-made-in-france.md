@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
-- CRM
+- Outils
 imageNameKey: null
 u_site: null
 title: Idées Cadeaux Collègues Ou Amis Made In France

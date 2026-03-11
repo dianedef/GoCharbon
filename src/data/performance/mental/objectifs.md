@@ -3,11 +3,10 @@ section: blog
 title: Définir et atteindre tes objectifs
 author: Diane
 tags:
-  - 'Productivité'
-  - 'Objectifs'
-  - 'Planification'
-description: "Découvre l'art de fixer des objectifs ambitieux et de les transformer en réalité concrète"
-pubDate: "2024-03-25"
+- Productivité
+description: Découvre l'art de fixer des objectifs ambitieux et de les transformer
+  en réalité concrète
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

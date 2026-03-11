@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: wimi
 u_site: https://www.wimi-teamwork.com/fr/
 u_affi: null

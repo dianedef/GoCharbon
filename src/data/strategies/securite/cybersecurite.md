@@ -3,8 +3,7 @@ section: blog
 title: 'Guide de Cybersécurité pour les Entrepreneurs : Guide Complet'
 author: Diane
 tags:
-- Sécurité
-- Légal
+- Business
 description: Guide complet sur la cybersécurité et la protection des données pour
   les entrepreneurs
 pubDate: '2024-03-25'

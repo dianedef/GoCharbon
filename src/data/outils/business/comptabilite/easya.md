@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "EasyA Solutions"
+title: EasyA Solutions
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "EasyA Solutions est un ERP cloud open source pour TPE/PME basé sur Dolibarr, Nextcloud et Metabase. Hébergé en France (OVH), il offre gestion commerciale, comptabilité et BI intégrée."
-pubDate: "2024-03-25"
+- Outils
+description: EasyA Solutions est un ERP cloud open source pour TPE/PME basé sur Dolibarr,
+  Nextcloud et Metabase. Hébergé en France (OVH), il offre gestion commerciale, comptabilité
+  et BI intégrée.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://easya.solutions"
+u_site: https://easya.solutions
 ---
 
 # EasyA Solutions

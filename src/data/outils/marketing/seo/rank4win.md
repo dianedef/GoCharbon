@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Rank4win"
+title: Rank4win
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "[Wordpress SEO Plugin - Cocon Sémantique - Stratégie de mots clés - Rank4win](https://rank4win.fr/) backlink? Rank4Win est une plateforme qui fournit des outils de suivi de positio"
-pubDate: "2024-03-25"
+- Outils
+description: '[Wordpress SEO Plugin - Cocon Sémantique - Stratégie de mots clés -
+  Rank4win](https://rank4win.fr/) backlink? Rank4Win est une plateforme qui fournit
+  des outils de suivi de positio'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://rank4win.fr/"
+u_site: https://rank4win.fr/
 ---
 
 # Rank4win

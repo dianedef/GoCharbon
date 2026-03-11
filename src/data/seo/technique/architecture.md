@@ -4,8 +4,6 @@ title: 'Architecture SEO : Guide Complet'
 author: Diane
 tags:
 - SEO
-- Architecture
-- Technique
 description: Guide complet sur l'architecture technique optimisée pour le SEO
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg

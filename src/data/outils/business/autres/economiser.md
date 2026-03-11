@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
-- Comptabilité
+- Outils
 title: Économiser
 author: Diane
 description: 'Découvre Économiser : outil français pour entrepreneurs, fonctionnalités

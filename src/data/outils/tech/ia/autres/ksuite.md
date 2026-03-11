@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Ksuite
 author: Diane
 description: 'Découvre Ksuite : outil français pour entrepreneurs, fonctionnalités

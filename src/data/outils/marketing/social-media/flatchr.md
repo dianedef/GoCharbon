@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "flatchr"
+title: flatchr
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "Si tu cherches un moyen rapide, tout-en-un, et collaboratif pour gérer le recrutement de ton entreprise, Flatchr est l'outil qu'il te faut. Voici quelques-uns de ses principaux ava"
-pubDate: "2024-03-25"
+- Outils
+description: Si tu cherches un moyen rapide, tout-en-un, et collaboratif pour gérer
+  le recrutement de ton entreprise, Flatchr est l'outil qu'il te faut. Voici quelques-uns
+  de ses principaux ava
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.flatchr.io"
+u_site: https://www.flatchr.io
 ---
 
 # flatchr

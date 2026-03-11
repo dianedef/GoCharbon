@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Sellsy"
+title: Sellsy
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Sellsy est une suite CRM française tout-en-un : prospection, facturation, trésorerie, IA. Fondée en 2009 à La Rochelle. 23 000 clients, 65 000 utilisateurs. Acquis par TeamSystem (2025)."
-pubDate: "2024-03-25"
+- Outils
+description: 'Sellsy est une suite CRM française tout-en-un : prospection, facturation,
+  trésorerie, IA. Fondée en 2009 à La Rochelle. 23 000 clients, 65 000 utilisateurs.
+  Acquis par TeamSystem (2025).'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://go.sellsy.com"
+u_site: https://go.sellsy.com
 ---
 
 # Sellsy

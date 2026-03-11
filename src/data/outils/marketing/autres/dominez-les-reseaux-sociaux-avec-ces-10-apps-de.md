@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Dominez Les Réseaux Sociaux Avec Ces 10 Apps De Pub Surpuissantes

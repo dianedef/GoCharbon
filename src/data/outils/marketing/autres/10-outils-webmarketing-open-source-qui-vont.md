@@ -6,8 +6,7 @@ statut:
 - en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: '10 Outils Webmarketing Open Source Qui Vont Pulvériser Vos Concurrents En '
 author: Diane
 description: 'Découvre 10 Outils Webmarketing Open Source Qui Vont Pulvériser Vos

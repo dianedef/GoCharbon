@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: secret
 author: Diane
 tags:
-- Outils Français
-- Email
-- Marketing
+- Outils
 description: Today, 45,000+ people are using Secret and hundreds of VCs, accelerators,
   fintech and marketplaces provide our white-labeled platform to their own cust
 pubDate: '2024-03-25'

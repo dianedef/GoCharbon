@@ -1,7 +1,7 @@
 ---
 section: tutos
 tags:
-- Rédaction
+- Tutoriels
 imageNameKey: optimiser-video-youtube
 u_site: null
 title: Comment Optimiser Ses Vidéo Youtube Automatiquement

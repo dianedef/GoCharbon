@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Vision Entrepreneuriale : Guide Complet"
+title: 'Vision Entrepreneuriale : Guide Complet'
 author: Diane
 tags:
-  - 'Vision'
-  - 'Stratégie'
-  - 'Entrepreneuriat'
-  - 'Business'
+- Business
 description: Guide complet pour développer une vision entrepreneuriale claire et efficace
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

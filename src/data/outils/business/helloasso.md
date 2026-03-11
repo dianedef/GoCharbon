@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "helloasso"
+title: helloasso
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "HelloAsso, une solution de gestion pour associations 100% gratuite et en ligne, se distingue par ses nombreux avantages pour les associations et clubs. Découvrons les bénéfices, le"
-pubDate: "2024-03-25"
+- Outils
+description: HelloAsso, une solution de gestion pour associations 100% gratuite et
+  en ligne, se distingue par ses nombreux avantages pour les associations et clubs.
+  Découvrons les bénéfices, le
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.helloasso.com"
+u_site: https://www.helloasso.com
 ---
 
 # helloasso

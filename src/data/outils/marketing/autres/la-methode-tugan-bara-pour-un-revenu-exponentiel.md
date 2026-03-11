@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Rédaction
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: La Méthode Tugan Bara Pour Un Revenu Exponentiel Trop Beau Pour Être Vrai

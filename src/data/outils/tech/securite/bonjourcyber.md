@@ -1,16 +1,14 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "BonjourCyber"
+title: BonjourCyber
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Tech'
-  - 'Sécurité'
-description: "BonjourCyber, la startup française spécialisée dans les services de [cybersécurité](https://www.frenchweb.fr/cybersecurite-lassemblee-nationale-vote-le-renforcement-de-lanssi/44335"
-pubDate: "2024-03-25"
+- Outils
+description: BonjourCyber, la startup française spécialisée dans les services de [cybersécurité](https://www.frenchweb.fr/cybersecurite-lassemblee-nationale-vote-le-renforcement-de-lanssi/44335
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.bonjourcyber.com/"
+u_site: https://www.bonjourcyber.com/
 ---
 
 # BonjourCyber

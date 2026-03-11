@@ -4,7 +4,6 @@ title: Pet Sitter (Garde d'animaux)
 author: Web Indé
 tags:
 - Business
-- Freelancing
 description: 'Deviens pet-sitter professionnel : plateformes, tarification et conseils
   pour gardiens d''animaux.'
 pubDate: '2024-01-01'

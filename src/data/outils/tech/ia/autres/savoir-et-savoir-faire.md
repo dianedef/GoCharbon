@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Savoir Et Savoir Faire
 author: Diane
 description: 'Découvre Savoir Et Savoir Faire : outil français pour entrepreneurs,

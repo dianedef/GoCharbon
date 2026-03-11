@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Sg autorépondeur"
+title: Sg autorépondeur
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Facilite la gestion des inscriptions automatiques Intégration avec d'autres outils marketing Garantit une excellente délivrabilité des emails Offre des forfaits adaptés à chaque be"
-pubDate: "2024-03-25"
+- Outils
+description: Facilite la gestion des inscriptions automatiques Intégration avec d'autres
+  outils marketing Garantit une excellente délivrabilité des emails Offre des forfaits
+  adaptés à chaque be
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://sg-autorepondeur.com/public/index.php"
+u_site: https://sg-autorepondeur.com/public/index.php
 ---
 
 # Sg autorépondeur

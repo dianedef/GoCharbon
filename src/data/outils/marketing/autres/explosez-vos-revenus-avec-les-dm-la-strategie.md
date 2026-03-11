@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: null
 u_site: null
 title: Explosez Vos Revenus Avec Les Dm La Stratégie Secrète Des Influenceurs

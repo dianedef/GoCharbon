@@ -2,10 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Rédaction
-- Marketing
-- Social Media
+- Outils
 u_affi: appsumo.8odi.net/go-select,appsumo.8odi.net/join-the-sauce,appsumo.8odi.net/go-plus,appsumo.8odi.net/go-marketplace
 u_affiAdmin: null
 imageNameKey: lancement-appsumo

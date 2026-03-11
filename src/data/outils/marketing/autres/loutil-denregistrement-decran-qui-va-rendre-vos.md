@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Rédaction
-- Marketing
+- Outils
 imageNameKey: enregistrer-windows
 title: L'Outil D'Enregistrement D'Écran Qui Va Rendre Vos Vidéos Virales
 author: Diane

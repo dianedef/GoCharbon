@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: No Code Créez Une App Qui Vaut Des Millions Sans Écrire Une Ligne De Code

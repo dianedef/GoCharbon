@@ -5,8 +5,7 @@ type: Blog
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Créez Du Contenu Viral En 5 Minutes Avec Ces Outils Magiques
 author: Diane
 description: 'Découvre Créez Du Contenu Viral En 5 Minutes Avec Ces Outils Magiques

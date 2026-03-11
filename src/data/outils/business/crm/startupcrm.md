@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "StartupCRM"
+title: StartupCRM
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "StartupCRM est un CRM français tout-en-un pour TPE/PME. Pilotage 360° : marketing, commercial, gestion. Pipeline, devis, facturation, campagnes. RGPD compliant."
-pubDate: "2024-03-25"
+- Outils
+description: 'StartupCRM est un CRM français tout-en-un pour TPE/PME. Pilotage 360°
+  : marketing, commercial, gestion. Pipeline, devis, facturation, campagnes. RGPD
+  compliant.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://startupcrm.fr"
+u_site: https://startupcrm.fr
 ---
 
 # StartupCRM

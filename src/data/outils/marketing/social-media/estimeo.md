@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "estimeo"
+title: estimeo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "Estimeo, un acteur majeur dans l'écosystème des startups, propose une expertise indépendante qui optimise et accélère le financement des jeunes entreprises. Leurs services s'adress"
-pubDate: "2024-03-25"
+- Outils
+description: Estimeo, un acteur majeur dans l'écosystème des startups, propose une
+  expertise indépendante qui optimise et accélère le financement des jeunes entreprises.
+  Leurs services s'adress
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.estimeo.com"
+u_site: https://www.estimeo.com
 ---
 
 # estimeo

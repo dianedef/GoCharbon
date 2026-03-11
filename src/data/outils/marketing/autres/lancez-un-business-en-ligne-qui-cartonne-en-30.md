@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Lancez Un Business En Ligne Qui Cartonne En 30 Jours La Méthode Infaillible
 author: Diane

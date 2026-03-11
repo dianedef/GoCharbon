@@ -11,8 +11,7 @@ projet:
 title: Extension Saver
 author: Diane
 tags:
-- Outils Français
-- Tech
+- Outils
 description: 'Découvre Extension Saver : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

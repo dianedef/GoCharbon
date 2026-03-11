@@ -7,8 +7,7 @@ statut:
 _priorité: normal
 imageNameKey: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: La Méthode Révolutionnaire De Priorisation Qui Va Changer La Vie Des Hyperactifs
 author: Diane
 description: 'Découvre La Méthode Révolutionnaire De Priorisation Qui Va Changer La

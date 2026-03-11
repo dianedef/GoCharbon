@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Mesurez Vos Résultats Comme Un Pro Avec Ces Astuces Choc
 author: Diane

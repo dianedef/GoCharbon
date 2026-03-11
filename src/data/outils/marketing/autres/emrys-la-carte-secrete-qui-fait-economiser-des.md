@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Rédaction
-- Marketing
+- Outils
 imageNameKey: emrys
 title: Emrys La Carte Secrète Qui Fait Économiser Des Milliers D'Euros Sur Vos Courses
 author: Diane

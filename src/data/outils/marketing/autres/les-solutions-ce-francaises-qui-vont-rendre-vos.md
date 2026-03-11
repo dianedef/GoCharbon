@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les Solutions Ce Françaises Qui Vont Rendre Vos Employés Accros
 author: Diane

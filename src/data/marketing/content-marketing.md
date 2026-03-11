@@ -3,9 +3,7 @@ section: blog
 title: 'CONTENT MARKETING : L''ART D''ATTIRER SANS VENDRE'
 author: Diane
 tags:
-- Contenu
 - Marketing
-- Stratégie
 description: Stratégies de content marketing pour attirer des clients qualifiés sans
   passer pour un vendeur de tapis
 pubDate: '2024-03-25'

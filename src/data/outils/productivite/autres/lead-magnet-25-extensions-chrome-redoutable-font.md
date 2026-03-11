@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Productivité
+- Outils
 imageNameKey: null
 title: Lead Magnet   25 Extensions Chrome Redoutable Font Gagner 10H Par Semaines
 author: Diane

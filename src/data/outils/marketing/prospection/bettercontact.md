@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "BetterContact"
+title: BetterContact
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "BetterContact est une plateforme française d'enrichissement de contacts B2B par waterfall. 20+ sources de données, vérification email 99,5%. Basé à Lyon. Dès 15$/mois."
-pubDate: "2024-03-25"
+- Outils
+description: BetterContact est une plateforme française d'enrichissement de contacts
+  B2B par waterfall. 20+ sources de données, vérification email 99,5%. Basé à Lyon.
+  Dès 15$/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://bettercontact.rocks"
+u_site: https://bettercontact.rocks
 ---
 
 # BetterContact

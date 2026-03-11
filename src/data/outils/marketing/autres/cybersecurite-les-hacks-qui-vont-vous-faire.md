@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Cybersécurité Les Hacks Qui Vont Vous Faire Frémir (Et Comment S'En Protéger)
 author: Diane

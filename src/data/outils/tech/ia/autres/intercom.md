@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: intercom
 title: Intercom
 author: Diane

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "A- 1.Fr"
+title: A- 1.Fr
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "En utilisant 1.fr, tu peux améliorer le classement de ton site web dans les moteurs de recherche. Environ 70% des pages optimisées obtiennent de meilleurs classements sous 5 semain"
-pubDate: "2024-03-25"
+- Outils
+description: En utilisant 1.fr, tu peux améliorer le classement de ton site web dans
+  les moteurs de recherche. Environ 70% des pages optimisées obtiennent de meilleurs
+  classements sous 5 semain
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://1.fr"
+u_site: https://1.fr
 ---
 
 # A- 1.Fr

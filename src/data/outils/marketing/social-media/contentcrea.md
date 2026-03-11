@@ -4,13 +4,12 @@ metadataEnrichedAt: null
 title: ContentCrea
 author: Diane
 tags:
-  - 'Outils Francais'
-  - 'Social Media'
-  - 'Marketing'
+- Outils
 imageNameKey: contentcrea
-u_site: "https://contentcrea.com"
+u_site: https://contentcrea.com
 u_affi: null
-description: "ContentCrea : plateforme IA de content marketing editorial. Strategie, personas, calendrier, creation. Des 32eur/mois."
+description: 'ContentCrea : plateforme IA de content marketing editorial. Strategie,
+  personas, calendrier, creation. Des 32eur/mois.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

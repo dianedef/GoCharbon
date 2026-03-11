@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 u_site: null
 title: Ab Testing Doublez Vos Ventes Avec Cette Technique Secrète
 author: Diane

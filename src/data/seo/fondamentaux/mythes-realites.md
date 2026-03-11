@@ -4,7 +4,6 @@ title: 'Mythes et Réalités SEO : Le Guide No Bullshit'
 author: Diane
 tags:
 - SEO
-- Stratégie
 description: Découvre la vérité sur les théories du complot Google et les mythes SEO.
   On démonte le bullshit pour se concentrer sur ce qui booste vraiment ton trafic.
 pubDate: '2026-01-22'

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Communication
+- Outils
 u_site: null
 title: Reddit
 author: Diane

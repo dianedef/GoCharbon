@@ -4,13 +4,12 @@ metadataEnrichedAt: null
 title: ShopCaisse
 author: Diane
 tags:
-- Outils Français
-- E-commerce
-- Paiement
-description: "ShopCaisse : logiciel de caisse enregistreuse tactile sur iPad et Android dès 19,99€/mois. 300+ fonctionnalités, certifié NF525."
+- Outils
+description: 'ShopCaisse : logiciel de caisse enregistreuse tactile sur iPad et Android
+  dès 19,99€/mois. 300+ fonctionnalités, certifié NF525.'
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.shopcaisse.com/"
+u_site: https://www.shopcaisse.com/
 ---
 
 # ShopCaisse

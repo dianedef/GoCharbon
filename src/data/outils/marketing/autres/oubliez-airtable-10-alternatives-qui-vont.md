@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Oubliez Airtable 10 Alternatives Qui Vont Révolutionner Votre Productivité
 author: Diane
 description: 'Découvre Oubliez Airtable 10 Alternatives Qui Vont Révolutionner Votre

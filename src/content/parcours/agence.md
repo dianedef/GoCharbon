@@ -45,7 +45,7 @@ Structurer une agence orientée résultats avec un process de travail simple et 
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
 - [Suivi du parcours](/parcours/agence)
-- [Ressource utile 1](/biz/freelance/index)
+- [Ressource utile 1](/biz/freelance)
 - [Ressource utile 2](/tutos/trouver-des-prospects-qualifies-pour-votre-agence)
 - [Ressource utile 3](/tutos/implementer-un-gestionnaire-de-relations-clients)
 

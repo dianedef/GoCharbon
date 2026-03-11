@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Formation Lienvisuel
 author: Diane
 description: 'Découvre Formation Lienvisuel : outil français pour entrepreneurs, fonctionnalités

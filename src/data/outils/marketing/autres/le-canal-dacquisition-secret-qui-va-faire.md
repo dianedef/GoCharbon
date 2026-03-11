@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Le Canal D'Acquisition Secret Qui Va Faire Exploser Votre Chiffre D'Affaires

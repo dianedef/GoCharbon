@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "ringover"
+title: ringover
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Ringover est une entreprise française qui propose une solution de téléphonie VoIP pour les entreprises. Voici toutes les informations relatives à cet outil : 1. Présentation du pro"
-pubDate: "2024-03-25"
+- Outils
+description: 'Ringover est une entreprise française qui propose une solution de téléphonie
+  VoIP pour les entreprises. Voici toutes les informations relatives à cet outil :
+  1. Présentation du pro'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.ringover.fr/"
+u_site: https://www.ringover.fr/
 ---
 
 # ringover

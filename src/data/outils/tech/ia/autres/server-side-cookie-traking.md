@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Server Side Cookie Traking
 author: Diane
 description: 'Découvre Server Side Cookie Traking : outil français pour entrepreneurs,

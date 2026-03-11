@@ -4,10 +4,9 @@ metadataEnrichedAt: null
 title: LinkExpress
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "LinkExpress : service de netlinking francais cle en main. +20 000 backlinks crees, +1 800 commandes. Packs des 95EUR ou abonnement des 38EUR/mois."
+- Outils
+description: 'LinkExpress : service de netlinking francais cle en main. +20 000 backlinks
+  crees, +1 800 commandes. Packs des 95EUR ou abonnement des 38EUR/mois.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.linkexpress.fr/

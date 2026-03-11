@@ -11,9 +11,7 @@ projet:
 title: Cette Compétence Paye Plus Que Le Prompt Engineering
 author: Diane
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 description: 'Découvre Cette Compétence Paye Plus Que Le Prompt Engineering : outil
   français pour entrepreneurs, fonctionnalités et avis.'
 pubDate: '2024-03-25'

@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "L'Art de la Prise de Décision : Guide Stratégique"
+title: 'L''Art de la Prise de Décision : Guide Stratégique'
 author: Diane
 tags:
-  - 'Décision'
-  - 'Stratégie'
-  - 'Management'
-  - 'Leadership'
-description: "Guide complet sur l'art de la prise de décision stratégique en entreprise"
-pubDate: "2024-03-25"
+- Business
+description: Guide complet sur l'art de la prise de décision stratégique en entreprise
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

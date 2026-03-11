@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: La Fin De Google Analytics Ce Qui Va Remplacer Le Géant Et Pourquoi C'Est Génial
 author: Diane
 description: 'Découvre La Fin De Google Analytics Ce Qui Va Remplacer Le Géant Et

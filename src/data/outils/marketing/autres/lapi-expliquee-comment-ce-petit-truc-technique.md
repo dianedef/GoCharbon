@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: L'Api Expliquée Comment Ce Petit Truc Technique Peut Vous Rendre Millionnaire

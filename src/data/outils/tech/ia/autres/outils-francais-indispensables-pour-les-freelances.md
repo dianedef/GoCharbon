@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 u_site: null
 title: Outils Français Indispensables Pour Les Freelances
 author: Diane

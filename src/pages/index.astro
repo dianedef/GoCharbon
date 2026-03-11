@@ -3,8 +3,9 @@ import Layout from "../layouts/Default.astro";
 import Button from "../components/components/Button.astro";
 import PostSummaryCard from "../components/components/PostSummaryCard.astro";
 import { getCollection } from "astro:content";
+import { filterBuildVisiblePosts } from "../utils/build-posts";
 
-const recentPosts = (await getCollection("posts"))
+const recentPosts = filterBuildVisiblePosts(await getCollection("posts"))
 	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
 	.slice(0, 3);
 ---

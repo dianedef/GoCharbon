@@ -5,9 +5,7 @@ statut: null
 type: Logiciel
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 u_site: https://dokey.io/app/projects
 imageNameKey: dokey
 title: Dokey

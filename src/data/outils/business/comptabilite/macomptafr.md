@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Macompta.fr"
+title: Macompta.fr
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Macompta.fr est le logiciel comptable français bootstrappé depuis 2007. 100 000+ utilisateurs, coté Euronext, Plateforme Agréée e-facturation. Dès 7€/mois HT."
-pubDate: "2024-03-25"
+- Outils
+description: Macompta.fr est le logiciel comptable français bootstrappé depuis 2007.
+  100 000+ utilisateurs, coté Euronext, Plateforme Agréée e-facturation. Dès 7€/mois
+  HT.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.macompta.fr"
+u_site: https://www.macompta.fr
 ---
 
 # Macompta.fr

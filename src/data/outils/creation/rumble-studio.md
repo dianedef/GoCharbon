@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Rumble studio"
+title: Rumble studio
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Création'
-description: "Rumble Studio est passé par le site d'Anthony Nevo, [Vie De Dingue](http://viededingue1.com/F6JPnB) Rumble Studio est une plateforme de création de podcast asynchrone (qui gère aus"
-pubDate: "2024-03-25"
+- Outils
+description: Rumble Studio est passé par le site d'Anthony Nevo, [Vie De Dingue](http://viededingue1.com/F6JPnB)
+  Rumble Studio est une plateforme de création de podcast asynchrone (qui gère aus
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.rumble.studio"
+u_site: https://www.rumble.studio
 ---
 
 # Rumble studio

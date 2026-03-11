@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Plus de 20% du trafic organique de Google provient de la recherche d'images"
+title: Plus de 20% du trafic organique de Google provient de la recherche d'images
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "L'optimisation du référencement des images devrait être incluse dans toute **bonne stratégie SEO !** Éviter le bourrage de mots-clés et optimiser vos images pour le référencement p"
-pubDate: "2024-03-25"
+- Outils
+description: L'optimisation du référencement des images devrait être incluse dans
+  toute **bonne stratégie SEO !** Éviter le bourrage de mots-clés et optimiser vos
+  images pour le référencement p
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://imageseo.io/fr/"
+u_site: https://imageseo.io/fr/
 ---
 
 # Plus de 20% du trafic organique de Google provient de la recherche d'images

@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "AssoConnect"
+title: AssoConnect
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "AssoConnect est la plateforme tout-en-un pour associations. Adhésions, dons en ligne, site web, communication et comptabilité. 40 000+ gestionnaires d'associations."
-pubDate: "2024-03-25"
+- Outils
+description: AssoConnect est la plateforme tout-en-un pour associations. Adhésions,
+  dons en ligne, site web, communication et comptabilité. 40 000+ gestionnaires d'associations.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.assoconnect.com"
+u_site: https://www.assoconnect.com
 ---
 
 # AssoConnect

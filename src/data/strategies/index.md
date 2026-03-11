@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Stratégies Business : Guide Complet"
+title: 'Stratégies Business : Guide Complet'
 author: Diane
 tags:
-  - 'Stratégie'
-  - 'Business'
-  - 'Management'
-  - 'Innovation'
+- Business
 description: Les stratégies business qui marchent en 2026, pas de bullshit
-pubDate: "2026-01-17"
+pubDate: '2026-01-17'
 imgUrl: ../../assets/astro.jpeg
 ---
 

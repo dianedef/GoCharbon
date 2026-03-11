@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Comment J'Ai Trouvé 10 000 Emails Professionnels En 1 Heure La Méthode Choc

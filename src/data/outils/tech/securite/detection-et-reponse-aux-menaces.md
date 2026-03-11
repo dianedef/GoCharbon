@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Détection et réponse aux menaces"
+title: Détection et réponse aux menaces
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Tech'
-  - 'Sécurité'
-description: "[L'Usine Digitale : l'actualité économique, les infos sur les entreprises et tous les secteurs de l'industrie](https://www.usine-digitale.fr/) Ils se sont rendus compte que les pet"
-pubDate: "2024-03-25"
+- Outils
+description: '[L''Usine Digitale : l''actualité économique, les infos sur les entreprises
+  et tous les secteurs de l''industrie](https://www.usine-digitale.fr/) Ils se sont
+  rendus compte que les pet'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://bastion.tech"
+u_site: https://bastion.tech
 ---
 
 # Détection et réponse aux menaces

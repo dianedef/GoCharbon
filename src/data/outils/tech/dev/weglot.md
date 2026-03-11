@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "weglot"
+title: weglot
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Dev'
-  - 'Tech'
-description: "[Plugin de traduction WordPress - Weglot](https://weglot.com/fr/integrations/wordpress-translation-plugin/) Bien sûr, voici toutes les informations que j'ai trouvées à propos de We"
-pubDate: "2024-03-25"
+- Outils
+description: '[Plugin de traduction WordPress - Weglot](https://weglot.com/fr/integrations/wordpress-translation-plugin/)
+  Bien sûr, voici toutes les informations que j''ai trouvées à propos de We'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://weglot.com/fr/"
+u_site: https://weglot.com/fr/
 ---
 
 # weglot

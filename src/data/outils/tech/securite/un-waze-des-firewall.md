@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Un _« Waze des firewall »_"
+title: Un _« Waze des firewall »_
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Tech'
-  - 'Sécurité'
-description: "[CONTENU PARTENAIRE] Start-up créée voici trois ans, Crowdsec édite un logiciel open source d'identification et de partage des adresses IP malveillantes. Directeur général et cofon"
-pubDate: "2024-03-25"
+- Outils
+description: '[CONTENU PARTENAIRE] Start-up créée voici trois ans, Crowdsec édite
+  un logiciel open source d''identification et de partage des adresses IP malveillantes.
+  Directeur général et cofon'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.crowdsec.net"
+u_site: https://www.crowdsec.net
 ---
 
 # Un _« Waze des firewall »_

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: L'Erreur Qui A Créé Une Industrie De 30 Milliards L'Histoire Folle Du Poulet

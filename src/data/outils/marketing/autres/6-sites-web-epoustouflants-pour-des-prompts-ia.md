@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 6 Sites Web Époustouflants Pour Des Prompts Ia Qui Vont Casser Internet

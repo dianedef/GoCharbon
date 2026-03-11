@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: '2026-03-01'
 type: app
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: breakcold
 u_site: https://www.breakcold.com/fr
 u_affiAdmin: https://www.breakcold.com/fr/affiliate

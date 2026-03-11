@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Shopify : Guide Complet"
+title: 'Shopify : Guide Complet'
 author: Diane
 tags:
-  - 'Shopify'
-  - 'E-commerce'
-  - 'Web'
-  - 'Digital'
+- Tech
 description: La plateforme e-commerce la plus populaire en 2026
-pubDate: "2026-01-17"
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

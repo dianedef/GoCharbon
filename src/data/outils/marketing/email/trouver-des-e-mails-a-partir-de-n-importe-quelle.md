@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Trouver des e-mails à partir de n'importe quelle pagesur LinkedIn"
+title: Trouver des e-mails à partir de n'importe quelle pagesur LinkedIn
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "<aside> 📢 🎈 Zoom, Calendly & Zendesk alternative 👏🤓 </aside> <aside> L’outil est 100% RGPD compliant Alternative à : [Kompass.fr](http://Kompass.fr) </aside> [Spylead - Prix](https"
-pubDate: "2024-03-25"
+- Outils
+description: '<aside> 📢 🎈 Zoom, Calendly & Zendesk alternative 👏🤓 </aside> <aside>
+  L’outil est 100% RGPD compliant Alternative à : [Kompass.fr](http://Kompass.fr)
+  </aside> [Spylead - Prix](https'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.fr.spylead.com/"
+u_site: https://www.fr.spylead.com/
 ---
 
 # Trouver des e-mails à partir de n'importe quelle pagesur LinkedIn

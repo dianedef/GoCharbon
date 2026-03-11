@@ -11,8 +11,7 @@ projet:
 title: Arrête De Procrastiner L'App De Notes Qui Va Changer Ta Vie
 author: Diane
 tags:
-- Outils Français
-- Création
+- Outils
 description: 'Découvre Arrête De Procrastiner L''App De Notes Qui Va Changer Ta Vie
   : outil français pour entrepreneurs, fonctionnalités et avis.'
 pubDate: '2024-03-25'

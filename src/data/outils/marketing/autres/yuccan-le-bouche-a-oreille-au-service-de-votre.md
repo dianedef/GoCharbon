@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: yuccan
 u_site: https://yuccan.app/fr/
 u_affi: null

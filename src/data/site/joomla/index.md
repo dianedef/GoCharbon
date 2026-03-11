@@ -1,14 +1,12 @@
 ---
 section: blog
-title: "Joomla : Guide Complet"
+title: 'Joomla : Guide Complet'
 author: Diane
 tags:
-  - 'Joomla'
-  - 'CMS'
-  - 'Web'
-  - 'Développement'
-description: "Le CMS alternatif à WordPress : avantages, limites et cas d'usage en 2026"
-pubDate: "2026-01-17"
+- Tech
+description: 'Le CMS alternatif à WordPress : avantages, limites et cas d''usage en
+  2026'
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

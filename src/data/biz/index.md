@@ -1,12 +1,12 @@
 ---
 section: blog
-title: "Business en Ligne : Guide Complet"
+title: 'Business en Ligne : Guide Complet'
 author: Diane
 tags:
-  - 'Business'
-  - 'Strategie'
-description: Lance ton business en ligne avec une methode simple, des etapes claires et un plan concret sur 7 jours.
-pubDate: "2026-01-17"
+- Business
+description: Lance ton business en ligne avec une methode simple, des etapes claires
+  et un plan concret sur 7 jours.
+pubDate: '2026-01-17'
 imgUrl: ../../assets/astro.jpeg
 ---
 

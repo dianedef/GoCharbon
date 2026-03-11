@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Productivité
+- Outils
 u_site: null
 title: Productivité Créer Ses Systèmes
 author: Diane

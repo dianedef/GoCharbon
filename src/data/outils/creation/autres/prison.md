@@ -8,9 +8,7 @@ type:
 title: Prison
 author: Diane
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 description: 'Découvre Prison : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

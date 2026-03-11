@@ -11,9 +11,7 @@ projet:
 title: Ce Truc Sur Les Ia Change Tout
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Ce Truc Sur Les Ia Change Tout : outil français pour entrepreneurs,
   fonctionnalités et avis.'
 pubDate: '2024-03-25'

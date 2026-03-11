@@ -3,8 +3,6 @@ section: blog
 title: 'L''Intelligence Artificielle : Guide Complet 2024'
 author: Diane
 tags:
-- IA
-- Innovation
 - Tech
 description: Comprendre l'IA, LLM, agents, et comment l'utiliser efficacement dans
   ton business

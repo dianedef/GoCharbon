@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Easya Solutions"
+title: Easya Solutions
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Easya Solutions : ERP/CRM open source souverain basé sur Dolibarr. 15+ modules maison, hébergement français, sans limite d'utilisateurs. Devis sur mesure."
-pubDate: "2024-03-25"
+- Outils
+description: 'Easya Solutions : ERP/CRM open source souverain basé sur Dolibarr. 15+
+  modules maison, hébergement français, sans limite d''utilisateurs. Devis sur mesure.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://easya.solutions"
+u_site: https://easya.solutions
 ---
 
 # Easya Solutions

@@ -4,13 +4,12 @@ metadataEnrichedAt: null
 title: ScrapeBox
 author: Diane
 tags:
-- Outils Français
-- SEO
-- Marketing
-description: "ScrapeBox : le couteau suisse du SEO. Scraping, keywords, backlinks, proxies. Licence à vie $97. 500+ mises à jour depuis 2009."
+- Outils
+description: 'ScrapeBox : le couteau suisse du SEO. Scraping, keywords, backlinks,
+  proxies. Licence à vie $97. 500+ mises à jour depuis 2009.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.scrapebox.com/"
+u_site: https://www.scrapebox.com/
 ---
 
 # ScrapeBox

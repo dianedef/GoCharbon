@@ -3,7 +3,7 @@ section: blog
 title: Les meilleures plateformes d'affiliation
 author: Diane
 tags:
-- Affiliation
+- Business
 description: Guide complet des plateformes d'affiliation les plus performantes pour
   développer tes revenus passifs
 pubDate: '2024-03-25'

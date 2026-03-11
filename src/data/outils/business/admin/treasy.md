@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "treasy"
+title: treasy
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Admin'
-  - 'Business'
-description: "Facilité de prise en main Protection des fichiers garantie Relation client améliorée Offre simple à résilier Professionnels du Patrimoine et du Courtage Professionnels du Droit Pro"
-pubDate: "2024-03-25"
+- Outils
+description: Facilité de prise en main Protection des fichiers garantie Relation client
+  améliorée Offre simple à résilier Professionnels du Patrimoine et du Courtage Professionnels
+  du Droit Pro
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://treasy.fr"
+u_site: https://treasy.fr
 ---
 
 # treasy

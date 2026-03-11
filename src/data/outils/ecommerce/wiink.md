@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Loyoly (ex-Wiink)"
+title: Loyoly (ex-Wiink)
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "Loyoly (ex-Wiink/WeWiink) est la plateforme française de fidélité, parrainage et UGC pour e-commerce Shopify. 5.0/5 Shopify (102 avis). Nantes. Seed 1,44M$."
-pubDate: "2024-03-25"
+- Outils
+description: Loyoly (ex-Wiink/WeWiink) est la plateforme française de fidélité, parrainage
+  et UGC pour e-commerce Shopify. 5.0/5 Shopify (102 avis). Nantes. Seed 1,44M$.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.loyoly.io"
+u_site: https://www.loyoly.io
 ---
 
 # Loyoly (ex-Wiink)

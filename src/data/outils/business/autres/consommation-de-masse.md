@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
+- Outils
 title: Consommation De Masse
 author: Diane
 description: 'Découvre Consommation De Masse : outil français pour entrepreneurs,

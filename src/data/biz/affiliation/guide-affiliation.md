@@ -1,14 +1,12 @@
 ---
 section: blog
-title: "Affiliation Marketing : Le Guide Complet pour Générer des Revenus Passifs"
+title: 'Affiliation Marketing : Le Guide Complet pour Générer des Revenus Passifs'
 author: Diane
 tags:
-  - "Affiliation"
-  - "Business"
-  - "Revenus"
-  - "Marketing"
-description: "Guide complet de l'affiliation marketing : choisir les bons programmes, créer du contenu qui convertit et scaler tes revenus."
-pubDate: "2024-03-25"
+- Business
+description: 'Guide complet de l''affiliation marketing : choisir les bons programmes,
+  créer du contenu qui convertit et scaler tes revenus.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -1,13 +1,11 @@
 ---
 section: blog
-title: "Guide Complet de l'Affiliation"
+title: Guide Complet de l'Affiliation
 author: Diane
 tags:
-  - 'Affiliation'
-  - 'Marketing'
-  - 'Business'
-description: "Guide complet sur le marketing d'affiliation et ses stratégies"
-pubDate: "2024-03-25"
+- Business
+description: Guide complet sur le marketing d'affiliation et ses stratégies
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

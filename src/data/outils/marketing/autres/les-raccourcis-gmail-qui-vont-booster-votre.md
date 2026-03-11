@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les Raccourcis Gmail Qui Vont Booster Votre Productivité De 200%
 author: Diane

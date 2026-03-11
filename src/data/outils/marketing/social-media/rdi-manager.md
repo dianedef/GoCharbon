@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Rdi manager"
+title: Rdi manager
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "- **Fondateurs :** Kevin Njifenju - **Nombre d'employés :** Moins de 10 - **Levée de fonds :** 500 000 - RDI-Manager développe une plateforme de management de l'innovation pour les"
-pubDate: "2024-03-25"
+- Outils
+description: '- **Fondateurs :** Kevin Njifenju - **Nombre d''employés :** Moins de
+  10 - **Levée de fonds :** 500 000 - RDI-Manager développe une plateforme de management
+  de l''innovation pour les'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://rdimanager.com/index.html"
+u_site: https://rdimanager.com/index.html
 ---
 
 # Rdi manager

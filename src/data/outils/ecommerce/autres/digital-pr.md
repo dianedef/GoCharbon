@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
+- Outils
 title: Digital Pr
 author: Diane
 description: 'Découvre Digital Pr : outil français pour entrepreneurs, fonctionnalités

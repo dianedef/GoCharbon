@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Devenez Un Auteur Best Seller Avec Ces 10 Apps Révolutionnaires
 author: Diane
 description: 'Découvre Devenez Un Auteur Best Seller Avec Ces 10 Apps Révolutionnaires

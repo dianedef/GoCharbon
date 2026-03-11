@@ -3,8 +3,7 @@ section: blog
 title: 'Licornes Françaises : Le Fleuron de la French Tech'
 author: Diane
 tags:
-- Startup
-- Outils Français
+- Business
 description: Découvrez l'univers des licornes françaises, ces startups valorisées
   à plus d'un milliard de dollars qui transforment l'économie numérique.
 pubDate: '2024-03-26'

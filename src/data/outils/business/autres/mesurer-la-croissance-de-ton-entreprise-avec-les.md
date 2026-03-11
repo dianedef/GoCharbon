@@ -6,9 +6,7 @@ u_interne: null
 _notes: null
 _priorité: normal
 tags:
-- Outils Français
-- Business
-- CRM
+- Outils
 imageNameKey: null
 datePublié: null
 seo_type: null

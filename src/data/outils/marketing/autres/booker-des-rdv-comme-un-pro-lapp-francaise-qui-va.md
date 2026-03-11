@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Booker Des Rdv Comme Un Pro L'App Française Qui Va Remplir Votre Agenda En

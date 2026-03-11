@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Espionnez Légalement Vos Concurrents Avec Cette App Info Entreprises Révolutionnaire

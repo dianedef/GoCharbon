@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Davinci Resolve Les Astuces De Dingue Qui Vont Révolutionner Vos Montages

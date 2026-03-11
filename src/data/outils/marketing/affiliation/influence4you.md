@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "influence4you"
+title: influence4you
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Affiliation'
-  - 'Marketing'
-description: "[Fetching Title#lref](https://www.influence4you.com) Si tu cherches à optimiser la gestion de tes projets d'influence, à collaborer avec des milliers d'influenceurs, et à mesurer t"
-pubDate: "2024-03-25"
+- Outils
+description: '[Fetching Title#lref](https://www.influence4you.com) Si tu cherches
+  à optimiser la gestion de tes projets d''influence, à collaborer avec des milliers
+  d''influenceurs, et à mesurer t'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.influence4you.com"
+u_site: https://www.influence4you.com
 ---
 
 # influence4you

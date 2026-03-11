@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Top 6 Des Coworkings Virtuels Travaillez Dans Le Futur Dès Maintenant

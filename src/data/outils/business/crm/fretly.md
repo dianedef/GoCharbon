@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Fretly"
+title: Fretly
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Business'
-description: "Fretly est une plateforme SaaS de pilotage de la performance transport. 66+ KPIs en 24h, appels d'offres, simulation tarifaire. Note 4.3/5."
-pubDate: "2024-03-25"
+- Outils
+description: Fretly est une plateforme SaaS de pilotage de la performance transport.
+  66+ KPIs en 24h, appels d'offres, simulation tarifaire. Note 4.3/5.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://fretly.fr"
+u_site: https://fretly.fr
 ---
 
 # Fretly

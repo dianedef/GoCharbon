@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "SEO : Guide Complet"
+title: 'SEO : Guide Complet'
 author: Diane
 tags:
-  - 'SEO'
-  - 'Marketing'
-  - 'Digital'
-  - 'Référencement'
+- SEO
 description: Le référencement naturel sans bullshit. Ce qui marche vraiment en 2026.
-pubDate: "2026-01-17"
+pubDate: '2026-01-17'
 imgUrl: ../../assets/astro.jpeg
 ---
 

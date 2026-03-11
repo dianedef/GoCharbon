@@ -5,8 +5,7 @@ type: Blog
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: J'Ai Quitté Notion Pour Obsidian Et Ma Productivité A Explosé Voici Pourquoi
 author: Diane
 description: 'Découvre J''Ai Quitté Notion Pour Obsidian Et Ma Productivité A Explosé

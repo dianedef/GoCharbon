@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Faites De La Recherche Comme Un Pro De La Cia Les Techniques Secrètes Dévoilées

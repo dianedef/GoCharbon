@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Apps Podcast Qui Vont Transformer Votre Trajet En Master Class
 author: Diane
 description: 'Découvre Les Apps Podcast Qui Vont Transformer Votre Trajet En Master

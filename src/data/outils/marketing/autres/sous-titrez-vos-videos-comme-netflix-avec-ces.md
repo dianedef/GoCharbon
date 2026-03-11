@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Sous Titrez Vos Vidéos Comme Netflix Avec Ces Solutions Magiques

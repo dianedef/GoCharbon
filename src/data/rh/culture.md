@@ -4,8 +4,6 @@ title: Culture
 author: Diane
 tags:
 - Business
-- RH
-- Management
 description: 'Culture d''entreprise : valeurs, rituels et pratiques pour attirer et
   retenir les talents.'
 pubDate: '2024-03-25'

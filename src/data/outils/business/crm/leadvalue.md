@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "LeadValue"
+title: LeadValue
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "LeadValue est un CRM français spécialisé dans la gestion et la distribution de leads. Immobilier, énergie, BTP. Attribution automatique. Dès 49€/mois/utilisateur."
-pubDate: "2024-03-25"
+- Outils
+description: LeadValue est un CRM français spécialisé dans la gestion et la distribution
+  de leads. Immobilier, énergie, BTP. Attribution automatique. Dès 49€/mois/utilisateur.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://crm.leadvalue.fr"
+u_site: https://crm.leadvalue.fr
 ---
 
 # LeadValue

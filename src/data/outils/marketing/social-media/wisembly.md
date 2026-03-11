@@ -4,10 +4,9 @@ metadataEnrichedAt: null
 title: Wisembly
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: 'Wisembly : plateforme française tout-en-un pour organiser des événements professionnels (webinaires, séminaires, conférences) avec interactivité en live.'
+- Outils
+description: 'Wisembly : plateforme française tout-en-un pour organiser des événements
+  professionnels (webinaires, séminaires, conférences) avec interactivité en live.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.wisembly.com/fr/

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Agicap"
+title: Agicap
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Agicap est le leader européen de la gestion de trésorerie pour PME et ETI. Suivi en temps réel, prévisions de cash flow, paiements fournisseurs et relances clients automatisées."
-pubDate: "2024-03-25"
+- Outils
+description: Agicap est le leader européen de la gestion de trésorerie pour PME et
+  ETI. Suivi en temps réel, prévisions de cash flow, paiements fournisseurs et relances
+  clients automatisées.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://agicap.com/fr/"
+u_site: https://agicap.com/fr/
 ---
 
 # Agicap

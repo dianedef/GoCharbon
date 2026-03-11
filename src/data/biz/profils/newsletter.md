@@ -4,8 +4,6 @@ title: Newsletter / Email Business
 author: Web Indé
 tags:
 - Business
-- Newsletter
-- Contenu
 description: 'Lance une newsletter rentable : acquisition, rétention et monétisation
   pour créateurs indépendants.'
 pubDate: '2024-01-01'

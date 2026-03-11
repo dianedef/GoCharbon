@@ -2,16 +2,15 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: null
 u_site: https://www.tudigo.com
 u_affi: null
 u_affiAdmin: null
 title: Tudigo
 author: Diane
-description: 'Tudigo : plateforme française d''investissement participatif (crowdfunding equity et obligations) pour investir dans des PME et startups dès 500 €.'
+description: 'Tudigo : plateforme française d''investissement participatif (crowdfunding
+  equity et obligations) pour investir dans des PME et startups dès 500 €.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

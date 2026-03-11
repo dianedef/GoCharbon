@@ -1,14 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "DashThis"
+title: DashThis
 author: Diane
 tags:
-  - 'Marketing'
-description: "DashThis est un outil de reporting marketing automatisé. Tableaux de bord Google Ads, Facebook, Analytics en un clic. Marque blanche. 122+ pays. Québécois."
-pubDate: "2024-03-25"
+- Outils
+description: DashThis est un outil de reporting marketing automatisé. Tableaux de
+  bord Google Ads, Facebook, Analytics en un clic. Marque blanche. 122+ pays. Québécois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://fr.dashthis.com"
+u_site: https://fr.dashthis.com
 ---
 
 # DashThis

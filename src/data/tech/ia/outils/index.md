@@ -4,8 +4,7 @@ metadataEnrichedAt: null
 title: 'Outils IA : L''Écosystème'
 author: Diane
 tags:
-- IA
-- Productivité
+- Tech
 description: Les meilleurs outils IA pour développeurs, créateurs de contenu et entrepreneurs
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
@@ -22,6 +21,7 @@ L'écosystème des outils IA explose. Ici, on te donne un panorama clair de ce q
 - [Cursor](/tech/ia/outils/cursor) - L'IDE IA qui remplace VS Code
   - [Guide Cursor](/tech/ia/outils/cursor/cursor-guide)
   - [Cursor en local](/tech/ia/outils/cursor/cursor-local)
+- [Agents CLI IA](/tech/ia/outils/agents-cli) - Claude Code vs Codex CLI, le guide 2026
 
 ### Outils d'Optimisation
 

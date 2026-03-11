@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Email
+- Outils
 title: Ext Scrap Io
 author: Diane
 description: 'Découvre Ext Scrap Io : outil français pour entrepreneurs, fonctionnalités

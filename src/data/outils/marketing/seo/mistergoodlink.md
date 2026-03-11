@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: mistergoodlink
 u_site: https://www.mistergoodlink.com
 u_affi: null

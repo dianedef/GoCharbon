@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: tabou-argent
 title: Le Tabou Français Qui Ruine Votre Rentabilité (Et Comment Le Briser)
 author: Diane

@@ -2,10 +2,7 @@
 section: apps
 metadataEnrichedAt: '2026-03-01'
 tags:
-- Outils Français
-- Rédaction
-- Marketing
-- SEO
+- Outils
 imageNameKey: seokey
 u_site: https://www.seo-key.fr
 u_affi: https://www.seo-key.fr/?ref=20

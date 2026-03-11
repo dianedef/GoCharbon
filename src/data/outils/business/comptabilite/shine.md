@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Shine"
+title: Shine
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Shine est la néobanque pro préférée des indépendants français. Compte pro, facturation, comptabilité automatisée et assurances incluses. 150 000+ clients, certifiée B Corp. À partir de 0€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Shine est la néobanque pro préférée des indépendants français. Compte
+  pro, facturation, comptabilité automatisée et assurances incluses. 150 000+ clients,
+  certifiée B Corp. À partir de 0€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.shine.fr/"
+u_site: https://www.shine.fr/
 ---
 
 # Shine

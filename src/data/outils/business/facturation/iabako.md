@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Iabako"
+title: Iabako
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Facturation'
-  - 'Business'
-description: "Iabako est un ERP français intuitif pour TPE. Gestion des commandes, livraisons, stocks, achats, facturation. Ventes B2B et B2C. Essai gratuit 15 jours."
-pubDate: "2024-03-25"
+- Outils
+description: Iabako est un ERP français intuitif pour TPE. Gestion des commandes,
+  livraisons, stocks, achats, facturation. Ventes B2B et B2C. Essai gratuit 15 jours.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.iabako.com/fr/"
+u_site: https://www.iabako.com/fr/
 ---
 
 # Iabako

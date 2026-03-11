@@ -2,16 +2,15 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-  - Outils Français
-  - Productivité
-  - Automatisation
+- Outils
 imageNameKey: novabricks
 u_site: https://www.novabricks.com
 u_affi: null
 u_affiAdmin: null
 title: NovaBricks
 author: Diane
-description: 'NovaBricks : plateforme No-Code/Low-Code française pour créer des apps métier sans coder. Clients : EDF, Les Mousquetaires, Kiloutou. Fondée en 2011.'
+description: 'NovaBricks : plateforme No-Code/Low-Code française pour créer des apps
+  métier sans coder. Clients : EDF, Les Mousquetaires, Kiloutou. Fondée en 2011.'
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---

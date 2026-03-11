@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Ghost : Guide Complet"
+title: 'Ghost : Guide Complet'
 author: Diane
 tags:
-  - 'Ghost'
-  - 'CMS'
-  - 'Web'
-  - 'Blog'
+- Tech
 description: Le CMS moderne pour les blogs et créateurs de contenu en 2026
-pubDate: "2026-01-17"
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

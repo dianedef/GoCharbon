@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: perplexica
 u_externe: null
 title: Ces Clones De Perplexity Sont Nouveaux, Gratuits & Open Source Avec Des Résultats

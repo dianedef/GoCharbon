@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: salad
 u_site: null
 title: Gagnez De L'Argent En Dormant Avec Salad L'Astuce Folle Qui Cartonne

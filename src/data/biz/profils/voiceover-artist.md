@@ -4,8 +4,6 @@ title: Voiceover Artist / Comédien de Doublage
 author: Web Indé
 tags:
 - Business
-- Audio
-- Freelancing
 description: 'Lance ta carrière de voix-off : équipement, plateformes et techniques
   pour comédiens vocaux.'
 pubDate: '2024-01-01'

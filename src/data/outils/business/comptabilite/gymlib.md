@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Gymlib (EGYM Wellpass)"
+title: Gymlib (EGYM Wellpass)
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Gymlib (désormais EGYM Wellpass) est une solution française de sport et bien-être en entreprise. Accès à 4000+ salles et activités. Avantage salarié déductible. À partir de 40€/mois/salarié."
-pubDate: "2024-03-25"
+- Outils
+description: Gymlib (désormais EGYM Wellpass) est une solution française de sport
+  et bien-être en entreprise. Accès à 4000+ salles et activités. Avantage salarié
+  déductible. À partir de 40€/mois/salarié.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://gymlib.com"
+u_site: https://gymlib.com
 ---
 
 # Gymlib (EGYM Wellpass)

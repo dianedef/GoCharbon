@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 10 Apps Qui Vont Faire De Votre Entreprise Un Modèle Éthique (Et Rentable)

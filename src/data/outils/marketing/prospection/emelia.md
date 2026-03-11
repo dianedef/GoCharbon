@@ -4,10 +4,9 @@ metadataEnrichedAt: '2026-03-01'
 title: Emelia
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "Emelia : outil français de cold email et LinkedIn automation. +2 500 utilisateurs, tout-en-un dès 37$/mois. Essai 7 jours gratuit."
+- Outils
+description: 'Emelia : outil français de cold email et LinkedIn automation. +2 500
+  utilisateurs, tout-en-un dès 37$/mois. Essai 7 jours gratuit.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://emelia.io

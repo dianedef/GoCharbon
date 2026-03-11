@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "jamespot"
+title: jamespot
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "Jamespot édite une solution de réseau social d'entreprise hautement configurable, offrant une dimension sociale à votre métier. Cette plateforme collaborative vous permet de déploy"
-pubDate: "2024-03-25"
+- Outils
+description: Jamespot édite une solution de réseau social d'entreprise hautement configurable,
+  offrant une dimension sociale à votre métier. Cette plateforme collaborative vous
+  permet de déploy
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.site-fr.jamespot.com"
+u_site: https://www.site-fr.jamespot.com
 ---
 
 # jamespot

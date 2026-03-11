@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Pitchy"
+title: Pitchy
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Vidéo'
-  - 'Création'
-description: "Pitchy est la plateforme française de création vidéo pour entreprises. 1000+ clients, ~50% du CAC40. 44M€ levés. 800+ templates. IA intégrée. 69 employés."
-pubDate: "2024-03-25"
+- Outils
+description: Pitchy est la plateforme française de création vidéo pour entreprises.
+  1000+ clients, ~50% du CAC40. 44M€ levés. 800+ templates. IA intégrée. 69 employés.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.pitchy.fr"
+u_site: https://www.pitchy.fr
 ---
 
 # Pitchy

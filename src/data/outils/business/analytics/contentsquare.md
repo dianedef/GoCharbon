@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Contentsquare"
+title: Contentsquare
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Analytics'
-  - 'Business'
-description: "Contentsquare est une plateforme française d'analytics UX. Heatmaps, session replay, alertes IA, parcours utilisateur. 750+ clients. Licorne française. Fondée par Jonathan Cherki."
-pubDate: "2024-03-25"
+- Outils
+description: Contentsquare est une plateforme française d'analytics UX. Heatmaps,
+  session replay, alertes IA, parcours utilisateur. 750+ clients. Licorne française.
+  Fondée par Jonathan Cherki.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://contentsquare.com/fr-fr/"
+u_site: https://contentsquare.com/fr-fr/
 ---
 
 # Contentsquare

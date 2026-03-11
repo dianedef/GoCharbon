@@ -1,16 +1,14 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "The Companies API, l’outil qui va tuer Sales Navigator"
+title: The Companies API, l’outil qui va tuer Sales Navigator
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "Link to blog article + CTA + Contact me if needed I am Diane ![https://ph-files.imgix.net/e50a7607-beab-4c44-a380-0984ff10b09b.png?auto=format&fit=crop&frame=1&h=512&w=1024](https:"
-pubDate: "2024-03-25"
+- Outils
+description: 'Link to blog article + CTA + Contact me if needed I am Diane ![https://ph-files.imgix.net/e50a7607-beab-4c44-a380-0984ff10b09b.png?auto=format&fit=crop&frame=1&h=512&w=1024](https:'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.thecompaniesapi.com/"
+u_site: https://www.thecompaniesapi.com/
 ---
 
 # The Companies API, l’outil qui va tuer Sales Navigator

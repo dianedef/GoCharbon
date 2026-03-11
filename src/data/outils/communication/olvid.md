@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Olvid"
+title: Olvid
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Olvid est la messagerie ultra-sécurisée française certifiée ANSSI. Chiffrement total, zéro donnée personnelle requise. Utilisée par le gouvernement. Dès 0€."
-pubDate: "2024-03-25"
+- Outils
+description: Olvid est la messagerie ultra-sécurisée française certifiée ANSSI. Chiffrement
+  total, zéro donnée personnelle requise. Utilisée par le gouvernement. Dès 0€.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://olvid.io/fr/"
+u_site: https://olvid.io/fr/
 ---
 
 # Olvid

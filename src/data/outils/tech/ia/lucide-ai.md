@@ -2,16 +2,15 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: null
 u_site: https://lucide.ai
 u_affi: null
 u_affiAdmin: null
 title: Lucide AI
 author: Diane
-description: 'Détecteur IA français : analyse de contenus générés par IA avec précision, taux de faux positifs <2%, détection de plagiat intégrée.'
+description: 'Détecteur IA français : analyse de contenus générés par IA avec précision,
+  taux de faux positifs <2%, détection de plagiat intégrée.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

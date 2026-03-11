@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "L'Addition"
+title: L'Addition
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "L'Addition est une caisse enregistreuse iPad pour la restauration. Encaissement, commande en ligne, paiement, reporting. 12 000 établissements. Acquis par FDJ (2022). Made in Bordeaux."
-pubDate: "2024-03-25"
+- Outils
+description: L'Addition est une caisse enregistreuse iPad pour la restauration. Encaissement,
+  commande en ligne, paiement, reporting. 12 000 établissements. Acquis par FDJ (2022).
+  Made in Bordeaux.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.laddition.com/fr"
+u_site: https://www.laddition.com/fr
 ---
 
 # L'Addition

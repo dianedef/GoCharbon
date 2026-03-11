@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 u_site: null
 title: Continuous Note Taking And Refactoring
 author: Diane

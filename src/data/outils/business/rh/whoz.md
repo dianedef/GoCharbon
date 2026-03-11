@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Whoz"
+title: Whoz
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'RH'
-  - 'Business'
-description: "Vous avez des enjeux, Whoz vous apporte les solutions. Découvrez la seule plateforme SaaS du marché capable d’organiser et de prioriser dans la durée, la stratégie de déploiement d"
-pubDate: "2024-03-25"
+- Outils
+description: Vous avez des enjeux, Whoz vous apporte les solutions. Découvrez la seule
+  plateforme SaaS du marché capable d’organiser et de prioriser dans la durée, la
+  stratégie de déploiement d
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.whoz.com/fr"
+u_site: https://www.whoz.com/fr
 ---
 
 # Whoz

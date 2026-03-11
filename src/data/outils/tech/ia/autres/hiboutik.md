@@ -5,9 +5,7 @@ statut: []
 type: Logiciel
 _priorité: normal
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: hiboutik
 title: Hiboutik
 author: Diane

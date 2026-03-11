@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: The Value Ladder
 author: Diane
 description: 'Découvre The Value Ladder : outil français pour entrepreneurs, fonctionnalités

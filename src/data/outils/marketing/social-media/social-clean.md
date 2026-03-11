@@ -2,16 +2,15 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: null
 u_site: https://socialclean.app
 u_affi: null
 u_affiAdmin: null
 title: Social Clean
 author: Diane
-description: 'Social Clean : outil français d''e-réputation qui identifie et supprime tes contenus sensibles sur les réseaux sociaux grâce à l''IA.'
+description: 'Social Clean : outil français d''e-réputation qui identifie et supprime
+  tes contenus sensibles sur les réseaux sociaux grâce à l''IA.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Email
+- Outils
 u_site: null
 title: Comment Générer Des Leads Avec Le Cold Email Outreach Guide De La Prospection
   À Froid

@@ -3,9 +3,7 @@ section: blog
 title: 'Agents De Création : L''art Et Le Contenu Intelligent'
 author: Diane
 tags:
-- IA
-- Création
-- Contenu
+- Tech
 description: Les agents créatifs qui révolutionnent la production de contenu et la
   création artistique
 pubDate: '2024-03-26'

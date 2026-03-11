@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
-- Comptabilité
+- Outils
 u_site: null
 title: Sstratégies D'Acquisition De Nouveaux Clients En 4 Étapes
 author: Diane

@@ -4,8 +4,6 @@ title: Community Builder / Gestionnaire de Communauté
 author: Web Indé
 tags:
 - Business
-- Social Media
-- Marketing
 description: 'Construis des communautés engagées : plateformes, stratégies d''animation
   et monétisation pour community managers.'
 pubDate: '2024-01-01'

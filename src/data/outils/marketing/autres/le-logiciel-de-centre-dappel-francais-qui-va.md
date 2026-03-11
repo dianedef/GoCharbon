@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Le Logiciel De Centre D'Appel Français Qui Va Rendre Vos Clients Accros
 author: Diane
 description: 'Découvre Le Logiciel De Centre D''Appel Français Qui Va Rendre Vos Clients

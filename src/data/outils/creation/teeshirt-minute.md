@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Teeshirt minute"
+title: Teeshirt minute
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Création'
-description: "[Facebook](https://www.facebook.com/teeshirtminute) La startup Teeshirt-minute est une boutique de t-shirts personnalisés basée à Paris, offrant des services de personnalisation de"
-pubDate: "2024-03-25"
+- Outils
+description: '[Facebook](https://www.facebook.com/teeshirtminute) La startup Teeshirt-minute
+  est une boutique de t-shirts personnalisés basée à Paris, offrant des services de
+  personnalisation de'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://teeshirt-minute.com"
+u_site: https://teeshirt-minute.com
 ---
 
 # Teeshirt minute

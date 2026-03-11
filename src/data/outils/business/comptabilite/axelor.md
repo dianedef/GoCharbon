@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Axelor"
+title: Axelor
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Axelor est un ERP open-source français low-code avec CRM, comptabilité, RH et 30 apps métier. 1M+ utilisateurs dans 30+ pays. Version communautaire gratuite."
-pubDate: "2024-03-25"
+- Outils
+description: Axelor est un ERP open-source français low-code avec CRM, comptabilité,
+  RH et 30 apps métier. 1M+ utilisateurs dans 30+ pays. Version communautaire gratuite.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://axelor.com/fr"
+u_site: https://axelor.com/fr
 ---
 
 # Axelor

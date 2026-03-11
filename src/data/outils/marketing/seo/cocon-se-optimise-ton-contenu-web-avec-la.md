@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Cocon.se, Optimise Ton Contenu Web avec la Sémantique"
+title: Cocon.se, Optimise Ton Contenu Web avec la Sémantique
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "* The discussion revolves around a tool called 'Cocoon' for analyzing and optimizing keywords. * It emphasizes the importance of 'master keywords' which are not just about lexical "
-pubDate: "2024-03-25"
+- Outils
+description: '* The discussion revolves around a tool called ''Cocoon'' for analyzing
+  and optimizing keywords. * It emphasizes the importance of ''master keywords'' which
+  are not just about lexical '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "http://cocon.se"
+u_site: http://cocon.se
 ---
 
 # Cocon.se, Optimise Ton Contenu Web avec la Sémantique

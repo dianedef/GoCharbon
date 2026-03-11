@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-03-10
+
+### Analytics & Confidentialité
+- PostHog injecté dans `Default.astro` (production uniquement, clé `phc_XNW...`)
+- Page `/confidentialite` complétée avec bouton opt-out PostHog fonctionnel
+
 ## 2026-03-03
 
 ### Parcours: qualité contenus référencés (suite)

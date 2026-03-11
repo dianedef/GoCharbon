@@ -5,9 +5,7 @@ statut: []
 type: Logiciel
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: indexmenow
 title: Indexmenow
 author: Diane

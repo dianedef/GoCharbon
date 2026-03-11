@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: next-mobiles
 u_site: https://www.nextmobiles.com
 u_affi: null

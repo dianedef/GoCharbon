@@ -6,8 +6,7 @@ statut:
 - backlog
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Écrivez Des Prompts Ia Si Puissants Qu'Ils Pourraient Remplacer Votre Équipe
 author: Diane
 description: 'Découvre Écrivez Des Prompts Ia Si Puissants Qu''Ils Pourraient Remplacer

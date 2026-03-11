@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Vanlife Comment J'Ai Tout Plaqué Pour Vivre Comme Un Roi Avec 500€ Par Mois
 author: Diane

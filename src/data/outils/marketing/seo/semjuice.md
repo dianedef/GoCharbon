@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "SEMJuice"
+title: SEMJuice
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "[(5) SEMJuice Contenus et Netlinking - YouTube](https://www.youtube.com/c/SEMJuice) Des fraises, du raisin, des kiwis, des oranges, de l’ananas ou encore de la pastèque : non, vous"
-pubDate: "2024-03-25"
+- Outils
+description: '[(5) SEMJuice Contenus et Netlinking - YouTube](https://www.youtube.com/c/SEMJuice)
+  Des fraises, du raisin, des kiwis, des oranges, de l’ananas ou encore de la pastèque
+  : non, vous'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.semjuice.com"
+u_site: https://www.semjuice.com
 ---
 
 # SEMJuice

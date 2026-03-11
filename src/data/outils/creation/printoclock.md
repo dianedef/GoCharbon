@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "PrintOclock"
+title: PrintOclock
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Design'
-  - 'Création'
-description: "PrintOclock est l'imprimerie en ligne française leader indépendante. 20M€ CA, 90 employés, 280K+ commandes/an. Imprim'Vert, FSC. Toulouse. Livraison 24h."
-pubDate: "2024-03-25"
+- Outils
+description: PrintOclock est l'imprimerie en ligne française leader indépendante.
+  20M€ CA, 90 employés, 280K+ commandes/an. Imprim'Vert, FSC. Toulouse. Livraison
+  24h.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.printoclock.com"
+u_site: https://www.printoclock.com
 ---
 
 # PrintOclock

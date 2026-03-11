@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "talent.io"
+title: talent.io
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "talent.io facilite la recherche d'opportunités professionnelles dans le secteur tech. Les avantages majeurs de cette plateforme sont : - Trouve un emploi en CDI, Freelance, en stag"
-pubDate: "2024-03-25"
+- Outils
+description: 'talent.io facilite la recherche d''opportunités professionnelles dans
+  le secteur tech. Les avantages majeurs de cette plateforme sont : - Trouve un emploi
+  en CDI, Freelance, en stag'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.talent.io/p/fr-fr/home"
+u_site: https://www.talent.io/p/fr-fr/home
 ---
 
 # talent.io

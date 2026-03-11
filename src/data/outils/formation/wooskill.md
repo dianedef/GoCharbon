@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Wooskill"
+title: Wooskill
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "Wooskill est la plateforme française de partage de compétences en visio. 25 000+ skillers, 350+ domaines, 4.6/5 Trustpilot (322 avis). Coaching à distance."
-pubDate: "2024-03-25"
+- Outils
+description: Wooskill est la plateforme française de partage de compétences en visio.
+  25 000+ skillers, 350+ domaines, 4.6/5 Trustpilot (322 avis). Coaching à distance.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.wooskill.com/fr"
+u_site: https://www.wooskill.com/fr
 ---
 
 # Wooskill

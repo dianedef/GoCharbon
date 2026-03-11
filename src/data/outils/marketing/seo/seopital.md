@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: seopital
 author: Diane
 tags:
-- Outils Français
-- SEO
-- Marketing
+- Outils
 description: '[Seopital 👊 | LinkedIn](https://www.linkedin.com/company/seopital/)
   - 500+ rédacteurs et agences SEO utilisent notre assistant chaque jour - Contenu
   optimisé'

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 LienDuSite: null
 title: Les Requêtes Dataview Obsidian Qui Vont Booster Votre Productivité De 500%

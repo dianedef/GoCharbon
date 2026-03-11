@@ -6,9 +6,7 @@ statut:
 - en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 title: Apprendre À Apprendre + Finir Ses Formations
 author: Diane
 description: 'Découvre Apprendre À Apprendre + Finir Ses Formations : outil français

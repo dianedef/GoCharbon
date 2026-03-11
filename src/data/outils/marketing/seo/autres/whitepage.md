@@ -5,9 +5,7 @@ statut: []
 type: Logiciel
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: white-page
 title: White.Page
 author: Diane

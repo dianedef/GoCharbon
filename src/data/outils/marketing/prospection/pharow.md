@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "pharow"
+title: pharow
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Pharow est la base de données B2B la plus simple et la plus puissante pour cibler vos prospects, alimenter vos campagnes outbound et vos CRM. Génération rapide de listes de prospec"
-pubDate: "2024-03-25"
+- Outils
+description: Pharow est la base de données B2B la plus simple et la plus puissante
+  pour cibler vos prospects, alimenter vos campagnes outbound et vos CRM. Génération
+  rapide de listes de prospec
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.pharow.com"
+u_site: https://www.pharow.com
 ---
 
 # pharow

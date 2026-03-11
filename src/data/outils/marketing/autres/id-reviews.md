@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "ID Reviews"
+title: ID Reviews
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "ID Reviews est une plateforme française de gestion d'avis clients par Internet Diffusion. Collecte, filtrage et affichage d'avis sur 30+ plateformes. Campagnes SMS et email."
-pubDate: "2024-03-25"
+- Outils
+description: ID Reviews est une plateforme française de gestion d'avis clients par
+  Internet Diffusion. Collecte, filtrage et affichage d'avis sur 30+ plateformes.
+  Campagnes SMS et email.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.idreviews.io"
+u_site: https://www.idreviews.io
 ---
 
 # ID Reviews

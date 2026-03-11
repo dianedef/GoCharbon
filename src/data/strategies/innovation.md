@@ -3,10 +3,7 @@ section: blog
 title: 'Les Fondamentaux de l''Innovation : Guide Complet'
 author: Diane
 tags:
-- Innovation
-- Stratégie
 - Business
-- Tech
 description: Guide complet sur les fondamentaux et stratégies d'innovation en entreprise
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg

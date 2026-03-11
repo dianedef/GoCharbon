@@ -1,13 +1,11 @@
 ---
 section: blog
-title: "SEO Local Multi-Établissements : Guide Complet"
+title: 'SEO Local Multi-Établissements : Guide Complet'
 author: Diane
 tags:
-  - 'SEO'
-  - 'Local'
-  - 'Stratégie'
+- SEO
 description: Guide complet sur le référencement local pour les entreprises multi-établissements
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

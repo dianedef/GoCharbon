@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Ressources"
+title: Ressources
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "- L'outil Evolup a récemment intégré une intelligence artificielle (IA), nécessitant une mise à niveau vers un niveau supérieur pour débloquer toutes les fonctionnalités d'IA. - Le"
-pubDate: "2024-03-25"
+- Outils
+description: '- L''outil Evolup a récemment intégré une intelligence artificielle
+  (IA), nécessitant une mise à niveau vers un niveau supérieur pour débloquer toutes
+  les fonctionnalités d''IA. - Le'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.evolup.fr"
+u_site: https://www.evolup.fr
 ---
 
 # Ressources

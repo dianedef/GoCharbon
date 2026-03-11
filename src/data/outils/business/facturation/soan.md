@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "soan"
+title: soan
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Facturation'
-  - 'Business'
-description: "La startup Soan propose une plateforme de paiement destinée aux petites et moyennes entreprises pour les aider à être payées en temps voulu. - Soan est une startup qui offre une so"
-pubDate: "2024-03-25"
+- Outils
+description: La startup Soan propose une plateforme de paiement destinée aux petites
+  et moyennes entreprises pour les aider à être payées en temps voulu. - Soan est
+  une startup qui offre une so
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.soansolutions.com"
+u_site: https://www.soansolutions.com
 ---
 
 # soan

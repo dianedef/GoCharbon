@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 imageNameKey: null
 seo_motClef: null
 u_site: null

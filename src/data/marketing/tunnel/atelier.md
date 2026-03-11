@@ -1,12 +1,11 @@
 ---
 section: blog
-title: "Atelier Tunnel : parcours balisé et gamifié"
+title: 'Atelier Tunnel : parcours balisé et gamifié'
 author: Diane
 tags:
-  - Marketing
-  - Tunnel
-  - Gamification
-description: Construis un tunnel de vente clair, balisé et gamifié pour augmenter l'activation et la conversion.
+- Marketing
+description: Construis un tunnel de vente clair, balisé et gamifié pour augmenter
+  l'activation et la conversion.
 pubDate: '2026-03-01'
 imgUrl: ../../../assets/astro.jpeg
 ---

@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Easiware"
+title: Easiware
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Easiware est un logiciel français de service client omnicanal. 500+ marques clientes. IA, email, chat, WhatsApp, réseaux sociaux. Fondé en 2008. Dès 50€/mois/agent."
-pubDate: "2024-03-25"
+- Outils
+description: Easiware est un logiciel français de service client omnicanal. 500+ marques
+  clientes. IA, email, chat, WhatsApp, réseaux sociaux. Fondé en 2008. Dès 50€/mois/agent.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.easiware.com"
+u_site: https://www.easiware.com
 ---
 
 # Easiware

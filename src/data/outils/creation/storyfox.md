@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Storyfox"
+title: Storyfox
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Vidéo'
-  - 'Création'
-description: "Storyfox est la plateforme française de création vidéo d'entreprise avec IA. 4000+ utilisateurs. LVMH, Sanofi, BNP Paribas. Captation guidée + montage auto. Paris."
-pubDate: "2024-03-25"
+- Outils
+description: Storyfox est la plateforme française de création vidéo d'entreprise avec
+  IA. 4000+ utilisateurs. LVMH, Sanofi, BNP Paribas. Captation guidée + montage auto.
+  Paris.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.storyfox.io"
+u_site: https://www.storyfox.io
 ---
 
 # Storyfox

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Ça Compte Pour Moi"
+title: Ça Compte Pour Moi
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Ça Compte Pour Moi est un cabinet d'expertise comptable en ligne français. Comptabilité, fiscalité, paie, juridique. 4 500+ clients. Certifié ISO 9001. Dès 49€/mois. Toulouse."
-pubDate: "2024-03-25"
+- Outils
+description: Ça Compte Pour Moi est un cabinet d'expertise comptable en ligne français.
+  Comptabilité, fiscalité, paie, juridique. 4 500+ clients. Certifié ISO 9001. Dès
+  49€/mois. Toulouse.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.cacomptepourmoi.fr"
+u_site: https://www.cacomptepourmoi.fr
 ---
 
 # Ça Compte Pour Moi

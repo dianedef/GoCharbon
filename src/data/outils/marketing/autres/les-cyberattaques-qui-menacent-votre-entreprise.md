@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Cyberattaques Qui Menacent Votre Entreprise Protégez Vous Avant Qu'Il Ne
   Soit Trop Tard
 author: Diane

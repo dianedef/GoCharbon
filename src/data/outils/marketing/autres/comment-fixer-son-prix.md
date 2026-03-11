@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 u_site: null
 title: Comment Fixer Son Prix
 author: Diane

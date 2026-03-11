@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: L'Éditeur Vidéo Cloud Qui Va Rendre Vos Concurrents Fous De Jalousie

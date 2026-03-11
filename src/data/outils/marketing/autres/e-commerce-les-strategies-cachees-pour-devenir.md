@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: saas-ecommerce
 title: E Commerce Les Stratégies Cachées Pour Devenir Millionnaire En 6 Mois
 author: Diane

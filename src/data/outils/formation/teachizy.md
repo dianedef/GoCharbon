@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Teachizy, Création de Formations Simplifiée et Personnalisée"
+title: Teachizy, Création de Formations Simplifiée et Personnalisée
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Formation'
-description: "Teachizy est un logiciel français puissant avec tout ce qu'il faut pour créer et gérer des formations en ligne avec facilité et toucher un large public. Avec des fonctionnalités co"
-pubDate: "2024-03-25"
+- Outils
+description: Teachizy est un logiciel français puissant avec tout ce qu'il faut pour
+  créer et gérer des formations en ligne avec facilité et toucher un large public.
+  Avec des fonctionnalités co
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.teachizy.fr/"
+u_site: https://www.teachizy.fr/
 ---
 
 # Teachizy, Création de Formations Simplifiée et Personnalisée

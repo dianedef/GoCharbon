@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
+- Outils
 imageNameKey: oscar-manager
 u_site: https://www.oscar-manager.com
 u_affi: null

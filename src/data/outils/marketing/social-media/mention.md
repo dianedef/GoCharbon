@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "mention"
+title: mention
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "[Hexa - eFounders - Mention](https://www.hexa.com/companies/mention) - 🕵‍♂ Mention permet de surveiller le web, d'écouter son audience et de gérer les médias sociaux. - Mention a é"
-pubDate: "2024-03-25"
+- Outils
+description: '[Hexa - eFounders - Mention](https://www.hexa.com/companies/mention)
+  - 🕵‍♂ Mention permet de surveiller le web, d''écouter son audience et de gérer les
+  médias sociaux. - Mention a é'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://mention.com/fr/"
+u_site: https://mention.com/fr/
 ---
 
 # mention

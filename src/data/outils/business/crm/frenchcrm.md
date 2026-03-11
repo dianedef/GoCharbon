@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "FrenchCRM"
+title: FrenchCRM
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "FrenchCRM par OneMinLabs est un CRM B2B français conçu par des commerciaux terrain. Gestion contacts, géolocalisation, téléphonie, campagnes email. Dès 14,99€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: FrenchCRM par OneMinLabs est un CRM B2B français conçu par des commerciaux
+  terrain. Gestion contacts, géolocalisation, téléphonie, campagnes email. Dès 14,99€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.frenchcrm.com"
+u_site: https://www.frenchcrm.com
 ---
 
 # FrenchCRM

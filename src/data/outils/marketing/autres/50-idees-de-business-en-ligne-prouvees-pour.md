@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 50 Idées De Business En Ligne Prouvées Pour Devenir Riche La 17 Va Vous Choquer

@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Business
-- CRM
+- Outils
 title: Comment Attirer Ton Client Idéal
 author: Diane
 description: 'Découvre Comment Attirer Ton Client Idéal : outil français pour entrepreneurs,

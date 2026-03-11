@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: L'Ia Va T Elle Voler Votre Job La Vérité Choc Sur Le Remplacement Technologique
 author: Diane
 description: 'Découvre L''Ia Va T Elle Voler Votre Job La Vérité Choc Sur Le Remplacement

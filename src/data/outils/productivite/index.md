@@ -1,13 +1,13 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "OUTILS PRODUCTIVITÉ FRANÇAIS"
+title: OUTILS PRODUCTIVITÉ FRANÇAIS
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-description: "Les meilleurs outils de productivité français : gestion de projet, collaboration, automatisation. Travaille mieux, pas plus."
-pubDate: "2024-03-25"
+- Outils
+description: 'Les meilleurs outils de productivité français : gestion de projet, collaboration,
+  automatisation. Travaille mieux, pas plus.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

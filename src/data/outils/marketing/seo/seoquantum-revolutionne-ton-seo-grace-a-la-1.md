@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 u_site: https://www.seoquantum.com/
 imageNameKey: seoquantum
 title: Seoquantum, Révolutionne Ton Seo Grâce À La Sémantique

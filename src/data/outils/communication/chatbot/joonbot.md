@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Joonbot"
+title: Joonbot
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Joonbot est un chatbot builder no-code français pour booster tes conversions. Qualification de leads, FAQ, prise de RDV. 5 000+ entreprises. Dès 0€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Joonbot est un chatbot builder no-code français pour booster tes conversions.
+  Qualification de leads, FAQ, prise de RDV. 5 000+ entreprises. Dès 0€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://joonbot.com/fr/"
+u_site: https://joonbot.com/fr/
 ---
 
 # Joonbot

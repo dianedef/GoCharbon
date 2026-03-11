@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "VIPseo"
+title: VIPseo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "VIPseo est un logiciel SaaS spécialisé dans l'amélioration du référencement web et l'acquisition de liens de qualité. Voici un tour d'horizon pour comprendre comment ce service peu"
-pubDate: "2024-03-25"
+- Outils
+description: VIPseo est un logiciel SaaS spécialisé dans l'amélioration du référencement
+  web et l'acquisition de liens de qualité. Voici un tour d'horizon pour comprendre
+  comment ce service peu
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://vipseo.fr"
+u_site: https://vipseo.fr
 ---
 
 # VIPseo

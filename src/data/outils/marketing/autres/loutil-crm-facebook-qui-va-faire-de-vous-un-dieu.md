@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: L'Outil Crm Facebook Qui Va Faire De Vous Un Dieu Du Marketing
 author: Diane
 description: 'Découvre L''Outil Crm Facebook Qui Va Faire De Vous Un Dieu Du Marketing

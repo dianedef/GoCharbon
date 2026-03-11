@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import PostList from "./PostList.astro";
 import Card from "./Card.astro";
 import Button from "./Button.astro";
+import { filterBuildVisiblePosts } from "../../utils/build-posts";
 
 interface Props {
 	currentSlug: string;
@@ -20,7 +21,7 @@ function normalizeTag(tag: string): string {
 		.toLowerCase();
 }
 
-const allPosts = await getCollection("posts");
+const allPosts = filterBuildVisiblePosts(await getCollection("posts"));
 
 // Calculer le score de pertinence pour chaque post
 const scoredPosts = allPosts

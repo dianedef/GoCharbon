@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Contenu"
+title: Contenu
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Accès à des opportunités exclusives : DotMarket propose plus de 400 deals par an, avec des investissements allant de 1K€ à 5M€. Sécurité et fiabilité : la plateforme est sécurisée "
-pubDate: "2024-03-25"
+- Outils
+description: 'Accès à des opportunités exclusives : DotMarket propose plus de 400
+  deals par an, avec des investissements allant de 1K€ à 5M€. Sécurité et fiabilité
+  : la plateforme est sécurisée '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.dotmarket.eu"
+u_site: https://www.dotmarket.eu
 ---
 
 # Contenu

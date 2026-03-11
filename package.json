@@ -14,9 +14,11 @@
     "dev": "astro dev --host 0.0.0.0 --port 3014",
     "start": "astro dev --host 0.0.0.0 --port 3014",
     "build": "astro build",
+    "build:no-outils": "EXCLUDE_OUTILS_FROM_BUILD=1 astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "audit:parcours": "node scripts/audit_parcours_content.mjs"
+    "audit:parcours": "node scripts/audit_parcours_content.mjs",
+    "audit:outils": "python3 scripts/audit_outils_content.py"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.15",

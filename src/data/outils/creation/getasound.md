@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Getasound"
+title: Getasound
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Création'
-description: "Getasound est la première marketplace française de communication sonore. Identité sonore, spots radio, podcasts. 1000+ compositeurs certifiés. Fondée à Bordeaux en 2018."
-pubDate: "2024-03-25"
+- Outils
+description: Getasound est la première marketplace française de communication sonore.
+  Identité sonore, spots radio, podcasts. 1000+ compositeurs certifiés. Fondée à Bordeaux
+  en 2018.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://getasound.com"
+u_site: https://getasound.com
 ---
 
 # Getasound

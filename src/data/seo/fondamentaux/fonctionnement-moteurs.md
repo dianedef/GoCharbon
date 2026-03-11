@@ -4,7 +4,6 @@ title: Fonctionnement Moteurs
 author: Diane
 tags:
 - SEO
-- Technique
 description: 'Comment fonctionnent les moteurs de recherche : crawl, index et ranking
   expliqués.'
 pubDate: '2024-03-25'

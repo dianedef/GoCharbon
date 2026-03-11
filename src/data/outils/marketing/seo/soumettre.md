@@ -2,17 +2,16 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- SEO
-- Marketing
+- Outils
 imageNameKey: null
 u_site: https://soumettre.fr
 u_affi: null
 u_affiAdmin: null
 title: Soumettre
 author: Diane
-description: "Soumettre.fr : plateforme française de netlinking, rédaction SEO et relations presse. +44 000 sites partenaires depuis 2015."
-pubDate: "2024-03-25"
+description: 'Soumettre.fr : plateforme française de netlinking, rédaction SEO et
+  relations presse. +44 000 sites partenaires depuis 2015.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

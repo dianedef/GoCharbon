@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Diligo"
+title: Diligo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-  - 'Logistique'
-description: "Diligo livre tes colis en vélo cargo à Paris en -2h. Jusqu'à 200 kg, zéro émission. Pour cavistes, DNVB et e-commerçants. SAS fondée en 2020."
-pubDate: "2024-03-25"
+- Outils
+description: Diligo livre tes colis en vélo cargo à Paris en -2h. Jusqu'à 200 kg,
+  zéro émission. Pour cavistes, DNVB et e-commerçants. SAS fondée en 2020.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.diligo-solutions.com"
+u_site: https://www.diligo-solutions.com
 ---
 
 # Diligo

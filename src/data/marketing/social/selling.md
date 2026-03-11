@@ -3,9 +3,7 @@ section: blog
 title: 'Social Selling : Vendre sur les Réseaux Sociaux'
 author: Diane
 tags:
-- Social Selling
-- Vente
-- Social Media
+- Marketing
 description: Guide complet pour vendre sur LinkedIn, Instagram et autres réseaux sans
   être un vendeur agressif
 pubDate: '2026-01-17'

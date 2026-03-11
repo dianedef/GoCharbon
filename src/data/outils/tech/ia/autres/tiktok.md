@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Tiktok
 author: Diane
 description: 'Découvre Tiktok : outil français pour entrepreneurs, fonctionnalités

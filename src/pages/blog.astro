@@ -4,8 +4,9 @@ import Layout from "../layouts/Default.astro";
 import PostGrid from "../components/components/PostGrid.astro";
 import Button from "../components/components/Button.astro";
 import { applyContentScope } from "../utils/content-section";
+import { filterBuildVisiblePosts } from "../utils/build-posts";
 
-const blogPosts = applyContentScope(await getCollection("posts"), "blog")
+const blogPosts = applyContentScope(filterBuildVisiblePosts(await getCollection("posts")), "blog")
 	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
 	.slice(0, 30);
 

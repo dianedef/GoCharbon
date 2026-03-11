@@ -47,7 +47,7 @@ Concevoir des systemes prompts robustes relies à des usages business réels.
 - [Suivi du parcours](/parcours/prompt-engineer)
 - [Ressource utile 1](/tutos/creer-un-custom-gpt-gratuitement)
 - [Ressource utile 2](/tutos/how-to-train-your-own-prompt-on-your-custom-style)
-- [Ressource utile 3](/tech/ia/guides/index)
+- [Ressource utile 3](/tech/ia/guides)
 
 ## Idées de contenus pour aller plus loin
 - [Guide à venir 1: méthode evaluation prompts](/tutos/prompt-engineer/methode-evaluation-prompts)

@@ -4,7 +4,6 @@ import { getEntry, render } from "astro:content";
 import { learningPaths, learningPathById } from "../../data/parcoursData";
 import { getParcoursIdFromSlug, getParcoursSlug } from "../../data/parcoursSlugs";
 import PathProgressTracker from "../../components/vue/PathProgressTracker.vue";
-import mineursBg from "../../assets/mineurs-fond.svg";
 
 export function getStaticPaths() {
   return learningPaths.flatMap((path) => {
@@ -39,6 +38,29 @@ const levelLabelByValue: Record<string, string> = {
   avance: "Avancé",
 };
 const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.level) : "";
+const pathTotalSteps = pathData
+  ? pathData.modules.reduce((acc, module) => acc + module.steps.length, 0)
+  : 0;
+const pathReferenceStages = [
+  {
+    key: "charbon",
+    label: "Charbon",
+    summary: "Tu poses les bases et clarifies ton point de départ.",
+    icon: "/world/charbon.svg",
+  },
+  {
+    key: "mine",
+    label: "Mine",
+    summary: "Tu creuses ton angle et construis une offre utile.",
+    icon: "/world/mine.svg",
+  },
+  {
+    key: "or",
+    label: "Or",
+    summary: "Tu exécutes vite pour valider avec des actions concrètes.",
+    icon: "/world/or.svg",
+  },
+] as const;
 ---
 
 <Layout
@@ -47,7 +69,7 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
   pageTitle={pathData ? `Parcours ${pathData.profileTitle}` : "Parcours introuvable"}
 >
   <main class="parcours-mine-bg min-h-screen py-12 md:py-20">
-    <img src={mineursBg} alt="" class="mine-bg-illustration" aria-hidden="true" />
+    <img src="/world/mineurs-fond.svg" alt="" class="mine-bg-illustration" aria-hidden="true" />
     <div class="mine-bg-overlay" aria-hidden="true"></div>
     <div class="container mx-auto px-4">
       <div class="max-w-5xl mx-auto">
@@ -78,17 +100,53 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
               </div>
             </div>
 
-            <PathProgressTracker client:load pathData={pathData} />
-
             {PathContent && (
               <div class="path-editorial">
-                <p class="path-editorial-kicker">Résumé du projet</p>
-                <p class="path-editorial-intro">
-                  Ici, tu as la vue d'ensemble: le but, l'idée et le plan sur 7 jours. Pour avancer étape par étape, utilise la checklist juste au-dessus.
-                </p>
+                <div class="path-editorial-lead">
+                  <p class="path-editorial-kicker">RESUME OPERATIONNEL</p>
+                  <p class="path-editorial-intro">
+                    <strong class="path-editorial-intro-lead">CAP SUR L'EXECUTION.</strong> Tu poses le cadre en 30 secondes, puis tu avances avec une <em class="path-editorial-intro-emphasis">cadence simple</em>, <strong class="path-editorial-intro-step">module par module</strong>.
+                  </p>
+                  <ul class="path-editorial-highlights">
+                    <li>
+                      <p class="path-editorial-highlight-label">Objectif final</p>
+                      <p class="path-editorial-highlight-value"><strong class="path-editorial-value-main">{pathData.outcome}</strong></p>
+                    </li>
+                    <li>
+                      <p class="path-editorial-highlight-label">Niveau et durée</p>
+                      <p class="path-editorial-highlight-value"><strong class="path-editorial-value-main">{levelLabel}</strong> <span class="path-editorial-sep" aria-hidden="true">·</span> <em class="path-editorial-value-sub">{pathData.estimatedDuration}</em></p>
+                    </li>
+                    <li>
+                      <p class="path-editorial-highlight-label">Cadence</p>
+                      <p class="path-editorial-highlight-value"><strong class="path-editorial-value-main">{pathData.modules.length} MODULES</strong> <span class="path-editorial-sep" aria-hidden="true">·</span> <strong class="path-editorial-value-main">{pathTotalSteps} ETAPES</strong> <em class="path-editorial-value-sub">actionnables</em></p>
+                    </li>
+                  </ul>
+                  <div class="path-editorial-cta">
+                    <a href="#path-steps" class="path-btn no-link-style">Commencer les étapes</a>
+                    <p class="path-editorial-cta-meta"><strong>REPERES:</strong> <em>CHARBON -> MINE -> OR</em></p>
+                  </div>
+                </div>
                 <PathContent />
               </div>
             )}
+
+            <section class="path-reference-grid" aria-label="Repères visuels du parcours">
+              {pathData.modules.slice(0, 3).map((module, index) => {
+                const stage = pathReferenceStages[index] ?? pathReferenceStages[2];
+                return (
+                  <article class={`path-reference-card ${stage.key}`}>
+                    <img src={stage.icon} alt="" class="path-reference-icon" loading="lazy" />
+                    <p class="path-reference-stage">Module {index + 1} · {stage.label}</p>
+                    <h2 class="path-reference-title">{module.title}</h2>
+                    <p class="path-reference-summary">{stage.summary}</p>
+                  </article>
+                );
+              })}
+            </section>
+
+            <div id="path-steps" class="path-steps-anchor">
+              <PathProgressTracker client:load pathData={pathData} />
+            </div>
 
             <div class="path-actions">
               <a href="/quiz-avance" class="path-btn no-link-style">Refaire le quiz avancé</a>
@@ -281,6 +339,74 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
     margin-top: 1rem;
   }
 
+  .path-reference-grid {
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.8rem;
+  }
+
+  .path-reference-card {
+    border: 3px solid var(--brand-black);
+    background: var(--brand-cream);
+    box-shadow: 5px 5px 0 var(--brand-black);
+    padding: 0.75rem 0.72rem;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-areas:
+      "icon stage"
+      "icon title"
+      "icon summary";
+    gap: 0.26rem 0.58rem;
+    align-items: center;
+  }
+
+  .path-reference-card.charbon {
+    background: linear-gradient(180deg, #fff3ca 0%, #ffe8a0 100%);
+  }
+
+  .path-reference-card.mine {
+    background: linear-gradient(180deg, #fff6e1 0%, #ffd8b2 100%);
+  }
+
+  .path-reference-card.or {
+    background: linear-gradient(180deg, #fff3b6 0%, #f6c700 100%);
+  }
+
+  .path-reference-icon {
+    grid-area: icon;
+    width: 46px;
+    height: 46px;
+    object-fit: contain;
+    border: 2px solid var(--brand-black);
+    background: rgb(255 255 255 / 65%);
+  }
+
+  .path-reference-stage {
+    grid-area: stage;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    line-height: 1.1;
+  }
+
+  .path-reference-title {
+    grid-area: title;
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.2;
+  }
+
+  .path-reference-summary {
+    grid-area: summary;
+    margin: 0;
+    font-size: 0.86rem;
+    line-height: 1.35;
+    font-weight: 600;
+  }
+
   @media (max-width: 720px) {
     .path-header {
       padding: 1rem;
@@ -299,6 +425,14 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
       grid-template-columns: 1fr 1fr;
       gap: 0.5rem;
     }
+
+    .path-reference-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .path-reference-card {
+      box-shadow: 4px 4px 0 var(--brand-black);
+    }
   }
 
   .path-editorial {
@@ -309,25 +443,127 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
     padding: 1rem 1.15rem;
   }
 
+  .path-editorial-lead {
+    margin: 0 0 1rem;
+    border: 2px solid var(--brand-black);
+    background: linear-gradient(180deg, #fff6d6 0%, #ffe9a8 100%);
+    padding: 0.75rem 0.8rem;
+  }
+
   .path-editorial-kicker {
     margin: 0 0 0.7rem;
     display: inline-block;
     border: 2px solid var(--brand-black);
     background: var(--brand-yellow);
     color: var(--brand-black);
-    font-size: 0.75rem;
-    font-weight: 800;
-    letter-spacing: 0.03em;
+    font-size: 0.73rem;
+    font-weight: 900;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
     line-height: 1.2;
-    padding: 0.18rem 0.46rem;
+    padding: 0.2rem 0.48rem;
   }
 
   .path-editorial-intro {
-    margin: 0 0 0.85rem;
-    font-size: 0.92rem;
-    line-height: 1.45;
-    font-weight: 600;
+    margin: 0 0 0.65rem;
+    font-size: 0.93rem;
+    line-height: 1.5;
+    font-weight: 650;
+    border-left: 4px solid var(--brand-black);
+    padding-left: 0.6rem;
+  }
+
+  .path-editorial-intro-lead {
+    display: inline-block;
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-right: 0.18rem;
+  }
+
+  .path-editorial-intro-emphasis {
+    font-style: italic;
+    font-weight: 800;
+    color: #6b2f00;
+  }
+
+  .path-editorial-intro-step {
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 0.88em;
+    letter-spacing: 0.03em;
+  }
+
+  .path-editorial-highlights {
+    list-style: none;
+    margin: 0 0 0.7rem;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.5rem;
+  }
+
+  .path-editorial-highlights li {
+    border: 2px solid var(--brand-black);
+    background: rgb(255 255 255 / 55%);
+    padding: 0.42rem 0.5rem;
+    min-width: 0;
+  }
+
+  .path-editorial-highlight-label {
+    margin: 0 0 0.2rem;
+    text-transform: uppercase;
+    font-size: 0.68rem;
+    letter-spacing: 0.04em;
+    font-weight: 900;
+    line-height: 1.15;
+  }
+
+  .path-editorial-highlight-value {
+    margin: 0;
+    font-size: 0.87rem;
+    font-weight: 700;
+    line-height: 1.35;
+  }
+
+  .path-editorial-value-main {
+    font-weight: 900;
+    letter-spacing: 0.02em;
+  }
+
+  .path-editorial-value-sub {
+    font-style: italic;
+    font-weight: 800;
+  }
+
+  .path-editorial-sep {
+    margin: 0 0.16rem;
+    font-weight: 900;
+  }
+
+  .path-editorial-cta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.55rem 0.75rem;
+  }
+
+  .path-editorial-cta-meta {
+    margin: 0;
+    font-size: 0.82rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .path-editorial-cta-meta em {
+    font-style: italic;
+    font-weight: 900;
+  }
+
+  .path-steps-anchor {
+    margin-top: 1rem;
+    scroll-margin-top: 7rem;
   }
 
   .path-editorial :global(h2) {
@@ -336,6 +572,7 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
     background: #ffe9a8;
     padding: 0.28rem 0.55rem;
     font-size: 1.05rem;
+    font-weight: 900;
     line-height: 1.3;
     text-transform: uppercase;
     letter-spacing: 0.02em;
@@ -377,6 +614,15 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
   .path-editorial :global(ul li),
   .path-editorial :global(ol li) {
     margin: 0.34rem 0;
+  }
+
+  .path-editorial :global(ul li)::marker {
+    color: var(--brand-orange);
+  }
+
+  .path-editorial :global(ol li)::marker {
+    font-weight: 800;
+    color: var(--brand-black);
   }
 
   .path-editorial :global(code) {
@@ -481,6 +727,29 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
     color: var(--brand-cream);
   }
 
+  :global(.dark) .path-reference-card {
+    border-color: var(--brand-cream);
+    box-shadow: 5px 5px 0 var(--brand-cream);
+    color: var(--brand-cream);
+  }
+
+  :global(.dark) .path-reference-card.charbon {
+    background: linear-gradient(180deg, #313131 0%, #232323 100%);
+  }
+
+  :global(.dark) .path-reference-card.mine {
+    background: linear-gradient(180deg, #2a2a2a 0%, #3a2b1b 100%);
+  }
+
+  :global(.dark) .path-reference-card.or {
+    background: linear-gradient(180deg, #3d320b 0%, #5f4a00 100%);
+  }
+
+  :global(.dark) .path-reference-icon {
+    border-color: var(--brand-cream);
+    background: rgb(255 255 255 / 6%);
+  }
+
   :global(.dark) .path-editorial-kicker {
     border-color: var(--brand-cream);
     background: transparent;
@@ -488,6 +757,24 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
   }
 
   :global(.dark) .path-editorial-intro {
+    color: var(--brand-cream);
+    border-left-color: var(--brand-yellow);
+  }
+
+  :global(.dark) .path-editorial-intro-emphasis {
+    color: #ffd480;
+  }
+
+  :global(.dark) .path-editorial-highlights li {
+    border-color: var(--brand-cream);
+    background: rgb(255 255 255 / 6%);
+  }
+
+  :global(.dark) .path-editorial-highlight-label {
+    color: var(--brand-yellow);
+  }
+
+  :global(.dark) .path-editorial-highlight-value {
     color: var(--brand-cream);
   }
 
@@ -520,6 +807,11 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
     color: var(--brand-cream);
   }
 
+  :global(.dark) .path-editorial :global(ul li)::marker,
+  :global(.dark) .path-editorial :global(ol li)::marker {
+    color: var(--brand-yellow);
+  }
+
   :global(.dark) .path-btn {
     border-color: var(--brand-cream);
     box-shadow: 4px 4px 0 var(--brand-cream);
@@ -536,13 +828,34 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
 
   .path-editorial :global(h2.path-objective-heading) {
     position: relative;
-    background: linear-gradient(90deg, #f6c700 0 18%, #ffe9a8 18% 100%);
+    background: #f6c700;
     border-width: 3px;
     box-shadow: 4px 4px 0 var(--brand-black);
     padding: 0.45rem 0.65rem 0.45rem 0.75rem;
     font-size: 1.12rem;
     letter-spacing: 0.03em;
     margin-top: 1.1rem;
+  }
+
+  .path-editorial :global(h2.path-plan-heading) {
+    border-width: 3px;
+    background: #ffd8b2;
+    box-shadow: 4px 4px 0 var(--brand-black);
+    padding: 0.42rem 0.65rem;
+  }
+
+  .path-editorial :global(h2.path-plan-heading)::before {
+    content: "7 JOURS";
+    display: inline-block;
+    margin-right: 0.55rem;
+    border: 2px solid var(--brand-black);
+    background: var(--brand-cream);
+    color: var(--brand-black);
+    font-size: 0.68rem;
+    font-weight: 900;
+    line-height: 1.1;
+    padding: 0.12rem 0.34rem;
+    vertical-align: middle;
   }
 
   .path-editorial :global(h2.path-objective-heading)::before {
@@ -559,9 +872,195 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
     vertical-align: middle;
   }
 
+  .path-editorial :global(h2.path-plain-heading),
+  .path-editorial :global(h2.path-offers-heading),
+  .path-editorial :global(h2.path-tracking-heading),
+  .path-editorial :global(h2.path-risks-heading),
+  .path-editorial :global(h2.path-deliverables-heading) {
+    border-width: 3px;
+    box-shadow: 4px 4px 0 var(--brand-black);
+    padding: 0.42rem 0.65rem;
+  }
+
+  .path-editorial :global(h2.path-plain-heading) {
+    background: #ffe29a;
+  }
+
+  .path-editorial :global(h2.path-offers-heading) {
+    background: #ffd4ad;
+  }
+
+  .path-editorial :global(h2.path-tracking-heading) {
+    background: #cfe3ff;
+  }
+
+  .path-editorial :global(h2.path-risks-heading) {
+    background: #ffd1cc;
+  }
+
+  .path-editorial :global(h2.path-deliverables-heading) {
+    background: #ffe9a8;
+  }
+
+  .path-editorial :global(h2.path-plain-heading)::before,
+  .path-editorial :global(h2.path-offers-heading)::before,
+  .path-editorial :global(h2.path-tracking-heading)::before,
+  .path-editorial :global(h2.path-risks-heading)::before,
+  .path-editorial :global(h2.path-deliverables-heading)::before {
+    display: inline-block;
+    margin-right: 0.55rem;
+    border: 2px solid var(--brand-black);
+    background: var(--brand-cream);
+    color: var(--brand-black);
+    font-size: 0.68rem;
+    font-weight: 900;
+    line-height: 1.1;
+    padding: 0.12rem 0.34rem;
+    vertical-align: middle;
+  }
+
+  .path-editorial :global(h2.path-plain-heading)::before {
+    content: "EN CLAIR";
+  }
+
+  .path-editorial :global(h2.path-offers-heading)::before {
+    content: "OFFRES";
+  }
+
+  .path-editorial :global(h2.path-tracking-heading)::before {
+    content: "A SUIVRE";
+  }
+
+  .path-editorial :global(h2.path-risks-heading)::before {
+    content: "RISQUES";
+  }
+
+  .path-editorial :global(h2.path-deliverables-heading)::before {
+    content: "RESULTAT";
+  }
+
+  .path-editorial :global(.path-editorial-section-body) {
+    margin: -0.2rem 0 0.95rem;
+    border: 2px solid var(--brand-black);
+    box-shadow: 3px 3px 0 var(--brand-black);
+    padding: 0.58rem 0.7rem;
+  }
+
+  .path-editorial :global(.path-editorial-section-body.path-section-plain) {
+    background: linear-gradient(180deg, #fff8e3 0%, #fff1cf 100%);
+  }
+
+  .path-editorial :global(.path-editorial-section-body.path-section-offers) {
+    background: linear-gradient(180deg, #fff2e6 0%, #ffe5cd 100%);
+  }
+
+  .path-editorial :global(.path-editorial-section-body.path-section-plan) {
+    background: linear-gradient(180deg, #fff4e3 0%, #ffe6be 100%);
+  }
+
+  .path-editorial :global(.path-editorial-section-body.path-section-tracking) {
+    background: linear-gradient(180deg, #f2f7ff 0%, #e2eeff 100%);
+  }
+
+  .path-editorial :global(.path-editorial-section-body.path-section-risks) {
+    background: linear-gradient(180deg, #fff2f0 0%, #ffe2de 100%);
+  }
+
+  .path-editorial :global(.path-editorial-section-body.path-section-deliverables) {
+    background: linear-gradient(180deg, #fff8e2 0%, #ffedb5 100%);
+  }
+
+  .path-editorial :global(.path-editorial-section-body > p),
+  .path-editorial :global(.path-editorial-section-body > ul),
+  .path-editorial :global(.path-editorial-section-body > ol) {
+    margin: 0.24rem 0 0.35rem;
+  }
+
+  .path-editorial :global(.path-editorial-section-body > p:last-child),
+  .path-editorial :global(.path-editorial-section-body > ul:last-child),
+  .path-editorial :global(.path-editorial-section-body > ol:last-child) {
+    margin-bottom: 0;
+  }
+
+  .path-editorial :global(.path-editorial-section-body > ul),
+  .path-editorial :global(.path-editorial-section-body > ol) {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .path-editorial :global(.path-editorial-section-body > ul > li),
+  .path-editorial :global(.path-editorial-section-body > ol > li) {
+    margin: 0;
+    padding: 0.34rem 0 0.34rem 1.35rem;
+    position: relative;
+    border-bottom: 1px dashed rgb(0 0 0 / 24%);
+    font-size: 0.95rem;
+    line-height: 1.45;
+  }
+
+  .path-editorial :global(.path-editorial-section-body > ul > li:last-child),
+  .path-editorial :global(.path-editorial-section-body > ol > li:last-child) {
+    border-bottom: 0;
+  }
+
+  .path-editorial :global(.path-editorial-section-body > ul > li)::before {
+    content: "■";
+    position: absolute;
+    left: 0;
+    top: 0.34rem;
+    font-size: 0.76rem;
+    color: var(--brand-orange);
+  }
+
+  .path-editorial :global(.path-editorial-section-body > ol) {
+    counter-reset: mine-counter;
+  }
+
+  .path-editorial :global(.path-editorial-section-body > ol > li)::before {
+    counter-increment: mine-counter;
+    content: counter(mine-counter);
+    position: absolute;
+    left: 0;
+    top: 0.28rem;
+    border: 2px solid var(--brand-black);
+    background: var(--brand-cream);
+    min-width: 1.02rem;
+    height: 1.02rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.66rem;
+    font-weight: 900;
+    line-height: 1;
+  }
+
+  .path-editorial :global(.path-editorial-section-body strong) {
+    font-weight: 800;
+    letter-spacing: 0;
+  }
+
+  .path-editorial :global(.path-editorial-section-body .path-inline-tag) {
+    display: inline-block;
+    border: 0;
+    background: transparent;
+    font-size: 0.68rem;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 0.04em;
+    padding: 0;
+    margin-right: 0.32rem;
+    vertical-align: middle;
+    text-transform: uppercase;
+  }
+
+  .path-editorial :global(.path-editorial-section-body em) {
+    font-style: italic;
+    font-weight: 500;
+  }
+
   :global(.dark) .path-editorial :global(h2.path-objective-heading) {
     border-color: var(--brand-cream);
-    background: linear-gradient(90deg, #c59c00 0 18%, #1a2f57 18% 100%);
+    background: #c59c00;
     color: var(--brand-cream);
     box-shadow: 4px 4px 0 var(--brand-cream);
   }
@@ -571,16 +1070,344 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
     background: var(--brand-ink);
     color: var(--brand-yellow);
   }
+
+  :global(.dark) .path-editorial-lead {
+    border-color: var(--brand-cream);
+    background: linear-gradient(180deg, #1b1b1b 0%, #242424 100%);
+  }
+
+  :global(.dark) .path-editorial-cta-meta {
+    color: var(--brand-cream);
+  }
+
+  :global(.dark) .path-editorial :global(h2.path-plan-heading) {
+    border-color: var(--brand-cream);
+    background: #5a3f16;
+    color: var(--brand-cream);
+    box-shadow: 4px 4px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .path-editorial :global(h2.path-plan-heading)::before {
+    border-color: var(--brand-cream);
+    background: var(--brand-ink);
+    color: var(--brand-yellow);
+  }
+
+  :global(.dark) .path-editorial :global(h2.path-plain-heading),
+  :global(.dark) .path-editorial :global(h2.path-offers-heading),
+  :global(.dark) .path-editorial :global(h2.path-tracking-heading),
+  :global(.dark) .path-editorial :global(h2.path-risks-heading),
+  :global(.dark) .path-editorial :global(h2.path-deliverables-heading) {
+    border-color: var(--brand-cream);
+    color: var(--brand-cream);
+    box-shadow: 4px 4px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .path-editorial :global(h2.path-plain-heading) {
+    background: #8b6d00;
+  }
+
+  :global(.dark) .path-editorial :global(h2.path-offers-heading) {
+    background: #7a4c26;
+  }
+
+  :global(.dark) .path-editorial :global(h2.path-tracking-heading) {
+    background: #1b4276;
+  }
+
+  :global(.dark) .path-editorial :global(h2.path-risks-heading) {
+    background: #7e2d2d;
+  }
+
+  :global(.dark) .path-editorial :global(h2.path-deliverables-heading) {
+    background: #8d6b00;
+  }
+
+  :global(.dark) .path-editorial :global(h2.path-plain-heading)::before,
+  :global(.dark) .path-editorial :global(h2.path-offers-heading)::before,
+  :global(.dark) .path-editorial :global(h2.path-tracking-heading)::before,
+  :global(.dark) .path-editorial :global(h2.path-risks-heading)::before,
+  :global(.dark) .path-editorial :global(h2.path-deliverables-heading)::before {
+    border-color: var(--brand-cream);
+    background: var(--brand-ink);
+    color: var(--brand-yellow);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body) {
+    border-color: var(--brand-cream);
+    box-shadow: 3px 3px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-plain) {
+    background: linear-gradient(180deg, #2f2a1d 0%, #27231a 100%);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-offers) {
+    background: linear-gradient(180deg, #32261d 0%, #2b221c 100%);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-plan) {
+    background: linear-gradient(180deg, #352b1d 0%, #2c241b 100%);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-tracking) {
+    background: linear-gradient(180deg, #1b2837 0%, #1a2330 100%);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-risks) {
+    background: linear-gradient(180deg, #362022 0%, #2f1f1f 100%);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-deliverables) {
+    background: linear-gradient(180deg, #332b18 0%, #2d2617 100%);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body > ul > li),
+  :global(.dark) .path-editorial :global(.path-editorial-section-body > ol > li) {
+    border-bottom-color: rgb(255 255 255 / 24%);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body > ul > li)::before {
+    color: var(--brand-yellow);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body > ol > li)::before {
+    border-color: var(--brand-cream);
+    background: var(--brand-ink);
+    color: var(--brand-yellow);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-plain .path-inline-tag),
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-offers .path-inline-tag),
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-plan .path-inline-tag),
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-tracking .path-inline-tag),
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-risks .path-inline-tag),
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-deliverables .path-inline-tag) {
+    color: transparent !important;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-plain .path-inline-tag) {
+    background-image: linear-gradient(90deg, #ffe38a 0%, #f6c700 100%);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-offers .path-inline-tag),
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-plan .path-inline-tag) {
+    background-image: linear-gradient(90deg, #ffd7a8 0%, #ff9f43 100%);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-tracking .path-inline-tag) {
+    background-image: linear-gradient(90deg, #a6d8ff 0%, #4aa8ff 100%);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-risks .path-inline-tag) {
+    background-image: linear-gradient(90deg, #ffb4c0 0%, #ff6b8a 100%);
+  }
+
+  :global(.dark) .path-editorial :global(.path-editorial-section-body.path-section-deliverables .path-inline-tag) {
+    background-image: linear-gradient(90deg, #baf2c2 0%, #5dc983 100%);
+  }
+
+  @media (max-width: 720px) {
+    .path-editorial {
+      padding: 0.9rem 0.92rem;
+    }
+
+    .path-editorial-lead {
+      padding: 0.68rem;
+    }
+
+    .path-editorial-highlights {
+      grid-template-columns: 1fr;
+    }
+
+    .path-editorial-cta .path-btn {
+      width: 100%;
+      text-align: center;
+    }
+  }
 </style>
 
 <script is:inline>
   (() => {
-    const headings = document.querySelectorAll(".path-editorial h2");
-    headings.forEach((heading) => {
-      const label = (heading.textContent || "").toLowerCase();
-      if (label.includes("objectif")) {
-        heading.classList.add("path-objective-heading");
+    const SECTION_ORDER = {
+      plain: ["#1f2937", "#6b7280", "#9ca3af"],
+      offers: ["#92400e", "#b45309", "#d97706"],
+      plan: ["#9a3412", "#b45309", "#d97706"],
+      tracking: ["#075985", "#0369a1", "#0284c7"],
+      risks: ["#9f1239", "#be123c", "#e11d48"],
+      deliverables: ["#14532d", "#166534", "#15803d"],
+    };
+    const PLAIN_TAGS = ["POUR QUI", "OU TROUVER DES CLIENTS", "TON PLUS"];
+
+    const normalizeLabel = (value) =>
+      value
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase();
+
+    const compactLabel = (value) =>
+      normalizeLabel(value)
+        .replace(/[^a-z0-9]+/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+
+    const createLabelNode = (text) => {
+      const strong = document.createElement("strong");
+      strong.textContent = text.toLocaleUpperCase("fr-FR");
+      return strong;
+    };
+
+    const createValueNode = (text, useEmphasis) => {
+      const node = document.createElement(useEmphasis ? "em" : "span");
+      node.textContent = text.trim();
+      return node;
+    };
+
+    const applyTag = (listItem, sectionType, index) => {
+      const palette = SECTION_ORDER[sectionType];
+      if (!palette) {
+        return;
       }
-    });
+
+      const tag = document.createElement("strong");
+      tag.className = "path-inline-tag";
+      tag.style.color = palette[index % palette.length];
+      const rank = index + 1;
+
+      if (sectionType === "offers") tag.textContent = `OFFRE ${rank}`;
+      else if (sectionType === "plan") tag.textContent = `JOUR ${rank}`;
+      else if (sectionType === "tracking") tag.textContent = `KPI ${rank}`;
+      else if (sectionType === "risks") tag.textContent = `RISQUE ${rank}`;
+      else if (sectionType === "deliverables") tag.textContent = `LIVRABLE ${rank}`;
+      else if (sectionType === "plain") tag.textContent = PLAIN_TAGS[index] ?? `POINT ${rank}`;
+      else tag.textContent = `POINT ${rank}`;
+
+      listItem.prepend(tag, document.createTextNode(" "));
+    };
+
+    const enhanceListItem = (listItem, sectionType, index) => {
+      if (listItem.children.length > 0 || listItem.dataset.enhanced === "1") {
+        return;
+      }
+
+      const raw = (listItem.textContent || "").trim();
+      const dayMatch = raw.match(/^((?:jour|jours)\s*[0-9]+(?:\s*-\s*[0-9]+)?)\s*:\s*(.+)$/i);
+      const genericMatch = raw.match(/^([^:]{2,42})\s*:\s*(.+)$/);
+
+      listItem.textContent = "";
+
+      if (dayMatch) {
+        const [, , value] = dayMatch;
+        const body = createValueNode(value, false);
+        listItem.append(body);
+        applyTag(listItem, sectionType, index);
+        listItem.dataset.enhanced = "1";
+        return;
+      }
+
+      if (genericMatch) {
+        const [, label, value] = genericMatch;
+        if (sectionType === "plain") {
+          const body = createValueNode(value, true);
+          listItem.append(body);
+          applyTag(listItem, sectionType, index);
+          listItem.dataset.enhanced = "1";
+          return;
+        }
+
+        const prefix = createLabelNode(`${label}:`);
+        const body = createValueNode(
+          value,
+          sectionType === "deliverables"
+        );
+        listItem.append(prefix, document.createTextNode(" "), body);
+        applyTag(listItem, sectionType, index);
+        listItem.dataset.enhanced = "1";
+        return;
+      }
+
+      if (sectionType === "offers") {
+        const text = createValueNode(raw, false);
+        listItem.append(text);
+      } else if (sectionType === "plan") {
+        const text = createValueNode(raw, false);
+        listItem.append(text);
+      } else {
+        const text = createValueNode(raw, false);
+        listItem.append(text);
+      }
+
+      applyTag(listItem, sectionType, index);
+      listItem.dataset.enhanced = "1";
+    };
+
+    const enhanceEditorial = () => {
+      const headings = document.querySelectorAll(".path-editorial h2");
+      headings.forEach((heading) => {
+        const label = compactLabel(heading.textContent || "");
+        if (label.includes("objectif")) {
+          heading.classList.add("path-objective-heading");
+        }
+        if (label.includes("7 jours") || (label.includes("plan") && label.includes("jour"))) {
+          heading.classList.add("path-plan-heading");
+        }
+
+        let sectionType = "";
+        if (label.includes("en clair")) {
+          heading.classList.add("path-plain-heading");
+          sectionType = "plain";
+        } else if (label.includes("idees d offres")) {
+          heading.classList.add("path-offers-heading");
+          sectionType = "offers";
+        } else if (label.includes("ton plan simple") || label.includes("7 jours")) {
+          sectionType = "plan";
+        } else if (label.includes("chiffres utiles") || label.includes("a suivre")) {
+          heading.classList.add("path-tracking-heading");
+          sectionType = "tracking";
+        } else if (label.includes("pieges")) {
+          heading.classList.add("path-risks-heading");
+          sectionType = "risks";
+        } else if (label.includes("a la fin")) {
+          heading.classList.add("path-deliverables-heading");
+          sectionType = "deliverables";
+        }
+
+        if (!sectionType) {
+          return;
+        }
+
+        let body = heading.nextElementSibling;
+        if (!body?.classList.contains("path-editorial-section-body")) {
+          const container = document.createElement("div");
+          container.classList.add("path-editorial-section-body", `path-section-${sectionType}`);
+          let cursor = heading.nextElementSibling;
+
+          while (cursor && cursor.tagName !== "H2") {
+            const next = cursor.nextElementSibling;
+            container.appendChild(cursor);
+            cursor = next;
+          }
+
+          if (container.childElementCount === 0) {
+            return;
+          }
+
+          heading.insertAdjacentElement("afterend", container);
+          body = container;
+        } else {
+          body.classList.add(`path-section-${sectionType}`);
+        }
+
+        body.querySelectorAll(":scope > ul > li, :scope > ol > li").forEach((item, index) => {
+          enhanceListItem(item, sectionType, index);
+        });
+      });
+    };
+
+    enhanceEditorial();
+    document.addEventListener("astro:page-load", enhanceEditorial);
   })();
 </script>

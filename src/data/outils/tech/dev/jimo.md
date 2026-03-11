@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "jimo"
+title: jimo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Dev'
-  - 'Tech'
-description: "Découvre notre nouvelle page de stats & rapports qui donne une vision claire du comportement des utilisateurs avec des expériences in-app et de meilleurs rapports d'enquête. Par ex"
-pubDate: "2024-03-25"
+- Outils
+description: Découvre notre nouvelle page de stats & rapports qui donne une vision
+  claire du comportement des utilisateurs avec des expériences in-app et de meilleurs
+  rapports d'enquête. Par ex
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.usejimo.com"
+u_site: https://www.usejimo.com
 ---
 
 # jimo

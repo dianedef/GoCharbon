@@ -6,9 +6,7 @@ statut:
 type: Logiciel
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: lowfruits
 title: Lowfruits   Dénicher Les Mot Clefs À Longue Traîne Les Plus Prometteurs !
 author: Diane

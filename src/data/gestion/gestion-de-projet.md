@@ -1,13 +1,12 @@
 ---
 section: blog
-title: "GESTION DE PROJET : L'ART DE FINIR CE QU'ON COMMENCE"
+title: 'GESTION DE PROJET : L''ART DE FINIR CE QU''ON COMMENCE'
 author: Diane
 tags:
-  - 'Gestion de projet'
-  - 'Productivité'
-  - 'Organisation'
-description: Méthodes de gestion de projet adaptées aux entrepreneurs solo et petites équipes - du chaos à la clarté
-pubDate: "2024-03-25"
+- Business
+description: Méthodes de gestion de projet adaptées aux entrepreneurs solo et petites
+  équipes - du chaos à la clarté
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

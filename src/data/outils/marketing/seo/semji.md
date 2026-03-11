@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "semji"
+title: semji
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Maximisez le ROI de vos contenus Bénéficiez d’une haute technologie exploitant des milliers de données Google Obtenez les meilleures recommandations SEO Les différents segments de "
-pubDate: "2024-03-25"
+- Outils
+description: 'Maximisez le ROI de vos contenus Bénéficiez d’une haute technologie
+  exploitant des milliers de données Google Obtenez les meilleures recommandations
+  SEO Les différents segments de '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://semji.com/fr/"
+u_site: https://semji.com/fr/
 ---
 
 # semji

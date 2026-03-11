@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "SERPmantics"
+title: SERPmantics
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "SERPmantics est l'outil francais d'optimisation semantique SEO qui te dit exactement quoi ecrire pour ranker en 1ere page Google."
-pubDate: "2024-03-25"
+- Outils
+description: SERPmantics est l'outil francais d'optimisation semantique SEO qui te
+  dit exactement quoi ecrire pour ranker en 1ere page Google.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://serpmantics.com"
+u_site: https://serpmantics.com
 ---
 
 # SERPmantics

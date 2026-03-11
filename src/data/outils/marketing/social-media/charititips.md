@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "charititips"
+title: charititips
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "Charitips est une solution novatrice de Donation-as-a-Service® conçue pour les entreprises soucieuses de créer des expériences caritatives personnalisées et gérées de bout en bout."
-pubDate: "2024-03-25"
+- Outils
+description: Charitips est une solution novatrice de Donation-as-a-Service® conçue
+  pour les entreprises soucieuses de créer des expériences caritatives personnalisées
+  et gérées de bout en bout.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.charitips.com"
+u_site: https://www.charitips.com
 ---
 
 # charititips

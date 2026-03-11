@@ -2,16 +2,15 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-  - Outils Français
-  - Création
-  - Vidéo
+- Outils
 imageNameKey: greenencoder
 u_site: https://www.greenencoder.com/
 u_affi: null
 u_affiAdmin: null
 title: GreenEncoder
 author: Diane
-description: 'GreenEncoder (devenu Cutz) compresse tes vidéos jusqu''à 95% sans perte de qualité. Solution française éco-responsable par Vidmizer, IA + ML.'
+description: GreenEncoder (devenu Cutz) compresse tes vidéos jusqu'à 95% sans perte
+  de qualité. Solution française éco-responsable par Vidmizer, IA + ML.
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---

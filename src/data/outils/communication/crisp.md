@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
-- CRM
+- Outils
 imageNameKey: crisp
 u_site: https://crisp.chat/fr/partnerships/
 u_affi: null

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les Dorks Google Secrets Qui Vont Révolutionner Vos Recherches
 author: Diane

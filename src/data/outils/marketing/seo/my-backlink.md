@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "My Backlink"
+title: My Backlink
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Le service Myback.link offre une solution économique pour la publication d'articles sur plus de 1300 sites thématiques variés allant de l'assurance à l'automobile en passant par le"
-pubDate: "2024-03-25"
+- Outils
+description: Le service Myback.link offre une solution économique pour la publication
+  d'articles sur plus de 1300 sites thématiques variés allant de l'assurance à l'automobile
+  en passant par le
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.myback.link/accueil.html"
+u_site: https://www.myback.link/accueil.html
 ---
 
 # My Backlink

@@ -3,9 +3,7 @@ section: blog
 title: Business Plan
 author: Diane
 tags:
-- Business
-- Stratégie
-- Business Plan
+- Productivité
 description: 'Rédige un business plan convaincant : structure, chiffres et conseils
   pour investisseurs.'
 pubDate: '2024-03-25'

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 u_site: null
 title: Introduction À Vivaldi, Le Meilleure Navigateur De Tous Les Temps
 author: Diane

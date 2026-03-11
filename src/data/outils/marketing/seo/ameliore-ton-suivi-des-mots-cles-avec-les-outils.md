@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Améliore ton suivi des mots-clés avec les outils de surveillance de YouTube"
+title: Améliore ton suivi des mots-clés avec les outils de surveillance de YouTube
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "**Un voyage GONZO dans le monde des outils de surveillance de YouTube** Bienvenue dans le monde palpitant de la surveillance de YouTube ! Aujourd'hui, nous nous embarquons dans une"
-pubDate: "2024-03-25"
+- Outils
+description: '**Un voyage GONZO dans le monde des outils de surveillance de YouTube**
+  Bienvenue dans le monde palpitant de la surveillance de YouTube ! Aujourd''hui,
+  nous nous embarquons dans une'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.monitorank.com/fr/"
+u_site: https://www.monitorank.com/fr/
 ---
 
 # Améliore ton suivi des mots-clés avec les outils de surveillance de YouTube

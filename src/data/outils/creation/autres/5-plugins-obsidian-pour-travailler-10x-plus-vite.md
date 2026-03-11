@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
+- Outils
 imageNameKey: null
 u_site: null
 title: '5 Plugins Obsidian Pour Travailler 10X Plus Vite Le #3 Est Génial'

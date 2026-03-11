@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: 5 Alternatives À Google Analytics Qui Vont Faire Pleurer Larry Page
 author: Diane

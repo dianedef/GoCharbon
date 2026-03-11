@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Guide Complet de l'Audit SEO Technique"
+title: Guide Complet de l'Audit SEO Technique
 author: Diane
 tags:
-  - 'SEO'
-  - 'Audit'
-  - 'Technique'
-  - 'Optimisation'
+- SEO
 description: Apprenez à réaliser un audit SEO technique complet de votre site web
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

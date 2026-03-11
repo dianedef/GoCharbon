@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Analyse de la transcription"
+title: Analyse de la transcription
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Voici les nouveautés sur Haloscan tant attendues expliquées dans une vidéo de 10 minutes : - Qu’est-ce que l’indice de visibilité ? - Comment cette note est-elle calculée ? - Expli"
-pubDate: "2024-03-25"
+- Outils
+description: 'Voici les nouveautés sur Haloscan tant attendues expliquées dans une
+  vidéo de 10 minutes : - Qu’est-ce que l’indice de visibilité ? - Comment cette note
+  est-elle calculée ? - Expli'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.haloscan.com"
+u_site: https://www.haloscan.com
 ---
 
 # Analyse de la transcription

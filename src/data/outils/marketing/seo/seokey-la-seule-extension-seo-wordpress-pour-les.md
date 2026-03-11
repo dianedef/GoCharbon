@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Seokey - La Seule Extension Seo Wordpress Pour Les Non-Seo"
+title: Seokey - La Seule Extension Seo Wordpress Pour Les Non-Seo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "2.0 vient de sortir Nous avons publié il y a quelques jours une nouvelle version de SEOKEY, avec un grand nombre de nouveautés. En résumé, voici ce qui vous attend après cette mise"
-pubDate: "2024-03-25"
+- Outils
+description: 2.0 vient de sortir Nous avons publié il y a quelques jours une nouvelle
+  version de SEOKEY, avec un grand nombre de nouveautés. En résumé, voici ce qui vous
+  attend après cette mise
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.seo-key.fr"
+u_site: https://www.seo-key.fr
 ---
 
 # Seokey - La Seule Extension Seo Wordpress Pour Les Non-Seo

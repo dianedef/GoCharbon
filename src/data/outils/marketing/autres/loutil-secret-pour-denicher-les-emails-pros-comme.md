@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: L'Outil Secret Pour Dénicher Les Emails Pros Comme Un Espion
 author: Diane

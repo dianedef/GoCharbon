@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Ankorstore"
+title: Ankorstore
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "Ankorstore est la marketplace B2B européenne qui connecte 30 000 marques à 300 000+ détaillants. Commande min 100€, paiement à 60 jours, livraison groupée."
-pubDate: "2024-03-25"
+- Outils
+description: Ankorstore est la marketplace B2B européenne qui connecte 30 000 marques
+  à 300 000+ détaillants. Commande min 100€, paiement à 60 jours, livraison groupée.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.ankorstore.com"
+u_site: https://www.ankorstore.com
 ---
 
 # Ankorstore

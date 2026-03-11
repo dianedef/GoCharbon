@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Cursor Sh
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Cursor Sh : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

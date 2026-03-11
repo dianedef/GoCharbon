@@ -5,8 +5,7 @@ type: Blog
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: La Technique Choc Pour Réussir Faites Le Pire Pour Obtenir Le Meilleur
 author: Diane
 description: 'Découvre La Technique Choc Pour Réussir Faites Le Pire Pour Obtenir

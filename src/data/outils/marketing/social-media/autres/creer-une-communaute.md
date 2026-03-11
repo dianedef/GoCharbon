@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 title: Créer Une Communauté
 author: Diane
 description: 'Découvre Créer Une Communauté : outil français pour entrepreneurs, fonctionnalités

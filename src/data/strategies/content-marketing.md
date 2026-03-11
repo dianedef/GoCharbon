@@ -3,9 +3,7 @@ section: blog
 title: 'Stratégies de Content Marketing : Guide Complet'
 author: Diane
 tags:
-- Contenu
-- Marketing
-- Stratégie
+- Business
 description: Guide complet sur les stratégies de content marketing et leur mise en
   œuvre
 pubDate: '2024-03-25'

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 12 Alternatives À L'Explorateur Windows Qui Vont Changer Votre Vie À Jamais

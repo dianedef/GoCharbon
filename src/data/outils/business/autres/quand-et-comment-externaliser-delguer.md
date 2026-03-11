@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
+- Outils
 u_site: null
 title: Quand Et Comment Externaliser, Délguer
 author: Diane

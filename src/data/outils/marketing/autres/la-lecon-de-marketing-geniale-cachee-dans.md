@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: La Leçon De Marketing Géniale Cachée Dans L'Histoire De La Pomme De Terre
 author: Diane
 description: 'Découvre La Leçon De Marketing Géniale Cachée Dans L''Histoire De La

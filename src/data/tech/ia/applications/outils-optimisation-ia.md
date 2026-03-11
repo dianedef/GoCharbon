@@ -1,10 +1,12 @@
 ---
 section: blog
-title: "Outils pour Optimiser l'Utilisation de l'IA"
+title: Outils pour Optimiser l'Utilisation de l'IA
 author: Diane
-tags: ['IA']
-description: "Guide des meilleurs outils pour améliorer et optimiser votre utilisation de l'IA, avec un focus sur Fabric et autres solutions pratiques"
-pubDate: "2024-03-25"
+tags:
+- Tech
+description: Guide des meilleurs outils pour améliorer et optimiser votre utilisation
+  de l'IA, avec un focus sur Fabric et autres solutions pratiques
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

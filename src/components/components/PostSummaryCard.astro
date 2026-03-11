@@ -4,14 +4,14 @@ import Card from "./Card.astro";
 import Button from "./Button.astro";
 import Pill from "./Pill.astro";
 import { Image } from "astro:assets";
-import colors from "../config/colors.json";
-import { normalizeTag } from "../../utils/tags";
+import { extractMainTags, getMainTagLabel } from "../../utils/tag-groups";
 
 type Props = PostSummaryCardProps;
 
 const { post, index = 0 } = Astro.props;
 const { data } = post;
 const isInitialLoad = index < 2;
+const mainTags = extractMainTags(data.tags);
 /* 
 console.log("PostSummaryCard reçoit:", {
 	postId: post.id,
@@ -101,15 +101,13 @@ const buttonColor = 'var(--brand-copper)';
 				<div class="flex justify-between items-center">
 					<ul class="flex flex-wrap gap-4 mt-2">
 						{
-							data.tags.map((tag) => (
+							mainTags.map((mainTag) => (
 								<li>
 									<a
 										class="sanchez"
-										href={`/tag/${encodeURIComponent(
-											normalizeTag(tag),
-										)}`}
+										href={`/tag/${encodeURIComponent(mainTag)}`}
 									>
-										<Pill>{tag}</Pill>
+										<Pill>{getMainTagLabel(mainTag)}</Pill>
 									</a>
 								</li>
 							))

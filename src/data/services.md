@@ -3,11 +3,7 @@ section: blog
 title: Mes Services Freelance
 author: Diane
 tags:
-- Freelancing
-- Développement
-- SEO
-- IA
-- Stratégie
+- Business
 description: 'Accompagnement sur mesure pour entreprises et entrepreneurs : Développement
   Web, SEO, Stratégie de Contenu et Intégration IA.'
 pubDate: '2026-01-21'

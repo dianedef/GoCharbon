@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 type:
 - app
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: partoo
 u_site: https://www.partoo.co/fr/
 title: Partoo

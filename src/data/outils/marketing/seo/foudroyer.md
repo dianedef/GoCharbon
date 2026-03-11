@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "foudroyer"
+title: foudroyer
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Foudroyer simplifie l'indexation de votre site web sur Google, Bing, Yandex et Naver, vous permettant ainsi d'améliorer votre classement SEO en quelques clics. Gain de temps consid"
-pubDate: "2024-03-25"
+- Outils
+description: Foudroyer simplifie l'indexation de votre site web sur Google, Bing,
+  Yandex et Naver, vous permettant ainsi d'améliorer votre classement SEO en quelques
+  clics. Gain de temps consid
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.foudroyer.com/fr/"
+u_site: https://www.foudroyer.com/fr/
 ---
 
 # foudroyer

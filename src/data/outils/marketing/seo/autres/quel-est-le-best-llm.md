@@ -6,9 +6,7 @@ u_interne: null
 _notes: null
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: null
 datePublié: null
 seo_type: null

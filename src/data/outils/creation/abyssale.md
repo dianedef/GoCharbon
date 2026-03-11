@@ -3,8 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Création
+- Outils
 imageNameKey: abyssale
 u_site: null
 u_affi: https://www.abyssale.com/?fpr=diane66

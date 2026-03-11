@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "HappyColis"
+title: HappyColis
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "HappyColis est la solution logistique e-commerce franco-canadienne. 37% d'économies moyennes, 99%+ performance, expert dédié. Dès 1,7€/SKU/mois."
-pubDate: "2024-03-25"
+- Outils
+description: HappyColis est la solution logistique e-commerce franco-canadienne. 37%
+  d'économies moyennes, 99%+ performance, expert dédié. Dès 1,7€/SKU/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://happycolis.com"
+u_site: https://happycolis.com
 ---
 
 # HappyColis

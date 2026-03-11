@@ -1,13 +1,13 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "OUTILS FORMATION FRANÇAIS"
+title: OUTILS FORMATION FRANÇAIS
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Formation'
-description: "Les meilleurs outils de formation français : LMS, e-learning. Forme tes équipes ou crée tes formations made in France."
-pubDate: "2024-03-25"
+- Outils
+description: 'Les meilleurs outils de formation français : LMS, e-learning. Forme
+  tes équipes ou crée tes formations made in France.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

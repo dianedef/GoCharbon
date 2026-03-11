@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "teambrain"
+title: teambrain
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "TeamBrain **capitalise et répond automatiquement aux questions récurrentes** de vos visiteurs directement sur votre site ou vos collaborateurs dans votre entreprise. Economisez du "
-pubDate: "2024-03-25"
+- Outils
+description: 'TeamBrain **capitalise et répond automatiquement aux questions récurrentes**
+  de vos visiteurs directement sur votre site ou vos collaborateurs dans votre entreprise.
+  Economisez du '
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://teambrain.fr"
+u_site: https://teambrain.fr
 ---
 
 # teambrain

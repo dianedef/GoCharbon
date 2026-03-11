@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: gselect
 u_site: https://indicateurs.gselect-assurances.com/dashboard/
 u_affi: https://gselect-assurances.com/?ref=bienvenue

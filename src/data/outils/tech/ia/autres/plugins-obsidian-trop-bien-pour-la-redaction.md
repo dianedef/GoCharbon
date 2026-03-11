@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Plugins Obsidian Trop Bien Pour La Rédaction
 author: Diane
 description: 'Découvre Plugins Obsidian Trop Bien Pour La Rédaction : outil français

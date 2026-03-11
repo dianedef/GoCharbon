@@ -3,8 +3,7 @@ section: blog
 title: 'NLP : Traitement du Langage Naturel'
 author: Diane
 tags:
-- IA
-- Rédaction
+- Tech
 description: 'Comprendre le NLP et ses applications : analyse de texte, traduction,
   sentiment analysis'
 pubDate: '2024-03-25'

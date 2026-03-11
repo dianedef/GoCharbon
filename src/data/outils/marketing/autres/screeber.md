@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "screeber"
+title: screeber
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "[J'ai testé pour vous: 1236 € avec Screeber - YouTube](https://www.youtube.com/watch?v=vvFY9dTf3qc&list=PLVxIgKdkOtu2yB3_BoZF2kxwGpTGpjlUa&index=12) [Screeber ai vendre avec les mo"
-pubDate: "2024-03-25"
+- Outils
+description: '[J''ai testé pour vous: 1236 € avec Screeber - YouTube](https://www.youtube.com/watch?v=vvFY9dTf3qc&list=PLVxIgKdkOtu2yB3_BoZF2kxwGpTGpjlUa&index=12)
+  [Screeber ai vendre avec les mo'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.screeber.ai/"
+u_site: https://www.screeber.ai/
 ---
 
 # screeber

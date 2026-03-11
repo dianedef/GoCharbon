@@ -2,15 +2,14 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-  - Outils Français
-  - Productivité
-  - Bureautique
+- Outils
 imageNameKey: cordial
 u_site: https://www.cordial.fr
 u_affi: null
 title: Cordial
 author: Diane
-description: 'Cordial : correcteur orthographique et grammatical français depuis 1995. Par Synapse (Toulouse). IA, 30 000+ utilisateurs, dès 6 EUR HT/mois.'
+description: 'Cordial : correcteur orthographique et grammatical français depuis 1995.
+  Par Synapse (Toulouse). IA, 30 000+ utilisateurs, dès 6 EUR HT/mois.'
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---

@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "hifivework"
+title: hifivework
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "[Hifivework: Overview | LinkedIn](https://www.linkedin.com/company/hifivework/) [Facebook](https://www.facebook.com/HiFiveWork/) [HiFiveWork - YouTube](https://www.youtube.com/chan"
-pubDate: "2024-03-25"
+- Outils
+description: '[Hifivework: Overview | LinkedIn](https://www.linkedin.com/company/hifivework/)
+  [Facebook](https://www.facebook.com/HiFiveWork/) [HiFiveWork - YouTube](https://www.youtube.com/chan'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://hifivework.com"
+u_site: https://hifivework.com
 ---
 
 # hifivework

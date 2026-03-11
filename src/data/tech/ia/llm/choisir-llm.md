@@ -3,11 +3,10 @@ section: blog
 title: 'Comment Choisir le Bon LLM : Guide Pratique'
 author: Diane
 tags:
-- IA
-- Études de cas
-description: Compare GPT-4, Claude, Gemini et autres LLM pour trouver celui qui correspond
-  à tes besoins
-pubDate: '2024-03-25'
+- Tech
+description: Compare Claude Opus 4.6, GPT-5.3 Codex, Gemini et autres LLM (mis à jour
+  mars 2026) pour trouver celui qui correspond à tes besoins
+pubDate: '2026-03-07'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 
@@ -15,7 +14,22 @@ imgUrl: ../../../../assets/astro.jpeg
 
 Avec la multiplication des modèles de langage, choisir le bon LLM peut sembler complexe. Voici comment prendre la bonne décision sans se perdre dans le marketing.
 
-## Les Leaders du Marché (2024)
+## Les Leaders du Marché (2026)
+
+Le marché a beaucoup bougé depuis 2024. Claude 3.5 et GPT-4 sont devenus des dinosaures. Voici ce qui tourne en production en 2026.
+
+| Modèle | Forces | Faiblesses | Prix | Meilleur pour |
+| --- | --- | --- | --- | --- |
+| Claude Opus 4.6 | Raisonnement, 1M tokens, code review | Plus lent que Codex | $20-200/mois | Architecture, audit, codebase complexe |
+| GPT-5.3 Codex | Vitesse (+25%), terminal, tâches parallèles | Créativité limitée | $20-200/mois | Refacto massive, maintenance, CI/CD |
+| GPT-5.4 | Polyvalent, raisonnement long | Coût élevé | Usage tokens | Raisonnement complexe multi-domaines |
+| Gemini 2.0 | Multimodal, contexte 2M tokens | Moins fiable sur le code | Variable | Docs longs, images, audio |
+| Mistral Large 3 | Coût, souveraineté européenne | Performance inférieure | $3-8/mois | Usage général, budget serré |
+| DeepSeek V3 | Open source, pas cher | Dépendance infra chinoise | $0.5-2/mois | Coût extrême, local |
+
+> **Note :** Les données 2024 ci-dessous restent utiles pour comprendre les bases. Les benchmarks et recommandations 2026 sont dans les nouvelles sections.
+
+## Les Leaders du Marché (2024 — référence historique)
 
 | Modèle        | Forces             | Faiblesses             | Prix         | Meilleur pour          |
 | ------------- | ------------------ | ---------------------- | ------------ | ---------------------- |
@@ -66,6 +80,51 @@ Avec la multiplication des modèles de langage, choisir le bon LLM peut sembler 
 | Claude 3.5 | ⭐⭐⭐     | ❌     | ❌     | $$   |
 
 **Recommandation :** Gemini 1.5 Pro pour le multimodal.
+
+## AGENTS CLI : LES NOUVEAUX BRAS DROITS DU DEV
+
+En 2026, le vrai champ de bataille n'est plus "quel LLM choisir" — c'est "quel agent CLI utiliser". Ces outils tournent directement dans ton terminal, lisent ton codebase, modifient des fichiers et lancent des commandes. Pas besoin de copier-coller dans une interface web.
+
+Deux acteurs dominent : **Claude Code** (Anthropic) et **Codex CLI** (OpenAI, open source en Rust).
+
+### Claude Code vs Codex CLI — Ce qui change vraiment
+
+| | **Claude Code** | **Codex CLI** |
+| --- | --- | --- |
+| Exécution | Local sur ta machine | Local + sandbox cloud |
+| Open source | Non | Oui (Rust, ~40K stars GitHub) |
+| Sandboxing | Hooks (17 types d'événements) | Kernel-level OS (Seatbelt macOS) |
+| Fichier config | `CLAUDE.md` par projet | `AGENTS.md` (compatible Cursor aussi) |
+| Contexte max | 1M tokens (beta) | 400K tokens |
+| Portabilité | Claude uniquement | Fonctionne avec Cursor, OpenCode |
+| Prix | $20/mois (Pro) ou $100-200 (Max) | Inclus dans ChatGPT Plus $20/mois |
+
+### Ce que dit le benchmark Terminal-Bench 2.0
+
+C'est le benchmark qui teste vraiment les agents sur des tâches shell réelles — pas juste générer du code dans le vide.
+
+| Agent | Terminal-Bench 2.0 | SWE-bench Verified | GPQA Diamond |
+| --- | --- | --- | --- |
+| **Codex CLI** | **77.3%** ✅ | 78.2% | 73.8% |
+| **Claude Code** | 65.4% | **79.4%** ✅ | **77.3%** ✅ |
+
+**Ce que ça veut dire en pratique :**
+- Codex gagne sur les tâches purement terminal et shell
+- Claude gagne sur le raisonnement complexe et les vraies résolutions de bugs
+
+### Quand utiliser lequel
+
+| Situation | Utilise |
+| --- | --- |
+| Migrer 50 fichiers vers une nouvelle API | **Codex CLI** |
+| Auditer une architecture existante | **Claude Code** |
+| Corriger des erreurs TypeScript en série | **Codex CLI** |
+| Review de sécurité, audit de codebase | **Claude Code** |
+| Lancer des tâches en parallèle en fond | **Codex Web** (pas CLI) |
+| Gros contexte +200K tokens | **Claude Code** |
+| Te passer d'abonnement Anthropic | **Codex CLI** (open source, BYO key) |
+
+**Stratégie 2026 des devs avancés :** Codex CLI le matin pour le "grunt work" (les tâches répétitives et chiantes — corrections, migrations, mises à jour de dépendances). Claude Code pour les problèmes qui demandent vraiment de réfléchir.
 
 ## Benchmarks : Ce que les chiffres disent
 
@@ -169,7 +228,7 @@ Avec la multiplication des modèles de langage, choisir le bon LLM peut sembler 
 
 ## Stack recommandée
 
-### Pour les développeurs
+### Pour les développeurs (2024)
 
 ```
 Écriture complexe → Claude 3.5
@@ -178,21 +237,33 @@ Tests → Codestral ou Claude 3.5
 Documentation → Claude 3.5
 ```
 
-### Pour les entreprises
+### Pour les développeurs (2026 — mis à jour)
 
 ```
-Raisonnement complexe → GPT-4 ou Claude 3 Opus
-Cas général → Claude 3.5 Sonnet
-Multimodal → Gemini 1.5 Pro
-Coût → Mistral ou Llama 3 (self-hosted)
+Tâches répétitives, migrations, corrections en série → Codex CLI (gratuit avec ChatGPT Plus)
+Architecture, audit codebase, review complexe → Claude Code (Pro $20/mois)
+Autocomplétion dans l'éditeur → Cursor avec Claude Opus 4.6
+Documentation longue, analyse de gros fichiers → Claude Code (1M tokens)
+Budget serré, open source → Codex CLI avec clé API BYO
 ```
 
-### Pour les startups
+### Pour les entreprises (2026)
 
 ```
-MVP → GPT-3.5 ou Mistral (coût)
-Scale → Claude 3.5 (performance)
-Confidentialité → Llama 3 (local)
+Raisonnement complexe, compliance → Claude Opus 4.6
+Maintenance et CI/CD automatisé → GPT-5.3 Codex (tâches parallèles cloud)
+Multimodal (images, vidéo, audio) → Gemini 2.0 Pro
+Coût serré, RGPD européen → Mistral Large 3 (hébergé en France)
+Souveraineté totale → DeepSeek V3 ou Llama 3 70B (self-hosted)
+```
+
+### Pour les startups (2026)
+
+```
+MVP rapide → Codex CLI (inclus ChatGPT Plus $20/mois)
+Scale → Claude Opus 4.6 (meilleure qualité output)
+Confidentialité stricte → DeepSeek V3 (local, pas cher)
+Budget zéro → Codex CLI open source avec API gratuite limitée
 ```
 
 ## En savoir plus
@@ -205,3 +276,9 @@ Confidentialité → Llama 3 (local)
 ---
 
 Le meilleur LLM n'existe pas. Il y a le meilleur LLM pour ton cas d'usage, ton budget, et tes contraintes. La clé : tester, mesurer, et adapter. Commence avec 2-3 modèles, teste sur des cas réels, et garde celui qui te donne les meilleurs résultats.
+
+**En 2026, ajoute une dimension :** choisis aussi ton **agent CLI**. Les LLMs dans une interface web, c'est bien. Les agents qui opèrent directement dans ton terminal, modifient tes fichiers et lancent tes tests — c'est ce qui multiplie vraiment ta productivité. Claude Code et Codex CLI sont les deux à tester en priorité.
+
+---
+
+*Mis à jour en mars 2026 avec les données Claude Opus 4.6, GPT-5.3 Codex et les benchmarks Terminal-Bench 2.0 et SWE-bench Verified.*

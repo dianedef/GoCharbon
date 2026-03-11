@@ -3,8 +3,6 @@ section: blog
 title: 'Community Management : Construire une Communauté Engagée'
 author: Diane
 tags:
-- Community
-- Social Media
 - Marketing
 description: Guide complet pour créer et animer une communauté sur les réseaux sociaux
 pubDate: '2026-01-17'

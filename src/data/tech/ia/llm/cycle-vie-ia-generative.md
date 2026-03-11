@@ -1,10 +1,12 @@
 ---
 section: blog
-title: "Cycle de Vie des Modèles d'IA Générative : Du Développement au Monitoring"
+title: 'Cycle de Vie des Modèles d''IA Générative : Du Développement au Monitoring'
 author: Diane
-tags: ['IA']
-description: "Guide complet sur les étapes de développement, déploiement et surveillance des modèles d'IA générative"
-pubDate: "2024-03-25"
+tags:
+- Tech
+description: Guide complet sur les étapes de développement, déploiement et surveillance
+  des modèles d'IA générative
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 

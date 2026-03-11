@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Email
+- Outils
 title: Faire De L'Emailing Tout Savoir Sur L’Emailing Le Canal De Diffusion Par Excellence
 author: Diane
 description: 'Découvre Faire De L''Emailing Tout Savoir Sur L’Emailing Le Canal De

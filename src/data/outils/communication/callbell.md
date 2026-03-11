@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Callbell"
+title: Callbell
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Callbell centralise WhatsApp, Messenger, Instagram et Telegram en une inbox multi-agents. Fondé à Paris en 2019. Bootstrappé. 2000+ clients. Dès 15€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Callbell centralise WhatsApp, Messenger, Instagram et Telegram en une
+  inbox multi-agents. Fondé à Paris en 2019. Bootstrappé. 2000+ clients. Dès 15€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.callbell.eu/fr/"
+u_site: https://www.callbell.eu/fr/
 ---
 
 # Callbell

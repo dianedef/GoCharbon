@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: important
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: C'Est Quoi Le Scraping
 author: Diane
 description: 'Découvre C''Est Quoi Le Scraping : outil français pour entrepreneurs,

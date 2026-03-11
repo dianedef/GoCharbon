@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Productivité
 author: Diane
 description: 'Découvre Productivité : outil français pour entrepreneurs, fonctionnalités

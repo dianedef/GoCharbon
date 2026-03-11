@@ -4,10 +4,9 @@ metadataEnrichedAt: null
 title: 12Pages
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "12Pages detecte la cannibalisation SEO : 1 ou 2 pages pour tes mots-cles ? Credits des 0,03EUR. Cree par Amaury Duval (Centrale Paris)."
+- Outils
+description: '12Pages detecte la cannibalisation SEO : 1 ou 2 pages pour tes mots-cles
+  ? Credits des 0,03EUR. Cree par Amaury Duval (Centrale Paris).'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://12pages.com

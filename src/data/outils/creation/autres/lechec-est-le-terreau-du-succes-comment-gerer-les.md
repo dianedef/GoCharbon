@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 u_site: null
 imageNameKey: echec-succes
 title: L'Échec Est Le Terreau Du Succès, Comment Gérer Les Erreurs Et Obstacles

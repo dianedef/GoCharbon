@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Transformez Du Texte En Vidéos Époustouflantes 3 Outils Magiques À Ne Pas Manquer
 author: Diane
 description: 'Découvre Transformez Du Texte En Vidéos Époustouflantes 3 Outils Magiques

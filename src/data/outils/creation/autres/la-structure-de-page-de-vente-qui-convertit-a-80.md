@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
+- Outils
 imageNameKey: null
 u_site: null
 title: La Structure De Page De Vente Qui Convertit À 80% Copiez La

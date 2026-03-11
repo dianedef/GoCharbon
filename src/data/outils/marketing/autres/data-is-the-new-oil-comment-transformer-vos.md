@@ -6,8 +6,7 @@ statut:
 - backlog
 priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Data Is The New Oil Comment Transformer Vos Données En Or Massif
 author: Diane
 description: 'Découvre Data Is The New Oil Comment Transformer Vos Données En Or Massif

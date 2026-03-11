@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "monstock"
+title: monstock
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Admin'
-  - 'Business'
-description: "Monstock, le logiciel de gestion des stocks et flux, offre une solution complète et innovante pour les entrepreneurs souhaitant améliorer leurs ventes tout en gagnant du temps. Cet"
-pubDate: "2024-03-25"
+- Outils
+description: Monstock, le logiciel de gestion des stocks et flux, offre une solution
+  complète et innovante pour les entrepreneurs souhaitant améliorer leurs ventes tout
+  en gagnant du temps. Cet
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://monstock.net/fr_fr/"
+u_site: https://monstock.net/fr_fr/
 ---
 
 # monstock

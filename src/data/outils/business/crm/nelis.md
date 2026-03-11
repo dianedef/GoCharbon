@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Nelis"
+title: Nelis
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Nelis est un CRM français de business development. Gestion de contacts, segmentation marketing, événements, extranet. Fondé par Philippe Rossi et Katia Vidic. RGPD natif."
-pubDate: "2024-03-25"
+- Outils
+description: Nelis est un CRM français de business development. Gestion de contacts,
+  segmentation marketing, événements, extranet. Fondé par Philippe Rossi et Katia
+  Vidic. RGPD natif.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.nelis.fr"
+u_site: https://www.nelis.fr
 ---
 
 # Nelis

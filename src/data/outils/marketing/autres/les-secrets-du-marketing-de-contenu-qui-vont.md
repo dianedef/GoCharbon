@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les Secrets Du Marketing De Contenu Qui Vont Faire De Vous Une Star Du Web
 author: Diane

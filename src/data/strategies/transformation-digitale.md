@@ -3,9 +3,7 @@ section: blog
 title: 'Transformation Digitale : Guide Complet'
 author: Diane
 tags:
-- Digital
-- Innovation
-- Tech
+- Business
 description: Guide complet sur la transformation digitale des entreprises
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg

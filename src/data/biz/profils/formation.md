@@ -4,8 +4,6 @@ title: Formation en Ligne
 author: Web Indé
 tags:
 - Business
-- Formation
-- Monétisation
 description: 'Crée ton organisme de formation : réglementation, financement CPF et
   stratégies pour formateurs professionnels.'
 pubDate: '2024-01-01'

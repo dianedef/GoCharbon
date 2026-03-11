@@ -1,16 +1,17 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Envoyez des courriels froids grâce à l'IA qui brise la glace et obtient des répo"
+title: Envoyez des courriels froids grâce à l'IA qui brise la glace et obtient des
+  répo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "You can access it in settings>members. The goal here is to decide who can manage team members, set up billing etc. **How it works** - **Owner**: can do everything, including deleti"
-pubDate: "2024-03-25"
+- Outils
+description: 'You can access it in settings>members. The goal here is to decide who
+  can manage team members, set up billing etc. **How it works** - **Owner**: can do
+  everything, including deleti'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.breakcold.com/fr"
+u_site: https://www.breakcold.com/fr
 ---
 
 # Envoyez des courriels froids grâce à l'IA qui brise la glace et obtient des répo

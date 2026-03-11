@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Comment Nous Avons Gagné 82 700$ En 4 Semaines Avec Un Seul Cours Notre Méthode
   Secrète
 author: Diane

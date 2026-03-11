@@ -6,8 +6,7 @@ statut:
 - backlog
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Secrets Chocs Des Créateurs De Contenu Qui Cartonnent Tout Révélé
 author: Diane
 description: 'Découvre Les Secrets Chocs Des Créateurs De Contenu Qui Cartonnent Tout

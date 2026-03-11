@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import PostList from "./PostList.astro";
 import Card from "./Card.astro";
 import Button from "./Button.astro";
+import { filterBuildVisiblePosts } from "../../utils/build-posts";
 
 interface Props {
 	count?: number;
@@ -11,6 +12,8 @@ interface Props {
 const { count } = Astro.props;
 
 const posts = await getCollection("posts").then((posts) =>
+	filterBuildVisiblePosts(posts)
+).then((posts) =>
 	posts.reverse().slice(0, count ?? 3),
 );
 ---

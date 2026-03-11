@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "luminjo"
+title: luminjo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Luminjo offre un avantage clé aux entreprises en simplifiant leur service client. Que vous travailliez en solo ou en équipe, ce logiciel centralise toutes les requêtes de vos utili"
-pubDate: "2024-03-25"
+- Outils
+description: Luminjo offre un avantage clé aux entreprises en simplifiant leur service
+  client. Que vous travailliez en solo ou en équipe, ce logiciel centralise toutes
+  les requêtes de vos utili
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://fr.luminjo.com"
+u_site: https://fr.luminjo.com
 ---
 
 # luminjo

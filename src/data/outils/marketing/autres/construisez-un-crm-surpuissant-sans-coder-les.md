@@ -6,8 +6,7 @@ statut:
 - backlog
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Construisez Un Crm Surpuissant Sans Coder Les Pros Vont Détester
 author: Diane
 description: 'Découvre Construisez Un Crm Surpuissant Sans Coder Les Pros Vont Détester

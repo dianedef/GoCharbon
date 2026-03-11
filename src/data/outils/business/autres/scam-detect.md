@@ -4,8 +4,7 @@ metadataEnrichedAt: null
 title: Scam Detect
 author: Diane
 tags:
-- Outils Français
-- Business
+- Outils
 description: 'Découvre Scam Detect : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

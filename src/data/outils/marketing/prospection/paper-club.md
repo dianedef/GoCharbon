@@ -4,10 +4,9 @@ metadataEnrichedAt: null
 title: Paper Club
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Paper Club : plateforme française de netlinking avec 90 000 médias. Articles sponsorisés, RP digitale et GEO dès 100 euros."
+- Outils
+description: 'Paper Club : plateforme française de netlinking avec 90 000 médias.
+  Articles sponsorisés, RP digitale et GEO dès 100 euros.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.paper.club/

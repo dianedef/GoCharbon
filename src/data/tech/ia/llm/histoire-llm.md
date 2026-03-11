@@ -3,8 +3,7 @@ section: blog
 title: 'Histoire des LLM : De BERT à Claude 3.5'
 author: Diane
 tags:
-- IA
-- Contenu
+- Tech
 description: L'évolution des modèles de langage de 2017 à 2024, des Transformers à
   l'AGI
 pubDate: '2024-03-25'

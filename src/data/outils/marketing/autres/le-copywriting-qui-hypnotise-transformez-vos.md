@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Le Copywriting Qui Hypnotise Transformez Vos Lecteurs En Clients Accros
 author: Diane

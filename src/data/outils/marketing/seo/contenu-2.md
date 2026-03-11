@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Contenu"
+title: Contenu
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Séquences d’outreach automatisé : Vous fournissez la liste, créez la séquence et laissez Yadulink faire le reste. Une alternative puissante aux outils comme Waalaxy ou Lemlist. Réd"
-pubDate: "2024-03-25"
+- Outils
+description: 'Séquences d’outreach automatisé : Vous fournissez la liste, créez la
+  séquence et laissez Yadulink faire le reste. Une alternative puissante aux outils
+  comme Waalaxy ou Lemlist. Réd'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://app.yadulink.com"
+u_site: https://app.yadulink.com
 ---
 
 # Contenu

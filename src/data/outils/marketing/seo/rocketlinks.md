@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Rocketlinks"
+title: Rocketlinks
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Nediscussion avec le fondateur : [(204) INTERDIT BANCAIRE, 1M€ EN 24 MOIS, BLACK HAT vs WHITE HAT SEO - YouTube](https://www.youtube.com/watch?v=cAQvDDbLryA) Gain de temps avec une"
-pubDate: "2024-03-25"
+- Outils
+description: 'Nediscussion avec le fondateur : [(204) INTERDIT BANCAIRE, 1M€ EN 24
+  MOIS, BLACK HAT vs WHITE HAT SEO - YouTube](https://www.youtube.com/watch?v=cAQvDDbLryA)
+  Gain de temps avec une'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.rocketlinks.com/fr/"
+u_site: https://www.rocketlinks.com/fr/
 ---
 
 # Rocketlinks

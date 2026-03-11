@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Trustfolio"
+title: Trustfolio
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Trustfolio est une plateforme française d'avis B2B vérifiés. Recommandations clients authentifiées, championnat de l'excellence client. 30 000+ prestataires. Dès 49€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Trustfolio est une plateforme française d'avis B2B vérifiés. Recommandations
+  clients authentifiées, championnat de l'excellence client. 30 000+ prestataires.
+  Dès 49€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://trustfolio.co"
+u_site: https://trustfolio.co
 ---
 
 # Trustfolio

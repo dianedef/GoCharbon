@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
+- Outils
 imageNameKey: null
 u_site: null
 title: 20 Idées De Side Hustle Qui Rapportent Gros La 3 Va Vous Choquer

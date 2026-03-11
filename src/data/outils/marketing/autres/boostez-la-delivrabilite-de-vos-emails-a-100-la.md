@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Boostez La Délivrabilité De Vos Emails À 100% La Technique Interdite
 author: Diane
 description: 'Découvre Boostez La Délivrabilité De Vos Emails À 100% La Technique

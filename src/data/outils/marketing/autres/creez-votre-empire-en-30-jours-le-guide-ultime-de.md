@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Créez Votre Empire En 30 Jours Le Guide Ultime De La Création D'Entreprise

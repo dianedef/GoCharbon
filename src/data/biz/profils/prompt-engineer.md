@@ -4,8 +4,6 @@ title: Prompt Engineer / Consultant IA
 author: Web Indé
 tags:
 - Business
-- IA
-- Freelancing
 description: 'Deviens prompt engineer : techniques, outils IA et stratégies pour vendre
   tes compétences en prompting.'
 pubDate: '2024-01-01'

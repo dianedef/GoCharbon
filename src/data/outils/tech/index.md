@@ -1,13 +1,13 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "OUTILS TECH FRANÇAIS"
+title: OUTILS TECH FRANÇAIS
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Tech'
-description: "Les meilleurs outils tech français : hébergement, IA, développement, sécurité. L'infrastructure made in France."
-pubDate: "2024-03-25"
+- Outils
+description: 'Les meilleurs outils tech français : hébergement, IA, développement,
+  sécurité. L''infrastructure made in France.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

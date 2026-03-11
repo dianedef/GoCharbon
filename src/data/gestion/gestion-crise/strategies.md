@@ -3,8 +3,7 @@ section: blog
 title: Strategies
 author: Diane
 tags:
-- Stratégie
-- Gestion de Crise
+- Business
 description: 'Stratégies de gestion de crise : anticipation, réaction et communication
   pour entreprises.'
 pubDate: '2024-03-25'

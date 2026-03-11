@@ -4,10 +4,9 @@ metadataEnrichedAt: null
 title: DarwinRX
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "DarwinRX automatise ta présence Pinterest 24h/24. Publication d'épingles auto, ciblage par niche, idéal pour e-commerce et affiliés."
+- Outils
+description: DarwinRX automatise ta présence Pinterest 24h/24. Publication d'épingles
+  auto, ciblage par niche, idéal pour e-commerce et affiliés.
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.darwinrx.fr

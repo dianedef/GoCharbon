@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Une solution tout-en-un très simple d’utilisation développée pourles freelances,"
+title: Une solution tout-en-un très simple d’utilisation développée pourles freelances,
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "Swello est une application SaaS (Software as a Service) conçue pour aider les entreprises à gérer leur présence sur les réseaux sociaux. Elle propose des fonctionnalités de gestion"
-pubDate: "2024-03-25"
+- Outils
+description: Swello est une application SaaS (Software as a Service) conçue pour aider
+  les entreprises à gérer leur présence sur les réseaux sociaux. Elle propose des
+  fonctionnalités de gestion
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://swello.com/fr/"
+u_site: https://swello.com/fr/
 ---
 
 # Une solution tout-en-un très simple d’utilisation développée pourles freelances,

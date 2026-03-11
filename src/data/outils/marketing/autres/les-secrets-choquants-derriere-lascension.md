@@ -6,8 +6,7 @@ statut:
 - backlog
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Secrets Choquants Derrière L'Ascension Fulgurante De Ryanair
 author: Diane
 description: 'Découvre Les Secrets Choquants Derrière L''Ascension Fulgurante De Ryanair

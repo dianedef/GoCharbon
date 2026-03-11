@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Formation
+- Outils
 u_site: null
 title: Automatisez Vos Processus De Travail Existants Avec Des Robots Grâce À La Rpa
 author: Diane

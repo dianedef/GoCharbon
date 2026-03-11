@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Email
+- Outils
 u_site: null
 title: Lead Magnet C'Est Quoi
 author: Diane

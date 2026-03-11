@@ -3,9 +3,7 @@ section: blog
 title: 'Google Dorking : Les Techniques de Recherche Avancées qui Changent Tout'
 author: Diane
 tags:
-- Scraping
-- Analytics
-- Sécurité
+- Tech
 description: Maîtrise Google Dorking pour dénicher des infos cachées et optimiser
   tes recherches en 10 minutes.
 pubDate: '2024-03-25'

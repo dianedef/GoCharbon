@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Beewac"
+title: Beewac
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Beewac est un réseau social éthique français avec messagerie instantanée. Carte interactive, salons, blogs, protection des données. Fondé par Boris Jouatel. Sophia Antipolis."
-pubDate: "2024-03-25"
+- Outils
+description: Beewac est un réseau social éthique français avec messagerie instantanée.
+  Carte interactive, salons, blogs, protection des données. Fondé par Boris Jouatel.
+  Sophia Antipolis.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.beewac.com/"
+u_site: https://www.beewac.com/
 ---
 
 # Beewac

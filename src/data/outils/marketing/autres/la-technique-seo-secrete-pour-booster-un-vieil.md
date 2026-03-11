@@ -5,8 +5,7 @@ type: Blog
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: La Technique Seo Secrète Pour Booster Un Vieil Article En Première Page De
   Google
 author: Diane

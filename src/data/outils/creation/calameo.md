@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Calaméo"
+title: Calaméo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Design'
-  - 'Création'
-description: "Calaméo est la plateforme française de publication digitale. PDF en flipbooks interactifs. 12M+ publications, 7M utilisateurs, 5Mrd pages vues. Paris. Dès 11€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Calaméo est la plateforme française de publication digitale. PDF en flipbooks
+  interactifs. 12M+ publications, 7M utilisateurs, 5Mrd pages vues. Paris. Dès 11€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.calameo.com"
+u_site: https://www.calameo.com
 ---
 
 # Calaméo

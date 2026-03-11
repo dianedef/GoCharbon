@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Nouveaux Navigateurs Internet Qui Vont Rendre Chrome Obsolète
 author: Diane
 description: 'Découvre Les Nouveaux Navigateurs Internet Qui Vont Rendre Chrome Obsolète

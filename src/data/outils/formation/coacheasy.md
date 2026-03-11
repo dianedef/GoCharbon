@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: coacheasy
 u_site: https://coacheasy.io/?affiliate=bienvenue
 u_affi: https://bienvenue--coacheasy.thrivecart.com/beta/

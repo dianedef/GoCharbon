@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: La Technique Marketing Ia Qui Va Faire Exploser Votre Audience En 24H
 author: Diane
 description: 'Découvre La Technique Marketing Ia Qui Va Faire Exploser Votre Audience

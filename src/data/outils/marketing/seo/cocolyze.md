@@ -6,9 +6,7 @@ type:
 - Logiciel
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: cocolyze
 u_site: https://cocolyze.com/fr/
 title: Cocolyze

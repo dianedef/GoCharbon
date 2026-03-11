@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Pourquoi 89% Des Pubs Sont Ignorées Et Comment Faire Partie Des 11% Qui Cartonnent

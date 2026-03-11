@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "checksub"
+title: checksub
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Affiliation'
-  - 'Marketing'
-description: "Checksub est une entreprise de SaaS offrant un service de sous-titrage et de traduction de manière rapide et automatique. Voici toutes les informations à propos de l'entreprise et "
-pubDate: "2024-03-25"
+- Outils
+description: 'Checksub est une entreprise de SaaS offrant un service de sous-titrage
+  et de traduction de manière rapide et automatique. Voici toutes les informations
+  à propos de l''entreprise et '
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.checksub.com/fr/"
+u_site: https://www.checksub.com/fr/
 ---
 
 # checksub

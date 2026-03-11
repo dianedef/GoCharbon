@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Le Template Analytics Qui Va Faire De Vous Un Dieu Du Marketing Digital
 author: Diane
 description: 'Découvre Le Template Analytics Qui Va Faire De Vous Un Dieu Du Marketing

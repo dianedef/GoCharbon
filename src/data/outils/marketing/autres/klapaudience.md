@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "📊 KlapAudience : Des lead magnets qui convertissent avec succès"
+title: '📊 KlapAudience : Des lead magnets qui convertissent avec succès'
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Obtention de leads qualifiés régulièrement sans effort Amélioration de votre stratégie marketing Sauvegarde de temps grâce à des contenus précis et automatisé Infopreneurs Startupp"
-pubDate: "2024-03-25"
+- Outils
+description: Obtention de leads qualifiés régulièrement sans effort Amélioration de
+  votre stratégie marketing Sauvegarde de temps grâce à des contenus précis et automatisé
+  Infopreneurs Startupp
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.klapaudience.fr/"
+u_site: https://www.klapaudience.fr/
 ---
 
 # 📊 KlapAudience : Des lead magnets qui convertissent avec succès

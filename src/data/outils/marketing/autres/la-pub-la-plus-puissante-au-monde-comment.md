@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: La Pub La Plus Puissante Au Monde Comment L'Utiliser Pour Exploser Vos Ventes

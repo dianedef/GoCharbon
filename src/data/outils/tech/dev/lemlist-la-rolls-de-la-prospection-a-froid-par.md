@@ -5,8 +5,7 @@ statut: []
 type: Logiciel
 _priorité: normal
 tags:
-- Outils Français
-- Tech
+- Outils
 imageNameKey: lemlist
 title: Lemlist   La Rolls De La Prospection À Froid Par Email
 author: Diane

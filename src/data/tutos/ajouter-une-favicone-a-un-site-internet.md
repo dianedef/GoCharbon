@@ -3,8 +3,7 @@ section: tutos
 title: Comment Ajouter un Favicon à Son Site
 author: Diane
 tags:
-- Design
-- Web
+- Tutoriels
 description: Ajoute ton favicon en 2 minutes avec les bons outils. Guide rapide et
   simple.
 pubDate: '2026-01-17'

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: 10 Façons De Changer Le Monde
 author: Diane
 description: 'Découvre 10 Façons De Changer Le Monde : outil français pour entrepreneurs,

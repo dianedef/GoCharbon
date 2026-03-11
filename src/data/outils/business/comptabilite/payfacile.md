@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "PayFacile"
+title: PayFacile
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "PayFacile est une plateforme française no-code pour vendre par abonnement. Pages de paiement, facturation automatique, CB et SEPA. Plan gratuit disponible."
-pubDate: "2024-03-25"
+- Outils
+description: PayFacile est une plateforme française no-code pour vendre par abonnement.
+  Pages de paiement, facturation automatique, CB et SEPA. Plan gratuit disponible.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.payfacile.com/fr"
+u_site: https://www.payfacile.com/fr
 ---
 
 # PayFacile

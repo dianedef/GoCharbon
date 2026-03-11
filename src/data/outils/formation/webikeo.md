@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Webikeo"
+title: Webikeo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Formation'
-  - 'Marketing'
-description: "Webikeo est la plateforme de webinar marketing française. 5 600 000+ pros, 25 000+ webinars, 2 500+ clients. Accès gratuit et illimité. 4.5/5 Appvizer."
-pubDate: "2024-03-25"
+- Outils
+description: Webikeo est la plateforme de webinar marketing française. 5 600 000+
+  pros, 25 000+ webinars, 2 500+ clients. Accès gratuit et illimité. 4.5/5 Appvizer.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://webikeo.fr"
+u_site: https://webikeo.fr
 ---
 
 # Webikeo

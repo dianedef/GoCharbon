@@ -4,7 +4,6 @@ title: Virtual Assistant / Assistant Virtuel Spécialisé
 author: Web Indé
 tags:
 - Business
-- Freelancing
 description: 'Deviens assistant virtuel : services, outils et stratégies pour travailler
   à distance avec succès.'
 pubDate: '2024-01-01'

@@ -5,8 +5,7 @@ statut: []
 type: Logiciel
 _priorité: normal
 tags:
-- Outils Français
-- Tech
+- Outils
 u_site: https://arsen.co
 imageNameKey: arsen
 title: Arsen

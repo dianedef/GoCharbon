@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: L'Impact Social Choquant De La Tech Ce Que Les Géants Du Web Vous Cachent
 author: Diane
 description: 'Découvre L''Impact Social Choquant De La Tech Ce Que Les Géants Du Web

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Dev
-- Tech
+- Outils
 imageNameKey: null
 u_site: https://wptemplate.studio
 u_affi: null
@@ -13,7 +11,8 @@ RS-&-RSS-suivi: null
 Ville: null
 title: WPTemplate Studio
 author: Diane
-description: 'Templates WordPress Elementor 100% personnalisables pour créatifs, coachs et thérapeutes. À partir de 49€ paiement unique, sans abonnement.'
+description: Templates WordPress Elementor 100% personnalisables pour créatifs, coachs
+  et thérapeutes. À partir de 49€ paiement unique, sans abonnement.
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -3,7 +3,7 @@ section: blog
 title: 'Prompt Engineering : Guide Complet'
 author: Diane
 tags:
-- IA
+- Tech
 description: Comment communiquer efficacement avec l'IA pour obtenir de meilleurs
   résultats
 pubDate: '2026-01-17'

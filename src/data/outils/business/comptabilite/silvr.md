@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Silvr"
+title: Silvr
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Silvr propose du financement basé sur les revenus (revenue-based financing) pour les entreprises digitales. 2 000+ entreprises financées, commission fixe de 6-9%, sans dilution ni garantie."
-pubDate: "2024-03-25"
+- Outils
+description: Silvr propose du financement basé sur les revenus (revenue-based financing)
+  pour les entreprises digitales. 2 000+ entreprises financées, commission fixe de
+  6-9%, sans dilution ni garantie.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.silvr.co/fr"
+u_site: https://www.silvr.co/fr
 ---
 
 # Silvr

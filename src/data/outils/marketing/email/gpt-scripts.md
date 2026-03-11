@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Gpt scripts"
+title: Gpt scripts
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "**PLAN PRO** **Fonctionnalités** * Définition de ton avatar client * Méthode simple * Méthode avancée * Emails de vente * Plus de 100 modèles d'emails copywrités, classés par catég"
-pubDate: "2024-03-25"
+- Outils
+description: '**PLAN PRO** **Fonctionnalités** * Définition de ton avatar client *
+  Méthode simple * Méthode avancée * Emails de vente * Plus de 100 modèles d''emails
+  copywrités, classés par catég'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.gptscripts.fr"
+u_site: https://www.gptscripts.fr
 ---
 
 # Gpt scripts

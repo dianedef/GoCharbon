@@ -3,10 +3,7 @@ section: blog
 title: 'Automatisation Business : Le Guide Complet pour Libérer Ton Temps'
 author: Diane
 tags:
-- Automatisation
 - Tech
-- Productivité
-- Gestion
 description: 'Guide complet de l''automatisation business : outils, stratégies et
   workflows pour scal ton entreprise et gagner du temps.'
 pubDate: '2024-03-25'

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Flexina"
+title: Flexina
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Flexina est un logiciel belge de facturation en ligne pour TPE et indépendants. Certifié NF525 en France, il gère devis, factures, relances et stats. À partir de 20€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Flexina est un logiciel belge de facturation en ligne pour TPE et indépendants.
+  Certifié NF525 en France, il gère devis, factures, relances et stats. À partir de
+  20€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.myflexina.com"
+u_site: https://www.myflexina.com
 ---
 
 # Flexina

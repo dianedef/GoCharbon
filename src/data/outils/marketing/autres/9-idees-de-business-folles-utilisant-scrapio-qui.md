@@ -6,8 +6,7 @@ statut:
 - en-cours
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: 9 Idées De Business Folles Utilisant Scrap.Io Qui Vont Vous Rendre Riche Du
   Jour Au Lendemain
 author: Diane

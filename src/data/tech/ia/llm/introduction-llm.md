@@ -3,8 +3,7 @@ section: blog
 title: 'LLM : Comprendre les Modèles de Langage'
 author: Diane
 tags:
-- IA
-- Fondamentaux
+- Tech
 description: Tout savoir sur les Large Language Models, de leur fonctionnement à leur
   utilisation pratique
 pubDate: '2024-03-25'

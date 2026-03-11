@@ -6,10 +6,7 @@ type:
 - app
 statut: null
 tags:
-- Outils Français
-- Rédaction
-- Tech
-- IA
+- Outils
 imageNameKey: breakcold
 title: Breakcold Et Le Social Selling La Prospection Commerciale Multicanale Moderne
 author: Diane

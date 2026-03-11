@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: urgent
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Abm
 author: Diane
 description: 'Découvre Abm : outil français pour entrepreneurs, fonctionnalités et

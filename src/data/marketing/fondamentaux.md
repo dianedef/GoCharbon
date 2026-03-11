@@ -3,11 +3,10 @@ section: blog
 title: Fondamentaux du Marketing Digital
 author: Diane
 tags:
-  - 'Marketing'
-  - 'Fondamentaux'
-  - 'Strategie'
-description: Comprends les fondamentaux marketing sans jargon inutile et lance un plan d'acquisition clair.
-pubDate: "2026-01-17"
+- Marketing
+description: Comprends les fondamentaux marketing sans jargon inutile et lance un
+  plan d'acquisition clair.
+pubDate: '2026-01-17'
 imgUrl: ../../assets/astro.jpeg
 ---
 

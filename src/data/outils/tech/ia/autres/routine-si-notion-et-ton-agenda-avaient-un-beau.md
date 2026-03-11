@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: routine
 title: Routine Si Notion Et Ton Agenda Avaient Un Beau Bébé
 author: Diane

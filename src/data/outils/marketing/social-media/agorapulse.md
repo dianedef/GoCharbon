@@ -4,14 +4,13 @@ metadataEnrichedAt: null
 title: Agorapulse
 author: Diane
 tags:
-  - 'Outils Francais'
-  - 'Social Media'
-  - 'Marketing'
+- Outils
 imageNameKey: agorapulse
-u_site: "https://www.agorapulse.com"
+u_site: https://www.agorapulse.com
 u_affi: null
 u_affiAdmin: null
-description: "Agorapulse : outil francais de gestion reseaux sociaux. Inbox unifiee, ROI social, listening. 160 employes, Series B 18,3M$. Des 69$/mois."
+description: 'Agorapulse : outil francais de gestion reseaux sociaux. Inbox unifiee,
+  ROI social, listening. 160 employes, Series B 18,3M$. Des 69$/mois.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

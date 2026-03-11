@@ -1,13 +1,12 @@
 ---
 section: blog
-title: "GESTION DES RISQUES : ANTICIPER POUR NE PAS SUBIR"
+title: 'GESTION DES RISQUES : ANTICIPER POUR NE PAS SUBIR'
 author: Diane
 tags:
-  - 'Risques'
-  - 'Gestion'
-  - 'Stratégie'
-description: Guide complet sur la gestion et la mitigation des risques pour entrepreneurs - protège ton business avant qu'il soit trop tard
-pubDate: "2024-03-25"
+- Business
+description: Guide complet sur la gestion et la mitigation des risques pour entrepreneurs
+  - protège ton business avant qu'il soit trop tard
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

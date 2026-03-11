@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "SE Ranking"
+title: SE Ranking
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "SERanking est une entreprise qui fournit des outils de référencement et des analyses de site Web pour les propriétaires d'entreprise, les spécialistes en marketing numérique et les"
-pubDate: "2024-03-25"
+- Outils
+description: SERanking est une entreprise qui fournit des outils de référencement
+  et des analyses de site Web pour les propriétaires d'entreprise, les spécialistes
+  en marketing numérique et les
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://seranking.com/fr/"
+u_site: https://seranking.com/fr/
 ---
 
 # SE Ranking

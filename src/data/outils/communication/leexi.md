@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "leexi"
+title: leexi
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Leexi est une plateforme d'intelligence conversationnelle qui vise à transcrire, analyser et résumer vos appels et visioconférences. Elle offre une solution puissante pour augmente"
-pubDate: "2024-03-25"
+- Outils
+description: Leexi est une plateforme d'intelligence conversationnelle qui vise à
+  transcrire, analyser et résumer vos appels et visioconférences. Elle offre une solution
+  puissante pour augmente
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.leexi.ai/fr/"
+u_site: https://www.leexi.ai/fr/
 ---
 
 # leexi

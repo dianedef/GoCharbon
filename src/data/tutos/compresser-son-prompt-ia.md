@@ -1,7 +1,7 @@
 ---
 section: tutos
 tags:
-- Rédaction
+- Tutoriels
 imageNameKey: null
 u_site: null
 title: Compresser Son Prompt Ia

@@ -3,9 +3,7 @@ section: blog
 title: 'RSE : LE BUSINESS RESPONSABLE'
 author: Diane
 tags:
-- RSE
-- Éthique
-- Stratégie
+- Business
 description: Guide complet sur la responsabilité sociale des entreprises - comment
   construire un business rentable ET éthique
 pubDate: '2024-03-25'

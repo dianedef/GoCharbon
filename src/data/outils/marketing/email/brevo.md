@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Brevo"
+title: Brevo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email Marketing'
-  - 'Marketing'
-description: "Suite email marketing & CRM française : 500k+ utilisateurs, données UE, automation avancée, SMS/WhatsApp, CRM gratuit, meilleur rapport qualité/prix."
-pubDate: "2024-03-25"
+- Outils
+description: 'Suite email marketing & CRM française : 500k+ utilisateurs, données
+  UE, automation avancée, SMS/WhatsApp, CRM gratuit, meilleur rapport qualité/prix.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.brevo.com/fr/"
+u_site: https://www.brevo.com/fr/
 ---
 
 # Brevo

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 title: Linkedin
 author: Diane
 description: 'Découvre Linkedin : outil français pour entrepreneurs, fonctionnalités

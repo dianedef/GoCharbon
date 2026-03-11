@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Link Finder"
+title: Link Finder
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Link Finder est le comparateur de plateformes de netlinking qui te fait economiser 30% en moyenne sur chaque achat de backlink."
-pubDate: "2024-03-25"
+- Outils
+description: Link Finder est le comparateur de plateformes de netlinking qui te fait
+  economiser 30% en moyenne sur chaque achat de backlink.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://link-finder.net/fr/"
+u_site: https://link-finder.net/fr/
 ---
 
 # Link Finder

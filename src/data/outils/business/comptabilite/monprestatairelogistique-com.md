@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "MonPrestataireLogistique"
+title: MonPrestataireLogistique
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "MonPrestataireLogistique.com est une plateforme française de mise en relation entre entreprises et prestataires logistiques. Comparaison, benchmarks, sans commission. Dès 9€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: MonPrestataireLogistique.com est une plateforme française de mise en
+  relation entre entreprises et prestataires logistiques. Comparaison, benchmarks,
+  sans commission. Dès 9€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.monprestatairelogistique.com"
+u_site: https://www.monprestatairelogistique.com
 ---
 
 # MonPrestataireLogistique

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "digidom"
+title: digidom
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "- 🏢 Digidom est une société de domiciliation basée dans le 8ème arrondissement de Paris. - 🤝 Digidom propose des services de domiciliation, de formalités juridiques, de permanence "
-pubDate: "2024-03-25"
+- Outils
+description: '- 🏢 Digidom est une société de domiciliation basée dans le 8ème arrondissement
+  de Paris. - 🤝 Digidom propose des services de domiciliation, de formalités juridiques,
+  de permanence '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.digidom.pro"
+u_site: https://www.digidom.pro
 ---
 
 # digidom

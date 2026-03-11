@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "helloharel"
+title: helloharel
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Facturation'
-  - 'Business'
-description: "- **Fondateurs :** Timothy Jollivet - **Nombre d'employés :** 6 - 💼 Hello Harel propose un outil unique pour la gestion quotidienne des TPE et PME. - 🚀 Le projet a débuté en 2016, "
-pubDate: "2024-03-25"
+- Outils
+description: '- **Fondateurs :** Timothy Jollivet - **Nombre d''employés :** 6 - 💼
+  Hello Harel propose un outil unique pour la gestion quotidienne des TPE et PME.
+  - 🚀 Le projet a débuté en 2016, '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.helloharel.com"
+u_site: https://www.helloharel.com
 ---
 
 # helloharel

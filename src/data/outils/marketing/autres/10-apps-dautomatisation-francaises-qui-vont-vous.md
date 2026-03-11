@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 10 Apps D'Automatisation Françaises Qui Vont Vous Faire Gagner 10 Heures Par

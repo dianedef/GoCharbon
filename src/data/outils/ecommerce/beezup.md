@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "BeezUP"
+title: BeezUP
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "BeezUP est un gestionnaire de flux e-commerce français. Diffusion produits sur 2000+ marketplaces et comparateurs dans 40 pays. Fondé 2009. Acquis par Cdiscount 2017. Dès 224€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: BeezUP est un gestionnaire de flux e-commerce français. Diffusion produits
+  sur 2000+ marketplaces et comparateurs dans 40 pays. Fondé 2009. Acquis par Cdiscount
+  2017. Dès 224€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.beezup.com"
+u_site: https://www.beezup.com
 ---
 
 # BeezUP

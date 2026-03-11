@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Make The Web Load Faster
 author: Diane
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 description: 'Découvre Make The Web Load Faster : outil français pour entrepreneurs,
   fonctionnalités et avis.'
 pubDate: '2024-03-25'

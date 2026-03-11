@@ -4,9 +4,6 @@ title: 'Maillage Interne : Guide Complet'
 author: Diane
 tags:
 - SEO
-- Maillage Interne
-- Liens
-- Architecture
 description: Guide complet sur l'optimisation du maillage interne pour le SEO
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg

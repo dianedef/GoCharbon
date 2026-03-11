@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 u_site: null
 title: Comment Faire De La Publicité Sur Les Réseaux Sociaux (Guide Pour Débutant)
 author: Diane

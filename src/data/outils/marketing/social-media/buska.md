@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Buska"
+title: Buska
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Buska est un outil de social listening et détection d'intention d'achat. 20+ sources surveillées en temps réel. Bootstrappé. Dès 39$/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Buska est un outil de social listening et détection d'intention d'achat.
+  20+ sources surveillées en temps réel. Bootstrappé. Dès 39$/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.buska.io/fr/"
+u_site: https://www.buska.io/fr/
 ---
 
 # Buska

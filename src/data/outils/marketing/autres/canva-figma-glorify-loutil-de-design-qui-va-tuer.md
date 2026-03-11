@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Canva + Figma = Glorify L'Outil De Design Qui Va Tuer Ses Concurrents
 author: Diane
 description: 'Découvre Canva + Figma = Glorify L''Outil De Design Qui Va Tuer Ses

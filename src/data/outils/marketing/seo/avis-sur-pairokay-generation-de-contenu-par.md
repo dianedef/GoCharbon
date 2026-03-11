@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "📋 Avis sur Pairokay - Génération de Contenu par Intelligence Artificielle"
+title: 📋 Avis sur Pairokay - Génération de Contenu par Intelligence Artificielle
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "démo [Pairokay pour les nuls - YouTube](https://www.youtube.com/watch?v=_26UlrdA3Zw) Perroquet est un outil puissant de génération de contenu par intelligence artificielle. Il vous"
-pubDate: "2024-03-25"
+- Outils
+description: démo [Pairokay pour les nuls - YouTube](https://www.youtube.com/watch?v=_26UlrdA3Zw)
+  Perroquet est un outil puissant de génération de contenu par intelligence artificielle.
+  Il vous
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.pairokay.com"
+u_site: https://www.pairokay.com
 ---
 
 # 📋 Avis sur Pairokay - Génération de Contenu par Intelligence Artificielle

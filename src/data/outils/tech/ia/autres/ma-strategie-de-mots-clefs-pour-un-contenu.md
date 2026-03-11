@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: g-strategie-motcles
 title: Ma Stratégie De Mots Clefs Pour Un Contenu Populaire Et Profitable
 author: Diane

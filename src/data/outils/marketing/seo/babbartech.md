@@ -6,9 +6,7 @@ type: Logiciel
 _priorité: normal
 u_site: https://www.babbar.tech/fr
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: babbartech
 title: Babbar.Tech
 author: Diane

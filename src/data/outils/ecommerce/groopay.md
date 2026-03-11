@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Groopay"
+title: Groopay
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "Groopay est la 1ère marketplace française de commande groupée. 100 000+ participants, 80+ partenaires, jusqu'à -45% grâce au système de paliers."
-pubDate: "2024-03-25"
+- Outils
+description: Groopay est la 1ère marketplace française de commande groupée. 100 000+
+  participants, 80+ partenaires, jusqu'à -45% grâce au système de paliers.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.groopay.fr"
+u_site: https://www.groopay.fr
 ---
 
 # Groopay

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
+- Outils
 title: L'Essentiel Est Invisible Pour Les Yeux, 90% Du Monde Nous Échappe
 author: Diane
 description: 'Découvre L''Essentiel Est Invisible Pour Les Yeux, 90% Du Monde Nous

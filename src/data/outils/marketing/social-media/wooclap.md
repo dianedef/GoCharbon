@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "wooclap"
+title: wooclap
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "**Outil de questionnaires interactifs pour animer des classes via smartphone** Depuis 2018, Wooclap s'est associé avec Microsoft afin de permettre une interaction entre le système "
-pubDate: "2024-03-25"
+- Outils
+description: '**Outil de questionnaires interactifs pour animer des classes via smartphone**
+  Depuis 2018, Wooclap s''est associé avec Microsoft afin de permettre une interaction
+  entre le système '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.wooclap.com/fr/"
+u_site: https://www.wooclap.com/fr/
 ---
 
 # wooclap

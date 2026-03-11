@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: L'Adpocalypse Comment Survivre À La Fin De La Pub Telle Qu'On La Connaît
 author: Diane

@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "YellowBox CRM"
+title: YellowBox CRM
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "YellowBox CRM par DIMO Software est un CRM français flexible avec licences concurrentes. Personnalisation avancée, modules additionnels. Dès 65€ HT/mois."
-pubDate: "2024-03-25"
+- Outils
+description: YellowBox CRM par DIMO Software est un CRM français flexible avec licences
+  concurrentes. Personnalisation avancée, modules additionnels. Dès 65€ HT/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.dimo-crm.fr"
+u_site: https://www.dimo-crm.fr
 ---
 
 # YellowBox CRM

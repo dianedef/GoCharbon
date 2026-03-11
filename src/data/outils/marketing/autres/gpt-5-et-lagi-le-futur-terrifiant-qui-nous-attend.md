@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Gpt 5 Et L'Agi Le Futur Terrifiant Qui Nous Attend… Êtes Vous Prêt

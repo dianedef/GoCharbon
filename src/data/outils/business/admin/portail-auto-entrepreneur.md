@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Portail Auto-entrepreneur"
+title: Portail Auto-entrepreneur
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Admin'
-  - 'Business'
-description: "Le Portail Auto-Entrepreneur offre un ensemble d'avantages cruciaux pour les entrepreneurs. Il simplifie le processus d'inscription en ligne pour les auto-entrepreneurs, offrant un"
-pubDate: "2024-03-25"
+- Outils
+description: Le Portail Auto-Entrepreneur offre un ensemble d'avantages cruciaux pour
+  les entrepreneurs. Il simplifie le processus d'inscription en ligne pour les auto-entrepreneurs,
+  offrant un
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.portail-autoentrepreneur.fr"
+u_site: https://www.portail-autoentrepreneur.fr
 ---
 
 # Portail Auto-entrepreneur

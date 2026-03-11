@@ -11,9 +11,7 @@ projet:
 title: Code Informatique
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Code Informatique : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

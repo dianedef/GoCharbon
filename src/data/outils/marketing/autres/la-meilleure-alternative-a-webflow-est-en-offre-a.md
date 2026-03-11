@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: https://webinde.fr/meilleure-alternative-webflow/
 metadesc: Divhunt gagne rapidement du terrain en tant qu'alternative de premier ordre

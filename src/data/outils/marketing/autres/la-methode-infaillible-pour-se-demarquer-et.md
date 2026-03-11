@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: La Méthode Infaillible Pour Se Démarquer Et Devenir Une Superstar De Votre
   Industrie

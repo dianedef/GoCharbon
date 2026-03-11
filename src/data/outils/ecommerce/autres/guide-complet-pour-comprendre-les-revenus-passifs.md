@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
+- Outils
 imageNameKey: revenus-passifs
 noteID: 89260faf-f1a7-4c4b-8229-cc683f52c16d
 metadesc: Guide complet sur la compréhension des revenus passifs qui couvre les différentes

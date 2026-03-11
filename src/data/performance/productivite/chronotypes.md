@@ -2,9 +2,11 @@
 section: blog
 title: Le Mythe des Lève-Tôt et des Couche-Tard
 author: Diane
-tags: ['Performance']
-description: Découvrez la science des chronotypes et comment optimiser votre productivité en fonction de votre rythme naturel
-pubDate: "2024-03-25"
+tags:
+- Productivité
+description: Découvrez la science des chronotypes et comment optimiser votre productivité
+  en fonction de votre rythme naturel
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

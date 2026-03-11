@@ -3,8 +3,7 @@ section: blog
 title: 'Applications IA : Cas d''Usage Réels'
 author: Diane
 tags:
-- IA
-- Business
+- Tech
 description: Plus de 300 cas d'usage d'IA documentés, de la médecine à l'e-commerce
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg

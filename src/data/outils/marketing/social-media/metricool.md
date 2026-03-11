@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Metricool"
+title: Metricool
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "Hi Diane,Imagine if you can get a hold of a crystal ball that help qualify identify and track all you performance metrics ? Well instead of a crystal ball, we give you our software"
-pubDate: "2024-03-25"
+- Outils
+description: Hi Diane,Imagine if you can get a hold of a crystal ball that help qualify
+  identify and track all you performance metrics ? Well instead of a crystal ball,
+  we give you our software
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://metricool.com/fr/"
+u_site: https://metricool.com/fr/
 ---
 
 # Metricool

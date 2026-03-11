@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: ca-compte-pour-moi
 u_site: https://www.cacomptepourmoi.fr
 u_affi: null

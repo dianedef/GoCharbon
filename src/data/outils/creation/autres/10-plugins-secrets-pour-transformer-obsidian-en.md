@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
+- Outils
 imageNameKey: null
 u_site: null
 title: 10 Plugins Secrets Pour Transformer Obsidian En Machine À Productivité

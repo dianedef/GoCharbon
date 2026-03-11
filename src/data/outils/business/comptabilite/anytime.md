@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Anytime"
+title: Anytime
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Anytime est une néobanque pro française pour indépendants, PME et associations. Compte avec IBAN français, cartes Mastercard, gestion des frais, facturation et terminal de paiement."
-pubDate: "2024-03-25"
+- Outils
+description: Anytime est une néobanque pro française pour indépendants, PME et associations.
+  Compte avec IBAN français, cartes Mastercard, gestion des frais, facturation et
+  terminal de paiement.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.anyti.me/fr"
+u_site: https://www.anyti.me/fr
 ---
 
 # Anytime

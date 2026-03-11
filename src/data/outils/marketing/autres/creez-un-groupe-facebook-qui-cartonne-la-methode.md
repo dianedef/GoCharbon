@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Créez Un Groupe Facebook Qui Cartonne La Méthode Secrète Des Influenceurs
 author: Diane
 description: 'Découvre Créez Un Groupe Facebook Qui Cartonne La Méthode Secrète Des

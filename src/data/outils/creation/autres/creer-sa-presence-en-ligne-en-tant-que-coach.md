@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 u_site: null
 title: Créer  Sa Présence En Ligne En Tant Que Coach
 author: Diane

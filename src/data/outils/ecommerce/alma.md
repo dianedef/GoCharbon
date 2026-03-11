@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Alma"
+title: Alma
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "Alma est la fintech française n°1 du paiement en plusieurs fois (BNPL). 21 800+ marchands, 10 pays, licence ACPR. 280M€ levés (Série C 210M€). Dès 2,39% par transaction."
-pubDate: "2024-03-25"
+- Outils
+description: Alma est la fintech française n°1 du paiement en plusieurs fois (BNPL).
+  21 800+ marchands, 10 pays, licence ACPR. 280M€ levés (Série C 210M€). Dès 2,39%
+  par transaction.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://almapay.com/fr-FR"
+u_site: https://almapay.com/fr-FR
 ---
 
 # Alma

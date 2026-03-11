@@ -5,9 +5,7 @@ statut: []
 type: Logiciel
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: instaboss
 title: Instaboss
 author: Diane

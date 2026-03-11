@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Multipliez vos R.O.I. 🤑"
+title: Multipliez vos R.O.I. 🤑
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "[Connexion à votre compte](https://gifing.learnybox.com/formation/formation/26526/?idmodule=268146&idpage=1344647&suite) https://affiliationstar.com/gifing-programme-ambassadeur/ a"
-pubDate: "2024-03-25"
+- Outils
+description: '[Connexion à votre compte](https://gifing.learnybox.com/formation/formation/26526/?idmodule=268146&idpage=1344647&suite)
+  https://affiliationstar.com/gifing-programme-ambassadeur/ a'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://gifing.com"
+u_site: https://gifing.com
 ---
 
 # Multipliez vos R.O.I. 🤑

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Wity"
+title: Wity
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Wity est un cabinet d'expert-comptable 100% en ligne et humain. Compta, droit, stratégie. Collaborateur dédié. Membre de l'Ordre. Dès 29€ HT/mois. Groupe SECAB."
-pubDate: "2024-03-25"
+- Outils
+description: Wity est un cabinet d'expert-comptable 100% en ligne et humain. Compta,
+  droit, stratégie. Collaborateur dédié. Membre de l'Ordre. Dès 29€ HT/mois. Groupe
+  SECAB.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://wity.fr"
+u_site: https://wity.fr
 ---
 
 # Wity

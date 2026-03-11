@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Ubiq"
+title: Ubiq
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Business'
-description: "Ubiq est la plateforme française de recherche de bureaux et coworking. 4.9/5 Trustpilot (342 avis). Couvrant toute la France. Gratuit pour les chercheurs."
-pubDate: "2024-03-25"
+- Outils
+description: Ubiq est la plateforme française de recherche de bureaux et coworking.
+  4.9/5 Trustpilot (342 avis). Couvrant toute la France. Gratuit pour les chercheurs.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.ubiq.fr"
+u_site: https://www.ubiq.fr
 ---
 
 # Ubiq

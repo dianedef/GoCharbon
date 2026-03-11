@@ -4,8 +4,6 @@ title: AI Automation Agency
 author: Web Indé
 tags:
 - Business
-- IA
-- Automatisation
 description: 'Maîtrise l''automatisation IA pour créer des revenus : outils, workflows
   et stratégies pour entrepreneurs tech-savvy.'
 pubDate: '2024-01-01'

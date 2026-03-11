@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Presse Papier
 author: Diane
 description: 'Découvre Presse Papier : outil français pour entrepreneurs, fonctionnalités

@@ -17,6 +17,7 @@
 
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
+import { filterBuildVisiblePosts } from '../utils/build-posts';
 
 /**
  * Generates RSS feed from all blog posts
@@ -26,7 +27,7 @@ import { getCollection } from 'astro:content';
  */
 export async function GET(context) {
   // Fetch all posts from content collection
-  const posts = await getCollection('posts');
+  const posts = filterBuildVisiblePosts(await getCollection('posts'));
   
   return rss({
     title: 'GoCharbon',

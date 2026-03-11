@@ -47,7 +47,7 @@ Vendre du design orienté performance business, pas seulement esthetique.
 - [Suivi du parcours](/parcours/design-graphique)
 - [Ressource utile 1](/tutos/comment-faire-des-vignettes-youtube-miniatures)
 - [Ressource utile 2](/tutos/comment-generer-automatiquement-les-images)
-- [Ressource utile 3](/outils/creation/index)
+- [Ressource utile 3](/outils/creation)
 
 ## Idées de contenus pour aller plus loin
 - [Guide à venir 1: brief creatif anti rework](/tutos/design-graphique/brief-creatif-anti-rework)

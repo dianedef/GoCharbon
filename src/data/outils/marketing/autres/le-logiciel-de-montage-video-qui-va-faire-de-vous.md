@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Le Logiciel De Montage Vidéo Qui Va Faire De Vous Le Nouveau Spielberg
 author: Diane

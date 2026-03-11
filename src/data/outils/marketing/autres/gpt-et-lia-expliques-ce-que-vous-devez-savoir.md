@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Gpt Et L'Ia Expliqués Ce Que Vous Devez Savoir Pour Ne Pas Devenir Obsolète

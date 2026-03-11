@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Koala"
+title: Koala
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Légal'
-  - 'Business'
-description: "[Koala Insurance: Overview | LinkedIn](https://www.linkedin.com/company/koalainsurance/) Koala est une solution innovante d'assurance voyage qui révolutionne l'industrie. Cette ass"
-pubDate: "2024-03-25"
+- Outils
+description: '[Koala Insurance: Overview | LinkedIn](https://www.linkedin.com/company/koalainsurance/)
+  Koala est une solution innovante d''assurance voyage qui révolutionne l''industrie.
+  Cette ass'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://hikoala.co/fr/"
+u_site: https://hikoala.co/fr/
 ---
 
 # Koala

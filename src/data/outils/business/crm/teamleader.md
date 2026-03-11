@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Teamleader"
+title: Teamleader
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Teamleader est un CRM belge tout-en-un pour TPE/PME. Vente, facturation, gestion de projets, suivi du temps. Support français. Dès 50€/mois pour 2 utilisateurs."
-pubDate: "2024-03-25"
+- Outils
+description: Teamleader est un CRM belge tout-en-un pour TPE/PME. Vente, facturation,
+  gestion de projets, suivi du temps. Support français. Dès 50€/mois pour 2 utilisateurs.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.teamleader.eu/fr/"
+u_site: https://www.teamleader.eu/fr/
 ---
 
 # Teamleader

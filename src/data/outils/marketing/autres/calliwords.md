@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "calliwords"
+title: calliwords
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "fait par cédric floris **Tired of spending hours crafting sales copy that falls flat?** Calliwords is an AI-powered writing tool that helps you generate high-converting sales copy "
-pubDate: "2024-03-25"
+- Outils
+description: 'fait par cédric floris **Tired of spending hours crafting sales copy
+  that falls flat?** Calliwords is an AI-powered writing tool that helps you generate
+  high-converting sales copy '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.calliwords.com"
+u_site: https://www.calliwords.com
 ---
 
 # calliwords

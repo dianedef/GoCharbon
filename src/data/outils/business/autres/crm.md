@@ -4,10 +4,9 @@ metadataEnrichedAt: null
 title: CRM
 author: Diane
 tags:
-- Outils Français
-- Business
-- CRM
-description: 'CRM pour débutants: à quoi ça sert, comment le choisir, et comment le mettre en place sans complexité inutile.'
+- Outils
+description: 'CRM pour débutants: à quoi ça sert, comment le choisir, et comment le
+  mettre en place sans complexité inutile.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

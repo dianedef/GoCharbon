@@ -3,9 +3,7 @@ section: blog
 title: 'Meta Ads : Facebook & Instagram Advertising'
 author: Diane
 tags:
-- Ads
-- Facebook
-- Instagram
+- Marketing
 description: Guide complet pour maîtriser la publicité sur Facebook et Instagram
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg

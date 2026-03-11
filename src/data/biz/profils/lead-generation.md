@@ -4,8 +4,6 @@ title: Lead Generation Specialist / Spécialiste en Génération de Leads
 author: Web Indé
 tags:
 - Business
-- Acquisition
-- Marketing
 description: 'Maîtrise la génération de leads : stratégies, outils et techniques pour
   vendre ce service aux entreprises.'
 pubDate: '2024-01-01'

@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "OHME"
+title: OHME
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "OHME est un CRM français pour associations. Gestion des contacts, reçus fiscaux, paiements en ligne, gestion collaborative. 650+ associations. Dès 20€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: OHME est un CRM français pour associations. Gestion des contacts, reçus
+  fiscaux, paiements en ligne, gestion collaborative. 650+ associations. Dès 20€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.welcome-ohme.fr"
+u_site: https://www.welcome-ohme.fr
 ---
 
 # OHME

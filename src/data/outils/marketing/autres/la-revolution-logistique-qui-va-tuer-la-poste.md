@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: monprestatairelogistique
 title: La Révolution Logistique Qui Va Tuer La Poste
 author: Diane

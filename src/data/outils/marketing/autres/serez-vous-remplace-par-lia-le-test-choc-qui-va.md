@@ -5,8 +5,7 @@ type: Blog
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Serez Vous Remplacé Par L'Ia Le Test Choc Qui Va Vous Faire Trembler
 author: Diane
 description: 'Découvre Serez Vous Remplacé Par L''Ia Le Test Choc Qui Va Vous Faire

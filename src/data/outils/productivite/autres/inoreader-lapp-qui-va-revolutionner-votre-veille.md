@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Productivité
+- Outils
 imageNameKey: null
 u_site: null
 title: Inoreader L'App Qui Va Révolutionner Votre Veille En Ligne

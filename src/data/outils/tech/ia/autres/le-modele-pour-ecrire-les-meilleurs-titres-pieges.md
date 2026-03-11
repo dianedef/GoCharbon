@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 u_site: null
 title: Le Modèle Pour Écrire Les Meilleurs Titres Pièges À Clics Clickbait Titles
 author: Diane

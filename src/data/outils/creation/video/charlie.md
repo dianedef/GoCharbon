@@ -4,13 +4,12 @@ metadataEnrichedAt: null
 title: YourCharlie
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Vidéo'
-  - 'Création'
-description: "YourCharlie (Getinshoot) automatisait la collecte de témoignages clients vidéo. Fermé en juin 2025. Alternatives et leçons à retenir."
-pubDate: "2024-03-25"
+- Outils
+description: YourCharlie (Getinshoot) automatisait la collecte de témoignages clients
+  vidéo. Fermé en juin 2025. Alternatives et leçons à retenir.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.yourcharlie.com/"
+u_site: https://www.yourcharlie.com/
 ---
 
 # YourCharlie

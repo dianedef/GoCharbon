@@ -6,8 +6,7 @@ statut: []
 _priorité: normal
 imageNameKey: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Stratégies Secrètes Pour Trouver Des Clients Qui Vous Supplient De Leur
   Vendre
 author: Diane

@@ -1,7 +1,7 @@
 ---
 section: tutos
 tags:
-- Rédaction
+- Tutoriels
 imageNameKey: null
 u_site: null
 title: Extraire Les Mots Clés À Potentiel De Tes Concurrents Fragiles Avec Lowfruits

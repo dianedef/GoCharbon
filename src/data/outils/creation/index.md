@@ -1,13 +1,13 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "OUTILS CRÉATION FRANÇAIS"
+title: OUTILS CRÉATION FRANÇAIS
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Création'
-description: "Sélection d'outils de création pour design, vidéo, audio et rédaction: quoi choisir selon ton niveau et ton usage."
-pubDate: "2024-03-25"
+- Outils
+description: 'Sélection d''outils de création pour design, vidéo, audio et rédaction:
+  quoi choisir selon ton niveau et ton usage.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

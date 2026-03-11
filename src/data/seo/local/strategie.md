@@ -4,8 +4,6 @@ title: 'Stratégie SEO Local : Guide Complet'
 author: Diane
 tags:
 - SEO
-- Local
-- Stratégie
 description: Guide complet sur la stratégie de référencement local
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg

@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Cegid"
+title: Cegid
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Cegid est un éditeur français de logiciels de gestion : ERP, comptabilité, paie, RH, retail, fiscalité. 120 000+ clients dans 75 pays. Fondé en 1983 à Lyon."
-pubDate: "2024-03-25"
+- Outils
+description: 'Cegid est un éditeur français de logiciels de gestion : ERP, comptabilité,
+  paie, RH, retail, fiscalité. 120 000+ clients dans 75 pays. Fondé en 1983 à Lyon.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.cegid.com/fr/"
+u_site: https://www.cegid.com/fr/
 ---
 
 # Cegid

@@ -4,10 +4,9 @@ metadataEnrichedAt: null
 title: MonAE
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "MonAE : facturation en ligne gratuite pour auto-entrepreneurs. Devis, factures, cotisations sociales, livre des recettes. Dès 0 euro/mois."
+- Outils
+description: 'MonAE : facturation en ligne gratuite pour auto-entrepreneurs. Devis,
+  factures, cotisations sociales, livre des recettes. Dès 0 euro/mois.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.monae.fr

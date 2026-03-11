@@ -47,7 +47,7 @@ Vendre des systemes d automatisation IA qui reduisent le temps opérationnel cli
 - [Suivi du parcours](/parcours/ai-automation)
 - [Ressource utile 1](/tutos/comment-faire-de-lautomatisation-marketing)
 - [Ressource utile 2](/tutos/comment-faire-de-lautomatisation-pour-grossir-son)
-- [Ressource utile 3](/tech/ia/guides/index)
+- [Ressource utile 3](/tech/ia/guides)
 
 ## Idées de contenus pour aller plus loin
 - [Guide à venir 1: template sop automatisation](/tutos/ai-automation/template-sop-automatisation)

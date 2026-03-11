@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Le Hack Viral Qui A Fait Exploser Mon Blog De 0 À 1 Million D'Abonnés

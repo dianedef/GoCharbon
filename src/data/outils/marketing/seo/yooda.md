@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Yooda"
+title: Yooda
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "**Table des matières :** [😋 Get Emoji — All Emojis to Copy and 📋 Paste 👌](https://getemoji.com/) <aside> 📢 🎈 Zoom, Calendly & Zendesk alternative 👏🤓 </aside> <aside> L’outil est 10"
-pubDate: "2024-03-25"
+- Outils
+description: '**Table des matières :** [😋 Get Emoji — All Emojis to Copy and 📋 Paste
+  👌](https://getemoji.com/) <aside> 📢 🎈 Zoom, Calendly & Zendesk alternative 👏🤓 </aside>
+  <aside> L’outil est 10'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://yooda.com/"
+u_site: https://yooda.com/
 ---
 
 # Yooda

@@ -3,11 +3,9 @@ section: blog
 title: Guide Complet du Business SaaS
 author: Diane
 tags:
-  - 'SaaS'
-  - 'Business'
-  - 'Tech'
-description: "Guide complet sur la création et le développement d'un business SaaS"
-pubDate: "2024-03-25"
+- Business
+description: Guide complet sur la création et le développement d'un business SaaS
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

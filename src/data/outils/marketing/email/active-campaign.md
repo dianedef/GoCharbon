@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "ActiveCampaign"
+title: ActiveCampaign
 author: Diane
 tags:
-  - 'Marketing Automation'
-  - 'Marketing'
-description: "ActiveCampaign est une plateforme US de marketing automation et CRM. Email, SMS, lead scoring, pipelines de vente. 900+ intégrations. 135+ triggers d'automatisation. Dès 29$/mois."
-pubDate: "2024-03-25"
+- Outils
+description: ActiveCampaign est une plateforme US de marketing automation et CRM.
+  Email, SMS, lead scoring, pipelines de vente. 900+ intégrations. 135+ triggers d'automatisation.
+  Dès 29$/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.activecampaign.com/fr/"
+u_site: https://www.activecampaign.com/fr/
 ---
 
 # ActiveCampaign

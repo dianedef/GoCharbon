@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "jurisociete"
+title: jurisociete
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Legal'
-  - 'Business'
-description: "[RDV les echos legal Jurisociete - YouTube](https://youtu.be/PZ1LZNWPrSI) Jurisociete est un outil innovant qui révolutionne la création et la gestion d'entreprise en simplifiant l"
-pubDate: "2024-03-25"
+- Outils
+description: '[RDV les echos legal Jurisociete - YouTube](https://youtu.be/PZ1LZNWPrSI)
+  Jurisociete est un outil innovant qui révolutionne la création et la gestion d''entreprise
+  en simplifiant l'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.jurisociete.fr"
+u_site: https://www.jurisociete.fr
 ---
 
 # jurisociete

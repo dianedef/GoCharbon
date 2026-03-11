@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Customizely"
+title: Customizely
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Customizely personnalise tes landing pages sans coder. A/B test, adaptation par persona, ville, mot-clé Google Ads. RGPD-friendly, cookieless. Dès 0€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Customizely personnalise tes landing pages sans coder. A/B test, adaptation
+  par persona, ville, mot-clé Google Ads. RGPD-friendly, cookieless. Dès 0€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://customizely.app/fr/"
+u_site: https://customizely.app/fr/
 ---
 
 # Customizely

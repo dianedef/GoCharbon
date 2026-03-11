@@ -45,7 +45,7 @@ Construire des outils utiles avec boucle retours rapide et monétisation claire.
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
 - [Suivi du parcours](/parcours/app-developer)
-- [Ressource utile 1](/biz/saas/index)
+- [Ressource utile 1](/biz/saas)
 - [Ressource utile 2](/tutos/deployer-un-serveur)
 - [Ressource utile 3](/tutos/comment-creer-un-serveur-de-preprod)
 

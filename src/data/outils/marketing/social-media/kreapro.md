@@ -4,12 +4,11 @@ metadataEnrichedAt: null
 title: KreaPro
 author: Diane
 tags:
-  - 'Outils Francais'
-  - 'Social Media'
-  - 'Marketing'
+- Outils
 imageNameKey: kreapro
-u_site: "https://www.kreapro.fr"
-description: "KreaPro : assistant IA francais pour Instagram. Generation de contenu, planification, hashtags. Note 4,8/5 Trustpilot. Des 12$/mois."
+u_site: https://www.kreapro.fr
+description: 'KreaPro : assistant IA francais pour Instagram. Generation de contenu,
+  planification, hashtags. Note 4,8/5 Trustpilot. Des 12$/mois.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

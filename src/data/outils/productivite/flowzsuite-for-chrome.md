@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "FlowzSuite for Chrome"
+title: FlowzSuite for Chrome
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-description: "FlowzSuite (TubeFlowz) est l'extension Chrome de marque-pages avancés pour YouTube. Timestamps, notes, raccourcis, export Markdown/JSON. Gratuit."
-pubDate: "2024-03-25"
+- Outils
+description: FlowzSuite (TubeFlowz) est l'extension Chrome de marque-pages avancés
+  pour YouTube. Timestamps, notes, raccourcis, export Markdown/JSON. Gratuit.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://chromewebstore.google.com"
+u_site: https://chromewebstore.google.com
 ---
 
 # FlowzSuite for Chrome

@@ -4,7 +4,6 @@ title: 'LANCE TON PREMIER BUSINESS EN LIGNE : LE GUIDE COMPLET'
 author: Diane
 tags:
 - Tutoriels
-- Business
 description: Guide étape par étape pour lancer ton premier projet sur internet en
   partant de zéro - de l'idée aux premiers euros
 pubDate: '2026-01-20'

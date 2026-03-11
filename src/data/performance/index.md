@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Performance Web et Business : Guide Complet"
+title: 'Performance Web et Business : Guide Complet'
 author: Diane
 tags:
-  - 'Performance'
-  - 'Tech'
-  - 'Web'
-  - 'Business'
+- Productivité
 description: Optimiser les performances de ton site et ton business sans bullshit
-pubDate: "2026-01-17"
+pubDate: '2026-01-17'
 imgUrl: ../../assets/astro.jpeg
 ---
 

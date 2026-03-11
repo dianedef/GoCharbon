@@ -3,8 +3,7 @@ section: blog
 title: 'Business Mobile : Gaming et Rewards'
 author: Diane
 tags:
-- Tech
-- Business Mobile
+- Business
 description: Profil business complet des apps de gaming et rewards mobiles
 pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg

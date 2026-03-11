@@ -4,8 +4,6 @@ title: Finances
 author: Diane
 tags:
 - Business
-- Finance
-- Gestion
 description: 'Gestion financière pour entrepreneurs : trésorerie, prévisionnel et
   indicateurs clés à maîtriser.'
 pubDate: '2024-03-25'

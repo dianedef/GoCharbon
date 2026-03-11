@@ -45,7 +45,7 @@ Construire une activité freelance stable avec flux de prospects prévisible.
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
 - [Suivi du parcours](/parcours/freelance)
-- [Ressource utile 1](/biz/freelance/index)
+- [Ressource utile 1](/biz/freelance)
 - [Ressource utile 2](/tutos/trouver-des-prospects-qualifies-pour-votre-agence)
 - [Ressource utile 3](/tutos/comment-se-faire-payer-par-ses-clients)
 

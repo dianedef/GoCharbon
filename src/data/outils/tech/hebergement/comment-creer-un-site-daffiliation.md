@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
+- Outils
 u_site: null
 title: Comment Créer Un Site D'Affiliation
 author: Diane

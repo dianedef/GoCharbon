@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Dashlane"
+title: Dashlane
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-  - 'Bureautique'
-description: "Dashlane est le gestionnaire de mots de passe français. Zero-knowledge breveté, AES-256, VPN, dark web monitoring. 5/5 Les Numériques. Dès 4,99€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Dashlane est le gestionnaire de mots de passe français. Zero-knowledge
+  breveté, AES-256, VPN, dark web monitoring. 5/5 Les Numériques. Dès 4,99€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.dashlane.com"
+u_site: https://www.dashlane.com
 ---
 
 # Dashlane

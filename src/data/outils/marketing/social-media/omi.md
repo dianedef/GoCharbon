@@ -6,9 +6,7 @@ type:
 - Logiciel
 _priorité: normal
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: omi
 u_site: https://omi.so/fr/
 title: Omi

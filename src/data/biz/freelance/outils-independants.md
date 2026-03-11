@@ -1,12 +1,10 @@
 ---
 section: blog
-title: Les 10 outils français gratuits incontournables pour lancer ton biz
-  sur le web
+title: Les 10 outils français gratuits incontournables pour lancer ton biz sur le
+  web
 author: Diane
 tags:
-- Freelancing
-- Productivité
-- Outils Français
+- Business
 description: Les 10 outils français gratuits incontournables pour lancer ton business
   en ligne avec une stack simple et efficace.
 pubDate: '2024-03-25'

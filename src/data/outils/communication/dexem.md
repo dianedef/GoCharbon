@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Dexem"
+title: Dexem
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-  - 'Marketing'
-description: "Dexem est la suite française de téléphonie cloud : Call Tracking, SVI et Call Manager. IA incluse, 10 000+ utilisateurs. Dès 10€/mois. Essai gratuit."
-pubDate: "2024-03-25"
+- Outils
+description: 'Dexem est la suite française de téléphonie cloud : Call Tracking, SVI
+  et Call Manager. IA incluse, 10 000+ utilisateurs. Dès 10€/mois. Essai gratuit.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.dexem.com/"
+u_site: https://www.dexem.com/
 ---
 
 # Dexem

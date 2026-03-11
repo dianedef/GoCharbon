@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Aloen"
+title: Aloen
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Aloen était une solution IA française pour centres d'appels. Coaching en temps réel, évaluation des appels, personnalisation IA. Fondée 2023 à Labège. ⚠️ Liquidée en mai 2024."
-pubDate: "2024-03-25"
+- Outils
+description: Aloen était une solution IA française pour centres d'appels. Coaching
+  en temps réel, évaluation des appels, personnalisation IA. Fondée 2023 à Labège.
+  ⚠️ Liquidée en mai 2024.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.aloen.ai"
+u_site: https://www.aloen.ai
 ---
 
 # Aloen

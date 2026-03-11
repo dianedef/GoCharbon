@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Formation
+- Outils
 u_site: null
 title: Rédigez Des Écrits Professionnels
 author: Diane

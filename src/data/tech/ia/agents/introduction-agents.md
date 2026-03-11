@@ -3,8 +3,7 @@ section: blog
 title: 'Agents IA : Comprendre les Fondamentaux'
 author: Diane
 tags:
-- IA
-- Automatisation
+- Tech
 description: 'Guide complet sur les agents IA : définition, fonctionnement, types
   et applications concrètes'
 pubDate: '2024-03-26'

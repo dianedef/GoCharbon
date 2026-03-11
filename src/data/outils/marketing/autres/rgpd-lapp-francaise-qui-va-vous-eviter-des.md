@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Rgpd L'App Française Qui Va Vous Éviter Des Millions D'Euros D'Amende

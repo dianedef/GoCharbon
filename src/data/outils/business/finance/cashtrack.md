@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Cashtrack"
+title: Cashtrack
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "- **Fondateurs :** Michaël Baron et Jonathan Jalouzot - **Nombre d'employés :** 4 La startup Cashtrack propose un logiciel de suivi de trésorerie automatisé pour les entrepreneurs,"
-pubDate: "2024-03-25"
+- Outils
+description: '- **Fondateurs :** Michaël Baron et Jonathan Jalouzot - **Nombre d''employés
+  :** 4 La startup Cashtrack propose un logiciel de suivi de trésorerie automatisé
+  pour les entrepreneurs,'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://cashtrack.io"
+u_site: https://cashtrack.io
 ---
 
 # Cashtrack

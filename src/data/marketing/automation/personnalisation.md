@@ -3,10 +3,9 @@ section: blog
 title: Personnalisation Marketing
 author: Diane
 tags:
-  - 'Personnalisation'
-  - 'Marketing'
+- Marketing
 description: Guide complet sur la personnalisation marketing automatisée
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

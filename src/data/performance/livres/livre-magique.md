@@ -3,8 +3,7 @@ section: blog
 title: Le SEUL Livre à Lire Pour Devenir RICHE en 2024
 author: Diane
 tags:
-- Performance
-- Formation
+- Productivité
 description: Découvrez pourquoi la recherche du livre magique est une illusion et
   ce qui compte vraiment pour réussir
 pubDate: '2024-03-25'

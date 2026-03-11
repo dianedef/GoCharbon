@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "findthatlead"
+title: findthatlead
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "FindThatLead est un outil de génération de prospects B2B puissant qui vise à faciliter et accélérer la prospection et la croissance des ventes. Grâce à ses fonctionnalités innovant"
-pubDate: "2024-03-25"
+- Outils
+description: FindThatLead est un outil de génération de prospects B2B puissant qui
+  vise à faciliter et accélérer la prospection et la croissance des ventes. Grâce
+  à ses fonctionnalités innovant
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://findthatlead.com/fr"
+u_site: https://findthatlead.com/fr
 ---
 
 # findthatlead

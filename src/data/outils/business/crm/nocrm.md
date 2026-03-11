@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "noCRM.io"
+title: noCRM.io
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "noCRM.io est un logiciel de prospection français conçu pour les commerciaux. Gestion de leads, pipeline, scripts d'appels. Fondé 2013. 12 000+ clients. Dès 10€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: noCRM.io est un logiciel de prospection français conçu pour les commerciaux.
+  Gestion de leads, pipeline, scripts d'appels. Fondé 2013. 12 000+ clients. Dès 10€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.nocrm.io/fr"
+u_site: https://www.nocrm.io/fr
 ---
 
 # noCRM.io

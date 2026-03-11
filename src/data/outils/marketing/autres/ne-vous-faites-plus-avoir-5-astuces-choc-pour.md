@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Ne Vous Faites Plus Avoir 5 Astuces Choc Pour Repérer Un Site Web Frauduleux

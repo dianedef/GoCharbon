@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
-- Email
+- Outils
 title: Écrire Des Titres De Fou
 author: Diane
 description: 'Découvre Écrire Des Titres De Fou : outil français pour entrepreneurs,

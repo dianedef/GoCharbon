@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Assurton"
+title: Assurton
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Business'
-description: "Assurton : assurance digitale 100% française pour appareils électroniques et mobilité. Par ATM Group, 90 000 sinistres/an, noté 8.3/10."
-pubDate: "2024-03-25"
+- Outils
+description: 'Assurton : assurance digitale 100% française pour appareils électroniques
+  et mobilité. Par ATM Group, 90 000 sinistres/an, noté 8.3/10.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.assurton.fr/"
+u_site: https://www.assurton.fr/
 ---
 
 # Assurton

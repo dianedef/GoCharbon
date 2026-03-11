@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Maîtrisez Les Langages Web En Un Temps Record La Méthode Choc
 author: Diane

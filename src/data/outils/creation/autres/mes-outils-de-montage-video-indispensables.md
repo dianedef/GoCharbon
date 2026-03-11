@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 imageNameKey: null
 u_site: null
 title: Mes Outils De Montage Vidéo Indispensables

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Retrouvez N'Importe Quel Fichier En 3 Secondes Avec Ces Outils Géniaux

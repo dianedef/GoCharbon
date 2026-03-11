@@ -3,7 +3,7 @@ section: blog
 title: Facebook & Instagram Ads
 author: Diane
 tags:
-- Ads
+- Marketing
 description: Guide complet pour maîtriser la publicité sur les réseaux sociaux Meta
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg

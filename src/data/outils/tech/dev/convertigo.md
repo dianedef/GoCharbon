@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
+- Outils
 imageNameKey: null
 u_site: https://fr.www.convertigo.com
 u_affi: null

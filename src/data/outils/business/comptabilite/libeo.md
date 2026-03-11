@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Libeo"
+title: Libeo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Libeo automatise le paiement des factures fournisseurs. 22 000+ entreprises (Starbucks, Monoprix). Scan, validation, paiement et rapprochement comptable en quelques clics. À partir de 49€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Libeo automatise le paiement des factures fournisseurs. 22 000+ entreprises
+  (Starbucks, Monoprix). Scan, validation, paiement et rapprochement comptable en
+  quelques clics. À partir de 49€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://libeo.io"
+u_site: https://libeo.io
 ---
 
 # Libeo

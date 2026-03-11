@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Formez Vous Comme Un Pro L'App D'Apprentissage Qui Rend Les Universités Obsolètes

@@ -2,54 +2,43 @@
 import { getCollection } from "astro:content";
 import Layout from "../../layouts/Default.astro";
 import FilterTags from "../../components/components/FilterTags.vue";
-import { tagHierarchy } from "../../components/tagHierarchy";
-import { normalizeTag } from "../../utils/tags";
 import { toPostPreviews } from "../../utils/post-preview";
+import { MAIN_TAGS, extractMainTags, getMainTagLabel } from "../../utils/tag-groups";
+import { filterBuildVisiblePosts } from "../../utils/build-posts";
 
 export async function getStaticPaths() {
-	const allPosts = await getCollection("posts");
-
-	// Collecter tous les tags uniques utilisés dans les posts
-	const allTags = new Set<string>();
-	allPosts.forEach((post) => {
-		post.data.tags.forEach((tag) => {
-			allTags.add(tag);
-		});
-	});
-
+	const allPosts = filterBuildVisiblePosts(await getCollection("posts"));
 	const paths = [];
 
-	for (const tag of allTags) {
-		const normalizedTag = normalizeTag(tag);
+	for (const mainTag of MAIN_TAGS) {
 		const filteredPosts = allPosts
-			.filter((post) =>
-				post.data.tags.some((t) => normalizeTag(t) === normalizedTag),
-			)
+			.filter((post) => extractMainTags(post.data.tags).includes(mainTag))
 			.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 
-			paths.push({
-				params: { tag: normalizedTag },
-				props: {
-					posts: toPostPreviews(filteredPosts.slice(0, 15)),
-					originalTag: tag,
-				},
-			});
+		if (!filteredPosts.length) continue;
+
+		paths.push({
+			params: { tag: mainTag },
+			props: {
+				posts: toPostPreviews(filteredPosts.slice(0, 15)),
+				tag: mainTag,
+			},
+		});
 	}
 
 	return paths;
 }
 
-const { posts, originalTag } = Astro.props;
-const mainTags = Object.keys(tagHierarchy);
-const selectedTags = [originalTag];
+const { posts, tag } = Astro.props;
+const mainTags = MAIN_TAGS;
+const selectedTags = [tag];
+const tagLabel = getMainTagLabel(tag);
 ---
 
 <Layout
-	title={`Posts - ${tagHierarchy[originalTag]?.label || originalTag}`}
-	description={`GOCHARBON | Posts tagged with ${
-		tagHierarchy[originalTag]?.label || originalTag
-	}`}
-	pageTitle={`Posts - ${tagHierarchy[originalTag]?.label || originalTag}`}
+	title={`Posts - ${tagLabel}`}
+	description={`GOCHARBON | Posts tagged with ${tagLabel}`}
+	pageTitle={`Posts - ${tagLabel}`}
 	metaRobots="index, follow"
 >
 	<main
@@ -66,34 +55,9 @@ const selectedTags = [originalTag];
 			posts.length === 0 && (
 				<p class="text-center py-10">
 					Aucun post trouvé pour le tag{" "}
-					{tagHierarchy[originalTag]?.label || originalTag}
+					{tagLabel}
 				</p>
 			)
 		}
 	</main>
 </Layout>
-
-<script>
-	import colors from "../../components/config/colors.json";
-
-	function setRandomBackgroundColor() {
-		const isDark = document.documentElement.classList.contains("dark");
-		const colorArray = isDark ? colors.dark : colors.light;
-		const randomColor =
-			colorArray[Math.floor(Math.random() * colorArray.length)];
-		const element = document.querySelector(".page-background") as HTMLElement;
-		element?.style.setProperty("background-color", randomColor);
-	}
-
-	// Initialisation
-	document.addEventListener("astro:page-load", setRandomBackgroundColor);
-
-	// Gestion du changement de thème
-	document.addEventListener("theme-changed", setRandomBackgroundColor);
-</script>
-
-<style>
-	.page-background {
-		transition: background-color 0.3s ease;
-	}
-</style>

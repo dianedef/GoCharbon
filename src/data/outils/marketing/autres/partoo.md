@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Partoo"
+title: Partoo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Partoo est une plateforme française de gestion de présence en ligne et e-réputation. Avis Google, SEO local, store locator. 35,5M€ ARR, 350 employés. Clients : Orange, Carrefour."
-pubDate: "2024-03-25"
+- Outils
+description: 'Partoo est une plateforme française de gestion de présence en ligne
+  et e-réputation. Avis Google, SEO local, store locator. 35,5M€ ARR, 350 employés.
+  Clients : Orange, Carrefour.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.partoo.co/fr/"
+u_site: https://www.partoo.co/fr/
 ---
 
 # Partoo

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Postai
 author: Diane
 description: 'Découvre Postai : outil français pour entrepreneurs, fonctionnalités

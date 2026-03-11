@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Pourquoi Travailler Dur Est Un Piège La Vérité Choquante Sur La Richesse

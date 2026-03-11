@@ -21,12 +21,11 @@ interface Props {
 
 const { author, pubDate, headings, description, title, id, imgUrl, tags } =
 	Astro.props;
-const ogImage = new URL(`/v1/generate/og/${Astro.params.slug}.png`, Astro.url);
 const slug = Astro.params.slug as string;
 const category = tags?.[0]?.toLowerCase();
 ---
 
-<Layout title={title} description={description} ogImage={ogImage} article={{ author, pubDate, tags }}>
+<Layout title={title} description={description} ogImage="/v1/generate/og/default.png" article={{ author, pubDate, tags }}>
 	<div class="p-6 dark:bg-black" transition:name={`post-${id}`}>
 		<main class="lg:grid lg:grid-cols-3 flex justify-center gap-4">
 			<SideBar headings={headings as any[]} />

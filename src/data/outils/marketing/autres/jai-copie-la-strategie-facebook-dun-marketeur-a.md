@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: J'Ai Copié La Stratégie Facebook D'Un Marketeur À 996K€ Et Vous Ne Croirez

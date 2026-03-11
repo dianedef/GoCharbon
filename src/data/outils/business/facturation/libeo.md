@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "libeo"
+title: libeo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Facturation'
-  - 'Business'
-description: "Libeo, un logiciel SaaS français, se positionne comme l'outil idéal pour centraliser, valider et payer vos factures fournisseurs en toute simplicité. Découvrons en détail les avant"
-pubDate: "2024-03-25"
+- Outils
+description: Libeo, un logiciel SaaS français, se positionne comme l'outil idéal pour
+  centraliser, valider et payer vos factures fournisseurs en toute simplicité. Découvrons
+  en détail les avant
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://libeo.io"
+u_site: https://libeo.io
 ---
 
 # libeo

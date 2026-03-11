@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Les Débuts Chocs Des Plus Grands Entrepreneurs Vous Ne Croirez Jamais Le N°7

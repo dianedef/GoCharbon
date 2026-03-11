@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Expensya"
+title: Expensya
 author: Diane
 tags:
-  - 'Admin'
-  - 'Business'
-description: "Expensya est un logiciel de gestion des notes de frais et dépenses professionnelles. OCR, automatisation, cartes corporate. Tunisien/français. 5 000+ entreprises clientes."
-pubDate: "2024-03-25"
+- Outils
+description: Expensya est un logiciel de gestion des notes de frais et dépenses professionnelles.
+  OCR, automatisation, cartes corporate. Tunisien/français. 5 000+ entreprises clientes.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.expensya.com/fr"
+u_site: https://www.expensya.com/fr
 ---
 
 # Expensya

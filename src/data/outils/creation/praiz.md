@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Praiz"
+title: Praiz
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Praiz transforme tes conversations commerciales en donnees CRM fiables grace a l'IA. 500+ equipes, 3000+ users, fonde par 3 ex-Aircall. A partir de 30 euros/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Praiz transforme tes conversations commerciales en donnees CRM fiables
+  grace a l'IA. 500+ equipes, 3000+ users, fonde par 3 ex-Aircall. A partir de 30
+  euros/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.praiz.io/"
+u_site: https://www.praiz.io/
 ---
 
 # Praiz

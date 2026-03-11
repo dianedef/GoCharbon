@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
-- Vidéo
+- Outils
 title: Direct Response Marketing Prédateur
 author: Diane
 description: 'Découvre Direct Response Marketing Prédateur : outil français pour entrepreneurs,

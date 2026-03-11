@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Outils De Marketing Social 100% Français Qui Font Trembler Facebook
 author: Diane
 description: 'Découvre Les Outils De Marketing Social 100% Français Qui Font Trembler

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Skaly
 author: Diane
 description: 'Découvre Skaly : outil français pour entrepreneurs, fonctionnalités

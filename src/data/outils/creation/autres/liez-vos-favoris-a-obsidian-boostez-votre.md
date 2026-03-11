@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Création
+- Outils
 imageNameKey: null
 u_site: null
 title: Liez Vos Favoris À Obsidian Boostez Votre Productivité De 200%

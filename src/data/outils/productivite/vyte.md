@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Vyte"
+title: Vyte
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-description: "Vyte est un outil français de prise de rendez-vous en ligne. Planification groupe (vote), 1-to-1, page perso. Bootstrap rentable. 600K$/an avec 4 personnes. Dès 0€."
-pubDate: "2024-03-25"
+- Outils
+description: Vyte est un outil français de prise de rendez-vous en ligne. Planification
+  groupe (vote), 1-to-1, page perso. Bootstrap rentable. 600K$/an avec 4 personnes.
+  Dès 0€.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.vyte.in/fr"
+u_site: https://www.vyte.in/fr
 ---
 
 # Vyte

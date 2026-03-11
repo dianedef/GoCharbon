@@ -1,10 +1,13 @@
 ---
 section: blog
-title: "AppSumo, c'est Fini ! Voici 10 Alternatives Qui Vont Vous Faire Économiser des Milliers d'Euros"
+title: AppSumo, c'est Fini ! Voici 10 Alternatives Qui Vont Vous Faire Économiser
+  des Milliers d'Euros
 author: Diane
-tags: ['Lifetime Deals']
-description: Découvres de nouvelles plateformes où acheter des lifetime deals sans passer par AppSumo, et même une plateforme française !
-pubDate: "2022-09-11"
+tags:
+- Business
+description: Découvres de nouvelles plateformes où acheter des lifetime deals sans
+  passer par AppSumo, et même une plateforme française !
+pubDate: '2022-09-11'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

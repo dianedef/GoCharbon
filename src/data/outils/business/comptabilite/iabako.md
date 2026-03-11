@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "IABAKO"
+title: IABAKO
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "IABAKO est un logiciel de gestion d'entreprise français pour TPE. ERP intuitif : commandes, livraisons, stocks, facturation, ventes B2B/B2C et e-commerce. Essai gratuit 15 jours."
-pubDate: "2024-03-25"
+- Outils
+description: 'IABAKO est un logiciel de gestion d''entreprise français pour TPE. ERP
+  intuitif : commandes, livraisons, stocks, facturation, ventes B2B/B2C et e-commerce.
+  Essai gratuit 15 jours.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.iabako.com/fr/"
+u_site: https://www.iabako.com/fr/
 ---
 
 # IABAKO

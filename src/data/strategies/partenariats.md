@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Partenariats Stratégiques : Guide Complet"
+title: 'Partenariats Stratégiques : Guide Complet'
 author: Diane
 tags:
-  - 'Partenariats'
-  - 'Stratégie'
-  - 'Business'
-  - 'Collaboration'
+- Business
 description: Guide complet sur la création et la gestion de partenariats stratégiques
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

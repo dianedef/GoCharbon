@@ -4,13 +4,12 @@ metadataEnrichedAt: null
 title: Snackeet
 author: Diane
 tags:
-  - 'Outils Francais'
-  - 'Social Media'
-  - 'Marketing'
+- Outils
 imageNameKey: snackeet
-u_site: "https://www.snackeet.com/fr"
+u_site: https://www.snackeet.com/fr
 u_affi: null
-description: "Snackeet : plateforme de web stories interactives. Quiz, formulaires, jeux, videos. 86% taux conversion. Des 29$/mois."
+description: 'Snackeet : plateforme de web stories interactives. Quiz, formulaires,
+  jeux, videos. 86% taux conversion. Des 29$/mois.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

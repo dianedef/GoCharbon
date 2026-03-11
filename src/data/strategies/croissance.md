@@ -3,12 +3,9 @@ section: blog
 title: Stratégies de Croissance pour Entreprises Digitales
 author: Diane
 tags:
-  - 'Croissance'
-  - 'Digital'
-  - 'Stratégie'
-  - 'Business'
+- Business
 description: Guide complet sur les stratégies de croissance pour les entreprises digitales
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

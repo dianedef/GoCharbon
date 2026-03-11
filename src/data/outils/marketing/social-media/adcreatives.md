@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "AdCreatives"
+title: AdCreatives
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "Hello everyone! This is Tufan, CEO here at ADYOUNEED. Our team has launched a product called **[AdCreative.ai](https://www.adcreative.ai/)** on ProductHunt and we broke their platf"
-pubDate: "2024-03-25"
+- Outils
+description: Hello everyone! This is Tufan, CEO here at ADYOUNEED. Our team has launched
+  a product called **[AdCreative.ai](https://www.adcreative.ai/)** on ProductHunt
+  and we broke their platf
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://fr.adcreative.ai"
+u_site: https://fr.adcreative.ai
 ---
 
 # AdCreatives

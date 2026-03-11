@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Semantlink, votre assistant rédactionnel"
+title: Semantlink, votre assistant rédactionnel
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "En un clic, Semantlink analyse pour vous les résultats de recherches Google et met à votre disposition un champ sémantique répondant à votre requête. Plus votre recherche sera préc"
-pubDate: "2024-03-25"
+- Outils
+description: En un clic, Semantlink analyse pour vous les résultats de recherches
+  Google et met à votre disposition un champ sémantique répondant à votre requête.
+  Plus votre recherche sera préc
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://semantlink.com/"
+u_site: https://semantlink.com/
 ---
 
 # Semantlink, votre assistant rédactionnel

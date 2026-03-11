@@ -11,8 +11,7 @@ projet:
 title: Tu Dois Etre La Meilleure Version Et Arreter La Procrastination
 author: Diane
 tags:
-- Outils Français
-- Productivité
+- Outils
 description: 'Découvre Tu Dois Etre La Meilleure Version Et Arreter La Procrastination
   : outil français pour entrepreneurs, fonctionnalités et avis.'
 pubDate: '2024-03-25'

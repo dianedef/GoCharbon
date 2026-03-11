@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: screenpresso
 u_site: https://www.screenpresso.com/fr
 u_affi: null

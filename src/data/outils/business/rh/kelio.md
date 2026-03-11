@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "kelio"
+title: kelio
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'RH'
-  - 'Business'
-description: "Kelio, le logiciel SIRH complet, offre de nombreux avantages aux entreprises. Grâce à sa gestion centralisée, tu élimines la ressaisie et les risques d'erreur. Les droits d'accès p"
-pubDate: "2024-03-25"
+- Outils
+description: Kelio, le logiciel SIRH complet, offre de nombreux avantages aux entreprises.
+  Grâce à sa gestion centralisée, tu élimines la ressaisie et les risques d'erreur.
+  Les droits d'accès p
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.kelio.com/fr/"
+u_site: https://www.kelio.com/fr/
 ---
 
 # kelio

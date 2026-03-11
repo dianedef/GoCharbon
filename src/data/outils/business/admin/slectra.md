@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "slectra"
+title: slectra
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Admin'
-  - 'Business'
-description: "- EcoBill mutualise les commandes d'entreprises pour réduire les coûts des fournisseurs. - 💼 Ils aident les TPE, PME, EI et AE à renégocier les contrats d'énergie, de télécom et d'"
-pubDate: "2024-03-25"
+- Outils
+description: '- EcoBill mutualise les commandes d''entreprises pour réduire les coûts
+  des fournisseurs. - 💼 Ils aident les TPE, PME, EI et AE à renégocier les contrats
+  d''énergie, de télécom et d'''
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://selectra.info"
+u_site: https://selectra.info
 ---
 
 # slectra

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Votre data SEO, dans un outil simple et efficace."
+title: Votre data SEO, dans un outil simple et efficace.
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "[(7) Seolyzer - Avis & Test de l'outil ! - YouTube](https://www.youtube.com/watch?v=Xoy1JdsjGng) c'est historiquement un analyseur de log mais depuis le temps et bien il ya pas mal"
-pubDate: "2024-03-25"
+- Outils
+description: '[(7) Seolyzer - Avis & Test de l''outil ! - YouTube](https://www.youtube.com/watch?v=Xoy1JdsjGng)
+  c''est historiquement un analyseur de log mais depuis le temps et bien il ya pas
+  mal'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://seolyzer.io/fr/"
+u_site: https://seolyzer.io/fr/
 ---
 
 # Votre data SEO, dans un outil simple et efficace.

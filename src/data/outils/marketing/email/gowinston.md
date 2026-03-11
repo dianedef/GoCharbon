@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Contenu"
+title: Contenu
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "Précision inégalée dans la détection de contenu IA 99.98% de taux de précision Adapté pour le secteur éducatif, le référencement et les rédacteurs Facilité d'utilisation et résulta"
-pubDate: "2024-03-25"
+- Outils
+description: Précision inégalée dans la détection de contenu IA 99.98% de taux de
+  précision Adapté pour le secteur éducatif, le référencement et les rédacteurs Facilité
+  d'utilisation et résulta
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://gowinston.ai/fr/"
+u_site: https://gowinston.ai/fr/
 ---
 
 # Contenu

@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "saooti"
+title: saooti
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Création'
-description: "Saooti - La Plateforme d'Hébergement de Podcast Tout-en-Un Si tu es un créateur de contenu audio, que ce soit un podcasteur, une entreprise, ou même une institution éducative, Saoo"
-pubDate: "2024-03-25"
+- Outils
+description: Saooti - La Plateforme d'Hébergement de Podcast Tout-en-Un Si tu es un
+  créateur de contenu audio, que ce soit un podcasteur, une entreprise, ou même une
+  institution éducative, Saoo
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.saooti.com"
+u_site: https://www.saooti.com
 ---
 
 # saooti

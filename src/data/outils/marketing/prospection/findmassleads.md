@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "FindMassLeads"
+title: FindMassLeads
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "FindMassLeads est un outil français de génération de leads B2B par analyse des stacks technologiques. 60M+ sites, 936+ technos. Dès 25$/mois. Fondé par Romain Carpentier."
-pubDate: "2024-03-25"
+- Outils
+description: FindMassLeads est un outil français de génération de leads B2B par analyse
+  des stacks technologiques. 60M+ sites, 936+ technos. Dès 25$/mois. Fondé par Romain
+  Carpentier.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.findmassleads.com/fr/"
+u_site: https://www.findmassleads.com/fr/
 ---
 
 # FindMassLeads

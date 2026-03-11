@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Alyze"
+title: Alyze
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Alyze, l'outil d'analyse SEO, offre de nombreux avantages aux entreprises souhaitant améliorer leur présence en ligne. En utilisant cet outil, tu peux : - Optimiser le référencemen"
-pubDate: "2024-03-25"
+- Outils
+description: 'Alyze, l''outil d''analyse SEO, offre de nombreux avantages aux entreprises
+  souhaitant améliorer leur présence en ligne. En utilisant cet outil, tu peux : -
+  Optimiser le référencemen'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://alyze.com"
+u_site: https://alyze.com
 ---
 
 # Alyze

@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Comprendre les scores d’optimisation seo (soseo) et de danger seo (dseo) de your"
+title: Comprendre les scores d’optimisation seo (soseo) et de danger seo (dseo) de your
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "_[OPTIMISATION](https://blog.yourtext.guru/category/optimisation/) [SCORES](https://blog.yourtext.guru/category/scores/)_ Si vous utilisez activement l’outil de vérification de [yo"
-pubDate: "2024-03-25"
+- Outils
+description: _[OPTIMISATION](https://blog.yourtext.guru/category/optimisation/) [SCORES](https://blog.yourtext.guru/category/scores/)_
+  Si vous utilisez activement l’outil de vérification de [yo
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://yourtext.guru"
+u_site: https://yourtext.guru
 ---
 
 # Comprendre les scores d’optimisation seo (soseo) et de danger seo (dseo) de your

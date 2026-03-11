@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "📣 Yuccan, Le bouche-à-oreille au service de votre développement"
+title: 📣 Yuccan, Le bouche-à-oreille au service de votre développement
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "[(1) LinkedIn](https://www.linkedin.com/company/yuccan-lead/mycompany/) [Facebook](https://www.facebook.com/yuccan.fr) [Yuccan (@yuccan_fr) • Photos et vidéos Instagram](https://ww"
-pubDate: "2024-03-25"
+- Outils
+description: '[(1) LinkedIn](https://www.linkedin.com/company/yuccan-lead/mycompany/)
+  [Facebook](https://www.facebook.com/yuccan.fr) [Yuccan (@yuccan_fr) • Photos et
+  vidéos Instagram](https://ww'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://yuccan.app/fr/"
+u_site: https://yuccan.app/fr/
 ---
 
 # 📣 Yuccan, Le bouche-à-oreille au service de votre développement

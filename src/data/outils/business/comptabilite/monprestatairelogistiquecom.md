@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: monprestatairelogistique
 u_site: https://www.monprestatairelogistique.com
 u_affi: null

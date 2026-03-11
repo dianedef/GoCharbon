@@ -4,13 +4,13 @@ metadataEnrichedAt: null
 title: pCloud
 author: Diane
 tags:
-- Outils Français
-- Productivité
-description: "pCloud : stockage cloud suisse ultra-sécurisé avec offres à vie. Chiffrement côté client, 10 Go gratuits, dès 49,99€/an."
+- Outils
+description: 'pCloud : stockage cloud suisse ultra-sécurisé avec offres à vie. Chiffrement
+  côté client, 10 Go gratuits, dès 49,99€/an.'
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.pcloud.com/"
-u_affi: "https://partner.pcloud.com/r/55057"
+u_site: https://www.pcloud.com/
+u_affi: https://partner.pcloud.com/r/55057
 ---
 
 # pCloud

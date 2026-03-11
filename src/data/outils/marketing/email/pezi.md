@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "pezi"
+title: pezi
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "- 💼 Plezi One est une plateforme de marketing automation conçue pour les TPE, PME, agences digitales et freelances travaillant dans le B2B. - 🚀 Il aide les petites entreprises à dé"
-pubDate: "2024-03-25"
+- Outils
+description: '- 💼 Plezi One est une plateforme de marketing automation conçue pour
+  les TPE, PME, agences digitales et freelances travaillant dans le B2B. - 🚀 Il aide
+  les petites entreprises à dé'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.plezi.co/fr/"
+u_site: https://www.plezi.co/fr/
 ---
 
 # pezi

@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 imageNameKey: socialhuge
 u_site: null
 u_affi: https://app.socialhuge.io/?via=4d513e

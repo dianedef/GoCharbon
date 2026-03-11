@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Benefiz"
+title: Benefiz
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'RH'
-  - 'Business'
-description: "**Benefiz** propose une solution complète pour maximiser la valeur des avantages sociaux au sein de votre entreprise. Cette plateforme innovante vous permet d'offrir des avantages "
-pubDate: "2024-03-25"
+- Outils
+description: '**Benefiz** propose une solution complète pour maximiser la valeur des
+  avantages sociaux au sein de votre entreprise. Cette plateforme innovante vous permet
+  d''offrir des avantages '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://benefiz.fr"
+u_site: https://benefiz.fr
 ---
 
 # Benefiz

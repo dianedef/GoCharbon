@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: null
 u_externe: null
 title: Pourquoi L'Ia Ne Sauvera Pas L'Humanité

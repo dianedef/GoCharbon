@@ -3,7 +3,7 @@ section: blog
 title: 'Logiciels de Gestion : Les Outils Essentiels pour ton Business'
 author: Diane
 tags:
-- Productivité
+- Business
 description: 'Guide complet des logiciels de gestion : CRM, ERP, finance et RH pour
   optimiser ton entreprise.'
 pubDate: '2024-03-25'

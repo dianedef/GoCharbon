@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "upflow"
+title: upflow
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Facturation'
-  - 'Business'
-description: "[Hexa - eFounders - Upflow](https://www.hexa.com/companies/upflow) - 💼 Upflow révolutionne les paiements B2B en aidant les équipes financières à récupérer les factures impayées et "
-pubDate: "2024-03-25"
+- Outils
+description: '[Hexa - eFounders - Upflow](https://www.hexa.com/companies/upflow) -
+  💼 Upflow révolutionne les paiements B2B en aidant les équipes financières à récupérer
+  les factures impayées et '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://upflow.io/fr"
+u_site: https://upflow.io/fr
 ---
 
 # upflow

@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Social Selling La Méthode Choc Pour Vendre Sans Vendre
 author: Diane
 description: 'Découvre Social Selling La Méthode Choc Pour Vendre Sans Vendre : outil

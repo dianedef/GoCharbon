@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Hector"
+title: Hector
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Admin'
-  - 'Business'
-description: "Hector est un logiciel de gestion des actifs et inventaire d'entreprise. Suivi du matériel, QR codes, réservations. Essai gratuit 15j. Utilisateurs illimités."
-pubDate: "2024-03-25"
+- Outils
+description: Hector est un logiciel de gestion des actifs et inventaire d'entreprise.
+  Suivi du matériel, QR codes, réservations. Essai gratuit 15j. Utilisateurs illimités.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://hectorassetmanager.com/fr"
+u_site: https://hectorassetmanager.com/fr
 ---
 
 # Hector

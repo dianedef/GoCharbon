@@ -5,9 +5,7 @@ type: Guide
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Business
-- CRM
+- Outils
 title: Comment Fixer Ses Prix
 author: Diane
 description: 'Découvre Comment Fixer Ses Prix : outil français pour entrepreneurs,

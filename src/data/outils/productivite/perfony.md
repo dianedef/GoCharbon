@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Perfony"
+title: Perfony
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Productivité'
-description: "Perfony est le logiciel français IA de gestion de projet, réunions et actions. Azure AI + GPT-3.5. Microsoft Partner. Gratuit ou dès 23€/mois. 8h gagnées/semaine."
-pubDate: "2024-03-25"
+- Outils
+description: Perfony est le logiciel français IA de gestion de projet, réunions et
+  actions. Azure AI + GPT-3.5. Microsoft Partner. Gratuit ou dès 23€/mois. 8h gagnées/semaine.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.perfony.com/fr/"
+u_site: https://www.perfony.com/fr/
 ---
 
 # Perfony

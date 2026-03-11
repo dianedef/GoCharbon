@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Planifiez Comme Un Génie L'App Française Qui Va Révolutionner Votre Emploi

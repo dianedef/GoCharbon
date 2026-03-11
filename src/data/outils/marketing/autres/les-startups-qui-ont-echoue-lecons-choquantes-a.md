@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Startups Qui Ont Échoué Leçons Choquantes À Ne Pas Reproduire
 author: Diane
 description: 'Découvre Les Startups Qui Ont Échoué Leçons Choquantes À Ne Pas Reproduire

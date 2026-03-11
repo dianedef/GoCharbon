@@ -3,7 +3,7 @@ section: blog
 title: Les Meilleurs Outils pour l'Affiliation
 author: Diane
 tags:
-- Affiliation
+- Business
 description: Découvre les outils essentiels pour automatiser et optimiser ton business
   d'affiliation
 pubDate: '2024-03-25'

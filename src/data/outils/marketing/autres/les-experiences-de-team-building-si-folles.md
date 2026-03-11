@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Expériences De Team Building Si Folles Qu'Elles Vont Souder Votre Équipe
   Pour Toujours
 author: Diane

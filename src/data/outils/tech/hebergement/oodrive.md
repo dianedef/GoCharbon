@@ -2,16 +2,15 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Hébergement
-- Tech
+- Outils
 imageNameKey: null
 u_site: https://www.oodrive.com/fr/
 u_affi: null
 u_affiAdmin: null
 title: Oodrive
 author: Diane
-description: 'Suite collaborative cloud 100% française qualifiée SecNumCloud. 3500+ clients dont 80% du CAC 40. Alternative souveraine à Google Drive et Microsoft 365.'
+description: Suite collaborative cloud 100% française qualifiée SecNumCloud. 3500+
+  clients dont 80% du CAC 40. Alternative souveraine à Google Drive et Microsoft 365.
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

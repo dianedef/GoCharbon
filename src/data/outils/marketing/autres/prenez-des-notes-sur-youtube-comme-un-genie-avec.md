@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Prenez Des Notes Sur Youtube Comme Un Génie Avec Ces Outils Révolutionnaires

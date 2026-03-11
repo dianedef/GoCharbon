@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Finfrog"
+title: Finfrog
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Finfrog est la fintech française du micro-crédit. Prêts de 100€ à 600€ en 24h, 100% en ligne. 300 000+ utilisateurs, agréée ACPR-Banque de France depuis 2025."
-pubDate: "2024-03-25"
+- Outils
+description: Finfrog est la fintech française du micro-crédit. Prêts de 100€ à 600€
+  en 24h, 100% en ligne. 300 000+ utilisateurs, agréée ACPR-Banque de France depuis
+  2025.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://finfrog.fr"
+u_site: https://finfrog.fr
 ---
 
 # Finfrog

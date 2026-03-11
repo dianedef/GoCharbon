@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Karlia"
+title: Karlia
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Karlia est un CRM tout-en-un français pour TPE/PME. Ventes, facturation, projets, ticketing, emails synchronisés, RH. 2500+ clients. Dès 29€ HT/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Karlia est un CRM tout-en-un français pour TPE/PME. Ventes, facturation,
+  projets, ticketing, emails synchronisés, RH. 2500+ clients. Dès 29€ HT/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://karlia.co"
+u_site: https://karlia.co
 ---
 
 # Karlia

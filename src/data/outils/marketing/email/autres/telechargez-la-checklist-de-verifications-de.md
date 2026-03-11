@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Email
+- Outils
 u_site: null
 title: Téléchargez La Checklist De Vérifications De Votre Tunnel De Ventes
 author: Diane

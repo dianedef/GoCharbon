@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 15 Idées De Revenus Passifs Qui Vont Vous Rendre Riche Pendant Votre Sommeil

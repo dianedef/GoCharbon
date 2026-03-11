@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: saas-ecologie
 title: Transformez Votre Entreprise En Héros Écolo Avec Ces Astuces Secrètes
 author: Diane

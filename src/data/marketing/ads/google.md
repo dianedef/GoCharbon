@@ -3,8 +3,9 @@ section: blog
 title: Google Ads - Guide Complet
 author: Diane
 tags:
-- Ads
-description: "Guide Google Ads clair pour débutants : structure de compte, mots-clés, budget, KPI et optimisation continue."
+- Marketing
+description: 'Guide Google Ads clair pour débutants : structure de compte, mots-clés,
+  budget, KPI et optimisation continue.'
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---

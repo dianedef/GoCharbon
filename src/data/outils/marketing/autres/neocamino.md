@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "neocamino"
+title: neocamino
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "Le logiciel Neocamino offre de nombreux avantages aux entrepreneurs pour augmenter leurs ventes et gagner du temps. Il permet de piloter efficacement la communication digitale des "
-pubDate: "2024-03-25"
+- Outils
+description: 'Le logiciel Neocamino offre de nombreux avantages aux entrepreneurs
+  pour augmenter leurs ventes et gagner du temps. Il permet de piloter efficacement
+  la communication digitale des '
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://neocamino.com"
+u_site: https://neocamino.com
 ---
 
 # neocamino

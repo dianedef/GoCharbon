@@ -3,11 +3,10 @@ section: blog
 title: Maîtriser ta productivité
 author: Diane
 tags:
-  - 'Productivité'
-  - 'Mental'
-  - 'Mindset'
-description: "Découvre comment accomplir plus, avec moins de stress et plus d'impact dans ton business en ligne"
-pubDate: "2024-03-25"
+- Productivité
+description: Découvre comment accomplir plus, avec moins de stress et plus d'impact
+  dans ton business en ligne
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

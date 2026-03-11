@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "gselect"
+title: gselect
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Assurance'
-  - 'Business'
-description: "[Assurance emprunteur : comment les banques contournent la loi - YouTube](https://youtu.be/VsRfIC05Yx8) [Propriétaire ? Changez votre assurance emprunteur ! Pourquoi faire et qui s"
-pubDate: "2024-03-25"
+- Outils
+description: '[Assurance emprunteur : comment les banques contournent la loi - YouTube](https://youtu.be/VsRfIC05Yx8)
+  [Propriétaire ? Changez votre assurance emprunteur ! Pourquoi faire et qui s'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://indicateurs.gselect-assurances.com/dashboard/"
+u_site: https://indicateurs.gselect-assurances.com/dashboard/
 ---
 
 # gselect

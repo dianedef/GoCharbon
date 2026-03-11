@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "foundersquare"
+title: foundersquare
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "FounderSquare, créé par des entrepreneurs expérimentés, est bien plus qu'une simple plateforme de formation en ligne. Il offre des opportunités pour devenir entrepreneur en guidant"
-pubDate: "2024-03-25"
+- Outils
+description: FounderSquare, créé par des entrepreneurs expérimentés, est bien plus
+  qu'une simple plateforme de formation en ligne. Il offre des opportunités pour devenir
+  entrepreneur en guidant
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://founder-square.cloud"
+u_site: https://founder-square.cloud
 ---
 
 # foundersquare

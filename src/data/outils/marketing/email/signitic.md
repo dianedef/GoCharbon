@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "signitic"
+title: signitic
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "- 💼 Signitic est un logiciel de gestion des signatures mail pour les entreprises. - 💻 Il permet de créer, gérer et automatiser les signatures mail de collaborateurs. - 📢 Il est par"
-pubDate: "2024-03-25"
+- Outils
+description: '- 💼 Signitic est un logiciel de gestion des signatures mail pour les
+  entreprises. - 💻 Il permet de créer, gérer et automatiser les signatures mail de
+  collaborateurs. - 📢 Il est par'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.signitic.fr"
+u_site: https://www.signitic.fr
 ---
 
 # signitic

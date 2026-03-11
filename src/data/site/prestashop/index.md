@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "PrestaShop : Guide Complet"
+title: 'PrestaShop : Guide Complet'
 author: Diane
 tags:
-  - 'PrestaShop'
-  - 'E-commerce'
-  - 'Web'
-  - 'Digital'
-description: "L'e-commerce open-source pour les boutiques européennes"
-pubDate: "2026-01-17"
+- Tech
+description: L'e-commerce open-source pour les boutiques européennes
+pubDate: '2026-01-17'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Sticky CTA"
+title: Sticky CTA
 author: Diane
 tags:
-  - "Outils Français"
-  - "SEO"
-  - "Marketing"
-description: "Sticky CTA : plugin WordPress pour creer des bannieres fixes, boutons CTA et barres de notification avec A/B testing."
-pubDate: "2024-03-25"
+- Outils
+description: 'Sticky CTA : plugin WordPress pour creer des bannieres fixes, boutons
+  CTA et barres de notification avec A/B testing.'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.sticky-cta.com/fr/"
+u_site: https://www.sticky-cta.com/fr/
 ---
 
 # Sticky CTA

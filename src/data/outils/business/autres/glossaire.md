@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Business
-- CRM
+- Outils
 title: Glossaire
 author: Diane
 description: 'Découvre Glossaire : outil français pour entrepreneurs, fonctionnalités

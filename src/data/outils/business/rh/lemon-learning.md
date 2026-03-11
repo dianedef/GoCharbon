@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Lemon Learning"
+title: Lemon Learning
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'RH'
-  - 'Business'
-description: "1. Lemon Learning est une application de formation en ligne créée pour aider les employés à apprendre rapidement de nouveaux outils logiciels en entreprise. Cette application est u"
-pubDate: "2024-03-25"
+- Outils
+description: 1. Lemon Learning est une application de formation en ligne créée pour
+  aider les employés à apprendre rapidement de nouveaux outils logiciels en entreprise.
+  Cette application est u
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.lemonlearning.com/fr"
+u_site: https://www.lemonlearning.com/fr
 ---
 
 # Lemon Learning

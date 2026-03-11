@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Geeers"
+title: Geeers
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Business'
-description: "Geeers est une plateforme française no-code de gestion de workflows et procédures pour les équipes. Basée à Pau, plan gratuit inclus."
-pubDate: "2024-03-25"
+- Outils
+description: Geeers est une plateforme française no-code de gestion de workflows et
+  procédures pour les équipes. Basée à Pau, plan gratuit inclus.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.geeers.com/fr/"
+u_site: https://www.geeers.com/fr/
 ---
 
 # Geeers

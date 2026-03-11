@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Séduisez Votre Audience Comme Par Magie Les Techniques Secrètes Dévoilées

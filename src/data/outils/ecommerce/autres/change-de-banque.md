@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Change de Banque"
+title: Change de Banque
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Business'
-description: "Change de Banque est l'initiative des ONG climatiques pour quitter ta banque polluante. Comparateur gratuit, guide pratique. Par Les Amis de la Terre & Oxfam."
-pubDate: "2024-03-25"
+- Outils
+description: Change de Banque est l'initiative des ONG climatiques pour quitter ta
+  banque polluante. Comparateur gratuit, guide pratique. Par Les Amis de la Terre
+  & Oxfam.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://change-de-banque.org"
+u_site: https://change-de-banque.org
 ---
 
 # Change de Banque

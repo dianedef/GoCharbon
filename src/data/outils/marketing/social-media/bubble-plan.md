@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Bubble plan"
+title: Bubble plan
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "- **Fondateurs :** Julien et Benoit SELIGMANN - 💼 Bubble Plan propose une application en ligne pour dessiner, gérer et partager des projets. - 🕒 L'outil permet une gestion efficace"
-pubDate: "2024-03-25"
+- Outils
+description: '- **Fondateurs :** Julien et Benoit SELIGMANN - 💼 Bubble Plan propose
+  une application en ligne pour dessiner, gérer et partager des projets. - 🕒 L''outil
+  permet une gestion efficace'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://bubbleplan.net"
+u_site: https://bubbleplan.net
 ---
 
 # Bubble plan

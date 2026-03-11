@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: meilleurs-clients-email
 title: 10 Clients Email Secrets Qui Vont Révolutionner Votre Productivité
 author: Diane

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Craft ai"
+title: Craft ai
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Social Media'
-  - 'Marketing'
-description: "[Craft AI : une startup française d'intelligence artificielle en tant que service](https://www.lebigdata.fr/craft-ai) Lancée en 2015, Craft AI est convaincue que le futur de l’inte"
-pubDate: "2024-03-25"
+- Outils
+description: '[Craft AI : une startup française d''intelligence artificielle en tant
+  que service](https://www.lebigdata.fr/craft-ai) Lancée en 2015, Craft AI est convaincue
+  que le futur de l’inte'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.craft.ai"
+u_site: https://www.craft.ai
 ---
 
 # Craft ai

@@ -1,12 +1,12 @@
 ---
 section: blog
-title: "La Connaissance : Le Véritable Pouvoir de l'Entrepreneur"
+title: 'La Connaissance : Le Véritable Pouvoir de l''Entrepreneur'
 author: Diane
 tags:
-  - 'Productivité'
-  - 'Connaissance'
-description: "Découvrez comment la maîtrise des connaissances devient un avantage compétitif décisif dans l'entrepreneuriat moderne"
-pubDate: "2024-03-25"
+- Productivité
+description: Découvrez comment la maîtrise des connaissances devient un avantage compétitif
+  décisif dans l'entrepreneuriat moderne
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

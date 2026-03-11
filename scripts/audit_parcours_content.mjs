@@ -43,8 +43,12 @@ function loadPostsMap() {
   );
   const map = new Map();
   for (const file of markdownFiles) {
-    const route =
-      "/" + toPosix(path.relative(dataDir, file)).replace(/\.md$/, "");
+    let route =
+      "/" +
+      toPosix(path.relative(dataDir, file))
+        .replace(/\.md$/, "")
+        .replace(/\/index$/, "");
+    if (!route) route = "/";
     map.set(route, file);
   }
   return map;

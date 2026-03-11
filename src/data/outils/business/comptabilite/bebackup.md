@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "BeBackup"
+title: BeBackup
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "BeBackup est une solution de sauvegarde cloud 100% française pour prestataires IT et MSP. Déploiement managé, cloud ou on-premise. White-label disponible."
-pubDate: "2024-03-25"
+- Outils
+description: BeBackup est une solution de sauvegarde cloud 100% française pour prestataires
+  IT et MSP. Déploiement managé, cloud ou on-premise. White-label disponible.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.bebackup.fr"
+u_site: https://www.bebackup.fr
 ---
 
 # BeBackup

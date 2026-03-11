@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "ClarkUp"
+title: ClarkUp
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "ClarkUp est un outil français de prospection commerciale tout-en-un. Extraction de leads multi-plateformes, vidéo prospection, pipeline. Par Anthony Nevo."
-pubDate: "2024-03-25"
+- Outils
+description: ClarkUp est un outil français de prospection commerciale tout-en-un.
+  Extraction de leads multi-plateformes, vidéo prospection, pipeline. Par Anthony
+  Nevo.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.clarkup.com"
+u_site: https://www.clarkup.com
 ---
 
 # ClarkUp

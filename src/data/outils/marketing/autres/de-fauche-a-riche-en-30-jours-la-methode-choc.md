@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: De Fauché À Riche En 30 Jours La Méthode Choc Pour Gagner De L'Argent En Ligne

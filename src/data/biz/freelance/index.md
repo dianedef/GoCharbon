@@ -3,7 +3,6 @@ section: blog
 title: Services En Ligne
 author: Diane
 tags:
-- Freelancing
 - Business
 description: 'Guide complet du freelancing : statuts juridiques, prospection, tarification
   et gestion pour réussir en indépendant.'

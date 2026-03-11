@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Veribacklink"
+title: Veribacklink
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: 'Monitoring de backlinks 24/7 pour ne jamais perdre un lien. Alertes en temps réel, vérification indexation et suivi des changements. Plan gratuit disponible.'
-pubDate: "2024-03-25"
+- Outils
+description: Monitoring de backlinks 24/7 pour ne jamais perdre un lien. Alertes en
+  temps réel, vérification indexation et suivi des changements. Plan gratuit disponible.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://veribacklink.com"
+u_site: https://veribacklink.com
 ---
 
 # VeriBacklink

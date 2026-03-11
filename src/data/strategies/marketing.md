@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Stratégies de Marketing Digital : Guide Complet"
+title: 'Stratégies de Marketing Digital : Guide Complet'
 author: Diane
 tags:
-  - 'Marketing'
-  - 'Digital'
-  - 'Stratégie'
-  - 'Business'
+- Business
 description: Guide complet sur les stratégies de marketing digital modernes
-pubDate: "2024-03-25"
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

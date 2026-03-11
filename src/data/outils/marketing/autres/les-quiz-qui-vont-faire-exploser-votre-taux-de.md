@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: quizz
 u_site: null
 title: Les Quiz Qui Vont Faire Exploser Votre Taux De Conversion

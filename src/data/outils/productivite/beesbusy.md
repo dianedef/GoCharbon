@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Beesbusy"
+title: Beesbusy
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Gestion Projet'
-  - 'Productivité'
-description: "Beesbusy est un logiciel français de gestion de projet collaboratif. Gantt, ressources, multi-projets, suivi des temps. 80 000+ utilisateurs. CES 2019. Dès 9,99€/user/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Beesbusy est un logiciel français de gestion de projet collaboratif.
+  Gantt, ressources, multi-projets, suivi des temps. 80 000+ utilisateurs. CES 2019.
+  Dès 9,99€/user/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.beesbusy.com/"
+u_site: https://www.beesbusy.com/
 ---
 
 # Beesbusy

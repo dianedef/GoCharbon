@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: Les Raccourcis Youtube Qui Vont Rendre Votre Navigation 10X Plus Rapide

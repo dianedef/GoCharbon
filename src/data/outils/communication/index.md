@@ -1,13 +1,13 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "OUTILS COMMUNICATION FRANÇAIS"
+title: OUTILS COMMUNICATION FRANÇAIS
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Les meilleurs outils de communication français : chatbots, visioconférence. Communique efficacement made in France."
-pubDate: "2024-03-25"
+- Outils
+description: 'Les meilleurs outils de communication français : chatbots, visioconférence.
+  Communique efficacement made in France.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

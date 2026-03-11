@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Cashtrack"
+title: Cashtrack
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Comptabilité'
-  - 'Business'
-description: "Cashtrack est un logiciel français de gestion et prévision de trésorerie pour TPE/PME. Flux bancaires automatisés, scénarios de cash flow et reporting temps réel. À partir de 29€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Cashtrack est un logiciel français de gestion et prévision de trésorerie
+  pour TPE/PME. Flux bancaires automatisés, scénarios de cash flow et reporting temps
+  réel. À partir de 29€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://cashtrack.io"
+u_site: https://cashtrack.io
 ---
 
 # Cashtrack

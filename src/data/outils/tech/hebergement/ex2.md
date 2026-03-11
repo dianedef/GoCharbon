@@ -3,8 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Tech
+- Outils
 imageNameKey: ex2
 u_site: null
 u_affi: null

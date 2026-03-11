@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: L'Éditeur Vidéo Ia Cloud Qui Va Révolutionner Vos Montages
 author: Diane
 description: 'Découvre L''Éditeur Vidéo Ia Cloud Qui Va Révolutionner Vos Montages

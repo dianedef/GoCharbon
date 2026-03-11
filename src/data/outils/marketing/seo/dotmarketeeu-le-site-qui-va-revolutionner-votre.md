@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 imageNameKey: dotmarket-eu
 u_site: https://www.dotmarket.eu
 u_affi: null

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Kandbaz : Révolutionnez Votre Domiciliation d'Entreprise En Ligne"
+title: 'Kandbaz : Révolutionnez Votre Domiciliation d''Entreprise En Ligne'
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Facturation'
-  - 'Business'
-description: "Kandbaz, leader de la domiciliation d'entreprise en ligne, s'engage à simplifier la vie des entrepreneurs grâce à son éventail de services complets. Cette plateforme propose une va"
-pubDate: "2024-03-25"
+- Outils
+description: Kandbaz, leader de la domiciliation d'entreprise en ligne, s'engage à
+  simplifier la vie des entrepreneurs grâce à son éventail de services complets. Cette
+  plateforme propose une va
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.kandbaz.com"
+u_site: https://www.kandbaz.com
 ---
 
 # Kandbaz : Révolutionnez Votre Domiciliation d'Entreprise En Ligne

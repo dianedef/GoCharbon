@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Ubigi"
+title: Ubigi
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Communication'
-description: "Ubigi est l'eSIM française pour voyageurs. Data prépayée dans 200+ pays, activation en 5 min, dès 2,61€. Par Transatel (NTT). 4.1/5 Trustpilot."
-pubDate: "2024-03-25"
+- Outils
+description: Ubigi est l'eSIM française pour voyageurs. Data prépayée dans 200+ pays,
+  activation en 5 min, dès 2,61€. Par Transatel (NTT). 4.1/5 Trustpilot.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.ubigi.com/fr/"
+u_site: https://www.ubigi.com/fr/
 ---
 
 # Ubigi

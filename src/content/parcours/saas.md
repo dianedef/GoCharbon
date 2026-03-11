@@ -45,7 +45,7 @@ Lancer un SaaS adéquation problème-solution puis structurer acquisition retenu
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
 - [Suivi du parcours](/parcours/saas)
-- [Ressource utile 1](/biz/saas/index)
+- [Ressource utile 1](/biz/saas)
 - [Ressource utile 2](/tutos/comment-creer-saas-avec-espace-membre-avec-notion)
 - [Ressource utile 3](/marketing/analytics/kpis)
 

@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Oscar manager"
+title: Oscar manager
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Facturation'
-  - 'Business'
-description: "- **Fondateurs :** Nicolas CABANES - **Nombre d'employés :** 2 [Oscar Manager - Logiciel de Facturation et d'Encaissement | Marseille | Facebook](https://www.facebook.com/logicielo"
-pubDate: "2024-03-25"
+- Outils
+description: '- **Fondateurs :** Nicolas CABANES - **Nombre d''employés :** 2 [Oscar
+  Manager - Logiciel de Facturation et d''Encaissement | Marseille | Facebook](https://www.facebook.com/logicielo'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.oscar-manager.com"
+u_site: https://www.oscar-manager.com
 ---
 
 # Oscar manager

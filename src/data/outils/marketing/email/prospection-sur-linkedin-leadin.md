@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Prospection Sur LinkedIn | LeadIn"
+title: Prospection Sur LinkedIn | LeadIn
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Email'
-  - 'Marketing'
-description: "LeadIn est un puissant outil d'automatisation de prospection qui combine la puissance de LinkedIn et de l'email pour générer des opportunités B2B. Il offre des fonctionnalités inte"
-pubDate: "2024-03-25"
+- Outils
+description: LeadIn est un puissant outil d'automatisation de prospection qui combine
+  la puissance de LinkedIn et de l'email pour générer des opportunités B2B. Il offre
+  des fonctionnalités inte
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.leadin.fr"
+u_site: https://www.leadin.fr
 ---
 
 # Prospection Sur LinkedIn | LeadIn

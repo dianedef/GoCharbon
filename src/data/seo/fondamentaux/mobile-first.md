@@ -4,7 +4,6 @@ title: Mobile First
 author: Diane
 tags:
 - SEO
-- Technique
 description: 'SEO mobile-first : optimisation pour smartphones et Core Web Vitals
   pour Google.'
 pubDate: '2024-03-25'

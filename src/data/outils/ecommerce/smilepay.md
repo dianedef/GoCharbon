@@ -2,16 +2,15 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-  - Outils Français
-  - E-commerce
-  - Paiement
+- Outils
 imageNameKey: smileandpay
 u_site: https://www.smileandpay.com
 u_affi: null
 u_affiAdmin: null
 title: Smile&Pay
 author: Diane
-description: 'Smile&Pay : terminal de paiement mobile 100% français. 4 TPE dès 39 EUR HT, commission 1,55%, sans engagement. Idéal commerçants et indépendants.'
+description: 'Smile&Pay : terminal de paiement mobile 100% français. 4 TPE dès 39
+  EUR HT, commission 1,55%, sans engagement. Idéal commerçants et indépendants.'
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---

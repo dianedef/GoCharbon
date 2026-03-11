@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Offres À Vie Le Plan Génial Ou L'Arnaque Du Siècle La Vérité Enfin Révélée
 author: Diane

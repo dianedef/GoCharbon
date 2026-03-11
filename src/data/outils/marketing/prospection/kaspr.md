@@ -1,15 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "kaspr"
+title: kaspr
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Marketing'
-description: "- KASPR General Presentation - Kaspr vous donne accès à plus de 230 millions d’emails et numéros de téléphones vérifiés. Kaspr a l’une des bases d’emails B2B les plus importantes d"
-pubDate: "2024-03-25"
+- Outils
+description: '- KASPR General Presentation - Kaspr vous donne accès à plus de 230
+  millions d’emails et numéros de téléphones vérifiés. Kaspr a l’une des bases d’emails
+  B2B les plus importantes d'
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://info.kaspr.io/fr"
+u_site: https://info.kaspr.io/fr
 ---
 
 # kaspr

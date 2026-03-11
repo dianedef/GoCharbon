@@ -4,8 +4,6 @@ title: Ajouter des icônes interactives sur vos publications réseaux sociaux
 author: Diane
 tags:
 - Tutoriels
-- Marketing
-- Design
 description: Apprenez à créer des visuels engageants avec des éléments interactifs
   pour booster vos réseaux sociaux, en vous inspirant de la puissance de Genially.
 pubDate: '2026-01-20'

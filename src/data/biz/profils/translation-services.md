@@ -4,7 +4,6 @@ title: Translation Services / Services de Traduction
 author: Web Indé
 tags:
 - Business
-- Freelancing
 description: 'Lance ton activité de traduction : spécialisations, outils et stratégies
   pour traducteurs freelance.'
 pubDate: '2024-01-01'

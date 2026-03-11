@@ -1,15 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Iziflux"
+title: Iziflux
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'E-commerce'
-description: "Iziflux est la plateforme française de gestion de flux e-commerce multicanal. 400+ marketplaces, repricing auto, 500 clients. Dès 49€/mois. 2 mois offerts."
-pubDate: "2024-03-25"
+- Outils
+description: Iziflux est la plateforme française de gestion de flux e-commerce multicanal.
+  400+ marketplaces, repricing auto, 500 clients. Dès 49€/mois. 2 mois offerts.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.iziflux.com"
+u_site: https://www.iziflux.com
 ---
 
 # Iziflux

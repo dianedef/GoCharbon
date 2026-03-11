@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- Social Media
+- Outils
 title: File Organizer 2000
 author: Diane
 description: 'Découvre File Organizer 2000 : outil français pour entrepreneurs, fonctionnalités

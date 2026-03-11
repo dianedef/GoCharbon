@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Saalz"
+title: Saalz
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Saalz est un CRM français de prospection B2B avec enrichissement cascade (10 fournisseurs) et extension LinkedIn. 10 000+ utilisateurs. Conforme RGPD. Dès 20€/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Saalz est un CRM français de prospection B2B avec enrichissement cascade
+  (10 fournisseurs) et extension LinkedIn. 10 000+ utilisateurs. Conforme RGPD. Dès
+  20€/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://saalz.com"
+u_site: https://saalz.com
 ---
 
 # Saalz

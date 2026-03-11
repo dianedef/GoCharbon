@@ -1,13 +1,12 @@
 ---
 section: blog
-title: "Web Scraping : 10 Cas d'Usage Qui Vont Booster Ton Business"
+title: 'Web Scraping : 10 Cas d''Usage Qui Vont Booster Ton Business'
 author: Diane
 tags:
-  - 'Scraping'
-  - 'Automatisation'
-  - 'Business'
-description: "Découvre comment le web scraping peut transformer ton business avec 10 cas d'usage concrets et des outils adaptés."
-pubDate: "2024-03-25"
+- Tech
+description: Découvre comment le web scraping peut transformer ton business avec 10
+  cas d'usage concrets et des outils adaptés.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

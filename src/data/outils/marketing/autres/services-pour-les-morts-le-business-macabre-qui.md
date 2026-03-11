@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: saas-deces
 title: Services Pour Les Morts Le Business Macabre Qui Rapporte Des Millions
 author: Diane

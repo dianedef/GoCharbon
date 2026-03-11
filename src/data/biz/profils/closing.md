@@ -4,8 +4,6 @@ title: Closer / Sales Closer
 author: Web Indé
 tags:
 - Business
-- Vente
-- Freelancing
 description: 'Maîtrise l''art du closing : techniques de vente, scripts et psychologie
   pour convertir tes prospects en clients.'
 pubDate: '2024-01-01'

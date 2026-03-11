@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 title: Titres Putaclic
 author: Diane
 description: 'Découvre Titres Putaclic : outil français pour entrepreneurs, fonctionnalités

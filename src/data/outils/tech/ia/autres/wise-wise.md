@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: Logiciel
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: wise
 title: Wise Wise
 author: Diane

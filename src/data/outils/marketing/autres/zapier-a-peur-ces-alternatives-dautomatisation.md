@@ -5,8 +5,7 @@ type: Blog
 statut: en-attente
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Zapier A Peur Ces Alternatives D'Automatisation Vont Vous Bluffer
 author: Diane
 description: 'Découvre Zapier A Peur Ces Alternatives D''Automatisation Vont Vous

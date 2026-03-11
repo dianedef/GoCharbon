@@ -1,18 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Interstis"
+title: Interstis
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'Collaboration'
-  - 'Productivité'
-  - 'Gestion Projet'
-  - 'Bureautique'
-description: "Interstis est la plateforme collaborative française SecNumCloud. 1 600 clients, 800 000 utilisateurs, alternative souveraine à Microsoft 365. Dès 2,49 €/mois."
-pubDate: "2024-03-25"
+- Outils
+description: Interstis est la plateforme collaborative française SecNumCloud. 1 600
+  clients, 800 000 utilisateurs, alternative souveraine à Microsoft 365. Dès 2,49
+  €/mois.
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
-u_site: "https://www.interstis.fr"
+u_site: https://www.interstis.fr
 ---
 
 # Interstis

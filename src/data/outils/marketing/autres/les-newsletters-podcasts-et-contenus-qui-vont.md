@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Les Newsletters, Podcasts Et Contenus Qui Vont Faire De Vous Le Prochain Elon
   Musk
 author: Diane

@@ -1,13 +1,12 @@
 ---
 section: blog
-title: "SaaS : Le Guide Complet pour Créer un Logiciel en Abonnement"
+title: 'SaaS : Le Guide Complet pour Créer un Logiciel en Abonnement'
 author: Diane
 tags:
-  - 'SaaS'
-  - 'Business'
-  - 'Tech'
-description: "Guide complet du business SaaS : modèle, revenus récurrents, marketing et scaling pour créer ton logiciel en abonnement."
-pubDate: "2024-03-25"
+- Business
+description: 'Guide complet du business SaaS : modèle, revenus récurrents, marketing
+  et scaling pour créer ton logiciel en abonnement.'
+pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 

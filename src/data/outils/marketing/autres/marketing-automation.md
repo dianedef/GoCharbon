@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Marketing Automation
 author: Diane
 description: 'Découvre Marketing Automation : outil français pour entrepreneurs, fonctionnalités

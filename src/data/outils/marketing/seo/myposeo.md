@@ -1,16 +1,15 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Myposeo"
+title: Myposeo
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Myposeo est la plateforme francaise de suivi de positionnement SEO et SEA avec plus de 600 indicateurs pour piloter ta visibilite."
-pubDate: "2024-03-25"
+- Outils
+description: Myposeo est la plateforme francaise de suivi de positionnement SEO et
+  SEA avec plus de 600 indicateurs pour piloter ta visibilite.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://fr.myposeo.com"
+u_site: https://fr.myposeo.com
 ---
 
 # Myposeo

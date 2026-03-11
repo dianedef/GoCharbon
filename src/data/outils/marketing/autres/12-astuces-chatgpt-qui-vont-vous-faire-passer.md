@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: 12 Astuces Chatgpt Qui Vont Vous Faire Passer Pour Un Génie
 author: Diane
 description: 'Découvre 12 Astuces Chatgpt Qui Vont Vous Faire Passer Pour Un Génie

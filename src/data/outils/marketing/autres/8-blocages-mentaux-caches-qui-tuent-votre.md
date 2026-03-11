@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 u_site: null
 title: 8 Blocages Mentaux Cachés Qui Tuent Votre Business En Ligne Vous Coûte Des

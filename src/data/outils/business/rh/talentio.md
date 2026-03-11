@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: talent-io
 u_site: https://www.talent.io/p/fr-fr/home
 u_affi: null

@@ -4,8 +4,6 @@ title: Setter / Appointment Setter
 author: Web Indé
 tags:
 - Business
-- Vente
-- Freelancing
 description: 'Maîtrise le setting : techniques de qualification, scripts et stratégies
   pour closers en devenir.'
 pubDate: '2024-01-01'

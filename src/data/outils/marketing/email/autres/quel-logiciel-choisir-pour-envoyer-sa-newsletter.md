@@ -7,9 +7,7 @@ u_site: null
 u_interne: null
 imageNameKey: newsletter
 tags:
-- Outils Français
-- Marketing
-- Email
+- Outils
 title: Quel Logiciel Choisir Pour Envoyer Sa Newsletter
 author: Diane
 description: 'Découvre Quel Logiciel Choisir Pour Envoyer Sa Newsletter : outil français

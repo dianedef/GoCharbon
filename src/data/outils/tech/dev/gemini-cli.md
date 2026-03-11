@@ -4,8 +4,7 @@ metadataEnrichedAt: null
 title: Gemini Cli
 author: Diane
 tags:
-- Outils Français
-- Tech
+- Outils
 description: 'Découvre Gemini Cli : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

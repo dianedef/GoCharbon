@@ -3,10 +3,7 @@ section: blog
 title: 'Mes Échecs d''Investissement : La Vérité Brute'
 author: Diane
 tags:
-- Investissement
-- Formation
-- AppSumo
-- Entrepreneuriat
+- Business
 description: J'ai dépensé des milliers d'euros en formations et logiciels. Voici mes
   erreurs et les vendeurs de rêves à éviter.
 pubDate: '2026-01-17'

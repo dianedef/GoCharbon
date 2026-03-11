@@ -4,9 +4,7 @@ metadataEnrichedAt: null
 title: Winget Chocolatey Scoop
 author: Diane
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 description: 'Découvre Winget Chocolatey Scoop : outil français pour entrepreneurs,
   fonctionnalités et avis.'
 pubDate: '2024-03-25'

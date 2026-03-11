@@ -2,9 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
-- SEO
+- Outils
 title: Black Hat Seo
 author: Diane
 description: 'Découvre Black Hat Seo : outil français pour entrepreneurs, fonctionnalités

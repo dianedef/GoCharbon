@@ -4,8 +4,6 @@ title: Blogging / Site de Contenu
 author: Web Indé
 tags:
 - Business
-- Blog
-- Contenu
 description: 'Lance un blog rentable : niches, SEO, monétisation et stratégies pour
   transformer ton blog en business.'
 pubDate: '2024-01-01'

@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Yuto"
+title: Yuto
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'CRM'
-  - 'Business'
-description: "Yuto est un CRM mobile français pour les commerciaux terrain. Devis en -1 min, catalogue temps réel, géolocalisation Waze. +20% commandes. Essai 14 jours gratuit."
-pubDate: "2024-03-25"
+- Outils
+description: Yuto est un CRM mobile français pour les commerciaux terrain. Devis en
+  -1 min, catalogue temps réel, géolocalisation Waze. +20% commandes. Essai 14 jours
+  gratuit.
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.yuto.fr"
+u_site: https://www.yuto.fr
 ---
 
 # Yuto

@@ -1,14 +1,11 @@
 ---
 section: blog
-title: "Stratégies d'Acquisition Client : Guide Complet"
+title: 'Stratégies d''Acquisition Client : Guide Complet'
 author: Diane
 tags:
-  - 'Acquisition'
-  - 'Marketing'
-  - 'Stratégie'
-  - 'Business'
-description: "Guide complet sur les stratégies d'acquisition client et leur optimisation"
-pubDate: "2024-03-25"
+- Business
+description: Guide complet sur les stratégies d'acquisition client et leur optimisation
+pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 

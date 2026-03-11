@@ -4,8 +4,7 @@ metadataEnrichedAt: null
 type: Logiciel
 _priorité: normal
 tags:
-- Outils Français
-- Marketing
+- Outils
 title: Mutant Mail L'Outil Qui Va Révolutionner Votre Stratégie Email
 author: Diane
 description: 'Découvre Mutant Mail L''Outil Qui Va Révolutionner Votre Stratégie Email

@@ -3,9 +3,7 @@ section: apps
 metadataEnrichedAt: null
 type: app
 tags:
-- Outils Français
-- Tech
-- IA
+- Outils
 imageNameKey: novalya
 u_affi: https://app.novalya.com/signup/MYQ14V8O5Z
 title: Novalya

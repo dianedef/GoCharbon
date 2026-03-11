@@ -45,7 +45,7 @@ Lancer un produit FBA rentable avec controle marge et rotation stock.
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
 - [Suivi du parcours](/parcours/amazon-fba)
-- [Ressource utile 1](/biz/e-commerce/index)
+- [Ressource utile 1](/biz/e-commerce)
 - [Ressource utile 2](/tutos/generez-vos-descriptions-de-fiches-produits-en)
 - [Ressource utile 3](/marketing/ads/google)
 

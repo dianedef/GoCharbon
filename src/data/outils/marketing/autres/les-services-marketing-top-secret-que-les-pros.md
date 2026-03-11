@@ -2,8 +2,7 @@
 section: apps
 metadataEnrichedAt: null
 tags:
-- Outils Français
-- Marketing
+- Outils
 imageNameKey: null
 title: Les Services Marketing Top Secret Que Les Pros Gardent Pour Eux
 author: Diane

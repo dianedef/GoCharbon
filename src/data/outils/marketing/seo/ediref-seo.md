@@ -1,16 +1,16 @@
 ---
 section: apps
 metadataEnrichedAt: null
-title: "Ediref SEO"
+title: Ediref SEO
 author: Diane
 tags:
-  - 'Outils Français'
-  - 'SEO'
-  - 'Marketing'
-description: "Gain de temps pour les entrepreneurs Augmentation des ventes Outil Made In France de suivi de positionnement sur Google Prix compétitifs Petites entreprises Entrepreneurs individue"
-pubDate: "2024-03-25"
+- Outils
+description: Gain de temps pour les entrepreneurs Augmentation des ventes Outil Made
+  In France de suivi de positionnement sur Google Prix compétitifs Petites entreprises
+  Entrepreneurs individue
+pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
-u_site: "https://www.ediref.com/outils-seo.php"
+u_site: https://www.ediref.com/outils-seo.php
 ---
 
 # Ediref SEO
