@@ -442,6 +442,215 @@ export const quizData = {
         },
       ],
     },
+    // --- Personnalité ---
+    {
+      id: 18,
+      text: "Dans un événement networking, tu es plutôt...",
+      options: [
+        {
+          text: "J'adore, je parle à tout le monde",
+          icon: "🎉",
+          points: { service: 3, formation: 1 },
+        },
+        {
+          text: "Je préfère les conversations profondes en petit comité",
+          icon: "🤫",
+          points: { formation: 2, content: 2 },
+        },
+        {
+          text: "À l'aise mais j'ai besoin de recharger après",
+          icon: "🔋",
+          points: { content: 2, service: 1, ecommerce: 1 },
+        },
+        {
+          text: "Je préfère les interactions en ligne",
+          icon: "💬",
+          points: { saas: 2, content: 2, ecommerce: 1 },
+        },
+      ],
+    },
+    {
+      id: 19,
+      text: "Tes proches diraient que ta plus grande force, c'est...",
+      options: [
+        {
+          text: "Ta capacité à convaincre et embarquer les gens",
+          icon: "🎤",
+          points: { service: 3, formation: 1 },
+        },
+        {
+          text: "Ta créativité et ton originalité",
+          icon: "🎨",
+          points: { content: 3, ecommerce: 1 },
+        },
+        {
+          text: "Ta rigueur et ton sens de l'organisation",
+          icon: "📐",
+          points: { saas: 2, ecommerce: 2 },
+        },
+        {
+          text: "Ta patience et ta pédagogie",
+          icon: "🌿",
+          points: { formation: 3, content: 1 },
+        },
+      ],
+    },
+    {
+      id: 20,
+      text: "Ce qui te frustre le plus dans ton quotidien, c'est...",
+      options: [
+        {
+          text: "Les tâches répétitives qui pourraient être automatisées",
+          icon: "🔄",
+          points: { saas: 3, ecommerce: 1 },
+        },
+        {
+          text: "Ne pas avoir assez de visibilité pour mes idées",
+          icon: "👁️",
+          points: { content: 3, formation: 1 },
+        },
+        {
+          text: "Travailler sur des projets qui ne m'appartiennent pas",
+          icon: "🔗",
+          points: { ecommerce: 2, service: 2, saas: 1 },
+        },
+        {
+          text: "Sentir que mon expertise n'est pas valorisée",
+          icon: "💎",
+          points: { formation: 3, service: 2 },
+        },
+      ],
+    },
+    {
+      id: 21,
+      text: "Quand tu procrastines, tu fais plutôt quoi ?",
+      options: [
+        {
+          text: "Je scrolle des vidéos / contenus inspirants",
+          icon: "📱",
+          points: { content: 3, formation: 1 },
+        },
+        {
+          text: "Je bidouille des outils, j'explore des apps",
+          icon: "🔧",
+          points: { saas: 3, ecommerce: 1 },
+        },
+        {
+          text: "Je discute avec des gens, j'aide quelqu'un",
+          icon: "☕",
+          points: { service: 3, formation: 2 },
+        },
+        {
+          text: "Je fais du shopping en ligne, je compare des produits",
+          icon: "🛍️",
+          points: { ecommerce: 3, content: 1 },
+        },
+      ],
+    },
+    {
+      id: 22,
+      text: "Dans un projet de groupe, tu prends naturellement le rôle de...",
+      options: [
+        {
+          text: "Leader : tu organises et tu décides",
+          icon: "👑",
+          points: { ecommerce: 2, service: 2, saas: 1 },
+        },
+        {
+          text: "Créatif : tu as les idées et les angles",
+          icon: "💡",
+          points: { content: 3, ecommerce: 1 },
+        },
+        {
+          text: "Expert : on te consulte pour ton savoir",
+          icon: "🎓",
+          points: { formation: 3, saas: 1, service: 1 },
+        },
+        {
+          text: "Exécutant fiable : tu livres, tu produis",
+          icon: "⚒️",
+          points: { service: 2, ecommerce: 2, saas: 1 },
+        },
+      ],
+    },
+    {
+      id: 23,
+      text: "Face à un échec, ta réaction typique c'est...",
+      options: [
+        {
+          text: "J'analyse froidement ce qui a foiré",
+          icon: "🔬",
+          points: { saas: 2, ecommerce: 2, service: 1 },
+        },
+        {
+          text: "J'en parle autour de moi pour avoir des retours",
+          icon: "🗣️",
+          points: { service: 2, formation: 2, content: 1 },
+        },
+        {
+          text: "Je pivote vite vers autre chose",
+          icon: "🔀",
+          points: { content: 2, ecommerce: 2, service: 1 },
+        },
+        {
+          text: "Je persévère, j'ai confiance dans ma vision long terme",
+          icon: "🏔️",
+          points: { saas: 3, formation: 1, content: 1 },
+        },
+      ],
+    },
+    {
+      id: 24,
+      text: "Si l'argent n'était pas un problème, tu passerais ton temps à...",
+      options: [
+        {
+          text: "Créer du contenu et raconter des histoires",
+          icon: "🎬",
+          points: { content: 3, formation: 1 },
+        },
+        {
+          text: "Construire des systèmes et résoudre des problèmes",
+          icon: "⚙️",
+          points: { saas: 3 },
+        },
+        {
+          text: "Aider les gens à progresser",
+          icon: "🤲",
+          points: { formation: 3, service: 1 },
+        },
+        {
+          text: "Monter des projets et lancer des trucs",
+          icon: "🚀",
+          points: { ecommerce: 2, service: 2, saas: 1 },
+        },
+      ],
+    },
+    {
+      id: 25,
+      text: "Dans tes relations, on te reproche parfois de...",
+      options: [
+        {
+          text: "Trop vouloir tout contrôler",
+          icon: "🎛️",
+          points: { saas: 2, ecommerce: 2 },
+        },
+        {
+          text: "Être trop dans ta bulle créative",
+          icon: "🫧",
+          points: { content: 3, saas: 1 },
+        },
+        {
+          text: "Trop t'investir pour les autres",
+          icon: "💛",
+          points: { service: 2, formation: 2, content: 1 },
+        },
+        {
+          text: "Être impatient, toujours vouloir avancer",
+          icon: "⏩",
+          points: { ecommerce: 2, service: 2, saas: 1 },
+        },
+      ],
+    },
   ],
   results: {
     ecommerce: {

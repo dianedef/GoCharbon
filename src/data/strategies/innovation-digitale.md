@@ -8,7 +8,7 @@ tags:
 description: Découvre les stratégies d'innovation qui ont permis à plus de 2500 entreprises
   de multiplier par 3 leur croissance et de devenir leaders sur leur marché en 2024
 pubDate: '2024-03-25'
-imgUrl: ../../../assets/astro.jpeg
+imgUrl: ../../assets/astro.jpeg
 ---
 
 # Innovation et Business Digital : Les Stratégies Secrètes des Entreprises qui Cartonnent en 2024
