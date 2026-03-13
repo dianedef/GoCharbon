@@ -125,7 +125,7 @@ import {
 } from '../../gamification/pathProgress';
 import { setTaskCompleted } from '../../gamification/xp';
 
-type ProfileKey = 'ecommerce' | 'saas' | 'content' | 'service' | 'formation';
+type ProfileKey = 'ecommerce' | 'saas' | 'content' | 'service' | 'formation' | 'livecommerce';
 type ProfileScores = Record<ProfileKey, number>;
 
 interface BizProfileData {
@@ -193,6 +193,7 @@ const emptyQuizData: QuizPayload = {
     content: { title: 'Contenu', icon: '🎥', description: '', strengths: [] },
     service: { title: 'Service', icon: '🤝', description: '', strengths: [] },
     formation: { title: 'Formation', icon: '📚', description: '', strengths: [] },
+    livecommerce: { title: 'Live Commerce', icon: '🎬', description: '', strengths: [] },
   },
 };
 
@@ -210,8 +211,9 @@ const scores = reactive({
   content: 0,
   service: 0,
   formation: 0,
+  livecommerce: 0,
 });
-const profileKeys: ProfileKey[] = ['ecommerce', 'saas', 'content', 'service', 'formation'];
+const profileKeys: ProfileKey[] = ['ecommerce', 'saas', 'content', 'service', 'formation', 'livecommerce'];
 const activeQuizData = computed<QuizPayload>(() => props.data ?? emptyQuizData);
 
 const currentQuestion = computed(() => activeQuizData.value.questions[currentIndex.value]);

@@ -183,6 +183,7 @@ Tu peux vendre des produits physiques (que tu stockes ou que tu fais fabriquer),
 - Lance avec 5-10 produits max (pas 100)
 - Budget pub test : 500€ sur Meta Ads
 - Poste sur réseaux sociaux tous les jours
+- Teste le [live commerce](/biz/e-commerce/live-commerce) pour booster tes conversions (enchères en direct, présentations produit)
 - Analyse ce qui marche (Google Analytics)
 - Améliore en continu (A/B test, optimisation)
 
@@ -205,6 +206,7 @@ Tu peux vendre des produits physiques (que tu stockes ou que tu fais fabriquer),
 
 ## Alternatives proches
 
+- **[Live Commerce](/biz/e-commerce/live-commerce)** - Vends en direct vidéo (Whatnot, TikTok Shop). Taux de conversion 3-5x supérieurs, budget de démarrage minimal (50-100€). Le canal e-commerce qui explose le plus en 2026.
 - **Dropshipping** - Si tu n'as pas de capital pour le stock
 - **Print-on-demand** - Si tu es créatif et veux 0 stock
 - **Affiliation** - Si tu veux vendre sans gérer de produits

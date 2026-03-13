@@ -23,6 +23,7 @@ export const parcoursSlugById: Record<string, string> = {
   freelance: 'freelance',
   infoproduits: 'infoproduits',
   'lead-generation': 'generation-leads',
+  livecommerce: 'live-commerce',
   newsletter: 'newsletter',
   'notion-expert': 'expert-notion',
   'online-tutor': 'tuteur-en-ligne',

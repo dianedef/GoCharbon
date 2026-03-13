@@ -308,6 +308,7 @@ Tu n’as pas besoin d’être technique pour créer du contenu avec des outils 
 
 ## Alternatives proches
 
+- **[Live Commerce](/biz/e-commerce/live-commerce)** - Combine création de contenu et vente en direct. Si tu es à l'aise face caméra et que tu as des produits à vendre, le live selling explose en France (+427% en un an).
 - **YouTubeur** - Focus sur vidéos longues, YouTube uniquement
 - **Podcaster** - Audio only, audience fidèle
 - **Blogueur** - Contenu écrit, SEO long terme

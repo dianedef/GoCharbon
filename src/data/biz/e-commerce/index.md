@@ -152,7 +152,7 @@ L'e-commerce représente aujourd'hui une opportunité majeure pour les entrepren
 - Durabilité
 - Commerce unifié
 - Mobile commerce
-- Live shopping
+- [Live shopping / Live commerce](/biz/e-commerce/live-commerce)
 
 ## Prochaines étapes
 

@@ -142,7 +142,7 @@ Les plateformes de vente sont essentielles dans une stratégie de distribution m
 
 ### 1. Technologies
 - Social commerce
-- Live shopping
+- [Live shopping / Live commerce](/biz/e-commerce/live-commerce)
 - IA et personnalisation
 - M-commerce
 
