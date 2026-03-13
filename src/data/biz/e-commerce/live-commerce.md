@@ -168,15 +168,114 @@ Ce n'est pas du pocket money. C'est un vrai business.
 
 ---
 
-### Autres plateformes notables
+### Facebook Live — Le pionnier occidental
 
-| Plateforme | Spécialité | Public cible |
-|---|---|---|
-| **Sprii** | Multichannel retail, commerce intégré | Marques et retailers européens |
-| **Caast** | Solution live shopping pour sites e-commerce | Retailers français (plug sur ton propre site) |
-| **Instagram Live Shopping** | Lives shoppables sur Instagram | Marques mode/beauté, influenceurs |
-| **YouTube Shopping** | Lives + vidéos shoppables | [Créateurs YouTube](/contenu/youtube/index) avec audience établie |
-| **Shopify + apps** | Intégration live sur ta propre boutique | Marchands Shopify indépendants |
+**3 milliards d'utilisateurs, et des groupes d'achat/vente ultra-actifs.**
+
+Facebook est l'un des premiers réseaux occidentaux où le live selling s'est développé organiquement — via les groupes d'achat/vente et les pages pros. Pas de marketplace live dédiée comme Whatnot, mais une base d'utilisateurs gigantesque déjà habituée à acheter sur la plateforme (Marketplace + Boutiques Facebook).
+
+**Points forts :**
+- **Base installée colossale** — tes clients potentiels sont déjà là, surtout les 30-55 ans
+- **Groupes d'achat/vente** — communautés locales et thématiques ultra-engagées
+- **Facebook Shops** intégré — vitrine produit + live = combo puissant
+- **Publicité ciblée** — tu peux booster tes lives avec les Meta Ads
+- Gratuit (pas de commission plateforme sur les ventes en direct)
+
+**Points faibles :**
+- Pas de système d'enchères ni de checkout natif pendant le live (les acheteurs commentent "vendu" puis tu gères manuellement, ou tu redirigés vers un lien)
+- Expérience live selling moins structurée que Whatnot ou TikTok Shop
+- Algorithme qui favorise moins les lives que TikTok
+- Audience plus âgée (moins de Gen Z)
+
+**Pour qui :** commerçants locaux, vendeurs avec une communauté Facebook existante, boutiques physiques qui veulent toucher leur zone de chalandise.
+
+---
+
+### Instagram Live Shopping — L'image et le lifestyle
+
+**L'écosystème Meta pour les marques visuelles.**
+
+Instagram combine les lives avec le shopping natif (tags produits, boutique intégrée). L'audience est plus jeune que Facebook et très réceptive aux marques lifestyle.
+
+**Points forts :**
+- Tags produits cliquables pendant le live
+- Boutique Instagram intégrée (checkout natif dans certains pays)
+- Fort potentiel d'engagement visuel (stories, reels, live = triptyque)
+- Collaboration facile avec des influenceurs (co-live)
+
+**Points faibles :**
+- Portée organique en baisse constante (Meta pousse les Ads)
+- Pas de format enchère
+- Moins de trafic live spontané que TikTok
+
+**Pour qui :** marques mode, beauté, déco, food — tout ce qui est "instagrammable". Influenceurs avec une audience Instagram établie.
+
+---
+
+### YouTube Shopping — Le long terme
+
+**La plateforme vidéo n°1, désormais avec shopping intégré.**
+
+YouTube Shopping permet aux créateurs de tagger des produits dans leurs vidéos, shorts et lives. L'avantage unique : le contenu reste en ligne et continue de vendre longtemps après le live (contrairement à Whatnot ou TikTok où le live disparaît).
+
+**Points forts :**
+- **Replays qui vendent** — ton live reste accessible et continue de générer des ventes des mois après
+- Intégration Shopify et Google Merchant Center
+- Audience à forte intention (les gens cherchent des reviews et comparatifs avant d'acheter)
+- Programme d'affiliation YouTube Shopping intégré
+- Monétisation mixte : pub + shopping + membres + super chats
+
+**Points faibles :**
+- Seuil d'entrée (1 000 abonnés + 4 000h de visionnage pour le YouTube Partner Program)
+- Le live shopping est encore secondaire dans les habitudes YouTube
+- Moins d'interaction en temps réel que Whatnot ou TikTok
+
+**Pour qui :** [créateurs YouTube](/contenu/youtube/index) avec une audience établie, marques qui veulent du contenu evergreen qui vend sur la durée.
+
+---
+
+### Les plateformes chinoises — Les précurseurs
+
+Le live commerce est né en Chine en 2016. Les plateformes asiatiques restent les plus avancées et les plus massives :
+
+- **Taobao Live** (Alibaba) — Le pionnier. Des centaines de milliards de $ de GMV. Des top sellers qui font des millions en une seule session.
+- **Douyin** (TikTok version chinoise) — Le plus gros acteur, intégration e-commerce native depuis des années.
+- **Kuaishou** — Concurrent de Douyin, très fort en Chine rurale et sur les communautés de niche.
+- **WeChat Channels** — Live shopping intégré dans l'app de messagerie de 1,3 milliard d'utilisateurs.
+
+En Asie du Sud-Est, jusqu'à **20% du e-commerce** passe déjà par le live. C'est le futur vers lequel l'Europe se dirige.
+
+---
+
+### Solutions B2B — Le live sur ton propre site
+
+Tu ne veux pas dépendre d'une marketplace ? Ces solutions permettent d'intégrer le live shopping directement sur ton site e-commerce. Tu gardes le contrôle total de tes données, ta marque et tes clients.
+
+| Plateforme | Origine | Spécialité | Intégrations |
+|---|---|---|---|
+| **[Bambuser](https://bambuser.com)** | Suède | Pionnier du live video commerce. One-to-many et one-to-one. Analytics post-show, replays interactifs. | Shopify, Salesforce, SAP, BigCommerce |
+| **[Caast](https://caast.tv)** | France | Solution live shopping française. Plug-and-play sur sites existants, replay shoppable, analytics. | Shopify, PrestaShop, Magento, WooCommerce |
+| **[Firework](https://firework.com)** | USA | Shoppable video + live shopping. Format short-video à la TikTok intégré sur ton site. | Shopify, BigCommerce, Salesforce, custom |
+| **[Livescale](https://livescale.tv)** | Canada/France | Plateforme tout-en-un : stratégie, production, talents. Multilingue. 6 ans d'expérience. | Shopify, e-commerce custom |
+| **[Sprii](https://fr.sprii.io)** | Danemark | Multichannel : diffuse sur ton site + Facebook + Instagram simultanément. Orienté retail. | Shopify, WooCommerce, custom |
+
+**L'avantage clé :** pas de commission plateforme sur les ventes (tu paies un abonnement fixe), tu gardes 100% de tes données clients, et tu construis une expérience brandée. L'inconvénient : tu dois apporter ton propre trafic.
+
+**Pour qui :** marques établies, retailers avec un site existant, entreprises qui veulent contrôler l'expérience client de bout en bout.
+
+---
+
+### Comparatif rapide des plateformes
+
+| Plateforme | Commission | Audience | Enchères | Checkout natif | Replay shoppable | Idéal pour |
+|---|---|---|---|---|---|---|
+| **Whatnot** | % vente + paiement | Fournie | ✅ | ✅ | ❌ | Collectibles, revendeurs |
+| **TikTok Shop** | 9% (EU) | Fournie (algo) | ❌ | ✅ | ✅ (vidéos) | Beauté, mode, tendance |
+| **Amazon Live** | Via Amazon Seller | Fournie (intent) | ❌ | ✅ | ✅ | Vendeurs Amazon |
+| **Facebook Live** | Gratuit | Fournie (groupes) | ❌ | ❌ | ✅ | Commerçants locaux |
+| **Instagram Live** | Gratuit | Fournie | ❌ | Partiel | ❌ | Marques lifestyle |
+| **YouTube Shopping** | Gratuit | Fournie | ❌ | ✅ | ✅ | Créateurs, evergreen |
+| **Bambuser/Caast/etc.** | Abonnement fixe | À apporter | ❌ | ✅ | ✅ | Marques, retailers |
 
 ---
 

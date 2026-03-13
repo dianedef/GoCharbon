@@ -4,10 +4,12 @@
 
 ### Added
 - Profil business **Live Commerce** — 6ème profil dans le quiz d'orientation (`livecommerce`)
-- Article éducatif complet `biz/e-commerce/live-commerce.md` — chiffres marché ($22 Mds NA+EU), plateformes (Whatnot, TikTok Shop, Amazon Live), modèle économique, guide pratique, tendances 2026
+- Article éducatif complet `biz/e-commerce/live-commerce.md` — chiffres marché ($22 Mds NA+EU), 8+ plateformes détaillées, modèle économique, guide pratique, tendances 2026
 - Page profil quiz `biz/profils/livecommerce.md` — description, prérequis, personnalité idéale, étapes, exemples
 - Scoring `livecommerce` dans quiz avancé (25 questions) et quiz rapide (8 questions)
 - Liens internes croisés depuis live-commerce.md vers ~15 sections du site
+- Page `/progression` avec composant `GamificationBar.vue`
+- Composant `ParcoursCallToAction.astro`
 
 ### Changed
 - Quiz Vue component (`Quiz.vue`) — support 6 profils (ajout type `livecommerce` dans ProfileKey, scores, emptyQuizData)
@@ -17,6 +19,10 @@
 - Profil content-creator (`biz/profils/content-creator.md`) — ajout live commerce en alternative
 - `biz/e-commerce/plateformes.md` et `index.md` — liens vers live-commerce.md
 - Description résultat e-commerce dans quiz — clarification "derrière l'écran" vs live commerce
+- `live-commerce.md` enrichi avec couverture plateformes étendue : Facebook Live, Instagram, YouTube Shopping, plateformes chinoises (Taobao/Douyin/Kuaishou), solutions B2B (Bambuser, Caast, Firework, Livescale, Sprii) + tableau comparatif
+- Navigation : « Parcours » en première position, ajout lien « Progression »
+- Refonte page d'accueil (`index.astro`)
+- `Post.astro` — améliorations layout articles
 
 ## 2026-03-10
 

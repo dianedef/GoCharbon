@@ -25,6 +25,12 @@ const props = defineProps<{
 
 const toastBadge = ref<Badge | null>(null)
 const mounted = ref(false)
+const showOnboarding = ref(false)
+
+function dismissOnboarding() {
+  showOnboarding.value = false
+  try { localStorage.setItem('gamification_charbon_onboarded', '1') } catch {}
+}
 
 const config = createCharbonConfig()
 config.onBadgeEarned = (badge: Badge) => {
@@ -63,6 +69,11 @@ function refreshXp() {
 
 onMounted(() => {
   mounted.value = true
+  try {
+    if (!localStorage.getItem('gamification_charbon_onboarded')) {
+      showOnboarding.value = true
+    }
+  } catch {}
   void hydrateGamificationFromConvex().finally(() => {
     refreshPathStats()
     refreshXp()
@@ -144,6 +155,11 @@ watch(
       <div class="read-section">
         <span class="read-count">{{ reader.totalRead.value }} lu{{ reader.totalRead.value > 1 ? 's' : '' }}</span>
       </div>
+    </div>
+
+    <div v-if="showOnboarding" class="onboarding-tooltip">
+      <p>Tes stats de progression GoCharbon. Lis des articles, complete des parcours, debloque des badges !</p>
+      <button class="onboarding-dismiss" @click="dismissOnboarding">OK, compris</button>
     </div>
 
     <Teleport to="body">
@@ -285,6 +301,61 @@ watch(
 
 .toast-text span {
   font-size: 1rem;
+}
+
+.onboarding-tooltip {
+  position: absolute;
+  bottom: calc(100% + 0.75rem);
+  right: 0;
+  width: 280px;
+  padding: 0.75rem 1rem;
+  border: 3px solid var(--brand-black);
+  border-radius: 0.5rem;
+  background: var(--brand-cream);
+  box-shadow: 4px 4px 0 var(--brand-black);
+  font-family: 'Sanchez', serif;
+  font-size: 0.85rem;
+  color: var(--brand-black);
+  animation: tooltip-pop 0.3s ease-out;
+}
+
+:global(.dark) .onboarding-tooltip {
+  background: var(--brand-ink);
+  border-color: var(--brand-cream);
+  box-shadow: 4px 4px 0 var(--brand-cream);
+  color: var(--brand-cream);
+}
+
+.onboarding-tooltip p {
+  margin: 0 0 0.5rem;
+  line-height: 1.4;
+}
+
+.onboarding-dismiss {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border: 2px solid var(--brand-black);
+  background: var(--brand-yellow);
+  font-family: 'Sanchez', serif;
+  font-weight: 700;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: transform 0.15s;
+}
+
+.onboarding-dismiss:hover {
+  transform: translate(1px, 1px);
+}
+
+:global(.dark) .onboarding-dismiss {
+  border-color: var(--brand-cream);
+  background: var(--brand-charcoal);
+  color: var(--brand-cream);
+}
+
+@keyframes tooltip-pop {
+  from { transform: translateY(8px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
 }
 
 @keyframes toast-slide-in {

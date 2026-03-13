@@ -2,17 +2,25 @@
 import Layout from "../layouts/Default.astro";
 import Button from "../components/components/Button.astro";
 import PostSummaryCard from "../components/components/PostSummaryCard.astro";
+import ParcoursCallToAction from "../components/ParcoursCallToAction.astro";
 import { getCollection } from "astro:content";
 import { filterBuildVisiblePosts } from "../utils/build-posts";
+import { learningPaths } from "../data/parcoursData";
+import { getParcoursSlug } from "../data/parcoursSlugs";
 
 const recentPosts = filterBuildVisiblePosts(await getCollection("posts"))
 	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
 	.slice(0, 3);
+
+const popularPathIds = ['freelance', 'ecommerce', 'content-creator', 'formation'];
+const popularPaths = popularPathIds
+	.map(id => learningPaths.find(p => p.id === id))
+	.filter((p): p is NonNullable<typeof p> => p != null);
 ---
 
-<Layout 
+<Layout
 	title="GOCHARBON - On Va au Charbon"
-	description="Découvre comment créer ton business en ligne et devenir indépendant financièrement. Guides, outils et stratégies pour réussir sur internet."
+	description="Lance ton business en ligne avec des parcours interactifs, des checklists et de la gamification. 42 parcours gratuits pour entrepreneurs."
 	pageTitle="GOCHARBON"
 >
 	<main class="min-h-screen">
@@ -20,67 +28,110 @@ const recentPosts = filterBuildVisiblePosts(await getCollection("posts"))
 		<section class="hero-section bg-yellow-primary dark:bg-yellow-dark">
 			<div class="px-6 py-16 md:py-24 max-w-6xl mx-auto text-center">
 				<h1 class="text-4xl md:text-6xl font-bold mb-6 poppins text-black dark:text-white">
-					Tu Veux Gagner ta Vie sur Internet, Mais tu ne Sais pas par Où Commencer ?
+					Lance Ton Business en Ligne avec un Plan d'Action Interactif
 				</h1>
 				<p class="text-xl md:text-2xl mb-8 max-w-3xl mx-auto poppins text-black dark:text-white">
-					Je comprends. Tu scrolles Instagram en voyant des gens vivre de leur laptop, tu te dis "pourquoi pas moi ?". 
-					Mais entre les faux gurus qui te promettent 10k€/mois en 30 jours et les termes techniques incompréhensibles (SEO, funnel, automation...), 
-					tu te sens perdu. La bonne nouvelle ? <strong>Tu es au bon endroit.</strong>
+					Tu scrolles des guides, tu lis des articles, mais tu ne passes jamais a l'action ?
+					Normal — un PDF de 47 pages ne t'a jamais fait lancer un business.
+					<strong>GoCharbon te donne un vrai plan d'action interactif :</strong> des checklists ou tu coches tes etapes,
+					un systeme de XP et de badges pour rester motive, et 42 parcours personnalises selon ton profil.
 				</p>
 				<p class="text-lg md:text-xl mb-8 max-w-3xl mx-auto poppins text-black dark:text-white">
-					Sur GoCharbon, pas de bullshit. Juste des explications claires, des étapes concrètes et des stratégies testées pour construire 
-					ton business en ligne — même si tu pars de zéro aujourd'hui.
+					Pas de bullshit, pas de PDF. Juste des etapes concretes que tu coches au fur et a mesure — et ta progression est sauvegardee.
 				</p>
 				<div class="flex flex-col md:flex-row gap-4 justify-center items-center">
 					<Button href="/quiz" color="var(--brand-yellow)" variant="hero">
-						🎯 Découvre Ton Business Idéal
+						Trouve Ton Parcours (Quiz 2 min)
 					</Button>
-					<Button href="#guide-outils-francais-gratuits" color="var(--brand-orange)" variant="hero">
-						📧 Reçois le Guide des Outils Français Gratuits
+					<Button href="/parcours" color="var(--brand-orange)" variant="hero">
+						Voir les 42 Parcours
 					</Button>
 				</div>
 			</div>
 		</section>
 
-		<!-- Value Proposition Section - BLANC CASSÉ / GRIS FONCÉ -->
+		<!-- Comment Ca Marche - 4 steps -->
+		<section class="px-6 py-16 bg-purple-light dark:bg-purple-dark">
+			<div class="max-w-6xl mx-auto">
+				<h2 class="text-3xl md:text-5xl font-bold text-center mb-12 poppins text-black dark:text-white">
+					Comment Ca Marche ?
+				</h2>
+				<div class="grid md:grid-cols-4 gap-6">
+					<div class="p-6 bg-white-soft dark:bg-black border-3 border-black dark:border-purple-bright text-center">
+						<span class="text-5xl block mb-4">1</span>
+						<h3 class="text-xl font-bold mb-2 poppins text-black dark:text-white">Fais le Quiz</h3>
+						<p class="text-lg text-black dark:text-white">
+							2 minutes pour identifier le business qui colle a ton profil, tes competences et ton temps disponible.
+						</p>
+					</div>
+					<div class="p-6 bg-white-soft dark:bg-black border-3 border-black dark:border-purple-bright text-center">
+						<span class="text-5xl block mb-4">2</span>
+						<h3 class="text-xl font-bold mb-2 poppins text-black dark:text-white">Recois Ton Parcours</h3>
+						<p class="text-lg text-black dark:text-white">
+							42 parcours, 3 modules par parcours, ~13 etapes par parcours. Tu sais exactement quoi faire et dans quel ordre.
+						</p>
+					</div>
+					<div class="p-6 bg-white-soft dark:bg-black border-3 border-black dark:border-purple-bright text-center">
+						<span class="text-5xl block mb-4">3</span>
+						<h3 class="text-xl font-bold mb-2 poppins text-black dark:text-white">Coche Tes Etapes</h3>
+						<p class="text-lg text-black dark:text-white">
+							Chaque etape cochee te rapporte 20 a 40 XP. Ta progression est sauvegardee automatiquement.
+						</p>
+					</div>
+					<div class="p-6 bg-white-soft dark:bg-black border-3 border-black dark:border-purple-bright text-center">
+						<span class="text-5xl block mb-4">4</span>
+						<h3 class="text-xl font-bold mb-2 poppins text-black dark:text-white">Debloque des Badges</h3>
+						<p class="text-lg text-black dark:text-white">
+							15 badges a debloquer, des series de lecture, des niveaux. Tu vois ta progression en temps reel.
+						</p>
+					</div>
+				</div>
+				<div class="text-center mt-8">
+					<Button href="/quiz" color="var(--brand-yellow)">
+						Commencer Maintenant
+					</Button>
+				</div>
+			</div>
+		</section>
+
+		<!-- Value Proposition Section - Checklist Differentiators -->
 		<section class="px-6 py-16 bg-white-soft dark:bg-black">
 			<div class="max-w-6xl mx-auto">
 				<h2 class="text-3xl md:text-5xl font-bold text-center mb-6 poppins text-black dark:text-white">
-					Pourquoi GoCharbon est Différent ?
+					Pourquoi GoCharbon est Different ?
 				</h2>
 				<p class="text-xl md:text-2xl text-center mb-12 max-w-3xl mx-auto text-black dark:text-white">
-					Parce qu'on se rappelle ce que c'est d'être débutant. On t'explique tout comme si tu avais 12 ans, 
-					sans te prendre la tête avec du jargon inutile.
+					D'autres te vendent des PDFs. Nous, on te donne un systeme interactif complet — gratuitement.
 				</p>
 				<div class="grid md:grid-cols-3 gap-8">
 					<div class="p-6 bg-white-soft dark:bg-purple-dark border-3 border-black dark:border-purple-bright ">
 						<h3 class="text-2xl font-bold mb-3 poppins text-black dark:text-white flex items-center gap-3">
-							<span class="text-4xl">🚀</span>
-							Des Guides Étape par Étape
+							<span class="text-4xl">&#x2611;</span>
+							Checklists Interactives, Pas des PDFs
 						</h3>
 						<p class="text-lg text-black dark:text-white">
-							Pas de concepts flous. On t'explique exactement quoi faire, dans quel ordre, et pourquoi. 
-							Du choix de ta niche à ta première vente, tu sais toujours où tu en es et quelle est la prochaine étape.
+							Coche tes etapes directement sur le site. Ta progression est sauvegardee automatiquement —
+							tu reprends la ou tu en etais a chaque visite. Fini les guides qu'on telecharge et qu'on oublie.
 						</p>
 					</div>
 					<div class="p-6 bg-white-soft dark:bg-purple-dark border-3 border-black dark:border-purple-bright ">
 						<h3 class="text-2xl font-bold mb-3 poppins text-black dark:text-white flex items-center gap-3">
-							<span class="text-4xl">🛠️</span>
-							Les Bons Outils, Pas les Plus Chers
+							<span class="text-4xl">&#x2B50;</span>
+							Gamification Integree
 						</h3>
 						<p class="text-lg text-black dark:text-white">
-							Tu n'as pas besoin de claquer 500€/mois en abonnements pour démarrer. On te montre les outils gratuits 
-							ou abordables qui font vraiment le job, et comment les utiliser concrètement pour gagner du temps.
+							Gagne des XP a chaque etape, debloque 15 badges, maintiens des series de lecture.
+							Un systeme de niveaux qui te motive a avancer — pas a scroller.
 						</p>
 					</div>
 					<div class="p-6 bg-white-soft dark:bg-purple-dark border-3 border-black dark:border-purple-bright ">
 						<h3 class="text-2xl font-bold mb-3 poppins text-black dark:text-white flex items-center gap-3">
-							<span class="text-4xl">💡</span>
-							Des Stratégies qui Marchent Vraiment
+							<span class="text-4xl">&#x1F381;</span>
+							42 Parcours Personnalises, 100% Gratuit
 						</h3>
 						<p class="text-lg text-black dark:text-white">
-							Pas de copier-coller d'une méthode qui marchait en 2015. On teste tout avant de te le recommander. 
-							Si ça marche en 2026, tu le sauras. Si c'est de la merde, on te le dira aussi.
+							D'autres facturent 179 EUR/an pour des checklists basiques. Ici, tu as 42 parcours complets
+							avec quiz de personnalisation, modules structures et suivi de progression — sans payer un centime.
 						</p>
 					</div>
 				</div>
@@ -191,6 +242,37 @@ const recentPosts = filterBuildVisiblePosts(await getCollection("posts"))
 			</div>
 		</section>
 
+		<!-- Parcours Populaires Section -->
+		<section class="px-6 py-16 bg-yellow-soft dark:bg-purple-darker">
+			<div class="max-w-6xl mx-auto">
+				<h2 class="text-3xl md:text-5xl font-bold text-center mb-4 poppins text-black dark:text-white">
+					Parcours Populaires
+				</h2>
+				<p class="text-xl md:text-2xl text-center mb-10 max-w-3xl mx-auto text-black dark:text-white">
+					Les 4 parcours les plus suivis par les entrepreneurs GoCharbon.
+				</p>
+				<div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+					{popularPaths.map((path) => (
+						<a href={`/parcours/${getParcoursSlug(path.id)}`} class="popular-path-card p-5 bg-white-soft dark:bg-black border-3 border-black dark:border-purple-bright hover:shadow-lg transition-all block">
+							<p class="text-sm font-bold uppercase tracking-wide mb-1 poppins text-black dark:text-white opacity-70">{path.category}</p>
+							<h3 class="text-xl font-bold mb-2 poppins text-black dark:text-white">{path.profileTitle}</h3>
+							<p class="text-base mb-3 text-black dark:text-white">{path.outcome}</p>
+							<div class="flex gap-3 text-sm text-black dark:text-white opacity-80 mb-3">
+								<span>{path.modules.length} modules</span>
+								<span>{path.estimatedDuration}</span>
+							</div>
+							<span class="font-bold text-black dark:text-white poppins">Voir le parcours &#x2192;</span>
+						</a>
+					))}
+				</div>
+				<div class="text-center mt-8">
+					<Button href="/parcours" color="var(--brand-yellow)">
+						Voir les 42 Parcours
+					</Button>
+				</div>
+			</div>
+		</section>
+
 		<!-- Blog Preview Section - BLANC CASSÉ / GRIS FONCÉ -->
 		<section class="px-6 py-16 bg-white-soft dark:bg-black">
 			<div class="max-w-6xl mx-auto">
@@ -204,7 +286,7 @@ const recentPosts = filterBuildVisiblePosts(await getCollection("posts"))
 						</p>
 					</div>
 					<Button href="/blog" color="var(--brand-copper)">
-						Voir tous les Articles →
+						Voir tous les Articles &#x2192;
 					</Button>
 				</div>
 				<ul class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -216,6 +298,9 @@ const recentPosts = filterBuildVisiblePosts(await getCollection("posts"))
 				</ul>
 			</div>
 		</section>
+
+		<!-- Parcours CTA Banner -->
+		<ParcoursCallToAction variant="full" />
 
 		<!-- French SaaS Section - JAUNE DORÉ / JAUNE FONCÉ -->
 		<section class="bg-yellow-gold dark:bg-yellow-dark">
