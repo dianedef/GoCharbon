@@ -3,6 +3,7 @@ import Layout from "../layouts/Default.astro";
 import Button from "../components/components/Button.astro";
 import PostSummaryCard from "../components/components/PostSummaryCard.astro";
 import ParcoursCallToAction from "../components/ParcoursCallToAction.astro";
+import SentenceQuiz from "../components/vue/SentenceQuiz.vue";
 import { getCollection } from "astro:content";
 import { filterBuildVisiblePosts } from "../utils/build-posts";
 import { learningPaths } from "../data/parcoursData";
@@ -36,18 +37,20 @@ const popularPaths = popularPathIds
 					<strong>GoCharbon te donne un vrai plan d'action interactif :</strong> des checklists ou tu coches tes etapes,
 					un systeme de XP et de badges pour rester motive, et 42 parcours personnalises selon ton profil.
 				</p>
-				<p class="text-lg md:text-xl mb-8 max-w-3xl mx-auto poppins text-black dark:text-white">
-					Pas de bullshit, pas de PDF. Juste des etapes concretes que tu coches au fur et a mesure — et ta progression est sauvegardee.
-				</p>
-				<div class="flex flex-col md:flex-row gap-4 justify-center items-center">
-					<Button href="/quiz" color="var(--brand-yellow)" variant="hero">
-						Trouve Ton Parcours (Quiz 2 min)
+				<div class="max-w-2xl mx-auto mb-8">
+					<SentenceQuiz client:visible />
+				</div>
+				<div class="flex flex-row gap-4 justify-center items-center">
+					<Button href="/quiz-rapide" color="var(--brand-yellow)" variant="hero">
+						Quiz Rapide
 					</Button>
-					<Button href="/parcours" color="var(--brand-orange)" variant="hero">
-						Voir les 42 Parcours
+					<Button href="/quiz-avance" color="var(--brand-orange)" variant="hero">
+						Quiz Avancé
 					</Button>
 				</div>
-			</div>
+				<p class="text-lg md:text-xl mt-6 max-w-3xl mx-auto poppins text-black dark:text-white">
+					Pas de bullshit, pas de PDF. Juste des etapes concretes que tu coches au fur et a mesure — et ta progression est sauvegardee.
+				</p>
 		</section>
 
 		<!-- Comment Ca Marche - 4 steps -->
@@ -179,27 +182,6 @@ const popularPaths = popularPathIds
 				</a>
 			</div>
 		</div>
-		</section>
-
-		<!-- Quiz CTA Section - JAUNE DOUX / VIOLET FONCÉ -->
-		<section id="quiz" class="px-6 py-16 bg-yellow-soft dark:bg-purple-darker">
-			<div class="max-w-4xl mx-auto text-center">
-				<h2 class="text-3xl md:text-5xl font-bold mb-6 poppins text-black dark:text-white">
-					🎯 Pas Sûr de Quel Business Lancer ?
-				</h2>
-				<p class="text-xl md:text-2xl mb-8 text-black dark:text-white">
-					C'est normal d'hésiter. Entre le e-commerce, le freelancing, les infoproduits ou le SaaS, 
-					y'a de quoi se perdre. Notre quiz de 2 minutes analyse ton profil (compétences, temps disponible, budget) 
-					et te recommande le modèle qui a le plus de chances de marcher pour toi. 
-					<strong>C'est gratuit et ça peut te faire gagner 6 mois d'essais-erreurs.</strong>
-				</p>
-				<Button href="/quiz" color="var(--brand-yellow)">
-					Faire le Quiz Maintenant (2 min)
-				</Button>
-				<p class="text-sm mt-4 text-black dark:text-white">
-					Déjà plus de 2000+ entrepreneurs ont trouvé leur voie grâce à ce quiz
-				</p>
-			</div>
 		</section>
 
 		<!-- Guide Outils Français Gratuits Section - VIOLET PÂLE / VIOLET PLUS FONCÉ -->

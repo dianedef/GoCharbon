@@ -159,7 +159,8 @@ Les francophones qui veulent lancer un business en ligne font face à 3 murs :
 - Newsletter à 2000+ abonnés
 - Trafic organique : 20K visites/mois
 - Premiers revenus d'affiliation significatifs (SaaS francophones, lifetime deal platforms)
-- Quiz finalisé et fonctionnel comme outil de lead generation
+- Quiz finalisé et fonctionnel comme outil de lead generation (6 profils dont live commerce)
+- Page progression/gamification opérationnelle
 
 ### Moyen terme (12-18 mois)
 - Devenir la référence francophone sur les lifetime deals et alternatives SaaS
@@ -215,9 +216,10 @@ CONSIDÉRATION (Comparatifs + Guides)
    Articles avec pros/cons, vrais prix, avis honnêtes
          |
          v
-ENGAGEMENT (Quiz + Parcours Courts)
-   Quiz "Quel business en ligne est fait pour toi ?"
+ENGAGEMENT (Quiz + Parcours Courts + Gamification)
+   Quiz "Quel business en ligne est fait pour toi ?" (6 profils : e-commerce, SaaS, freelance, content creator, e-learning, live commerce)
    Parcours d'activation (quelques heures/jours max) + premiers livrables
+   Page /progression avec suivi gamifié
          |
          v
 ORIENTATION (Affiliation Contextuelle)
@@ -238,9 +240,11 @@ Ce qui nous rend **impossibles à copier** :
 
 1. **Le ton** — Cash, honnête, anti-bullshit. On documente nos échecs (16K€ perdus en formations inutiles). Personne ne fait ça dans l'espace francophone.
 
-2. **French-first** — On recommande toujours l'alternative française en premier. On explique pourquoi utiliser Brevo plutôt que Mailchimp, pas l'inverse.
+2. **French-first, pragmatique** — On recommande toujours l'alternative française en premier quand elle existe. On explique pourquoi utiliser Brevo plutôt que Mailchimp, pas l'inverse. Mais on inclut aussi les outils étrangers avec version FR de qualité (en précisant leur origine), parce que le lecteur mérite une solution même quand il n'y a pas d'équivalent FR.
 
 3. **L'autorité par la vulnérabilité** — "J'ai échoué, voilà pourquoi" est plus puissant que "j'ai réussi, voilà comment". Ça construit une confiance que le marketing classique ne peut pas acheter.
+
+4. **Inclusion pragmatique** — On ne se limite pas aux outils français par dogmatisme. Si un outil étranger a une excellente version FR et qu'il n'y a pas d'équivalent national, on le référence (en précisant son origine). Le lecteur passe avant l'idéologie.
 
 5. **Transparence totale sur la monétisation** — Chaque lien affilié est signalé. Chaque limite est mentionnée. Ça fidélise.
 
@@ -249,7 +253,8 @@ Ce qui nous rend **impossibles à copier** :
 ## Valeurs Non Négociables
 
 - **Tutoiement** partout, toujours
-- **Francophone first** : présenter l'alternative FR/EU avant l'US
+- **Francophone first** : présenter l'alternative FR/EU avant l'US quand elle existe
+- **Inclusion pragmatique des outils étrangers** : on inclut les outils non-français (GoCardless, Kahoot, Scalapay, Smartsheet...) tant qu'ils ont une version française de qualité. On précise dans le contenu qu'ils ne sont pas français. S'il n'y a pas d'alternative FR, mieux vaut référencer un outil étranger de qualité que laisser le lecteur sans solution.
 - **Anti-bullshit** : pas de promesses irréalistes, pas de "guru vibes"
 - **Transparence** : signaler les affiliations, avouer les limites
 - **Honnêteté de périmètre** : on aide à démarrer vite, on n'usurpe pas l'expertise métier profonde
@@ -330,5 +335,5 @@ Le focus n'est plus la quantité brute, mais la capacité du lecteur à applique
 
 ---
 
-*Dernière mise à jour : 3 mars 2026*
+*Dernière mise à jour : 14 mars 2026*
 *Ce document évolue avec le business. Les objectifs sont recalibrés chaque trimestre.*

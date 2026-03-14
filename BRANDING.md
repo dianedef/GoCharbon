@@ -30,10 +30,11 @@ Aider les francophones à créer, lancer et développer leur business en ligne, 
 
 Nous sommes les seuls à combiner :
 1. ✅ Pédagogie ultra-accessible (expliqué comme si tu avais 12 ans)
-2. ✅ Focus SaaS & outils francophones
-3. ✅ Angle patriote/souveraineté numérique
+2. ✅ Focus SaaS francophones + outils étrangers bien traduits en FR (quand pas d'alternative)
+3. ✅ Angle patriote/souveraineté numérique (sans dogmatisme)
 4. ✅ Ton cash, direct, anti-bullshit
 5. ✅ Stratégies testées et validées (pas de théorie)
+6. ✅ Parcours d'activation courts avec quiz interactif (6 profils business)
 
 ---
 
@@ -313,8 +314,9 @@ Grid gap            : 6-8 (24-32px)
 /blog                       → Liste articles + filtres tags
 /blog?tags=tech            → Blog filtré par tag
 /[...slug]                  → Articles individuels
-/quiz                       → Quiz business model (lead gen)
-/apps                       → Directory d'outils francophones
+/quiz                       → Quiz business model (lead gen, 6 profils dont live commerce)
+/progression                → Gamification & suivi de progression
+/apps                       → Directory d'outils francophones (et étrangers avec version FR)
 ```
 
 ### Navigation
@@ -474,13 +476,19 @@ Exemple :
 
 ### Nos Convictions Fortes
 
-#### 1. Pro-Francophonie Assumée
+#### 1. Pro-Francophonie Assumée (avec pragmatisme)
 **Position :** La France et la francophonie ont les talents et les outils pour concurrencer la Silicon Valley. Il faut arrêter le réflexe "US = meilleur" et soutenir activement l'écosystème local.
 
+**Règle d'inclusion des outils :**
+- **Français natif** : toujours présenté en premier, mis en avant
+- **Étranger avec version française de qualité** (GoCardless, Kahoot, Scalapay, Smartsheet...) : inclus, mais on précise clairement qu'il n'est pas français. On mentionne s'il existe une alternative FR équivalente.
+- **Pas d'alternative FR ?** Mieux vaut référencer un outil étranger de qualité que laisser le lecteur sans solution. On l'assume et on explique pourquoi on le recommande malgré tout.
+
 **Dans le contenu :**
-- Toujours présenter l'alternative francophone en premier
+- Toujours présenter l'alternative francophone en premier quand elle existe
 - Expliquer les avantages concrets (langue, prix, RGPD, support)
 - Mentionner l'impact économique et souveraineté
+- Pour les outils étrangers inclus : préciser l'origine, la qualité de la localisation FR, et s'il existe un équivalent français
 - Être transparent si pas d'alternative valable (et dire pourquoi)
 
 #### 2. Anti-GAFAM & Souveraineté Numérique
@@ -511,11 +519,12 @@ Exemple :
 - Bienveillance envers les débutants
 
 #### 5. Pragmatisme vs Idéologie
-**Position :** On préfère le francophone, mais si l'outil US est 10x meilleur, on le dira. Le but c'est que tu réussisses, pas de faire de la politique.
+**Position :** On préfère le francophone, mais si l'outil US est 10x meilleur ou qu'il n'existe pas d'alternative FR, on le dira. Le but c'est que tu réussisses, pas de faire de la politique. Un outil étranger bien traduit en français vaut mieux qu'aucune recommandation.
 
 **Dans le contenu :**
 - Comparer objectivement
 - Recommander le meilleur, avec contexte
+- Inclure les outils étrangers avec version FR de qualité (en précisant leur origine)
 - Expliquer les compromis
 - Pas de dogmatisme aveugle
 
@@ -552,7 +561,8 @@ Avant de publier un contenu, vérifier :
 - [ ] Liens externes (crédibilité)
 
 ### Valeurs
-- [ ] Alternative francophone présentée en premier
+- [ ] Alternative francophone présentée en premier (quand elle existe)
+- [ ] Outils étrangers inclus uniquement s'ils ont une version FR de qualité (origine précisée)
 - [ ] Impact économique/souveraineté mentionné si pertinent
 - [ ] Transparence sur sponsors/affiliation
 - [ ] Accessibilité : compréhensible par un débutant
@@ -631,8 +641,8 @@ Avant de publier un contenu, vérifier :
 
 ---
 
-**Dernière mise à jour :** 28 janvier 2026
-**Version :** 2.0
+**Dernière mise à jour :** 14 mars 2026
+**Version :** 2.1
 **Auteur :** Équipe Charbon
 
 ---
