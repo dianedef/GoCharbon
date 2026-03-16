@@ -1,6 +1,6 @@
 ---
 section: blog
-title: Experience Client
+title: Expérience Client
 author: Diane
 tags:
 - Marketing

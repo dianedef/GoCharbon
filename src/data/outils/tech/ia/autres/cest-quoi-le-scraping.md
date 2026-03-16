@@ -18,7 +18,7 @@ imgUrl: ../../../../../assets/astro.jpeg
 
 Le 1 mai 2024par Korben -
 
-1. [Securite-Vie-Privee](https://korben.info/categories/securite-vie-privee/ "Voir tous les articles de la catégorie Securite-Vie-Privee")
+1. [Sécurité-Vie-Privee](https://korben.info/categories/securite-vie-privee/ "Voir tous les articles de la catégorie Securite-Vie-Privee")
 2. [Cybersecurite](https://korben.info/categories/securite-vie-privee/cybersecurite/ "Voir tous les articles de la sous-catégorie Cybersecurite")
 
 J’sais pas si vous savez, mais dès que vous créez un fichier, il y a plein de données qui se retrouvent dedans, la plupart du temps à votre insu… Et ça fonctionne avec tout : Photos, documents, morceau de musique et j’en passe. Cela s’appelle des Métadonnées, ça n’a rien de nouveau mais c’est bien utile aux pentesteurs et autres experts OSINT pour mener à bien leurs enquêtes.
@@ -65,7 +65,7 @@ Pour en savoir plus sur MetaDetective et accéder à sa documentation complète,
 [JetFormBuilder: Duplicate & Import Form into WordPress | Crocoblock](https://jetformbuilder.com/features/duplicating-and-importing-form/)
 [Extract Craigslist search results page | Prebuilt Robots | Browse AI](https://www.browse.ai/t/extract-craigslist-search-results-page)
 ["Lancer une marketplace, une stratégie insensée..Ou raisonnée ?" - Eric Alessandri @Wizaplace - YouTube](https://www.youtube.com/watch?v=YwH0Leguemg)
-[Extract videos from a YouTube channel | Prebuilt Robots | Browse AI](https://www.browse.ai/t/extract-videos-youtube-channel)
+[Extract vidéos from a YouTube channel | Prebuilt Robots | Browse AI](https://www.browse.ai/t/extract-videos-youtube-channel)
 [LE KIT DU CRÉATEUR](https://www.lingenhsia.com/kit)
 [Extract a list of properties from Zillow | Prebuilt Robots | Browse AI](https://www.browse.ai/t/extract-list-properties-zillow)
 [Extract Amazon US search results | Prebuilt Robots | Browse AI](https://www.browse.ai/t/scrape-amazon-us-search-results)
@@ -75,7 +75,7 @@ Pour en savoir plus sur MetaDetective et accéder à sa documentation complète,
 [Sign In](https://tool.haloscan.com/sign-in)
 [Trouvez les mots-clés pour vos contenus SEO](https://ranxplorer.com/generateur-motscles)
 [Keyword Finder 🔍- Recherche et analyse de mots-clés | Ranktracker](https://www.ranktracker.com/fr/keyword-finder/)
-[Recherches de mots clés SEO pour messoinsholistiques.fr 🔬 (SEMRUSH) - YouTube](https://www.youtube.com/watch?v=69FOhac_xgk)
+[Recherches de mots clé́s SEO pour messoinsholistiques.fr 🔬 (SEMRUSH) - YouTube](https://www.youtube.com/watch?v=69FOhac_xgk)
 [Comment ajouter des mots-clés SEO à un site web ? — AccuRanker](https://www.accuranker.com/fr/apprendre-seo/debutant/comment-ajouter-des-mots-cles-seo-a-un-site-web/)
 [Home](https://tool.haloscan.com/user/home)
 [404 - Not found | Browse AI](https://www.browse.ai/404)
@@ -366,7 +366,7 @@ There are some tools that you'll be using fairly often when you're doing web aut
 - Crontab; You might often want some tasks to run periodically according to a time pattern; you can use crontab for that.
 - [tcpdump](https://www.tcpdump.org/): You can use tcpdump to compare the headers of two requests (the one that your automation script is sending, and the other that the actual browser is sending).
 - [cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape): If you're doing scraping, then you can use a tool like this past to get around Cloudflare's anti-bot checks.
-- [2captcha](https://2captcha.com/): Again, if you're doing scraping and struggling with captchas, you can use 2captcha. In my experience, I've found that websites require captcha only once in a while, so the cost is not that much.
+- [2captcha](https://2captcha.com/): Again, if you're doing scraping and struggling with captchas, you can use 2captcha. In my expérience, I've found that websites require captcha only once in a while, so the cost is not that much.
 
 ### **Python vs. Javascript**
 
@@ -461,15 +461,15 @@ A programming language has more to offer than just grammar and implementation. I
 
 Il y a un grand nombre d’outils disponsibles en effet. Mais je recommende surtout Octoparse, qui est gratuit et offre aussi un tutoriel complet et en français !!!Il y a un vidéo y inséré pour introduire comment scraper des informations sur google maps. j’espère sincèrement que cela vous aider !
 
-[https://deux.io/importxml-importhtml-importfeed-tutorial/?ref=news.deux.io](https://deux.io/importxml-importhtml-importfeed-tutorial/?ref=news.deux.io)
+[https://deux.io/importxml-importhtml-importfeed-tutorial/?ref=news.deux.io](__MASK_83__)
 
-[https://www.youtube.com/watch?v=0zc7jmAGF8Q](https://www.youtube.com/watch?v=0zc7jmAGF8Q)
+[https://www.youtube.com/watch?v=0zc7jmAGF8Q](__MASK_84__)
 
 ‣
 
-[https://www.youtube.com/watch?v=93qlMJjQpds](https://www.youtube.com/watch?v=93qlMJjQpds)
+[https://www.youtube.com/watch?v=93qlMJjQpds](__MASK_85__)
 
-[https://dataminer.io/help/start#](https://dataminer.io/help/start#)
+[https://dataminer.io/help/start#](__MASK_86__)
 
 ‣
 
@@ -493,15 +493,15 @@ Les seules données structurées que nous pouvons récupérer sur les sites Web 
     
     - Web Scraping Examples: How Businesses Use Web Scraping - YouTube
         
-        [https://www.youtube.com/watch?v=2XfA0e4Bzkk&list=UURfbcJQu9HZvc7uks2wmGzw&index=9](https://www.youtube.com/watch?v=2XfA0e4Bzkk&list=UURfbcJQu9HZvc7uks2wmGzw&index=9)
+        [https://www.youtube.com/watch?v=2XfA0e4Bzkk&list=UURfbcJQu9HZvc7uks2wmGzw&index=9](__MASK_93__)
         
-        [https://www.youtube.com/watch?v=2XfA0e4Bzkk&list=UURfbcJQu9HZvc7uks2wmGzw&index=9](https://www.youtube.com/watch?v=2XfA0e4Bzkk&list=UURfbcJQu9HZvc7uks2wmGzw&index=9)
+        [https://www.youtube.com/watch?v=2XfA0e4Bzkk&list=UURfbcJQu9HZvc7uks2wmGzw&index=9](__MASK_94__)
         
     - Is Web Scraping Legal? (Legal Analysis) - YouTube
         
-        [https://www.youtube.com/watch?v=tcMdWM8wmqs&list=UURfbcJQu9HZvc7uks2wmGzw&index=10](https://www.youtube.com/watch?v=tcMdWM8wmqs&list=UURfbcJQu9HZvc7uks2wmGzw&index=10)
+        [https://www.youtube.com/watch?v=tcMdWM8wmqs&list=UURfbcJQu9HZvc7uks2wmGzw&index=10](__MASK_95__)
         
-        [https://www.youtube.com/watch?v=tcMdWM8wmqs&list=UURfbcJQu9HZvc7uks2wmGzw&index=10](https://www.youtube.com/watch?v=tcMdWM8wmqs&list=UURfbcJQu9HZvc7uks2wmGzw&index=10)
+        [https://www.youtube.com/watch?v=tcMdWM8wmqs&list=UURfbcJQu9HZvc7uks2wmGzw&index=10](__MASK_96__)
         
     
     le bon coin et vivastreet sont des machines à prospect. 16M de pers par mois sur leboncoin en 2014. Mais il faut savoir bien les utiliser : le titre doit vendre le clic,
@@ -510,7 +510,7 @@ Les seules données structurées que nous pouvons récupérer sur les sites Web 
         
         
         
-        Pour les catégories, j’ai trouvé : [](https://www.facebook.com/pages/category/toy-store/)[https://www.facebook.com/pages/category/toy-store/](https://www.facebook.com/pages/category/toy-store/) 6
+        Pour les catégories, j’ai trouvé : [](https://www.facebook.com/pages/category/toy-store/)[https://www.facebook.com/pages/category/toy-store/](__MASK_99__) 6
         
         Par contre, apparement, pas de ciblage géographique.
         
@@ -520,7 +520,7 @@ Les seules données structurées que nous pouvons récupérer sur les sites Web 
         
         ex :
         
-        `site:facebook.com "Magasin de jouets à Paris"` : [](https://www.google.fr/search?q=site%3Afacebook.com+%22Magasin+de+jouets+%C3%A0+Paris%22)[https://www.google.fr/search?q=site%3Afacebook.com+«](https://www.google.fr/search?q=site%3Afacebook.com+%C2%AB) Magasin+de+jouets+à+Paris » 7
+        `site:facebook.com "Magasin de jouets à Paris"` : [](https://www.google.fr/search?q=site%3Afacebook.com+%22Magasin+de+jouets+%C3%A0+Paris%22)[https://www.google.fr/search?q=site%3Afacebook.com+«](__MASK_101__) Magasin+de+jouets+à+Paris » 7
         
         [Toy Store Pages | Facebook](https://www.notion.so/Toy-Store-Pages-Facebook-6a554701fcb24734950dcae6029eefd0?pvs=21)
         
@@ -532,7 +532,7 @@ Les seules données structurées que nous pouvons récupérer sur les sites Web 
     
     _En accédant au présent site, vous reconnaissez que les données le composant sont légalement protégées et, conformément aux dispositions de la loi du 1er juillet 1998 précitée, vous vous interdisez notamment d’extraire, réutiliser, stocker, reproduire, représenter ou conserver, directement ou indirectement, sur un support quelconque, par tout moyen et sous toute forme que ce soit, tout ou partie qualitativement ou quantitativement substantielle du site auquel vous accédez ainsi que d’en faire l’extraction ou la réutilisation répétée et systématique de parties qualitativement et quantitativement non substantielles lorsque ces opérations excèdent manifestement les conditions d’utilisation normale._
     
-    Si vous souhaitez acheter ou louer des numéros SMS pour des campagnes de prospection, il existe des solutions légales pour le faire, notamment [](https://www.marketingconnect.fr/)[https://www.marketingconnect.fr/](https://www.marketingconnect.fr/) 8
+    Si vous souhaitez acheter ou louer des numéros SMS pour des campagnes de prospection, il existe des solutions légales pour le faire, notamment [](https://www.marketingconnect.fr/)[https://www.marketingconnect.fr/](__MASK_106__) 8
     
     L’INSEE ne fournit plus les numéros de téléphone en opendata depuis mai 2018
     
@@ -563,7 +563,7 @@ Les seules données structurées que nous pouvons récupérer sur les sites Web 
     Je me permets d’ajouter mon grain de sel vu que c’est mon métier :
     
     - Effectivement les CGU sont une première raison, c’est un contrat d’adhésion engageant la responsabilité contractuelle de l’utilisateur. Que ce soit à des fins personnelles ou professionnelles, si c’est interdit contractuellement c’est interdit.
-    - Ensuite tous les sites d’annuaires, d’annonces, etc. sont des bases de données. A ce titre elles sont protégés d’une part grâce au droit sui generis des bases de données, et d’autre part grace aux droits d’auteur. Le fait de pomper le travail d’un autre pour l’exploiter sans son autorisation engage votre responsabilité délictuelle.
+    - Ensuite tous les sites d’annuaires, d’annonces, etc. sont des bases de données. A ce titre elles sont protégés d’une part grâce au droit sui generis des bases de données, et d’autre part grâce aux droits d’auteur. Le fait de pomper le travail d’un autre pour l’exploiter sans son autorisation engage votre responsabilité délictuelle.
     
     Il y a bien sûr des exceptions mais aucun d’entre nous ici n’exploite quelques lignes. Extraire des centaines de données n’est certainement pas un usage permettant d’éviter la massue du droit des bases de données.
     

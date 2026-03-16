@@ -105,7 +105,7 @@ L'onboarding est une phase critique qui détermine souvent le succès à long te
 étude de Brandon Hall Group révèle qu'un processus d'onboarding structuré augmente de 82% la rétention 
 des nouveaux employés.
 
-Zappos, leader du e-commerce, a révolutionné l'onboarding avec son programme "New Hire Experience". Leur approche unique inclut une offre de 2000$ aux nouvelles recrues pour quitter l'entreprise après la formation si elles ne se sentent pas alignées avec la culture. Résultat ? Moins de 1% des recrues acceptent l'offre, et leur taux de rétention à 1 an atteint 89%.
+Zappos, leader du e-commerce, a révolutionné l'onboarding avec son programme "New Hire Expérience". Leur approche unique inclut une offre de 2000$ aux nouvelles recrues pour quitter l'entreprise après la formation si elles ne se sentent pas alignées avec la culture. Résultat ? Moins de 1% des recrues acceptent l'offre, et leur taux de rétention à 1 an atteint 89%.
 
 L'étude de Brandon Hall Group confirme qu'un processus d'onboarding structuré augmente la rétention de 82%. C'est comme planter un arbre - les premiers jours déterminent s'il va s'épanouir ou dépérir.
 

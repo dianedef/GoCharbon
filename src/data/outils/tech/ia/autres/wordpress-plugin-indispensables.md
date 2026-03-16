@@ -187,7 +187,7 @@ Media cleaner
         
         Do you want to create **WordPress media library folders** for all uploaded files?
         
-        Managing multiple websites means that you’ll be adding tons of **media files** such as images, videos, audios, documents, etc. into your site server day by day. As a result, your WordPress media library will become chaotic and it could be extremely hard for you to find the files you need. You wish you can **organize all those files into folders** for better management.
+        Managing multiple websites means that you’ll be adding tons of **media files** such as images, vidéos, audios, documents, etc. into your site server day by day. As a result, your WordPress media library will become chaotic and it could be extremely hard for you to find the files you need. You wish you can **organize all those files into folders** for better management.
         
         That’s because WP admin dashboard by default doesn’t offer this functionality. Luckily, there’s a powerful plugin that can help!
         
@@ -223,7 +223,7 @@ Media cleaner
         
         drag and drop
         
-        utilise les cat deja présentes
+        utilise les cat déjà présentes
         
         tous les cpt supportés
         
@@ -391,7 +391,7 @@ plugin WP COpy Protection
 
 [Download Elementor Pro v3.7.2 - WordPress Page Builder Free Nulled | Babiato Forums](https://babiato.co/resources/elementor-pro-1-premium-wordpress-website-builder.108/)
 
-[Live video & live chat by Vicodo – direct video calls on your website – Extension WordPress | WordPress.org Français](https://fr.wordpress.org/plugins/vicodo-live-video-chat/)
+[Live vidéo & live chat by Vicodo – direct vidéo calls on your website – Extension WordPress | WordPress.org Français](https://fr.wordpress.org/plugins/vicodo-live-video-chat/)
 
 [All-in-One WP Migration – WordPress plugin | WordPress.org](https://wordpress.org/plugins/all-in-one-wp-migration/)
 
@@ -702,7 +702,7 @@ IO Technologies
     
     **_sale_price** – field for current price if you have discount
     
-    **rh_product_video** – field for video reviews. This is textarea type, each video must be from separate line
+    **rh_product_video** – field for vidéo reviews. This is textarea type, each vidéo must be from separate line
     
     **rh_code_incart** – field to store custom code areas near button. It supports also shortcodes
     
@@ -738,7 +738,7 @@ IO Technologies
     
     **rh_post_image_gallery** – field for storing additional post thumbnails. Field stores image IDs with commas, example: 2,3,4,5 – where numbers are attachment’s IDS of images
     
-    **rh_post_image_videos** – field for storing additional post videos. Will be visible near thumbnails. Must be as youtube or vimeo links, divided with separate lines
+    **rh_post_image_videos** – field for storing additional post vidéos. Will be visible near thumbnails. Must be as youtube or vimeo links, divided with separate lines
     
 - [How to get any custom field or attribute value and show in theme](https://rehubdocs.wpsoul.com/docs/rehub-theme/advanced-tips-and-customizations/custom-field-attribute-getter/)
     
@@ -859,7 +859,7 @@ Ajouter le **scorebox** sur la fiche produit dans un shortcode sidebar `[wpsm_sc
 
 Afficher **les swatch sur la fiche produit** =
 
-[wpsm_custom_meta field="cout" type="swatch"][wpsm_custom_meta field="prise-en-main" type="swatch"]
+[wpsm_custom_meta field="coût" type="swatch"][wpsm_custom_meta field="prise-en-main" type="swatch"]
 
 ```objectivec
 [wpsm_custom_meta field="cout"  show_empty=1 label="Coût" type="swatch"] [wpsm_custom_meta field="prise-en-main"  show_empty=1 label="Prise en main " type="swatch"]
@@ -881,7 +881,7 @@ Faire des templates pour mettre labas : [Extended Custom Product areas | Documen
 
 ### WooCommerce
 
-[Complete WooCommerce Tutorial](https://www.youtube.com/watch?v=oTr--KR4qoM&t=1792s) 
+[Complète WooCommerce Tutorial](https://www.youtube.com/watch?v=oTr--KR4qoM&t=1792s) 
 
 - What is the difference between custom fields and attributes?
     
@@ -914,7 +914,7 @@ Faire des templates pour mettre labas : [Extended Custom Product areas | Documen
     
     [New message](https://searchanise.io/)
     
-    [SearchIQ - Enhance website search experience | AppSumo](https://appsumo.com/products/searchiq/)
+    [SearchIQ - Enhance website search expérience | AppSumo](https://appsumo.com/products/searchiq/)
     
     [Advanced Filtering (Faceted Search) for WordPress | FacetWP](https://facetwp.com/)
     
@@ -993,7 +993,7 @@ Faire des templates pour mettre labas : [Extended Custom Product areas | Documen
     
     https://academy.bricksbuilder.io/article/asset-loading
     
-    ### Official 1.3.4 Release Video:
+    ### Official 1.3.4 Release Vidéo:
     
     - Asset Loading Optimization (CSS & JS)NEW
     - Structure Panel Auto-Sync (Bricks Setting)NEW
@@ -2142,7 +2142,7 @@ jetfilter a l’air top mais fonctionne pas tout seul, needs jetengine et tt
 
 filter everything top
 
-husky tres bien
+husky très bien
 
 Super :
 
@@ -2187,7 +2187,7 @@ Super :
 
 [Best SEO Content Writing AI Software And Optimization Tools](https://www.outranking.io/)
 
-[WP Scheduled Posts (SchedulePress) - Best Editorial Calendar](https://wpdeveloper.com/plugins/wp-scheduled-posts/)
+[WP Scheduled Posts (SchedulePress) - Best Éditorial Calendar](https://wpdeveloper.com/plugins/wp-scheduled-posts/)
 
 [WooLentor: WooCommerce Page Builder Elementor Addon Plugin](https://woolentor.com/)
 
@@ -2199,7 +2199,7 @@ Super :
 
 [WooCommerce Advanced Bulk Edit - WPMelon](https://wpmelon.com/)
 
-[WP Scheduled Posts (SchedulePress) - Best Editorial Calendar](https://wpdeveloper.com/plugins/wp-scheduled-posts/)
+[WP Scheduled Posts (SchedulePress) - Best Éditorial Calendar](https://wpdeveloper.com/plugins/wp-scheduled-posts/)
 
 [Extensions ‹ Web-Indé, Annuaire des Logiciels SaaS français — WordPress](https://139a-eb8f382c9d80.wptiger.fr/wp-admin/plugins.php)
 

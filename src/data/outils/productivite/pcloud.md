@@ -66,7 +66,7 @@ pCloud crée un espace cloud où tous tes fichiers sont organisés et accessible
 - **Recherche rapide** — champ de recherche en haut de l'interface web et mobile. Tape le nom du fichier ou du dossier, résultat en quelques secondes
 - **Filtres par format** — icônes de recherche rapide dans le menu gauche : Documents, Images, Audio, Vidéo, Archives. Un clic filtre instantanément tes fichiers
 - **Corbeille** — les fichiers supprimés restent récupérables pendant 15 jours (gratuit) ou 30 jours (Premium/Lifetime)
-- **Taille de fichier illimitée** — uploade n'importe quel fichier, quelle que soit sa taille. Vidéos HD, exports Premiere Pro, bases de données — tout passe
+- **Taille de fichier illimitée** — uploade n'importe quel fichier, quelle que soit sa taille. Vidéos HD, exports Première Pro, bases de données — tout passe
 - **Vitesse de transfert illimitée** — aucun bridage ni en upload ni en download, ni pour les utilisateurs gratuits ni pour les Premium
 - **Lecteur multimédia intégré** — écoute ta musique, regarde tes vidéos directement depuis le cloud sans télécharger. Crée des playlists depuis l'interface
 

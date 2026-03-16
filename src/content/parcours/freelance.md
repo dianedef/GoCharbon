@@ -52,4 +52,4 @@ Construire une activité freelance stable avec flux de prospects prévisible.
 ## Idées de contenus pour aller plus loin
 - [Guide à venir 1: méthode positionnement niche](/tutos/freelance/methode-positionnement-niche)
 - [Guide à venir 2: template proposition commerciale](/tutos/freelance/template-proposition-commerciale)
-- [Guide à venir 3: systeme relance prospects](/tutos/freelance/systeme-relance-prospects)
+- [Guide à venir 3: système relance prospects](/tutos/freelance/systeme-relance-prospects)

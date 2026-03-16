@@ -20,20 +20,20 @@ Monetiser ton site avec de la publicite, c'est le modele le plus ancien du web. 
 
 Avant de coller des pubs partout, verifie que :
 
-- **Tu as du trafic** : en dessous de 1 000 visites/mois, ca ne vaut pas le coup. Tu vas gagner des centimes et degrader l'experience utilisateur pour rien.
-- **Ton contenu est original** : les regies refusent les sites avec du contenu duplique ou de mauvaise qualite
-- **Ton site est rapide** : les pubs rajoutent du poids. Si ton site est deja lent, corrige ca d'abord.
+- **Tu as du trafic** : en dessous de 1 000 visites/mois, ca ne vaut pas le coup. Tu vas gagner des centimes et degrader l'expérience utilisateur pour rien.
+- **Ton contenu est original** : les regies refusent les sites avec du contenu duplique ou de mauvaise qualité
+- **Ton site est rapide** : les pubs rajoutent du poids. Si ton site est déjà lent, corrige ca d'abord.
 - **Tu as les mentions legales** : politique de confidentialite, bandeau cookies (RGPD oblige)
 
-## Etape 1 : Choisir ta regie publicitaire
+## Étape 1 : Choisir ta regie publicitaire
 
 ### Google AdSense (debutant)
 
-Le plus accessible. Pas de minimum de trafic officiel, mais Google verifie la qualite de ton site. Depuis 2024, AdSense a change son modele de remuneration : il est passe d'un paiement au clic (CPC) a un paiement par impression (CPM). Les editeurs recoivent 80% du revenu apres la part de la plateforme cote acheteur.
+Le plus accessible. Pas de minimum de trafic officiel, mais Google verifie la qualité de ton site. Depuis 2024, AdSense a change son modele de remuneration : il est passe d'un paiement au clic (CPC) a un paiement par impression (CPM). Les editeurs recoivent 80% du revenu après la part de la plateforme cote acheteur.
 
 - **Revenus** : entre 1 et 5 euros pour 1 000 vues (RPM variable selon ta niche). Les niches finance, assurance et tech paient le plus (CPC moyen de 0.25 a 5 USD selon la niche et le pays).
 - **Paiement** : virement a partir de 100 USD (seuil remonte, anciennement 70 euros en zone euro). Plus de 2 millions d'editeurs actifs dans le monde.
-- **Taux d'approbation** : environ 35% des demandes approuvees du premier coup selon les donnees recentes. Google est de plus en plus strict sur la qualite du contenu et l'experience utilisateur.
+- **Taux d'approbation** : environ 35% des demandes approuvees du premier coup selon les donnees recentes. Google est de plus en plus strict sur la qualité du contenu et l'expérience utilisateur.
 - **Avantage** : facile a mettre en place, pubs ciblees automatiquement, compatible avec la plupart des sites
 - **Inconvenient** : revenus faibles tant que tu n'as pas beaucoup de trafic. Taux de rejet eleve si le contenu est insuffisant.
 
@@ -51,12 +51,12 @@ Alternative a AdSense avec optimisation automatique des placements par intellige
 
 Les regies premium pour les gros sites.
 
-- **Mediavine** : depuis 2025, le critere d'entree n'est plus base sur les sessions mais sur le revenu pub annuel. Il faut generer au moins 5 000 USD de revenus pub par an pour candidater au programme principal. Pour les sites plus petits, **Journey by Mediavine** accepte les sites des 1 000 sessions/mois. RPM moyen de 20 a 30 USD.
+- **Mediavine** : depuis 2025, le critere d'entree n'est plus base sur les sessions mais sur le revenu pub annuel. Il faut générer au moins 5 000 USD de revenus pub par an pour candidater au programme principal. Pour les sites plus petits, **Journey by Mediavine** accepte les sites des 1 000 sessions/mois. RPM moyen de 20 a 30 USD.
 - **Raptive** (anciennement AdThrive) : minimum 100 000 pages vues/mois. RPM moyen de 25 a 45 USD. C'est la regie la mieux payee du marche. Paiement a partir de 25 USD via virement ou PayPal. Seuil de paiement net-45.
 - **Revenus** : les plus eleves du marche, avec des RPM qui peuvent depasser 30 USD en niche finance ou tech
 - **Inconvenient** : processus d'acceptation selectif, contenu en anglais fortement favorise
 
-## Etape 2 : Configurer Google AdSense
+## Étape 2 : Configurer Google AdSense
 
 C'est le choix le plus courant pour commencer :
 
@@ -68,7 +68,7 @@ Pour inserer le code dans WordPress :
 - Va dans **Apparence > Editeur du theme** et colle le code dans `header.php` (methode basique)
 - Ou mieux : utilise un plugin pour ne pas toucher au code
 
-## Etape 3 : Installer un plugin de gestion des pubs
+## Étape 3 : Installer un plugin de gestion des pubs
 
 ### Ad Inserter (gratuit et puissant)
 
@@ -79,9 +79,9 @@ Le plugin de reference pour gerer tes pubs sur WordPress :
 3. Chaque onglet (1 a 16) represente un emplacement publicitaire
 4. Colle ton code AdSense dans un onglet
 5. Choisis ou l'afficher :
-   - **Avant le contenu** : juste apres le titre
-   - **Apres le paragraphe X** : par exemple apres le 3e paragraphe
-   - **Apres le contenu** : en fin d'article
+   - **Avant le contenu** : juste après le titre
+   - **Après le paragraphe X** : par exemple après le 3e paragraphe
+   - **Après le contenu** : en fin d'article
    - **Sidebar** : dans un widget
 6. Sauvegarde
 
@@ -93,27 +93,27 @@ Plugin specialise AdSense, plus simple mais moins flexible :
 2. Colle ton code AdSense dans les emplacements proposes
 3. Active l'insertion automatique
 
-## Etape 4 : Placer tes pubs aux bons endroits
+## Étape 4 : Placer tes pubs aux bons endroits
 
 Le placement fait toute la difference entre 2 euros et 20 euros de RPM :
 
-- **En haut de page (above the fold)** : le plus vu, le plus clique. Place une pub juste apres l'introduction.
-- **Dans le contenu** : apres le 2e ou 3e paragraphe. Le lecteur est engage, il ne la voit pas comme intrusive.
+- **En haut de page (above the fold)** : le plus vu, le plus clique. Place une pub juste après l'introduction.
+- **Dans le contenu** : après le 2e ou 3e paragraphe. Le lecteur est engage, il ne la voit pas comme intrusive.
 - **En fin d'article** : le lecteur a fini de lire, il cherche quoi faire ensuite. Bon taux de clic.
 - **Sidebar** : classique mais de moins en moins efficace sur mobile (la sidebar passe en dessous).
 - **Entre les articles** (page de listing) : les pubs natives qui ressemblent a du contenu.
 
 **A eviter absolument** :
-- Plus de 3 pubs visibles en meme temps
+- Plus de 3 pubs visibles en même temps
 - Des pubs qui recouvrent le contenu (popup pub)
 - Des pubs trompeuses qui ressemblent a des boutons de navigation
 
-## Etape 5 : Gerer le RGPD et les cookies
+## Étape 5 : Gerer le RGPD et les cookies
 
 Tes pubs utilisent des cookies de tracking. En Europe, tu dois :
 
 1. Installer un plugin de consentement cookies (**Complianz**, **CookieYes**, ou **Tarteaucitron**)
-2. Configurer le chargement conditionnel : les pubs ne se chargent qu'apres consentement
+2. Configurer le chargement conditionnel : les pubs ne se chargent qu'après consentement
 3. Afficher une politique de confidentialite qui mentionne la publicite ciblee
 
 AdSense propose aussi un mode "pubs non personnalisees" qui necessite moins de consentements, mais rapporte moins.

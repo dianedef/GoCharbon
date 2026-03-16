@@ -44,7 +44,7 @@ imgUrl: ../../../assets/astro.jpeg
 
 ## Content Marketing
 
-### Content Creation
+### Content Création
 1. **Writing**
    - Grammarly (base)
    - Hemingway Editor
@@ -92,7 +92,7 @@ imgUrl: ../../../assets/astro.jpeg
    - Pablo by Buffer
    - Stencil Free
 
-2. **Video**
+2. **Vidéo**
    - OpenShot
    - DaVinci Resolve
    - Clipchamp

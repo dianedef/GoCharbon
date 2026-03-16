@@ -28,7 +28,7 @@ On tombe sur l’INSEE
 
 [data france insee - Recherche Google](https://www.google.com/search?q=data+france+insee&sxsrf=AJOqlzWSa0f0nCgqv_bhucH5b4KNttJvHA%3A1673386050084&ei=Qti9Y9PnBNyKi-gP8sGriAw&ved=0ahUKEwjTkNno-L38AhVcxQIHHfLgCsEQ4dUDCA8&uact=5&oq=data+france+insee&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQFhAeOgQIIxAnOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6DgguEIAEELEDEMcBENEDOggIABCABBCxAzoKCAAQsQMQgwEQQzoICAAQsQMQgwE6CAguELEDEIMBOgQIABBDOgsILhCABBCxAxCDAToICC4QgAQQ1AI6CAgAEIAEEMkDOgsILhCABBDHARDRAzoFCAAQgAQ6DgguEK8BEMcBENQCEIAEOggIABCABBDLAToHCAAQgAQQCjoKCAAQgAQQChDLAToHCAAQgAQQDToJCAAQgAQQDRAKOgYIABAeEA06CAgAEB4QDxANOggIABAWEB4QCjoICAAQFhAeEA9KBAhBGAFKBAhGGABQ8xJYyEVg-VBoA3AAeACAAVWIAZwJkgECMTmYAQCgAQHAAQE&sclient=gws-wiz-serp)
 
-[Où trouver les statistiques industrielles ou sectorielles ? | economie.gouv.fr](https://www.economie.gouv.fr/cedef/statistiques-industrielles-et-sectorielles)
+[Où trouver les statistiques industrielles ou sectorielles ? | économie.gouv.fr](https://www.economie.gouv.fr/cedef/statistiques-industrielles-et-sectorielles)
 
 [Les entreprises en France - Les entreprises en France | Insee](https://www.insee.fr/fr/statistiques/6667157)
 
@@ -44,7 +44,7 @@ On tombe sur l’INSEE
 
 [Découvrir, apprendre | Insee](https://www.insee.fr/fr/information/2021852)
 
-[Trouver des données | Ecole des Données](http://ecoledesdonnees.org/handbook/cours/trouver-des-donnees/index.html)
+[Trouver des données | École des Données](http://ecoledesdonnees.org/handbook/cours/trouver-des-donnees/index.html)
 
 [ecoledesdonnees.org/Datacatalogs.org](http://ecoledesdonnees.org/Datacatalogs.org)
 

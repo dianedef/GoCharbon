@@ -70,7 +70,7 @@ En choisissant Ekip, vous avez la possibilité de gagner de l'argent à chaque c
 
 [Catégorie:Développement personnel — Wiki des startups](https://wiki-startup.com/index.php?title=Cat%C3%A9gorie:D%C3%A9veloppement_personnel)
 
-[Konexio (Ecole solidaire) — Wiki des startups](https://wiki-startup.com/index.php?title=Konexio_(Ecole_solidaire))
+[Konexio (École solidaire) — Wiki des startups](https://wiki-startup.com/index.php?title=Konexio_(Ecole_solidaire))
 
 [Openclassroom — Wiki des startups](https://wiki-startup.com/index.php?title=Openclassroom)
 

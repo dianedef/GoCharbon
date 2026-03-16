@@ -39,7 +39,7 @@ Gone are the days of worrying about your themes and plugins staying up to date. 
 Whether you’re installing, updating, or downloading, it’s all done with a single click. We’ve made it so easy, your grandma could do it (and she just figured out how to text emojis last week).
 
 :mag: Quick Search & Filter Options
-Finding the perfect theme or plugin is now faster than finding a meme in your group chat. Our search and filter options are streamlined for your convenience.
+Finding the perfect theme or plugin is now faster than finding a même in your group chat. Our search and filter options are streamlined for your convenience.
 
 By Popular Demand: The Compact Version
 We’ve heard your cries for simplicity and speed, and we’re delivering with a sleek, compact version of Festinger Vault. All the crucial features are up and running, with more exciting enhancements on the way! Here’s what’s coming soon:
@@ -56,7 +56,7 @@ Filters and search.
 What’s NOT included in this version? (and will be released in the upcoming days)
 
 White label support.
-Universal search with auto-complete.
+Universal search with auto-complète.
 Bookmarks and custom lists.
 Update request feature.
 Settings/preferences.

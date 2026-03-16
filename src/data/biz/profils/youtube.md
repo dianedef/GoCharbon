@@ -33,7 +33,7 @@ L'avantage de YouTube vs TikTok/Instagram : le contenu est evergreen (tes vidéo
 ### Compétences requises
 
 - **Présentation/Oral** (niveau: intermédiaire) - Parler clairement face caméra
-- **Montage vidéo** (niveau: intermédiaire) - Rendre regardable (DaVinci, Premiere)
+- **Montage vidéo** (niveau: intermédiaire) - Rendre regardable (DaVinci, Première)
 - **Storytelling** (niveau: avancé) - Structure qui retient l'attention
 - **Créativité** (niveau: avancé) - Trouver des angles uniques
 - **Régularité** (niveau: CRITIQUE) - Poster régulièrement sans faillir
@@ -59,7 +59,7 @@ L'avantage de YouTube vs TikTok/Instagram : le contenu est evergreen (tes vidéo
   - Caméra DSLR d'occasion (400€)
   - Micro shotgun (150€)
   - Éclairage 3 points (200€)
-  - Premiere Pro (24€/mois)
+  - Première Pro (24€/mois)
   - Fond/décor
   
 - **Optimal: 5000€**

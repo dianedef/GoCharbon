@@ -54,8 +54,8 @@ Luminjo est le fruit de l'expérience de ses créateurs, qui l'utilisent en inte
 Pour les mises à jour futures de Luminjo et sa feuille de route, vous pouvez consulter leur site Web où ils publient régulièrement des informations sur les nouvelles fonctionnalités et améliorations à venir.
 
 ## Ressources
-- Site Web de Luminjo : [https://www.luminjo.com](https://www.luminjo.com)
-- Documentation : [https://www.luminjo.com/documentation](https://www.luminjo.com/documentation)
+- Site Web de Luminjo : [https://www.luminjo.com](__MASK_0__)
+- Documentation : [https://www.luminjo.com/documentation](__MASK_1__)
 - Support : [support@luminjo.com](mailto:support@luminjo.com)
 
 ## Programme de Parrainage

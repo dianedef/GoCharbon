@@ -41,7 +41,7 @@ imgUrl: ../../../assets/astro.jpeg
    - Questions
    - Objections
 
-3. **Decision**
+3. **Décision**
    - Proposition
    - Négociation
    - Closing

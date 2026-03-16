@@ -1,5 +1,22 @@
 # Changelog
 
+## 2026-03-16
+
+### Added
+- **181 nouvelles fiches outils SaaS** — Intégration Web'Indé Apps complète (13 batches), couvrant : comptabilité (19), CRM/prospection (14), juridique/legal (10), RH (8), paiement (8), marketing (20), hébergement/dev (15), productivité (12), assurance/admin (15), e-commerce (12), communication (8), formation (6), social-media (10), et plus
+- Nouvelles sous-catégories outils : `business/assurance/`, `business/legal/`, `business/rh/`, `ecommerce/caisse/`, `ecommerce/paiement/`
+- Fichier de planning `plan_integration_outils.md` — 13 batches avec mapping catégories
+- Fichier candidats annoté `outils_candidats_webinde.md` — ~430 SaaS triés par priorité
+
+### Changed
+- Template outils (`_template.md`) — ajout métadonnées `u_origine`, `u_langue_fr`, `u_derniere_maj`
+- Fiche **Ideel** réécrite (était décrite comme outil de devis/signature, corrigé en plateforme de gestion d'abonnements/fintech)
+- URL corrigée : Klixi (klixi.com → klixi.io), MyAssoc (myassoc.fr → myassoc.org)
+- 214 chemins d'images corrigés dans `tech/ia/autres/` (4 niveaux → 5 niveaux)
+
+### Removed
+- Fiche junk `tech/ia/autres/faaaster.md` (message personnel, pas une fiche outil)
+
 ## 2026-03-13
 
 ### Added

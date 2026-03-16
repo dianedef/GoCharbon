@@ -204,7 +204,7 @@ Le succès prend 6-12 mois minimum. Sois patient.
 
 - CapCut (gratuit)
 - InShot (gratuit)
-- Premiere Rush ($10/mois)
+- Première Rush ($10/mois)
 
 ## Plan d'action : 90 jours pour transformer tes réseaux
 

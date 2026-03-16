@@ -29,7 +29,7 @@ e developed countless workspaces and worked intensively with the Notion team, to
 
 [Notion Headers](https://www.notionheaders.com/)
 [30 Date Formulas In Notion To Help Your Next Build — Red Gregory](https://www.redgregory.com/notion/30-date-formulas-in-notion-to-help-your-next-build)  
-[fromTimestamp et le calendrier automatique dans Notion - Bing video](https://www.bing.com/videos/search?q=notion%20date&docid=608033654385943529&mid=3979DD3F05C777247B973979DD3F05C777247B97&view=detail&FORM=VIRE)  
+[fromTimestamp et le calendrier automatique dans Notion - Bing vidéo](https://www.bing.com/videos/search?q=notion%20date&docid=608033654385943529&mid=3979DD3F05C777247B973979DD3F05C777247B97&view=detail&FORM=VIRE)  
 [How To Format Dates In Notion: A Cheat Sheet — Red Gregory](https://www.redgregory.com/notion/2021/3/16/how-to-format-dates-in-notion-a-cheat-sheet)
 
 

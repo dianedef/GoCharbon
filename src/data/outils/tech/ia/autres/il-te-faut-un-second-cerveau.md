@@ -12,6 +12,6 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../../assets/astro.jpeg
 ---
 
-[🧠 Complete Second Brain System in Tana - YouTube](https://www.youtube.com/watch?v=-n05eNQtCCc&list=WL&index=164)
+[🧠 Complète Second Brain System in Tana - YouTube](https://www.youtube.com/watch?v=-n05eNQtCCc&list=WL&index=164)
 
 [How to double your brain power | Tiago Forte - YouTube](https://www.youtube.com/watch?v=1Xi4fMfwsQg)

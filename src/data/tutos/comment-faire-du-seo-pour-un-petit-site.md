@@ -22,7 +22,7 @@ faire maillage interne fastoche : [RÉUSSIR son SEO, avec 0€, en 2024. - YouTu
 
 ----------------------------------------------------------------------
 
-In my own words, “Squirrly is more than an SEO tool––it’s a complete content marketing suite.”
+In my own words, “Squirrly is more than an SEO tool––it’s a complète content marketing suite.”
 
 I’m not trying to be egotistical by quoting myself, I promise. That’s [a testimonial I wrote years ago](https://wordpress.org/plugins/squirrly-seo/) for SEO Squirrly.
 

@@ -28,10 +28,10 @@ Now, those who keep an eye on SEO and Google search update must be knowing Googl
 
 At a recent, [SEM Expo conference](https://marketinglandevents.com/smx/), Matt Cutts talked about **how Google handles affiliate links** and what should we do if we are worried about such affiliate Links.
 
-Though this video is short, after the video read my technique to avoid any SEO penalty due to affiliate links.
+Though this vidéo is short, after the vidéo read my technique to avoid any SEO penalty due to affiliate links.
 
 
-As mentioned by Matt in this video, in most cases, Google handles affiliate links without any issue, as they know about the majority of [affiliate network](https://www.shoutmeloud.com/top-affiliate-networks.html)s, but if you are still worried, you can add a nofollow link or sponsored link to such money links.
+As mentioned by Matt in this vidéo, in most cases, Google handles affiliate links without any issue, as they know about the majority of [affiliate network](https://www.shoutmeloud.com/top-affiliate-networks.html)s, but if you are still worried, you can add a nofollow link or sponsored link to such money links.
 
 Now, if you are new to the nofollow term, you can refer to our earlier guide on [How to add nofollow tag to a link](https://www.shoutmeloud.com/how-to-add-nofollow-link-attribute-to-any-link-seo.html "How to aff nofollow tag to a link"). For adding rel=sponsored link, read on…
 
@@ -127,7 +127,7 @@ If you are looking for a quick option to add the no-follow tag attribute to any 
 
 Usually to maintain the link juice, we keep our blog comments and external ad links as Nofollow. You can use any of the WordPress SEO Plugins to keep comments and ads link as nofollow. Usually, links in WordPress comment section are nofollow.
 
-For internal links, I would suggest you keep them as Dofollow (which stays by default) and also open in a new tab for users experience. Keeping your internal link do-follow it will help search engine bots to crawl more pages on your site.
+For internal links, I would suggest you keep them as Dofollow (which stays by default) and also open in a new tab for users expérience. Keeping your internal link do-follow it will help search engine bots to crawl more pages on your site.
 
 If you have lots of outbound link from a single page, I will suggest keeping at least those links Nofollow that doesn’t add value to the search engine. So that you will not pass your link juice to all of the links especially your advertisement links and affiliate links.
 

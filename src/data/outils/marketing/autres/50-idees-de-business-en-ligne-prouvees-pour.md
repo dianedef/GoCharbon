@@ -37,13 +37,13 @@ Contrairement à d'autres articles «faire de l'argent en ligne», il s'agit d'u
 
 Beaucoup de ces méthodes nécessitent un certain investissement de temps et / ou d'argent pour commencer. Tant que vous êtes prêt à faire l'effort, vous récolterez la récompense.
 
-## idee creation entreprise femme 720
+## idée création entreprise femme 720
 
 [2022 Gender Diversity In SWE Report - Stats on women in SWE, from startups to big tech, and more | Product Hunt](https://www.producthunt.com/posts/2022-gender-diversity-in-swe-report)
 
-## creation dentreprise idee originale
+## création dentreprise idée originale
 
-## idees business qui cartonnent
+## idées business qui cartonnent
 
 aux etats unis
 
@@ -141,9 +141,9 @@ _Toutes ces suggestions de business en ligne peuvent vous faire gagner des somme
     
     ---
     
-    [https://www.youtube.com/embed/0UJ78ZrS0NI?feature=oembed](https://www.youtube.com/embed/0UJ78ZrS0NI?feature=oembed)
+    [https://www.youtube.com/embed/0UJ78ZrS0NI?feature=oembed](__MASK_3__)
     
-    [https://www.youtube.com/embed/msSrxT-QINM?feature=oembed](https://www.youtube.com/embed/msSrxT-QINM?feature=oembed)
+    [https://www.youtube.com/embed/msSrxT-QINM?feature=oembed](__MASK_4__)
     
     e suis sûr que vous connaissez au moins un ami, un membre de la famille ou un collègue qui gagne beaucoup d'argent en ligne. Vous auriez pu penser que c'est de l'argent facile. Vous pouvez aussi le faire. Mais soit vous avez été piégé dans une arnaque en ligne, soit vous avez échoué.
     
@@ -423,8 +423,8 @@ _Toutes ces suggestions de business en ligne peuvent vous faire gagner des somme
 
 [10:43](https://www.youtube.com/watch?v=HiuNb4fZ_Ys&t=643s) Idea #5
 
-[https://www.youtube.com/watch?v=89iVh6oUM_Q](https://www.youtube.com/watch?v=89iVh6oUM_Q)
+[https://www.youtube.com/watch?v=89iVh6oUM_Q](__MASK_65__)
 
-[https://gaps.com/marketing-marketing/](https://gaps.com/marketing-marketing/)
+[https://gaps.com/marketing-marketing/](__MASK_66__)
 
 [**🐦 Jack Dorsey's Next Startup Idea** (1)](https://www.notion.so/Jack-Dorsey-s-Next-Startup-Idea-1-1f0e0345f34c49d28ac87cc9926527ee?pvs=21)

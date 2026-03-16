@@ -139,11 +139,11 @@ Airthium développe une pompe à chaleur industrielle très haute température (
 
 Ce domaine est responsable de 22% des émissions mondiales de CO2, et il n'existe aujourd'hui aucune solution décarbonée et économique pour la production de chaleur industrielle entre 160 et 550°C.
 
-[https://youtu.be/aJGMMJ-3wfg](https://youtu.be/aJGMMJ-3wfg)
+[https://youtu.be/aJGMMJ-3wfg](__MASK_20__)
 
-[Airthium](https://airthium.com/) (ils sont francais)
+[Airthium](https://airthium.com/) (ils sont français)
 
-[https://youtu.be/aJGMMJ-3wfg](https://youtu.be/aJGMMJ-3wfg)
+[https://youtu.be/aJGMMJ-3wfg](__MASK_22__)
 
 [Page d’accueil - 1% for the Planet FRANCE - Site officiel - onepercentfortheplanet.fr](https://www.onepercentfortheplanet.fr/)
 
@@ -180,8 +180,8 @@ Financement : NC
     
     ## Présence numérique
     
-    - [https://margoo.fr/](https://margoo.fr/)
-    - [https://www.facebook.com/margoo.fr](https://www.facebook.com/margoo.fr)
+    - [https://margoo.fr/](__MASK_31__)
+    - [https://www.facebook.com/margoo.fr](__MASK_32__)
 
 [Lhyfe : Le premier fournisseur d'hydrogène vert et renouvelable](https://fr.lhyfe.com/)
 
@@ -1509,7 +1509,7 @@ Planète Énergies collabore également avec un écosystème de partenaires reco
 
 Crée en 2005, Planète Énergies est un programme de la Fondation TotalEnergies. La mission de la Fondation est d’agir en faveur de la jeunesse, en particulier, la plus vulnérable. L’initiative Planète Énergies prend racine au sein de son domaine d’intervention dédié à l’éducation et l’insertion.
 
-Pour en savoir plus, rendez-vous sur le site : [https://www.planete-energies.com/fr](https://www.planete-energies.com/fr)
+Pour en savoir plus, rendez-vous sur le site : [https://www.planete-energies.com/fr](__MASK_153__)
 
 
 ## adopte des arbres

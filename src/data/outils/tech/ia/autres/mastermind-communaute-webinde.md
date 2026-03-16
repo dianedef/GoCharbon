@@ -73,7 +73,7 @@ Objectifs
     L’organisation que je prévois pour l’alpha (je crois que c’est ca qu’on dit plutôt que beta beta xD) :
     🎯 Je vous invite sur la commu, une fois qu’on est un bon groupe on brainstorm jusqu’à ce que mort s’en suive pendant quelques semaines, ceux qui sont intéressés à la fin payent (genre 69e) et on se lance dans la création du lancement de la beta, les autres sont libres de quitter si c’est pas un bon fit
     Ca va être le feu alors j’attend vos retours! 🔥🔥
-    Voila je n’ai jamais fait ça (oui je sais, ça va etre compliqué, blablabla🤪), donc si ma vision est débile hésitez pas à me dire. Ci joint une vidéo de la plateforme en question
+    Voila je n’ai jamais fait ça (oui je sais, ça va être compliqué, blablabla🤪), donc si ma vision est débile hésitez pas à me dire. Ci joint une vidéo de la plateforme en question
     CI joint vidéo de la plateforme sur laquelle on bâtira! https://youtu.be/_r4Rz5YQPykSi
     Si le projet te parle, laisse un ptit mot ici ou dans mes Dms en expliquant pourquoi et en partageant si possible ton expérience, expertise, audience.
     Je pense qu'on doit pas être plus de 10 grand grand max en tant que co-créateurs sinon ça va être le bordel donc si jamais c'est la               cohue,y'aura une sélection basée sur l'expertise dans le domaine du business en ligne.
@@ -93,7 +93,7 @@ Regarder film/documentaires/ vidéos en même temps
 [**Book Club**](https://www.heartbeat.chat/experiences/book-club)
 
 [**Monthly Expert Calls**](https://www.heartbeat.chat/experiences/monthly-expert-calls)
-## evenement
+## événement
 
 This is our space to catch-up together, chat about what's working, share advice, & support each other 🤝
 
@@ -145,9 +145,9 @@ tu as un exemple en fait un exemple je connais deux exemples sur une des boîtes
 
 [Doughnut | The Freelancer Community and Digital Co-working Space](https://www.doughnut.no/about)
 
-***[Create & embed a 3-5 min loom video]***
+***[Create & embed a 3-5 min loom vidéo]***
 
-- *Use this video to walk people through the 2-3 most valuable channels/docs/spaces within your community —> show people how to get instant value]*
+- *Use this vidéo to walk people through the 2-3 most valuable channels/docs/spaces within your community —> show people how to get instant value]*
 
 # Landing page
 
@@ -286,20 +286,20 @@ Et je vous ai envoyé un questionnaire pour savoir pourquoi ?
 
 Merci à celles et ceux qui ont prit le temps de répondre
 
-EVENEMENT 1 :
+ÉVÉNEMENT 1 :
 
 **Optimisation de son business**
 
 *Définition de stratégie / mise en place de process / offre de lancement / expérience client / automatisation...*
 
-EVENEMENT 2 :
+ÉVÉNEMENT 2 :
 
 
 **Création de contenu**
 
 *Contenu de marque & site web / vidéo & podcast / social media & stories / newsletter & article...*
 
-EVENEMENT 3 :
+ÉVÉNEMENT 3 :
 
 **Accomplissement des tâches**
 
@@ -485,7 +485,7 @@ C’est **possible grâce à 2 actions** que nous avons mises en place pour que 
 
 Tes liens d’affiliation seront placés dans le contenu de formation de toute personne qui a acheté une formation Job2Free ou qui est devenue Membre Job2Free via ton lien d’affiliation.
 
-*Ex : Si dans une formation, nous recommandons Systeme.io et que la personne souscrit à un abonnement, c’est toi qui toucheras les commissions d’affiliation Systeme.io.*
+*Ex : Si dans une formation, nous recommandons Système.io et que la personne souscrit à un abonnement, c’est toi qui toucheras les commissions d’affiliation Système.io.*
 
 Nous avons développé un outil qui permet de le faire.
 
@@ -525,7 +525,7 @@ Si tu fais partie des VIP, c’est différent. On t’offre **un bonus de 1,25**
 
 **Bonus 2:**
 
-**Placer ses liens affiliés dans le contenu de toutes nos formations.** Pour l’instant, ce sera **ton lien affilié Systeme.io**. Mais très rapidement , ce sera aussi possible sur d’autres liens logiciels et/ou abonnement.
+**Placer ses liens affiliés dans le contenu de toutes nos formations.** Pour l’instant, ce sera **ton lien affilié Système.io**. Mais très rapidement , ce sera aussi possible sur d’autres liens logiciels et/ou abonnement.
 
 Ton abonnement Job2Free VIP est autofinançable à 100% si et seulement si tu es impliqué dans le projet Job2Free.
 
@@ -582,7 +582,7 @@ Tous les 3 mois, nous avons la possibilité de discuter, de partager autant nos 
 
 **Contrairement en France, où parler d’argent reste encore tabou, nous pouvons nous lâcher aux Etats Unis.**
 
-Lors de ces sessions, nous en discutons. Il y aura bien quelqu’un dans la salle qui sera capable de nous aider, de débloquer une situation, de nous donner L’IDEE.
+Lors de ces sessions, nous en discutons. Il y aura bien quelqu’un dans la salle qui sera capable de nous aider, de débloquer une situation, de nous donner L’IDÉE.
 
 Il m’arrive (souvent) d’hésiter quant à la stratégie à adopter. Mettez alors 50 cerveaux en ébullition, et vous verrez alors les résultats. Il y aura bien quelqu’un qui me donnera l’outil informatique à utiliser, un livre à lire, une idée à 50 000 € !
 
@@ -740,7 +740,7 @@ Cela nous permet de garder la direction une fois choisie et il est toujours plus
 
 Je pense qu’il est bien d’ajouter à cette liste d’engagements ce que nous appelons une grenouille. Une grenouille, c’est quelque chose que nous devrions faire, mais nous avons du mal à nous y mettre. Si nous l’ajoutons aux engagements, nous aurons une plus grande motivation à commencer, parce qu’une semaine plus tard, nous devons présenter les résultats obtenus.
 
-A la fin de la réunion, nous pouvons ajouter encore une phrase : Je vous remercie de la réunion d’aujourd’hui. Ce sont mes engagements pour la semaine prochaine et, bien sûr, je m’engage à maintenir la confidentialité.
+À la fin de la réunion, nous pouvons ajouter encore une phrase : Je vous remercie de la réunion d’aujourd’hui. Ce sont mes engagements pour la semaine prochaine et, bien sûr, je m’engage à maintenir la confidentialité.
 
 **J’ai peur de partager ouvertement mes plans pour l’entreprise ? Est-ce qu’il est arrivé que quelque chose de confidentiel a été rendu public ?**
 
@@ -860,11 +860,11 @@ Une fois  ces 6 exigences satisfaites, toutes les actions qui semblaient imposs
     
     "𝘿𝙚́𝙘𝙤𝙪𝙫𝙧𝙚𝙯 𝙡𝙖 𝙢𝙚́𝙩𝙝𝙤𝙙𝙚 𝙑𝙀𝙂𝘼 𝙥𝙤𝙪𝙧 𝙙𝙚́𝙫𝙚𝙡𝙤𝙥𝙥𝙚𝙧 𝙫𝙤𝙩𝙧𝙚 𝙫𝙞𝙨𝙞𝙗𝙞𝙡𝙞𝙩𝙚́ 𝙨𝙪𝙧 𝙞𝙣𝙩𝙚𝙧𝙣𝙚𝙩 𝙚𝙩 𝙖𝙩𝙩𝙞𝙧𝙚𝙧 𝙣𝙖𝙩𝙪𝙧𝙚𝙡𝙡𝙚𝙢𝙚𝙣𝙩 𝙫𝙤𝙨 𝙣𝙤𝙪𝙫𝙚𝙖𝙪𝙭 𝙘𝙡𝙞𝙚𝙣𝙩𝙨 𝙨𝙤𝙪𝙨 90 𝙟𝙤𝙪𝙧𝙨... 𝙎𝙖𝙣𝙨 𝙫𝙤𝙪𝙨 𝙘𝙤𝙢𝙥𝙡𝙞𝙦𝙪𝙚𝙧 𝙡𝙖 𝙫𝙞𝙚 𝙖𝙫𝙚𝙘 𝙡𝙖 𝙩𝙚𝙘𝙝𝙣𝙞𝙦𝙪𝙚 !"
     
-    [https://veronique-gachet.com/mc-4-etapes/](https://l.facebook.com/l.php?u=https%3A%2F%2Fveronique-gachet.com%2Fmc-4-etapes%2F%3Ffbclid%3DIwAR1CIMZG1Jc21nrb-SkacmL0e9GSyW7VQl93pHIB77i1k8vR-wEq3FvqYTI&h=AT2YnlQQnRm7KJ2fSxFff9hxOv-KeWDgNdhlMK3o6rN2JuMPLpoxV-8zXMzvfddjSJNABVznWUlm8fzZzx4EZMGwK1FsC70A-zKYGdaHqsy9lcx24BGEeHhU2Um7asq3j-zv)
+    [https://veronique-gachet.com/mc-4-etapes/](__MASK_31__)
     
     🎥. Vous pouvez également visiter ma chaîne Youtube ici :
     
-    [https://www.youtube.com/c/VeroniquegachetCommunication](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fc%2FVeroniquegachetCommunication%3Ffbclid%3DIwAR3qpg2fWWLfh7qehhf6ffxne9kiDKs2jBeDOy_exJ8yP_J0lxVo1phz_Yw&h=AT0GKwYwRvxDBkEt6PHbL4PllgcQz-Mxn9pYGhcZzLlsiBbj7-GXQGH1t1-lbOlLRhoTaS3ZGoLrww1YGuJwSw-hIJW_MeqpjBTQmg_K7bFqEIU8VQ46T70oy4WKXoTLKIzC)
+    [https://www.youtube.com/c/VeroniquegachetCommunication](__MASK_32__)
     
     ⛔. Tous les visuels de ce groupe sont la propriété exclusive de Véronique Gachet Communication. Illustratrice : @drawfeminism - Margot Koskas).
     
@@ -933,7 +933,7 @@ Une fois  ces 6 exigences satisfaites, toutes les actions qui semblaient imposs
 
 [(11) WP Reactions Pro v2.6.83 - #1 Wordpress Emoji Reaction | Babiato Forums](https://babiato.co/resources/wp-reactions-pro-1-wordpress-emoji-reaction.18430/)
 
-[Building a community for your startup? Use these strategies right now - TexAu](https://texau.app/blog/community-building)
+[Building a community for your startup? Use these stratégies right now - TexAu](https://texau.app/blog/community-building)
 
 En connectant les deux, vous pouvez combiner le forum de bbPress avec les profils améliorés de BuddyPress et d’autres aspects axés sur la communauté (groupes, notifs, profils, msgs privés)
 
@@ -951,4 +951,4 @@ En connectant les deux, vous pouvez combiner le forum de bbPress avec les profil
 
 [Home - Youzify (formerly Youzer)](https://youzify.com/)
 
-[https://heartbeatchat.notion.site/Heartbeat-s-Community-Launch-Guide-5555e278c2174d20894ae50144c54d2f](https://www.notion.so/5555e278c2174d20894ae50144c54d2f?pvs=21)
+[https://heartbeatchat.notion.site/Heartbeat-s-Community-Launch-Guide-5555e278c2174d20894ae50144c54d2f](__MASK_56__)

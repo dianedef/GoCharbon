@@ -16,7 +16,7 @@ imgUrl: ../../assets/astro.jpeg
 
 [Comment traduire rapidement son site WordPress ? - Outils - Growthhacking.fr | Communauté française de growth hacking](https://www.growthhacking.fr/t/comment-traduire-rapidement-son-site-wordpress/21078)
 
-[https://wprock.fr/blog/weglot-wordpress-multilingue-traduction/](https://wprock.fr/blog/weglot-wordpress-multilingue-traduction/)
+[https://wprock.fr/blog/weglot-wordpress-multilingue-traduction/](__MASK_5__)
 
 rendre multilingues et offrir une première version **traduite de manière automatique**.
 
@@ -38,11 +38,11 @@ Pour offrir une version traduite de nos site, Weglot fonctionne de la manière s
 
 Soit la traduction est déjà connue par l’API (soit parce quelle à déjà été traduite automatiquement, soit parce quelle à déjà été modifié manuellement) et est directement renvoyée, soit elle est inconnue et c’est alors une traduction automatique qui sera proposée.
 
-cet outil s’intègre à toutes les technologies web. Dans le cas de WordPress, l’intégration peut se faire avec une extension. Mais il est possible de traduire toutes sortes de sites. Vous pourrez en savoir plus sur les différentes possibilités d’intégration de Weglot ici : [https://weglot.com/integrations/](https://weglot.com/integrations/?fp_ref=wprock)
+cet outil s’intègre à toutes les technologies web. Dans le cas de WordPress, l’intégration peut se faire avec une extension. Mais il est possible de traduire toutes sortes de sites. Vous pourrez en savoir plus sur les différentes possibilités d’intégration de Weglot ici : [https://weglot.com/integrations/](__MASK_6__)
 
 12 **créer un compte** pour accéder à l’administration des traductions et à notre **clé API**. Cette clé API permet de connecter Weglot avec le site à traduire et à rendre multilingue.
 
-Pour l’obtenir, rendez-vous ici : [https://weglot.com/register-wordpress](https://weglot.com/register-wordpress?fp_ref=wprock)
+Pour l’obtenir, rendez-vous ici : [https://weglot.com/register-wordpress](__MASK_7__)
 
 Toujours dans un esprit de simplicité, la **création du compte** ne demande que 2 informations : **Une adresse mail** et **un mot de passe**.
 
@@ -146,8 +146,8 @@ Voici à quoi ces données ressemblent. C’est un code ajouté sur les pages de
 
 Weglot a également été pensé pour les développeurs ! Voici les ressources mises à votre disposition :
 
-* Toutes les méthodes pour gérer les textes qui resteraient non traduits : [https://developers.weglot.com/wordpress/filters/translations-filters](https://developers.weglot.com/wordpress/filters/translations-filters) (Il est à noter que vous pouvez également contacter le suport pour obtenir de l’aide)
-* L’extension Weglot propose énormément de Hook qui vous permet de modifier son fonctionnement : [https://developers.weglot.com/wordpress/filters/other-filters](https://developers.weglot.com/wordpress/filters/other-filters)
+* Toutes les méthodes pour gérer les textes qui resteraient non traduits : [https://developers.weglot.com/wordpress/filters/translations-filters](__MASK_11__) (Il est à noter que vous pouvez également contacter le suport pour obtenir de l’aide)
+* L’extension Weglot propose énormément de Hook qui vous permet de modifier son fonctionnement : [https://developers.weglot.com/wordpress/filters/other-filters](__MASK_12__)
 
 ## [WPML ou Polylang, comment choisir son extension multilingue](https://www.lumieredelune.com/wpml-polylang-choisir-extension-multilingue)
 
@@ -159,7 +159,7 @@ Je ne l'ai volontairement pas mentionné parce qu'il fonctionne sur un principe 
 
 [WPML](https://wpml.org/?aid=7247&affiliate_key=qejpptl4CWrb) est une extension qui permet d'activer le multilinguisme sur WordPress et qui vient du monde de la traduction. La société éditrice du plugin, OnTheGo System gère aussi un service de traduction "I Can Localize". Il me semble, mais je peux me tromper qu'ICL a existé d'abord, puis OnTheGo avec le développement de WPML dans le monde WordPress. En tout cas, OnTheGo – et donc WPML – existe depuis **2007**. J'ai acheté WPML vers 2010, je pense, en 2014 j'ai acheté une licence illimitée à vie. WPML n'a pas de version gratuite.
 
-[Polylang](https://fr.wordpress.org/plugins/polylang/) est venu nettement plus tard, avec une release 0.1 qui date du 22 septembre **2011**. Pour pouvoir s'imposer dans un mode où WPML était déjà omniprésent, Polylang a fait le choix de s'appuyer sur le paramétrage wpml (le fichier wpml-config.xml) et de redéfinir dans son plugin certaines fonctions comme icl_​get_​home_​url(). Polylang a une version gratuite, et trois packages payant. Polylang n'a **pas de fonction permettant de gérer les traducteurs et traductions**, que ce soit en interne ou en externe (à l'exception de l'import/export de traduction de chaines en xliff).
+[Polylang](https://fr.wordpress.org/plugins/polylang/) est venu nettement plus tard, avec une release 0.1 qui date du 22 septembre **2011**. Pour pouvoir s'imposer dans un mode où WPML était déjà omniprésent, Polylang a fait le choix de s'appuyer sur le paramétrage wpml (le fichier wpml-config.xml) et de redéfinir dans son plugin certaines fonctions comme icl_​get_​home_​url(). Polylang a une version gratuite, et trois packages payant. Polylang n'a **pas de fonction permettant de gérer les traducteurs et traductions**, que ce soit en interne ou en externe (à l'exception de l'import/export de traduction de chaînes en xliff).
 
 Ce sont donc **deux extensions différentes dans leur philosophie** et leurs objectifs, comme dans leurs options techniques.
 
@@ -294,7 +294,7 @@ Et réenregistrer la traduction de toutes vos options.
 
 ## Traduction des Médias
 
-On arrive maintenant à la traduction des médias, où **vous risquez tout simplement, là encore de perdre des données si vous migrez**. WPML et Polylang fonctionne sur le même principe de non-​duplication des fichiers, et de traduction "simple" des chaines.
+On arrive maintenant à la traduction des médias, où **vous risquez tout simplement, là encore de perdre des données si vous migrez**. WPML et Polylang fonctionne sur le même principe de non-​duplication des fichiers, et de traduction "simple" des chaînes.
 
 WPML offre une **fonctionnalité supplémentaire**, que Polylang considère inutile : **la possibilité de mettre un fichier différent dans une langue donnée**. Très utile si votre image comporte beaucoup de texte, un nom de recette par exemple ^^ et que vous l'avez en image à la une. Pour Polylang, il s'agit à ce moment là d'une image différente que vous n'avez pas besoin de traduire, vous avez un autre media et puis voilà, c'est tout.
 
@@ -309,7 +309,7 @@ Polylang **synchronise automatiquement les images à la une**. Donc avec le sy
 
 Là c'est simple, **Polylang ne permet pas de traduire autre chose que la bio**. Avec un champ "en anglais", "en français"… et j'ose à peine imaginer s'il y a une dizaine de langues :) La traduction est stockée comme un usermeta supplémentaire, avec comme meta_​key "description_​en", ce qui veut dire qu'**on ne peut pas gérer deux versions d'anglais différentes** (en-​US et en-​GB par exemple).
 
-Avec WPML, il est possible de traduire un certain nombre d'éléments, soit par la traduction de chaine, soit par la traduction des champs ACF.
+Avec WPML, il est possible de traduire un certain nombre d'éléments, soit par la traduction de chaîne, soit par la traduction des champs ACF.
 
 Par exemple, une profession, un diplôme, ou même le "nice name" (nom affiché). Eh oui, si mon user s'affiche comme "La Marmite" en français, il sera autre chose en anglais… Mais si on modifie la valeur d'un champ, ACF ou pas, avec Polylang, elle est automatiquement reportée dans l'autre langue, même si le champ est marqué comme "traduisible".
 
@@ -513,13 +513,13 @@ Soit la traduction est déjà connue par l'API (soit parce quelle à déjà ét�
 
 **C'est donc un site déjà entièrement rendu multilingue et traduit que vous obtiendrez juste après avoir activé l'extension Weglot et y avoir renseigné votre clé API. 🎉 🎊 🎉**
 
-Jusqu'ici j'ai parlé de service et pas encore d'extension WordPress. En effet, cet outil s'intègre à toutes les technologies web. Dans le cas de WordPress, l'intégration peut se faire avec une extension. Mais il est possible de traduire toutes sortes de sites. Vous pourrez en savoir plus sur les différentes possibilités d'intégration de Weglot ici : [https://weglot.com/integrations/](https://weglot.com/integrations/?fp_ref=wprock)
+Jusqu'ici j'ai parlé de service et pas encore d'extension WordPress. En effet, cet outil s'intègre à toutes les technologies web. Dans le cas de WordPress, l'intégration peut se faire avec une extension. Mais il est possible de traduire toutes sortes de sites. Vous pourrez en savoir plus sur les différentes possibilités d'intégration de Weglot ici : [https://weglot.com/integrations/](__MASK_36__)
 
 ## Weglot : Traduire et Rendre Multilingue Un Site WordPress
 
 La **première étape** est de **créer un compte** pour accéder à l'administration des traductions et à notre **clé API**. Cette clé API permet de connecter Weglot avec le site à traduire et à rendre multilingue.
 
-Pour l'obtenir, rendez-vous ici : [https://weglot.com/register-wordpress](https://weglot.com/register-wordpress?fp_ref=wprock)
+Pour l'obtenir, rendez-vous ici : [https://weglot.com/register-wordpress](__MASK_37__)
 
 [](https://wprock.fr/wp-content/uploads/2019/12/Weglot-creation-compte-API.png)
 
@@ -680,7 +680,7 @@ Voici à quoi ces données ressemblent. C'est un code ajouté sur les pages de v
 
 Weglot a également été pensé pour les développeurs ! Voici les ressources mises à votre disposition :
 
-* Les fonctions "clés en main" : [https://developers.weglot.com/wordpress/helpers-functions](https://developers.weglot.com/wordpress/helpers-functions)
-* Toutes les méthodes pour gérer les textes qui resteraient non traduits : [https://developers.weglot.com/wordpress/filters/translations-filters](https://developers.weglot.com/wordpress/filters/translations-filters) (Il est à noter que vous pouvez également contacter le suport pour obtenir de l'aide)
-* L'extension Weglot propose énormément de Hook qui vous permet de modifier son fonctionnement : [https://developers.weglot.com/wordpress/filters/other-filters](https://developers.weglot.com/wordpress/filters/other-filters)
-* Enfin, vous disposez de différents use cases expliqués ici : [https://developers.weglot.com/wordpress/use-cases](https://developers.weglot.com/wordpress/use-cases)
+* Les fonctions "clés en main" : [https://developers.weglot.com/wordpress/helpers-functions](__MASK_53__)
+* Toutes les méthodes pour gérer les textes qui resteraient non traduits : [https://developers.weglot.com/wordpress/filters/translations-filters](__MASK_54__) (Il est à noter que vous pouvez également contacter le suport pour obtenir de l'aide)
+* L'extension Weglot propose énormément de Hook qui vous permet de modifier son fonctionnement : [https://developers.weglot.com/wordpress/filters/other-filters](__MASK_55__)
+* Enfin, vous disposez de différents use cases expliqués ici : [https://developers.weglot.com/wordpress/use-cases](__MASK_56__)

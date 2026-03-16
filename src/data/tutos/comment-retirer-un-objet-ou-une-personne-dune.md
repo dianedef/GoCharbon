@@ -12,30 +12,30 @@ pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Comment Retirer Un Objet Ou Une Personne d'Une Video
+# Comment Retirer Un Objet Ou Une Personne d'Une Vidéo
 
-## EFFACEMENT VIDEO : FAIS DISPARAITRE CE QUI GENE
+## EFFACEMENT VIDÉO : FAIS DISPARAITRE CE QUI GENE
 
-Un passant dans ton plan, un logo genant, un cable visible, une poubelle dans le cadre... Tu n'as pas besoin de retourner ta scene. Les outils actuels permettent d'effacer proprement des elements indesirables dans une video, meme en mouvement.
+Un passant dans ton plan, un logo genant, un cable visible, une poubelle dans le cadre... Tu n'as pas besoin de retourner ta scene. Les outils actuels permettent d'effacer proprement des elements indesirables dans une vidéo, même en mouvement.
 
 ---
 
 ## Comment Ca Marche Techniquement
 
-L'effacement d'objet dans une video repose sur l'**inpainting temporel** : l'algorithme analyse les frames precedentes et suivantes pour reconstituer ce qui se trouve derriere l'objet supprime. Plus l'arriere-plan est simple et statique, meilleur sera le resultat.
+L'effacement d'objet dans une vidéo repose sur l'**inpainting temporel** : l'algorithme analyse les frames precedentes et suivantes pour reconstituer ce qui se trouve derriere l'objet supprime. Plus l'arriere-plan est simple et statique, meilleur sera le resultat.
 
 ---
 
 ## Methode 1 : After Effects - Content-Aware Fill
 
-C'est la reference Adobe pour ce type de tache.
+C'est la reference Adobe pour ce type de tâche.
 
 ### Etapes
 
-1. Importe ta video dans After Effects
-2. Selectionne le clip et utilise l'outil **Roto Brush** (raccourci Alt+W)
-3. Peins sur l'objet ou la personne a supprimer. Roto Brush detecte automatiquement les contours.
-4. Affine la selection frame par frame si necessaire (Roto Brush 2 utilise l'IA)
+1. Importe ta vidéo dans After Effects
+2. Sélectionne le clip et utilise l'outil **Roto Brush** (raccourci Alt+W)
+3. Peins sur l'objet ou la personne a supprimer. Roto Brush détecte automatiquement les contours.
+4. Affine la selection frame par frame si nécessaire (Roto Brush 2 utilise l'IA)
 5. Une fois le masque propre, va dans **Window > Content-Aware Fill**
 6. Choisis la methode de remplissage : **Object** pour un element isole, **Surface** pour une texture
 7. Ajuste l'**Alpha Expansion** (2-4 pixels) pour eviter les bords visibles
@@ -56,7 +56,7 @@ La version Studio (295 USD / 295 EUR, achat unique a vie) de DaVinci Resolve inc
 
 1. Passe en onglet **Color**
 2. Utilise un **Power Window** (cercle, rectangle ou courbe) pour isoler l'objet
-3. Active le **Tracker** pour que la fenetre suive le mouvement
+3. Active le **Tracker** pour que la fenêtre suive le mouvement
 4. Applique l'outil **Object Removal** dans le panneau de retouche
 5. DaVinci reconstruit l'arriere-plan automatiquement
 
@@ -70,14 +70,14 @@ La methode la plus rapide pour les non-techniciens :
 
 1. Va sur runwayml.com
 2. Choisis l'outil **Inpainting**
-3. Importe ta video
-4. Peins un masque sur l'objet a supprimer (tu peux le faire sur la premiere frame et Runway le suit automatiquement)
+3. Importe ta vidéo
+4. Peins un masque sur l'objet a supprimer (tu peux le faire sur la première frame et Runway le suit automatiquement)
 5. Clique sur Generate
 6. Telecharge le resultat
 
-**Tarifs Runway (2025)** : gratuit (tres limite), Standard 12 USD/mois, Pro 28 USD/mois (2250 credits), Unlimited 76 USD/mois. Le systeme est base sur des credits : un inpainting simple coute 1-2 credits, une generation video peut aller de 5 a 20 credits selon la resolution.
+**Tarifs Runway (2025)** : gratuit (très limite), Standard 12 USD/mois, Pro 28 USD/mois (2250 credits), Unlimited 76 USD/mois. Le système est base sur des credits : un inpainting simple coûte 1-2 credits, une generation vidéo peut aller de 5 a 20 credits selon la resolution.
 
-**Limites** : resolution parfois reduite, credits payants, duree limitee par generation.
+**Limites** : resolution parfois reduite, credits payants, durée limitee par generation.
 
 ---
 
@@ -86,8 +86,8 @@ La methode la plus rapide pour les non-techniciens :
 ProPainter est un modele open source de recherche (S-Lab, NTU, presente a ICCV 2023) qui donne d'excellents resultats. Le code est disponible sur github.com/sczhou/ProPainter.
 
 1. Installe Python et les dependances (voir le README GitHub)
-2. Genere les masques de l'objet a supprimer (tu peux utiliser SAM - Segment Anything Model)
-3. Lance ProPainter avec ta video et les masques
+2. Génère les masques de l'objet a supprimer (tu peux utiliser SAM - Segment Anything Model)
+3. Lance ProPainter avec ta vidéo et les masques
 4. Le modele reconstruit l'arriere-plan frame par frame
 
 C'est plus technique mais le resultat est souvent superieur aux outils commerciaux.
@@ -100,7 +100,7 @@ C'est plus technique mais le resultat est souvent superieur aux outils commercia
 
 Pour retirer une personne d'un plan simple :
 
-1. Importe ta video dans CapCut
+1. Importe ta vidéo dans CapCut
 2. Duplique le clip sur une piste superieure
 3. Recadre/zoome le clip duplique pour couvrir la zone a masquer
 4. Utilise un masque pour ne montrer que la zone de remplacement
@@ -119,7 +119,7 @@ Ca ne marche que si l'arriere-plan est repetitif (mur, sol uni).
 
 ### Pendant l'edition
 
-- **Traite par segments** : decoupe la video en sections courtes pour un meilleur resultat
+- **Traite par segments** : decoupe la vidéo en sections courtes pour un meilleur resultat
 - **Verifie frame par frame** : les artefacts apparaissent souvent sur 2-3 frames
 - **Attention aux ombres** : supprimer l'objet mais garder son ombre, ca se voit
 - **Grain et bruit** : ajoute du grain pour uniformiser la zone reconstruite avec le reste
@@ -128,10 +128,10 @@ Ca ne marche que si l'arriere-plan est repetitif (mur, sol uni).
 
 ## Comparatif
 
-| Outil | Difficulte | Prix | Qualite resultat | Camera mobile |
+| Outil | Difficulte | Prix | Qualité resultat | Camera mobile |
 |-------|-----------|------|-----------------|---------------|
 | After Effects | Avance | ~23 USD/mois (plan annuel) | Excellente | Oui |
-| DaVinci Studio | Intermediaire | 295 USD (achat unique) | Tres bonne | Oui |
+| DaVinci Studio | Intermediaire | 295 USD (achat unique) | Très bonne | Oui |
 | Runway ML | Facile | A partir de 12 USD/mois (credits) | Bonne | Limitee |
 | ProPainter | Technique | Gratuit (open source) | Excellente | Oui |
 | DiffuEraser | Technique | Gratuit (open source) | Excellente+ | Oui |
@@ -150,8 +150,8 @@ Ca ne marche que si l'arriere-plan est repetitif (mur, sol uni).
 
 ## Ressources
 
-- [Video : Montage Video IA - Les 5 outils que nous recommandons](https://youtu.be/aLMFZ2gwOFQ?t=353)
+- [Vidéo : Montage Vidéo IA - Les 5 outils que nous recommandons](https://youtu.be/aLMFZ2gwOFQ?t=353)
 - [After Effects - Content-Aware Fill documentation Adobe](https://helpx.adobe.com/after-effects/using/content-aware-fill.html)
-- [ProPainter sur GitHub](https://github.com/sczhou/ProPainter) (open source, inpainting video)
+- [ProPainter sur GitHub](https://github.com/sczhou/ProPainter) (open source, inpainting vidéo)
 - [DiffuEraser sur GitHub](https://github.com/lixiaowen-xw/DiffuEraser) (successeur de ProPainter, 2025)
-- [Runway ML](https://runwayml.com/) : inpainting, generation video IA (a partir de 12 USD/mois)
+- [Runway ML](https://runwayml.com/) : inpainting, generation vidéo IA (a partir de 12 USD/mois)

@@ -28,7 +28,7 @@ si vous l’acceptez...
 1. Indiquez-nous votre problématique (prospection, brand awareness...)2. Sélectionnez les réseaux sociaux que vous souhaitez exploiter pour croître3. Remplissez notre formulaire de cadre de mission (marché cible, prospect idéal...)3. Nos agent reviennent vers vous avec une proposition détaillée (types de robots, nombre de robots, quels réseaux sociaux vont fonctionner pour vous...)4. Vous n'avez plus qu'à valider et attendre vos Report de performance hebdomadaire !
 
 
-[https://www.mynameisbond.co/](https://www.mynameisbond.co/)
+[https://www.mynameisbond.co/](__MASK_0__)
 
 ## **L’analyse client de la semaine : +687 abonnés en 3 semaines**
 

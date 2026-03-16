@@ -96,7 +96,7 @@ A chaque classe virtuelle son déroulé et donc chaque facilitateur dispose du m
 
 Ce déroulé, c’est pendant l’animation, un **assistant virtuel** pour le facilitateur. Il passe d’étape en étape en un clic et toutes les ressources se distribuent aux participants sur les différentes tables automatiquement. Le facilitateur est concentré sur son groupe et plus jamais sur les sujets techniques.
 
-A la fin de la formation, un espace de synthèse permet de récupérer tous les éléments nécessaires et d’administrer la fin de la formation.
+À la fin de la formation, un espace de synthèse permet de récupérer tous les éléments nécessaires et d’administrer la fin de la formation.
 
 Donc c’est l’efficacité à tous les niveaux : pour la **préparation**, pour l’**animation**, pour la **gestion** et pour la **scalabilité**.
 

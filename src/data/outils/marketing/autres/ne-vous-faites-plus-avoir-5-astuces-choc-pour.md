@@ -13,7 +13,7 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 
-[https://www.easytutoriel.com/reconnaitre-site-en-ligne-serieux.html](https://www.easytutoriel.com/reconnaitre-site-en-ligne-serieux.html)
+[https://www.easytutoriel.com/reconnaitre-site-en-ligne-serieux.html](__MASK_0__)
 
 Aujourd’hui, un grand nombre de personnes naviguent sur différents sites Internet sans savoir s’ils sont fiables ou pas. Malheureusement, il existe certains sites frauduleux qui existent seulement pour récupérer vos données personnelles, vous arnaquer, etc. Alors, comment reconnaître un site sérieux et de confiance ? Nous faisons le point !
 

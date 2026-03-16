@@ -180,7 +180,7 @@ Pour améliorer encore ta vitesse de montage, pense à personnaliser les raccour
 
 ## Conclusion
 
-En conclusion, ces astuces de montage, nées de mon passage de Premiere Pro à DaVinci Resolve, se sont révélées inestimables pour gagner du temps et économiser des efforts. Essaie-les, et tu remarqueras probablement une amélioration significative de ton efficacité en matière de montage. Si tu as des questions ou si tu as besoin d'éclaircissements sur un point, n'hésite pas à laisser un commentaire. Merci d'avoir pris le temps d'explorer ces conseils, et j'espère qu'ils amélioreront ton expérience du montage vidéo dans DaVinci Resolve. Bon montage !
+En conclusion, ces astuces de montage, nées de mon passage de Première Pro à DaVinci Resolve, se sont révélées inestimables pour gagner du temps et économiser des efforts. Essaie-les, et tu remarqueras probablement une amélioration significative de ton efficacité en matière de montage. Si tu as des questions ou si tu as besoin d'éclaircissements sur un point, n'hésite pas à laisser un commentaire. Merci d'avoir pris le temps d'explorer ces conseils, et j'espère qu'ils amélioreront ton expérience du montage vidéo dans DaVinci Resolve. Bon montage !
 
 
 # 10 Astuces pour Améliorer Votre Workflow de Montage Vidéo
@@ -201,7 +201,7 @@ Simplifiez l'accès à vos dossiers fréquemment utilisés en les ajoutant à la
 Investissez du temps dans la sélection minutieuse de vos séquences. Créez des "Sizzle reels" en faisant des sélections à partir de vos journées de tournage. Référez-vous à ces extraits pour une recherche rapide des moments forts, améliorant ainsi l'efficacité de votre montage.
 
 ## 6. Utilisez les "Smart Bins" ou "Search Bins"
-Gardez votre pool média organisé avec les "Smart Bins" dans DaVinci ou les "Search Bins" dans Premiere Pro. Créez des dossiers dynamiques qui regroupent automatiquement vos éléments en fonction de critères spécifiques, simplifiant ainsi la gestion de vos projets.
+Gardez votre pool média organisé avec les "Smart Bins" dans DaVinci ou les "Search Bins" dans Première Pro. Créez des dossiers dynamiques qui regroupent automatiquement vos éléments en fonction de critères spécifiques, simplifiant ainsi la gestion de vos projets.
 
 ## 7. Montez à partir de Disques SSD
 Privilégiez les disques SSD pour le montage vidéo. Ces disques, bien que plus coûteux, offrent une fiabilité accrue, des vitesses de transfert plus rapides, et améliorent considérablement la fluidité du processus de montage.
@@ -344,11 +344,11 @@ Le zoom avant et arrière peut ajouter une couche de dynamisme à votre séquenc
 
 ")
 
-#### Partager des fichiers entre Premiere Pro et Resolve
+#### Partager des fichiers entre Première Pro et Resolve
 
-Avec un flux de travail de Premiere à DaVinci, les monteurs et les coloristes peuvent partager des lignes de temps préconçues entre les stations de travail.
+Avec un flux de travail de Première à DaVinci, les monteurs et les coloristes peuvent partager des lignes de temps préconçues entre les stations de travail.
 
-[Flux de travail entre Premiere et DaVinci Resolve >](https://massive.io/fr/(https://massive.io/tutoriels/flux-de-travail-de-premiere-a-davinci/)
+[Flux de travail entre Première et DaVinci Resolve >](https://massive.io/fr/(https://massive.io/tutoriels/flux-de-travail-de-premiere-a-davinci/)
 
 ## L'étalonnage des couleurs
 

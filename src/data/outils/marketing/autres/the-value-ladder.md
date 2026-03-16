@@ -171,7 +171,7 @@ C'est un bon début, mais ce n'est pas suffisant d'avoir un joli log
 
 [](https://www.palessishoes.com/)
 
-[**Palessi Shoes**](https://www.palessishoes.com/)[https://www.palessishoes.com/](https://www.palessishoes.com/)
+[**Palessi Shoes**](https://www.palessishoes.com/)[https://www.palessishoes.com/](__MASK_5__)
 
 Il faut aussi faire vivre une expérience aux acheteurs.  
   

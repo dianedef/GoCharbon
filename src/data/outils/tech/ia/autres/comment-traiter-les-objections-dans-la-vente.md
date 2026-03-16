@@ -42,7 +42,7 @@ Derived from martial arts principles, the Frisbee Technique teaches sales profes
 
 2. **Handling**: Take a moment to understand the objection fully and prepare a thoughtful response. Avoid rushing to counter the objection; instead, focus on addressing the underlying needs of your prospect. By demonstrating patience and empathy, you can defuse tension and build trust.
 
-3. **Return**: Softly redirect the objection back to the prospect, fostering collaboration and mutual understanding. Offer alternative perspectives or solutions that align with their needs and goals. By involving the prospect in the conversation, you empower them to take ownership of the decision-making process.
+3. **Return**: Softly redirect the objection back to the prospect, fostering collaboration and mutual understanding. Offer alternative perspectives or solutions that align with their needs and goals. By involving the prospect in the conversation, you empower them to take ownership of the décision-making process.
 
 ### Applying the Frisbee Technique
 
@@ -63,4 +63,4 @@ While the Frisbee Technique is primarily designed for handling objections in sal
 Ready to take your sales game to the next level? Download our free PDF guide summarizing the Frisbee Technique and discover more examples for handling objections effectively. With dedication and practice, you can master the art of objection handling and unlock new opportunities for success in your sales journey.
 
 ### Meta Description:
-Discover the Frisbee Technique – a powerful method for handling sales objections with grace and professionalism. Learn how to receive, understand, and respond to objections effectively to win over potential clients. Download our free PDF guide to unlock your sales potential today.
+Discover the Frisbee Technique – a powerful method for handling sales objections with grâce and professionalism. Learn how to receive, understand, and respond to objections effectively to win over potential clients. Download our free PDF guide to unlock your sales potential today.

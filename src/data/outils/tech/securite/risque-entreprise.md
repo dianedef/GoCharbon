@@ -111,7 +111,7 @@ The idea, much like with Shadow IT, isn't necessarily to ban these tools outrigh
 Here are some tips to secure the usage:
 
 - Prefer paid models (guaranteeing strict data confidentiality), or consider developing your own in-house tools if you have the capacity. For instance, AXA chose to deploy its internal generative AI platform based on OpenAI solutions, developed in partnership with Microsoft.
-- Implement safeguards. You can, for example, add an additional security layer to analyze prompts automatically and block (or require validation for) those that do not comply with your security policy. If you adopt this approach, make sure to inform your employees of the reasoning behind this decision.
+- Implement safeguards. You can, for example, add an additional security layer to analyze prompts automatically and block (or require validation for) those that do not comply with your security policy. If you adopt this approach, make sure to inform your employees of the reasoning behind this décision.
 - Update your internal regulations to govern the use of generative AI. A best practice is to formally prohibit the disclosure of any confidential information to these tools.
 - Train and educate your employees. Tailor your messaging based on different employee profiles, as individuals aged 18-35 are more inclined to use generative AI. Regarding non-disclosure of "confidential/sensitive" data, ensure your employees have a clear understanding of the types of data involved. Provide them with a precise list of data for which AI usage is prohibited (source code, confidential employee information, patents, supplier information, etc.). This way, there are no unpleasant surprises!
 

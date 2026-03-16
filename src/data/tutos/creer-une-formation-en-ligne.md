@@ -28,7 +28,7 @@ de nos jours toute l’info est dispo et nos agendas sont trop remplis. Si tu me
 8 formation sur 10 sont éclatée et horizontales (pas spécialisée sur un sujet)
 
 mon propre parcours chronologique
-multiplier la façon dont l'auditeur peut consommer le contenu : video, audio, étude de cas, exercices
+multiplier la façon dont l'auditeur peut consommer le contenu : vidéo, audio, étude de cas, exercices
 
 ## Intro
 
@@ -974,7 +974,7 @@ Voici quelques bons exemples de PVU :
 
 For example, for the
 
-**SEO for Solopreneurs** course, the author wrote “The minimum maintenance, maximum results guide to putting your traffic & sales on autopilot.”, here, there are mostly benefits which can be summarized as “making more money with your business without much effort”.This USP would have been way less impactful if it were “32 videos to help you learn SEO for your business.”  
+**SEO for Solopreneurs** course, the author wrote “The minimum maintenance, maximum results guide to putting your traffic & sales on autopilot.”, here, there are mostly benefits which can be summarized as “making more money with your business without much effort”.This USP would have been way less impactful if it were “32 vidéos to help you learn SEO for your business.”  
 
 2.
 

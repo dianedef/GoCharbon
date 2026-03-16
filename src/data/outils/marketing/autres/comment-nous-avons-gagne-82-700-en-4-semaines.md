@@ -141,4 +141,4 @@ J'ai inclus plusieurs autres conseils et leçons tirés du lancement du cours da
 
 [ ](https://contrarianthinking.co/how-to-launch-a-course-that-makes-82k-in-4-weeks/)
 
-[Comment lancer un cours et gagner 82 700 $ en 4 semaines ? - Pensée contrariante**Voler l'audience des autres pour développer la vôtre et pourquoi le contenu est roi aujourd'hui plus que jamais. Bienvenue aux milliers de nouveaux Contrariens qui nous ont rejoints](https://contrarianthinking.co/how-to-launch-a-course-that-makes-82k-in-4-weeks/)[https://contrarianthinking.co/how-to-launch-a-course-that-makes-82k-in-4-weeks/](https://contrarianthinking.co/how-to-launch-a-course-that-makes-82k-in-4-weeks/)
+[Comment lancer un cours et gagner 82 700 $ en 4 semaines ? - Pensée contrariante**Voler l'audience des autres pour développer la vôtre et pourquoi le contenu est roi aujourd'hui plus que jamais. Bienvenue aux milliers de nouveaux Contrariens qui nous ont rejoints](https://contrarianthinking.co/how-to-launch-a-course-that-makes-82k-in-4-weeks/)[https://contrarianthinking.co/how-to-launch-a-course-that-makes-82k-in-4-weeks/](__MASK_7__)

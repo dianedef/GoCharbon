@@ -20,7 +20,7 @@ imgUrl: ../../../../../assets/astro.jpeg
 ---
 
 [Reviewing Zed: An IDE of the Future | by Yahia Berashish | Stackademic](https://blog.stackademic.com/reviewing-zed-the-ide-of-the-future-305d681d990c)
-People often say AI doesn't work for them because their experience is limited, either by working with outdated, complex codebases that AI wasn't trained on or by not practicing enough with AI tools personally. The perspective matters: engineers stuck in proprietary environments might have a skewed view compared to those who experiment and practice using AI independently. Like learning a musical instrument, getting good with AI requires deliberate, intentional practice and experimentation, rather than expecting it to work perfectly right away.
+People often say AI doesn't work for them because their expérience is limited, either by working with outdated, complex codebases that AI wasn't trained on or by not practicing enough with AI tools personally. The perspective matters: engineers stuck in proprietary environments might have a skewed view compared to those who experiment and practice using AI independently. Like learning a musical instrument, getting good with AI requires deliberate, intentional practice and experimentation, rather than expecting it to work perfectly right away.
 
 # Flowise - Créez des applications LLM sans coder
 
@@ -49,7 +49,7 @@ Pour bien débuter avec Flowise, rien de plus simple :
 1. Installez Node.js (version 18.15.0 ou supérieure)
 2. Exécutez la commande `npm install -g flowise` pour l’installer
 3. Lancez l’application avec `npx flowise start`
-4. Ouvrez votre navigateur à l’adresse [http://localhost:3000](http://localhost:3000/) et c’est parti mon kiki.
+4. Ouvrez votre navigateur à l’adresse [http://localhost:3000](__MASK_5__) et c’est parti mon kiki.
 
 Vous pouvez aussi utiliser l’image Docker si vous préférez.
 

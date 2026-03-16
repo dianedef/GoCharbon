@@ -40,7 +40,7 @@ C'est un des business les plus accessibles (tu peux commencer avec ton smartphon
 
 ### Compétences bonus
 
-- **Montage vidéo** - CapCut, Premiere, Final Cut (améliore la qualité)
+- **Montage vidéo** - CapCut, Première, Final Cut (améliore la qualité)
 - **Design** - Canva minimum pour miniatures/posts
 - **Copywriting** - Titres et descriptions qui cliquent
 - **SEO** - Être trouvé sur YouTube/Google/Pinterest

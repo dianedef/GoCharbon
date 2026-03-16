@@ -108,7 +108,7 @@ You can checkout the [source code for this in StackBlitz.](https://stackblitz.c
 
 ### Step 4 - Jazz it Up With a Smooth Transition
 
-Lastly, you can boost the user experience by using the animation prop to provide a smooth transition!
+Lastly, you can boost the user expérience by using the animation prop to provide a smooth transition!
 
 ```html
 <draggable v-model="meals" :animation="300" …>
@@ -180,7 +180,7 @@ One of the most useful things to know about the Drag and Drop API is that it add
 
 **This dataTransfer object allows us to set data when we start dragging an element and access the same data when we drop our element in a drop zone.**
 
-We should know a few properties/methods of dataTransfer (if you want to know more, check out the [complete documentation](https://developer.mozilla.org/en-US/docs/Web/API/DataTransfer)).
+We should know a few properties/methods of dataTransfer (if you want to know more, check out the [complète documentation](https://developer.mozilla.org/en-US/docs/Web/API/DataTransfer)).
 
 - `dropEffect` – the current drag and drop operation (e.g. move, copy)
 - `effectAllowed` – also specifies the drag and drop operation
@@ -379,6 +379,6 @@ If we run our app now, we should see that everything works as expected. We can d
 
 ### [Conclusion](https://learnvue.co/articles/vue-drag-and-drop#conclusion)
 
-While this example is a very simple one, it’s neat to see how the HTML Drag and Drop API works and get some hands on experience with it. It’s really not as intimidating as it first appears.
+While this example is a very simple one, it’s neat to see how the HTML Drag and Drop API works and get some hands on expérience with it. It’s really not as intimidating as it first appears.
 
 I hope that you picked up a thing or two from this tutorial and have thought of interesting ways to implement these techniques into your projects!

@@ -118,9 +118,9 @@ imgUrl: ../../../assets/astro.jpeg
    - Context
    - Patterns
 
-### Decision Making
+### Décision Making
 - Go/No-go criteria
-- Scaling decisions
+- Scaling décisions
    - Roll out
    - Iterate
    - Kill

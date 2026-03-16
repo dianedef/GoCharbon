@@ -15,12 +15,12 @@ imgUrl: ../../../../assets/astro.jpeg
 
 [Rewind](https://www.rewind.ai/?fbclid=IwAR29pp6GHkHqM2fM92Hm2zrDh0Uin4GESAo4HwpboJjsCVNXvPtCUJOu-TY)
 
-[https://youtu.be/loz6k_PAVLg](https://youtu.be/loz6k_PAVLg)
+[https://youtu.be/loz6k_PAVLg](__MASK_1__)
 
 filestar
 
 - preme windows
-- [https://chrome.google.com/webstore/detail/clipboard-history-pro-bes/ajiejmhbejpdgkkigpddefnjmgcbkenk/reviews](https://chrome.google.com/webstore/detail/clipboard-history-pro-bes/ajiejmhbejpdgkkigpddefnjmgcbkenk/reviews)
+- [https://chrome.google.com/webstore/detail/clipboard-history-pro-bes/ajiejmhbejpdgkkigpddefnjmgcbkenk/reviews](__MASK_2__)
 - mailbird
 - stackers
 - [moo.do](http://moo.do)
@@ -35,7 +35,7 @@ filestar
 
 [Windows 11 Forum](https://www.elevenforum.com/)
 
-[Colorpicker - Complete desktop color app](https://colorpicker.fr/)
+[Colorpicker - Complète desktop color app](https://colorpicker.fr/)
 # Découvrez Colorpicker : Votre Outil Incontournable pour la Gestion des Couleurs
 
 ## Une Interface Intuitive pour une Gestion Efficace des Couleurs

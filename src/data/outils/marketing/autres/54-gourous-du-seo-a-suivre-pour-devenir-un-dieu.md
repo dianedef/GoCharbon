@@ -15,7 +15,7 @@ imgUrl: ../../../../assets/astro.jpeg
 
 [21 must-follow SEO Experts & Resources (that'll up your TRAFFIC game!) - YouTube](https://www.youtube.com/watch?v=BHtTlkmJy0g)
 
-Toute l’équipe de[French Touch SEO](https://www.frenchtouchseo.com/#section-72) que jai deja liké sur twitter
+Toute l’équipe de[French Touch SEO](https://www.frenchtouchseo.com/#section-72) que jai déjà liké sur twitter
 
 Laurent Bourrelly
 
@@ -121,7 +121,7 @@ Pour contacter David, le mieux est d’aller directement sur son site [ninjalink
 
 Nicolas Nguyen, expert SEO et co-fondateur de Reputation Vip et de Semji, et Stéphane Jambu, fondateur de HI-commerce et consultant expert pour des marques comme Jouéclub ou CashPiscine vous expliquent comment réussir vos cocons sémantiques. Grâce à des conseils concrets et des cas clients réussis, découvrez les bonnes pratiques pour réussir vos cocons sémantiques et par conséquent votre stratégie SEO. Si vous souhaitez en savoir + : [semji.com](http://semji.com/)
 
-[https://www.frenchtouchseo.com/](https://www.frenchtouchseo.com/)
+[https://www.frenchtouchseo.com/](__MASK_36__)
 
 [Untitled](https://www.notion.so/%3Chttps://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2bb6ebb-0e8d-4315-97c9-f39f06f0443e/Untitled.png%3E) [Untitled](https://www.notion.so/%3Chttps://s3-us-west-2.amazonaws.com/secure.notion-static.com/85992b8a-3360-4e2d-9ba1-7aef53992c1a/Untitled.png%3E)
 

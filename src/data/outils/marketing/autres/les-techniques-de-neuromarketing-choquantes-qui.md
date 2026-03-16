@@ -53,7 +53,7 @@ Ils vont là où vous ne les attendez pas
       []()
     ```
     
-- Une variante peut etre d’augmenter le packaging, ou de lui donner une forme qui prête à confusion ex les rillette et leur cul bombé
+- Une variante peut être d’augmenter le packaging, ou de lui donner une forme qui prête à confusion ex les rillette et leur cul bombé
     
 
 Tous les coups sont permis!

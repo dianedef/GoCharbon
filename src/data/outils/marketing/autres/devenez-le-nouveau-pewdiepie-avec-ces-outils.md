@@ -35,7 +35,7 @@ Découvrez quelques-unes des opportunités disponibles sur YT.Careers :
    - *Date limite* : Dans moins d'un mois
 
 2. **MISS-K-DRAMA**
-   - *Poste* : Video Editor pour une chaîne YouTube Kdrama
+   - *Poste* : Vidéo Editor pour une chaîne YouTube Kdrama
    - *Localisation* : Los Angeles, California, US
    - *Modalités* : Projet ponctuel, Télétravail asynchrone
    - *Date de début* : Dès que possible
@@ -54,8 +54,8 @@ Découvrez quelques-unes des opportunités disponibles sur YT.Careers :
 - Compétences : Affiliation, Assistant, Channel Management, Creative Direction, Graphic Design
 - Description : Passionnée par les relations humaines, je mets en avant le partage, la spontanéité, la rigueur et la curiosité. Mon expertise couvre le design web et UX.
 
-#### Gaming Videos Editor with 4 Years of Experience
-- Compétences : Video Editing, Color Grading, Audio Enhancement
+#### Gaming Vidéos Editor with 4 Years of Expérience
+- Compétences : Vidéo Editing, Color Grading, Audio Enhancement
 - Description : Éditeur vidéo expérimenté avec plus de 3 ans d'expérience. Spécialisé dans le contenu de jeux, mais capable de s'adapter à différentes niches.
 
 #### Graphic Designer - Ultrixo
@@ -63,18 +63,18 @@ Découvrez quelques-unes des opportunités disponibles sur YT.Careers :
 - Description : Designer graphique passionné basé à Mumbai, spécialisé dans la création de designs uniques et de haute qualité.
 
 #### Content Creator & Designer - Robert Hansford
-- Compétences : Graphic Design, Thumbnail Design, Video Editing, YouTube Production
+- Compétences : Graphic Design, Thumbnail Design, Vidéo Editing, YouTube Production
 - Description : Artiste et professeur d'anglais en Corée avec une expérience YouTube de 4,000 abonnés. Disponible pour des projets de conception liés à YouTube.
 
 #### Social Media & Community Manager
 - Compétences : Channel Management, Creative Direction, Sponsorships, Writing
 - Description : Expert en médias sociaux organiques. Création et gestion de contenu, stratégies virales et gestion de l'audience.
 
-#### Video Editor - 6 Years Experience
-- Compétences : Video Editing, Adobe Premiere Pro, After Effects
+#### Vidéo Editor - 6 Years Expérience
+- Compétences : Vidéo Editing, Adobe Première Pro, After Effects
 - Description : Éditeur vidéo créatif avec 6 ans d'expérience. Spécialisé dans la transformation de vidéos brutes en récits visuels captivants.
 
-#### Assistant in Content Creation
+#### Assistant in Content Création
 - Compétences : Assistant, Channel Management
 - Description : Disponible pour aider dans le processus de création de contenu en prenant en charge des tâches superflues.
 

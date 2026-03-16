@@ -179,11 +179,11 @@ Hello, everyone! I'm excited to share with you the latest and greatest features 
 
 ## A Unified Inbox for Enhanced Organization
 
-One of the first noticeable changes in Routine Desktop App 1.5 is the relocation of the inbox to the top of the interface. While this may seem like a minor detail, it plays a significant role in enhancing your organization. Now, the inbox serves as a central hub, summarizing not just your tasks but also your untitled notes and unscheduled meetings. This consolidation makes it easier for you to focus your attention on items that require planning or decision-making.
+One of the first noticeable changes in Routine Desktop App 1.5 is the relocation of the inbox to the top of the interface. While this may seem like a minor detail, it plays a significant role in enhancing your organization. Now, the inbox serves as a central hub, summarizing not just your tasks but also your untitled notes and unscheduled meetings. This consolidation makes it easier for you to focus your attention on items that require planning or décision-making.
 
 ## Improved Handling of Recurring Tasks
 
-In this version, we've taken a deep dive into the world of recurring tasks. We've made substantial improvements to make your task management experience smoother and more intuitive. Here are some of the key enhancements:
+In this version, we've taken a deep dive into the world of recurring tasks. We've made substantial improvements to make your task management expérience smoother and more intuitive. Here are some of the key enhancements:
 
 ### 1. Deletion of Recurring Tasks
 
@@ -193,7 +193,7 @@ Now, you have the ability to delete recurring tasks, providing greater flexibili
 
 A new "Recurrences" tab in the task section allows you to easily access and review all your recurring tasks. This includes tasks that have been stopped or are currently ongoing. Managing recurring tasks has never been more convenient.
 
-### 3. Creation of Recurring Tasks in Notes
+### 3. Création of Recurring Tasks in Notes
 
 This feature takes organization to the next level. You can now create recurring tasks within your notes, pages, contacts, or other sections. For instance, you can specify a task like "send invoices every month" and set the start and end dates. This transforms a simple checkbox into a full-fledged recurring task, giving you more control over your routine.
 
@@ -206,7 +206,7 @@ Routine Desktop App now allows you to edit and delete recurring events effortles
 
 Managing your notes has become more intuitive with Routine Desktop App 1.5. You can easily select blocks within a note using keyboard shortcuts, making it quicker to navigate through your content. Additionally, the slash command feature has been reworked to display both the slash command and the corresponding Markdown shortcut, allowing you to create tasks and perform other actions more efficiently.
 
-In conclusion, Routine Desktop App version 1.5 marks a significant step forward in delivering a more consistent and user-friendly experience. While there's more to come in future updates, this version sets the foundation for a smoother and more efficient routine management. Thank you for being a part of the Routine community, and we look forward to helping you make the most of your daily tasks and events.
+In conclusion, Routine Desktop App version 1.5 marks a significant step forward in delivering a more consistent and user-friendly expérience. While there's more to come in future updates, this version sets the foundation for a smoother and more efficient routine management. Thank you for being a part of the Routine community, and we look forward to helping you make the most of your daily tasks and events.
 
 - The `Ignore` action on tasks has been renamed to `Won't do`
 - Likewise, for `Hide from Agenda` and `Show in Agenda` which replace the previously sometimes obscure terms
@@ -539,8 +539,8 @@ Si tu veux importer toutes tes notes dans Routine, malheureusement, pas de prise
 Tu peux peut-être effectuer une telle importation avec  [Zapier](https://base.routine.co/integrations/services/zapier) ou tu pourrais utiliser l'un des outils tiers répertoriés ci-dessous :
 
 * _Apple Notes:_
-* [http://writeapp.net/notesexporter/](http://writeapp.net/notesexporter/)
-* [https://apps.apple.com/us/app/exporter/id1099120373](https://apps.apple.com/us/app/exporter/id1099120373?mt=12)
+* [http://writeapp.net/notesexporter/](__MASK_40__)
+* [https://apps.apple.com/us/app/exporter/id1099120373](__MASK_41__)
 
 Trouve les toutes ici [Integrations | Routine App](https://base.routine.co/integrations)
 

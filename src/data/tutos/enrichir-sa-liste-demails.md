@@ -14,7 +14,7 @@ imgUrl: ../../assets/astro.jpeg
 
 (prospects, clients, etc.) pour obtenir toutes les infos disponibles sur Google Maps. Les crédits sont consommés uniquement lorsque nous trouvons un résultat (= un établissement Google Maps lié à l’adresse).
 
-[https://help.scrap.io/fr/article/api-r66b6d/#2-enrich-url-domain-email-or-phone-with-gmap-place-data](https://help.scrap.io/fr/article/api-r66b6d/#2-enrich-url-domain-email-or-phone-with-gmap-place-data)
+[https://help.scrap.io/fr/article/api-r66b6d/#2-enrich-url-domain-email-or-phone-with-gmap-place-data](__MASK_0__)
 
 l’enrichissement Google Maps à partir de vos data.
 

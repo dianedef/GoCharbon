@@ -19,7 +19,7 @@ imgUrl: ../../assets/astro.jpeg
     - Bonnes pratiques : Comment garantir une bonne délivrabilité de ses emails ? (PARTIE 3/3)
     - Il est très important pour un fournisseur de messagerie de veiller à ce que tu respectes les règles du jeu. Surtout si tu viens de créer ta boîte mail !
     - C'est pourquoi tu dois TOUJOURS faire chauffer ton compte mail.  -> 
-    - Etape 3 : Pré-chauffer son compte mail
+    - Étape 3 : Pré-chauffer son compte mail
     - Une adresse mail préchauffée est une adresse qui a envoyé et reçu des messages comme le fait une personne réelle.
     - Mais ne t'inquiète pas! Tu n’as plus besoin de faire ça à la main. Il existe différents outils qui permettent de réchauffer ta boite mail de façon 100% automatique.
     - Nous te recommandons d'utiliser la fonctionnalité "Lemwarm" de Lemlist : [clique ici pour en savoir plus](https://trail.sweal.fr/api/t/c/usr_zbArTBtjeXM5vtK9v/tsk_KTYxbfnoEqjs7xkFd/enc_U2FsdGVkX18Y9-LHUUkVIYWLf49jDz7KkshEIzKdeBlFZQyS8n0pnV1Ih71X9BNH)

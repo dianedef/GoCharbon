@@ -14,12 +14,12 @@ imgUrl: ../../assets/astro.jpeg
 
 # LIENS BRISES : TROUVER ET CORRIGER LES ERREURS 404 SUR TON SITE
 
-Un lien brise, c'est un lien qui pointe vers une page qui n'existe plus. Ca donne une erreur 404 a tes visiteurs, ca degrade l'experience utilisateur, et ca fait perdre du "jus SEO". Google n'aime pas les sites avec des tonnes de 404. Voici comment les trouver et les reparer.
+Un lien brise, c'est un lien qui pointe vers une page qui n'existe plus. Ca donne une erreur 404 a tes visiteurs, ca degrade l'expérience utilisateur, et ca fait perdre du "jus SEO". Google n'aime pas les sites avec des tonnes de 404. Voici comment les trouver et les reparer.
 
-## Pourquoi les liens brises sont un probleme
+## Pourquoi les liens brises sont un problème
 
 - **SEO** : chaque lien brise gaspille du crawl budget. Googlebot passe du temps sur des pages mortes au lieu d'indexer ton contenu
-- **Experience utilisateur** : un visiteur qui tombe sur une 404 quitte souvent le site
+- **Expérience utilisateur** : un visiteur qui tombe sur une 404 quitte souvent le site
 - **Perte de jus SEO** : si des backlinks externes pointent vers une page supprimee, tu perds toute la valeur de ces liens
 - **Confiance** : un site avec des liens morts parait abandonne ou peu fiable
 
@@ -58,13 +58,13 @@ C'est l'outil de reference pour les audits techniques SEO. Disponible sur [screa
 3. Va dans l'onglet **Response Codes** > filtre par **Client Error (4xx)**
 4. Tu vois toutes les pages en 404 + quelles pages contiennent les liens vers elles (onglet Inlinks)
 
-**Prix** : la version gratuite suffit pour les petits sites (500 URLs). La licence payante coute 199 livres sterling/an (environ 250 euros) et debloque le crawl illimite, le rendu JavaScript, l'integration avec Google Analytics 4, Search Console et PageSpeed Insights, la detection de contenu duplique par algorithme md5, la generation de sitemaps XML avances, l'extraction personnalisee, et les rapports automatises. Disponible sur Windows, macOS et Linux.
+**Prix** : la version gratuite suffit pour les petits sites (500 URLs). La licence payante coûte 199 livres sterling/an (environ 250 euros) et debloque le crawl illimite, le rendu JavaScript, l'integration avec Google Analytics 4, Search Console et PageSpeed Insights, la detection de contenu duplique par algorithme md5, la generation de sitemaps XML avances, l'extraction personnalisee, et les rapports automatises. Disponible sur Windows, macOS et Linux.
 
 **Avantages :**
 - Crawl complet de ton site en local
 - Tu vois exactement quelle page contient le lien brise
 - Export en CSV pour traitement en masse
-- Detecte aussi les redirections en chaine (301 > 301 > 301)
+- Détecte aussi les redirections en chaîne (301 > 301 > 301)
 
 **Configuration recommandee :**
 - Coche "Check External Links" pour verifier aussi les liens vers d'autres sites
@@ -131,12 +131,12 @@ Ne fais pas cet audit une seule fois. Les liens cassent tout le temps (sites ext
 
 ## Astuces
 
-- **Page 404 personnalisee** : meme avec la meilleure maintenance, des 404 arriveront. Cree une page 404 utile avec un lien vers l'accueil, une barre de recherche, et tes articles populaires
-- **Redirections en chaine** : evite les chaines de redirections (A > B > C). Fais pointer directement A vers C
+- **Page 404 personnalisee** : même avec la meilleure maintenance, des 404 arriveront. Cree une page 404 utile avec un lien vers l'accueil, une barre de recherche, et tes articles populaires
+- **Redirections en chaîne** : evite les chaînes de redirections (A > B > C). Fais pointer directement A vers C
 - **Ne redirige pas tout vers l'accueil** : Google considere ca comme une "soft 404". Redirige vers une page pertinente ou laisse la 404 si c'est justifie
-- **Verifie apres une migration** : si tu changes de CMS ou de structure d'URLs, scanne tout immediatement apres
+- **Verifie après une migration** : si tu changes de CMS ou de structure d'URLs, scanne tout immediatement après
 
-Les liens brises sont un probleme silencieux. Tu ne les vois pas, tes visiteurs ne te le disent pas, mais Google les compte. Un audit trimestriel prend 30 minutes et peut recuperer du trafic perdu.
+Les liens brises sont un problème silencieux. Tu ne les vois pas, tes visiteurs ne te le disent pas, mais Google les compte. Un audit trimestriel prend 30 minutes et peut recuperer du trafic perdu.
 
 ## Ressources et liens utiles
 

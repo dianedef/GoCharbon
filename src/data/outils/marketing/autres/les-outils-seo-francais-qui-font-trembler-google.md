@@ -28,7 +28,7 @@ imgUrl: ../../../../assets/astro.jpeg
     peut voir l’ensemble :
     
     my rankin metrics
-## En francais
+## En français
 
 ## **Découvrir Screaming Frog**
 
@@ -55,7 +55,7 @@ SE Ranking dispose de nombreuses fonctionnalités pour vous aider à développer
 - Suivre et gérer vos backlinks,
 - Effectuer un audit complet de votre site avec un rapport et un score sur 100.
 
-SE Ranking ([https://seranking.com/?ga=354359&source=link](https://seranking.com/?ga=354359&source=link) **lien Diane Defores )** peut se connecter à votre compte Google Analytics ou à votre compte Google Search Console : vous accédez ainsi à vos données Google, sans quitter la plateforme SE Ranking. Des statistiques sur vos groupes et pages Facebook et Twitter sont également à disposition.
+SE Ranking ([https://seranking.com/?ga=354359&source=link](__MASK_1__) **lien Diane Defores )** peut se connecter à votre compte Google Analytics ou à votre compte Google Search Console : vous accédez ainsi à vos données Google, sans quitter la plateforme SE Ranking. Des statistiques sur vos groupes et pages Facebook et Twitter sont également à disposition.
 
 L’interface de la plateforme est disponible en français. Autre avantage à souligner : les agences peuvent travailler en marque blanche si elles le souhaitent.
 
@@ -97,6 +97,6 @@ Une version d’essai permet de tester l’outil gratuitement, sans carte de cr�
 
 [Analyse SEO - Outil gratuit par Alyze](https://alyze.com/)
 
-[https://check-position.com/fr/](https://check-position.com/fr/)
+[https://check-position.com/fr/](__MASK_4__)
 
 [Analyse de logs gratuite pour le SEO - Seolyzer.io](https://seolyzer.io/fr/#features)

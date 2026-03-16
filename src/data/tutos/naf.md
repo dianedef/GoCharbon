@@ -22,8 +22,8 @@ Le mieux pour ce besoin spécifique, c’est : [https://societeinfo.com/ 5](ht
 
 je peux te le faire également, tu me passes les codes naf/ape, je te donne un beau fichier, sans que tu joues avec les filtres
 
-En terme de tarif, j’essaye tjrs d’etre minimum 10 x moins chère que kompass / pappers / societesinfo.  
-On ne joue pas dans la meme cours : c’est 3 supers solutions.  
+En terme de tarif, j’essaye tjrs d’être minimum 10 x moins chère que kompass / pappers / societesinfo.  
+On ne joue pas dans la même cours : c’est 3 supers solutions.  
 Pappers : Ui génial, infos légales hyper complètes  
 Sociétéinfos : certainement le plus complet du game pour les infos hors légales  
 Kompass : l’historique avec une base monde

@@ -17,7 +17,7 @@ imgUrl: ../../../../assets/astro.jpeg
     
     - Les méthodes - Utilisez des API REST dans vos projets web - OpenClassrooms
         
-        [https://openclassrooms.com/fr/courses/3449001-utilisez-des-api-rest-dans-vos-projets-web/3501926-les-methodes](https://openclassrooms.com/fr/courses/3449001-utilisez-des-api-rest-dans-vos-projets-web/3501926-les-methodes)
+        [https://openclassrooms.com/fr/courses/3449001-utilisez-des-api-rest-dans-vos-projets-web/3501926-les-methodes](__MASK_9__)
         
         [3449001_teaser_picture_1571668144.jpg%3Fr%3Dpad](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87284e24-39fe-4ac1-bdd6-2bb473c1e3a0/3449001_teaser_picture_1571668144.jpg3fr3dpad)
         
@@ -105,9 +105,9 @@ imgUrl: ../../../../assets/astro.jpeg
         
     - Les réponses - Utilisez des API REST dans vos projets web - OpenClassrooms
         
-        [https://openclassrooms.com/fr/courses/3449001-utilisez-des-api-rest-dans-vos-projets-web/3501941-les-reponses](https://openclassrooms.com/fr/courses/3449001-utilisez-des-api-rest-dans-vos-projets-web/3501941-les-reponses)
+        [https://openclassrooms.com/fr/courses/3449001-utilisez-des-api-rest-dans-vos-projets-web/3501941-les-reponses](__MASK_11__)
         
-        [https://vimeo.com/154620924](https://vimeo.com/154620924)
+        [https://vimeo.com/154620924](__MASK_12__)
         
         La communication HTTP ne se déroule pas que dans un seul sens ! Les réponses d’une API sont d'ailleurs la principale raison qui vous pousse à utiliser une API. Les réponses HTTP sont au format suivant :
         
@@ -165,11 +165,11 @@ imgUrl: ../../../../assets/astro.jpeg
         
     - Les codes HTTP - Utilisez des API REST dans vos projets web - OpenClassrooms
         
-        [https://openclassrooms.com/fr/courses/3449001-utilisez-des-api-rest-dans-vos-projets-web/3501946-les-codes-http](https://openclassrooms.com/fr/courses/3449001-utilisez-des-api-rest-dans-vos-projets-web/3501946-les-codes-http)
+        [https://openclassrooms.com/fr/courses/3449001-utilisez-des-api-rest-dans-vos-projets-web/3501946-les-codes-http](__MASK_13__)
         
         [3449001_teaser_picture_1571668144.jpg%3Fr%3Dpad](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2aee3d08-2861-483c-b0ea-836425a67782/3449001_teaser_picture_1571668144.jpg3fr3dpad)
         
-        [https://vimeo.com/154622268](https://vimeo.com/154622268)
+        [https://vimeo.com/154622268](__MASK_15__)
         
         La ressource n’a pas été trouvée. Vous verrez cette page dans votre navigateur quand vous tentez d'aller sur une page web qui n’existe pas. Une application reçoit le même code réponse quand elle visite une ressource qui n’existe pas (et ça reste aussi frustrant).
         

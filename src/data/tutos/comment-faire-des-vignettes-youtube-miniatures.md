@@ -17,7 +17,7 @@ imgUrl: ../../assets/astro.jpeg
 
 Hey Creators!
 
-Welcome back to another exciting edition of Taja Tips – this is Vol. 11, and today we’re unpacking a crucial element of content creation: What Actually Makes A Good Thumbnail. You’ve seen them, you’ve clicked them, but how do you create thumbnails that truly capture attention? Let’s break it down into some key strategies.
+Welcome back to another exciting edition of Taja Tips – this is Vol. 11, and today we’re unpacking a crucial element of content création: What Actually Makes A Good Thumbnail. You’ve seen them, you’ve clicked them, but how do you create thumbnails that truly capture attention? Let’s break it down into some key stratégies.
 
 **1. The Power of a Striking Image**
 
@@ -29,7 +29,7 @@ If you’re adding text, make it count. Use bold, legible fonts that stand out a
 
 **3. Consistency is Key**
 
-Your thumbnails should also align with your brand's aesthetic. Consistent use of colors, fonts, and style helps in building a recognizable brand identity. This consistency makes your content instantly recognizable in a sea of videos.
+Your thumbnails should also align with your brand's aesthetic. Consistent use of colors, fonts, and style helps in building a recognizable brand identity. This consistency makes your content instantly recognizable in a sea of vidéos.
 
 **4. Emotion Drives Engagement**
 

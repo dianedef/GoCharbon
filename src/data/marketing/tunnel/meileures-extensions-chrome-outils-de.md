@@ -66,7 +66,7 @@ First in our list of best Chrome extensions for developers
 
 All created screenshots and [screen recordings](https://usersnap.com/l/screen-recording) are directly stored in your project dashboard, making bug tracking and [feedback](https://usersnap.com/blog/customer-feedback/) a lot of fun!
 
-Click the image to see Usersnap’s Chrome extension in action (YouTube [video](https://usersnap.com/blog/capture-video-from-website/)) ⤵️
+Click the image to see Usersnap’s Chrome extension in action (YouTube [vidéo](https://usersnap.com/blog/capture-video-from-website/)) ⤵️
 
 [](https://www.youtube.com/watch?v=AWZNgiRcpU8)
 
@@ -242,7 +242,7 @@ It simplifies communication between developers, designers, and clients by provid
 
 The BrowserStack Chrome extension is a handy tool for web developers to test the compatibility of their websites across different browsers and devices.
 
-With this extension, you can quickly preview your site’s appearance and functionality on various platforms, ensuring a smooth user experience.
+With this extension, you can quickly preview your site’s appearance and functionality on various platforms, ensuring a smooth user expérience.
 
 By providing instant access to BrowserStack’s testing capabilities, this extension simplifies the process of identifying and resolving cross-browser issues during development.
 
@@ -325,13 +325,13 @@ Pour recevoir ces réponses, il vous suffit de [cliquer ici](lb-120d12d53f72a2:1
 **Découvrez** les **55 Outils Ultimes**pour doper **votre** croissance
 
 - 50 extensions chromes qui vont tuer ta lenteur au travail
-    1. Loom : [https://www.loom.com/my-videos](https://www.loom.com/my-videos) => enregistrer des vidéos
-    2. Facebook unseen : [https://chrome.google.com/webstore/detail/unseen-forfacebook/](https://chrome.google.com/webstore/detail/unseen-forfacebook/) jiomcgpfgkeefipihnplhadgdoollmap => pour être tranquille sur facebook
-    3. Invite all likers : [https://www.invitelikecomment.com/](https://www.invitelikecomment.com/) => inviter les gens à liker la page
-    4. Alcapod : [https://alcapod.co/](https://alcapod.co/) => POD linkedin
-    5. Contact out : [https://chrome.google.com/webstore/detail/find-anyones-emailcontac/](https://chrome.google.com/webstore/detail/find-anyones-emailcontac/) jjdemeiffadmmjhkbbpglgnlgeafomjo => trouver des mails sur linkedin
-    6. Newsfeed eradicator : [https://chrome.google.com/webstore/detail/news-feed-eradicatorfor/](https://chrome.google.com/webstore/detail/news-feed-eradicatorfor/) fjcldmjmjhkklehbacihaiopjklihlgg => feed eradicator pour facebook
-    7. igraal : [https://chrome.google.com/webstore/detail/igraal/kmhkepipobnjllejbafajoemahjejdcm](https://chrome.google.com/webstore/detail/igraal/kmhkepipobnjllejbafajoemahjejdcm)
-    8. pixel facebook helper : [https://chrome.google.com/webstore/detail/facebook-pixelhelper/](https://chrome.google.com/webstore/detail/facebook-pixelhelper/) fdgfkebogiimcoedlicjlajpkdmockpc => voir si il y a des pixels
-    9. [https://chrome.google.com/webstore/detail/block-the-youtubefeed/](https://chrome.google.com/webstore/detail/block-the-youtubefeed/) cfabedkddcldcdmheehafbdonjbeffdg => block le feed youtube
-    10. vpn : [https://hola.org/](https://hola.org/) => changer de pays 11 extensions pour la productivité : (merci le site fundera) 2 Todoist TickTick Asana Toggl Button CrankWheel AdBlock LINER StayFocusd Imagus Noisli Kami Extension 7 extensions pour l’organisation Evernote Web Clipper Momentum Drag Hiver Pocket Session Buddy The Great Suspender 8 extensions pour trouver du contenu : Grammarly Woorank MozBar Page Analytics Buzzsumo Nofollow Checkbot SEOquake 3 14 autres à tester : Tab Wrangler Full Page Screen Capture Pushbullet Adblock Plus Screencastify Save to Google Drive Ghostery History Eraser Shareaholic for Google Chrome Google Calendar Turn Off the Lights Google Input Tools WOT (Web of Trust)
+    1. Loom : [https://www.loom.com/my-videos](__MASK_58__) => enregistrer des vidéos
+    2. Facebook unseen : [https://chrome.google.com/webstore/detail/unseen-forfacebook/](__MASK_59__) jiomcgpfgkeefipihnplhadgdoollmap => pour être tranquille sur facebook
+    3. Invite all likers : [https://www.invitelikecomment.com/](__MASK_60__) => inviter les gens à liker la page
+    4. Alcapod : [https://alcapod.co/](__MASK_61__) => POD linkedin
+    5. Contact out : [https://chrome.google.com/webstore/detail/find-anyones-emailcontac/](__MASK_62__) jjdemeiffadmmjhkbbpglgnlgeafomjo => trouver des mails sur linkedin
+    6. Newsfeed eradicator : [https://chrome.google.com/webstore/detail/news-feed-eradicatorfor/](__MASK_63__) fjcldmjmjhkklehbacihaiopjklihlgg => feed eradicator pour facebook
+    7. igraal : [https://chrome.google.com/webstore/detail/igraal/kmhkepipobnjllejbafajoemahjejdcm](__MASK_64__)
+    8. pixel facebook helper : [https://chrome.google.com/webstore/detail/facebook-pixelhelper/](__MASK_65__) fdgfkebogiimcoedlicjlajpkdmockpc => voir si il y a des pixels
+    9. [https://chrome.google.com/webstore/detail/block-the-youtubefeed/](__MASK_66__) cfabedkddcldcdmheehafbdonjbeffdg => block le feed youtube
+    10. vpn : [https://hola.org/](__MASK_67__) => changer de pays 11 extensions pour la productivité : (merci le site fundera) 2 Todoist TickTick Asana Toggl Button CrankWheel AdBlock LINER StayFocusd Imagus Noisli Kami Extension 7 extensions pour l’organisation Evernote Web Clipper Momentum Drag Hiver Pocket Session Buddy The Great Suspender 8 extensions pour trouver du contenu : Grammarly Woorank MozBar Page Analytics Buzzsumo Nofollow Checkbot SEOquake 3 14 autres à tester : Tab Wrangler Full Page Screen Capture Pushbullet Adblock Plus Screencastify Save to Google Drive Ghostery History Eraser Shareaholic for Google Chrome Google Calendar Turn Off the Lights Google Input Tools WOT (Web of Trust)

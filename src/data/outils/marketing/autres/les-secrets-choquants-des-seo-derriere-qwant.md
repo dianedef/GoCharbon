@@ -13,7 +13,7 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 
-[https://youtu.be/t6CSZ5xqHyU?t=656](https://youtu.be/t6CSZ5xqHyU?t=656)
+[https://youtu.be/t6CSZ5xqHyU?t=656](__MASK_0__)
 
 qti Sappelle qwant 
 

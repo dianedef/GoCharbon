@@ -52,4 +52,4 @@ Transformer une expertise en offre de formation vendable et scalable.
 ## Idées de contenus pour aller plus loin
 - [Guide à venir 1: cadre promesse pédagogique](/tutos/formation/cadre-promesse-pedagogique)
 - [Guide à venir 2: plan lancement cohorte](/tutos/formation/plan-lancement-cohorte)
-- [Guide à venir 3: systeme evaluation apprenants](/tutos/formation/systeme-evaluation-apprenants)
+- [Guide à venir 3: système evaluation apprenants](/tutos/formation/systeme-evaluation-apprenants)

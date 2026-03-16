@@ -15,7 +15,7 @@ imgUrl: ../../../../assets/astro.jpeg
 
 Wiremo
 
-[https://lamallette.biz/ecom](https://lamallette.biz/ecom)
+[https://lamallette.biz/ecom](__MASK_0__)
 
 Vos taux de conversion ne sont pas au top et vous manquez d’idées pour attirer l’attention de vos visiteurs ?
 
@@ -251,7 +251,7 @@ C'est tout pour l'instant, bonne chance pour faire grandir vos boutiques !
     
     Analytics ecommerce pour Shopify Données transparentes : Suivi des ventes, bénéfices, tendances, valeur à vie par client, etc. 🚀 Les analytics vous aide à la prise de décisions
     
-    👌 [https://appsumo.8odi.net/NK6BKV](https://appsumo.8odi.net/NK6BKV)
+    👌 [https://appsumo.8odi.net/NK6BKV](__MASK_34__)
     
     1️⃣ 0️⃣ Publica : Un shop pour vos produits digitaux
     

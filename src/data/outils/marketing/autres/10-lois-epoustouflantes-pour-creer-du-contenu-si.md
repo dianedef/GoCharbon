@@ -202,7 +202,7 @@ Je te donne des exemples pour que ce soit plus facile.
 
 Et des indications pour que tu saches précisément quoi faire à la fin de chaque leçon.
 
-À partir de l’adresse [https://mail.google.com/mail/u/0/?hl=fr#inbox/FMfcgxvzMBrRccSRHZhSxbVpZQMwSmhR](https://mail.google.com/mail/u/0/?hl=fr#inbox/FMfcgxvzMBrRccSRHZhSxbVpZQMwSmhR)
+À partir de l’adresse [https://mail.google.com/mail/u/0/?hl=fr#inbox/FMfcgxvzMBrRccSRHZhSxbVpZQMwSmhR](__MASK_0__)
 
 Technique #1 : Qualité vs. Quantité
 - Il y a encore un ou deux ans, la stratégie ultime était de poster chaque jour un maximum de contenu : un vlog par jour, 2 photos sur Instagram, 10 tweets, 1 email…
@@ -224,7 +224,7 @@ Technique #1 : Qualité vs. Quantité
 
 Exemple je cherche comment lier un email à une page Notion pour que j'ai les références d'une conversation dans un plan d'actions. Je cherche sur Google et j'en fais en même temps du contenu pour un produit que je souhaite vendre à l'avenir ( [Template Notion Business Plan d'Actions Indépendance Financière](https://www.notion.so/Template-Notion-Business-Plan-d-Actions-Ind-pendance-Financi-re-275136ba9cfd4a96b97a2fb21efb67e9?pvs=21)) avec des captures d'écran et un article. J'ai appris comment faire ce que je voulais faire non seulement, mais j'ai également créé du contenu pour plus tard et j'ai aidé des personnes dans ce qu'ils veulent faire aussi. La création de contenu n'est pas forcément linéaire et qualibrée, D'ailleurs c'est souvent en étant spontanée qu'elle trouve les meilleurs accroches face à son lecteur !
 
-comment faire du marketing de contenu ? chercher site “best meme, best viral video”
+comment faire du marketing de contenu ? chercher site “best même, best viral vidéo”
 
 C’était vendredi dernier. J’ai eu un moment de découragement. Ce n’est pas que je n’ai pas de résultats, mais je trouve que ça ne va pas assez vite.
 
@@ -429,4 +429,4 @@ Ici, Ez Ice met en place une histoire Instagram intéressante et efficace qui es
 
 - Capitaliser l'actualité et les effets de mode
     - les buzz
-    - effet de levier sur les trends, celebrités ex "apprenez lessons marketing grâce au loup de wallstreet" "secret de présentation qu'on apprend grace au langement de liphpne "
+    - effet de levier sur les trends, celebrités ex "apprenez lessons marketing grâce au loup de wallstreet" "secret de présentation qu'on apprend grâce au langement de liphpne "

@@ -1,6 +1,6 @@
 ---
 section: blog
-title: Competences
+title: Compétences
 author: Diane
 tags:
 - Productivité

@@ -20,11 +20,11 @@ imgUrl: ../../../../../assets/astro.jpeg
 - 💼 Scott Keyes, a political science graduate turned journalist, founded Scott's Cheap Flights after discovering a passion for travel hacking.
 - ✈️ Scott's Cheap Flights is an email-based subscription service providing cheap flight deals, now with approximately 600,000 subscribers globally.
 - 🌍 The service searches for cheap flights departing from various regions worldwide and offers immediate notifications to subscribers.
-- 🤝 Scott partnered with Brian Kidwell, a finance graduate with entrepreneurial experience, to grow the business.
+- 🤝 Scott partnered with Brian Kidwell, a finance graduate with entrepreneurial expérience, to grow the business.
 - 💻 The company maintained low expenses and focused on customer service, leading to organic growth and avoiding the need for venture capital funding.
-- 📈 Growth strategies included word of mouth, media exposure, Reddit, and viral giveaways.
+- 📈 Growth stratégies included word of mouth, media exposure, Reddit, and viral giveaways.
 - 💰 Revenue is generated through a freemium model, with about 10-12% of subscribers opting for premium features.
-- 🎯 Goals include improving user experience, reaching one million subscribers, and continuing to save customers money on flights.
+- 🎯 Goals include improving user expérience, reaching one million subscribers, and continuing to save customers money on flights.
 - 🚀 Challenges included scaling user growth, hiring, and adapting to increased traffic and demands.
 - 📧 Email marketing tools primarily included MailChimp and ActiveCampaign, with a focus on subscriber satisfaction over short-term metrics.
 
@@ -45,10 +45,10 @@ Scott's Cheap Flights began as a side project and evolved into a successful busi
   - Scott's Cheap Flights operates as a freemium email subscription service, offering subscribers deals on cheap flights.
   - Premium subscribers receive additional benefits such as more deal alerts, customization options, and text message alerts.
   - Revenue primarily comes from premium subscription fees, with monthly revenue around $320,000 and annual revenue over $3 million.
-- **Growth Strategies**:
+- **Growth Stratégies**:
   - Word of mouth has been a significant driver of user acquisition, supplemented by media coverage, Reddit, and viral giveaways.
   - Conversion efforts focus on simplifying the sign-up process and emphasizing the value proposition on the website's landing page.
-  - Product experience is crucial for retaining subscribers, achieved through consistently finding deals and providing personalized customer support.
+  - Product expérience is crucial for retaining subscribers, achieved through consistently finding deals and providing personalized customer support.
 - **Challenges and Lessons Learned**:
   - Challenges include scaling infrastructure to accommodate user growth and hiring specialized talent in a unique industry.
   - They've learned the importance of investing in the business early on, particularly in server upgrades and hiring.
@@ -59,7 +59,7 @@ Scott's Cheap Flights began as a side project and evolved into a successful busi
   - Scott's background in journalism contributed to effective communication and understanding of what makes content compelling.
   - Luck played a role, especially with the timing of a favorable market for cheap international flights, which contributed to subscriber satisfaction and growth.
 
-The success of Scott's Cheap Flights demonstrates the value of a strong partnership, a focus on providing value, and the importance of adapting strategies to accommodate growth and changes in the market.
+The success of Scott's Cheap Flights demonstrates the value of a strong partnership, a focus on providing value, and the importance of adapting stratégies to accommodate growth and changes in the market.
 - 
 
 

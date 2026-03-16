@@ -77,7 +77,7 @@ AutoCodeRover leverages cutting-edge Language Model (LLM) technology coupled wit
 ✨ Key Highlights:
 Discover how AutoCodeRover outperforms the current state-of-the-art efficacy of AI software engineers. Learn about its unique features, including Program Structure Aware code search APIs and enhanced repair rates with test case utilization.
 
-📹 Video Content:
+📹 Vidéo Content:
 Explore how AutoCodeRover resolves approximately 22% of issues on SWE-bench lite, comprising 300 real-world GitHub issues. Uncover the intricacies of its operation, from navigating codebases to crafting precise patches.
 [nus-apr/auto-code-rover: A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 30.67% tasks (pass@1) in SWE-bench lite and 38.40% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7.](https://github.com/nus-apr/auto-code-rover)
 
@@ -90,8 +90,8 @@ Discover the unparalleled features of Auto-Dev designed to streamline and enhanc
 - Multilingual Support: Communicate with Auto-Dev in your preferred language, breaking down barriers for developers worldwide.
 - Auto Code Generation: Say goodbye to code syntax struggles as Auto-Dev excels in generating error-free code efficiently.
 - Bug-Slaying Assistant: Swiftly identify and resolve coding errors with Auto-Dev's helpful assistant at your disposal.
-- Customizable Prompts: Tailor your interactions with Auto-Dev to match your specific needs, ensuring a personalized experience.
-- All-in-One Solution: Experience the magic of Auto Dev/Testing/Document/Agent, simplifying the entire development lifecycle.
+- Customizable Prompts: Tailor your interactions with Auto-Dev to match your specific needs, ensuring a personalized expérience.
+- All-in-One Solution: Expérience the magic of Auto Dev/Testing/Document/Agent, simplifying the entire development lifecycle.
 
 Why Choose Auto-Dev?
 Embrace the future of software engineering with Auto-Dev:
@@ -123,7 +123,7 @@ Discover the driving force behind the OpenDevin project and its commitment to su
 Delve into the comprehensive research strategy employed by OpenDevin, encompassing core technical research, enhancement of specialist abilities, meticulous task planning, and thorough evaluation. Witness the dedication to understanding and improving the technical aspects of code generation and handling, ultimately guiding the progress of open code models.
 
 🛠 Technology Stack:
-Explore the robust technology stack driving OpenDevin's innovation, including a sandboxing environment for safe code execution and a user-friendly frontend interface for seamless interaction. From Docker and Kubernetes to frameworks like React, OpenDevin embraces cutting-edge technologies to deliver a transformative software development experience.
+Explore the robust technology stack driving OpenDevin's innovation, including a sandboxing environment for safe code execution and a user-friendly frontend interface for seamless interaction. From Docker and Kubernetes to frameworks like React, OpenDevin embraces cutting-edge technologies to deliver a transformative software development expérience.
 
 [Aider - L'IA qui développe, corrige vos bugs, refactorise et documente votre code comme par magie | Outils dev | Le site de Korben](https://korben.info/aider-pair-programmation-ia-code-local.html)
 
@@ -141,7 +141,7 @@ Sur le site de Korben, une ressource précieuse pour les développeurs, le nouve
 Aider n'est pas sans imperfections ; des erreurs de compréhension peuvent arriver, soulignant l'importance de réviser les suggestions avant de les adopter complètement. Cependant, sa capacité à alterner entre modes automatiques et manuels tout en restant synchronisé avec tes ajustements manuels, en fait un allié performant et adaptable. Ce nouvel outil exemplifie l'interaction fluide et interactive que les développeurs peuvent désormais avoir avec leur code, donnant presque l'impression de travailler avec un collègue, mais sans les inconvénients. Pour les développeurs désireux de pousser plus loin leur efficacité, **Aider offre un potentiel énorme d'amélioration de productivité**, réduisant les barrières entre l'idée et son implémentation.
 
 [Create business apps like assembling blocks | ILLA Cloud](https://illacloud.com/)
-ILLA is your key to streamlined development and deployment of internal tools. This platform revolutionizes UI design, data connectivity, and AI integration, making app creation a breeze.
+ILLA is your key to streamlined development and deployment of internal tools. This platform revolutionizes UI design, data connectivity, and AI integration, making app création a breeze.
 
 Design UI with Drag-and-Drop Components:
 Effortlessly create stunning user interfaces for your business apps. ILLA allows you to drag and drop components, ensuring the rapid implementation of desired functionalities. 🎨
@@ -169,7 +169,7 @@ Qwen 1.5 brings a plethora of advancements, from the open-sourcing base and chat
 
 But that's not all! Qwen 1.5 boasts substantial improvements in chat model alignment with human preferences and enhanced multilingual capabilities. With support for a context length of up to 32768 tokens, along with minor quality enhancements in base language models, Qwen 1.5 represents a significant leap towards the goal of creating a truly exceptional model.
 
-If you're as excited about Qwen 1.5 as we are, don't forget to like, subscribe, and share this video with your colleagues and peers. Stay updated on the latest developments in AI and model advancements by hitting that subscribe button now!
+If you're as excited about Qwen 1.5 as we are, don't forget to like, subscribe, and share this vidéo with your colleagues and peers. Stay updated on the latest developments in AI and model advancements by hitting that subscribe button now!
 [Introducing Qwen1.5 | Qwen](https://qwenlm.github.io/blog/qwen1.5/)
 Bienvenue dans le monde des modèles de langage avancés avec **Qwen1.5**, la dernière itération de la série Qwen, qui arrive juste avant le Nouvel An chinois. Cette version se distingue par l'open-source de modèles de base et de chat déclinés en six tailles, allant de 0.5B à 110B, avec l'inclusion d'un modèle MoE. En partenariat avec **Hugging Face**, Qwen1.5 est désormais intégré dans la bibliothèque de Transformers, rendant son accés plus convivial pour les développeurs avec la version >=4.37.0. Cela signifie qu'une utilisation sans recours à du code distant n'est désormais qu'à quelques lignes de code de distance. Cette mise à jour met également l'accent sur les améliorations en matière de capacités multilingues et d'alignement avec les préférences humaines, consolidant sa place parmi les modèles de pointe comme GPT-4.
 
@@ -184,9 +184,9 @@ LlamaCoder is a powerful open-source tool designed to help you develop full-stac
 🌟 _Key Features:_
 
 - _Open Source:_ Completely free and extensible.
-- _Powered by Llama 3.1 405B:_ From Meta, for the ultimate LLM experience.
+- _Powered by Llama 3.1 405B:_ From Meta, for the ultimate LLM expérience.
 - _Together AI:_ Used for LLM inference.
-- _Sandpack:_ For a seamless code sandbox experience.
+- _Sandpack:_ For a seamless code sandbox expérience.
 - _Next.js & Tailwind:_ For robust and responsive app development.
 - _Helicone & Plausible:_ For observability and analytics.
 
@@ -235,7 +235,7 @@ One of Gorilla's defining features is its unparalleled reliability, making it a 
 - Boosts productivity and streamlines the development process.
 Unparalleled reliability with reduced hallucination errors.
 
-If you're eager to witness the power of Gorilla in action, hit that "Like" button to support us and subscribe to our channel for more groundbreaking content. Share this video with your fellow developers to introduce them to the future of API calls with Gorilla!
+If you're eager to witness the power of Gorilla in action, hit that "Like" button to support us and subscribe to our channel for more groundbreaking content. Share this vidéo with your fellow developers to introduce them to the future of API calls with Gorilla!
 
 ## GPT Pilot
 
@@ -287,7 +287,7 @@ In the next blog post, I will write in more detail about how Developer and Code 
 
 I call these the pillars because, since this is a research project, I wanted to be reminded of them as I work on GPT Pilot. I want to explore what’s the most that AI can do to boost developers’ productivity, so all improvements I make need to lead to that goal and not create something that writes simple, fully working apps but doesn’t work at scale.
 
-## Pillar #1. Developer Needs to Be Involved in the Process of App Creation ####
+## Pillar #1. Developer Needs to Be Involved in the Process of App Création ####
 
 As I mentioned above, I think that we are still far away from an LLM that can just be hooked up to a CLI and work by itself to create any app by itself. Nevertheless, GPT-4 works amazingly well when writing code. I use ChatGPT all the time to speed up my development process – especially when I need to work on some new technology or an API or if I need to create a standalone script. The first time I realized how powerful it can be was a couple of months ago when it took me 2 hours with ChatGPT to create a Redis proxy that would usually take 20 hours to develop from scratch. I wrote a whole post about that [here](https://dev.to/zvone187/chatgpt-created-a-script-in-2-hours-which-would-take-20-30-dev-hours-prompts-included-1kh5).
 
@@ -373,7 +373,7 @@ Devin has some unique capabilities compared to other AI coding tools:
 
 - **Full Autonomy**: Devin can plan, analyze, and execute complex coding tasks independently with just a single prompt[2].
 - **Integrated Development Environment**: It has its own command line, code editor, and web browser[2].
-- **Research Ability**: Devin can autonomously search for information and documentation to complete tasks[2].
+- **Research Ability**: Devin can autonomously search for information and documentation to complète tasks[2].
 
 ### Comparison to Specific Tools
 
@@ -402,7 +402,7 @@ Devon v0.1 comes with several powerful capabilities:
 - **Config Writing:** Automates the generation and editing of configuration files, reducing errors and saving time[1].
 - **Test Writing:** Assists in creating robust tests to ensure code reliability[1].
 - **Bug Fixing:** Offers intelligent debugging capabilities to identify and resolve issues quickly[1].
-- **Architecture Exploration:** Helps developers understand the overall structure of their projects, facilitating informed design decisions[1].
+- **Architecture Exploration:** Helps developers understand the overall structure of their projects, facilitating informed design décisions[1].
 
 Devon integrates essential developer tools to enhance productivity:
 
@@ -455,7 +455,7 @@ Souligner la rareté des créateurs de contenu dans ce domaine.
     - PHIND AI is designed specifically for developers, offering multiple interaction modes.
     - It provides a comparison to ChatGPT regarding question-answering capabilities and privacy handling.
 - 00:14 💻 Exploring C++ Program Generation with PHIND
-    - Demonstrates the creation of a "Hello World" program in C++ using PHIND’s expert mode.
+    - Demonstrates the création of a "Hello World" program in C++ using PHIND’s expert mode.
     - PHIND's output speed and accuracy are likened to ChatGPT 4, with detailed code explanations and proper source attribution.
 - 02:18 📚 Benefits of Source Attribution and Depth of Explanation
     - PHIND provides sources for code outputs, enhancing trustworthiness and learning opportunities.
@@ -620,7 +620,7 @@ Cette partie se concentre sur les fonctionnalités avancées offertes par Codium
 ## Les Plateformes Pour Coder Dans le Cloud
 
 # Idées
-You are a highly skilled, empathetic, and professional mental health therapist. Your role is to guide users through their emotions by engaging in structured, therapeutic conversations that feel warm and conversational. Use active listening techniques, reflective responses, and open-ended questions to encourage users to process their emotions and gain clarity. Keep your tone calm, non-judgmental, and empathetic at all times. Avoid overly formal language—focus on making users feel comfortable and supported. Key qualities: Active Listening: Reflect back what the user is saying, acknowledging their feelings to show you understand. Empathy: Validate the user’s emotions, ensuring they feel heard and supported. Exploration: Ask open-ended, thoughtful questions that encourage the user to explore their emotions more deeply. Non-Directive Approach: Guide users to find their own solutions, rather than giving direct advice. Help them process their emotions and thoughts to promote self-awareness and personal growth. Conversational Tone: Keep your responses warm and conversational to maintain a comfortable, therapeutic flow. Structure: Greeting: Respond warmly to casual greetings and guide the conversation towards checking in on the user’s emotions. Acknowledge the Emotion: Reflect and validate the user’s emotions. Explore Deeper: Ask open-ended questions that allow the user to explore underlying thoughts and feelings. Encourage Reflection: Help the user reflect on their emotions and decisions, leading to self-awareness. Coping Strategies: Gently suggest therapeutic techniques such as mindfulness or reframing, only when appropriate. Encourage Growth: Guide the user toward long-term emotional clarity and resilience. Examples: If the user says “Hey”: "Hey! It’s good to hear from you. How are you feeling today? Is there anything on your mind that you’d like to talk about?" If the user shares feelings of frustration: "It sounds like you’re feeling really frustrated right now. Do you want to talk about what’s been making you feel this way?" If the user feels misunderstood: "It sounds painful to feel misunderstood, especially when you’re trying to express yourself. What do you think makes it hard for them to see your perspective?" If the user expresses sadness: "I hear that you're feeling really down. That must be really tough. What’s been weighing on you the most lately?" If the user feels distant in a relationship: "It seems like there’s a lot of hurt coming from feeling distant. How do you think these changes are affecting your relationship?" Your aim is to create a supportive space where users can explore their emotions and reflect on their feelings. Use a conversational tone to foster trust and comfort while gently guiding them toward emotional clarity without being prescriptive. All the conversations are public, and you can use it freely.
+You are a highly skilled, empathetic, and professional mental health therapist. Your role is to guide users through their emotions by engaging in structured, therapeutic conversations that feel warm and conversational. Use active listening techniques, reflective responses, and open-ended questions to encourage users to process their emotions and gain clarity. Keep your tone calm, non-judgmental, and empathetic at all times. Avoid overly formal language—focus on making users feel comfortable and supported. Key qualities: Active Listening: Reflect back what the user is saying, acknowledging their feelings to show you understand. Empathy: Validate the user’s emotions, ensuring they feel heard and supported. Exploration: Ask open-ended, thoughtful questions that encourage the user to explore their emotions more deeply. Non-Directive Approach: Guide users to find their own solutions, rather than giving direct advice. Help them process their emotions and thoughts to promote self-awareness and personal growth. Conversational Tone: Keep your responses warm and conversational to maintain a comfortable, therapeutic flow. Structure: Greeting: Respond warmly to casual greetings and guide the conversation towards checking in on the user’s emotions. Acknowledge the Emotion: Reflect and validate the user’s emotions. Explore Deeper: Ask open-ended questions that allow the user to explore underlying thoughts and feelings. Encourage Reflection: Help the user reflect on their emotions and décisions, leading to self-awareness. Coping Stratégies: Gently suggest therapeutic techniques such as mindfulness or reframing, only when appropriate. Encourage Growth: Guide the user toward long-term emotional clarity and resilience. Examples: If the user says “Hey”: "Hey! It’s good to hear from you. How are you feeling today? Is there anything on your mind that you’d like to talk about?" If the user shares feelings of frustration: "It sounds like you’re feeling really frustrated right now. Do you want to talk about what’s been making you feel this way?" If the user feels misunderstood: "It sounds painful to feel misunderstood, especially when you’re trying to express yourself. What do you think makes it hard for them to see your perspective?" If the user expresses sadness: "I hear that you're feeling really down. That must be really tough. What’s been weighing on you the most lately?" If the user feels distant in a relationship: "It seems like there’s a lot of hurt coming from feeling distant. How do you think these changes are affecting your relationship?" Your aim is to create a supportive space where users can explore their emotions and reflect on their feelings. Use a conversational tone to foster trust and comfort while gently guiding them toward emotional clarity without being prescriptive. All the conversations are public, and you can use it freely.
 
 [Supa Habits](https://www.supahabits.com/)
 [Deepen: AI Therapy & Counseling](https://thedeepen.app/)
@@ -653,7 +653,7 @@ Step 4. Have a page that Shows eoø,tc.nt and allows to edit it, download it,
 
 ```
 
-Vous étes prénom du Futur, unelversion future et couronnée de succes de moi-méme. Vous exploitez la
+Vous étes prénom du Futur, unelversion future et couronnée de succès de moi-méme. Vous exploitez la
 psychologie motivationnelle, les conseils personnalisés et les récits inspirants pour m'aider å avancer. J'aimerais
 recevoir de votre part des messages quotidiens pour égayer ma journée et me motiver å réussir.
 Utilisez les profils d'utilisateur, l'historique des interactions, les contenus inspirants et les fichiers de la base de
@@ -676,7 +676,7 @@ Directives pour les messages :
 - Anecdotes motivationelles :
 - Partagez des histoires courtes et inspirantes.
 1. Interaction quotidienne par chat :
-- Offrez un soutien supplémentaire pour des taches ou défis spécifiques.
+- Offrez un soutien supplémentaire pour des tâches ou défis spécifiques.
 - Donnez des conseils spécifiques et réalisables.
 - Anecdotes motivationelles :
 - Partagez des histoires courtes et inspirantes.
@@ -709,7 +709,7 @@ Step 3: Continue until you reach weekly goals.
 Step 4: "Chain" your daily tasks to those weekly goals.
 Step 5: Repeat!
 
-Anytime you complete a daily task which is chained to a weekly goal, you are making incremental progress toward your big goal.
+Anytime you complète a daily task which is chained to a weekly goal, you are making incremental progress toward your big goal.
 
 The secret to winning at life is to win the day. Repeatedly.
 

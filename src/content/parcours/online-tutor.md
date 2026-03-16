@@ -52,4 +52,4 @@ Donner des cours en ligne structurés avec progression visible.
 ## Idées de contenus pour aller plus loin
 - [Guide à venir 1: cadre session efficace](/tutos/online-tutor/cadre-session-efficace)
 - [Guide à venir 2: plan evaluation apprenants](/tutos/online-tutor/plan-evaluation-apprenants)
-- [Guide à venir 3: systeme reservation paiement](/tutos/online-tutor/systeme-reservation-paiement)
+- [Guide à venir 3: système reservation paiement](/tutos/online-tutor/systeme-reservation-paiement)

@@ -12,7 +12,7 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 
-[https://lamallette.biz/robomotion](https://lamallette.biz/robomotion)
+[https://lamallette.biz/robomotion](__MASK_0__)
 
 ✍
 
@@ -72,7 +72,7 @@ Autre
 
 [Use Cases for RPA in Insurance - PZU Group | UiPath](https://www.uipath.com/resources/automation-case-studies/pzu-insurance-group)
 
-[](http://ai.robomotion.io/)[http://ai.robomotion.io](http://ai.robomotion.io)
+[](http://ai.robomotion.io/)[http://ai.robomotion.io](__MASK_6__)
 
 > le coût élevé des outils RPA fait qu'ils ne sont abordables que pour les grandes entreprises. Robomotion, contrairement aux autres outils du marché, a une interface utilisateur conviviale
 > 
@@ -92,7 +92,7 @@ Autre
 
 Vous créez de vrais programmes qui s'exécutent sans avoir à acheter quoi que ce soit de plus. tout le monde que vous avez embauché une équipe de programmeurs coûteuse, mais non ! Vous maitrisez seulement la création de robots !
 
-Pour automatiser les applications en ligne vous allez souvent devoir sélectionner des donénes sur des pages web, vous devrez donc vous familiariser avec la conception de celle-ci et comprendre comment identifié un élèment sur une page web. Pour attraper un élèment sur une page on utilise soit son XPath ( ressources pour utiliser les XPath : [https://xpather.com](https://xpather.com), [https://devhints.io/xpath](https://devhints.io/xpath)), soit son identification CSS avec des sélecteurs CSS ( ressources pour utiliser les sélecteurs CSS : [www.w3schools.com/cssref/trysel.asp](http://www.w3schools.com/cssref/trysel.asp), [www.w3schools.com/css/css_selectors.asp](http://www.w3schools.com/css/css_selectors.asp)).
+Pour automatiser les applications en ligne vous allez souvent devoir sélectionner des donénes sur des pages web, vous devrez donc vous familiariser avec la conception de celle-ci et comprendre comment identifié un élèment sur une page web. Pour attraper un élèment sur une page on utilise soit son XPath ( ressources pour utiliser les XPath : [https://xpather.com](__MASK_13__), [https://devhints.io/xpath](__MASK_14__)), soit son identification CSS avec des sélecteurs CSS ( ressources pour utiliser les sélecteurs CSS : [www.w3schools.com/cssref/trysel.asp](http://www.w3schools.com/cssref/trysel.asp), [www.w3schools.com/css/css_selectors.asp](http://www.w3schools.com/css/css_selectors.asp)).
 
 Robomotion RPA:
 
@@ -143,7 +143,7 @@ Vu que je lance cette formation,
 
 - Vincent Lévi
 
-[https://youtu.be/T-NU-qcHRvE](https://youtu.be/T-NU-qcHRvE)
+[https://youtu.be/T-NU-qcHRvE](__MASK_33__)
 
 [Comment devenir un expert en automatisation marketing ?](https://fr.abyssale.com/creative-automation/how-to-become-a-marketing-automation-expert)
 
@@ -216,7 +216,7 @@ Ressources Humaines : Filtrer les CV en fonction d’exigences d’offres d’em
 
 # a faire
 
-[https://lamallette.biz/robomotion](https://lamallette.biz/robomotion)
+[https://lamallette.biz/robomotion](__MASK_44__)
 
 - Ads
     
@@ -282,11 +282,11 @@ Autre
 
 [Use Cases for RPA in Insurance - PZU Group | UiPath](https://www.uipath.com/resources/automation-case-studies/pzu-insurance-group)
 
-[](http://ai.robomotion.io/)[http://ai.robomotion.io](http://ai.robomotion.io)
+[](http://ai.robomotion.io/)[http://ai.robomotion.io](__MASK_50__)
 
-[https://www.flokzu.com/2022/03/18/building-maintenance-checklist-workflow-2/](https://www.flokzu.com/2022/03/18/building-maintenance-checklist-workflow-2/)
+[https://www.flokzu.com/2022/03/18/building-maintenance-checklist-workflow-2/](__MASK_51__)
 
-[https://www.facebook.com/groups/1057623338043525?multi_permalinks=1385699248569264&hoisted_section_header_type=recently_seen](https://www.facebook.com/groups/1057623338043525?multi_permalinks=1385699248569264&hoisted_section_header_type=recently_seen)
+[https://www.facebook.com/groups/1057623338043525?multi_permalinks=1385699248569264&hoisted_section_header_type=recently_seen](__MASK_52__)
 
 [(12) 👋 Ken Moo's SaaS Lifetime Deals (LTDs) Group | 🎁 214 FREE LTDs in Dec | Facebook](https://www.facebook.com/groups/softwarelifetimedealsappsumosaasltdkenmoo/?multi_permalinks=1385699248569264%2C1385618035244052%2C1385613235244532%2C1385490625256793%2C1385303458608843&notif_id=1648685881938443&notif_t=group_activity&ref=notif)
 
@@ -312,7 +312,7 @@ Autre
 
 Vous créez de vrais programmes qui s'exécutent sans avoir à acheter quoi que ce soit de plus. tout le monde que vous avez embauché une équipe de programmeurs coûteuse, mais non ! Vous maitrisez seulement la création de robots !
 
-Pour automatiser les applications en ligne vous allez souvent devoir sélectionner des donénes sur des pages web, vous devrez donc vous familiariser avec la conception de celle-ci et comprendre comment identifié un élèment sur une page web. Pour attraper un élèment sur une page on utilise soit son XPath ( ressources pour utiliser les XPath : [https://xpather.com](https://xpather.com), [https://devhints.io/xpath](https://devhints.io/xpath)), soit son identification CSS avec des sélecteurs CSS ( ressources pour utiliser les sélecteurs CSS : [www.w3schools.com/cssref/trysel.asp](http://www.w3schools.com/cssref/trysel.asp), [www.w3schools.com/css/css_selectors.asp](http://www.w3schools.com/css/css_selectors.asp)).
+Pour automatiser les applications en ligne vous allez souvent devoir sélectionner des donénes sur des pages web, vous devrez donc vous familiariser avec la conception de celle-ci et comprendre comment identifié un élèment sur une page web. Pour attraper un élèment sur une page on utilise soit son XPath ( ressources pour utiliser les XPath : [https://xpather.com](__MASK_62__), [https://devhints.io/xpath](__MASK_63__)), soit son identification CSS avec des sélecteurs CSS ( ressources pour utiliser les sélecteurs CSS : [www.w3schools.com/cssref/trysel.asp](http://www.w3schools.com/cssref/trysel.asp), [www.w3schools.com/css/css_selectors.asp](http://www.w3schools.com/css/css_selectors.asp)).
 
 Robomotion RPA:
 
@@ -368,6 +368,6 @@ Robomotion RPA:
     
     - Vincent Lévi
 
-[https://youtu.be/T-NU-qcHRvE](https://youtu.be/T-NU-qcHRvE)
+[https://youtu.be/T-NU-qcHRvE](__MASK_82__)
 
 [Comment devenir un expert en automatisation marketing ?](https://fr.abyssale.com/creative-automation/how-to-become-a-marketing-automation-expert)

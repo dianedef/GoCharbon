@@ -16,7 +16,7 @@ imgUrl: ../../assets/astro.jpeg
 
 https://youtu.be/wdMDvfUeAps?t=1099
 
-Here are the key points from the video transcript:
+Here are the key points from the vidéo transcript:
 
 - The speaker Corben is showing his progress on developing tools to generate draft blog articles using AI language models like Claude.
 

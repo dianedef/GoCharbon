@@ -8,21 +8,21 @@ status: "active"
 updatedAt: "2026-03-01"
 ---
 ## Ton objectif
-Concevoir des systemes prompts robustes relies à des usages business réels.
+Concevoir des systèmes prompts robustes relies à des usages business réels.
 
 ## En clair (version simple)
-- Pour qui : Equipes contenu, support, ops et produit integrant IA.
+- Pour qui : Équipes contenu, support, ops et produit integrant IA.
 - Où trouver les clients : Demonstrations gain temps/qualité sur process critiques.
 - Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
 ## Idées d'offres à tester
 1. Audit usage IA + architecture prompts
-2. Creation librairie prompts métier
+2. Création librairie prompts métier
 3. Formation équipe + gouvernance
 
 ## Ton plan simple sur 7 jours
 1. Jour 1 : rends "Audit usage IA + architecture prompts" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
-2. Jours 2-4 : utilise ton canal principal (Demonstrations gain temps/qualité sur process critiques.) pour proposer "Creation librairie prompts métier" à tes premiers clients et noter leurs retours.
+2. Jours 2-4 : utilise ton canal principal (Demonstrations gain temps/qualité sur process critiques.) pour proposer "Création librairie prompts métier" à tes premiers clients et noter leurs retours.
 3. Jours 5-7 : continue avec "Formation équipe + gouvernance", puis suis taux réussite prompts en prod et temps exécution tâche reduit, puis ajuste petit à petit.
 
 ## Les chiffres utiles à suivre

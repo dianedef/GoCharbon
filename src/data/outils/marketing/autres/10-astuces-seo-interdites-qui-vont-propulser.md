@@ -62,9 +62,9 @@ Pourtant, les gens vont et viennent, les équipes changent et des choses se prod
 
 Spreading my time and resources too thin across too many sites at the same time. These days, I focus on growing 2-3 sites per quarter (with intense publishing) and keeping the lights on (with 2-3 posts per week and minor updates to old posts) on the rest.
 
-### 15. What has been the best decision you’ve made?
+### 15. What has been the best décision you’ve made?
 
-I subscribed to the big newspapers out there (think NYT, WSJ, FT) as well as the magazines in my niches and started reading one of them every night before I go to sleep. By seeing what they publish, how they work with advertisers, and what kind of user experience they create in their mobile apps, I learn about content strategy, business models, and user engagement. And it puts me to sleep!
+I subscribed to the big newspapers out there (think NYT, WSJ, FT) as well as the magazines in my niches and started reading one of them every night before I go to sleep. By seeing what they publish, how they work with advertisers, and what kind of user expérience they create in their mobile apps, I learn about content strategy, business models, and user engagement. And it puts me to sleep!
 
 ### What’s one thing that you felt accelerated your journey the most?
 

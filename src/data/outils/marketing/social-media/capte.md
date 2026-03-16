@@ -18,13 +18,13 @@ u_site: https://getcapte.com/fr/
 [Capte | Facebook](https://www.facebook.com/Capteapp)  
 [twitter.com/capte_app](https://twitter.com/i/flow/login?redirect_after_login=%2Fcapte_app)  
 [Capte: Overview | LinkedIn](https://www.linkedin.com/company/getcapte/)  
-[video explication capté - YouTube](https://www.youtube.com/watch?v=W2m2kbAcfS8)
+[vidéo explication capté - YouTube](https://www.youtube.com/watch?v=W2m2kbAcfS8)
 - **Fondateurs :** Gabriel Delattre et Emmanuel Geoffray
 - **Nombre d'employés :** 6
 
 | Créez rapidement des sous-titres intégrés à votre vidéo
 
-[https://capté.fr/?utm_source=growthhacking.fr&utm_medium=forum&utm_campaign=beta-v0](https://xn--capt-epa.fr/?utm_source=growthhacking.fr&utm_medium=forum&utm_campaign=beta-v0)
+[https://capté.fr/?utm_source=growthhacking.fr&utm_medium=forum&utm_campaign=beta-v0](__MASK_7__)
 
 ### [Augmentez votre visibilité](https://app.xn--capt-epa.fr/#)
 

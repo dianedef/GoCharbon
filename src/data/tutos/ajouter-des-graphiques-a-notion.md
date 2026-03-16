@@ -18,14 +18,14 @@ imgUrl: ../../assets/astro.jpeg
 
 ### tl;dr
 
-Notion est genial pour stocker des donnees, mais nul pour les visualiser. Pas de graphiques natifs. Heureusement, il existe des outils qui se branchent sur tes bases Notion pour generer des graphiques directement dans tes pages. Ce tuto te montre les meilleures options.
+Notion est genial pour stocker des donnees, mais nul pour les visualiser. Pas de graphiques natifs. Heureusement, il existe des outils qui se branchent sur tes bases Notion pour générer des graphiques directement dans tes pages. Ce tuto te montre les meilleures options.
 
 ---
 
 ## Pourquoi des graphiques dans Notion ?
 
 - **Un tableau de 200 lignes ne raconte rien.** Un graphique montre la tendance en 2 secondes.
-- **Pour tes dashboards** -- Ventes, metriques social media, budget, KPIs.
+- **Pour tes dashboards** -- Ventes, métriques social media, budget, KPIs.
 - **Pour tes rapports** -- Un graphique est 10x plus clair qu'un tableau pour tes clients.
 
 **Bonne nouvelle (2024-2025) :** Notion a lance les Charts natifs ! Tu peux maintenant creer des graphiques directement dans tes bases de donnees sans outil tiers. Sur un plan payant (Plus, Business, Enterprise), graphiques illimites. Sur le plan gratuit, 1 seul graphique. Les outils tiers ci-dessous restent utiles pour des visualisations plus avancees ou si tu es sur le plan gratuit.
@@ -36,7 +36,7 @@ Depuis 2024, Notion propose des graphiques natifs integres directement dans les 
 
 1. Ouvre ta base de donnees dans Notion
 2. Clique sur le bouton "+" a cote des vues existantes
-3. Selectionne "Chart" comme type de vue
+3. Sélectionne "Chart" comme type de vue
 4. Configure : type de graphique (barres verticales, barres horizontales, courbe, donut), axe X (date, select, titre...), axe Y (propriete numerique avec aggregation)
 5. Personnalise : couleurs, hauteur, labels, grille
 6. Exporte en PNG ou SVG via "Save chart as..."
@@ -49,7 +49,7 @@ Si tu as besoin de plus de types de graphiques ou si tu es sur le plan gratuit d
 
 1. Inscris-toi sur [notion2charts.com](https://notion2charts.com) (anciennement chartbase.app)
 2. Connecte Notion via OAuth
-3. Cree un chart et selectionne ta base
+3. Cree un chart et sélectionne ta base
 4. Choisis le type : bar, line, pie, doughnut, area, scatter, multi-series
 5. Personnalise couleurs, theme, legende
 6. Dans Notion, tape `/embed` et colle le lien
@@ -60,7 +60,7 @@ Le graphique se met a jour automatiquement quand tes donnees changent.
 
 ## Option 2 : NotionStats et autres alternatives
 
-D'autres outils tiers se connectent a Notion pour creer des graphiques : [NotionStats](https://notionstats.com) (graphiques personnalises avec cumulation, templates), et d'autres solutions comme Notion2Charts. Meme principe que ChartBase -- connecte ta base, choisis le type, configure et embed.
+D'autres outils tiers se connectent a Notion pour creer des graphiques : [NotionStats](https://notionstats.com) (graphiques personnalises avec cumulation, templates), et d'autres solutions comme Notion2Charts. Même principe que ChartBase -- connecte ta base, choisis le type, configure et embed.
 
 ## Option 3 : Google Sheets + embed (gratuit)
 
@@ -81,7 +81,7 @@ Pour des visualisations animees et impressionnantes :
 3. Choisis parmi des dizaines de types : bar chart race, cartes, Sankey, treemap...
 4. Personnalise et embed dans Notion
 
-**Ideal pour :** presentations, rapports clients, posts LinkedIn (export GIF/video).
+**Ideal pour :** presentations, rapports clients, posts LinkedIn (export GIF/vidéo).
 
 ## Quel graphique pour quelles donnees ?
 
@@ -102,7 +102,7 @@ Pour des visualisations animees et impressionnantes :
 5. Embed les 3 sur une page "Dashboard Ventes"
 6. Ajoute les KPIs en texte au-dessus : CA total, nombre de ventes, panier moyen
 
-Resultat : un dashboard visuel qui se met a jour a chaque vente ajoutee.
+Resultat : un dashboard visuel qui se met a jour a chaque vente ajoutée.
 
 ## Astuces GoCharbon
 

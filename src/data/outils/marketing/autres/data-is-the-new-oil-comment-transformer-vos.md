@@ -19,7 +19,7 @@ imgUrl: ../../../../assets/astro.jpeg
 
 Le 9 novembre 2023par Korben -
 
-1. [Securite-Vie-Privee](https://korben.info/categories/securite-vie-privee/ "Voir tous les articles de la catégorie Securite-Vie-Privee")
+1. [Sécurité-Vie-Privee](https://korben.info/categories/securite-vie-privee/ "Voir tous les articles de la catégorie Securite-Vie-Privee")
 2. [Protection-Donnees](https://korben.info/categories/securite-vie-privee/protection-donnees/ "Voir tous les articles de la sous-catégorie Protection-Donnees")
 
 – Article en partenariat [avec Incogni](https://get.incogni.io/aff_c?offer_id=959&aff_id=13768) –
@@ -59,7 +59,7 @@ En ce moment vous pouvez même profiter d’une **offre spéciale pour le black
 
 Le 28 juin 2023par Korben -
 
-1. [Securite-Vie-Privee](https://korben.info/categories/securite-vie-privee/ "Voir tous les articles de la catégorie Securite-Vie-Privee")
+1. [Sécurité-Vie-Privee](https://korben.info/categories/securite-vie-privee/ "Voir tous les articles de la catégorie Securite-Vie-Privee")
 2. [Protection-Donnees](https://korben.info/categories/securite-vie-privee/protection-donnees/ "Voir tous les articles de la sous-catégorie Protection-Donnees")
 
 – Article en partenariat [avec Incogni](https://deal.incogni.io/aff_c?offer_id=5&aff_id=1058) –
@@ -100,7 +100,7 @@ Comme quoi tout peut changer, et vous aussi ! Vous n’avez pas tenu votre prome
     
     On vit dans un monde de porno de l’information. Lire les infos, regardez les infos en boucle chaque jour, entendre les mêmes choses pendant des heures, des choses qu’on sait déjà 99% du temps. C’est de la répétition, y’a aucune fierté à connaître tout l’info, on est entouré de d’infoporn. Autant consommer du vrai porno si c’est pour faire ça.
     
-    Source : Techlead [](https://youtu.be/KsS5Qe_JSZM?t=284)[https://youtu.be/KsS5Qe_JSZMc’est](https://youtu.be/KsS5Qe_JSZMc%E2%80%99est) t=284
+    Source : Techlead [](https://youtu.be/KsS5Qe_JSZM?t=284)[https://youtu.be/KsS5Qe_JSZMc’est](__MASK_46__) t=284
     
 
 Je veux pas lancer un débat houleux mais je ne comprends pas le problème qu'il y a avec la collections des donnes personnelles sur internet.C'est pas mieux de recevoir des publicités ciblées, plutôt que des trucs qui ne t'intéressent pas?C'est pas cool de pouvoir profiter de services tels que les réseaux sociaux, youtube, Google, gratuitement ?Quand tu vas chez quelqu'un tu n'acceptes pas qu'il voit ce que tu regardes, ce que tu touches, ce que tu manges du buffet qu'il est présenté ?
@@ -120,7 +120,7 @@ Je veux pas lancer un débat houleux mais je ne comprends pas le problème qu'il
     3. Live data stories keep your content as fresh as day 1.
     4. It motivates your readers to share your content more broadly.
     
-    [https://medium.com/@jdelalan/data-is-the-new-oil-12e197a1dc24](https://medium.com/@jdelalan/data-is-the-new-oil-12e197a1dc24)
+    [https://medium.com/@jdelalan/data-is-the-new-oil-12e197a1dc24](__MASK_47__)
     
     
     
@@ -188,7 +188,7 @@ Je veux pas lancer un débat houleux mais je ne comprends pas le problème qu'il
     
     Un algorithme ne fera peut-être jamais les rapprochements que vous pressentez et ne vous détaillera pas les interactions conservées. Seul un bon travail de data-préparation vous apportera des garanties. Dans la data intelligence, cette phase prend généralement 80% du temps… il reste donc 20% à consacrer aux analyses et résultats.
     
-    Cette préparation se rapproche du raffinage des hydrocarbures. Cette phase est essentielle dans la chaine de valeur du produit fini.
+    Cette préparation se rapproche du raffinage des hydrocarbures. Cette phase est essentielle dans la chaîne de valeur du produit fini.
     
     ## Enfin son ascension dépendra des cas d’usage
     
@@ -555,9 +555,9 @@ Main features:
 - Dump table information
 - Executes remote SQL SELECTS
 
-Check out the next video to see the true power of SQLMap using the sqlmap out-of-band injection working with Metasploit integration against Microsoft SQL Server:
+Check out the next vidéo to see the true power of SQLMap using the sqlmap out-of-band injection working with Metasploit integration against Microsoft SQL Server:
 
-Video could not be loaded at this time.
+Vidéo could not be loaded at this time.
 
 ### [¶](https://securitytrails.com/blog/information-gathering#content-9-sqlninja "Permalink")9. SQLNinja
 
@@ -938,9 +938,9 @@ In the right-side panel, set the column type to “Reference” (in database ter
 
 __
 
-Click the “Apply” button to complete this change of the column’s type (if the column is empty, there is no confirmation step).
+Click the “Apply” button to complète this change of the column’s type (if the column is empty, there is no confirmation step).
 
-You can now assign an instructor to any class. Click on a cell in the _Instructor_ column. You can hit `_Enter_` and choose from among the available instructors in the `Staff` table, or start typing to use auto-complete.
+You can now assign an instructor to any class. Click on a cell in the _Instructor_ column. You can hit `_Enter_` and choose from among the available instructors in the `Staff` table, or start typing to use auto-complète.
 
 __
 
@@ -982,7 +982,7 @@ For the column _Class_, set the Column Type to “Reference”, the referenced 
 
 __
 
-It’s possible to enter enrollment data by adding records to this table and using auto-complete in the _Student_ and _Class_ column. Below, we will set up a much more convenient way to enroll students.
+It’s possible to enter enrollment data by adding records to this table and using auto-complète in the _Student_ and _Class_ column. Below, we will set up a much more convenient way to enroll students.
 
 ## Class View
 
@@ -1031,7 +1031,7 @@ When we select a student here, we’d like to see all enrollments for this stude
 
 __
 
-Now you can click on a student’s name on the left and see the classes that student is enrolled in on the right. You can enroll the selected student into a class by simply entering a class code in the special blank row at the bottom of the enrollments list. As usual, the _Class_ reference column offers auto-complete.
+Now you can click on a student’s name on the left and see the classes that student is enrolled in on the right. You can enroll the selected student into a class by simply entering a class code in the special blank row at the bottom of the enrollments list. As usual, the _Class_ reference column offers auto-complète.
 
 
 You can hide the “Student” column in “ENROLLMENTS” table, since it will always show the selected student anyway.
@@ -1057,7 +1057,7 @@ Note that we added a _Full Name_ column here as for other tables that list peo
 In the Students table, we’ll add a column named “Family”, and make it a Reference to `Families`.
 
 
-The example data already has families filled in, and conversion to reference looks up the text to set correct references. If you were entering new data, you could link students to families using auto-complete as with other reference columms.
+The example data already has families filled in, and conversion to reference looks up the text to set correct references. If you were entering new data, you could link students to families using auto-complète as with other reference columms.
 
 Let’s change our “Enrollment View” to list families first. This way, when a parent calls, you can pick the right record and see all of their children and enrollments for each child.
 

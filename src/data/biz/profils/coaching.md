@@ -245,7 +245,7 @@ La différence avec consultant : le consultant conseille des entreprises sur la 
 - Amis/famille qui ont le problème
 - "Je lance un coaching [niche], je cherche 3 beta testeurs"
 - Gratuit ou 50% de réduction
-- En échange: témoignage détaillé + video si possible
+- En échange: témoignage détaillé + vidéo si possible
 
 **2. Groupes Facebook**
 - Groupes de ta niche

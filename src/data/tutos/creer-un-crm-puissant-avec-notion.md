@@ -16,9 +16,9 @@ imgUrl: ../../assets/astro.jpeg
 
 [PeopleToNotion - LinkedIn to Notion](https://www.peopletonotion.com/?ref=producthunt)
 
-[https://youtu.be/bMDvUqiIBBw](https://youtu.be/bMDvUqiIBBw)
+[https://youtu.be/bMDvUqiIBBw](__MASK_2__)
 
-[https://youtu.be/HEkyGh82iQ4?t=1796](https://youtu.be/HEkyGh82iQ4?t=1796)
+[https://youtu.be/HEkyGh82iQ4?t=1796](__MASK_3__)
 
 [Preparing your CRM for cold outreach - Full guide for AE and AM](https://sales.rocks/blog/preparing-crm-for-cold-outreach/?utm_source=newsletter&utm_medium=email&utm_campaign=product-updates&__vbtrk=MTQ0MzMxOjcwNDg4MTk0Om5ld3NsZXR0ZXI&_uax=MTQ0MzMxOjcwNDg4MTk0)
 

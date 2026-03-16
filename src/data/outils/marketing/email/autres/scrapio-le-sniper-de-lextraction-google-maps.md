@@ -138,7 +138,7 @@ Le fonctionnement est ultra simple :
 1. Entrer vos filtres de secteur géographique
 	ex : **emplacement aux États-Unis)**
 2. Entrer les domaines d'activités désirés parmi les +4000 catégories
-	Retrouvez toutes les catégories disponibles ici [](https://www.consultante-seo.paris/wp-content/uploads/2021/06/Liste-des-Categories-Google-My-Business-en-franc%CC%A7ais_compressed.pdf)[https://www.consultante-seo.paris/wp-content/uploads/2021/06/Liste-des-Categories-Google-My-Business-en-français_compressed.pdf](https://www.consultante-seo.paris/wp-content/uploads/2021/06/Liste-des-Categories-Google-My-Business-en-franc%CC%A7ais_compressed.pdf)
+	Retrouvez toutes les catégories disponibles ici [](https://www.consultante-seo.paris/wp-content/uploads/2021/06/Liste-des-Categories-Google-My-Business-en-franc%CC%A7ais_compressed.pdf)[https://www.consultante-seo.paris/wp-content/uploads/2021/06/Liste-des-Categories-Google-My-Business-en-français_compressed.pdf](__MASK_6__)
 	Ces 4000 catégories d'activités professionnelles classent les business ce qui permet une recherche très précise ! Cette segmentation est gérée par Google Maps et chaque établissement peut être inscrit dans une à dix catégories. Plus vous allez dans la spécialité et moins il y aura évidemment de volume, mais les résultats seront plus ciblés.
 	Il faut bien faire attention à ça car si vous n’utilisez pas le bon mot clef vous ne trouverez pas les résultats optimaux, c'est l'étape la plus importante : Cherchez des variations de catégorie et des mots-clefs car aux outils de SEO.
 	Par exemple vous avez peut-être l’habitude de parler de “vétérinaires” mais ils existe aussi les cliniques vétérinaires, les pharmacies vétérinaires, les urgences vétérinaires…
@@ -191,9 +191,9 @@ Et ça a littéralement fait un carton au niveau des ventes ! Pour les avoir uti
 
 Pour les contacter : 07 80 95 45 10  201-367-0253
 
-Prendre rendez-vous ici: [https://calendly.com/julienarcin/rendez-vous](https://calendly.com/julienarcin/rendez-vous) 
+Prendre rendez-vous ici: [https://calendly.com/julienarcin/rendez-vous](__MASK_8__) 
 
-[https://api.whatsapp.com/send?phone=85577215375&text=Hello](https://api.whatsapp.com/send?phone=85577215375&text=Hello)
+[https://api.whatsapp.com/send?phone=85577215375&text=Hello](__MASK_9__)
 
 ## 💰 Source de Revenu Supplémentaire 💰
 

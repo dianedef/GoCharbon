@@ -17,7 +17,7 @@ imgUrl: ../../../../assets/astro.jpeg
 
 - Introduction au parcours de transformation digitale - OpenClassrooms
     
-    [https://openclassrooms.com/fr/courses/4024656-introduction-au-parcours-de-transformation-digitale](https://openclassrooms.com/fr/courses/4024656-introduction-au-parcours-de-transformation-digitale)
+    [https://openclassrooms.com/fr/courses/4024656-introduction-au-parcours-de-transformation-digitale](__MASK_0__)
     
     Bienvenue dans ce parcours sur la Transformation digitale !
     

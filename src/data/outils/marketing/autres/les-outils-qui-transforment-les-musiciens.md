@@ -35,15 +35,15 @@ Que vous cherchiez à créer des progressions d'accords que vous pouvez ouvrir d
 
 ## Music
 
-SongR is an innovative AI-based Song Generator that puts the power of music creation in your hands. With just a few keywords, SongR can craft personalized songs that fit to your preferences.
+SongR is an innovative AI-based Song Generator that puts the power of music création in your hands. With just a few keywords, SongR can craft personalized songs that fit to your preferences.
 
 **Features:**
 
 -Easy to Use: SongR is designed to be user-friendly. Simply hover over your preferred genre, enter a few keywords in the textbox, and click or hit 'Enter'. It's that simple!  
 -Lyric Editing: SongR provides you with the ability to modify and fine-tune the lyrics in the Lyric Editor window. With SongR, your songs truly reflect your artistic vision.  
 -Genre Customization: Whether you're aiming for a melancholic love ballad or a high-energy pop anthem, SongR has the versatility to match your mood and style.  
--Input Your Own Lyrics: Just hover over your genre of choice and select "I have my own lyrics" to infuse your personal touch into the music creation process.  
+-Input Your Own Lyrics: Just hover over your genre of choice and select "I have my own lyrics" to infuse your personal touch into the music création process.  
 -Device Compatibility: SongR is accessible on any device, including phones, iPads, and laptops.  
--Usage Limit: To ensure fair access for all users, SongR currently limits the creation of songs to 5 per day.
+-Usage Limit: To ensure fair access for all users, SongR currently limits the création of songs to 5 per day.
 
 [songR](https://app.songr.ai/)

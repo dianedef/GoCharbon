@@ -83,7 +83,7 @@ Nearly 50% of responders had thought about changing their careers at least three
 
 Nonetheless, as someone who was conditioned to always aim for the top, like many high achievers in the world of tech, I was having a hard time reconciling the limitations of my health with my professional ambitions.
 
-It was clear that I needed to make a trade-off to avoid a fate that others had faced, like the sad loss of the wonderful [Dave Goldberg](https://en.wikipedia.org/wiki/Dave_Goldberg) at the age of 47. It also required that I step back and make a holistic assessment of what matters to me. Not just with work but with the broader tapestry that makes up a complete life, including human connection and nurturing experiences.
+It was clear that I needed to make a trade-off to avoid a fate that others had faced, like the sad loss of the wonderful [Dave Goldberg](https://en.wikipedia.org/wiki/Dave_Goldberg) at the age of 47. It also required that I step back and make a holistic assessment of what matters to me. Not just with work but with the broader tapestry that makes up a complète life, including human connection and nurturing experiences.
 
 So I created a framework to do so. It has three parts:
 
@@ -119,7 +119,7 @@ Staying within a range of acceptable tolerance in your life should be the goal, 
 
 ### How do I know if I’m outside my range of tolerance? 
 
-When pushed outside our tolerance range, we will experience a wide range of indicators.
+When pushed outside our tolerance range, we will expérience a wide range of indicators.
 
 One category of indicators is hormonal dysregulation, which reveals itself in the form of negative emotional states. We can feel irritable, anxious, sad, angry, withdrawn, or shut down.
 
@@ -178,7 +178,7 @@ My heart attack scare forced me to confront my biological limitations. It also h
 
 The doctors gave me a half-assed guess that “maybe it was genetic,” but every part of my ass knew that it was the by-product of excess stress on my nervous system, beginning with [the PTSD](https://andyjohns.substack.com/p/opening-up-about-mental-health) induced by my early childhood experiences. 
 
-Being not a complete idiot, and in deference to the substantial amount of research showing [the connection between PTSD and cardiovascular disease](https://pubmed.ncbi.nlm.nih.gov/21792377/), I listened to my doctors and stepped away from work. That was the beginning of admitting that my nervous system wasn’t cut out for the constant stress of a leadership role within the chaos of growing a startup.
+Being not a complète idiot, and in deference to the substantial amount of research showing [the connection between PTSD and cardiovascular disease](https://pubmed.ncbi.nlm.nih.gov/21792377/), I listened to my doctors and stepped away from work. That was the beginning of admitting that my nervous system wasn’t cut out for the constant stress of a leadership role within the chaos of growing a startup.
 
 Even as I write this, from the comfort of a couch in a local coffee shop on a beautiful Sunday morning, my heart pounds, and my chest feels entombed with pressure. It’s not because of my present circumstances. It’s because of the shadow cast on the most primitive components of my brain by certain experiences I had as a kid that left me with an overactive nervous system.
 
@@ -216,7 +216,7 @@ It begins with creating a few lists: 
 3. **Plan to flourish:** A list of items that put you in your optimal zone of performance. You should be prepared to make sacrifices in order to commit to these. Think of experiences or behaviors that make you feel healthiest and at your best. These are the items that, when you commit to them, make you more resilient against things that test your tolerance.
     
 
-Here’s a [table for creating your list](https://docs.google.com/spreadsheets/d/166FaMHwGrXKa39K_MS_kmeY5addiKXO1VFKFIshOTS0/edit#gid=304341923). It is broken down into each major category of life to ensure that it is thorough and inclusive of a full life experience, not just our professional lives:
+Here’s a [table for creating your list](https://docs.google.com/spreadsheets/d/166FaMHwGrXKa39K_MS_kmeY5addiKXO1VFKFIshOTS0/edit#gid=304341923). It is broken down into each major category of life to ensure that it is thorough and inclusive of a full life expérience, not just our professional lives:
 
 [
 
@@ -227,7 +227,7 @@ As an example, [here’s the current list that I use](https://docs.google.com/s
 
 ### Create your tolerance target
 
-Once you have the list complete, [transpose it into the tolerance target](https://docs.google.com/presentation/d/1UdWE9T-b4jOWYrxwAEMSge83vutQG9LvscF7iO8pnic/edit?usp=sharing), which is a visual representation of the list you created: 
+Once you have the list complète, [transpose it into the tolerance target](https://docs.google.com/presentation/d/1UdWE9T-b4jOWYrxwAEMSge83vutQG9LvscF7iO8pnic/edit?usp=sharing), which is a visual representation of the list you created: 
 
 [
 
@@ -342,7 +342,7 @@ In a professional context, there are times when it makes sense to seek situation
 
 Let me provide a personal example. 
 
-Early in my career, I made a decision that I was going to establish financial freedom as quickly as I could. I understood that it meant increasing my earnings from work (via promotions) while keeping my lifestyle costs as low as I could. I would then aggressively invest my savings to build a modest nest egg.
+Early in my career, I made a décision that I was going to establish financial freedom as quickly as I could. I understood that it meant increasing my earnings from work (via promotions) while keeping my lifestyle costs as low as I could. I would then aggressively invest my savings to build a modest nest egg.
 
 Here’s a plot of my actual earnings vs. cost of living per year since the beginning of my career:
 
@@ -355,7 +355,7 @@ The first and second green rows are when I took 6+ months off during those years
 
 As a result, my earnings were lower those years. The last green row, in year 17, is when I declared that I had enough money saved such that I could live a simple life off my savings and not have to work as hard anymore to build my nest egg.
 
-I also kept my annual cost of living low relative to my earnings, especially by the time I was about 10 years into my tech work. I made the decision to not own a home in the Bay Area, keeping me from having to pay for a $1M+ jumbo loan, which would have required more years of work that would regularly push me outside a tolerable range of stress. 
+I also kept my annual cost of living low relative to my earnings, especially by the time I was about 10 years into my tech work. I made the décision to not own a home in the Bay Area, keeping me from having to pay for a $1M+ jumbo loan, which would have required more years of work that would regularly push me outside a tolerable range of stress. 
 
 [
 
@@ -388,7 +388,7 @@ Now, as long as I make at least $35,000 a year post-tax, I won’t have to dip i
 
 Note that I also assumed that the equity I held in the startups I worked for would be worth $0. That was a conservative assumption that drove me to keep my cost of living low relative to my earnings. Anything that comes in from stock options will be icing on the cake.
 
-So before you make your next major career or life decision, pause and ask yourself a few questions: 
+So before you make your next major career or life décision, pause and ask yourself a few questions: 
 
 - How much money do I _truly_ need to live the life I envision for myself? 
     
@@ -414,7 +414,7 @@ However, since I decided to take a major step back to focus on my health and not
 
 Yet it was worth it. Within 30 days of making several major lifestyle changes to focus on my health, my level of blood cortisol, a dominant stress hormone, dropped by 30%. And I finally had months of dedicated time to work through the childhood trauma that had been taxing my nervous system for decades.
 
-That’s the beauty of knowing when to say “enough is enough.” Given my modest lifestyle goals and my desire to focus on my health, I was able to call it quits with the stress of running high-growth startups and give my nervous system the rest that it desperately needed. And I was able to make a complete investment in the other aspects of my life that had been neglected for years.
+That’s the beauty of knowing when to say “enough is enough.” Given my modest lifestyle goals and my desire to focus on my health, I was able to call it quits with the stress of running high-growth startups and give my nervous system the rest that it desperately needed. And I was able to make a complète investment in the other aspects of my life that had been neglected for years.
 
 ## How to develop more tolerance
 
@@ -429,7 +429,7 @@ Although there are benefits to windows of intolerance, we should still aim to re
 
 This means lowering your default state of agitation. I’m more anxious than the average person (I have PTSD and OCD diagnoses), so my range of tolerance is narrower than I’d prefer. To widen it, I try to engage with my green-circle items as much as possible. 
 
-Hot sauna and hot yoga are mainstay techniques for me. The reason for that is I find them effective at [lowering my baseline heart rate](https://pressemitteilungen.pr.uni-halle.de/index.php?modus=pmanzeige&pm_id=3102) without the wear and tear of a traditional workout. Most of the time I’m walking around with what I refer to as “PTSD heart” (it’s rapidly beating from fight-or-flight mode even though everything is OK). With a hot sauna or yoga session, I experience a meaningful decline in my resting heart rate once I’m in the recovery period. It tends to last for a few hours at a time and sometimes for the rest of the day. A 20-year study involving 30,000 people in Japan demonstrated a [28% decline in cardiovascular disease](https://www.health.harvard.edu/heart-health/hot-baths-and-saunas-beneficial-for-your-heart) for those who took a sauna every day versus those who didn’t.
+Hot sauna and hot yoga are mainstay techniques for me. The reason for that is I find them effective at [lowering my baseline heart rate](https://pressemitteilungen.pr.uni-halle.de/index.php?modus=pmanzeige&pm_id=3102) without the wear and tear of a traditional workout. Most of the time I’m walking around with what I refer to as “PTSD heart” (it’s rapidly beating from fight-or-flight mode even though everything is OK). With a hot sauna or yoga session, I expérience a meaningful decline in my resting heart rate once I’m in the recovery period. It tends to last for a few hours at a time and sometimes for the rest of the day. A 20-year study involving 30,000 people in Japan demonstrated a [28% decline in cardiovascular disease](https://www.health.harvard.edu/heart-health/hot-baths-and-saunas-beneficial-for-your-heart) for those who took a sauna every day versus those who didn’t.
 
 For me, it’s a green-circle behavior that I stick to religiously for the impact it has on regulating my nervous system. I could say more about it, but biochemist Rhonda Patrick does a better job, so listen to her instead:
 
@@ -449,7 +449,7 @@ The purpose of life isn’t to sacrifice our well-being. The purpose of life is 
 
 But it requires sacrifices to be made. Maybe you should turn down that promotion. Or not buy that house that will bind you to 5-10 years of additional work to pay for it. It may also require separating ourselves from people whose lifestyle preferences are misaligned with our own. 
 
-It can be done as long as you understand your own limitations and make conscious life decisions that align with what enables you to flourish. And when the time comes to call it quits, you will feel secure in saying, “No thanks. I’ve had enough.”
+It can be done as long as you understand your own limitations and make conscious life décisions that align with what enables you to flourish. And when the time comes to call it quits, you will feel secure in saying, “No thanks. I’ve had enough.”
 
 _Thank you, Andy 🙏 For more, subscribe to [Andy’s Newsletter](https://andyjohns.substack.com/) and [follow him on Twitter](https://twitter.com/ibringtraffic). And if there’s anyone in your life who would benefit from this post, you can easily share it using this button 👇_
 

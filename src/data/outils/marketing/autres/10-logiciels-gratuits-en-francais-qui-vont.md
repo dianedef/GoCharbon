@@ -46,7 +46,7 @@ Calendly 🇺🇸 ➝ Smart Agenda 🇫🇷
 
 Teachable 🇺🇸 ➝ SchoolMaker 🇫🇷
 
-Clickfunnels 🇺🇸 ➝ systeme io 🇫🇷
+Clickfunnels 🇺🇸 ➝ système io 🇫🇷
 
 VistaPrint 🇮🇪, Moo 🇬🇧 ➝ Spind 🇫🇷
 

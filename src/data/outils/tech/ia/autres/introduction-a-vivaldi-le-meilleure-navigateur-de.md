@@ -40,7 +40,7 @@ Nous existons pour vous et grâce à vous, et vous pouvez nous aider à nous dé
 Vaste question, d’autant qu’elle n’a rien à voir avec [Vivaldi](https://fr.wikipedia.org/wiki/Antonio_Vivaldi) , le prêtre roux 🙂  
 Vivaldi, c’est tout d’abord **une société**, **Vivaldi Technologies**, une petite startup norvégienne dont le siège est à Oslo et qui dispose de bureaux en Islande et aux États-Unis.  
 Fondée par [Jon Stephenson von Tetzchner](http://fr.wikipedia.org/wiki/Jon_Stephenson_von_Tetzchner) et [Tatsuki Tomita](https://www.linkedin.com/in/tatsukitomita), respectivement ancien fondateur/PDG et ancien directeur Asie/Japon d’_Opera Software_, [Vivaldi Technologies compte 25 employés à ce jour](https://vivaldi.com/team/ "L'équipe Vivaldi au complet") (2015), dont plusieurs anciens développeurs/designers d’_Opera Software_.  
-Le site officiel est [https://vivaldi.com](https://vivaldi.com/ "Site officiel").
+Le site officiel est [https://vivaldi.com](__MASK_6__).
 
 Vivaldi, c’est aussi un ensemble de **services en ligne**, **Vivaldi.net**, créé pour combler le manque lié à la fermeture de _My Opera_.  
 [Vivaldi.net](https://vivaldi.net/) offre ainsi le même genre de services communautaires dont une plateforme de **blogs**, des **forums**, un système de discussions internes et de gestions d’amis/groupes. Un **service de messagerie électronique** complet (5Go en POP/IMAP/SMTP/Webmail/CalDAV/CardDAV) est aussi proposé gratuitement et sans contrepartie (ni pub, ni traceur).  
@@ -645,7 +645,7 @@ La [liste fonctionnalités natives de Vivaldi](https://fr.vivaldi.net/chronologi
 	
 * Mise en évidence de l’expression recherchée dans la liste déroulante en barre d’adresses
 	
-* Finalisation des traductions (chaines “Chromium”)
+* Finalisation des traductions (chaînes “Chromium”)
 	
 * Recherche d’image au clic-droit
 	
@@ -775,7 +775,7 @@ La [liste fonctionnalités natives de Vivaldi](https://fr.vivaldi.net/chronologi
 	
 * Raccourci clavier et commande rapide pour afficher la liste des onglets fermés
 	
-* Video flottante via clic-droit dans une vidéo > mode PiP (Picture-in-Picture)
+* Vidéo flottante via clic-droit dans une vidéo > mode PiP (Picture-in-Picture)
 	
 * Possibilité de supprimer des boutons dans les barres d’adresses et d’état, et de restaurer leur configuration d’origine
 	
@@ -931,7 +931,7 @@ La [liste fonctionnalités natives de Vivaldi](https://fr.vivaldi.net/chronologi
 * Générateur de QR-code en barre d’adresses
 * Option pour ouvrir les liens dans un nouvel onglet en arrière-plan (à la Firefox/Chrome…)
 * Nouveaux aperçus d’onglets et de piles d’onglets
-* Meilleur support Amazon Prime Video, Spotify, Disney+…
+* Meilleur support Amazon Prime Vidéo, Spotify, Disney+…
 * Amélioration de la personnalisation des menus/raccourcis clavier
 * Option de réglages des langues acceptées par les pages Web
 * Contrôle d’activation de chaque composant Google dans Chromium

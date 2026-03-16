@@ -53,7 +53,7 @@ Ce que le prospect achète c'est la confiance qu'il a dans la personne en face e
 
 Si tu as pas conscience de ta valeur et t'es plus à te dénigrer, comment la personne en face de toi peut-elle voir cette valeur ?
 
-## Etape 3. L'émotion
+## Étape 3. L'émotion
 
 Personne n'achète sur un coup de cerveau
 

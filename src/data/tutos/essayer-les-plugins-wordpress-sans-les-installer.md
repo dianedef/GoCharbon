@@ -14,7 +14,7 @@ imgUrl: ../../assets/astro.jpeg
 
 # Essayer les plugins WordPress sans les installer
 
-Tu hesites entre deux plugins ? Tu veux tester un plugin avant de le mettre sur ton vrai site ? Il existe des outils qui te permettent de lancer un WordPress jetable en quelques secondes, avec le plugin deja installe. Zero risque, zero nettoyage.
+Tu hesites entre deux plugins ? Tu veux tester un plugin avant de le mettre sur ton vrai site ? Il existe des outils qui te permettent de lancer un WordPress jetable en quelques secondes, avec le plugin déjà installe. Zero risque, zero nettoyage.
 
 ## Pourquoi ne pas tester directement sur ton site
 
@@ -22,8 +22,8 @@ Installer un plugin sur ton site de production pour "voir ce que ca fait", c'est
 
 - **Conflit avec tes autres plugins** : certains plugins ne font pas bon menage ensemble
 - **Ralentissement** : un plugin mal code peut diviser ta vitesse par deux
-- **Donnees residuelles** : meme apres desinstallation, beaucoup de plugins laissent des traces en base
-- **Faille de securite** : un plugin douteux peut ouvrir une porte aux hackers
+- **Donnees residuelles** : même après desinstallation, beaucoup de plugins laissent des traces en base
+- **Faille de sécurité** : un plugin douteux peut ouvrir une porte aux hackers
 - **Ecran blanc** : dans le pire des cas, ton site plante et tes visiteurs voient une page blanche
 
 La solution : tester dans un environnement jetable.
@@ -41,13 +41,13 @@ La solution : tester dans un environnement jetable.
 
 ### L'astuce URL magique
 
-Pour tester un plugin du repertoire WordPress.org sans meme aller sur TasteWP :
+Pour tester un plugin du repertoire WordPress.org sans même aller sur TasteWP :
 
 1. Prends l'URL du plugin sur WordPress.org :
    `https://wordpress.org/plugins/nom-du-plugin/`
 2. Remplace `wordpress` par `tastewp` :
    `https://tastewp.com/plugins/nom-du-plugin/`
-3. TasteWP cree un site avec le plugin deja installe et active
+3. TasteWP cree un site avec le plugin déjà installe et active
 
 Ca marche pour **tous les plugins** du repertoire officiel.
 
@@ -64,9 +64,9 @@ TasteWP propose desormais une offre premium a 4.98 USD/mois par site qui inclut 
 - Sites permanents (pas d'expiration)
 - 20 Go d'espace disque
 - Support prioritaire
-- Possibilite d'utiliser un domaine personnalise (a venir)
+- Possibilite d'utiliser un domaine personnalise (à venir)
 
-TasteWP supporte les versions de WordPress de 6.0 a 6.9.1 (derniere version). Tu peux choisir ta version au moment de la creation du site.
+TasteWP supporte les versions de WordPress de 6.0 a 6.9.1 (derniere version). Tu peux choisir ta version au moment de la création du site.
 
 ## Methode 2 : InstaWP (plus de fonctionnalites)
 
@@ -83,7 +83,7 @@ TasteWP supporte les versions de WordPress de 6.0 a 6.9.1 (derniere version). Tu
 - Partage par lien (utile pour montrer un plugin a un client)
 - Sandboxes gratuites pendant 48 heures
 
-InstaWP a evolue vers une plateforme d'hebergement WordPress complete. Leurs plans d'hebergement vont de 2 USD/mois (Sandbox) a 45 USD/mois (Elite), mais les sandboxes de test temporaires restent gratuites. Ils proposent aussi un programme agence.
+InstaWP a evolue vers une plateforme d'hebergement WordPress complète. Leurs plans d'hebergement vont de 2 USD/mois (Sandbox) a 45 USD/mois (Elite), mais les sandboxes de test temporaires restent gratuites. Ils proposent aussi un programme agence.
 
 ## Methode 3 : WordPress Playground (officiel)
 
@@ -94,7 +94,7 @@ WordPress propose maintenant son propre outil de test directement dans le naviga
 3. Installe et teste ce que tu veux
 4. Rien n'est envoye sur un serveur, tout reste local
 
-**Avantage** : c'est officiel, gratuit, et ca tourne meme hors ligne une fois charge. Tu peux tester differentes versions de WordPress et de PHP. Le Playground peut meme etre embarque dans d'autres sites web.
+**Avantage** : c'est officiel, gratuit, et ca tourne même hors ligne une fois charge. Tu peux tester differentes versions de WordPress et de PHP. Le Playground peut même être embarque dans d'autres sites web.
 **Inconvenient** : les performances dependent de ton ordinateur, et les donnees disparaissent quand tu fermes l'onglet. Les plugins qui necessitent des fonctionnalites serveur specifiques (cron jobs, envoi d'emails) ne fonctionneront pas completement.
 
 ## Methode 4 : Environnement local (pour les habitues)
@@ -110,7 +110,7 @@ Si tu testes souvent des plugins, installe un WordPress local sur ton ordinateur
 
 ### DevKinsta
 
-Alternative gratuite par Kinsta, meme principe que LocalWP.
+Alternative gratuite par Kinsta, même principe que LocalWP.
 
 **Avantages du local** :
 - Pas de limite de temps
@@ -125,7 +125,7 @@ La plupart des hebergeurs modernes proposent un environnement de staging :
 - **Kinsta** : staging en 1 clic
 - **WP Engine** : staging integre
 - **o2switch** : staging via Softaculous
-- **OVH** : pas de staging natif, mais tu peux creer un sous-domaine dedie
+- **OVH** : pas de staging natif, mais tu peux creer un sous-domaine dédié
 
 Le staging est une copie exacte de ton site de production. Tu testes, tu valides, puis tu pousses les changements en production.
 
@@ -143,9 +143,9 @@ Le staging est une copie exacte de ton site de production. Tu testes, tu valides
 
 Quand tu testes un plugin dans ton environnement jetable, verifie :
 
-1. **L'interface** : est-elle intuitive ? Bien traduite en francais ?
+1. **L'interface** : est-elle intuitive ? Bien traduite en français ?
 2. **Les fonctionnalites** : fait-il vraiment ce que tu attends ?
-3. **La vitesse** : ouvre les DevTools du navigateur (F12 > Onglet Reseau) et regarde si le plugin ajoute beaucoup de requetes
+3. **La vitesse** : ouvre les DevTools du navigateur (F12 > Onglet Réseau) et regarde si le plugin ajoute beaucoup de requetes
 4. **Les conflits** : installe tes plugins habituels a cote et verifie que tout cohabite
 5. **Le support** : regarde le forum du plugin, les developpeurs repondent-ils rapidement ?
 6. **Les mises a jour** : quand date la derniere version ? Un plugin abandonne est un plugin dangereux.
@@ -161,7 +161,7 @@ Quand tu testes un plugin dans ton environnement jetable, verifie :
 
 - **TasteWP** : WordPress jetable en 10 secondes, gratuit sans inscription. Premium a 4.98 USD/mois/site pour des sites permanents. Site : [tastewp.com](https://tastewp.com). Supporte WordPress 6.0 a 6.9.1.
 - **InstaWP** : sandboxes WordPress gratuites pendant 48h. Hebergement complet a partir de 2 USD/mois. Site : [instawp.com](https://instawp.com).
-- **WordPress Playground** : WordPress officiel dans le navigateur via WebAssembly, gratuit et open source. Site : [playground.wordpress.net](https://playground.wordpress.net). Fonctionne meme hors ligne.
+- **WordPress Playground** : WordPress officiel dans le navigateur via WebAssembly, gratuit et open source. Site : [playground.wordpress.net](https://playground.wordpress.net). Fonctionne même hors ligne.
 - **LocalWP** : WordPress local sur ton ordinateur, gratuit. Plus d'un million de telechargements. Disponible sur Mac (Intel et Apple Silicon), Windows et Linux. Fonctionnalites : Live Links (partage avec clients), Cloud Backups, hot-swap PHP, WP-CLI integre, SSL automatique. Site : [localwp.com](https://localwp.com).
 - **DevKinsta** : environnement WordPress local par Kinsta, gratuit. Site : [kinsta.com/devkinsta](https://kinsta.com/devkinsta/).
 - **Query Monitor** : analyse de performance des plugins, gratuit et open source. Plus d'un million d'installations actives.

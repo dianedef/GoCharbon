@@ -21,7 +21,7 @@ Zapier et DropBox sont passés par là ainsi qu’Outgrow, Paperform…
 C’est que comme dans tous les domaines de l’entrepreneuriat, investir dans des SaaS early stage n’offre pas de garantie de retour sur investissement : Soit ça marche très bien, soit ça flop, ou ça évolue de manière neutre.
 
 
-saas [https://youtu.be/fuqvwFwpbOM?t=76](https://youtu.be/fuqvwFwpbOM?t=76)
+saas [https://youtu.be/fuqvwFwpbOM?t=76](__MASK_0__)
 
 [birdeye.com](http://birdeye.com)
 
@@ -33,7 +33,7 @@ Attention ! Il s’agit d’un lifetime deal, vous profitez d’un prix très r�
 
 ### Groupes Facebook
 
-[https://www.facebook.com/groups/ltdplace/posts/1231373700703139/](https://www.facebook.com/groups/ltdplace/posts/1231373700703139/)
+[https://www.facebook.com/groups/ltdplace/posts/1231373700703139/](__MASK_4__)
 
 [Use Your LTDs Broz & Sisz- Appsumo/Saasmantra/Pitchground/Dealify | Facebook](https://www.facebook.com/groups/482617016395541/?multi_permalinks=881844083139497&hoisted_section_header_type=recently_seen)
 

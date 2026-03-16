@@ -27,6 +27,6 @@ Bien sûr, ils ont travaillé dur, et beaucoup d’entre eux ont du talent mais 
 
 En plus d eça c**ertains ont utilisé des techniques dont ils ne sont pas toujours fiers et**
 
-Les techniques **que je vais vous dévoiler maintenant** peuvent vous permettre de vous faire connaitre extrêmement rapidement, de faire enfin grimper votre nombre d’abonnés, votre liste email ou votre clientèle. Elles ne sont pas basées sur de la triche, mais en parti oui soyons honnêtes, on fait des paris sur des leviers psychologiques, on peut appeler ça etre malin, astucieux…
+Les techniques **que je vais vous dévoiler maintenant** peuvent vous permettre de vous faire connaitre extrêmement rapidement, de faire enfin grimper votre nombre d’abonnés, votre liste email ou votre clientèle. Elles ne sont pas basées sur de la triche, mais en parti oui soyons honnêtes, on fait des paris sur des leviers psychologiques, on peut appeler ça être malin, astucieux…
 
 Vous êtes libres de les utiliser ou pas.

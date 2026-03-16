@@ -19,23 +19,23 @@ imgUrl: ../../assets/astro.jpeg
 
 [Le point sur la détection de contenus générés par IA | Readwise](https://read.readwise.io/search/read/01gqctmskw8y36kvrce7kw9zxe)
 
-[https://youtu.be/HVSPpURKeEg](https://youtu.be/HVSPpURKeEg)
+[https://youtu.be/HVSPpURKeEg](__MASK_3__)
 
-[https://youtu.be/2jFRIBwPKI8](https://youtu.be/2jFRIBwPKI8)
+[https://youtu.be/2jFRIBwPKI8](__MASK_4__)
 
-[https://youtu.be/G08hY8dSrUY](https://youtu.be/G08hY8dSrUY)
+[https://youtu.be/G08hY8dSrUY](__MASK_5__)
 
 [(11) Cette IA bannie et détestée peut déclencher une guerre… - YouTube](https://www.youtube.com/watch?v=WV8JfOx4ITw)
 
-[https://youtu.be/ygE-JUTTiVo](https://youtu.be/ygE-JUTTiVo)
+[https://youtu.be/ygE-JUTTiVo](__MASK_7__)
 
-[https://youtu.be/03iSjMQ3a1U](https://youtu.be/03iSjMQ3a1U)
+[https://youtu.be/03iSjMQ3a1U](__MASK_8__)
 
 [Détection de contenus IA : explication + liste des meilleurs outils](https://www.webrankinfo.com/dossiers/redaction/detection-contenus-ia)
 
 [GPT Radar | AI text detector app](https://gptradar.com/)
 
-[https://youtu.be/j5aP2TOoZOs?t=766](https://youtu.be/j5aP2TOoZOs?t=766)
+[https://youtu.be/j5aP2TOoZOs?t=766](__MASK_11__)
 
 Semrush l’ont intégré, Microsoft Docs soon aussi
 
@@ -49,7 +49,7 @@ Il résoud un gros pain point car la barrière d’entrée pour la création de 
 
 L’économie du contenu
 
-Mais la qualité du contenu sur le web est questionable : [https://youtu.be/iJIs2zebBEc?t=801](https://youtu.be/iJIs2zebBEc?t=801) transcrire la fin
+Mais la qualité du contenu sur le web est questionable : [https://youtu.be/iJIs2zebBEc?t=801](__MASK_12__) transcrire la fin
 
 Ils savent que ça ne va pas disparaître de toute façon donc il sont forcé de composé avec et ils ont autorisé
 
@@ -67,7 +67,7 @@ Les tâches ,structurantes : Résumer un paragraphe, les choses vues et revues l
 
 Faire du long form content avec est très risqué. TU dois te baser sur un super contenu etfaire & super relecture et progresser bit par bit en mode FAQ, sinon cmort
 
-[https://youtu.be/ftsuFX8LKoM?t=916](https://youtu.be/ftsuFX8LKoM?t=916)
+[https://youtu.be/ftsuFX8LKoM?t=916](__MASK_13__)
 
 [Comment vérifier qu'un texte a été généré par le chat GPT ou un générateur de texte d'IA ? - YouTube](https://www.youtube.com/watch?v=pelMSMl16KI)
 
@@ -75,24 +75,24 @@ Faire du long form content avec est très risqué. TU dois te baser sur un super
 
 [Qualifier un Spin ? - QualiSpin](http://qualispin.fr/qualifier-master-spin)
 
-- I'm using OriginalityAI -- created a Twitter thread explaining how it and AI detectors work and included some tests to this tool: [](https://twitter.com/LouieLuc/status/1597646834674982912?fbclid=IwAR1P8hc1LWDo0Llwt-UafrE_kRHdCmvFlfgCPB053EDxY1YH5Sz4NUhD6Fw)[https://twitter.com/LouieLuc/status/1597646834674982912](https://twitter.com/LouieLuc/status/1597646834674982912)
+- I'm using OriginalityAI -- created a Twitter thread explaining how it and AI detectors work and included some tests to this tool: [](https://twitter.com/LouieLuc/status/1597646834674982912?fbclid=IwAR1P8hc1LWDo0Llwt-UafrE_kRHdCmvFlfgCPB053EDxY1YH5Sz4NUhD6Fw)[https://twitter.com/LouieLuc/status/1597646834674982912](__MASK_18__)
     
     - **Like**
     - **Reply**
     - [44m]([https://www.facebook.com/groups/frase.io/posts/940123423641926/?comment_id=940596450261290&__cft__[0]=AZUNU2ucz-8yAnK_jZRQXvNgIlyT3GC9qbEGjB4jvfiSFMo_aSw6JdVeca7CF7yKDCEDVHDgNmhGW2Op56Y7sb1NoXCYLg0gl21xynTNqfQF68Su40olZhM4xH-_lJ3CsyAZpALYCyDkav6hchG5Cby_zRCgbmBPHuFQWcXc_7UV8BXYJQYMrlO5sXd2Q0Ne24I&__tn__=R](https://www.facebook.com/groups/frase.io/posts/940123423641926/?comment_id=940596450261290&__cft__%5B0%5D=AZUNU2ucz-8yAnK_jZRQXvNgIlyT3GC9qbEGjB4jvfiSFMo_aSw6JdVeca7CF7yKDCEDVHDgNmhGW2Op56Y7sb1NoXCYLg0gl21xynTNqfQF68Su40olZhM4xH-_lJ3CsyAZpALYCyDkav6hchG5Cby_zRCgbmBPHuFQWcXc_7UV8BXYJQYMrlO5sXd2Q0Ne24I&__tn__=R)]-R)
 - [**John Smith**]([https://www.facebook.com/groups/370711310583143/user/100007524962269/?__cft__[0]=AZUNU2ucz-8yAnK_jZRQXvNgIlyT3GC9qbEGjB4jvfiSFMo_aSw6JdVeca7CF7yKDCEDVHDgNmhGW2Op56Y7sb1NoXCYLg0gl21xynTNqfQF68Su40olZhM4xH-_lJ3CsyAZpALYCyDkav6hchG5Cby_zRCgbmBPHuFQWcXc_7UV8BXYJQYMrlO5sXd2Q0Ne24I&__tn__=R](https://www.facebook.com/groups/370711310583143/user/100007524962269/?__cft__%5B0%5D=AZUNU2ucz-8yAnK_jZRQXvNgIlyT3GC9qbEGjB4jvfiSFMo_aSw6JdVeca7CF7yKDCEDVHDgNmhGW2Op56Y7sb1NoXCYLg0gl21xynTNqfQF68Su40olZhM4xH-_lJ3CsyAZpALYCyDkav6hchG5Cby_zRCgbmBPHuFQWcXc_7UV8BXYJQYMrlO5sXd2Q0Ne24I&__tn__=R)]-R)
     
-    [](https://kazanseo.com/?fbclid=IwAR0KwdHpkTt5auZKq0h360_y5MgZpOVhFUnuh2N-ErZRwpR30i-nZs-vhoI)[https://kazanseo.com/](https://kazanseo.com/)
+    [](https://kazanseo.com/?fbclid=IwAR0KwdHpkTt5auZKq0h360_y5MgZpOVhFUnuh2N-ErZRwpR30i-nZs-vhoI)[https://kazanseo.com/](__MASK_22__)
     
-    [](https://originality.ai/?fbclid=IwAR3jOu0uPDf1X5NjttPJXA2dJUp-gHA5F8FFkx_1wXIDrD7AxfeJ_9S5r5w)[https://originality.ai/](https://originality.ai/)
+    [](https://originality.ai/?fbclid=IwAR3jOu0uPDf1X5NjttPJXA2dJUp-gHA5F8FFkx_1wXIDrD7AxfeJ_9S5r5w)[https://originality.ai/](__MASK_24__)
     
-    [[http://gltr.io/dist/index.html](http://gltr.io/dist/index.html)]([https://l.facebook.com/l.php?u=http%3A%2F%2Fgltr.io%2Fdist%2Findex.html%3Ffbclid%3DIwAR0RHVu7jSs4SWtCKC_9U9CQmyeoUZOSEwrlV0VHfnNT62U1eSQgmfQ7SjY&h=AT1Ry5y8vVdKlYO2cv7Meu7KsfbDOmmvHJme4Uv52ZJFa3iIy6aDYUOiAgLB6w0gi9tuyqMcC93o7mPhFa14aMevS7wulsaN__hyS7AgNl1PA1CdwOBBmuuX7-hSH15p7jSk&__tn__=R](https://l.facebook.com/l.php?u=http%3A%2F%2Fgltr.io%2Fdist%2Findex.html%3Ffbclid%3DIwAR0RHVu7jSs4SWtCKC_9U9CQmyeoUZOSEwrlV0VHfnNT62U1eSQgmfQ7SjY&h=AT1Ry5y8vVdKlYO2cv7Meu7KsfbDOmmvHJme4Uv52ZJFa3iIy6aDYUOiAgLB6w0gi9tuyqMcC93o7mPhFa14aMevS7wulsaN__hyS7AgNl1PA1CdwOBBmuuX7-hSH15p7jSk&__tn__=R)]-R&c[0]=AT2KSEOpNqXvxZtyXuCD8To8tVYZCM7XHSyyXJBZLzNC7mAUB0PstQzNZstAslhb6Td1ACD7MW-R_pZ36M8RjC6ePwsTlTGC1FFigLvxMs0Hp41bqKr2Tb43LRBCuusw6RTgUOWZ8aNalilOGpNbZL6KEdSKcMOXEiO662l2jQq0ZqQgL7WJ8tUqTSfKULyNtO_ymQLQtpvcHtg)
+    [[http://gltr.io/dist/index.html](__MASK_25__)]([https://l.facebook.com/l.php?u=http%3A%2F%2Fgltr.io%2Fdist%2Findex.html%3Ffbclid%3DIwAR0RHVu7jSs4SWtCKC_9U9CQmyeoUZOSEwrlV0VHfnNT62U1eSQgmfQ7SjY&h=AT1Ry5y8vVdKlYO2cv7Meu7KsfbDOmmvHJme4Uv52ZJFa3iIy6aDYUOiAgLB6w0gi9tuyqMcC93o7mPhFa14aMevS7wulsaN__hyS7AgNl1PA1CdwOBBmuuX7-hSH15p7jSk&__tn__=R](__MASK_26__)]-R&c[0]=AT2KSEOpNqXvxZtyXuCD8To8tVYZCM7XHSyyXJBZLzNC7mAUB0PstQzNZstAslhb6Td1ACD7MW-R_pZ36M8RjC6ePwsTlTGC1FFigLvxMs0Hp41bqKr2Tb43LRBCuusw6RTgUOWZ8aNalilOGpNbZL6KEdSKcMOXEiO662l2jQq0ZqQgL7WJ8tUqTSfKULyNtO_ymQLQtpvcHtg)
     
-    [](https://writer.com/ai-content-detector/?fbclid=IwAR1ABVbaQBdsd3q5VD6nHgM7fDOUHzo8co71b4RpAHr-C_Z8IUh8GjeQAiY)[https://writer.com/ai-content-detector/](https://writer.com/ai-content-detector/)
+    [](https://writer.com/ai-content-detector/?fbclid=IwAR1ABVbaQBdsd3q5VD6nHgM7fDOUHzo8co71b4RpAHr-C_Z8IUh8GjeQAiY)[https://writer.com/ai-content-detector/](__MASK_28__)
     
-    [[https://huggingface.co/openai-detector](https://huggingface.co/openai-detector)]([https://l.facebook.com/l.php?u=https%3A%2F%2Fhuggingface.co%2Fopenai-detector%3Ffbclid%3DIwAR2K4y2rF7wwJHbHlDTl-29CZiJ4njVIZGqUxajvpQ1wbZFrDQoEak1xflA&h=AT2haE0Kr3Re1u1-FQZquZ6Rzq0etLn-YxjlEZx6HPQLHtpr-qYwGFDpPBScmmGJ0chEjtcosFlzLa7btuFUZVdxwHFraCHiRTE7bUl6w4AjQ53VRlhX1-TI9sRF7Z62InPU&__tn__=R](https://l.facebook.com/l.php?u=https%3A%2F%2Fhuggingface.co%2Fopenai-detector%3Ffbclid%3DIwAR2K4y2rF7wwJHbHlDTl-29CZiJ4njVIZGqUxajvpQ1wbZFrDQoEak1xflA&h=AT2haE0Kr3Re1u1-FQZquZ6Rzq0etLn-YxjlEZx6HPQLHtpr-qYwGFDpPBScmmGJ0chEjtcosFlzLa7btuFUZVdxwHFraCHiRTE7bUl6w4AjQ53VRlhX1-TI9sRF7Z62InPU&__tn__=R)]-R&c[0]=AT2KSEOpNqXvxZtyXuCD8To8tVYZCM7XHSyyXJBZLzNC7mAUB0PstQzNZstAslhb6Td1ACD7MW-R_pZ36M8RjC6ePwsTlTGC1FFigLvxMs0Hp41bqKr2Tb43LRBCuusw6RTgUOWZ8aNalilOGpNbZL6KEdSKcMOXEiO662l2jQq0ZqQgL7WJ8tUqTSfKULyNtO_ymQLQtpvcHtg)
+    [[https://huggingface.co/openai-detector](__MASK_29__)]([https://l.facebook.com/l.php?u=https%3A%2F%2Fhuggingface.co%2Fopenai-detector%3Ffbclid%3DIwAR2K4y2rF7wwJHbHlDTl-29CZiJ4njVIZGqUxajvpQ1wbZFrDQoEak1xflA&h=AT2haE0Kr3Re1u1-FQZquZ6Rzq0etLn-YxjlEZx6HPQLHtpr-qYwGFDpPBScmmGJ0chEjtcosFlzLa7btuFUZVdxwHFraCHiRTE7bUl6w4AjQ53VRlhX1-TI9sRF7Z62InPU&__tn__=R](__MASK_30__)]-R&c[0]=AT2KSEOpNqXvxZtyXuCD8To8tVYZCM7XHSyyXJBZLzNC7mAUB0PstQzNZstAslhb6Td1ACD7MW-R_pZ36M8RjC6ePwsTlTGC1FFigLvxMs0Hp41bqKr2Tb43LRBCuusw6RTgUOWZ8aNalilOGpNbZL6KEdSKcMOXEiO662l2jQq0ZqQgL7WJ8tUqTSfKULyNtO_ymQLQtpvcHtg)
     
-    [[https://copyleaks.com/features/ai-content-detector](https://copyleaks.com/features/ai-content-detector)]([https://l.facebook.com/l.php?u=https%3A%2F%2Fcopyleaks.com%2Ffeatures%2Fai-content-detector%3Ffbclid%3DIwAR08vSeYvGuus8FogFDANyXNnSAAC0AVW_Rqx7Z6z1FD8dSm8f7r-hrvAPo&h=AT2hYB0wl3AI6U3Jd7Uydp7mAwivF6KvdderPnijTt3KOMCRQNFPlSjYd1iSO5GV23_0VN4Pi-g-zIUUvVRKb_TbnhICGC-_6bvV6zBcZS7yMK9FsttzINd7-p5vs0MSSrfC&__tn__=R](https://l.facebook.com/l.php?u=https%3A%2F%2Fcopyleaks.com%2Ffeatures%2Fai-content-detector%3Ffbclid%3DIwAR08vSeYvGuus8FogFDANyXNnSAAC0AVW_Rqx7Z6z1FD8dSm8f7r-hrvAPo&h=AT2hYB0wl3AI6U3Jd7Uydp7mAwivF6KvdderPnijTt3KOMCRQNFPlSjYd1iSO5GV23_0VN4Pi-g-zIUUvVRKb_TbnhICGC-_6bvV6zBcZS7yMK9FsttzINd7-p5vs0MSSrfC&__tn__=R)]-R&c[0]=AT2KSEOpNqXvxZtyXuCD8To8tVYZCM7XHSyyXJBZLzNC7mAUB0PstQzNZstAslhb6Td1ACD7MW-R_pZ36M8RjC6ePwsTlTGC1FFigLvxMs0Hp41bqKr2Tb43LRBCuusw6RTgUOWZ8aNalilOGpNbZL6KEdSKcMOXEiO662l2jQq0ZqQgL7WJ8tUqTSfKULyNtO_ymQLQtpvcHtg)
+    [[https://copyleaks.com/features/ai-content-detector](__MASK_31__)]([https://l.facebook.com/l.php?u=https%3A%2F%2Fcopyleaks.com%2Ffeatures%2Fai-content-detector%3Ffbclid%3DIwAR08vSeYvGuus8FogFDANyXNnSAAC0AVW_Rqx7Z6z1FD8dSm8f7r-hrvAPo&h=AT2hYB0wl3AI6U3Jd7Uydp7mAwivF6KvdderPnijTt3KOMCRQNFPlSjYd1iSO5GV23_0VN4Pi-g-zIUUvVRKb_TbnhICGC-_6bvV6zBcZS7yMK9FsttzINd7-p5vs0MSSrfC&__tn__=R](__MASK_32__)]-R&c[0]=AT2KSEOpNqXvxZtyXuCD8To8tVYZCM7XHSyyXJBZLzNC7mAUB0PstQzNZstAslhb6Td1ACD7MW-R_pZ36M8RjC6ePwsTlTGC1FFigLvxMs0Hp41bqKr2Tb43LRBCuusw6RTgUOWZ8aNalilOGpNbZL6KEdSKcMOXEiO662l2jQq0ZqQgL7WJ8tUqTSfKULyNtO_ymQLQtpvcHtg)
     
 
 [1h](https://www.facebook.com/groups/frase.io/?multi_permalinks=940123423641926%2C940021303652138%2C939958813658387&notif_id=1673373697136017&notif_t=group_activity&ref=notif#)  ·
@@ -103,15 +103,15 @@ Best sources to check AI content against to see if it reads as human vs AI? Any 
     
     I am using the following below, they are free to use.
     
-    [](https://crossplag.com/ai-content-detector/?fbclid=IwAR3IndK-nc21QC4Wbh6chrEcL8akzsOfAD1MJ-874ntPOnxgDf-w45FoL5E)[https://crossplag.com/ai-content-detector/](https://crossplag.com/ai-content-detector/)
+    [](https://crossplag.com/ai-content-detector/?fbclid=IwAR3IndK-nc21QC4Wbh6chrEcL8akzsOfAD1MJ-874ntPOnxgDf-w45FoL5E)[https://crossplag.com/ai-content-detector/](__MASK_36__)
     
-    [](https://chrome.google.com/webstore/detail/ai-content-detector-copyl/gplcmncpklkdjiccbknjjkoidpgkcakd?fbclid=IwAR3yAd3MXJSTTYYE7Ypu9qEFioHh1Ogt3YaYEbdR0BmbmJU2dL24yKQwh54)[https://chrome.google.com/.../gplcmncpklkdjiccbknjjkoidpg](https://chrome.google.com/.../gplcmncpklkdjiccbknjjkoidpg)...
+    [](https://chrome.google.com/webstore/detail/ai-content-detector-copyl/gplcmncpklkdjiccbknjjkoidpgkcakd?fbclid=IwAR3yAd3MXJSTTYYE7Ypu9qEFioHh1Ogt3YaYEbdR0BmbmJU2dL24yKQwh54)[https://chrome.google.com/.../gplcmncpklkdjiccbknjjkoidpg](__MASK_38__)...
     
-    [[https://writer.com/ai-content-detector/](https://writer.com/ai-content-detector/)]([https://l.facebook.com/l.php?u=https%3A%2F%2Fwriter.com%2Fai-content-detector%2F%3Ffbclid%3DIwAR2YrEe2n0J-t1x3YhXB0cJGy5CxzqrPgdfS8UtIUS--gtMqRqx3hcL6vcM&h=AT0zSFRl_1gTOfpmp9Q27wp7PYUrPPicP9q9LNK1NO6WMP_agtuZNzdW9Ao1GHFsruiN5yXz7uPL_hLJJGxvFfOvus2d_vgtKVKNK2KY7FO-tEKnlSTEeziMB8ThFwhHtKBl&__tn__=R](https://l.facebook.com/l.php?u=https%3A%2F%2Fwriter.com%2Fai-content-detector%2F%3Ffbclid%3DIwAR2YrEe2n0J-t1x3YhXB0cJGy5CxzqrPgdfS8UtIUS--gtMqRqx3hcL6vcM&h=AT0zSFRl_1gTOfpmp9Q27wp7PYUrPPicP9q9LNK1NO6WMP_agtuZNzdW9Ao1GHFsruiN5yXz7uPL_hLJJGxvFfOvus2d_vgtKVKNK2KY7FO-tEKnlSTEeziMB8ThFwhHtKBl&__tn__=R)]-R&c[0]=AT3v9GUEm6C1SNlNOZqjkEgjIxW5vADo9pF2sElhnCtD-rsw7ms4ICvhPk89XShxrb9itQEWI76yUd3rKu8uIPDmaJKJkP6SGa4CUXGOfSOtvkylYNfZ0rM1QSo6BPRrRhBiCzxgMnH-LD8raqEVNs9UHkPApZJExPO1M1cQlx6jF4xIDV0ypOxa-nexYnI47rW2e5WxnUMGcwA)
+    [[https://writer.com/ai-content-detector/](__MASK_39__)]([https://l.facebook.com/l.php?u=https%3A%2F%2Fwriter.com%2Fai-content-detector%2F%3Ffbclid%3DIwAR2YrEe2n0J-t1x3YhXB0cJGy5CxzqrPgdfS8UtIUS--gtMqRqx3hcL6vcM&h=AT0zSFRl_1gTOfpmp9Q27wp7PYUrPPicP9q9LNK1NO6WMP_agtuZNzdW9Ao1GHFsruiN5yXz7uPL_hLJJGxvFfOvus2d_vgtKVKNK2KY7FO-tEKnlSTEeziMB8ThFwhHtKBl&__tn__=R](__MASK_40__)]-R&c[0]=AT3v9GUEm6C1SNlNOZqjkEgjIxW5vADo9pF2sElhnCtD-rsw7ms4ICvhPk89XShxrb9itQEWI76yUd3rKu8uIPDmaJKJkP6SGa4CUXGOfSOtvkylYNfZ0rM1QSo6BPRrRhBiCzxgMnH-LD8raqEVNs9UHkPApZJExPO1M1cQlx6jF4xIDV0ypOxa-nexYnI47rW2e5WxnUMGcwA)
     
-    [[https://free-ai-content-detector.net/](https://free-ai-content-detector.net/)]([https://l.facebook.com/l.php?u=https%3A%2F%2Ffree-ai-content-detector.net%2F%3Ffbclid%3DIwAR2HqBt6TkJ_s1iNSUWcmoteoLBewZcjRSbG-442Stg1YkJrp8ApMnwVkHQ&h=AT3rf1Wdy6pa9FyMmhvT5YaEXdssT8RzuzNEvWuQvKC3J4W7QMvua909s91Gfs8ky8NYNH7L5FdxVnEf5LEMrFzAbnhBq3ohIB8T1aGWwfc6pjUaySD6XC_sTxyhFppv9B66&__tn__=R](https://l.facebook.com/l.php?u=https%3A%2F%2Ffree-ai-content-detector.net%2F%3Ffbclid%3DIwAR2HqBt6TkJ_s1iNSUWcmoteoLBewZcjRSbG-442Stg1YkJrp8ApMnwVkHQ&h=AT3rf1Wdy6pa9FyMmhvT5YaEXdssT8RzuzNEvWuQvKC3J4W7QMvua909s91Gfs8ky8NYNH7L5FdxVnEf5LEMrFzAbnhBq3ohIB8T1aGWwfc6pjUaySD6XC_sTxyhFppv9B66&__tn__=R)]-R&c[0]=AT3v9GUEm6C1SNlNOZqjkEgjIxW5vADo9pF2sElhnCtD-rsw7ms4ICvhPk89XShxrb9itQEWI76yUd3rKu8uIPDmaJKJkP6SGa4CUXGOfSOtvkylYNfZ0rM1QSo6BPRrRhBiCzxgMnH-LD8raqEVNs9UHkPApZJExPO1M1cQlx6jF4xIDV0ypOxa-nexYnI47rW2e5WxnUMGcwA)
+    [[https://free-ai-content-detector.net/](__MASK_41__)]([https://l.facebook.com/l.php?u=https%3A%2F%2Ffree-ai-content-detector.net%2F%3Ffbclid%3DIwAR2HqBt6TkJ_s1iNSUWcmoteoLBewZcjRSbG-442Stg1YkJrp8ApMnwVkHQ&h=AT3rf1Wdy6pa9FyMmhvT5YaEXdssT8RzuzNEvWuQvKC3J4W7QMvua909s91Gfs8ky8NYNH7L5FdxVnEf5LEMrFzAbnhBq3ohIB8T1aGWwfc6pjUaySD6XC_sTxyhFppv9B66&__tn__=R](__MASK_42__)]-R&c[0]=AT3v9GUEm6C1SNlNOZqjkEgjIxW5vADo9pF2sElhnCtD-rsw7ms4ICvhPk89XShxrb9itQEWI76yUd3rKu8uIPDmaJKJkP6SGa4CUXGOfSOtvkylYNfZ0rM1QSo6BPRrRhBiCzxgMnH-LD8raqEVNs9UHkPApZJExPO1M1cQlx6jF4xIDV0ypOxa-nexYnI47rW2e5WxnUMGcwA)
     
-    [[https://contentatscale.ai/ai-content-detector/](https://contentatscale.ai/ai-content-detector/)]([https://l.facebook.com/l.php?u=https%3A%2F%2Fcontentatscale.ai%2Fai-content-detector%2F%3Ffbclid%3DIwAR1MqS1eGOEdjJYPE4qG-FizbmbSLUgI3yV0__NhKVFSmeMCIza5veqBIlU&h=AT1KlHz1xeHMufhJVhk2_Y3GLaSXixfrFLsEIZE-LCPOztCkaBjLHYHbsA0KuvvZzSU870AlkBAw9bdDi-nQJEpri2bGlUJ985Couok530_ZePW9obX0h3AfVCfAzMKDw81N&__tn__=R](https://l.facebook.com/l.php?u=https%3A%2F%2Fcontentatscale.ai%2Fai-content-detector%2F%3Ffbclid%3DIwAR1MqS1eGOEdjJYPE4qG-FizbmbSLUgI3yV0__NhKVFSmeMCIza5veqBIlU&h=AT1KlHz1xeHMufhJVhk2_Y3GLaSXixfrFLsEIZE-LCPOztCkaBjLHYHbsA0KuvvZzSU870AlkBAw9bdDi-nQJEpri2bGlUJ985Couok530_ZePW9obX0h3AfVCfAzMKDw81N&__tn__=R)]-R&c[0]=AT3v9GUEm6C1SNlNOZqjkEgjIxW5vADo9pF2sElhnCtD-rsw7ms4ICvhPk89XShxrb9itQEWI76yUd3rKu8uIPDmaJKJkP6SGa4CUXGOfSOtvkylYNfZ0rM1QSo6BPRrRhBiCzxgMnH-LD8raqEVNs9UHkPApZJExPO1M1cQlx6jF4xIDV0ypOxa-nexYnI47rW2e5WxnUMGcwA)
+    [[https://contentatscale.ai/ai-content-detector/](__MASK_43__)]([https://l.facebook.com/l.php?u=https%3A%2F%2Fcontentatscale.ai%2Fai-content-detector%2F%3Ffbclid%3DIwAR1MqS1eGOEdjJYPE4qG-FizbmbSLUgI3yV0__NhKVFSmeMCIza5veqBIlU&h=AT1KlHz1xeHMufhJVhk2_Y3GLaSXixfrFLsEIZE-LCPOztCkaBjLHYHbsA0KuvvZzSU870AlkBAw9bdDi-nQJEpri2bGlUJ985Couok530_ZePW9obX0h3AfVCfAzMKDw81N&__tn__=R](__MASK_44__)]-R&c[0]=AT3v9GUEm6C1SNlNOZqjkEgjIxW5vADo9pF2sElhnCtD-rsw7ms4ICvhPk89XShxrb9itQEWI76yUd3rKu8uIPDmaJKJkP6SGa4CUXGOfSOtvkylYNfZ0rM1QSo6BPRrRhBiCzxgMnH-LD8raqEVNs9UHkPApZJExPO1M1cQlx6jF4xIDV0ypOxa-nexYnI47rW2e5WxnUMGcwA)
     
 
 We knew it had to happen sooner or later: software that detects AI-generated content. Enter [originality.ai](http://originality.ai), the new tool that claims to detect AI content, even GPT-3. As far as AI content detention tools go, this one is supposed to be cutting-edge. Oh, the questions!
@@ -123,44 +123,44 @@ We knew it had to happen sooner or later: software that detects AI-generated con
 
 I've been digging into this tool for the past few weeks for the purpose of answering all your burning questions with this [originality.ai](http://originality.ai) review.
 
-_Disclosure: I'm an affiliate for the tools I talk about in this video, and there are affiliate links in this description box, which means if you make a purchase after clicking on one, I may earn a commission._
+_Disclosure: I'm an affiliate for the tools I talk about in this vidéo, and there are affiliate links in this description box, which means if you make a purchase after clicking on one, I may earn a commission._
 
-VIDEO RESOURCES:
+VIDÉO RESOURCES:
 
 - [Originality.ai](http://Originality.ai) -
 
-[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk44VWN3bWRIajVKMkRRQVpidTB1UE5EREFzQXxBQ3Jtc0ttWmY3cFV6LTZRVElhNThxWVYwYUZXRDZtUUVKWnlEYTFpdFVEQnNmb2paNW9CS2Uyb0t5WTgzbkpPWWVCQWphT2s3ajQ1aUhSUWpuUTdqYnlaOHJLYUMtdFNmZEdjdWdFdmFQYldoSU02S2JaMjM4bw&q=https%3A%2F%2Fbit.ly%2Fcwworig&v=BMg6mlKkW6U)[https://bit.ly/cwworig](https://bit.ly/cwworig)
+[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk44VWN3bWRIajVKMkRRQVpidTB1UE5EREFzQXxBQ3Jtc0ttWmY3cFV6LTZRVElhNThxWVYwYUZXRDZtUUVKWnlEYTFpdFVEQnNmb2paNW9CS2Uyb0t5WTgzbkpPWWVCQWphT2s3ajQ1aUhSUWpuUTdqYnlaOHJLYUMtdFNmZEdjdWdFdmFQYldoSU02S2JaMjM4bw&q=https%3A%2F%2Fbit.ly%2Fcwworig&v=BMg6mlKkW6U)[https://bit.ly/cwworig](__MASK_49__)
 
 - Jasper AI (Get your first 10,000 words free!) -
 
-[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjFaTUt3dURPeEI0b0haZFpSN3NwY25BLThJQXxBQ3Jtc0trdUxBNUk3MXI5QzlJajFyQjNtQ3hxcWF5bVhjZ1Z5V1F5aW1OMGdCSnNqcDVScFZsdmNCaHZNWENsOC1OMXIxcDBJdFBWR2M1QmFtWXZ5QWlQWHRoQmxFTDFhR19BWXREb1NROWNCQ0FZRHVGUl93QQ&q=https%3A%2F%2Fwww.jasper.ai%2Ffree-trial%3Ffpr%3Dcorriewhowrites%26fp_sid%3Dytjasper&v=BMg6mlKkW6U)[https://www.jasper.ai/free-trial?fpr=](https://www.jasper.ai/free-trial?fpr=)...
+[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjFaTUt3dURPeEI0b0haZFpSN3NwY25BLThJQXxBQ3Jtc0trdUxBNUk3MXI5QzlJajFyQjNtQ3hxcWF5bVhjZ1Z5V1F5aW1OMGdCSnNqcDVScFZsdmNCaHZNWENsOC1OMXIxcDBJdFBWR2M1QmFtWXZ5QWlQWHRoQmxFTDFhR19BWXREb1NROWNCQ0FZRHVGUl93QQ&q=https%3A%2F%2Fwww.jasper.ai%2Ffree-trial%3Ffpr%3Dcorriewhowrites%26fp_sid%3Dytjasper&v=BMg6mlKkW6U)[https://www.jasper.ai/free-trial?fpr=](__MASK_51__)...
 
 - Google's Spam Policies -
 
-[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkwtQWxfeVNmUzNyOEV0WmpLVExYRUZkcjVUQXxBQ3Jtc0trYlZXeEJockxBb3V6VzhQVmRRdUhGOU9YcGhuSWhPaVp6LUxYcVhrSDNrWGVCaGdpMDFOMVp3eHp0UkMxZnFWMXFlM3F1MzN1S3FLaU5qcDN3MHVFcWpCM1VqSHBrUnZDMXJJeE5zaWtFQXppRlRQZw&q=https%3A%2F%2Fdevelopers.google.com%2Fsearch%2Fdocs%2Fessentials%2Fspam-policies&v=BMg6mlKkW6U)[https://developers.google.com/search/](https://developers.google.com/search/)...
+[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkwtQWxfeVNmUzNyOEV0WmpLVExYRUZkcjVUQXxBQ3Jtc0trYlZXeEJockxBb3V6VzhQVmRRdUhGOU9YcGhuSWhPaVp6LUxYcVhrSDNrWGVCaGdpMDFOMVp3eHp0UkMxZnFWMXFlM3F1MzN1S3FLaU5qcDN3MHVFcWpCM1VqSHBrUnZDMXJJeE5zaWtFQXppRlRQZw&q=https%3A%2F%2Fdevelopers.google.com%2Fsearch%2Fdocs%2Fessentials%2Fspam-policies&v=BMg6mlKkW6U)[https://developers.google.com/search/](__MASK_53__)...
 
 - Wired Article -
 
-[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa240T2FFTktYTk5LYmZ2eWxxLXh4WXg1WlVaZ3xBQ3Jtc0trQjJCeThoMDJJRHZKRjJybENPNHhMR1dodW5PdVFtbjhoUnVKeTZyYWJEbDQ0M1FNSE1QaVo5REc4YUh0RlZ1aU5zcTd6U0lsVE9GamRGOGpnZ1VHczQ5anRiOTdTTERpclBQaUwwTHprVEJ5WnVqUQ&q=https%3A%2F%2Fwww.wired.com%2Fstory%2Fai-generated-marketing-content%2F&v=BMg6mlKkW6U)[https://www.wired.com/story/ai-genera](https://www.wired.com/story/ai-genera)...
+[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa240T2FFTktYTk5LYmZ2eWxxLXh4WXg1WlVaZ3xBQ3Jtc0trQjJCeThoMDJJRHZKRjJybENPNHhMR1dodW5PdVFtbjhoUnVKeTZyYWJEbDQ0M1FNSE1QaVo5REc4YUh0RlZ1aU5zcTd6U0lsVE9GamRGOGpnZ1VHczQ5anRiOTdTTERpclBQaUwwTHprVEJ5WnVqUQ&q=https%3A%2F%2Fwww.wired.com%2Fstory%2Fai-generated-marketing-content%2F&v=BMg6mlKkW6U)[https://www.wired.com/story/ai-genera](__MASK_55__)...
 
 MORE GOOD STUFF:
 
 - Join CWW Exclusive Member Plus on Patreon to get monthly new Jasper recipes! [patreon.com/corriewhowrites](http://patreon.com/corriewhowrites)
 - Digital Store:
 
-[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFMtZllQRXV2YjRQMl9nd2xqZ2h6Q1UyNEhUZ3xBQ3Jtc0ttOGJSWHBWelFMdXJrN09lTXZvREI5WERuazQ5SU5zUUdCYURHTjFTQm5PM1JTc1hYdUN6MXVYelE1OWRHdkpPN1JlZVVFNGZTU1gybFJtQVRMTGJTZlp1RGlxOGJ6ZWUydF8td0Y2N2NfTGVHTGFtTQ&q=https%3A%2F%2Fpayhip.com%2FCorrieWhoWrites&v=BMg6mlKkW6U)[https://payhip.com/CorrieWhoWrites](https://payhip.com/CorrieWhoWrites)
+[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFMtZllQRXV2YjRQMl9nd2xqZ2h6Q1UyNEhUZ3xBQ3Jtc0ttOGJSWHBWelFMdXJrN09lTXZvREI5WERuazQ5SU5zUUdCYURHTjFTQm5PM1JTc1hYdUN6MXVYelE1OWRHdkpPN1JlZVVFNGZTU1gybFJtQVRMTGJTZlp1RGlxOGJ6ZWUydF8td0Y2N2NfTGVHTGFtTQ&q=https%3A%2F%2Fpayhip.com%2FCorrieWhoWrites&v=BMg6mlKkW6U)[https://payhip.com/CorrieWhoWrites](__MASK_58__)
 
 - Join my Facebook group:
 
-[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0Zjei0wZXowSnpLOUduR3pwc2xQbmlEVEtWQXxBQ3Jtc0treE9fQ0FwNXJhR216NW1LQU9rX2hTXzQtR0x0cG1nb21VUlN2ZmM2UERMV2ctajAzemRYaDJLZm1KbklTYTF4NFl1ajFBWGZvOXRLbmlrY2hhRkdIZ0xuZnFjSjdac09OWGVOeFhFQXdYUGR1WWhxOA&q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fwritefasterearnmorewithaiwriting&v=BMg6mlKkW6U)[https://www.facebook.com/groups/write](https://www.facebook.com/groups/write)...
+[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0Zjei0wZXowSnpLOUduR3pwc2xQbmlEVEtWQXxBQ3Jtc0treE9fQ0FwNXJhR216NW1LQU9rX2hTXzQtR0x0cG1nb21VUlN2ZmM2UERMV2ctajAzemRYaDJLZm1KbklTYTF4NFl1ajFBWGZvOXRLbmlrY2hhRkdIZ0xuZnFjSjdac09OWGVOeFhFQXdYUGR1WWhxOA&q=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fwritefasterearnmorewithaiwriting&v=BMg6mlKkW6U)[https://www.facebook.com/groups/write](__MASK_60__)...
 
 - Follow me on Medium:
 
-[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFRLNFBIbEg3YzgtWkI3Q280bUNCTmpIOGh3QXxBQ3Jtc0tsaDdjODI1MUtEMU1haGtNc09weTctdFd1bnJWOGtVVWpvbHBwb1BKS1Z1b0pIcFN2S096cTNvSVZGaDJPd1FRTDBiNkw2SEZDM082VEJjc1p6UXJud3VuVEJHQW01dkh0eXFqZnY3TXNhRThUNXZMaw&q=https%3A%2F%2Fmedium.com%2F%40corriewhowrites&v=BMg6mlKkW6U)[https://medium.com/@corriewhowrites](https://medium.com/@corriewhowrites)
+[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFRLNFBIbEg3YzgtWkI3Q280bUNCTmpIOGh3QXxBQ3Jtc0tsaDdjODI1MUtEMU1haGtNc09weTctdFd1bnJWOGtVVWpvbHBwb1BKS1Z1b0pIcFN2S096cTNvSVZGaDJPd1FRTDBiNkw2SEZDM082VEJjc1p6UXJud3VuVEJHQW01dkh0eXFqZnY3TXNhRThUNXZMaw&q=https%3A%2F%2Fmedium.com%2F%40corriewhowrites&v=BMg6mlKkW6U)[https://medium.com/@corriewhowrites](__MASK_62__)
 
 - Sign up to my email list:
 
-[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3hBNzJBSjlFYU12Sk5PbHBrb0JINl9Qd3ZtUXxBQ3Jtc0treXNpdVpKeEtuUktvZnZvbExtQXg4Y2dUWjB5TjdpZWl3WG5BWVo0OGZOSWN2Zkp0alBJRzFNeFpiTDlqcFRzd3NGU0FzWDBtUWU3aWY1UjNYRUFtYlo2OHBrZ3RRQ1JEdGZQUW0zeGZMbXZsUVlSOA&q=https%3A%2F%2Ffragrant-sunset-445.ck.page%2F265ef4eee5&v=BMg6mlKkW6U)[https://fragrant-sunset-445.ck.page/2](https://fragrant-sunset-445.ck.page/2)...
+[](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3hBNzJBSjlFYU12Sk5PbHBrb0JINl9Qd3ZtUXxBQ3Jtc0treXNpdVpKeEtuUktvZnZvbExtQXg4Y2dUWjB5TjdpZWl3WG5BWVo0OGZOSWN2Zkp0alBJRzFNeFpiTDlqcFRzd3NGU0FzWDBtUWU3aWY1UjNYRUFtYlo2OHBrZ3RRQ1JEdGZQUW0zeGZMbXZsUVlSOA&q=https%3A%2F%2Ffragrant-sunset-445.ck.page%2F265ef4eee5&v=BMg6mlKkW6U)[https://fragrant-sunset-445.ck.page/2](__MASK_64__)...
 
 TIMESTAMPS:
 

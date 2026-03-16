@@ -8,7 +8,7 @@ status: "active"
 updatedAt: "2026-03-01"
 ---
 ## Ton objectif
-Constituer un portefeuille photo/vidéo stock qui genere ventes récurrentes.
+Constituer un portefeuille photo/vidéo stock qui génère ventes récurrentes.
 
 ## En clair (version simple)
 - Pour qui : Photographes, créateurs visuels et videastes stock-first.

@@ -16,9 +16,9 @@ imgUrl: ../../assets/astro.jpeg
 
 [(2) Small Channels Might Want to AVOID THIS UPDATE! - YouTube](https://www.youtube.com/watch?v=KWhpC8rde5E)
 
-[(52) How to Remove Copyright Claims From Your YouTube Videos in 2022 - YouTube](https://www.youtube.com/watch?v=Cr_AwDuU7KU)
+[(52) How to Remove Copyright Claims From Your YouTube Vidéos in 2022 - YouTube](https://www.youtube.com/watch?v=Cr_AwDuU7KU)
 
-[https://www.mesdroitsmonavocat.fr/extraits-audiovisuels-courts-videos-musique-images/](https://www.mesdroitsmonavocat.fr/extraits-audiovisuels-courts-videos-musique-images/)
+[https://www.mesdroitsmonavocat.fr/extraits-audiovisuels-courts-videos-musique-images/](__MASK_2__)
 
 
 ## Puis-je incorporer des extraits de films dans un montage vidéo ?
@@ -78,7 +78,7 @@ En outre, conformément à la loi DAVDSI du 2 août 2006, l’exception de court
 
 - FAQ | Arcom (1)
     
-    [https://www.arcom.fr/faq#collapseQR104](https://www.arcom.fr/faq#collapseQR104)
+    [https://www.arcom.fr/faq#collapseQR104](__MASK_3__)
     
     La création de l’Arcom permet de constituer un régulateur intégré aux compétences élargies notamment sur la chaîne de la création, de la fixation des obligations jusqu’à la protection du droit d’auteur et la lutte contre le piratage. Cette nouvelle autorité est également davantage en prise avec les enjeux du numérique, la lutte contre la manipulation de l'information et les contenus haineux, et la régulation des plateformes de vidéo par abonnement avec les obligations qui leur incombent.
     
@@ -112,7 +112,7 @@ En outre, conformément à la loi DAVDSI du 2 août 2006, l’exception de court
 
 [Droit d'auteur YouTube : 4 astuces pour vous aider ! - YouTube](https://www.youtube.com/watch?v=vgSQEpSoZLg)
 
-[(64) MONETISATION YOUTUBE // Changement MAJEUR des règles en 2023 ⚠ - YouTube](https://www.youtube.com/watch?v=L7JoexE8_Hg)
+[(64) MONÉTISATION YOUTUBE // Changement MAJEUR des règles en 2023 ⚠ - YouTube](https://www.youtube.com/watch?v=L7JoexE8_Hg)
 
 [Droit d'auteur YouTube : voici comment faire en 2023 ! - YouTube](https://www.youtube.com/watch?v=qfFtmnYfjRw)
 

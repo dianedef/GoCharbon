@@ -534,7 +534,7 @@ Je l’utilise pour l’instant pour les personas, et j’ai hâte d’élargir 
 
 Choisis ton plan :
 
-## systeme.io
+## système.io
 
 STARTER
 

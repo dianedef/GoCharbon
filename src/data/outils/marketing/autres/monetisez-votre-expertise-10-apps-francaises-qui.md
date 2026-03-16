@@ -13,5 +13,5 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 
-[The Circle of Competence: How to Excel in Your Domain - YouTube](https://www.youtube.com/watch?v=2duDZrS15PU&list=WL&index=117)
+[The Circle of Compétence: How to Excel in Your Domain - YouTube](https://www.youtube.com/watch?v=2duDZrS15PU&list=WL&index=117)
 [Aide entre particuliers - Mise en relation gratuite | WatchDo](https://www.watchdo.fr/)

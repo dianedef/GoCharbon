@@ -64,7 +64,7 @@ Source : [xkcd : Chat Systems](https://xkcd.com/1810)
 
 Keeping track of which networks are friends are on is a communication tax. It’s extra cognitive load on simple stuff, like remembering where my friend sent me the name of the restaurant, or thinking ‘Should I send the photo I took to her via Whatsapp, iMessage or Instagram?’
 
-My pet theory around why business is gets done so much faster in China: because there is only one channel for everything — WeChat. No confusion about how to get in contact with someone. One scrollback to WeChat makes it easy to introduce friends to each other. Voice and video calls just work. And because the default is chat, not email, everyone sends shorter messages, responds quickly and keeps their inbox at zero. I want that world! Minus the authoritarian overlords reading all your messages.
+My pet theory around why business is gets done so much faster in China: because there is only one channel for everything — WeChat. No confusion about how to get in contact with someone. One scrollback to WeChat makes it easy to introduce friends to each other. Voice and vidéo calls just work. And because the default is chat, not email, everyone sends shorter messages, responds quickly and keeps their inbox at zero. I want that world! Minus the authoritarian overlords reading all your messages.
 
 
 L'entreprise derrière Beeper a un objectif à long terme très clair :  [construire la meilleure application de chat sur terre](https://blog.beeper.com/p/were-building-the-best-chat-app-on) 😄👏

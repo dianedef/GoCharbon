@@ -14,15 +14,15 @@ imgUrl: ../../assets/astro.jpeg
 
 # Comment changer la structure des permaliens sur WordPress
 
-Les permaliens, c'est l'adresse URL de chaque page de ton site. Par defaut, WordPress genere des URLs moches du type `monsite.com/?p=123`. Pas top pour le SEO, pas top pour tes visiteurs. Voyons comment corriger ca proprement.
+Les permaliens, c'est l'adresse URL de chaque page de ton site. Par defaut, WordPress génère des URLs moches du type `monsite.com/?p=123`. Pas top pour le SEO, pas top pour tes visiteurs. Voyons comment corriger ca proprement.
 
 ## Pourquoi changer tes permaliens ?
 
-- **SEO** : Google prefere les URLs lisibles contenant des mots-cles (`/comment-creer-un-blog/` plutot que `/?p=42`)
-- **Experience utilisateur** : tes visiteurs comprennent ou ils sont rien qu'en lisant l'URL
-- **Partage** : une URL propre inspire confiance quand tu la partages sur les reseaux
+- **SEO** : Google prefere les URLs lisibles contenant des mots-clés (`/comment-creer-un-blog/` plutot que `/?p=42`)
+- **Expérience utilisateur** : tes visiteurs comprennent ou ils sont rien qu'en lisant l'URL
+- **Partage** : une URL propre inspire confiance quand tu la partages sur les réseaux
 
-## Etape 1 : Acceder aux reglages des permaliens
+## Étape 1 : Acceder aux reglages des permaliens
 
 1. Connecte-toi a ton tableau de bord WordPress
 2. Va dans **Reglages > Permaliens**
@@ -32,9 +32,9 @@ Les permaliens, c'est l'adresse URL de chaque page de ton site. Par defaut, Word
    - **Mois et titre** : `/2024/03/mon-article/`
    - **Numerique** : `/archives/123`
    - **Titre de la publication** : `/mon-article/` (recommande)
-   - **Structure personnalisee** : tu definis ta propre regle
+   - **Structure personnalisee** : tu definis ta propre règle
 
-## Etape 2 : Choisir la bonne structure
+## Étape 2 : Choisir la bonne structure
 
 La structure recommandee pour 90% des sites est **Titre de la publication** (`/%postname%/`). C'est :
 - Court et lisible
@@ -53,7 +53,7 @@ Pour une **structure personnalisee**, tu peux combiner ces variables :
 
 Exemple : `/%category%/%postname%/` donne `/marketing/mon-guide-seo/`.
 
-## Etape 3 : Sauvegarder et verifier le .htaccess
+## Étape 3 : Sauvegarder et verifier le .htaccess
 
 Clique sur **Enregistrer les modifications**. WordPress va automatiquement mettre a jour ton fichier `.htaccess` a la racine de ton site.
 
@@ -78,9 +78,9 @@ RewriteRule . /index.php [L]
 
 4. Sauvegarde et reteste
 
-## Etape 4 : Gerer les redirections (crucial)
+## Étape 4 : Gerer les redirections (crucial)
 
-Si ton site est deja en ligne et que tu changes de structure, toutes tes anciennes URLs vont renvoyer des erreurs 404. Il faut mettre en place des redirections 301.
+Si ton site est déjà en ligne et que tu changes de structure, toutes tes anciennes URLs vont renvoyer des erreurs 404. Il faut mettre en place des redirections 301.
 
 **Avec le plugin Redirection (gratuit) :**
 
@@ -96,9 +96,9 @@ Si ton site est deja en ligne et que tu changes de structure, toutes tes ancienn
 Redirect 301 /ancienne-url/ /nouvelle-url/
 ```
 
-## Etape 5 : Verifier que tout fonctionne
+## Étape 5 : Verifier que tout fonctionne
 
-Apres le changement :
+Après le changement :
 
 1. Teste 5 a 10 pages en tapant les anciennes URLs dans ton navigateur
 2. Verifie que les redirections fonctionnent
@@ -107,30 +107,30 @@ Apres le changement :
 
 ## Astuces
 
-- **Ne change jamais les permaliens sur un site qui a deja du trafic** sans mettre en place les redirections d'abord
+- **Ne change jamais les permaliens sur un site qui a déjà du trafic** sans mettre en place les redirections d'abord
 - **Evite les accents et caracteres speciaux** dans tes slugs : WordPress les gere mal parfois
 - **Garde tes URLs courtes** : `/guide-seo/` est mieux que `/le-guide-complet-et-definitif-du-seo-en-2024/`
 - Si tu utilises WooCommerce, verifie aussi les permaliens des produits dans **Reglages > Permaliens > Permaliens des produits**
-- Apres tout changement, va dans **Reglages > Permaliens** et clique sur Enregistrer (meme sans rien changer) pour forcer la regeneration des regles de reecriture
+- Après tout changement, va dans **Reglages > Permaliens** et clique sur Enregistrer (même sans rien changer) pour forcer la regeneration des règles de reecriture
 
 ## Ce qui a change dans WordPress 6.x
 
 Depuis WordPress 6.1+, la gestion des permaliens est restee stable dans son interface, mais quelques points meritent attention :
 
-- **Les themes blocs (FSE)** utilisent le meme systeme de permaliens que les themes classiques. Pas de changement a prevoir si tu migres vers un theme bloc comme Twenty Twenty-Five.
+- **Les themes blocs (FSE)** utilisent le même système de permaliens que les themes classiques. Pas de changement a prevoir si tu migres vers un theme bloc comme Twenty Twenty-Five.
 - **La structure `/%postname%/`** reste la recommandation officielle de WordPress.org et de Google pour le SEO en 2025-2026.
-- **Nginx** : si ton hebergeur utilise Nginx au lieu d'Apache, le fichier `.htaccess` n'est pas utilise. Les regles de reecriture sont gerees dans la configuration Nginx du serveur. WordPress le detecte et n'essaie pas d'ecrire dans `.htaccess` dans ce cas.
+- **Nginx** : si ton hebergeur utilise Nginx au lieu d'Apache, le fichier `.htaccess` n'est pas utilise. Les règles de reecriture sont gerees dans la configuration Nginx du serveur. WordPress le détecte et n'essaie pas d'ecrire dans `.htaccess` dans ce cas.
 - **Variables disponibles** : en plus des variables classiques, WordPress supporte aussi `%post_id%` pour l'identifiant unique du post.
 
 ## Attention aux cas speciaux
 
 - **WooCommerce** : les permaliens produits se configurent separement dans **Reglages > Permaliens > Permaliens des produits**. Les options incluent un prefixe `/boutique/`, la base de la categorie, ou directement le slug du produit.
 - **Sites multilingues** (WPML, Polylang) : chaque langue peut avoir sa propre structure de slug. Verifie que les redirections couvrent toutes les langues.
-- **Multisites** : sur un reseau WordPress multisite, chaque sous-site a ses propres reglages de permaliens.
+- **Multisites** : sur un réseau WordPress multisite, chaque sous-site a ses propres reglages de permaliens.
 
 ## Outils mentionnes
 
-- **Redirection** (plugin WordPress gratuit) : gestion des redirections 301. Plus de 2 millions d'installations actives, version actuelle 5.5.2 (avril 2025). Compatible PHP 7.0 a 8.3. Supporte les redirections conditionnelles (selon le statut de connexion, le navigateur, l'IP), les expressions regulieres, et l'import/export de regles. Documentation complete sur [redirection.me](https://redirection.me).
+- **Redirection** (plugin WordPress gratuit) : gestion des redirections 301. Plus de 2 millions d'installations actives, version actuelle 5.5.2 (avril 2025). Compatible PHP 7.0 a 8.3. Supporte les redirections conditionnelles (selon le statut de connexion, le navigateur, l'IP), les expressions regulieres, et l'import/export de règles. Documentation complète sur [redirection.me](https://redirection.me).
 - **Screaming Frog** : crawler SEO pour detecter les liens casses (version gratuite limitee a 500 URLs, licence a 259 GBP/an)
 - **Broken Link Checker** : plugin WP pour surveiller les liens internes
 - **FileZilla** / **Cyberduck** : clients FTP pour editer le .htaccess

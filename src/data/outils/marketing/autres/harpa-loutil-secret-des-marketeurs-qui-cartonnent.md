@@ -35,7 +35,7 @@ HARPA stores commands in human-readable .YAML files, in a format called ChatML.
 
 
 ## 
-**New command steps**: `CALC`: Set or modify parameter values. `WAIT`: Control timing of individual steps in your commands. `GROUP`: Group steps together to simplify creation of the complex commands. `JUMP`: Assign labels to steps and control command workflow. `LOOP`: Execute steps iteratively over a given {{list}}. 
+**New command steps**: `CALC`: Set or modify parameter values. `WAIT`: Control timing of individual steps in your commands. `GROUP`: Group steps together to simplify création of the complex commands. `JUMP`: Assign labels to steps and control command workflow. `LOOP`: Execute steps iteratively over a given {{list}}. 
 
 ## Flags
 Connection flags like -4 for GPT-4 or -C for Claude allow for quick switching between AI connections.

@@ -14,19 +14,19 @@ imgUrl: ../../assets/astro.jpeg
 
 # ECRIRE UN LIVRE AVEC L'IA : DU PLAN A LA PUBLICATION
 
-L'IA ne va pas ecrire ton livre a ta place -- mais elle va accelerer chaque etape du processus. Brainstorming, plan, premier brouillon, reecriture, mise en page : voici comment utiliser ChatGPT, Claude et les autres outils IA pour publier ton livre.
+L'IA ne va pas ecrire ton livre a ta place -- mais elle va accelerer chaque étape du processus. Brainstorming, plan, premier brouillon, reecriture, mise en page : voici comment utiliser ChatGPT, Claude et les autres outils IA pour publier ton livre.
 
-## Etape 1 : Definis ton sujet et ton angle
+## Étape 1 : Definis ton sujet et ton angle
 
 Avant de toucher a une IA, reponds a ces questions :
 - **Pour qui ecris-tu ?** (debutants, experts, grand public ?)
-- **Quel probleme resous-tu ?** (un livre utile se vend mieux qu'un livre vague)
+- **Quel problème resous-tu ?** (un livre utile se vend mieux qu'un livre vague)
 - **Quel format ?** (guide pratique, recueil, roman, workbook ?)
 - **Quelle longueur ?** (un ebook de 50 pages ou un livre de 200+ pages ?)
 
-L'IA est un outil, pas un substitut a ta reflexion. Plus ton brief de depart est precis, meilleur sera le resultat.
+L'IA est un outil, pas un substitut a ta reflexion. Plus ton brief de depart est précis, meilleur sera le resultat.
 
-## Etape 2 : Genere un plan detaille
+## Étape 2 : Génère un plan detaille
 
 ### Prompt pour creer le plan
 
@@ -44,11 +44,11 @@ Pour chaque chapitre, donne : le titre, les sous-sections, et les points cles a 
 
 - Demande a l'IA de developper les chapitres les plus faibles
 - Reordonne les chapitres pour creer une progression logique
-- Ajoute tes propres idees, anecdotes et experiences -- c'est ca qui differenciera ton livre des autres
+- Ajoute tes propres idées, anecdotes et experiences -- c'est ca qui differenciera ton livre des autres
 
 **Astuce** : utilise un outil de mind mapping (Miro, Whimsical) pour visualiser la structure avant d'ecrire.
 
-## Etape 3 : Ecris le premier brouillon
+## Étape 3 : Ecris le premier brouillon
 
 ### Chapitre par chapitre
 
@@ -63,25 +63,25 @@ Longueur visee : environ 2000 mots.
 Inclus des exemples concrets et des conseils actionables.
 ```
 
-### Les regles d'or
+### Les règles d'or
 
 1. **Donne du contexte a chaque prompt** -- l'IA ne se souvient pas de ce qu'elle a ecrit 10 prompts avant (sauf dans les conversations longues)
-2. **Injecte tes experiences personnelles** -- l'IA genere du contenu generique. Tes anecdotes, tes echecs, tes chiffres reels rendent le livre unique
+2. **Injecte tes experiences personnelles** -- l'IA génère du contenu générique. Tes anecdotes, tes echecs, tes chiffres reels rendent le livre unique
 3. **Utilise l'IA comme co-auteur, pas comme ghost writer** -- reecris les passages qui sonnent trop "IA" (formulations generiques, listes a puces repetitives)
 
 ### Quel outil pour quel usage
 
 | Outil | Force | Faiblesse | Prix approximatif |
 |-------|-------|-----------|-------------------|
-| **ChatGPT (GPT-4o)** | Creatif, bon pour le storytelling, fenetre de contexte large | Peut halluciner des faits | Gratuit (limite) / 20 USD/mois (Plus) |
-| **Claude (Opus/Sonnet)** | Textes longs et structures, excellent en francais, fenetre de contexte de 200k tokens | Moins "creatif" que GPT pour la fiction | Gratuit (limite) / 20 USD/mois (Pro) |
-| **Mistral (Le Chat)** | Gratuit, bon en francais, modeles francais | Fenetre de contexte plus petite sur les petits modeles | Gratuit / API payante |
+| **ChatGPT (GPT-4o)** | Creatif, bon pour le storytelling, fenêtre de contexte large | Peut halluciner des faits | Gratuit (limite) / 20 USD/mois (Plus) |
+| **Claude (Opus/Sonnet)** | Textes longs et structures, excellent en français, fenêtre de contexte de 200k tokens | Moins "creatif" que GPT pour la fiction | Gratuit (limite) / 20 USD/mois (Pro) |
+| **Mistral (Le Chat)** | Gratuit, bon en français, modeles français | Fenêtre de contexte plus petite sur les petits modeles | Gratuit / API payante |
 | **Perplexity** | Recherche factuelle avec sources citees | Pas fait pour la redaction longue | Gratuit / 20 USD/mois (Pro) |
-| **Gemini (Google)** | Fenetre de contexte de 1M tokens, ideal pour analyser un manuscrit entier | Qualite de redaction en francais variable | Gratuit / 20 USD/mois (Advanced) |
+| **Gemini (Google)** | Fenêtre de contexte de 1M tokens, ideal pour analyser un manuscrit entier | Qualité de redaction en français variable | Gratuit / 20 USD/mois (Advanced) |
 
 **Recommandation** : utilise Claude ou ChatGPT pour la redaction, Perplexity pour verifier les faits et trouver des sources.
 
-## Etape 4 : Reecriture et editing
+## Étape 4 : Reecriture et editing
 
 Le premier brouillon IA est un point de depart, pas un produit fini. Voici le processus de revision :
 
@@ -105,7 +105,7 @@ Garde le sens mais change les tournures de phrases.
 - Utilise **Antidote** ou **LanguageTool** pour la grammaire et l'orthographe
 - Fais relire par un humain (ami, beta-lecteur, correcteur pro)
 
-## Etape 5 : Mise en page et couverture
+## Étape 5 : Mise en page et couverture
 
 ### Mise en page
 
@@ -117,18 +117,18 @@ Garde le sens mais change les tournures de phrases.
 ### Couverture
 
 - **Canva** : templates de couvertures, facile a personnaliser
-- **Midjourney / DALL-E** : genere une illustration originale pour ta couverture
+- **Midjourney / DALL-E** : génère une illustration originale pour ta couverture
 - **99designs / Fiverr** : si tu veux un designer pro (50-300 EUR)
 
 Amazon KDP fournit un template de couverture avec les dimensions exactes selon le nombre de pages.
 
-## Etape 6 : Publication sur Amazon KDP
+## Étape 6 : Publication sur Amazon KDP
 
 [Amazon KDP](https://kdp.amazon.com/) (Kindle Direct Publishing) est la plateforme la plus accessible pour l'auto-edition :
 
 1. Cree un compte KDP (gratuit)
 2. Clique sur **"Creer un titre Kindle"** ou **"Creer un livre broche"**
-3. Remplis les metadonnees : titre, sous-titre, description, mots-cles (7 max), categories
+3. Remplis les metadonnees : titre, sous-titre, description, mots-clés (7 max), categories
 4. Uploade ton manuscrit (format .docx ou .epub) et ta couverture (format .pdf ou .jpg)
 5. Definis ton prix et tes royalties :
    - **35% de royalties** si prix < 2.99 EUR ou > 9.99 EUR
@@ -146,19 +146,19 @@ Amazon KDP fournit un template de couverture avec les dimensions exactes selon l
 ## Points d'attention legaux (mise a jour 2025)
 
 ### Droits d'auteur
-Le contenu genere par IA est un sujet juridique en pleine evolution. En France, le Code de la propriete intellectuelle protege les oeuvres originales issues de choix creatifs humains. Aux Etats-Unis, le Copyright Office a confirme en 2023-2024 que le contenu purement genere par IA ne peut pas etre protege par le copyright, mais qu'un livre ecrit par un humain avec l'aide de l'IA peut l'etre si l'humain a fait des choix creatifs significatifs. Utilise l'IA comme outil mais apporte ta touche personnelle.
+Le contenu génère par IA est un sujet juridique en pleine evolution. En France, le Code de la propriete intellectuelle protege les oeuvres originales issues de choix creatifs humains. Aux Etats-Unis, le Copyright Office a confirme en 2023-2024 que le contenu purement génère par IA ne peut pas être protege par le copyright, mais qu'un livre ecrit par un humain avec l'aide de l'IA peut l'être si l'humain a fait des choix creatifs significatifs. Utilise l'IA comme outil mais apporte ta touche personnelle.
 
 ### Politique Amazon KDP sur l'IA (2025)
-Amazon a clarifie et renforce ses regles sur l'IA :
-- **IA generative (AI-generated)** : si l'IA a **cree** le contenu (texte, images, traductions) que le lecteur voit dans le livre, tu **dois le declarer** lors de l'upload sur KDP. Meme si tu as edite le texte ensuite, il reste "AI-generated"
-- **IA assistante (AI-assisted)** : si tu as ecrit le contenu toi-meme et que l'IA t'a aide a brainstormer, corriger la grammaire, reformuler ou structurer, c'est "AI-assisted" et tu n'as **pas besoin de le declarer**
-- **La distinction cle** : c'est l'origine du contenu qui compte. Si tu as donne un prompt du type "Ecris un chapitre sur les dragons" et que l'IA a genere le texte, c'est AI-generated, meme si tu as corrige des fautes ensuite
+Amazon a clarifie et renforce ses règles sur l'IA :
+- **IA generative (AI-generated)** : si l'IA a **cree** le contenu (texte, images, traductions) que le lecteur voit dans le livre, tu **dois le declarer** lors de l'upload sur KDP. Même si tu as edite le texte ensuite, il reste "AI-generated"
+- **IA assistante (AI-assisted)** : si tu as ecrit le contenu toi-même et que l'IA t'a aide a brainstormer, corriger la grammaire, reformuler ou structurer, c'est "AI-assisted" et tu n'as **pas besoin de le declarer**
+- **La distinction clé** : c'est l'origine du contenu qui compte. Si tu as donne un prompt du type "Ecris un chapitre sur les dragons" et que l'IA a génère le texte, c'est AI-generated, même si tu as corrige des fautes ensuite
 - **Consequences en cas de non-declaration** : Amazon peut retirer le livre de la vente ou suspendre ton compte KDP. En 2025, la verification est plus stricte qu'avant
-- **Pas d'interdiction** : Amazon ne refuse PAS les livres ecrits avec l'IA. Il faut simplement etre transparent. Des millions de livres assistes par IA sont vendus sur Amazon
-- **Images de couverture** : si tu utilises Midjourney, DALL-E ou un autre generateur IA pour ta couverture, c'est AI-generated et doit etre declare
+- **Pas d'interdiction** : Amazon ne refuse PAS les livres ecrits avec l'IA. Il faut simplement être transparent. Des millions de livres assistes par IA sont vendus sur Amazon
+- **Images de couverture** : si tu utilises Midjourney, DALL-E ou un autre generateur IA pour ta couverture, c'est AI-generated et doit être declare
 
 ### Plagiat
-L'IA peut generer des passages similaires a des textes existants. Verifie avec un outil anti-plagiat (Compilatio, Turnitin, ou Copyscape pour l'anglais)
+L'IA peut générer des passages similaires a des textes existants. Verifie avec un outil anti-plagiat (Compilatio, Turnitin, ou Copyscape pour l'anglais)
 
 ## Ce qu'il faut retenir
 

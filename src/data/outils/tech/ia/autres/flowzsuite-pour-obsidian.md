@@ -308,9 +308,9 @@ Voulez-vous que je continue avec les bénéfices et les fonctionnalités additio
 
 ## CreatorFlowz
 
-- insert images and videos directly in your note from Unsplash, Pexels, YouTube
+- insert images and vidéos directly in your note from Unsplash, Pexels, YouTube
 - easily search for any keywords in a centralized way from all these platforms
-- download videos and images from Youtube, Pexels, Unsplash for free
+- download vidéos and images from Youtube, Pexels, Unsplash for free
 Voici une liste exhaustive des fonctionnalités et bénéfices de l'extension CreatorFlowz :
 
 #### 1. Gestion de Médias

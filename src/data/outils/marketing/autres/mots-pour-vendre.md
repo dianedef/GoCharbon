@@ -253,7 +253,7 @@ Votre réussite sera étroitement liée à votre capacité à bien servir votre 
 
 Par conséquent, gardez toujours votre lecteur cible en tête pour maximiser vos chances de succès.
 
-[https://fr.shopify.com/blog/blogging-e-commerce-4-modeles-articles-de-blog](https://fr.shopify.com/blog/blogging-e-commerce-4-modeles-articles-de-blog)
+[https://fr.shopify.com/blog/blogging-e-commerce-4-modeles-articles-de-blog](__MASK_13__)
 
 Comment convertir les clients en revenu ?
 

@@ -102,7 +102,7 @@ Minea est l'outil de recherche de produit e-commerce le plus complet, avec une v
         
     - Si vous êtes nouveau sur la plate-forme, vous pouvez créer une « boutique de test » pour découvrir comment gérer les commandes, répertorier les produits, etc.
         
-    - Facebook déploie actuellement des fonctionnalités [Facebook Live Video Shopping](https://www.facebook.com/business/help/880609949031868)
+    - Facebook déploie actuellement des fonctionnalités [Facebook Live Vidéo Shopping](https://www.facebook.com/business/help/880609949031868)
         
         , qui vous permettront de vendre en temps réel tout en hébergeant une diffusion en direct
         

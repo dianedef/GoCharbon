@@ -31,7 +31,7 @@ Devenir bras droit opérationnel avec offres VA spécialisées.
 - règles de service réponse demandes
 
 ## Pièges à éviter
-- Liste taches sans priorités
+- Liste tâches sans priorités
 - Multiplication clients non cadres
 - Pas de limites disponibilite
 
@@ -51,5 +51,5 @@ Devenir bras droit opérationnel avec offres VA spécialisées.
 
 ## Idées de contenus pour aller plus loin
 - [Guide à venir 1: sla client et limites](/tutos/virtual-assistant/sla-client-et-limites)
-- [Guide à venir 2: systeme priorisation taches](/tutos/virtual-assistant/systeme-priorisation-taches)
+- [Guide à venir 2: système priorisation tâches](/tutos/virtual-assistant/systeme-priorisation-taches)
 - [Guide à venir 3: packaging forfaits va](/tutos/virtual-assistant/packaging-forfaits-va)

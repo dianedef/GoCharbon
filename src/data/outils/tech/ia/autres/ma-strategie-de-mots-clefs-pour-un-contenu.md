@@ -3,7 +3,7 @@ section: apps
 metadataEnrichedAt: null
 tags:
 - Outils
-imageNameKey: g-strategie-motcles
+imageNameKey: g-stratégie-motcles
 title: Ma Stratégie De Mots Clefs Pour Un Contenu Populaire Et Profitable
 author: Diane
 description: 'Découvre Ma Stratégie De Mots Clefs Pour Un Contenu Populaire Et Profitable
@@ -193,7 +193,7 @@ Disons que tu ne connais absolument rien aux portes de garage électriques.
 
 À la première étape, l'objectif pour les portes de garage électriques était de 2500 visites mensuelles ; tu sais maintenant que la demande du marché existe.
 
-## Etape 4 : Lancer des mots-clés et des modificateurs
+## Étape 4 : Lancer des mots-clés et des modificateurs
 
 Non seulement tu gagnes du temps en utilisant des outils payants de recherche de mots clés, mais ces solutions premium te donnent une mesure cruciale que les outils gratuits n'ont pas ; le potentiel de trafic.
 
@@ -459,7 +459,7 @@ After that, we want to open the top 3 competitors and look for:
 
 Their content structure and outline
 What sub-topics are they covering
-What kind of imagery and tables are they using to improve user experience
+What kind of imagery and tables are they using to improve user expérience
 Top things to do in london.
 We are doing this because this is content and structure that Google believes deserves to be in the top 3 positions for that particular keyword.
 
@@ -485,7 +485,7 @@ So far so good – we know that we need to write around 4,000 words on our topic
 
 We know what Google wants to be on the article. We also know additional topics that we could rank for due to their low competition.
 
-Now it’s time for my favorite part of content creation: writing the content outline.
+Now it’s time for my favorite part of content création: writing the content outline.
 
 This is as good as getting half of the work done. If you have done your keyword research and you have analyzed the competition, this should be a relatively straightforward process.
 
@@ -519,7 +519,7 @@ In the title of the article: ‘’The A-Z Travel Guide to London’’
 In the URL: ‘’example.com/london-travel-guide’’
 In the meta description: ‘’Read our London travel guide and explore the best places to visit and eat.’’
 The H1: ‘’The Ultimate London Travel Guide’’
-And in the introduction: ‘’This guide is the complete London travel guide.’’
+And in the introduction: ‘’This guide is the complète London travel guide.’’
 And after that, focus on the secondary (long-tail) keywords in the H2 headers.
 
 How do I know if a secondary keyword should be a separate article?
@@ -551,7 +551,7 @@ And if we want to target this keyword and rank for it, we would need to create a
 
 What I would do, is I’d make a sub-section of the best places to stay in London and I will include 2-3 neighbourhoods and 1-2 example hotels.
 
-But in the ‘’complete guide on the best places to stay in London’’, I would include all the good neighborhoods with dozens of hotel ideas and additional tips.
+But in the ‘’complète guide on the best places to stay in London’’, I would include all the good neighborhoods with dozens of hotel ideas and additional tips.
 
 You should only care about keyword cannibalization by content that is saying the same things. 
 
@@ -618,7 +618,7 @@ Some writers would argue that the title should have emotional words, such as ”
 
 I think that this definitely worked in the past. 
 
-But ever since YouTubers went too deep with their click-bait titles that promised things they couldn’t deliver, SEOs have been switching off their strategies.
+But ever since YouTubers went too deep with their click-bait titles that promised things they couldn’t deliver, SEOs have been switching off their stratégies.
 
 In fact, Google in the Content Quality Update hinted something about this:
 
@@ -640,7 +640,7 @@ Here’s how you can optimize your page speed on a page level:
 
 Optimize your images – your images should not be over 150-200 KB. You can use compression tools such as TinyJPT
 Improve your hosting plan – you want to have a dedicated server for your domain, although that can’t be helped if you are running on a low budget
-Do not upload heavy videos or too much unnecessary code, such as dozens of tracking scripts or JavaScript applications
+Do not upload heavy vidéos or too much unnecessary code, such as dozens of tracking scripts or JavaScript applications
 As long as you have good hosting and light images, your website speed should be fine. To analyze your current performance, you can use free tools such as Google’s PageSpeed Insights.
 
 Tip #5: Use writing software to help you with grammar and writing correctly
@@ -670,13 +670,13 @@ Do not simply write what everyone else has written on the topic.
 
 It’s important that you know about Google’s E-E-A-T framework for evaluating content authority. 
 
-The abbreviation stands for ”Experience, Expertise, Authoritativeness and Trustworthiness”.
+The abbreviation stands for ”Expérience, Expertise, Authoritativeness and Trustworthiness”.
 
-Notice how there is ”Experience” in it. This is because Google has started, quite recently, prioritizing content where the content creator has experience on the topic.
+Notice how there is ”Expérience” in it. This is because Google has started, quite recently, prioritizing content where the content creator has expérience on the topic.
 
 And from a user perspective, you’d much rather read a London guide from someone who has been there, rather than someone who has only read about the city and it repeating what the others are saying.
 
-How to show that you have experience? It’s in the way you talk. 
+How to show that you have expérience? It’s in the way you talk. 
 
 You can start sentences such as ”I think”, ”In my opinion” or ”When I was there”.
 
@@ -701,7 +701,7 @@ Analyze the SERPs and the competition – notice how much they have written on t
 You can use SEO tools like LowFruits to help you with SERP analysis and long-tail keyword research
 Focus on creating the correct content outline as that is getting half of the work done – split it into H2s and H3s
 Write unique content for humans – do not just repeat what everyone has stated on the topic 
-Bring your own unique perspective and experience – Google values topical experience
+Bring your own unique perspective and expérience – Google values topical expérience
 Update the content from time to time – keep up with the trends and industry changes
 Optimize the site and blog for page speed – slow-loading websites make users bounce off
 Grammar matters, and you can use tools such as Grammarly to help you with that

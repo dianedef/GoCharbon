@@ -18,7 +18,7 @@ imgUrl: ../../../../../assets/astro.jpeg
 
 What started out as a simple photo sharing app for regular people has evolved into a goliath where you can find both content of casual nature as well as the one that serves commercial purposes. Combine this with the fact that Instagram now boasts roughly 1 billion users and you’ll quickly realize it can be a massive source of traffic for your business.
 
-With that being said, you’re going to need to invest some serious effort if you’re looking to organically grow Instagram followers – simply showing up and posting a couple of pictures won’t cut it. As with any other entrepreneurial decision you make, it should be based on cold, hard facts you’ve gathered through analysis and research, and Instagram is no different in this regard.
+With that being said, you’re going to need to invest some serious effort if you’re looking to organically grow Instagram followers – simply showing up and posting a couple of pictures won’t cut it. As with any other entrepreneurial décision you make, it should be based on cold, hard facts you’ve gathered through analysis and research, and Instagram is no different in this regard.
 
 If you want to learn how to organically grow Instagram followers and take your competition head on, you’re going to need to craft a plan of attack; simply winging it may only take you so far to crack this competitive digital space. Instead, why not study what the most successful brands are doing on Instagram and model their success?
 
@@ -59,7 +59,7 @@ In other words, when Instagram engagement is down, this will have a negative eff
 
 If you’re using an app to [increase Instagram followers](https://www.ocoya.com/blog/increase-instagram-followers), tracking how often do Instagram influencers post gets much easier through chronological view. This is a bit more advanced of a measurement compared to simply counting the number of their followers, but the results will be much more accurate as a result.
 
-In other words, we want to identify the “trending growers”. Think of these influencers and brands as those that are utilizing growth strategies that work in the here and the now (as opposed to, say, the ones that worked in the past but not anymore). Do you see the power of doing this?
+In other words, we want to identify the “trending growers”. Think of these influencers and brands as those that are utilizing growth stratégies that work in the here and the now (as opposed to, say, the ones that worked in the past but not anymore). Do you see the power of doing this?
 
 Remember: the trend is your friend. As social media platforms evolve, their algorithms may start favoring certain kinds of behavior and activities over others. This can be hard to predict, much less to understand. Therefore, reverse engineering what makes these algorithms tick is often the best option a social media marketer has remaining.
 
@@ -86,13 +86,13 @@ In addition to measuring what types of content is the most likely to elicit a re
 
 - Basic image posts
 
-- Video posts
+- Vidéo posts
 
 - Carousels
 
 Even though the vast majority of your posts are likely to fall into the basic category, it could be that there are certain niche specifics that you need to be taking into account. For instance, even though an Instagram engagement caption tends to be a good way to organically grow Instagram followers in general, this doesn’t mean that it will necessarily perform equally as well across every niche.
 
-As an example, imagine you’re in some kind of a DIY or how-to niche and your followers are looking exclusively for instructional content and guidance. Let’s say you’re trying to teach them how to repair furniture. Although an image-based post format can be helpful if you’re trying to show them a diagram or illustrate something, at some point, it may be that you’re going to need to post a video to show them exactly how they need to approach things.
+As an example, imagine you’re in some kind of a DIY or how-to niche and your followers are looking exclusively for instructional content and guidance. Let’s say you’re trying to teach them how to repair furniture. Although an image-based post format can be helpful if you’re trying to show them a diagram or illustrate something, at some point, it may be that you’re going to need to post a vidéo to show them exactly how they need to approach things.
 
 
 #### 6. Make a note what hashtags your competitors are using
@@ -163,6 +163,6 @@ Il existe plusieurs outils gratuits qui peuvent vous aider à suivre vos concurr
     
 
 Offrez à votre client une opportunité exclusive : 30 minutes de consultation offertes avec un expert en référencement SEO pour discuter de son site.   
-[https://meet.dokey.io/meetings/dokey/meet](https://email.dokey.io/e3t/Ctc/UB+113/d2YW1Y04/MVwKJ318GJ1W1M5l034p6f8FV_gMC1524lpzN52hRgF3lYMRW69sMD-6lZ3lZW7syWs71fkk69W6_DbZc2BldcXN4hDHmRDGDmXW8b7blv7jvJ8gV-dQyh3Z6CXdW8wTbFS8sfrj3MvVZVgcYL2TW5dvwpT2Wz6lDW649m4941S3LSW7spHKm7f0Q8lW59wDYg6cLl8BN4w_nhjgSxG1W77D42c79cJJhW4s28jh2JMzRlW6V_Lp13FD4b0W61_-YZ3FyLkHW5rLPmk7MzmwrW350l6q7g_LWVW263XW487jywLVtl_4367Jwn4f87PKHW04)
+[https://meet.dokey.io/meetings/dokey/meet](__MASK_15__)
 
 Bon week-end !

@@ -15,7 +15,7 @@ imgUrl: ../../../../assets/astro.jpeg
 
 # implement GWERN style principles
 
-Have a look at this site and see what elements might make sense to up the quality of the Heartbeat Setup: [https://www.gwern.net/Design#principles](https://www.gwern.net/Design#principles)
+Have a look at this site and see what elements might make sense to up the quality of the Heartbeat Setup: [https://www.gwern.net/Design#principles](__MASK_0__)
 
 Here are some oof the principles:
 

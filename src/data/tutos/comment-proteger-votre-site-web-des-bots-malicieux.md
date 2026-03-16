@@ -34,7 +34,7 @@ Et bien tout d’abord, il faut créer un compte sur Cloudfilt. Rassurez-vous, c
 
 Bref, une fois votre compte créé, vous pourrez alors intégrer Cloudfilt sur votre site, soit via une extension pour WordPress, Magento, Prestashop, Drupal, Joomla, ou directement avec un peu de code Go, PHP ou encore Python via Django.
 
-[https://me.korben.info/98p-ziwit](https://me.korben.info/98p-ziwit)
+[https://me.korben.info/98p-ziwit](__MASK_1__)
 
 Et voilà ! Rien de plus à faire.
 

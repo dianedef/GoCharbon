@@ -16,9 +16,9 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../../assets/astro.jpeg
 ---
 
-Summary of the Video: Auto-Detection and Merging of Duplicates in Bra Cell CRM
+Summary of the Vidéo: Auto-Detection and Merging of Duplicates in Bra Cell CRM
 
-New Feature Announcement: The video introduces a new feature on Bra Cell CRM which allows for the auto-detection and merging of duplicates in the system.
+New Feature Announcement: The vidéo introduces a new feature on Bra Cell CRM which allows for the auto-detection and merging of duplicates in the system.
 
 Duplicate Detection: The presenter demonstrates how duplicates are automatically detected within the CRM workspace, showing examples where leads have missing information or conflicting data.
 
@@ -26,11 +26,11 @@ Cleanup Duplicates Section: A new section called "Clean up duplicates" appears a
 
 Manual Merging: In cases where manual intervention is needed to merge leads, users can select the duplicates and use the "Merge leads" button to choose which information to keep from each lead.
 
-Use Cases: The video highlights scenarios such as updating contact information or avoiding creation of duplicates when adding new data.
+Use Cases: The vidéo highlights scenarios such as updating contact information or avoiding création of duplicates when adding new data.
 
 Ease of Use: The feature is designed to be user-friendly, allowing users to easily identify and manage duplicates without having to manually search for them.
 
-Overall, the video showcases the convenience and efficiency of the new duplicate detection and merging feature in Bra Cell CRM, making it easier for users to maintain accurate and clean data within the system.
+Overall, the vidéo showcases the convenience and efficiency of the new duplicate detection and merging feature in Bra Cell CRM, making it easier for users to maintain accurate and clean data within the system.
 
 You can find the duplicates detected by Breakcold when you click on "Clean up duplicates", next to your notifications. We designed it so that it's hard to miss.
 
@@ -74,7 +74,7 @@ Tu peux maintenant facilement voir combien de fois un lead a ouvert un email (id
 Tu peux maintenant créer des rappels/tâches :
 
 * tu peux assigner des tâches aux membres de l'équipe
-* regarde cette vidéo pour une présentation complète : [https://www.youtube.com/watch?v=qudQhbKX_I0](https://www.youtube.com/watch?v=qudQhbKX_I0)
+* regarde cette vidéo pour une présentation complète : [https://www.youtube.com/watch?v=qudQhbKX_I0](__MASK_0__)
 
 
 Pour créer un rappel/une tâche, va sur un lead et clique sur ce nouveau bouton.
@@ -260,7 +260,7 @@ Conseil spécial : si vous avez une équipe, votre flux sera actualisé plus ra
 ### 2°) Combien de Contacts Puis-je Suivre Avec Breakcold?
 
 * vous pouvez suivre un nombre illimité de contacts. Sachez que si vous suivez plus de 80 personnes à la fois, les publications ne seront pas rafraichies toutes les 24h, nous vous conseillons de ne pas dépasser 200 personnes à la fois  
-* lisez ces conseils si vous souhaitez en savoir plus sur notre système de suivi pour en tirer le meilleur parti: [https://breakcold.crisp.help/en/article/breakcold-tips-unique-use-cases-1cyxcai/](https://breakcold.crisp.help/en/article/breakcold-tips-unique-use-cases-1cyxcai/)  
+* lisez ces conseils si vous souhaitez en savoir plus sur notre système de suivi pour en tirer le meilleur parti: [https://breakcold.crisp.help/en/article/breakcold-tips-unique-use-cases-1cyxcai/](__MASK_13__)  
 
 ### 3°) Puis-je Suivre Automatiquement les Contacts B2B?
 
@@ -301,7 +301,7 @@ Veuillez envoyer un e-mail à [gdpr@breakcold.com](mailto:gdpr@breakcold.com), 
 
 ### 10°) Avez-vous Une Feuille de Route Publique?
 
-* oui, vous pouvez le vérifier ici: [https://roadmap.breakcold.com/](https://roadmap.breakcold.com/)  
+* oui, vous pouvez le vérifier ici: [https://roadmap.breakcold.com/](__MASK_15__)  
 
 ### 11°) Breakcold Est-il Un Logiciel D'automatisation LinkedIn?
 
@@ -314,7 +314,7 @@ Veuillez envoyer un e-mail à [gdpr@breakcold.com](mailto:gdpr@breakcold.com), 
 
 ### 13°) Êtes-vous Conforme au RGPD?
 
-Oui, vous pouvez lire nos politiques de confidentialité et la section RGPD ici: [https://www.breakcold.com/en/privacy-policy](https://www.breakcold.com/en/privacy-policy)
+Oui, vous pouvez lire nos politiques de confidentialité et la section RGPD ici: [https://www.breakcold.com/en/privacy-policy](__MASK_16__)
 
 ## Le Social Selling Est L'avenir de la Vente B2B
 

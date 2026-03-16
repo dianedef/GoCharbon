@@ -82,7 +82,7 @@ imgUrl: ../../../assets/astro.jpeg
 ## Techniques d'Activation
 
 ### Onboarding
-1. **First Experience**
+1. **First Expérience**
    - Wow moment
    - Quick wins
    - Réduction friction

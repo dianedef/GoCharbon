@@ -213,7 +213,7 @@ Avec KlapAudience, vous pouvez développer automatiquement votre base de prospec
 KlapAudience utilise des mécanismes de lead magnets pour attirer les prospects vers vos contenus, afin de générer des leads qualifiés régulièrement.
 
 ## Démonstration
-Vous pouvez voir une démonstration complète sur le site web de KlapAudience : [https://www.klapaudience.fr](https://www.klapaudience.fr)
+Vous pouvez voir une démonstration complète sur le site web de KlapAudience : [https://www.klapaudience.fr](__MASK_18__)
 
 ## Mon Avis
 KlapAudience est une solution efficace pour les infopreneurs, startuppers et marketers qui cherchent à développer leur base de prospection automatiquement. Sa plateforme simple, flexible et complète permet de créer des lead magn

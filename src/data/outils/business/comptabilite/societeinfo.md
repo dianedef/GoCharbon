@@ -25,7 +25,7 @@ SocieteInfo est une plateforme française de prospection et d'intelligence comme
 
 ### 📢 Alternative à
 
-Dropcontact, Pappers, Societe.com, Kompass.
+Dropcontact, Pappers, Société.com, Kompass.
 
 ## ✔️ Bénéfices
 

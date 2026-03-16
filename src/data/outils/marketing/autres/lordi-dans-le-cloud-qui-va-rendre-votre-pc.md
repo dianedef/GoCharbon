@@ -91,7 +91,7 @@ La plateforme de Neverinstall offre une latence minimale, la rendant idéale pou
 
 ### Pour les Designers et les Créatifs :
 
-AutoCAD Blender Suite Adobe (Photoshop, Illustrator, Premiere Pro, etc.) CorelDRAW Canva Inkscape Da Vinci Resolve
+AutoCAD Blender Suite Adobe (Photoshop, Illustrator, Première Pro, etc.) CorelDRAW Canva Inkscape Da Vinci Resolve
 
 ### Pour les Développeurs et les Codeurs :
 

@@ -17,4 +17,4 @@ Collaborate on browsers together. Shared control is a powerful way of getting m
 
 
 Gain control over your content
-Now you have complete control over who can view, control, and browse the tools you place in Switchboard rooms. This added control lets you easily limit information and control who has access to what
+Now you have complète control over who can view, control, and browse the tools you place in Switchboard rooms. This added control lets you easily limit information and control who has access to what

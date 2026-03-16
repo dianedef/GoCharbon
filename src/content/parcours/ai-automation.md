@@ -8,11 +8,11 @@ status: "active"
 updatedAt: "2026-03-01"
 ---
 ## Ton objectif
-Vendre des systemes d automatisation IA qui reduisent le temps opérationnel client.
+Vendre des systèmes d automatisation IA qui réduisent le temps opérationnel client.
 
 ## En clair (version simple)
 - Pour qui : Agences, ecommerces et équipes sales avec processuss repetitifs.
-- Où trouver les clients : Études de cas avant/apres + demos loom + prospection directe LinkedIn.
+- Où trouver les clients : Études de cas avant/après + demos loom + prospection directe LinkedIn.
 - Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
 ## Idées d'offres à tester

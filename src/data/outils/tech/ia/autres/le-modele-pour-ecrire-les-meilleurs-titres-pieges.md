@@ -12,7 +12,7 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../../assets/astro.jpeg
 ---
 
-Les premiers titres putaclic a l'épok : [https://youtu.be/wp5XZOJN85M?t=617](https://youtu.be/wp5XZOJN85M?t=617)
+Les premiers titres putaclic a l'épok : [https://youtu.be/wp5XZOJN85M?t=617](__MASK_0__)
 
 # **23 Exemples de titres efficaces**
 

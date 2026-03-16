@@ -15,13 +15,13 @@ imgUrl: ../../../../assets/astro.jpeg
 
 ### Helpful Contenty Update
 
-[https://youtu.be/Xws1mxyaluA?t=1096](https://youtu.be/Xws1mxyaluA?t=1096)
+[https://youtu.be/Xws1mxyaluA?t=1096](__MASK_0__)
 
 ### Link Spam Update
 
-[https://youtu.be/Xws1mxyaluA?t=1289](https://youtu.be/Xws1mxyaluA?t=1289)
+[https://youtu.be/Xws1mxyaluA?t=1289](__MASK_1__)
 
-[https://youtu.be/Xws1mxyaluA?t=1947](https://youtu.be/Xws1mxyaluA?t=1947)
+[https://youtu.be/Xws1mxyaluA?t=1947](__MASK_2__)
 
 
 Il y a des règles fondamentales du conenu que Google cherche à promouvoir, celles-ci ne changent jamais : Faire du contenu utile pour son audience, suivre le consensus, s'adapter à son marché, avoir une écriture lisible...

@@ -40,7 +40,7 @@ LinkedWarm, ça sort dès Janvier! Reste connecté
 
 **Je t’invite à rejoindre la waiting list pour:**
 
-- Etre informé sur l’avancée du projet
+- Être informé sur l’avancée du projet
 - Nous faire part de tes feedbacks
 - Rejoindre la version béta (prête très bientôt!)
 
@@ -85,7 +85,7 @@ Le warm up de compte est donc très puissant dans ce cas de figure.
 **Tu en es où de ce projet ?**
 
 _Je viens de cramer trois comptes, 30% de déchet c’est beaucoup …_  
-_C’est pas vraiment ce que ça coute, mais ça agace _ 
+_C’est pas vraiment ce que ça coûte, mais ça agace _ 
 
 Bref, je me suis inscrit sur ta liste 
 

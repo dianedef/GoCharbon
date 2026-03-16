@@ -15,6 +15,6 @@ imgUrl: ../../../../assets/astro.jpeg
 
 **Table des matières :**
 
-[https://youtu.be/PS2tKRPIE10](https://youtu.be/PS2tKRPIE10)
+[https://youtu.be/PS2tKRPIE10](__MASK_0__)
 
 [AI Engine: ChatGPT Chatbot, GPT Content Generator, Custom Playground & Features – WordPress plugin | WordPress.org](https://wordpress.org/plugins/ai-engine/)

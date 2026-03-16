@@ -163,7 +163,7 @@ Dropizi est une excellente solution pour ceux qui cherchent à se lancer dans le
 - Possibilité de vente internationale.
 - Conformité légale guidée.
 
-Dropizi is a French e-commerce platform that specializes in providing dropshipping solutions for entrepreneurs[1]. The company offers a comprehensive set of tools and features designed to help users create and manage their online stores without the need for prior experience or inventory management[1].
+Dropizi is a French e-commerce platform that specializes in providing dropshipping solutions for entrepreneurs[1]. The company offers a comprehensive set of tools and features designed to help users create and manage their online stores without the need for prior expérience or inventory management[1].
 
 # Key Features
 
@@ -172,16 +172,16 @@ Dropizi is a French e-commerce platform that specializes in providing dropshippi
 - Niche and product research
 - Store name and slogan generation
 - Product descriptions and category content
-- Blog article creation
+- Blog article création
 - SEO optimization (meta descriptions and titles)
 - Ad copy for Google and Facebook
 - Social media posts and FAQ content[1]
 
 **Supplier Network**: The platform partners with trusted suppliers such as AliExpress, BigBuy, and BrandsDistribution, allowing users to access a wide range of quality products[1].
 
-**Automated Store Creation**: Dropizi's tools enable users to set up their online stores quickly and efficiently, with over 250 features dedicated to ensuring success[1].
+**Automated Store Création**: Dropizi's tools enable users to set up their online stores quickly and efficiently, with over 250 features dedicated to ensuring success[1].
 
-**Training and Support**: The platform offers a free comprehensive training program to help users navigate e-commerce and marketing, even if they have no prior experience[1]. Additionally, Dropizi provides ongoing support through dedicated Business Coaches who assist users at every stage of their project[1].
+**Training and Support**: The platform offers a free comprehensive training program to help users navigate e-commerce and marketing, even if they have no prior expérience[1]. Additionally, Dropizi provides ongoing support through dedicated Business Coaches who assist users at every stage of their project[1].
 
 # Pricing and Accessibility
 

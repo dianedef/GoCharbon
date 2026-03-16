@@ -3,143 +3,474 @@ import Layout from "../layouts/Default.astro";
 import { learningPaths } from "../data/parcoursData";
 import { getParcoursSlug } from "../data/parcoursSlugs";
 
-const sortedPaths = [...learningPaths].sort((a, b) => a.profileTitle.localeCompare(b.profileTitle, 'fr'));
+const sortedPaths = [...learningPaths].sort((a, b) => a.profileTitle.localeCompare(b.profileTitle, "fr"));
+const categories = [...new Set(sortedPaths.map((path) => path.category))].sort((a, b) => a.localeCompare(b, "fr"));
+
+const spotlights = [
+  {
+    kicker: "Vendre un service",
+    path: sortedPaths.find((path) => path.id === "freelance") ?? sortedPaths[0],
+    description: "Pour partir d'une competence, faire une offre simple et aller chercher les premiers clients.",
+  },
+  {
+    kicker: "Construire une audience",
+    path: sortedPaths.find((path) => path.id === "content-creator") ?? sortedPaths[1],
+    description: "Pour avancer avec du contenu, une audience utile et un systeme de monetisation coherent.",
+  },
+  {
+    kicker: "Monter un produit",
+    path: sortedPaths.find((path) => path.id === "ecommerce") ?? sortedPaths[2],
+    description: "Pour tester un produit, choisir la bonne stack et mieux piloter acquisition et conversion.",
+  },
+];
 ---
 
 <Layout
   title="Parcours Business - GOCHARBON"
-  description="Tous les parcours d'apprentissage business en ligne: du niveau débutant à l'exécution terrain, par profil métier."
+  description="Explore les parcours GoCharbon par categorie, niveau et besoin. Trouve plus vite le bon point de depart."
   pageTitle="Parcours"
 >
-  <main class="parcours-main min-h-screen py-12 md:py-20">
-    <div class="container mx-auto px-4">
-      <div class="max-w-6xl mx-auto">
-        <div class="text-center mb-10">
-          <h1 class="parcours-title text-4xl md:text-5xl font-bold mb-4 poppins">
-            Parcours d'Apprentissage Business
-          </h1>
-          <p class="parcours-subtitle text-lg md:text-xl">
-            42 parcours relies a vos profils business, avec fondations communes + specialisation + execution.
-          </p>
+  <main class="parcours-shell min-h-screen py-12 md:py-20">
+    <div class="container mx-auto px-4 max-w-6xl" data-path-browser>
+      <section class="browser-hero bg-yellow-primary dark:bg-yellow-dark">
+        <div class="browser-hero-inner">
+          <div class="hero-copy">
+            <p class="hero-kicker">BIBLIOTHEQUE D'EXECUTION</p>
+            <h1 class="hero-title poppins">Trouve plus vite le parcours qui colle a ton point de depart</h1>
+            <p class="hero-copy-text">
+              Tous les parcours ne servent pas a la meme chose. Utilise les portes d'entree ci-dessous ou filtre par categorie,
+              niveau et mot-cle pour tomber sur un plan qui te fera avancer maintenant.
+            </p>
+          </div>
+          <div class="hero-stats">
+            <div class="hero-stat">
+              <strong>{sortedPaths.length}</strong>
+              <span>parcours actives</span>
+            </div>
+            <div class="hero-stat">
+              <strong>3 modules</strong>
+              <span>bases, specialisation, execution</span>
+            </div>
+            <div class="hero-stat">
+              <strong>Plan 7 jours</strong>
+              <span>dans chaque parcours</span>
+            </div>
+          </div>
         </div>
+      </section>
 
-        <div class="paths-grid">
+      <section class="spotlight-section bg-white-soft dark:bg-black">
+        <div class="section-heading">
+          <p class="section-kicker">PORTES D'ENTREE</p>
+          <h2 class="section-title poppins">Trois demarrages simples si tu ne sais pas encore quoi ouvrir</h2>
+        </div>
+        <div class="spotlight-grid">
+          {spotlights.map((entry) => (
+            <a href={`/parcours/${getParcoursSlug(entry.path.id)}`} class="spotlight-card no-link-style">
+              <p class="spotlight-kicker">{entry.kicker}</p>
+              <h3>{entry.path.profileTitle}</h3>
+              <p>{entry.description}</p>
+              <span>Ouvrir ce parcours →</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="filters-section bg-purple-light dark:bg-purple-dark">
+        <div class="section-heading">
+          <p class="section-kicker">FILTRES</p>
+          <h2 class="section-title poppins">Affiche seulement les parcours pertinents</h2>
+        </div>
+        <div class="filters-toolbar">
+          <label class="filter-field">
+            <span>Recherche</span>
+            <input
+              id="path-search"
+              type="search"
+              placeholder="freelance, ecommerce, seo, contenu..."
+              autocomplete="off"
+            />
+          </label>
+          <label class="filter-field">
+            <span>Niveau</span>
+            <select id="level-filter">
+              <option value="all">Tous les niveaux</option>
+              <option value="debutant">Debutant</option>
+              <option value="intermediaire">Intermediaire</option>
+              <option value="avance">Avance</option>
+            </select>
+          </label>
+        </div>
+        <div class="category-row" aria-label="Filtrer par categorie">
+          <button type="button" class="category-btn active" data-category-filter="all">Tout</button>
+          {categories.map((category) => (
+            <button type="button" class="category-btn" data-category-filter={category}>
+              {category}
+            </button>
+          ))}
+        </div>
+        <div class="results-meta">
+          <p id="results-count">{sortedPaths.length} parcours affiches</p>
+          <button type="button" class="reset-btn" id="reset-filters">Reinitialiser</button>
+        </div>
+      </section>
+
+      <section class="paths-section bg-white-soft dark:bg-black">
+        <div class="paths-grid" id="paths-grid">
           {sortedPaths.map((path) => (
-            <a href={`/parcours/${getParcoursSlug(path.id)}`} class="path-card no-link-style">
+            <a
+              href={`/parcours/${getParcoursSlug(path.id)}`}
+              class="path-card no-link-style"
+              data-path-card
+              data-title={path.profileTitle}
+              data-outcome={path.outcome}
+              data-category={path.category}
+              data-level={path.level}
+            >
               <p class="path-category">{path.category}</p>
               <h2>{path.profileTitle}</h2>
               <p>{path.outcome}</p>
               <div class="path-meta">
                 <span>{path.modules.length} modules</span>
                 <span>{path.estimatedDuration}</span>
+                <span>{path.level}</span>
               </div>
               <span class="path-cta">Voir le parcours →</span>
             </a>
           ))}
         </div>
-      </div>
+        <p id="no-results" class="no-results hidden">
+          Aucun parcours ne correspond a ce filtre. Essaie un mot-cle plus large ou reinitialise les filtres.
+        </p>
+      </section>
     </div>
   </main>
 </Layout>
 
 <style>
-  .container {
-    max-width: 1280px;
+  .parcours-shell {
+    background: transparent;
   }
 
-  .parcours-main {
-    background: var(--brand-yellow);
-  }
-
-  .parcours-title {
-    color: var(--brand-black);
-  }
-
-  .parcours-subtitle {
-    color: #3f3f46;
-  }
-
+  .browser-hero-inner,
+  .hero-stats,
+  .spotlight-grid,
+  .filters-toolbar,
   .paths-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 1rem;
   }
 
-  .path-card {
-    display: block;
-    text-decoration: none;
-    color: var(--brand-black);
-    background: var(--brand-cream);
-    border: 3px solid var(--brand-black);
-    box-shadow: 5px 5px 0 var(--brand-black);
-    padding: 1rem;
-    transition: all 0.2s ease-in-out;
+  .browser-hero-inner {
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+    align-items: stretch;
   }
 
-  .path-card:hover {
-    color: var(--brand-black);
-    transform: translate(2px, 2px);
-    box-shadow: 3px 3px 0 var(--brand-black);
-    background: var(--brand-yellow);
+  .hero-copy,
+  .section-heading {
+    display: grid;
+    gap: 0.75rem;
   }
 
-  .path-card h2 {
-    margin: 0.3rem 0 0.5rem;
-    font-size: 1.35rem;
-  }
-
-  .path-card p {
-    margin: 0.2rem 0;
-    line-height: 1.45;
-  }
-
-  .path-category {
-    display: inline-block;
-    border: 2px solid var(--brand-black);
-    font-family: "Sanchez", serif;
-    font-weight: 700;
-    text-transform: uppercase;
+  .hero-kicker,
+  .section-kicker,
+  .spotlight-kicker {
+    margin: 0;
     font-size: 0.8rem;
-    padding: 0.15rem 0.4rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.74;
   }
 
-  .path-meta {
-    display: flex;
-    gap: 0.5rem;
-    margin: 0.6rem 0;
-    font-size: 0.9rem;
+  .hero-title,
+  .section-title {
+    margin: 0;
+    line-height: 0.98;
   }
 
+  .hero-title {
+    font-size: clamp(2.4rem, 5vw, 4.6rem);
+  }
+
+  .hero-copy-text {
+    margin: 0;
+    font-size: 1.08rem;
+    line-height: 1.6;
+    max-width: 56rem;
+  }
+
+  .hero-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-stat,
+  .spotlight-card,
+  .filter-field,
+  .path-card {
+    border: 3px solid var(--brand-black);
+    border-radius: 0.45rem;
+    background: rgb(245 245 242 / 0.92);
+    box-shadow: 6px 6px 0 var(--brand-black);
+  }
+
+  .hero-stat {
+    display: grid;
+    gap: 0.2rem;
+    padding: 1rem 1.1rem;
+  }
+
+  .hero-stat strong {
+    font-size: 2rem;
+    line-height: 1;
+  }
+
+  .spotlight-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .spotlight-card,
+  .path-card {
+    display: grid;
+    gap: 0.65rem;
+    padding: 1.1rem;
+  }
+
+  .spotlight-card h3,
+  .path-card h2 {
+    margin: 0;
+    font-size: 1.45rem;
+  }
+
+  .spotlight-card p,
+  .path-card p {
+    margin: 0;
+    line-height: 1.55;
+  }
+
+  .spotlight-card span,
   .path-cta {
     font-weight: 700;
   }
 
-  :global(.dark) .path-card {
-    color: var(--brand-cream);
-    background: var(--brand-ink);
-    border-color: var(--brand-cream);
-    box-shadow: 5px 5px 0 var(--brand-cream);
+  .filters-toolbar {
+    grid-template-columns: minmax(0, 1fr) 240px;
+    margin-bottom: 1rem;
   }
 
-  :global(.dark) .path-card:hover {
+  .filter-field {
+    display: grid;
+    gap: 0.5rem;
+    padding: 0.9rem;
+  }
+
+  .filter-field span {
+    font-size: 0.9rem;
+    font-weight: 700;
+  }
+
+  .filter-field input,
+  .filter-field select {
+    width: 100%;
+    min-height: 3rem;
+    border: 2px solid var(--brand-black);
+    background: rgb(255 255 255 / 0.72);
+    padding: 0.75rem 0.9rem;
+    font-family: "Sanchez", serif;
+    font-size: 1rem;
+    color: var(--brand-black);
+  }
+
+  .category-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+  }
+
+  .category-btn,
+  .reset-btn {
+    border: 3px solid var(--brand-black);
+    background: var(--brand-cream);
+    box-shadow: 4px 4px 0 var(--brand-black);
+    padding: 0.7rem 0.95rem;
+    font-family: "Sanchez", serif;
+    font-size: 0.95rem;
+    font-weight: 700;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+
+  .category-btn.active {
+    background: var(--brand-yellow);
+    transform: translate(1px, 1px);
+    box-shadow: 3px 3px 0 var(--brand-black);
+  }
+
+  .results-meta {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .results-meta p {
+    margin: 0;
+    font-weight: 700;
+  }
+
+  .paths-grid {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  }
+
+  .path-category {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    border: 2px solid var(--brand-black);
+    padding: 0.15rem 0.45rem;
+    font-size: 0.78rem;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  .path-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+    font-size: 0.92rem;
+    opacity: 0.82;
+  }
+
+  .path-card.hidden,
+  .no-results.hidden {
+    display: none;
+  }
+
+  .no-results {
+    margin: 1rem 0 0;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+
+  :global(.dark) .hero-stat,
+  :global(.dark) .spotlight-card,
+  :global(.dark) .filter-field,
+  :global(.dark) .path-card {
+    border-color: var(--brand-cream);
+    background: rgb(11 11 11 / 0.9);
+    box-shadow: 6px 6px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .filter-field input,
+  :global(.dark) .filter-field select,
+  :global(.dark) .category-btn,
+  :global(.dark) .reset-btn,
+  :global(.dark) .path-category {
+    border-color: var(--brand-cream);
+    background: rgb(255 255 255 / 0.04);
+    box-shadow: none;
     color: var(--brand-cream);
-    background: var(--brand-charcoal);
+  }
+
+  :global(.dark) .category-btn.active {
+    background: var(--brand-yellow);
+    color: var(--brand-black);
     box-shadow: 3px 3px 0 var(--brand-cream);
   }
 
-  :global(.dark) .parcours-main {
-    background: var(--brand-ink);
+  @media (max-width: 1023px) {
+    .browser-hero-inner,
+    .spotlight-grid,
+    .filters-toolbar {
+      grid-template-columns: 1fr;
+    }
   }
 
-  :global(.dark) .parcours-title {
-    color: var(--brand-yellow);
-  }
+  @media (max-width: 767px) {
+    .results-meta {
+      flex-direction: column;
+      align-items: flex-start;
+    }
 
-  :global(.dark) .parcours-subtitle {
-    color: var(--brand-cream);
-  }
-
-  :global(.dark) .path-category {
-    border-color: var(--brand-cream);
+    .category-row {
+      gap: 0.5rem;
+    }
   }
 </style>
+
+<script is:inline>
+  function normalizeValue(value) {
+    return (value || "")
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
+  }
+
+  function initPathBrowser() {
+    const root = document.querySelector("[data-path-browser]");
+    if (!root || root.dataset.ready === "true") return;
+    root.dataset.ready = "true";
+
+    const searchInput = root.querySelector("#path-search");
+    const levelFilter = root.querySelector("#level-filter");
+    const resetButton = root.querySelector("#reset-filters");
+    const resultCount = root.querySelector("#results-count");
+    const noResults = root.querySelector("#no-results");
+    const cards = [...root.querySelectorAll("[data-path-card]")];
+    const categoryButtons = [...root.querySelectorAll("[data-category-filter]")];
+
+    let activeCategory = "all";
+
+    const applyFilters = () => {
+      const query = normalizeValue(searchInput?.value || "");
+      const level = levelFilter?.value || "all";
+      let visible = 0;
+
+      cards.forEach((card) => {
+        const haystack = normalizeValue(
+          `${card.dataset.title || ""} ${card.dataset.outcome || ""} ${card.dataset.category || ""}`
+        );
+        const matchesQuery = !query || haystack.includes(query);
+        const matchesLevel = level === "all" || card.dataset.level === level;
+        const matchesCategory = activeCategory === "all" || card.dataset.category === activeCategory;
+        const shouldShow = matchesQuery && matchesLevel && matchesCategory;
+
+        card.classList.toggle("hidden", !shouldShow);
+        if (shouldShow) visible += 1;
+      });
+
+      if (resultCount) {
+        resultCount.textContent = `${visible} parcours affiches`;
+      }
+
+      noResults?.classList.toggle("hidden", visible !== 0);
+    };
+
+    searchInput?.addEventListener("input", applyFilters);
+    levelFilter?.addEventListener("change", applyFilters);
+
+    categoryButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        activeCategory = button.dataset.categoryFilter || "all";
+        categoryButtons.forEach((item) => item.classList.toggle("active", item === button));
+        applyFilters();
+      });
+    });
+
+    resetButton?.addEventListener("click", () => {
+      activeCategory = "all";
+      if (searchInput) searchInput.value = "";
+      if (levelFilter) levelFilter.value = "all";
+      categoryButtons.forEach((item) => item.classList.toggle("active", item.dataset.categoryFilter === "all"));
+      applyFilters();
+    });
+
+    applyFilters();
+  }
+
+  document.addEventListener("astro:page-load", initPathBrowser);
+  document.addEventListener("astro:after-swap", initPathBrowser);
+  initPathBrowser();
+</script>

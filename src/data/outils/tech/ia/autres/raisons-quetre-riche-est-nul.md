@@ -84,7 +84,7 @@ Thoreau said, “Envy is the tax which all distinctions must pay.”
 
 **3. The richer you become, the less likely people around you are to tell you when you’re wrong, crazy, mean, or oblivious.**
 
-Matt Damon says, “You retard socially and emotionally the moment you become famous. Your experience of the world is never the same.”
+Matt Damon says, “You retard socially and emotionally the moment you become famous. Your expérience of the world is never the same.”
 
 The same may be true – and far more common – for those who become wealthy. No one ever treats you the same. And the worst part is that you may not even know it.
 
@@ -130,7 +130,7 @@ But by and large, he’s right. Those are the two options for the rich: Ruin the
 
 Warren Buffett once said that he often hears rich people talk about how dangerous a welfare society is, creating a generation of moochers reliant on food stamps and unemployment benefits. But “these same people are leaving their kids a lifetime supply of food stamps and beyond” he said. “Instead of having a welfare officer, they have a trust fund officer. And instead of having food stamps, they have stocks and bonds that pay dividends.”
 
-Of course there are exceptions. But most of the exceptions – rich kids who inherit money and it doesn’t impact their ambition – are because the kids are special, not because the parents necessarily made a smart decision. If 18-year-old Bill Gates inherited $1 billion, it wouldn’t have stopped his ambition. Same with Steve Jobs and Elon Musk. Mark Zuckerberg was offered $1 billion cash for Facebook when he was 22 and he didn’t blink, didn’t even consider it.
+Of course there are exceptions. But most of the exceptions – rich kids who inherit money and it doesn’t impact their ambition – are because the kids are special, not because the parents necessarily made a smart décision. If 18-year-old Bill Gates inherited $1 billion, it wouldn’t have stopped his ambition. Same with Steve Jobs and Elon Musk. Mark Zuckerberg was offered $1 billion cash for Facebook when he was 22 and he didn’t blink, didn’t even consider it.
 
 But those are the rare birds. Most people need to be driven by fear of not making it.
 
@@ -180,7 +180,7 @@ In 1907, author William Dawson wrote about how the feeling of wealth is relative
 
 To drive home his point: Dawson was himself fairly successful and accustomed to easy means by the standard of his day. But Dawson, who died in 1928, spent most of his life without electricity or air conditioning. He never had antibiotics, Advil, or a Polio vaccine. He never experienced reasonably accurate weather forecasts, or an interstate highway.
 
-An average American today sent back in time to experience Dawson’s life would suffer the same “tortures unspeakable” he wrote about. But he didn’t have modern times to compare his life to, so it felt luxurious to him.
+An average American today sent back in time to expérience Dawson’s life would suffer the same “tortures unspeakable” he wrote about. But he didn’t have modern times to compare his life to, so it felt luxurious to him.
 
 Everything good in life is just [the gap between expectations and reality](https://collabfund.com/blog/expectations-and-reality/), and when your main frame of reference are other rich people trying to impress each other, that gap can close quickly.
 

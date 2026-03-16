@@ -38,7 +38,7 @@ Tu n'en as **pas** besoin si :
 - Tu fais des modifications via un page builder (Elementor, Divi)
 - Tu ne touches jamais au code
 
-## Etape 1 : Creer le dossier du theme enfant
+## Étape 1 : Creer le dossier du theme enfant
 
 Connecte-toi en FTP ou via le gestionnaire de fichiers de ton hebergeur.
 
@@ -46,7 +46,7 @@ Connecte-toi en FTP ou via le gestionnaire de fichiers de ton hebergeur.
 2. Cree un nouveau dossier. Convention de nommage : `[nom-du-theme-parent]-child`
    - Exemple : `astra-child`, `generatepress-child`
 
-## Etape 2 : Creer le fichier style.css
+## Étape 2 : Creer le fichier style.css
 
 Dans ton nouveau dossier, cree un fichier `style.css` avec ce contenu :
 
@@ -64,11 +64,11 @@ Dans ton nouveau dossier, cree un fichier `style.css` avec ce contenu :
 
 **Important** : la ligne `Template` doit contenir le nom exact du dossier du theme parent (en minuscules). Pas le nom affiche, le nom du dossier. Si ton theme parent est dans `/themes/astra/`, mets `Template: astra`.
 
-Tu peux ensuite ajouter ton CSS personnalise directement dans ce fichier, apres le commentaire d'en-tete.
+Tu peux ensuite ajouter ton CSS personnalise directement dans ce fichier, après le commentaire d'en-tete.
 
-## Etape 3 : Creer le fichier functions.php
+## Étape 3 : Creer le fichier functions.php
 
-Dans le meme dossier, cree un fichier `functions.php` :
+Dans le même dossier, cree un fichier `functions.php` :
 
 ```php
 <?php
@@ -91,22 +91,22 @@ Ce code fait 2 choses :
 1. Il charge d'abord le style du theme parent
 2. Puis il charge le style du theme enfant par-dessus (pour que tes modifications prennent le dessus)
 
-**Attention** : ne mets jamais de balise de fermeture `?>` a la fin de ton `functions.php`. Ca evite les erreurs "headers already sent".
+**Attention** : ne mets jamais de balise de fermeture `?>` à la fin de ton `functions.php`. Ca evite les erreurs "headers already sent".
 
-## Etape 4 : Activer le theme enfant
+## Étape 4 : Activer le theme enfant
 
 1. Va dans **Apparence > Themes** dans ton tableau de bord WordPress
 2. Tu devrais voir ton theme enfant dans la liste
 3. Clique sur **Activer**
 4. Verifie que ton site s'affiche correctement
 
-Si le site parait "casse" apres activation, c'est probablement que la ligne `Template` dans `style.css` ne correspond pas au bon dossier parent.
+Si le site parait "casse" après activation, c'est probablement que la ligne `Template` dans `style.css` ne correspond pas au bon dossier parent.
 
 ## Aller plus loin : surcharger des templates
 
 Pour modifier un template specifique du theme parent :
 
-1. Copie le fichier depuis le dossier du theme parent vers le theme enfant en gardant la meme structure
+1. Copie le fichier depuis le dossier du theme parent vers le theme enfant en gardant la même structure
 2. Modifie la copie dans le theme enfant
 
 Exemple : tu veux modifier le header.
@@ -114,7 +114,7 @@ Exemple : tu veux modifier le header.
 - Modifie la version dans le theme enfant
 - WordPress utilisera automatiquement ta version
 
-Pour WooCommerce, meme logique :
+Pour WooCommerce, même logique :
 - Copie `/plugins/woocommerce/templates/single-product.php` vers `/themes/astra-child/woocommerce/single-product.php`
 
 ## Ajouter des fonctionnalites dans functions.php
@@ -139,7 +139,7 @@ Si la ligne de commande te fait peur, le plugin **Child Theme Configurator** fai
 
 1. Installe et active le plugin
 2. Va dans **Outils > Child Themes**
-3. Selectionne ton theme parent
+3. Sélectionne ton theme parent
 4. Clique sur **Analyser** puis **Creer le theme enfant**
 5. Active-le
 
@@ -149,9 +149,9 @@ Le plugin s'assure que tout est correctement configure, y compris l'enqueue des 
 
 - **Oublier la ligne Template** dans style.css : le theme enfant ne sera pas reconnu
 - **Mettre le mauvais nom de dossier** dans Template : vise le nom du dossier, pas le nom affiche
-- **Copier tout le theme parent** dans le theme enfant : ca n'a aucun interet et ca cree des problemes de maintenance
+- **Copier tout le theme parent** dans le theme enfant : ca n'a aucun intérêt et ca cree des problèmes de maintenance
 - **Modifier le functions.php du theme parent** : tout sera perdu a la mise a jour
-- **Oublier de re-configurer le Customizer** : certains reglages du Customizer sont lies au theme actif. Apres activation du theme enfant, verifie tes menus, widgets et options.
+- **Oublier de re-configurer le Customizer** : certains reglages du Customizer sont lies au theme actif. Après activation du theme enfant, verifie tes menus, widgets et options.
 
 ## Astuces
 

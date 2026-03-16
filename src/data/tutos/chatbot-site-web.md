@@ -23,7 +23,7 @@ Dans un monde ultra-connecté, le chatbot est indispensable à toute marque qui 
   
 Marketing is getting innovative and so is Chatbot Marketing.
 
-Here are the top Chatbot Marketing benefits for your business, are you already doing the following strategies, let us know.
+Here are the top Chatbot Marketing benefits for your business, are you already doing the following stratégies, let us know.
 
 **Save time and money**
 
@@ -43,7 +43,7 @@ In case people need more information, the chatbot should give all the necessary 
 
 **Provide a quick response** 
 
-An instant reply enables users to solve their problems fast and results in a positive user experience for your clients.
+An instant reply enables users to solve their problems fast and results in a positive user expérience for your clients.
 
 If performed correctly, the chatbot will improve your brand image and grow the feeling of trust associated with your company.
 

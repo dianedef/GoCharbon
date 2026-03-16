@@ -241,7 +241,7 @@ L’UX d’une page d’un site web concerne son ergonomie navigationelle : est-
 
 ### L’optimisation du temps de chargement
 
-[](https://dokey.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F1ix5v3um%2Fproduction%2Ff0d6678d836f6b4a773518fdc0716f43437c0c6b-957x609.png&w=3840&q=75)[https://dokey.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F1ix5v3um%2Fproduction%2Ff0d6678d836f6b4a773518fdc0716f43437c0c6b-957x609.png&w=3840&q=75](https://dokey.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F1ix5v3um%2Fproduction%2Ff0d6678d836f6b4a773518fdc0716f43437c0c6b-957x609.png&w=3840&q=75)
+[](https://dokey.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F1ix5v3um%2Fproduction%2Ff0d6678d836f6b4a773518fdc0716f43437c0c6b-957x609.png&w=3840&q=75)[https://dokey.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F1ix5v3um%2Fproduction%2Ff0d6678d836f6b4a773518fdc0716f43437c0c6b-957x609.png&w=3840&q=75](__MASK_12__)
 
 200 millisecondes, soit 2 secondes : c’est le temps de chargement maximum alloué à une page web. Le serveur, les contraintes techniques du site, mais aussi son contenu, déterminent le **temps de chargement** d’une page. Il faut sans cesse vérifier le temps de latence des pages d’un site afin de réduire les médias ou si possible refactoriser les pages trop lourdes à charger. Mieux vaut se passer d’une page de contenu que de la voir ralentir les performances du site.
 

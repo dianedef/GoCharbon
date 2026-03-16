@@ -22,7 +22,7 @@ imgUrl: ../../../../assets/astro.jpeg
 - [06:50](https://www.youtube.com/watch?v=P8accXNcwjs&t=410s) 💬 Switch to Mattermost, an open-source Slack/Microsoft Teams alternative, for self-hosted chat, file sharing, screen sharing, and integrations with developer tools.
 - [08:12](https://www.youtube.com/watch?v=P8accXNcwjs&t=492s) 📌 Replace Trello with Focalboard, an open-source project management tool offering templates, real-time collaboration, and unlimited boards.
 - [10:46](https://www.youtube.com/watch?v=P8accXNcwjs&t=646s) 💻 Opt for VSCodium as an open-source alternative to Visual Studio Code, removing tracking and telemetry while maintaining compatibility and features.
-- [12:04](https://www.youtube.com/watch?v=P8accXNcwjs&t=724s) 📂 Use Nextcloud as an open-source replacement for Office 365 or Google Workspace, providing file storage, collaboration, chat, video calls, and modularity.
+- [12:04](https://www.youtube.com/watch?v=P8accXNcwjs&t=724s) 📂 Use Nextcloud as an open-source replacement for Office 365 or Google Workspace, providing file storage, collaboration, chat, vidéo calls, and modularity.
 
 [(626) The End of Redis and Open Source? - YouTube](https://www.youtube.com/watch?v=TbiDBuGXFlg)
 attention à l'open source : [Comment la pire faille de Linux a été trouvé par pure chance ? - YouTube](https://www.youtube.com/watch?v=Q5a92asc7hM)
@@ -123,7 +123,7 @@ https://docs.elest.io/link/239#bkmrk-production-support-p
 Production Support plans offer a guaranteed response within 1 business day, highest priority queueing for support tickets, a dedicated customer success manager, and phone and email support.
 
 Can I install more than one software on the same VM?
-Our dedicated services are running in complete isolation, so one service equals one VM. Using our CI/CD system, you can install multiple software's on a single VM.
+Our dedicated services are running in complète isolation, so one service equals one VM. Using our CI/CD system, you can install multiple software's on a single VM.
 
 
 Can I migrate/clone my service to another cloud or region?
@@ -303,7 +303,7 @@ If you want to get your own insights, you can [join our workshop](https://share.
 [Common Crawl - Open Repository of Web Crawl Data](https://commoncrawl.org/)
 [Dub.co - Link Management for Modern Marketing Teams](https://dub.co/)
 [Fetching Title#ruzl](https://ai-flow.net/)
-- ✨ Version 0.6.0 is out: Now capable of generating Video, Audio & More
+- ✨ Version 0.6.0 is out: Now capable of generating Vidéo, Audio & More
 - 🎉 Free Trial Available!
 - Easily connect leading AI models like LLaMa 2, GPT-3.5, Mistral, ControlNet
 - Create custom AI tools with drag-and-drop interface
@@ -482,7 +482,7 @@ Kdenlive a été soigneusement conçu pour être accessible à tous, des débuta
 
 Kdenlive offre la possibilité d'utiliser et d'organiser plusieurs pistes audio et vidéo, chacune pouvant être verrouillée ou coupée selon vos préférences.
 
-### Prise en Charge de Tous les Formats Audio/Video
+### Prise en Charge de Tous les Formats Audio/Vidéo
 
 Grâce aux bibliothèques FFmpeg, Kdenlive peut manipuler une variété de formats audio et vidéo sans nécessiter de conversion préalable.
 
@@ -603,7 +603,7 @@ Avec Apify, simplifie ta collecte de données et automatisation web. Des experts
 
 ## Unveiling Fluent Reader: A Modern Desktop RSS Reader
 
-In the ever-evolving landscape of news consumption, Fluent Reader emerges as a local, cross-platform RSS reader, bringing a fresh and appealing look to the table. As an open-source application, it stands out as a versatile news aggregator, designed to provide a distraction-free reading experience.
+In the ever-evolving landscape of news consumption, Fluent Reader emerges as a local, cross-platform RSS reader, bringing a fresh and appealing look to the table. As an open-source application, it stands out as a versatile news aggregator, designed to provide a distraction-free reading expérience.
 
 ### Open & Organized: Syncing and Organization Made Seamless
 
@@ -611,7 +611,7 @@ Fluent Reader excels in its ability to keep users in sync with popular services 
 
 ## Reading Fluently: Tailored Article Views for Maximum Focus
 
-One of Fluent Reader's standout features is its built-in article view for RSS full text, meticulously crafted to maximize focus and eliminate distractions. Whether the source provides only snippets or full content, Fluent Reader offers flexibility. Users can configure the application to load full content using Mercury Parser, open the webpage within the app, or opt for external viewing by default. This adaptability ensures a personalized and efficient reading experience.
+One of Fluent Reader's standout features is its built-in article view for RSS full text, meticulously crafted to maximize focus and eliminate distractions. Whether the source provides only snippets or full content, Fluent Reader offers flexibility. Users can configure the application to load full content using Mercury Parser, open the webpage within the app, or opt for external viewing by default. This adaptability ensures a personalized and efficient reading expérience.
 
 ### Search. Filter. Navigate.
 
@@ -625,7 +625,7 @@ A notable aspect of Fluent Reader is its unwavering commitment to user privacy. 
 
 For those who prefer a darker aesthetic, Fluent Reader delivers with full system-level dark mode support for both the user interface and reading mode. This not only caters to personal preferences but also contributes to reducing eye strain during extended reading sessions.
 
-In conclusion, Fluent Reader stands out as a modern and feature-rich RSS reader that not only keeps users organized but also prioritizes their privacy. Its blend of powerful features, user-friendly interface, and commitment to data security positions it as a compelling choice for individuals seeking a seamless and personalized news reading experience. Whether you are a news enthusiast or someone who values privacy in the digital age, Fluent Reader warrants exploration.
+In conclusion, Fluent Reader stands out as a modern and feature-rich RSS reader that not only keeps users organized but also prioritizes their privacy. Its blend of powerful features, user-friendly interface, and commitment to data security positions it as a compelling choice for individuals seeking a seamless and personalized news reading expérience. Whether you are a news enthusiast or someone who values privacy in the digital age, Fluent Reader warrants exploration.
 
 [Download Fluent Reader from GitHub](https://github.com/yang991178/fluent-reader)
 # Découvrez Bitnami : Applications packagées pour toutes les plateformes - Cloud, Conteneur, Machine Virtuelle
@@ -767,26 +767,26 @@ La plateforme de collaboration pour les organisations traitant des données sens
 Explorez Rocket.Chat, testez ses fonctionnalités, et découvrez une nouvelle dimension de la communication d'équipe et de la confidentialité des données.
 
 
-[erxes Inc | Experience Operating System(XOS)](https://erxes.io/?ref=producthunt)
-# Unleashing the Power of erxes: An Overview of the Experience Operating System (XOS)
+[erxes Inc | Expérience Operating System(XOS)](https://erxes.io/?ref=producthunt)
+# Unleashing the Power of erxes: An Overview of the Expérience Operating System (XOS)
 
-Erxes Inc introduces a revolutionary concept in business management with its Experience Operating System (XOS). This comprehensive system is designed to empower businesses of all sizes to excel in creating exceptional experiences for both direct and indirect stakeholders.
+Erxes Inc introduces a revolutionary concept in business management with its Expérience Operating System (XOS). This comprehensive system is designed to empower businesses of all sizes to excel in creating exceptional experiences for both direct and indirect stakeholders.
 
-## Building Your Own Experience: erxes XOS in Action
+## Building Your Own Expérience: erxes XOS in Action
 
-Erxes offers a unified infrastructure for Experience Management (XM) through its plugin-based omni-channel platform. This transforms the way businesses manage experiences by delivering personalized interactions tailored to the unique needs of each enterprise.
+Erxes offers a unified infrastructure for Expérience Management (XM) through its plugin-based omni-channel platform. This transforms the way businesses manage experiences by delivering personalized interactions tailored to the unique needs of each enterprise.
 
-### Transforming Experience Management
+### Transforming Expérience Management
 
-Erxes XOS stands out as a single yet complete platform, bringing together customer service, marketing, sales, and human resources into an all-in-one, cost-effective solution. This versatile system caters to various business types, including SaaS, B2B sales, employee engagement, and frontline customer relationship management.
+Erxes XOS stands out as a single yet complète platform, bringing together customer service, marketing, sales, and human resources into an all-in-one, cost-effective solution. This versatile system caters to various business types, including SaaS, B2B sales, employee engagement, and frontline customer relationship management.
 
 ### Omnichannel Messaging for Efficient Communication
 
-Erxes integrates all communication channels into a single platform, providing efficient customer support. This ensures a seamless experience for both businesses and their clients, enhancing communication and streamlining operations.
+Erxes integrates all communication channels into a single platform, providing efficient customer support. This ensures a seamless expérience for both businesses and their clients, enhancing communication and streamlining operations.
 
-### Data-Driven Decision-Making
+### Data-Driven Décision-Making
 
-Erxes empowers businesses with comprehensive customer data tools, allowing users to view, segment, and filter customer information. This data-driven approach enables targeted marketing strategies and efficient customer relationship management.
+Erxes empowers businesses with comprehensive customer data tools, allowing users to view, segment, and filter customer information. This data-driven approach enables targeted marketing stratégies and efficient customer relationship management.
 
 ### Team Efficiency and Productivity
 
@@ -806,7 +806,7 @@ The plugin-based architecture of erxes allows unlimited customization, enabling 
 
 ### Privacy and Control
 
-Erxes places paramount importance on privacy, offering a platform that provides complete control over sensitive company data. With no third-party monitoring, businesses can trust erxes to safeguard their information.
+Erxes places paramount importance on privacy, offering a platform that provides complète control over sensitive company data. With no third-party monitoring, businesses can trust erxes to safeguard their information.
 
 ### Empowering the Developer Community
 
@@ -880,26 +880,26 @@ Il est aussi possible de choisir une combinaison entre ces deux formes d’hébe
 - **OS:** Windows
 - **Price:** Free and Open source
 
-There are tons of impressive screen recorders available on the market, while most of them are paid programs that would have watermark or restricted length on output videos. CamStudio is another free and open-source screen recorder that allows users to capture screen, speaker sound, system sound, webcam or other things happening on your desktop.
+There are tons of impressive screen recorders available on the market, while most of them are paid programs that would have watermark or restricted length on output vidéos. CamStudio is another free and open-source screen recorder that allows users to capture screen, speaker sound, system sound, webcam or other things happening on your desktop.
 
-If you would not satisfy these basic features, CamStudio comes with more surprising elements that make you "wow". The first is that CamStudio can create super clean videos by enabling the lossless codecs such as Cinepak Codec by Radius, Intel IYUV codec, Microsoft Video 1 and more. Let say you need a clean demonstration video for burning onto DVD CamStudio, you can push video quality to its maximum. However, you have to be very careful when increasing video quality. If it is too high, it might create a choppy video.
+If you would not satisfy these basic features, CamStudio comes with more surprising elements that make you "wow". The first is that CamStudio can create super clean vidéos by enabling the lossless codecs such as Cinepak Codec by Radius, Intel IYUV codec, Microsoft Vidéo 1 and more. Let say you need a clean demonstration vidéo for burning onto DVD CamStudio, you can push vidéo quality to its maximum. However, you have to be very careful when increasing vidéo quality. If it is too high, it might create a choppy vidéo.
 
 Second, it offers three different recording formats options: MP4, AVI and SWF. It's better to to choose MP4 that is used internationally as recording format unless you have a particular purpose.
 
-It's fair to say that CamStudio works so well on screen recording as a open source screen recorder. Unfortunately, it does not come with any video editing feature, so you have to turn to third party application for further editing. And what's worth remembering is that if you need any help about this software, go to CamStudio Support Forum.
+It's fair to say that CamStudio works so well on screen recording as a open source screen recorder. Unfortunately, it does not come with any vidéo editing feature, so you have to turn to third party application for further editing. And what's worth remembering is that if you need any help about this software, go to CamStudio Support Forum.
 
 ### How to Use CamStudio
 
-**Step 1.** Download this freeware by going to CamStudio and install it following the screen instruction. Once the installation has been complete, then launch CamStudio. And you'll see a collection of menus and options on the top of window.
+**Step 1.** Download this freeware by going to CamStudio and install it following the screen instruction. Once the installation has been complète, then launch CamStudio. And you'll see a collection of menus and options on the top of window.
 
-**Step 2.** Next, you need to configure the recording settings. To select a lossless video codec, navigate to Options and click on Video Options in the list. It is a good option to go for Microsoft Video 1 with default quality. For container format, move to the orange gear on the screen, and select MP4 format.
+**Step 2.** Next, you need to configure the recording settings. To select a lossless vidéo codec, navigate to Options and click on Vidéo Options in the list. It is a good option to go for Microsoft Vidéo 1 with default quality. For container format, move to the orange gear on the screen, and select MP4 format.
 
 
 Camstudio configure the recording settings
 
-**Step 3.** Enable audio and webcam. If you are making a demonstration video being more interactive, you can add your narration and a webcam. To record microphone sound, go to Options and select Record Audio from microphone.
+**Step 3.** Enable audio and webcam. If you are making a demonstration vidéo being more interactive, you can add your narration and a webcam. To record microphone sound, go to Options and select Record Audio from microphone.
 
-Then, add facecam to recording by going to Tools and select Video annotations. And a facecam window pops up, then you can move the window whatever section of the screen.
+Then, add facecam to recording by going to Tools and select Vidéo annotations. And a facecam window pops up, then you can move the window whatever section of the screen.
 
 
 Enable audio and webcam in Camstudio
@@ -923,9 +923,9 @@ Open Broadcaster Software, also known as OBS, is a cross-platform and open sourc
 
 However, the recording operation and system configuration is not as straightforward and friendly as it could be.
 
-OBS is not purely a computer recording software. It is also a video switcher and video encoder. OBS supports a range of container formats as FLV, MP4, MOV, MKV, TS, and M3U8. You can convert any video to MP4 with its built-in [video converter program](https://www.videoproc.com/media-converter/best-video-converter.htm) (Navigate to File > Remux Recodings). For video encoding, OBS enables x264 software, Quicksync, AMF and NVENC to encode recordings into the H.264 and the H.265 formats, which is a graphics technology to offload CPU. However, video streams that are encoded by GPU always have quality loss at image, compared to x264 encoder.
+OBS is not purely a computer recording software. It is also a vidéo switcher and vidéo encoder. OBS supports a range of container formats as FLV, MP4, MOV, MKV, TS, and M3U8. You can convert any vidéo to MP4 with its built-in [vidéo converter program](https://www.videoproc.com/media-converter/best-video-converter.htm) (Navigate to File > Remux Recodings). For vidéo encoding, OBS enables x264 software, Quicksync, AMF and NVENC to encode recordings into the H.264 and the H.265 formats, which is a graphics technology to offload CPU. However, vidéo streams that are encoded by GPU always have quality loss at image, compared to x264 encoder.
 
-And it's worth remembering that OBS does not come with any video editing tools, which might be prohibitive to some users.
+And it's worth remembering that OBS does not come with any vidéo editing tools, which might be prohibitive to some users.
 
 ### How to Use OBS
 
@@ -962,7 +962,7 @@ Copy the stream key to OBS
 - **OS:** Windows
 - **Price:** Free and open source
 
-The next one is ShareX. It is a free and open source screen recorder helping people capture videos, screenshot, GIF, text, etc. efficiently and easily on Windows.
+The next one is ShareX. It is a free and open source screen recorder helping people capture vidéos, screenshot, GIF, text, etc. efficiently and easily on Windows.
 
 The interface seems a little complicated as it packs with lots of little icons. You might be thinking that there is another program to learn. But trust me and don't switch it off. You can create screencasts with ease as long as you copy the way I configure the ShareX system.
 
@@ -982,7 +982,7 @@ Set shortcuts in ShareX
 
 After capture tasks in ShareX
 
-**Step 3.** To record a clean video, you have to set a proper encoding settings. H.264/x264@AAC is the most general and efficient video profile. If you are using an old computer that will get overload easily when open multiple tasks, take hardware encoders into consideration.
+**Step 3.** To record a clean vidéo, you have to set a proper encoding settings. H.264/x264@AAC is the most general and efficient vidéo profile. If you are using an old computer that will get overload easily when open multiple tasks, take hardware encoders into consideration.
 
 The frame rate of recording is set at 30 by default. If you want a smoother screencast, push it higher.
 
@@ -1049,7 +1049,7 @@ Moodle is a free and open-source learning management system (LMS) used by educat
 
 Meet BigBlueButton!
 
-BigBlueButton is a free and open source web conferencing system for online learning. It is designed for distance education, webinars, lectures, and office hours. It provides real-time sharing of audio, video, slides, whiteboard, chat, and other collaboration tools. BigBlueButton can be used to host synchronous classes, workshops, and meetings with up to 1000 participants. It is compatible with a wide range of operating systems, web browsers, and mobile devices, and is available in many languages. It supports breakout rooms, polls, and recordings for review after the session. BigBlueButton is developed and maintained by Blindside Networks, a Canadian company focused on open source web conferencing.
+BigBlueButton is a free and open source web conferencing system for online learning. It is designed for distance education, webinars, lectures, and office hours. It provides real-time sharing of audio, vidéo, slides, whiteboard, chat, and other collaboration tools. BigBlueButton can be used to host synchronous classes, workshops, and meetings with up to 1000 participants. It is compatible with a wide range of operating systems, web browsers, and mobile devices, and is available in many languages. It supports breakout rooms, polls, and recordings for review after the session. BigBlueButton is developed and maintained by Blindside Networks, a Canadian company focused on open source web conferencing.
 
 [BigBlueButton | Open Source Virtual Classroom Software](https://bigbluebutton.org/?fbclid=IwAR2bmA-z5gQi0-S3DE398lhSWhIA-Rd_slgZ7CH69twLOdjipr1eL740RBQ)
 
@@ -1067,11 +1067,11 @@ Meet Trudesk! Trudesk is an open source help desk and ticketing software designe
 
 [KeePass - Prix, tarif, abonnement et avis | GetApp France 2023](https://www.getapp.fr/software/2063506/keepass)
 
-[https://plausible.io/](https://plausible.io/)
+[https://plausible.io/](__MASK_105__)
 
-[https://wordpress.org/plugins/matomo/](https://wordpress.org/plugins/matomo/)
+[https://wordpress.org/plugins/matomo/](__MASK_106__)
 
-[https://responsively.app/](https://responsively.app/)
+[https://responsively.app/](__MASK_107__)
 
 plausible
 
@@ -1085,9 +1085,9 @@ odoo
 
 [PerfOps, une suite de plugins WordPress gratuits et open source dédiés à l’observabilité et à la performance des opérations. – 21douze](https://21douze.fr/perfops-une-suite-de-plugins-wordpress-gratuits-et-open-source-dedies-a-lobservabilite-et-a-la-performance-des-operations-482065.html)
 
-[https://www.journaldunet.fr/web-tech/guide-de-l-entreprise-digitale/1443862-mattermost-gratuit-tout-savoir-sur-le-slack-open-source/](https://www.journaldunet.fr/web-tech/guide-de-l-entreprise-digitale/1443862-mattermost-gratuit-tout-savoir-sur-le-slack-open-source/)
+[https://www.journaldunet.fr/web-tech/guide-de-l-entreprise-digitale/1443862-mattermost-gratuit-tout-savoir-sur-le-slack-open-source/](__MASK_110__)
 
-[https://outilstice.com/2021/03/7-applications-libres-pour-editer-fichiers-son/](https://outilstice.com/2021/03/7-applications-libres-pour-editer-fichiers-son/)
+[https://outilstice.com/2021/03/7-applications-libres-pour-editer-fichiers-son/](__MASK_111__)
 
 rows ?
 
@@ -1109,7 +1109,7 @@ Medusa
 
 ## **Scrapy:**
 
-[https://media.licdn.com/dms/image/C5612AQFsNotTs-jQhw/article-inline_image-shrink_1500_2232/0/1627990334743?e=1679529600&v=beta&t=DvbjanUxNBRNfCpHZU3REGIRRW2NtxF7Hz90t6n2Jv0](https://media.licdn.com/dms/image/C5612AQFsNotTs-jQhw/article-inline_image-shrink_1500_2232/0/1627990334743?e=1679529600&v=beta&t=DvbjanUxNBRNfCpHZU3REGIRRW2NtxF7Hz90t6n2Jv0)
+[https://media.licdn.com/dms/image/C5612AQFsNotTs-jQhw/article-inline_image-shrink_1500_2232/0/1627990334743?e=1679529600&v=beta&t=DvbjanUxNBRNfCpHZU3REGIRRW2NtxF7Hz90t6n2Jv0](__MASK_115__)
 
 > Scrapy is a popular open-source Web Scraping Library for developed as incredible and powerful Web Scrapping tools that handle all of the plumbing (requests, proxy middleware).
 
@@ -1123,8 +1123,8 @@ Medusa
 
 ### · Available middleware modules help to integrate multiple tools and usages ( handling, cookies, user agents ).
 
-text ia et analytics [https://youtu.be/Ms2IWBI0I0Q?t=3573](https://youtu.be/Ms2IWBI0I0Q?t=3573) sur content gorilla
+text ia et analytics [https://youtu.be/Ms2IWBI0I0Q?t=3573](__MASK_116__) sur content gorilla
 
-[https://www.prestashop.com/fr](https://www.prestashop.com/fr)
+[https://www.prestashop.com/fr](__MASK_117__)
 
 [Lago · GitHub](https://github.com/getlago)

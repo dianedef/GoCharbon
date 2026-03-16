@@ -16,21 +16,21 @@ imgUrl: ../../assets/astro.jpeg
 
 Perdre ses fichiers, c'est perdre son business. Un disque dur qui lache, un ransomware, un cafe renverse sur le laptop... ca arrive plus souvent qu'on croit. Et quand ca arrive sans sauvegarde, c'est la catastrophe.
 
-Voici comment mettre en place un systeme de stockage, sauvegarde et partage solide pour ton activite.
+Voici comment mettre en place un système de stockage, sauvegarde et partage solide pour ton activite.
 
-## La regle 3-2-1 : la base de toute strategie de sauvegarde
+## La règle 3-2-1 : la base de toute stratégie de sauvegarde
 
-La regle est simple et elle a fait ses preuves :
+La règle est simple et elle a fait ses preuves :
 
 - **3 copies** de chaque fichier important
-- **2 supports differents** (disque dur + cloud, NAS + cle USB...)
+- **2 supports differents** (disque dur + cloud, NAS + clé USB...)
 - **1 copie hors site** (dans le cloud ou chez un tiers)
 
-Si tu appliques cette regle, tu es protege contre quasiment tous les scenarios de perte de donnees.
+Si tu appliques cette règle, tu es protege contre quasiment tous les scenarios de perte de donnees.
 
 ## Les solutions de stockage cloud
 
-### pCloud (le meilleur rapport qualite/prix)
+### pCloud (le meilleur rapport qualité/prix)
 
 pCloud ([pcloud.com](https://www.pcloud.com)) est un service suisse de stockage cloud fonde en 2013, connu pour ses offres a vie (paiement unique, pas d'abonnement).
 
@@ -51,7 +51,7 @@ pCloud ([pcloud.com](https://www.pcloud.com)) est un service suisse de stockage 
 
 ### Google Drive / Google Workspace
 
-Si tu utilises deja Gmail, Google Drive est integre nativement.
+Si tu utilises déjà Gmail, Google Drive est integre nativement.
 
 - **Stockage gratuit** : 15 Go (partages entre Gmail, Drive et Photos)
 - **Google One** (particulier) : 100 Go a 1,99 EUR/mois, 200 Go a 2,99 EUR/mois, 2 To a 9,99 EUR/mois
@@ -59,22 +59,22 @@ Si tu utilises deja Gmail, Google Drive est integre nativement.
 - **Collaboration** : edition en temps reel sur Docs, Sheets, Slides avec Gemini AI integre
 - **Partage** : par email, par lien, avec gestion fine des permissions
 
-**Ideal pour** : equipes qui collaborent sur des documents.
+**Ideal pour** : équipes qui collaborent sur des documents.
 
 ### Dropbox
 
 Le pionnier du stockage cloud, fonde en 2007.
 
 - **Stockage** : 2 Go gratuit, 2 To (Plus) a partir de 11,99 EUR/mois, 3 To (Professional) a partir de 22 EUR/mois
-- **Dropbox Business** : a partir de 15 EUR/mois/utilisateur (3 To), Business Plus a 24 EUR/mois (illimite selon equipe)
+- **Dropbox Business** : a partir de 15 EUR/mois/utilisateur (3 To), Business Plus a 24 EUR/mois (illimite selon équipe)
 - **Points forts** : synchronisation ultra-rapide (smart sync pour economiser l'espace disque), historique des versions (30 jours sur Plus, 180 jours sur Professional), integration avec des centaines d'apps, Dropbox Paper pour la collaboration
 - **Partage** : Dropbox Transfer pour envoyer des gros fichiers (jusqu'a 100 Go sur Professional)
 
-**Ideal pour** : freelances et petites equipes avec beaucoup de fichiers a synchroniser.
+**Ideal pour** : freelances et petites équipes avec beaucoup de fichiers a synchroniser.
 
 ### OneDrive (Microsoft)
 
-Si tu es dans l'ecosysteme Microsoft :
+Si tu es dans l'écosystème Microsoft :
 
 - **Stockage** : 5 Go gratuit, 1 To avec Microsoft 365 (99 EUR/an, inclut Office)
 - **Integration** : parfaite avec Word, Excel, PowerPoint, Teams
@@ -84,7 +84,7 @@ Si tu es dans l'ecosysteme Microsoft :
 
 ## Le NAS : ta sauvegarde locale pro
 
-Un NAS (Network Attached Storage), c'est un mini-serveur de stockage que tu branches sur ton reseau local. Tu gardes le controle total de tes donnees.
+Un NAS (Network Attached Storage), c'est un mini-serveur de stockage que tu branches sur ton réseau local. Tu gardes le contrôle total de tes donnees.
 
 ### Synology (la reference)
 
@@ -102,7 +102,7 @@ Synology est le leader des NAS pour PME et particuliers.
 3. **Hyper Backup configure** : sauvegarde du NAS vers le cloud (ta copie hors site)
 4. **Snapshots actives** : pour recuperer des versions anterieures de tes fichiers
 
-## Mettre en place ta strategie de sauvegarde
+## Mettre en place ta stratégie de sauvegarde
 
 ### Scenario 1 : Entrepreneur solo
 
@@ -110,15 +110,15 @@ Synology est le leader des NAS pour PME et particuliers.
 2. **Sauvegarde locale** : disque dur externe USB de 2 To, branche 1 fois par semaine
 3. **Sauvegarde automatique** : active la synchronisation pCloud sur ton dossier de travail
 
-**Cout** : ~400 EUR une fois (pCloud + disque dur). Zero abonnement.
+**Coût** : ~400 EUR une fois (pCloud + disque dur). Zero abonnement.
 
-### Scenario 2 : Petite equipe (2-10 personnes)
+### Scenario 2 : Petite équipe (2-10 personnes)
 
 1. **Stockage collaboratif** : Google Workspace (12 EUR/mois/personne pour 2 To)
 2. **Sauvegarde locale** : NAS Synology DS220+ avec 2 disques de 4 To en RAID 1
 3. **Sauvegarde cloud** : Hyper Backup du NAS vers Google Cloud ou Amazon S3
 
-**Cout** : ~120 EUR/mois pour une equipe de 10 + ~500 EUR une fois pour le NAS.
+**Coût** : ~120 EUR/mois pour une équipe de 10 + ~500 EUR une fois pour le NAS.
 
 ### Scenario 3 : Activite avec donnees sensibles
 
@@ -153,4 +153,4 @@ Email classique ou message Slack/Teams. Pas besoin de se compliquer.
 
 ## Ce qu'il faut retenir
 
-La regle 3-2-1, toujours. Un stockage cloud (pCloud ou Google Drive), un NAS ou disque dur local, et une sauvegarde hors site. Ca prend une apres-midi a configurer et ca te protege pour des annees. Le cout d'une perte de donnees est infiniment superieur au cout d'une bonne strategie de sauvegarde.
+La règle 3-2-1, toujours. Un stockage cloud (pCloud ou Google Drive), un NAS ou disque dur local, et une sauvegarde hors site. Ca prend une après-midi a configurer et ca te protege pour des années. Le coût d'une perte de donnees est infiniment superieur au coût d'une bonne stratégie de sauvegarde.

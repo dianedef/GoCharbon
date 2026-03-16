@@ -17,4 +17,4 @@ imgUrl: ../../../../assets/astro.jpeg
 
 [Avis clients : boostez vos ventes avec Avis Vérifiés !](https://www.avis-verifies.com/fr/)
 
-[Consumer Videos - Skeepers](https://skeepers.io/fr/solution-user-generated-video/)
+[Consumer Vidéos - Skeepers](https://skeepers.io/fr/solution-user-generated-video/)

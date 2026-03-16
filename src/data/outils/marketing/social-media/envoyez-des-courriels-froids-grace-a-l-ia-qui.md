@@ -80,7 +80,7 @@ I'd like to point out that technically, we probably aggregate **WAY more** lea
 - This problem is now fixed. Other sections have also been improved.
 ## You can now assign leads to team members (Virtual Assistants, Sales Reps & more).
 
-[Watch recap video](https://www.youtube.com/watch?v=2LbUoSuEn1s)
+[Watch recap vidéo](https://www.youtube.com/watch?v=2LbUoSuEn1s)
 
 ### 1°) Assign a lead to a team member
 
@@ -122,7 +122,7 @@ This system is useful for small or big teams in general but is also one of the f
 
 - **Contact Management (improved)**: everything looks better and it's easier to manage your leads
 - **Owner of a lead (new)**: you can auto-assign a lead to yourself or to a team member (eg. VA, SDR, BDR, etc)
-- **Add LinkedIn Company Lead (new)**: you can FINALLY add a company from LinkedIn (watch the video for full explanations and demo workflow)
+- **Add LinkedIn Company Lead (new)**: you can FINALLY add a company from LinkedIn (watch the vidéo for full explanations and demo workflow)
 - **Start the tracking of leads from the extension (new)**: you no longer have to wait to be inside Breakcold to track leads, track them straight away from the extension
 ###   
 1°) New Bulk System to edit leads
@@ -442,7 +442,7 @@ Accédez gratuitement à une liste actualisée en temps réel des meilleurs outi
 
 # **Screenshot :**
 
-[https://url2png.producthunt.com/v6/P5329C1FA0ECB6/b056f442ce4ee20afa6f7bc62f833f1f/png/?max_width=850&url=https%3A%2F%2Fwww.breakcold.com%2F](https://url2png.producthunt.com/v6/P5329C1FA0ECB6/b056f442ce4ee20afa6f7bc62f833f1f/png/?max_width=850&url=https%3A%2F%2Fwww.breakcold.com%2F)
+[https://url2png.producthunt.com/v6/P5329C1FA0ECB6/b056f442ce4ee20afa6f7bc62f833f1f/png/?max_width=850&url=https%3A%2F%2Fwww.breakcold.com%2F](__MASK_6__)
 
 # **Fondateur(s) de Breakcold**
 
@@ -671,7 +671,7 @@ Rédigez Votre Signature Email Avec Ou sans Modèle de Texte, Enregistrez le Mod
   
   
 
-### 3°) Vous pouvez aussi utiliser ce lien: [https://moncompte.google.com/apppasswords](https://myaccount.google.com/apppasswords)
+### 3°) Vous pouvez aussi utiliser ce lien: [https://moncompte.google.com/apppasswords](__MASK_11__)
 
 
 # Comment configurer le suivi de domaine personnalisé
@@ -841,7 +841,7 @@ maintenant ajouter des notes, répondre aux notes dans un fil de discussion et �
 
 Si tu es technophile, tu peux maintenant jouer avec les webhooks (et aussi l'API depuis 2 mois) :
 
-* regarde cette vidéo pour une présentation complète : [https://www.youtube.com/watch?v=aw544iFGJPk](https://www.youtube.com/watch?v=aw544iFGJPk)
+* regarde cette vidéo pour une présentation complète : [https://www.youtube.com/watch?v=aw544iFGJPk](__MASK_15__)
 
 
 

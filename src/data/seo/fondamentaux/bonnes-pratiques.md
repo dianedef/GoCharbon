@@ -16,7 +16,7 @@ imgUrl: ../../../assets/astro.jpeg
 ## Évolutions Majeures en 2024
 - Intelligence artificielle et SEO
 - Importance croissante de l'E-A-T-E
-- SGE (Search Generative Experience)
+- SGE (Search Generative Expérience)
 - Recherche multimodale
 - Focus sur l'intention utilisateur
 

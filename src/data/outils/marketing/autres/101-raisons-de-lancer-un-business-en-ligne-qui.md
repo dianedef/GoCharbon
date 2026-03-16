@@ -33,7 +33,7 @@ Disappointed by the [giant swings in pricing of hospital procedures](https://c
 
 **Grosso modo, ce mec balançait de la peinture en mode dégueu sur une toile ...**
 
-[https://ci5.googleusercontent.com/proxy/tPXffR6G641Vl-GOcc8Q_DYrjxGr7YoIvcTmRyND8Sqo6qjnjZg3nb2FP3Z86X4_-KBBwzyHrKRXgcvzDsxBKXD7jcrxywJ-ZTc1s-lGhuUsVyH6feDP8UpaV-sdXdoPR5EG3s3faq3zr3lA0vbjKWKd2Ced23iOTdwwtjmBFA=s0-d-e1-ft#https://content.app-us1.com/QPO8j/2021/11/01/d57db937-7d16-4347-b149-570d63ab0a64.png?id=7611153?r=569072418](https://ci5.googleusercontent.com/proxy/tPXffR6G641Vl-GOcc8Q_DYrjxGr7YoIvcTmRyND8Sqo6qjnjZg3nb2FP3Z86X4_-KBBwzyHrKRXgcvzDsxBKXD7jcrxywJ-ZTc1s-lGhuUsVyH6feDP8UpaV-sdXdoPR5EG3s3faq3zr3lA0vbjKWKd2Ced23iOTdwwtjmBFA=s0-d-e1-ft#https://content.app-us1.com/QPO8j/2021/11/01/d57db937-7d16-4347-b149-570d63ab0a64.png?id=7611153?r=569072418)
+[https://ci5.googleusercontent.com/proxy/tPXffR6G641Vl-GOcc8Q_DYrjxGr7YoIvcTmRyND8Sqo6qjnjZg3nb2FP3Z86X4_-KBBwzyHrKRXgcvzDsxBKXD7jcrxywJ-ZTc1s-lGhuUsVyH6feDP8UpaV-sdXdoPR5EG3s3faq3zr3lA0vbjKWKd2Ced23iOTdwwtjmBFA=s0-d-e1-ft#https://content.app-us1.com/QPO8j/2021/11/01/d57db937-7d16-4347-b149-570d63ab0a64.png?id=7611153?r=569072418](__MASK_1__)
 
 **Un jour, il y a eu un test.**
 

@@ -142,11 +142,11 @@ Open ChatGPT and ask it to write the code for a WordPress plugin **_for you._**
 
 As an individual, ChatGPT has made me wildly productive. As an owner of a portfolio of websites, it got me thinking about **the inevitable decline in search demand and consumption of written content.** 
 
-When you can get to the complete picture in a minute, you have no reason to spend hours searching for it and trying to put the puzzle pieces together.
+When you can get to the complète picture in a minute, you have no reason to spend hours searching for it and trying to put the puzzle pieces together.
 
 How will Google respond to this? They’ve [announced Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), but remember: they have the incentive to keep people looking at the search results. They _earn_ through ads. 
 
-You’d think that YouTube is the new haven for content creators, but **YouTube has its own problems**. People flock to TikTok, where only the lucky few can monetize. People are less hungry for long-form video content, reducing the content creators’ ad earnings.
+You’d think that YouTube is the new haven for content creators, but **YouTube has its own problems**. People flock to TikTok, where only the lucky few can monetize. People are less hungry for long-form vidéo content, reducing the content creators’ ad earnings.
 
 We know that people will keep turning to their laptops and phones for information. And we know that advertisers will keep looking for ways to advertise. But what shape will the intersection of that take? 
 

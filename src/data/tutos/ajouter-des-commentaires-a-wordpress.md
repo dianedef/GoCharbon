@@ -43,7 +43,7 @@ Hyvor Talk landing page
 
 **Hyvor Talk** is a universal, privacy-focused, and feature-packed commenting platform. It comes with a dedicated WordPress plugin but can work on any website - including the ones powered by [Ghost](https://ghost.org/), like [this very blog](https://areknawo.com/)!
 
-As I’ve been using Hyvor on this blog for a while, I must admit - it’s really great! **Commenting experience** is excellent - go down and try for yourself! There are anonymous comments, reactions, or ratings - depending on what you like, rich text, Markdown, images, GIFs and emojis picker, search, threads, and so much more!
+As I’ve been using Hyvor on this blog for a while, I must admit - it’s really great! **Commenting expérience** is excellent - go down and try for yourself! There are anonymous comments, reactions, or ratings - depending on what you like, rich text, Markdown, images, GIFs and emojis picker, search, threads, and so much more!
 
 But that’s not where the good stuff ends. There’s a whole **management dashboard** to talk about! Although it’s nothing special among high-quality commenting systems, Hyvor Talk’s dashboard is really well designed. There are comment moderation tools, analytics, automatic filters, customization settings, etc. Pretty much everything you need to manage and customize your comment section to your needs.
 
@@ -56,7 +56,7 @@ ReplyBox landing page
 
 **ReplyBox** is fairly similar to Hyvor Talk, both in terms of functionality and goals. It’s a privacy-focused, minimalistic and lightweight comment system, established mainly as a Disqus competitor.
 
-With that said, ReplyBox lacks a bit behind Hyvor Talk in terms of features. Maybe it’s because of it being newer or more focused on **minimalism**, but ReplyBox doesn’t come with as rich commenting experience or management dashboard as Hyvor Talk does.
+With that said, ReplyBox lacks a bit behind Hyvor Talk in terms of features. Maybe it’s because of it being newer or more focused on **minimalism**, but ReplyBox doesn’t come with as rich commenting expérience or management dashboard as Hyvor Talk does.
 
 You’ll still have Markdown, social login, threads, notifications, and sorting, but not much beyond that. There are things like reaction listed as _“in development”_, but they aren’t available yet. There’s a dedicated WordPress plugin for installation, and for customization, you can adjust the CSS styles. Still, with fewer features comes a smaller bundle size and better speed - if you’re willing to make such a trade.
 

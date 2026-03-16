@@ -203,7 +203,7 @@ Ce dont tu as besoin, c’est de systèmes, de planification et de pouvoir mesur
 
 On le construit ensemble ? Ça te dit ?
 
-Tout est là 👉 [https://bh.marketing/news/jai-craque-le-code/](https://bh.marketing/news/jai-craque-le-code/)
+Tout est là 👉 [https://bh.marketing/news/jai-craque-le-code/](__MASK_7__)
 
 Avec ça tu peux caler n’importe quel objectif, définir le plan…et faire confiance au process.
 
@@ -664,7 +664,7 @@ Les phases de vie entrepreneuriale : Comment les différentes phases de vie peuv
 
 La flexibilité de l'identité : Comment l'identité professionnelle peut évoluer au fil du temps et s'adapter à vos objectifs et phases de vie.
 
-tu dois toujours etre en mouvement et bouger ca prend ça detre entrepreneur cest le cout
+tu dois toujours être en mouvement et bouger ca prend ça detre entrepreneur cest le coût
 
 Le fou, l'analyste, et le manoeuvre sont les trois rôles clés que vous devrez endosser sur le chemin de la réussite. 
 
@@ -840,9 +840,9 @@ Il est essentiel de briser les mythes entourant l'entrepreneuriat. La vraie esse
 
 2 / 4
 
-It seems that the transcript you provided contains a stream of spoken words with some timestamps and stage directions mixed in. To create a structured blog article in French as per your request, I'll need more context and a clear understanding of the content and the arguments being made in the video. It's also important to remove timestamps and stage directions.
+It seems that the transcript you provided contains a stream of spoken words with some timestamps and stage directions mixed in. To create a structured blog article in French as per your request, I'll need more context and a clear understanding of the content and the arguments being made in the vidéo. It's also important to remove timestamps and stage directions.
 
-Please provide a summary of the key points and arguments from the video. This will help me organize the content into paragraphs and sections with titles as you've requested.
+Please provide a summary of the key points and arguments from the vidéo. This will help me organize the content into paragraphs and sections with titles as you've requested.
 
 3 / 4
 
@@ -1188,7 +1188,7 @@ Sources : [« Tous entrepreneurs », un mythe à déconstruire](https://www.ma
 
 ## L'Exemple de Dyson : Persévérance et Innovation
 
-[Le fou, l'analyste et le manœuvre - Etre entrepreneur en 2021 - YouTube](https://youtu.be/U-HDKS42m6E?t=249)
+[Le fou, l'analyste et le manœuvre - Être entrepreneur en 2021 - YouTube](https://youtu.be/U-HDKS42m6E?t=249)
 
 L'histoire de Dyson et son aspirateur sans sac illustre la persévérance nécessaire pour transformer une idée folle en réalité.
 
@@ -1240,7 +1240,7 @@ Avant de vous lancer dans la création d'un groupe de responsabilité, il est es
 
 En suivant ces étapes et en maintenant une approche d'accountability, vous pouvez augmenter vos chances de succès et travailler de manière plus efficace vers l'atteinte de vos objectifs.
 
-## Bosser Pour les Autres : Etre OBM
+## Bosser Pour les Autres : Être OBM
 
 * De nombreux assistants virtuels pensent qu'ils ne sont pas encore prêts et remettent à plus tard des tâches importantes
 * Acquérir l'état d'esprit et les compétences que les PDG recherchent.
@@ -1634,7 +1634,7 @@ Fixe toi ton objectif, il doit être :
 
 -Temporellement défini 
 
-5)Priorise tes taches et activités  
+5)Priorise tes tâches et activités  
 
 L’objectif que tu as choisi est censé changer ta vie.  
 
@@ -1723,7 +1723,7 @@ Donc on a vu 9 points pour développer ton autodiscipline :
 2.Définis ce que tu veux  
 3.Trouve toi un/des mentor(s)  
 4.Sois S.M.A.R.T.  
-5.Priorise tes taches et activités  
+5.Priorise tes tâches et activités  
 6.Suis tes progrès 
 
 7.Oublie les excuses et les plaintes  

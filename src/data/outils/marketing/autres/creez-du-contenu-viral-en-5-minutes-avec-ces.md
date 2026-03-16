@@ -29,7 +29,7 @@ voir citation [A new Boost for top stories. Suggested by our community, confirme
 
 En 2000, personne ne parlait de marketing de contenu, à l'exception d'un homme : Joe Pulizzi, le fondateur du Content Marketing Institute, l'auteur d'Epic Content Marketing, et aussi le parrain du marketing de contenu.
 
-[https://wizrocketmail.net/r?e=K2Jqcx97CGN6YwB9DSZmewAJAQBiJCw1ICQsNQYAAw1nbmc3FxohLkFDWFs5BTEkODE7LnJwTQUrPyQuOS4uBV1EWFI%2BOTM%2FPjU8a3FcWFc8PzY3LHglMUBbbl0zeGhpYWNmc20CAQZla2J7Y3h%2BaUVKQ18IKjs9OC5wcRBHS0Y8BTYuMTsnJ0YSTA%3D%3D&r=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtnUelX8ADEw&c=204341088&token=BlVTCQZVAAIAAg%3D%3D&try=1&$follow_redirect=true](https://wizrocketmail.net/r?e=K2Jqcx97CGN6YwB9DSZmewAJAQBiJCw1ICQsNQYAAw1nbmc3FxohLkFDWFs5BTEkODE7LnJwTQUrPyQuOS4uBV1EWFI%2BOTM%2FPjU8a3FcWFc8PzY3LHglMUBbbl0zeGhpYWNmc20CAQZla2J7Y3h%2BaUVKQ18IKjs9OC5wcRBHS0Y8BTYuMTsnJ0YSTA%3D%3D&r=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtnUelX8ADEw&c=204341088&token=BlVTCQZVAAIAAg%3D%3D&try=1&$follow_redirect=true)
+[https://wizrocketmail.net/r?e=K2Jqcx97CGN6YwB9DSZmewAJAQBiJCw1ICQsNQYAAw1nbmc3FxohLkFDWFs5BTEkODE7LnJwTQUrPyQuOS4uBV1EWFI%2BOTM%2FPjU8a3FcWFc8PzY3LHglMUBbbl0zeGhpYWNmc20CAQZla2J7Y3h%2BaUVKQ18IKjs9OC5wcRBHS0Y8BTYuMTsnJ0YSTA%3D%3D&r=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtnUelX8ADEw&c=204341088&token=BlVTCQZVAAIAAg%3D%3D&try=1&$follow_redirect=true](__MASK_2__)
 
 "Quand tu disais marketing de contenu, les gens te regardaient comme si tu avais deux têtes".
 

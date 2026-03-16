@@ -16,7 +16,7 @@ imgUrl: ../../../../assets/astro.jpeg
 ---
 
 L'assistant Klart AI utilise un moteur de recherche innovant et la technologie Serverless RAG pour des réponses et actions précises.
-[Brandeploy | Deploy content globally | DAM | Video Editor](https://www.brandeploy.io/fr)
+[Brandeploy | Deploy content globally | DAM | Vidéo Editor](https://www.brandeploy.io/fr)
 [Klart AI - YouTube](https://www.youtube.com/@klartai)
 [Klart AI: Overview | LinkedIn](https://www.linkedin.com/company/klart-ai/)
 [Klart AI (@klart.ai) • Photos et vidéos Instagram](https://www.instagram.com/klart.ai/)

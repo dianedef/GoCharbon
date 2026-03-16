@@ -158,7 +158,7 @@ Analyser
     Tous mes vœux!
     
     HubSpot
-    HubSpot " data-medium-file="[https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-50-11.png?w=300](https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-50-11.png?w=300)" data-large-file ="[https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-50-11.png?w=1024](https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-50-11.png?w=1024)" class=" wp-image-85272" src=" [https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-50-11-300x149.png](https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-50-11-300x149.png)" alt="meilleurs outils de création de pages de destination" style="-ms-interpolation -mode : bicubique ; largeur max : 100 % !important ; marge inférieure : 24px ; contour : aucun ; décoration de texte : aucune ; largeur : automatique ; clarifier les deux; bloc de visualisation; bordure : aucune ;">
+    HubSpot " data-medium-file="[https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-50-11.png?w=300](__MASK_4__)" data-large-file ="[https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-50-11.png?w=1024](__MASK_5__)" class=" wp-image-85272" src=" [https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-50-11-300x149.png](__MASK_6__)" alt="meilleurs outils de création de pages de destination" style="-ms-interpolation -mode : bicubique ; largeur max : 100 % !important ; marge inférieure : 24px ; contour : aucun ; décoration de texte : aucune ; largeur : automatique ; clarifier les deux; bloc de visualisation; bordure : aucune ;">
     HubSpot
     
     Si vous êtes spécialiste du marketing, vous devez avoir entendu parler de HubSpot. HubSpot est un outil très populaire pour les spécialistes du marketing numérique et les vendeurs.
@@ -178,7 +178,7 @@ Analyser
     Starter : 45 $/moisPro : 800 $/moisEnterprise : 3 200 $/mois
     
     Avoir une réponse
-    GetResponse " data-medium-file="[https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-57-12.png?w=300](https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-57-12.png?w=300)" data-large-file ="[https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-57-12.png?w=1024](https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-57-12.png?w=1024)" class=" wp-image-85274" src=" [https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-57-12-300x220.png](https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-57-12-300x220.png)" alt="meilleur outil de création de page de destination" style="-ms-interpolation -mode : bicubique ; largeur max : 100 % !important ; marge inférieure : 24px ; contour : aucun ; décoration de texte : aucune ; largeur : automatique ; clarifier les deux; bloc de visualisation; bordure : aucune ;">
+    GetResponse " data-medium-file="[https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-57-12.png?w=300](__MASK_7__)" data-large-file ="[https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-57-12.png?w=1024](__MASK_8__)" class=" wp-image-85274" src=" [https://www.dealify.com/wp-content/uploads/2022/05/2022-05-25_21-57-12-300x220.png](__MASK_9__)" alt="meilleur outil de création de page de destination" style="-ms-interpolation -mode : bicubique ; largeur max : 100 % !important ; marge inférieure : 24px ; contour : aucun ; décoration de texte : aucune ; largeur : automatique ; clarifier les deux; bloc de visualisation; bordure : aucune ;">
     Avoir une réponse
     
     Comme HubSpot, GetResponse est une solution marketing tout-en-un, pas seulement un constructeur de pages de destination comme Instapage et d'autres.
@@ -349,7 +349,7 @@ Assemblage de plein de facteurs : Crédibilité branding réactivité support cl
         
         Trouvez une personne neutre et parlez lui de votre projet : son nom, l’idée principale, l’objectif final etc. Veillez à ne pas citer plus de deux ou trois fois le nom de votre projet dans la discussion.
         
-        A la fin de la conversation demandez à votre ami d'écrire le nom de votre projet. Si celui-ci l’a retenu et écrit sans faute, c’est un très bon point pour la suite de votre aventure !
+        À la fin de la conversation demandez à votre ami d'écrire le nom de votre projet. Si celui-ci l’a retenu et écrit sans faute, c’est un très bon point pour la suite de votre aventure !
         
         Un nom d'entreprise simple est primordiale pour trouver des clients sur le long terme. Il aidera à faire fonctionner le bouche a oreille et la fidélisation des lecteurs.
         
@@ -376,8 +376,8 @@ Assemblage de plein de facteurs : Crédibilité branding réactivité support cl
         
         J’ai donc perdu 210€ et plusieurs jours de travail pour transférer l’existant sur le nouveau nom de domaine.
         
-        Pour déposer votre marque : [https://www.inpi.fr/fr/services-et-prestations/depot-de-marque-en-ligne](https://www.inpi.fr/fr/services-et-prestations/depot-de-marque-en-ligne)
-        Pour vérifier si une marque existe : [https://bases-marques.inpi.fr/](https://bases-marques.inpi.fr/)
+        Pour déposer votre marque : [https://www.inpi.fr/fr/services-et-prestations/depot-de-marque-en-ligne](__MASK_22__)
+        Pour vérifier si une marque existe : [https://bases-marques.inpi.fr/](__MASK_23__)
         Vous l’aurez compris, trouver des idées de noms de marque originales (et disponibles en nom de domaine) est une tâche fastidieuse.
         
         L’utilisation d’un générateur de nom vous permettra de trouver de l’inspiration et de découvrir des noms que vous ne connaissez pas.
@@ -675,7 +675,7 @@ Un jeune entrepreneur en série énergique qui cherche à changer la portée de 
 Depuis lors, elle a aidé à lancer un certain nombre d’agences en ligne, sa plus grande réussite étant une agence de génération de prospects.
 
 Maintenant, elle est en voyage pour influencer les agences du monde entier et leur présenter des systèmes de vente mortels qui ne nécessitent pas des millions mais peuvent générer une rançon royale!
-Brandie Grace Wong
+Brandie Grâce Wong
 Fondateur de Totally Brand It
 
 *Rencontrez la fondatrice*
@@ -769,7 +769,7 @@ Aussi, nous vous partageons nos retours d’expérience (RETEX) sur de [l’éq
     
     - idées de solopreneurs
         
-        [https://trafft.com/](https://trafft.com/)
+        [https://trafft.com/](__MASK_41__)
         
     - Un ecommerçant qui veut faire plus de vente
 
@@ -795,7 +795,7 @@ Aussi, nous vous partageons nos retours d’expérience (RETEX) sur de [l’éq
 
 Trop d’information, manque de direction
 
-[https://vyte.in/dianed](https://vyte.in/dianed)
+[https://vyte.in/dianed](__MASK_44__)
 
 [Agence Inbound Marketing et Inbound Sales | Marketing Management IO](https://www.marketing-management.io/)
 
@@ -875,7 +875,7 @@ Multiplie la force de frappe de ton entreprise avec la robotisation logicielle.
 - vocabulaire pme
     
     Roadmap
-    A venir
+    À venir
     Ticketing - automatisations (en cours)
     
     Rapports et statistiques
@@ -1479,7 +1479,7 @@ Ces formations ont été principalement pensées et conçues pour accompagner le
     
     - Plutio pour piloter votre entreprise de A à Z
     - Squirrly SEO et dépasser la concurrence
-    - [Systeme.io](http://Systeme.io) la plateformes webmarketing tout-en-un
+    - [Système.io](http://Systeme.io) la plateformes webmarketing tout-en-un
     
     Rassurez-vous, je propose aussi des comparatifs et des alternatives au cas où. 
     
@@ -1774,7 +1774,7 @@ Outre le fait qu’il présente nos propres activités de référencement nature
 | https://www.facebook.com/groups/desktopenhanced | lamallette.biz/de-fb-group |
 | https://lamallettebusiness.com/blog/meilleures-offres-recolter-analyser-comportements-intentions-visiteurs/ | lamallette.biz/intentions |
 | https://lamallettebusiness.com/blog/appsumo-les-meilleures-apps-finances-et-cryptos/ | lamallette.biz/cryptos |
-| https://lamallettebusiness.com/blog/meilleurs-logiciels-pour-youtubeur-videaste-en-promo/ | lamallette.biz/video |
+| https://lamallettebusiness.com/blog/meilleurs-logiciels-pour-youtubeur-videaste-en-promo/ | lamallette.biz/vidéo |
 | https://squirrly.idevaffiliate.com/idevaffiliate.php?id=632&url=402 | lamallette.biz/squirrlyseo |
 | SourceUrl | SharingUrl |
 
@@ -1782,7 +1782,7 @@ Outre le fait qu’il présente nos propres activités de référencement nature
 
 Broken, down, the process is actually very simple and looks like this:
 
-**Step 1: Choose an Interest.** This can be anything at all, any interest, passion or even something you have no personal experience with.
+**Step 1: Choose an Interest.** This can be anything at all, any interest, passion or even something you have no personal expérience with.
 
 **Step 2: Build a Website.** Your website is your foundation and we have the most sophisticated and feature rich website and hosting platform here at Wealthy Affiliate.
 
@@ -1880,7 +1880,7 @@ Créer des contenus personnalisés et captivant, des designs époustouflants, te
 
 Evidemment la technologie ne fera pas tout pour vous cependant. Vous devez amener votre leadership et votre créativité.
 
-Blend technology with the human touch—bring in UX designers, UI designers, copywriters, and other experts to create an experience that drives conversions and keeps your audience coming back for more.
+Blend technology with the human touch—bring in UX designers, UI designers, copywriters, and other experts to create an expérience that drives conversions and keeps your audience coming back for more.
 
 Nous analysons votre organisation pour comprendre vos processus métiers. Quelles sont les interactions nécessaires à votre activité, et comment les tâches sont-elles réalisées ? L'objectif est d'identifier les points de faiblesses dans votre organisation.02. Créer votre application métierCette étape consiste à collecter, unifier et centraliser votre donnée dans une application métier. C'est ce que nous appelons le "cœur du réacteur". Ainsi, vous ne perdez plus de temps dans des tâches sans valeur ajoutée. Concentrez-vous sur l'essentiel.03. Automatiser votre quotidienNous connectons l'application métier à vos outils existants. Nous vous accompagnons dans la prise en main et l'utilisation quotidienne de votre application vous permettant ainsi de gagner en productivité.Une application métier pour gérer la complexité avec simplicitéDécouvrez comment une application métier peut changer le quotidien de la vie d'une entreprise. Dans cette vidéo, nous vous présentons un cas d'usage récurrent : automatiser l'onboarding de nouveaux clients grâce à un espace client en ligne.Découvrez notre savoir-faireQuestions fréquemment posées
 

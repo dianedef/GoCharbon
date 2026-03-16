@@ -12,8 +12,8 @@ imgUrl: ../../assets/astro.jpeg
 
 # Business en ligne: le guide simple pour te lancer
 
-Tu n'as pas besoin d'une idee revolutionnaire.
-Tu as besoin d'un probleme reel, d'une offre claire et d'un plan d'execution.
+Tu n'as pas besoin d'une idée revolutionnaire.
+Tu as besoin d'un problème reel, d'une offre claire et d'un plan d'execution.
 
 ## Ton objectif
 
@@ -24,7 +24,7 @@ Passer de "je veux lancer un business" a "j'ai une offre testee avec de vrais re
 Un business en ligne solide repose sur 4 blocs:
 
 1. une cible precise
-2. un probleme urgent
+2. un problème urgent
 3. une offre simple
 4. un canal pour trouver tes premiers clients
 
@@ -43,7 +43,7 @@ Avec ces 4 blocs, tu avances.
 
 - Avantage: scalable
 - Limite: demande de la clarte pedagogique
-- Bon choix si tu sais expliquer une competence
+- Bon choix si tu sais expliquer une compétence
 
 ### E-commerce
 
@@ -55,7 +55,7 @@ Avec ces 4 blocs, tu avances.
 
 - Avantage: revenus recurrents
 - Limite: support et retention
-- Bon choix si tu peux resoudre un probleme recurrent
+- Bon choix si tu peux resoudre un problème recurrent
 
 ## Plan d'action simple sur 7 jours
 
@@ -64,11 +64,11 @@ Avec ces 4 blocs, tu avances.
 Definis une cible unique:
 - qui
 - quel contexte
-- quel probleme couteux
+- quel problème couteux
 
-### Jour 2 - Probleme
+### Jour 2 - Problème
 
-Fais 5 a 10 conversations courtes pour verifier que le probleme est reel.
+Fais 5 a 10 conversations courtes pour verifier que le problème est reel.
 
 ### Jour 3 - Offre
 
@@ -79,7 +79,7 @@ Ecris une offre en une phrase:
 
 Prepare une preuve simple:
 - mini etude de cas
-- avant/apres
+- avant/après
 - exemple concret
 
 ### Jour 5 - Page simple
@@ -93,9 +93,9 @@ Cree une page claire avec:
 ### Jour 6 - Traffic test
 
 Fais venir du trafic cible:
-- reseau perso
+- réseau perso
 - LinkedIn
-- communaute de niche
+- communauté de niche
 
 ### Jour 7 - Debrief
 
@@ -105,24 +105,24 @@ Mesure 4 signaux:
 - prises de rendez-vous
 - demandes de prix
 
-## Les chiffres utiles a suivre
+## Les chiffres utiles à suivre
 
-- Taux de reponse a ton message d'approche
+- Taux de réponse a ton message d'approche
 - Taux de conversion visite -> contact
 - Taux de conversion contact -> client
 - Delai moyen avant premier euro
 
 ## Erreurs frequentes
 
-- vouloir tout faire en meme temps
-- parler de toi au lieu du probleme client
+- vouloir tout faire en même temps
+- parler de toi au lieu du problème client
 - construire pendant des semaines sans test marche
-- changer d'idee tous les 3 jours
+- changer d'idée tous les 3 jours
 
-## Checklist "pret a lancer"
+## Checklist "prêt a lancer"
 
 - [ ] cible precise
-- [ ] probleme valide par conversations
+- [ ] problème valide par conversations
 - [ ] offre en une phrase
 - [ ] page simple publiee
 - [ ] canal d'acquisition active

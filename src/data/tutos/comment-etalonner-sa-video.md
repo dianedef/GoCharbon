@@ -12,11 +12,11 @@ pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Comment Etalonner Sa Video
+# Comment Etalonner Sa Vidéo
 
-## COLOR GRADING : L'ARME SECRETE DES VIDEOS PRO
+## COLOR GRADING : L'ARME SECRETE DES VIDÉOS PRO
 
-Tu filmes tes videos mais le rendu fait "amateur" ? Dans 90 % des cas, le probleme vient de l'etalonnage. Le color grading, c'est ce qui transforme une image plate en quelque chose de cinematographique. Bonne nouvelle : tu n'as pas besoin d'etre coloriste professionnel pour obtenir un resultat propre.
+Tu filmes tes vidéos mais le rendu fait "amateur" ? Dans 90 % des cas, le problème vient de l'etalonnage. Le color grading, c'est ce qui transforme une image plate en quelque chose de cinematographique. Bonne nouvelle : tu n'as pas besoin d'être coloriste professionnel pour obtenir un resultat propre.
 
 ---
 
@@ -37,23 +37,23 @@ Tu fais toujours la correction AVANT le grading. Sinon tu construis sur des base
 |-------|------|--------|
 | DaVinci Resolve (gratuit) | 0 EUR | Debutant a pro |
 | DaVinci Resolve Studio | 295 USD / 295 EUR (achat unique, licence a vie) | Pro |
-| Adobe Premiere Pro | ~23 USD/mois (plan annuel) ou ~35 USD/mois (sans engagement) | Intermediaire |
+| Adobe Première Pro | ~23 USD/mois (plan annuel) ou ~35 USD/mois (sans engagement) | Intermediaire |
 | Final Cut Pro | 300 EUR (a vie) | Intermediaire |
 | CapCut | Gratuit | Debutant |
 
-DaVinci Resolve est la reference absolue pour le color grading. Meme la version gratuite est plus puissante que la plupart des logiciels payants.
+DaVinci Resolve est la reference absolue pour le color grading. Même la version gratuite est plus puissante que la plupart des logiciels payants.
 
 Depuis DaVinci Resolve 19 (sorti en 2024), de nouveaux outils de grading ont ete ajoutes :
 
 - **Film Look Creator** : un effet tout-en-un dans l'onglet Color qui simule un rendu pellicule (exposition, contraste, highlights, fade, bleach bypass) sur une echelle photometrique
-- **ColorSlice** : un nouveau panneau de correction vectorielle avec 7 vecteurs (les 6 standards + skin tones) pour des ajustements de couleur ultra-precis par zone chromatique
+- **ColorSlice** : un nouveau panneau de correction vectorielle avec 7 vecteurs (les 6 standards + skin tones) pour des ajustements de couleur ultra-précis par zone chromatique
 - **UltraNR** : reduction de bruit boostee par l'IA (Neural Engine), bien plus performante que l'ancien denoiser (version Studio uniquement)
-- **IntelliTrack** : tracking ameliore par IA pour les Power Windows, bien plus rapide et precis
-- **Music Remixer FX** : isole les elements musicaux (voix, drums, basse) et permet de remixer meme sans stems (utile pour ajuster la musique sous ta voix off)
+- **IntelliTrack** : tracking ameliore par IA pour les Power Windows, bien plus rapide et précis
+- **Music Remixer FX** : isole les elements musicaux (voix, drums, basse) et permet de remixer même sans stems (utile pour ajuster la musique sous ta voix off)
 
 ---
 
-## Etape 1 : Comprendre Les Scopes
+## Étape 1 : Comprendre Les Scopes
 
 Les scopes (ou moniteurs de forme d'onde) sont tes meilleurs amis. Ne fais jamais confiance a tes yeux seuls, ton ecran te ment.
 
@@ -62,11 +62,11 @@ Les scopes (ou moniteurs de forme d'onde) sont tes meilleurs amis. Ne fais jamai
 - **Parade RGB** : separe les canaux rouge, vert, bleu. Parfait pour equilibrer la balance des blancs.
 - **Histogramme** : distribution des tons sombres, moyens et clairs.
 
-Active-les dans DaVinci via le menu Color > Scopes, ou dans Premiere via Lumetri Scopes.
+Active-les dans DaVinci via le menu Color > Scopes, ou dans Première via Lumetri Scopes.
 
 ---
 
-## Etape 2 : Correction Colorimetrique
+## Étape 2 : Correction Colorimetrique
 
 ### Balance des blancs
 
@@ -78,7 +78,7 @@ Active-les dans DaVinci via le menu Color > Scopes, ou dans Premiere via Lumetri
 
 1. **Lift** (ombres) : remonte legerement si l'image est trop sombre, descends pour des noirs plus profonds
 2. **Gamma** (tons moyens) : ajuste la luminosite generale sans toucher aux extremes
-3. **Gain** (hautes lumieres) : controle les zones les plus lumineuses
+3. **Gain** (hautes lumieres) : contrôle les zones les plus lumineuses
 4. **Offset** : decale toute l'image d'un coup (utile pour les ajustements globaux)
 
 ### Saturation
@@ -87,7 +87,7 @@ Ajuste la saturation globale avec moderation. Une erreur classique : trop pousse
 
 ---
 
-## Etape 3 : Etalonnage Creatif
+## Étape 3 : Etalonnage Creatif
 
 ### Utiliser les Color Wheels
 
@@ -116,7 +116,7 @@ Les LUTs (Look-Up Tables) sont des presets de couleur. Attention :
 
 ---
 
-## Etape 4 : Finaliser
+## Étape 4 : Finaliser
 
 - **Qualifier** une zone specifique (peau, ciel) pour l'ajuster sans toucher au reste
 - **Power Windows** : dessine un masque pour isoler une zone
@@ -138,18 +138,18 @@ Les LUTs (Look-Up Tables) sont des presets de couleur. Attention :
 ## Astuces Pro
 
 - Filme en profil plat (S-Log, V-Log, C-Log) pour avoir plus de marge a l'etalonnage
-- Utilise les nodes en serie dans DaVinci : un node par etape (correction, skin, ambiance, vignette)
-- Le raccourci Cmd/Ctrl+D dans DaVinci desactive un node pour comparer avant/apres
+- Utilise les nodes en serie dans DaVinci : un node par étape (correction, skin, ambiance, vignette)
+- Le raccourci Cmd/Ctrl+D dans DaVinci desactive un node pour comparer avant/après
 - Regarde des films et analyse leurs palettes de couleurs (le site Movies in Color est une mine d'or)
 
 ---
 
 ## Ressources
 
-- [Video : Montage Video IA - Les 5 outils que nous recommandons](https://youtu.be/aLMFZ2gwOFQ?t=353)
+- [Vidéo : Montage Vidéo IA - Les 5 outils que nous recommandons](https://youtu.be/aLMFZ2gwOFQ?t=353)
 - [DaVinci Resolve - telecharge la version gratuite](https://www.blackmagicdesign.com/products/davinciresolve/)
 - [Fresh LUTs - plus grande collection de LUTs gratuites au monde](https://freshluts.com/) (3 millions+ de telechargements)
-- [Free For Video - 200+ LUTs cinematiques gratuites](https://freeforvideo.com/200-free-cinematic-luts)
+- [Free For Vidéo - 200+ LUTs cinematiques gratuites](https://freeforvideo.com/200-free-cinematic-luts)
 - [mycreativefx.com - 100+ LUTs gratuites](https://mycreativefx.com/blog/download-100-free-color-grading-luts-to-instantly-elevate-your-visuals)
 - [DeMystify Color - outils gratuits pour coloristes DaVinci](https://demystify-color.com/toolset-free) (DCTLs, LUTs ACES, Power Grades)
 - [Film-Grab](https://film-grab.com/) et [Movies in Color](https://moviesincolor.com/) : references de palettes de couleurs de films

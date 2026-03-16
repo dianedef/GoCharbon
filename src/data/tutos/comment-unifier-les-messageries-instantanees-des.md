@@ -12,24 +12,24 @@ pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# MESSAGERIE UNIFIEE : GERE TOUS TES MESSAGES AU MEME ENDROIT
+# MESSAGERIE UNIFIEE : GERE TOUS TES MESSAGES AU MÊME ENDROIT
 
 Tu recois des messages sur Instagram, Facebook Messenger, WhatsApp, le chat de ton site, et tu passes ta journee a jongler entre 5 onglets ? La boite de reception unifiee (inbox omnicanal) centralise tout dans un seul endroit. Voici comment la mettre en place.
 
 ## Pourquoi c'est indispensable
 
-- Un prospect qui envoie un message sur Instagram et qui n'a pas de reponse en 1h passe a la concurrence
+- Un prospect qui envoie un message sur Instagram et qui n'a pas de réponse en 1h passe a la concurrence
 - Tu perds des messages parce que tu oublies de checker un canal
 - Tu ne peux pas facilement assigner un message a un collegue
 - Tu n'as aucun historique centralise de tes conversations clients
 
-Avec une inbox unifiee, chaque message arrive au meme endroit, peu importe le canal d'origine. Tu reponds, tu assignes, tu archives -- depuis une seule interface.
+Avec une inbox unifiee, chaque message arrive au même endroit, peu importe le canal d'origine. Tu reponds, tu assignes, tu archives -- depuis une seule interface.
 
 ## Les outils pour centraliser tes messages
 
-### Crisp -- La solution francaise
+### Crisp -- La solution française
 
-[Crisp](https://crisp.chat/fr/) est un outil francais qui combine chat en direct, messagerie unifiee et CRM basique.
+[Crisp](https://crisp.chat/fr/) est un outil français qui combine chat en direct, messagerie unifiee et CRM basique.
 
 **Canaux supportes** : chat site web, email, Messenger, Instagram, WhatsApp, Telegram, Twitter/X, SMS, Line.
 
@@ -47,13 +47,13 @@ Avec une inbox unifiee, chaque message arrive au meme endroit, peu importe le ca
 - **Plus** : 95 EUR/mois/workspace -- chatbot IA (250 resolutions incluses), CRM avance, ticketing, analytics
 - **Unlimited** : 295 EUR/mois/workspace -- toutes les fonctionnalites sans limite, white-label, support prioritaire
 
-Attention : la plupart des equipes serieuses auront besoin du plan Plus (295 EUR/mois) pour debloquer le ticketing, le white-labeling et les analytics avancees. Les credits IA (resolutions chatbot) sont limites et peuvent couter supplementairement au-dela du quota inclus.
+Attention : la plupart des équipes serieuses auront besoin du plan Plus (295 EUR/mois) pour debloquer le ticketing, le white-labeling et les analytics avancees. Les credits IA (resolutions chatbot) sont limites et peuvent couter supplementairement au-dela du quota inclus.
 
-**Point fort** : interface en francais, serveurs en Europe, conforme RGPD. Outil francais (siege a Nantes).
+**Point fort** : interface en français, serveurs en Europe, conforme RGPD. Outil français (siege a Nantes).
 
 ### Tidio -- Le plus simple a installer
 
-[Tidio](https://www.tidio.com/) combine chat, chatbot et inbox omnicanal avec une configuration tres rapide.
+[Tidio](https://www.tidio.com/) combine chat, chatbot et inbox omnicanal avec une configuration très rapide.
 
 **Canaux supportes** : chat site web, email, Messenger, Instagram, WhatsApp.
 
@@ -71,9 +71,9 @@ Attention : la plupart des equipes serieuses auront besoin du plan Plus (295 EUR
 - **Plus** : a partir de 749 USD/mois -- volume custom, multi-marque, branding personnalise
 - **Lyro AI (add-on)** : le chatbot IA de Tidio se facture separement a partir de 39 USD/mois. Il apprend depuis ta base de connaissances et peut resoudre automatiquement les questions frequentes
 
-**Point fort** : chatbot IA integre (Lyro) qui repond aux questions simples automatiquement (horaires, prix, disponibilite). Installation tres rapide sur WordPress, Shopify, Wix.
+**Point fort** : chatbot IA integre (Lyro) qui repond aux questions simples automatiquement (horaires, prix, disponibilite). Installation très rapide sur WordPress, Shopify, Wix.
 
-### Zendesk -- Pour les equipes structurees
+### Zendesk -- Pour les équipes structurees
 
 [Zendesk](https://www.zendesk.fr/) est la reference du support client pour les entreprises plus etablies.
 
@@ -82,17 +82,17 @@ Attention : la plupart des equipes serieuses auront besoin du plan Plus (295 EUR
 **Configuration** :
 1. Cree un compte Zendesk Suite
 2. Configure tes canaux dans **Admin > Canaux**
-3. Chaque message devient un "ticket" avec un numero de suivi
-4. Assigne les tickets a des agents, definis des priorites, des SLA (temps de reponse garanti)
+3. Chaque message devient un "ticket" avec un numéro de suivi
+4. Assigne les tickets a des agents, definis des priorités, des SLA (temps de réponse garanti)
 
-**Prix (2025)** : Zendesk Suite (la version tout-en-un avec chat, email, telephone, reseaux sociaux) :
-- **Suite Team** : 55 USD/agent/mois (annuel) -- ticketing, email, chat, reseaux sociaux, automatisations basiques
+**Prix (2025)** : Zendesk Suite (la version tout-en-un avec chat, email, telephone, réseaux sociaux) :
+- **Suite Team** : 55 USD/agent/mois (annuel) -- ticketing, email, chat, réseaux sociaux, automatisations basiques
 - **Suite Growth** : 89 USD/agent/mois -- SLA, analytics avances, portail self-service
 - **Suite Professional** : 115 USD/agent/mois -- routage intelligent, IA avancee, reporting custom
 - **Suite Enterprise** : sur devis (a partir de 169 USD/agent/mois)
 - Tous les plans Suite incluent desormais des "resolutions automatisees" (AI agents) avec un quota gratuit par agent. Au-dela : 1,50-2,00 USD par resolution automatisee
 
-C'est cher, mais justifie si tu as une equipe support de 3+ personnes et que tu veux un ecosysteme complet (support, vente, knowledge base).
+C'est cher, mais justifie si tu as une équipe support de 3+ personnes et que tu veux un écosystème complet (support, vente, knowledge base).
 
 ### Alternatives a considerer
 
@@ -101,8 +101,8 @@ C'est cher, mais justifie si tu as une equipe support de 3+ personnes et que tu 
 | **[Chatwoot](https://www.chatwoot.com/)** | Gratuit (open source) | Auto-heberge, pas de limite, conforme RGPD car tes donnees restent chez toi |
 | **[Freshdesk](https://www.freshworks.com/freshdesk/)** | Gratuit (10 agents) | Ticketing + inbox, IA integree (Freddy AI) |
 | **[Gorgias](https://www.gorgias.com/)** | 10 USD/mois | Fait pour le e-commerce (Shopify, BigCommerce), automatisation des reponses |
-| **[Front](https://front.com/)** | 19 USD/utilisateur/mois | Inbox partagee email + chat, ideal pour les equipes collaborative |
-| **[Intercom](https://www.intercom.com/)** | 39 USD/siege/mois | Plateforme de messagerie client avec IA avancee (Fin AI), plus cher mais tres complet |
+| **[Front](https://front.com/)** | 19 USD/utilisateur/mois | Inbox partagee email + chat, ideal pour les équipes collaborative |
+| **[Intercom](https://www.intercom.com/)** | 39 USD/siege/mois | Plateforme de messagerie client avec IA avancee (Fin AI), plus cher mais très complet |
 
 ## Guide de mise en place pas-a-pas
 
@@ -117,13 +117,13 @@ Avant de choisir un outil, fais l'inventaire :
 
 Pour chaque canal :
 - **Facebook/Instagram** : tu dois avoir une Page Facebook professionnelle et un compte Instagram Business. L'outil se connecte via l'API Meta Business.
-- **WhatsApp** : tu as besoin d'un numero WhatsApp Business (pas un numero perso). L'API WhatsApp Business passe par un fournisseur agree (Twilio, 360dialog, ou l'integration native de l'outil).
+- **WhatsApp** : tu as besoin d'un numéro WhatsApp Business (pas un numéro perso). L'API WhatsApp Business passe par un fournisseur agree (Twilio, 360dialog, ou l'integration native de l'outil).
 - **Email** : forwarde ton email support (support@tondomaine.com) vers l'outil, ou connecte via IMAP/SMTP.
 
-### 3. Configure les regles de routage
+### 3. Configure les règles de routage
 
 - **Assignation automatique** : round-robin (chaque message va au prochain agent disponible)
-- **Par competence** : les questions techniques vont a l'equipe tech, les questions commerciales au commercial
+- **Par compétence** : les questions techniques vont a l'équipe tech, les questions commerciales au commercial
 - **Par canal** : Instagram gere par le CM, email gere par le support
 
 ### 4. Mets en place les reponses rapides
@@ -134,7 +134,7 @@ Cree des templates pour les questions frequentes :
 - Politique de retour
 - Lien vers la FAQ
 
-Ca reduit le temps de reponse de 80%.
+Ca reduit le temps de réponse de 80%.
 
 ### 5. Configure les notifications
 
@@ -142,15 +142,15 @@ Ca reduit le temps de reponse de 80%.
 - Notification mobile (appli Crisp/Tidio) quand tu es en deplacement
 - Alerte email en backup si personne ne repond en 10 minutes
 
-## Les metriques a suivre
+## Les métriques à suivre
 
 | Metrique | Objectif | Pourquoi |
 |----------|----------|----------|
-| Temps de premiere reponse | < 5 min (chat), < 1h (email) | C'est le facteur numero 1 de satisfaction |
+| Temps de première réponse | < 5 min (chat), < 1h (email) | C'est le facteur numéro 1 de satisfaction |
 | Temps de resolution | < 24h | Ne laisse pas un ticket trainer |
-| Taux de satisfaction (CSAT) | > 90% | Mesure la qualite percue |
+| Taux de satisfaction (CSAT) | > 90% | Mesure la qualité percue |
 | Volume par canal | -- | Identifie ou investir plus de ressources |
 
 ## Ce qu'il faut retenir
 
-Commence par Crisp si tu veux une solution francaise et abordable, ou Tidio si tu veux un setup rapide avec chatbot integre. Connecte au minimum : chat site web + email + Instagram/Messenger. Configure des reponses rapides pour les questions recurrentes. Le plus important : reponds vite. Un temps de premiere reponse sous 5 minutes sur le chat multiplie par 3 tes chances de convertir le prospect.
+Commence par Crisp si tu veux une solution française et abordable, ou Tidio si tu veux un setup rapide avec chatbot integre. Connecte au minimum : chat site web + email + Instagram/Messenger. Configure des reponses rapides pour les questions recurrentes. Le plus important : reponds vite. Un temps de première réponse sous 5 minutes sur le chat multiplie par 3 tes chances de convertir le prospect.

@@ -195,7 +195,7 @@ imgUrl: ../../../../../assets/astro.jpeg
     
     Hashtag research is so essential if you do any kind of content marketing or if you want to attract and reach your ideal audience 🚀
     
-    A good hashtag strategy all starts with hashtag research. There’s a whole lot to hashtag strategies, but at the end of the day, if you’re not doing hashtag research and picking hashtags that make sense for your content, you’re probably wasting your time 💡
+    A good hashtag strategy all starts with hashtag research. There’s a whole lot to hashtag stratégies, but at the end of the day, if you’re not doing hashtag research and picking hashtags that make sense for your content, you’re probably wasting your time 💡
     
     To dive into your choices’ efficiency, you need to know the results your hashtags bring you.
     

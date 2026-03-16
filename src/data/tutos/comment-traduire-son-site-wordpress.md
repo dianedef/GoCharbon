@@ -22,7 +22,7 @@ imgUrl: ../../assets/astro.jpeg
 
 - Author: WP channel
 - Category: article
-- URL: [https://wpchannel.com/wordpress/plugins-wordpress/traduire-site-wordpress-weglot/](https://wpchannel.com/wordpress/plugins-wordpress/traduire-site-wordpress-weglot/)
+- URL: [https://wpchannel.com/wordpress/plugins-wordpress/traduire-site-wordpress-weglot/](__MASK_2__)
 
 ## Highlights
 
@@ -108,7 +108,7 @@ Rendre votre site multilingue élargit les horizons de votre présence sur le We
 
 # **Les 4 meilleures extensions multilingues pour WordPress**
 
-[https://secure.gravatar.com/avatar/83c4d2af866540f8d895700cd5cf487d?s=48&d=mm&r=g](https://secure.gravatar.com/avatar/83c4d2af866540f8d895700cd5cf487d?s=48&d=mm&r=g)
+[https://secure.gravatar.com/avatar/83c4d2af866540f8d895700cd5cf487d?s=48&d=mm&r=g](__MASK_6__)
 
 Par
 

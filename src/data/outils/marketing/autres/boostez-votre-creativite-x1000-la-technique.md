@@ -26,17 +26,17 @@ imgUrl: ../../../../assets/astro.jpeg
 
 La création c’’est une partie importante de la vie
 
-[https://youtu.be/C1UUVdN3kdQ?t=66](https://youtu.be/C1UUVdN3kdQ?t=66)
+[https://youtu.be/C1UUVdN3kdQ?t=66](__MASK_7__)
 
 [Startpage Résultats de la Recherche](https://www.startpage.com/sp/search)
 
 - Animez un atelier de créativité - OpenClassrooms
     
-    [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite)
+    [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite](__MASK_9__)
     
     
     
-    [https://vimeo.com/227715156](https://vimeo.com/227715156)
+    [https://vimeo.com/227715156](__MASK_10__)
     
     Muscler son cerveau pour apprendre à être créatif, c'est une chose.
     
@@ -76,9 +76,9 @@ La création c’’est une partie importante de la vie
     
     - Evaluez les besoins et les conditions de réussite
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4421153-evaluez-les-besoins-et-les-conditions-de-reussite](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4421153-evaluez-les-besoins-et-les-conditions-de-reussite)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4421153-evaluez-les-besoins-et-les-conditions-de-reussite](__MASK_11__)
         
-        [https://vimeo.com/227714493](https://vimeo.com/227714493)
+        [https://vimeo.com/227714493](__MASK_12__)
         
         
         
@@ -101,9 +101,9 @@ La création c’’est une partie importante de la vie
         
     - Anticipez les risques du brainstorming difficile
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502811-anticipez-les-risques-du-brainstorming-difficile](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502811-anticipez-les-risques-du-brainstorming-difficile)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502811-anticipez-les-risques-du-brainstorming-difficile](__MASK_13__)
         
-        [https://vimeo.com/227714533](https://vimeo.com/227714533)
+        [https://vimeo.com/227714533](__MASK_14__)
         
         Un brainstorming difficile, qui n'aboutit à pas grand chose, qui manque d'énergie, cela arrive. Il ne faut pas en faire une affaire d'Etat. Ce n'est pas très grave ; et c'est bien d'en faire l'expérience pour savoir comment rectifier le tir la fois d'après.
         
@@ -282,9 +282,9 @@ La création c’’est une partie importante de la vie
         
     - Préparez des supports physiques ou numériques
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502816-preparez-des-supports-physiques-ou-numeriques](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502816-preparez-des-supports-physiques-ou-numeriques)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502816-preparez-des-supports-physiques-ou-numeriques](__MASK_16__)
         
-        [https://vimeo.com/227714579](https://vimeo.com/227714579)
+        [https://vimeo.com/227714579](__MASK_17__)
         
         Pour qu'un **atelier de créativité** soit stimulant et efficace, il faut prévoir, voire concevoir soi-même des supports personnalisés et spécifiques pour l'atelier en question.
         
@@ -468,9 +468,9 @@ La création c’’est une partie importante de la vie
         
     - Occupez-vous des détails de logistique à prévoir
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502821-occupez-vous-des-details-de-logistique-a-prevoir](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502821-occupez-vous-des-details-de-logistique-a-prevoir)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502821-occupez-vous-des-details-de-logistique-a-prevoir](__MASK_27__)
         
-        [https://vimeo.com/227714604](https://vimeo.com/227714604)
+        [https://vimeo.com/227714604](__MASK_28__)
         
         Vous avez préparé votre atelier, c'est super !
         
@@ -519,7 +519,7 @@ La création c’’est une partie importante de la vie
         
     - Interview : la préparation d'un atelier
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502881-interview-la-preparation-dun-atelier](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502881-interview-la-preparation-dun-atelier)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502881-interview-la-preparation-dun-atelier](__MASK_29__)
         
         
         
@@ -527,9 +527,9 @@ La création c’’est une partie importante de la vie
         
     - Suivez en images un atelier de créativité de A à Z
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4504876-suivez-en-images-un-atelier-de-creativite-de-a-a-z](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4504876-suivez-en-images-un-atelier-de-creativite-de-a-a-z)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4504876-suivez-en-images-un-atelier-de-creativite-de-a-a-z](__MASK_32__)
         
-        [https://vimeo.com/227714650](https://vimeo.com/227714650)
+        [https://vimeo.com/227714650](__MASK_33__)
         
         Pour ce cours, j'ai choisi de vous montrer un **atelier de créativité**, plutôt que de vous en parler seulement.
         
@@ -585,9 +585,9 @@ La création c’’est une partie importante de la vie
         
     - Présentez les règles pour une participation efficace : "Kick Off"
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502831-presentez-les-regles-pour-une-participation-efficace-kick-off](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502831-presentez-les-regles-pour-une-participation-efficace-kick-off)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502831-presentez-les-regles-pour-une-participation-efficace-kick-off](__MASK_35__)
         
-        [https://vimeo.com/227714663](https://vimeo.com/227714663)
+        [https://vimeo.com/227714663](__MASK_36__)
         
         ### Retrouvez la section "Kick Off" du plan d'animation
         
@@ -689,9 +689,9 @@ La création c’’est une partie importante de la vie
         
     - Mettez les participants dans de bonnes conditions : "Ice Breaker"
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4511751-mettez-les-participants-dans-de-bonnes-conditions-ice-breaker](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4511751-mettez-les-participants-dans-de-bonnes-conditions-ice-breaker)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4511751-mettez-les-participants-dans-de-bonnes-conditions-ice-breaker](__MASK_38__)
         
-        [https://vimeo.com/227714692](https://vimeo.com/227714692)
+        [https://vimeo.com/227714692](__MASK_39__)
         
         ### Retrouvez la section "Ice Breaker" du plan d'animation
         
@@ -786,7 +786,7 @@ La création c’’est une partie importante de la vie
         
         Pour plus de précision, vous pouvez consulter [le site du "Marshmallow Challenge"](https://www.tomwujec.com/marshmallowchallenge).
         
-        [https://www.youtube.com/watch?v=BLWqjWXkTjQ](https://www.youtube.com/watch?v=BLWqjWXkTjQ)
+        [https://www.youtube.com/watch?v=BLWqjWXkTjQ](__MASK_41__)
         
         A ce sujet, je vous invite chaudement à regarder [cette conférence TED de Tom Wujec](https://www.ted.com/talks/tom_wujec_build_a_tower/transcript?language=fr) (durée : 5 minutes)
         
@@ -834,9 +834,9 @@ La création c’’est une partie importante de la vie
         
     - Initiez les participants à la pensée divergente : "Warm Up"
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502846-initiez-les-participants-a-la-pensee-divergente-warm-up](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502846-initiez-les-participants-a-la-pensee-divergente-warm-up)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502846-initiez-les-participants-a-la-pensee-divergente-warm-up](__MASK_45__)
         
-        [https://vimeo.com/227714743](https://vimeo.com/227714743)
+        [https://vimeo.com/227714743](__MASK_46__)
         
         "**Warm Up**" signifie "**échauffement**" en français.
         
@@ -979,9 +979,9 @@ La création c’’est une partie importante de la vie
         
     - Libérez la parole et les idées sans censure : "Défouloir"
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502866-liberez-la-parole-et-les-idees-sans-censure-defouloir](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502866-liberez-la-parole-et-les-idees-sans-censure-defouloir)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502866-liberez-la-parole-et-les-idees-sans-censure-defouloir](__MASK_49__)
         
-        [https://vimeo.com/227714805](https://vimeo.com/227714805)
+        [https://vimeo.com/227714805](__MASK_50__)
         
         
         
@@ -1005,9 +1005,9 @@ La création c’’est une partie importante de la vie
         - se détendre et comprendre que l'on est capable de trouver plein d'idées sur un sujet donné.
     - Générez un maximum d'idées différentes : "Color Run"
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502871-generez-un-maximum-didees-differentes-color-run](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502871-generez-un-maximum-didees-differentes-color-run)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502871-generez-un-maximum-didees-differentes-color-run](__MASK_51__)
         
-        [https://vimeo.com/227714893](https://vimeo.com/227714893)
+        [https://vimeo.com/227714893](__MASK_52__)
         
         ### Retrouvez la section "Color Run" du plan d'animation
         
@@ -1025,7 +1025,7 @@ La création c’’est une partie importante de la vie
         
         Les participants doivent trouver un maximum d'idées en 4 minutes chrono sur la thématique : "comment mieux communiquer avec mes collègues de travail ?" Les participants ont chacun à leur disposition un bloc de post-it de couleur différente et s'affrontent sur la quantité d'idées à produire.
         
-        Laurène présente la consigne. Les participants ont chacun leur bloc de post-it ; ils écrivent leurs idées sur des post-it qu'ils collent sur la table. A la fin, Butzi conclue sur l'intérêt de l'exercice.
+        Laurène présente la consigne. Les participants ont chacun leur bloc de post-it ; ils écrivent leurs idées sur des post-it qu'ils collent sur la table. À la fin, Butzi conclue sur l'intérêt de l'exercice.
         
         5-6 minutes.
         
@@ -1135,9 +1135,9 @@ La création c’’est une partie importante de la vie
         
     - Classez les idées et sélectionnez les meilleures : "Vote"
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502921-classez-les-idees-et-selectionnez-les-meilleures-vote](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502921-classez-les-idees-et-selectionnez-les-meilleures-vote)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502921-classez-les-idees-et-selectionnez-les-meilleures-vote](__MASK_54__)
         
-        [https://vimeo.com/227714937](https://vimeo.com/227714937)
+        [https://vimeo.com/227714937](__MASK_55__)
         
         
         
@@ -1153,13 +1153,13 @@ La création c’’est une partie importante de la vie
         
     - Prenez en compte le retour des participants
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4514201-prenez-en-compte-le-retour-des-participants](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4514201-prenez-en-compte-le-retour-des-participants)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4514201-prenez-en-compte-le-retour-des-participants](__MASK_56__)
         
         
         
         Dans le cadre de l'**atelier de créativité** que vous avez observé, j'ai voulu reconstituer l'ambiance de ce qui pourrait être un confessionnal pour recueillir les avis et retours des participants, dont ceux de Butzi, ainsi que les miens.
         
-        [https://vimeo.com/227715030](https://vimeo.com/227715030)
+        [https://vimeo.com/227715030](__MASK_57__)
         
         Prenez un court moment à la fin de l'atelier pour demander aux participants ce qu'ils :
         
@@ -1175,9 +1175,9 @@ La création c’’est une partie importante de la vie
         
     - Sauvegardez une trace de l'exercice et conservez les idées
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502876-sauvegardez-une-trace-de-lexercice-et-conservez-les-idees](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502876-sauvegardez-une-trace-de-lexercice-et-conservez-les-idees)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502876-sauvegardez-une-trace-de-lexercice-et-conservez-les-idees](__MASK_58__)
         
-        [https://vimeo.com/227715061](https://vimeo.com/227715061)
+        [https://vimeo.com/227715061](__MASK_59__)
         
         
         
@@ -1202,9 +1202,9 @@ La création c’’est une partie importante de la vie
         
     - Faites un compte rendu pour les parties prenantes
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502861-faites-un-compte-rendu-pour-les-parties-prenantes](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502861-faites-un-compte-rendu-pour-les-parties-prenantes)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502861-faites-un-compte-rendu-pour-les-parties-prenantes](__MASK_60__)
         
-        [https://vimeo.com/227715084](https://vimeo.com/227715084)
+        [https://vimeo.com/227715084](__MASK_61__)
         
         Dans les jours qui suivent l'**atelier de créativité**, il vous faut rédiger un compte rendu.
         
@@ -1264,7 +1264,7 @@ La création c’’est une partie importante de la vie
         
         Ici aussi, placez la ou les photos du "canevas" des idées pour montrer ce qui a été produit dans l'ensemble.
         
-        A la fin de l'atelier, vous aviez réuni les idées par grands thèmes : nommez et décrivez ces catégories d'idées dans le compte rendu.
+        À la fin de l'atelier, vous aviez réuni les idées par grands thèmes : nommez et décrivez ces catégories d'idées dans le compte rendu.
         
         Et si vous le souhaitez, vous pouvez même intégrer des schémas qui révèlent des données importantes, comme des pourcentages d'idées différentes ou similaires.
         
@@ -1298,9 +1298,9 @@ La création c’’est une partie importante de la vie
         
     - Suivez et engagez les personnes qui ont participé à l'atelier
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502901-suivez-et-engagez-les-personnes-qui-ont-participe-a-latelier](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502901-suivez-et-engagez-les-personnes-qui-ont-participe-a-latelier)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4502901-suivez-et-engagez-les-personnes-qui-ont-participe-a-latelier](__MASK_62__)
         
-        [https://vimeo.com/227715110](https://vimeo.com/227715110)
+        [https://vimeo.com/227715110](__MASK_63__)
         
         ### Remerciez les participants
         
@@ -1324,7 +1324,7 @@ La création c’’est une partie importante de la vie
         
         Vous pourriez donner un questionnaire de satisfaction directement à la fin de l'atelier, mais je ne trouve pas que ce soit une bonne idée.
         
-        A la fin de l'atelier, les participants n'ont pas envie de "travail en plus" et l'ambiance doit être à la détente : ils ont beaucoup donné, il est temps pour eux de décompresser et de détendre leur cerveau dans la bonne humeur. 😀
+        À la fin de l'atelier, les participants n'ont pas envie de "travail en plus" et l'ambiance doit être à la détente : ils ont beaucoup donné, il est temps pour eux de décompresser et de détendre leur cerveau dans la bonne humeur. 😀
         
         Préférez attendre quelques jours, afin que les participants aient eu le temps de revenir à froid sur leur expérience.
         
@@ -1381,21 +1381,21 @@ La création c’’est une partie importante de la vie
         
     - Découvrez Butzi, magicien, conférencier et expert en "Crazytivity"
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4508466-decouvrez-butzi-magicien-conferencier-et-expert-en-crazytivity](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4508466-decouvrez-butzi-magicien-conferencier-et-expert-en-crazytivity)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/4508466-decouvrez-butzi-magicien-conferencier-et-expert-en-crazytivity](__MASK_68__)
         
         
         
-        [https://www.youtube.com/watch?v=YOcP7e3KOMs](https://www.youtube.com/watch?v=YOcP7e3KOMs)
+        [https://www.youtube.com/watch?v=YOcP7e3KOMs](__MASK_69__)
         
-        [https://www.youtube.com/watch?v=TJWiHVHAycc](https://www.youtube.com/watch?v=TJWiHVHAycc)
+        [https://www.youtube.com/watch?v=TJWiHVHAycc](__MASK_70__)
         
-        [https://www.youtube.com/watch?v=WpLUWW2Y_yE](https://www.youtube.com/watch?v=WpLUWW2Y_yE)
+        [https://www.youtube.com/watch?v=WpLUWW2Y_yE](__MASK_71__)
         
         Si vous voulez vous aussi le rencontrer et faire appel à sa magie et son énergie pour vous accompagner sur votre prochain atelier, voici ses informations de contact :
         
     - Entraînez-vous à générer un maximum d'idées
         
-        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/6772011-entrainez-vous-a-generer-un-maximum-didees](https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/6772011-entrainez-vous-a-generer-un-maximum-didees)
+        [https://openclassrooms.com/fr/courses/4421146-animez-un-atelier-de-creativite/6772011-entrainez-vous-a-generer-un-maximum-didees](__MASK_72__)
         
         
         

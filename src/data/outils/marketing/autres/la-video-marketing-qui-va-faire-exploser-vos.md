@@ -13,8 +13,8 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 
-Videos on a landing page can increase your conversion rate by up to 86%? (1)
-_Companies that are doing online tutoring, have been able to increase their conversion rate by 86% simply by putting up a video to their landing page. **- Wishpond**_
+Vidéos on a landing page can increase your conversion rate by up to 86%? (1)
+_Companies that are doing online tutoring, have been able to increase their conversion rate by 86% simply by putting up a vidéo to their landing page. **- Wishpond**_
 
 This is due to the fact that a
 
@@ -28,15 +28,15 @@ Basically, our
 
 _**brains work and absorbs well by watching moving images**_
 
-. Therefore, isn’t it more effective if we put in videos to help people to associate themselves to your product, services and offer?
+. Therefore, isn’t it more effective if we put in vidéos to help people to associate themselves to your product, services and offer?
 
-We feel a little more engaged when we watch a video. When customers feel a
+We feel a little more engaged when we watch a vidéo. When customers feel a
 
-_**personal connection to your videos**_
+_**personal connection to your vidéos**_
 
 , automatically it also increases their connection to your product and service.
 
-_Here's an example to create a video sales letter for your landing page/ funnels:_
+_Here's an example to create a vidéo sales letter for your landing page/ funnels:_
 
 1. Start with a hook
     

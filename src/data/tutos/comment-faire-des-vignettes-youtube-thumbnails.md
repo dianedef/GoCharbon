@@ -14,7 +14,7 @@ imgUrl: ../../assets/astro.jpeg
 ---
 
 [Making Thumbnails & Titles That Get MILLIONS Of Views - YouTube](https://www.youtube.com/watch?v=IhUurDV9YaY)
-[Paddy Galloway sur X : "Recently I turned a YouTube video with 100k views in the first day (poor performer) to 3m+ views within a week Only thing we changed? The thumbnail. Here are some tips for making clickable thumbnails 👇🧠" / X](https://twitter.com/PaddyG96/status/1450463450438713352)
+[Paddy Galloway sur X : "Recently I turned a YouTube vidéo with 100k views in the first day (poor performer) to 3m+ views within a week Only thing we changed? The thumbnail. Here are some tips for making clickable thumbnails 👇🧠" / X](https://twitter.com/PaddyG96/status/1450463450438713352)
 
 
 - Faire des YT thumbnails avec DALL-E

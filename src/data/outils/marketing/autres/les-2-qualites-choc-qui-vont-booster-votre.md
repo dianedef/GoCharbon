@@ -47,7 +47,7 @@ la différence c'est pas la nature des tâches que tu fais mais c'est ce que tu 
 est-ce que c'est le fruit d'une réelle envie alors juste d'un manque de guidance c'est un manque de d'un manque de compréhension de tes aspirations propre à l'instant T tu vois et en fait ça c'est moi moi ça a vraiment changé de mon côté
 
 
-et ce rapport à la confituel que j'avais à mon temps en fait complètement pas intégralement mais il sait très très fortement amoindri et est-ce que tu as la maîtrise de temps est-ce que tu as la complete maitrise de ton temps
+et ce rapport à la confituel que j'avais à mon temps en fait complètement pas intégralement mais il sait très très fortement amoindri et est-ce que tu as la maîtrise de temps est-ce que tu as la complète maitrise de ton temps
 
 de toi non tu vas pas non ça j'ai je suis en paix avec ça maintenant tu as un moment de temps qui est bloqué et tu sais que tu serais plus productif dans cette plage là
 

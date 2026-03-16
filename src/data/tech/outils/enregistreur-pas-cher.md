@@ -148,7 +148,7 @@ Les outils gratuits ont des limitations :
 | Gaming streaming            | OBS Studio          |
 | Création de contenu avancée | Camtasia ou AWZ     |
 | GIFs et animations          | ScreenToGif         |
-| Reunions Zoom/Teams         | Loom (gratuit)      |
+| Réunions Zoom/Teams         | Loom (gratuit)      |
 | Lifetime deal pas cher      | AWZ Screen Recorder |
 
 ## Fonctionnalités à rechercher

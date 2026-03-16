@@ -67,4 +67,4 @@ imgUrl: ../../../../assets/astro.jpeg
     
     Le prix final dépendra du nombre de SMTP à intégrer et commencera à 1.000€ HT oneshot, c'est-à dire avec un paiement unique et au lieu d’un abonnement mensuel.
     
-    Si vous avez des questions sur cette infrastructure, vous pouvez m’envoyer un message en suivant ce lien : [https://go.bh.marketing/wa-coldmail-serveur](https://go.bh.marketing/wa-coldmail-serveur)
+    Si vous avez des questions sur cette infrastructure, vous pouvez m’envoyer un message en suivant ce lien : [https://go.bh.marketing/wa-coldmail-serveur](__MASK_3__)

@@ -61,7 +61,7 @@ Whether you're a writer, student, marketer, or business professional, Fluently e
 [Vocably - Translate Words and Learn Them as Flashcards](https://vocably.pro/)
 Vocably is a free and powerful language-learning tool that helps you translate words and learn them through flashcards.  
   
-Whether you're browsing websites, watching YouTube videos, or using the mobile app, Vocably automatically converts new words into their normal form, provides definitions and translations, and creates high-quality flashcards for studying.  
+Whether you're browsing websites, watching YouTube vidéos, or using the mobile app, Vocably automatically converts new words into their normal form, provides definitions and translations, and creates high-quality flashcards for studying.  
   
 With support for various languages and a spaced repetition system, Vocably makes language learning efficient and effective.  
   

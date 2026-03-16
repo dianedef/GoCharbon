@@ -13,7 +13,7 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 
-[https://www.petite-entreprise.net/P-3643-83-G1-quel-logiciel-de-facturation-pour-votre-petite-entreprise.html](https://www.petite-entreprise.net/P-3643-83-G1-quel-logiciel-de-facturation-pour-votre-petite-entreprise.html)
+[https://www.petite-entreprise.net/P-3643-83-G1-quel-logiciel-de-facturation-pour-votre-petite-entreprise.html](__MASK_0__)
 
 Tâche indispensable et obligatoire (légalement parlant), la facturation pouvait se faire avec un simple document Excel mais dès le 1er janvier 2018 cette pratique sera illégale.
 

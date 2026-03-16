@@ -93,7 +93,7 @@ From a SwiftRead user:
 5. In what ways can you become a leader who helps others achieve their dreams?
 6. How do your mindset and daily choices shape your future?
 7. What can you learn from your financial losses to improve your financial gains?
-8. How can studying your past successes and failures help you make better decisions today?
+8. How can studying your past successes and failures help you make better décisions today?
 
 
 ### Key Takeaway
@@ -198,7 +198,7 @@ From a SwiftRead user:
 
 **Takeaways**
 
-- Psychopaths are born with a brain that’s different from the rest of us. They have less activity in the part of the brain that controls impulses and emotions, and more activity in the part that controls planning and decision-making.
+- Psychopaths are born with a brain that’s different from the rest of us. They have less activity in the part of the brain that controls impulses and emotions, and more activity in the part that controls planning and décision-making.
 - Psychopaths can be identified by their actions and not by their words. The key is to look for patterns of behavior.
 - Psychopaths are very good at lying and manipulating people. They are often charming, charismatic, and convincing.
 - Psychopaths are not mentally ill. They are not insane. They do not have hallucinations or delusions. They know what they are doing, but they don’t feel bad about it.
@@ -263,7 +263,7 @@ From a SwiftRead user:
 
 “Justice departments and parole boards all over the world have accepted his contention that psychopaths are quite simply incurable and everyone should concentrate their energies instead on learning how to root them out using his PCL-R Checklist, which he has spent a lifetime refining. His was not the only psychopath checklist around, but it was by far the most extensively used.”
 
-“But surely stock-market psychopaths can’t be as bad as serial-killer psychopaths,’ I said. ‘Serial killers ruin families,’ shrugged Bob. ‘Corporate and political and religious psychopaths ruin economies. They ruin societies.”
+“But surely stock-market psychopaths can’t be as bad as serial-killer psychopaths,’ I said. ‘Serial killers ruin families,’ shrugged Bob. ‘Corporate and political and religious psychopaths ruin économies. They ruin societies.”
 
 “You're standing on an escalator and you're watching the people go past on the opposite escalator. If you could climb inside their brains you would see we aren't all the same. We aren't all good people just trying to do good. Some of us are psychopaths. And psychopaths are to blame for this brutal, misshapen society. They're the rocks thrown into the still pond.”
 
@@ -294,7 +294,7 @@ From a SwiftRead user:
 
 **Quotes**
 
-“Shall we go?' he murmured, perhaps regretting his decision to show me his army of plastic cartoon figurines.”
+“Shall we go?' he murmured, perhaps regretting his décision to show me his army of plastic cartoon figurines.”
 
 “I couldn't see where the collection of Burger King figurines fit in, but I supposed there was no reason why psychopaths shouldn't have unrelated hobbies.”
 
@@ -401,7 +401,7 @@ From a SwiftRead user:
 **Takeaways**
 
 - The difference between a psychopath in Broadmoor and a psychopath on Wall Street may be the luck of being born into a stable, rich family.
-- Actions taken out of anger or dislike can have long-lasting consequences, as seen in Tony's character creation and the avatar created by Joel.
+- Actions taken out of anger or dislike can have long-lasting consequences, as seen in Tony's character création and the avatar created by Joel.
 - People, especially children, may express their dislike or disrespect through humor or jokes, but these expressions can still be hurtful and damaging to the recipient.
 - Overlabeling can occur when people are reduced to their maddest edges, particularly in institutions like hospitals or prisons.
 - Everyone has the capacity to be manipulative and charming, but it is important to consider the intentions and motivations behind such behavior.
@@ -465,13 +465,13 @@ From a SwiftRead user:
 
 ### [The importance of focusing on the process over the goal](https://swiftread.com/books/the-practicing-mind#the-importance-of-focusing-on-the-process-over-the-goal)
 
-- “Real peace and contentment in our lives come from realizing that life is a process to engage in, a journey down a path that we can choose to experience as magical.”
+- “Real peace and contentment in our lives come from realizing that life is a process to engage in, a journey down a path that we can choose to expérience as magical.”
 - “When we learn to focus on and embrace the process of experiencing life, whether we’re working toward a personal aspiration or working through a difficult time, we begin to free ourselves from the stress and anxiety that are born out of our attachment to our goals, our sense that ‘I can’t feel happiness until I reach my goal’.”
 - “This ‘goal’ always takes the form of someplace we have not yet reached, something we don’t yet have but will at some point, and then, we believe, all will be right in our life.”
 - “When we subtly shift toward both focusing on and finding joy in the process of achieving instead of having the goal, we have gained a new skill. And once mastered, it is magical and incredibly empowering.”
 - “We have a very unhealthy habit of making the product — our intended result — the goal, instead of the process of reaching that goal.”
 - “We erroneously think that there is a magical point that we will reach and then we will be happy.”
-- “When you focus on the process, the desired product takes care of itself with fluid ease. When you focus on the product, you immediately begin to fight yourself and experience boredom, restlessness, frustration, and impatience with the process.”
+- “When you focus on the process, the desired product takes care of itself with fluid ease. When you focus on the product, you immediately begin to fight yourself and expérience boredom, restlessness, frustration, and impatience with the process.”
 - “When you focus your mind on the present moment, on the process of what you are doing right now, you are always where you want to be and where you should be.”
 - “In order to focus on the present, we must give up, at least temporarily, our attachment to our desired goal.”
 - “When you shift your goal from the product you are trying to achieve to the process of achieving it, a wonderful phenomenon occurs: all pressure drops away.”
@@ -489,7 +489,7 @@ From a SwiftRead user:
 ### [The Journey Towards Self-Awareness and Patience](https://swiftread.com/books/the-practicing-mind#the-journey-towards-self-awareness-and-patience)
 
 - “As we attempt to understand ourselves and our struggles with life’s endeavors, we may find peace in the observation of a flower. Ask yourself: At what point in a flower’s life, from seed to full bloom, does it reach perfection?”
-- “Most of the anxiety we experience in life comes from our feeling that there is an end point of perfection in everything that we involve ourselves with.”
+- “Most of the anxiety we expérience in life comes from our feeling that there is an end point of perfection in everything that we involve ourselves with.”
 - “Stop yourself during the day as much as you can and ask yourself, ‘Am I practicing flower-like qualities and staying in the present with my thoughts and energies?’”
 - “It is our ego that makes us create false ideas of what perfect is and whether we have reached it.”
 - “You cannot change what you are unaware of.”
@@ -513,7 +513,7 @@ From a SwiftRead user:
 - “Constantly reviewing new ideas creates, in a sense, a new habit of perceiving and processing our lives, a habit that brings us the sense of clarity we long for every day.”
 - “There are not that many ideas in this book; just a few, and they have always been there for us to discover. But they slip away from us in our daily lives so easily. They need to be studied over and over again from different angles so that they become a natural part of us.”
 - “The real thrill of acquiring anything, whether it is an object or a personal goal, is your anticipation of the moment of receiving it. The real joy lies in creating and sustaining the stamina and patience needed to work for something over a period of time.”
-- “When you let go of your attachment to the object you desire and make your desire the experience of staying focused on working toward that object, you fulfill that desire in every minute that you remain patient with your circumstances.”
+- “When you let go of your attachment to the object you desire and make your desire the expérience of staying focused on working toward that object, you fulfill that desire in every minute that you remain patient with your circumstances.”
 - “Simplicity in effort will conquer the most complex of tasks.”
 - “The four ‘S’ words are simplify, small, short, and slow.”
 - “Simplify. When you work at a specific project or activity, simplify it by breaking it down into its component sections.”
@@ -526,11 +526,11 @@ From a SwiftRead user:
 
 ## [Questions](https://swiftread.com/books/the-practicing-mind#questions)
 
-1. How can focusing on the process instead of the goal change your experience of achieving your aspirations?
+1. How can focusing on the process instead of the goal change your expérience of achieving your aspirations?
 2. What might happen if you shift your attention to enjoying the journey of life, rather than fixating on specific outcomes?
 3. In what ways does staying present and mindful affect your overall well-being and ability to tackle challenges?
 4. How does the practice of mindfulness contribute to personal growth and the development of patience and discipline?
 5. Can you identify a moment when letting go of the pursuit of perfection brought you peace or progress?
 6. How do your habits influence your success and happiness, and what steps can you take to cultivate positive ones?
-7. Reflect on a time when focusing on small, deliberate actions helped you achieve a larger goal. What did you learn from that experience?
+7. Reflect on a time when focusing on small, deliberate actions helped you achieve a larger goal. What did you learn from that expérience?
 8. What does it mean to you to "practice flower-like qualities" in your daily life, and how can this perspective reduce stress and anxiety?

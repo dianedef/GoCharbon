@@ -29,7 +29,7 @@ It is called **[TeamPal.ai](https://resonancetech.acemlnb.com/lt.php?x=41Zy~GDD
     
 - **Workflow Automation (The Boring Stuff):** I have research tasks I do every Tuesday. I don't want to do them. I built a text-to-workflow engine where I just describe the process, and the AI builds the automation to run it weekly.
     
-- **The Creative Studio:** I was jumping between 5 different apps for Marketing ad creatives. I shoved them all into one dashboard using the latest AI models, so I can generate, edit, and merge images and videos, all on-brand, without ever switching tabs.
+- **The Creative Studio:** I was jumping between 5 different apps for Marketing ad creatives. I shoved them all into one dashboard using the latest AI models, so I can generate, edit, and merge images and vidéos, all on-brand, without ever switching tabs.
     
 
 If you are tired of doing everything _yourself_, I’d love for you to test out the agents. It is free to try (no credit card required).

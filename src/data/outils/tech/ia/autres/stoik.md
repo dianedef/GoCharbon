@@ -52,8 +52,8 @@ Stoick a été fondé par deux passionnés de l'industrie, Steeve et Julien, qui
 Stoick prévoit d'ajouter de nouvelles fonctionnalités pour améliorer l'expérience des utilisateurs, telles que des outils de gestion de commandes avancés et des options de personnalisation accrues. Ils ont également l'intention de développer davantage leur réseau de fournisseurs locaux. Pour en savoir plus, consulte leur site web ou leurs réseaux sociaux.
 
 ## ⛓️ Liens et Ressources
-- Site Web de Stoick : [https://www.stoick.fr/](https://www.stoick.fr/)
-- Page LinkedIn de Stoick : [https://www.linkedin.com/company/stoick](https://www.linkedin.com/company/stoick)
+- Site Web de Stoick : [https://www.stoick.fr/](__MASK_0__)
+- Page LinkedIn de Stoick : [https://www.linkedin.com/company/stoick](__MASK_1__)
 - Contact : support@stoick.fr
 
 ## 🤝 Programme de Parrainage

@@ -13,7 +13,7 @@ imgUrl: ../../assets/astro.jpeg
 ---
 
 [00:05](https://www.youtube.com/watch?v=aMLdv_3_sb4&t=5#t=5.11)  
-[https://competitors.app/fr/competitors-app/](https://competitors.app/fr/competitors-app/)
+[https://competitors.app/fr/competitors-app/](__MASK_1__)
 
 Action souhaité
 
@@ -21,7 +21,7 @@ Stratégie
 
 Quels avantages ? Du plus fort au moins fort
 
-## Etape 1/5
+## Étape 1/5
 
 S’adapter à tous les niveaux
 

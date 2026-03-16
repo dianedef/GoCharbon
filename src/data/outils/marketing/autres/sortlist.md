@@ -60,8 +60,8 @@ Sortlist travaille constamment à améliorer sa plateforme en ajoutant de nouvel
 
 ## Ressources
 
-- Site Web de Sortlist : [https://www.sortlist.fr/](https://www.sortlist.fr/)
-- Documentation : [https://www.sortlist.fr/blog/](https://www.sortlist.fr/blog/)
+- Site Web de Sortlist : [https://www.sortlist.fr/](__MASK_0__)
+- Documentation : [https://www.sortlist.fr/blog/](__MASK_1__)
 - Support : support@sortlist.fr
 
 ## Programme de Parrainage

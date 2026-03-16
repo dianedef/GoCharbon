@@ -87,7 +87,7 @@ Lengow, ChannelAdvisor, Channable, DataFeedWatch, Feedonomics (BigCommerce), Sel
 - **Sponsored Products** — Publicité produit sponsorisé sur Cdiscount
 - **Sponsored Brands** — Visibilité de marque
 - **Premium Ads** — Emplacements premium
-- **Video Offers** — Publicité vidéo
+- **Vidéo Offers** — Publicité vidéo
 - **Smart Discount Vouchers** — Coupons intelligents
 
 ## Prix

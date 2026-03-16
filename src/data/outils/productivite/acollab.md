@@ -244,7 +244,7 @@ Acollab est une plateforme relativement autonome, mais offre plusieurs points de
 - **Juin 2024** : Refonte technique et graphique de l'agenda, ajout des réservations de créneaux, intégration des objectifs de temps dans Timecollab
 - **Septembre-Octobre 2025** : Refonte complète du module fichiers (drag-and-drop, arborescence, liens externes)
 - **Janvier 2026** : Redesign complet de l'app mobile en **Flutter** (version 4.0.4)
-- **Score de souveraineté** : 67/100 (societe.com)
+- **Score de souveraineté** : 67/100 (société.com)
 
 ### Reconnaissance Presse
 

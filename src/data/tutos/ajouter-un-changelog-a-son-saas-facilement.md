@@ -37,7 +37,7 @@ Chaque entree : date, titre descriptif, type (New/Improved/Fixed/Removed), descr
 
 1. Inscris-toi sur [getlog.co](https://getlog.co)
 2. Configure ton projet : nom, logo, couleurs
-3. Cree ta premiere entree : titre, description, label
+3. Cree ta première entree : titre, description, label
 4. Recupere le lien et ajoute-le dans ton app
 5. Optionnel : active le widget in-app
 
@@ -52,7 +52,7 @@ Canny combine changelog, feedback utilisateur et roadmap publique.
 3. Lie les entrees aux demandes de features -- les users sont notifies quand tu livres
 4. Active la roadmap publique
 
-**Prix (mis a jour 2025) :** En 2025, Canny est passe a une tarification basee sur les "tracked users" (utilisateurs qui laissent du feedback). Plan gratuit : 25 tracked users, posts et boards illimites, Autopilot AI inclus. Core : a partir de 19 $/mois annuel (100+ tracked users, domaine custom, traductions). Pro : a partir de 79 $/mois annuel (integrations PM, privacy avancee). Business : sur devis (5 000+ tracked users, SSO, CRM). Attention : le prix monte vite avec le nombre d'utilisateurs -- a 1 000 users, le plan Core est deja a ~275 $/mois.
+**Prix (mis a jour 2025) :** En 2025, Canny est passe a une tarification basee sur les "tracked users" (utilisateurs qui laissent du feedback). Plan gratuit : 25 tracked users, posts et boards illimites, Autopilot AI inclus. Core : a partir de 19 $/mois annuel (100+ tracked users, domaine custom, traductions). Pro : a partir de 79 $/mois annuel (integrations PM, privacy avancee). Business : sur devis (5 000+ tracked users, SSO, CRM). Attention : le prix monte vite avec le nombre d'utilisateurs -- a 1 000 users, le plan Core est déjà a ~275 $/mois.
 
 ## Option 3 : Headway (widget in-app)
 
@@ -66,7 +66,7 @@ Specialise dans le widget avec badge de notification.
 
 ## Option 5 : Beamer (la reference SaaS)
 
-Beamer est un outil mature de changelog et notifications in-app utilise par 20 000+ equipes produit et marketing.
+Beamer est un outil mature de changelog et notifications in-app utilise par 20 000+ équipes produit et marketing.
 
 1. Inscris-toi sur [getbeamer.com](https://www.getbeamer.com)
 2. Cree tes entrees de changelog
@@ -74,9 +74,9 @@ Beamer est un outil mature de changelog et notifications in-app utilise par 20 0
 4. Segmente les notifications par audience
 5. Mesure l'engagement avec les analytics
 
-**Prix :** Starter : 49 $/mois annuel (5 000 MAU, changelog, analytics). Pro : 99 $/mois annuel (10 000 MAU, commentaires, reactions, segmentation basique). Scale : 249 $/mois annuel (50 000 MAU, segmentation avancee). Feedback et NPS en add-ons payants sur tous les plans. ROI moyen reporte : 520% d'apres Beamer.
+**Prix :** Starter : 49 $/mois annuel (5 000 MAU, changelog, analytics). Pro : 99 $/mois annuel (10 000 MAU, commentaires, reactions, segmentation basique). Scale : 249 $/mois annuel (50 000 MAU, segmentation avancee). Feedback et NPS en add-ons payants sur tous les plans. ROI moyen reporte : 520% d'après Beamer.
 
-## Option 4 : Le faire toi-meme (gratuit)
+## Option 4 : Le faire toi-même (gratuit)
 
 **Avec Notion :** Cree une base de donnees (Date, Titre, Type, Description), trie par date decroissante, publie avec Notion Sites ou Super.so.
 
@@ -90,7 +90,7 @@ Beamer est un outil mature de changelog et notifications in-app utilise par 20 0
 
 **Bon :** "Le dashboard charge 3x plus vite. On a optimise les requetes qui ralentissaient l'affichage."
 
-**Regles :** ecris pour les utilisateurs (pas les devs), explique le benefice, inclus un visuel si possible, sois regulier (1 entree/semaine minimum).
+**Règles :** ecris pour les utilisateurs (pas les devs), explique le benefice, inclus un visuel si possible, sois regulier (1 entree/semaine minimum).
 
 ## Frequence et distribution
 
@@ -105,13 +105,13 @@ Beamer est un outil mature de changelog et notifications in-app utilise par 20 0
 - **Tagge les fonctionnalites demandees.** "Vous l'avez demande, c'est la" fidelise comme rien d'autre.
 - **Inclus les corrections de bugs.** Ca montre que tu es reactif.
 - **Utilise le changelog comme outil de vente.** Un lien dans tes pages pricing et tes demos.
-- **Commence des le jour 1.** Meme avec 3 utilisateurs. L'habitude te servira a 3 000.
+- **Commence des le jour 1.** Même avec 3 utilisateurs. L'habitude te servira a 3 000.
 
 ## Ressources
 
 - [Getlog](https://getlog.co) -- Le plus simple (gratuit + 9 $/mois pour le widget)
 - [Canny](https://canny.io) -- Changelog + feedback + roadmap (gratuit, puis a partir de 19 $/mois)
 - [Headway App](https://headwayapp.co) -- Widget in-app avec badge (a partir de 29 $/mois)
-- [Beamer](https://www.getbeamer.com) -- Reference SaaS, 20 000+ equipes (a partir de 49 $/mois)
+- [Beamer](https://www.getbeamer.com) -- Reference SaaS, 20 000+ équipes (a partir de 49 $/mois)
 - [Notion Sites](https://www.notion.so) -- Alternative gratuite avec une base de donnees publiee
 - [GitHub Releases](https://docs.github.com/en/repositories/releasing-projects-on-github) -- Ideal pour l'open-source

@@ -16,7 +16,7 @@ Sites can load faster and run without issues with proper **WordPress maintenance
 
 ## WP Umbrella Review
 
-WP Umbrella is a good resource for any WordPress site and digital agencies. It sends you **immediate notifications** about potential problems and is a complete WordPress monitoring tool with data certification included.
+WP Umbrella is a good resource for any WordPress site and digital agencies. It sends you **immediate notifications** about potential problems and is a complète WordPress monitoring tool with data certification included.
 
 You can easily manage multiple sites from single location.
 

@@ -15,7 +15,7 @@ imgUrl: ../../../../assets/astro.jpeg
 
 [ALEO - L'Offre de Communication N°1 des TPE](https://www.aleo.agency/lp1-agence-communication/?utm_source=facebook&utm_medium=paid&utm_campaign=Leads%2018%20au%2024%20janvier&utm_content=Communication%20globale)
 
-c’est quoi un erp ? [https://youtu.be/5KAMJVIfEII](https://youtu.be/5KAMJVIfEII)
+c’est quoi un erp ? [https://youtu.be/5KAMJVIfEII](__MASK_1__)
 
 ALL TYPES OF QUIZZES
 Personality Quiz
@@ -41,7 +41,7 @@ I've explained this in detail in [**this post**](https://clicks.aweber.com/y/ct
 
 [CRUSH your Opt-in Conversions using a Personality Quiz!](https://smartquizbuilder.com/how-to-crush-your-opt-in-conversions-using-a-personality-quiz/)
 
-[https://youtu.be/iOb9b6B-UrQ](https://youtu.be/iOb9b6B-UrQ) r
+[https://youtu.be/iOb9b6B-UrQ](__MASK_6__) r
 
 [Quiz Quest 2022 Worksheet - Google Docs](https://docs.google.com/document/d/1Gz9H62Whh-rTH3v9f1madHuQC12jRWT20DF35usg-k0/edit)
 

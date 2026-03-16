@@ -22,11 +22,11 @@ Personnes qui deviennent riches de manière totalement improbable
 
 [Un pêcheur thaïlandais devient riche grâce à du vomi de baleine](https://fr.style.yahoo.com/p%C3%AAcheur-tha%C3%AFlandais-devient-riche-gr%C3%A2ce-112440774.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADC-96a8XM4gWvDo7gpecNc_tkPDd6IguX29H7ITS6ZhT7lqyNF3pIXOmnxZo97imN5lEtJQ0kdfStlSl5HeCNTuOTV27tHGCO90MZ0cjStqyvzfcBgVpXesYVWbErGHy_d147SVptVOdFYymILWgplgnbK3VlyeBrOR3L9mK-OI)
 
-[https://youtu.be/unQPN6BhOeo](https://youtu.be/unQPN6BhOeo)
+[https://youtu.be/unQPN6BhOeo](__MASK_4__)
 
 * [Jake Langley on Twitter: "Twitter loves boring businesses. Well, it doesn't get any more boring than…quilting. But quilting websites are absolutely PRINTING money. Here's a deep dive into the biggest player in the "Quilting Mafia":" / Twitter](https://twitter.com/Jake_Langley/status/1556017536700887040)
 
-	[https://youtu.be/1CeUu8j7xsQ?t=372](https://youtu.be/1CeUu8j7xsQ?t=372)
+	[https://youtu.be/1CeUu8j7xsQ?t=372](__MASK_6__)
 [(3) 5000$ pour des photos de pouce ??? - YouTube](https://www.youtube.com/watch?v=ds_X16BWWkQ)
 
 # Contenu

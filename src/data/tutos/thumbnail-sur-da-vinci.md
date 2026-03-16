@@ -16,24 +16,24 @@ imgUrl: ../../assets/astro.jpeg
 
 ## MINIATURES : PAS BESOIN DE PHOTOSHOP
 
-Tu utilises deja DaVinci Resolve pour ton montage ? Alors tu peux creer tes miniatures YouTube directement dedans, sans ouvrir un autre logiciel. L'onglet Fusion est suffisamment puissant pour ca.
+Tu utilises déjà DaVinci Resolve pour ton montage ? Alors tu peux creer tes miniatures YouTube directement dedans, sans ouvrir un autre logiciel. L'onglet Fusion est suffisamment puissant pour ca.
 
 ---
 
 ## Pourquoi Creer Ses Thumbnails Dans DaVinci ?
 
 - **Gratuit** : pas besoin de Photoshop ou Canva Pro
-- **Coherence** : ta miniature est creee a partir d'un vrai frame de ta video
+- **Coherence** : ta miniature est creee a partir d'un vrai frame de ta vidéo
 - **Puissant** : Fusion permet du compositing avance (detourage, ombres, effets)
-- **Tout au meme endroit** : tu restes dans DaVinci pour le montage ET la miniature
+- **Tout au même endroit** : tu restes dans DaVinci pour le montage ET la miniature
 
 ---
 
-## Etape 1 : Choisir Le Bon Frame
+## Étape 1 : Choisir Le Bon Frame
 
-1. Lis ta video sur la timeline
+1. Lis ta vidéo sur la timeline
 2. Trouve un frame ou ton expression est forte, energique ou intrigante
-3. Regles d'or pour un bon frame :
+3. Règles d'or pour un bon frame :
    - **Expression faciale claire** (surprise, joie, determination)
    - **Bonne luminosite** (pas trop sombre)
    - **Pas de flou de mouvement** (augmente ta vitesse d'obturation a 1/200 pendant le tournage si tu sais que tu vas extraire un frame)
@@ -41,7 +41,7 @@ Tu utilises deja DaVinci Resolve pour ton montage ? Alors tu peux creer tes mini
 
 ---
 
-## Etape 2 : Exporter Le Frame de Base
+## Étape 2 : Exporter Le Frame de Base
 
 ### Methode rapide
 
@@ -52,7 +52,7 @@ Tu utilises deja DaVinci Resolve pour ton montage ? Alors tu peux creer tes mini
 
 ### Methode via Deliver
 
-1. Marque un point In et Out sur le frame unique (I et O sur le meme frame)
+1. Marque un point In et Out sur le frame unique (I et O sur le même frame)
 2. Va dans l'onglet **Deliver**
 3. Choisis le format **JPEG** ou **PNG**
 4. Resolution : **1920x1080** minimum (YouTube recommande 1280x720 mais 1080p est mieux)
@@ -60,11 +60,11 @@ Tu utilises deja DaVinci Resolve pour ton montage ? Alors tu peux creer tes mini
 
 ---
 
-## Etape 3 : Creer La Miniature Dans Fusion
+## Étape 3 : Creer La Miniature Dans Fusion
 
 ### Acceder a Fusion
 
-1. Selectionne le clip contenant ton frame
+1. Sélectionne le clip contenant ton frame
 2. Place la tete de lecture sur le bon frame
 3. Clique sur l'onglet **Fusion** (la baguette magique en bas)
 
@@ -73,7 +73,7 @@ Tu utilises deja DaVinci Resolve pour ton montage ? Alors tu peux creer tes mini
 1. Ajoute un node **Polygon** (ou **Delta Keyer** si tu as un fond uni)
 2. Dessine un masque autour de toi (ou de ton sujet principal)
 3. Affine le contour avec les parametres **Soft Edge** pour un bord propre
-4. Si tu as la version Studio, utilise **Magic Mask** : selectionne "Person" et c'est automatique
+4. Si tu as la version Studio, utilise **Magic Mask** : sélectionne "Person" et c'est automatique
 
 ### Ajouter un fond
 
@@ -88,7 +88,7 @@ Tu utilises deja DaVinci Resolve pour ton montage ? Alors tu peux creer tes mini
 2. Tape ton titre (court, 3-5 mots maximum)
 3. Parametres recommandes :
    - Police : Impact, Bebas Neue, Montserrat Bold
-   - Taille : grande (le texte doit etre lisible en miniature sur mobile)
+   - Taille : grande (le texte doit être lisible en miniature sur mobile)
    - Couleur : blanc ou jaune
    - Contour (Border) : noir, 3-5 pixels
    - Ombre portee : legere ombre noire pour le detacher du fond
@@ -103,9 +103,9 @@ Tu utilises deja DaVinci Resolve pour ton montage ? Alors tu peux creer tes mini
 
 ---
 
-## Etape 4 : Exporter La Miniature
+## Étape 4 : Exporter La Miniature
 
-1. Ajoute un node **Saver** en fin de chaine dans Fusion
+1. Ajoute un node **Saver** en fin de chaîne dans Fusion
 2. Configure : format PNG ou JPEG, resolution 1920x1080 (ou 1280x720 minimum)
 3. Choisis le chemin de sauvegarde
 4. Fais un rendu du frame unique (Render > Start Render)
@@ -114,11 +114,11 @@ Alternative : reviens sur l'onglet Edit, fais un Grab Still depuis le viewer ave
 
 ---
 
-## Les Regles d'Or d'une Bonne Miniature
+## Les Règles d'Or d'une Bonne Miniature
 
 ### Design
 
-- **Maximum 3-5 mots** de texte (lisible meme en petit sur mobile)
+- **Maximum 3-5 mots** de texte (lisible même en petit sur mobile)
 - **Visage en gros plan** avec une expression forte
 - **Contraste eleve** : sujet clair sur fond sombre, ou l'inverse
 - **Couleurs vives** : jaune, rouge, bleu, vert... ca attire l'oeil dans le feed
@@ -143,13 +143,13 @@ Alternative : reviens sur l'onglet Edit, fais un Grab Still depuis le viewer ave
 
 ## Comparaison Avec Les Autres Outils
 
-| Outil | Prix | Detourage auto | Facilite | Qualite |
+| Outil | Prix | Detourage auto | Facilite | Qualité |
 |-------|------|----------------|----------|---------|
 | DaVinci Fusion | Gratuit (Magic Mask auto dans Studio a 295 USD) | Manuel (Studio = auto) | Moyen | Excellente |
 | Canva | Gratuit (limite) / Pro 12,99 USD/mois | Oui | Facile | Bonne |
 | Photoshop | ~23 USD/mois (plan annuel Adobe) | Oui (IA generative) | Moyen | Excellente |
 | GIMP | Gratuit (open source) | Manuel | Difficile | Bonne |
-| Photopea | Gratuit (en ligne, clone Photoshop) | Semi-auto | Moyen | Tres bonne |
+| Photopea | Gratuit (en ligne, clone Photoshop) | Semi-auto | Moyen | Très bonne |
 
 DaVinci est le meilleur choix si tu veux tout faire dans un seul logiciel gratuit. Photopea (photopea.com) est aussi une excellente alternative gratuite en ligne qui fonctionne comme Photoshop directement dans ton navigateur.
 
@@ -160,7 +160,7 @@ DaVinci est le meilleur choix si tu veux tout faire dans un seul logiciel gratui
 - Texte trop petit (teste toujours ta miniature en taille reduite)
 - Trop de texte (5 mots max, serieusement)
 - Miniature qui ne donne pas envie de cliquer (pas d'emotion, pas de curiosite)
-- Utiliser le meme style que tout le monde dans ta niche (demarque-toi)
+- Utiliser le même style que tout le monde dans ta niche (demarque-toi)
 - Oublier de detourer proprement le sujet (bords flous = amateur)
 
 ---
@@ -169,14 +169,14 @@ DaVinci est le meilleur choix si tu veux tout faire dans un seul logiciel gratui
 
 ## Astuce : Creer un Template de Miniature Reutilisable
 
-Pour gagner du temps sur tes prochaines videos :
+Pour gagner du temps sur tes prochaines vidéos :
 
 1. Cree une composition Fusion avec tous tes elements (fond, texte, masque sujet, effets)
 2. Sauvegarde-la comme **Macro** dans Fusion (clic droit sur le groupe de nodes > Create Macro)
 3. Range la Macro dans tes Power Bins
-4. Pour chaque nouvelle video, il te suffit de changer le frame source et le texte
+4. Pour chaque nouvelle vidéo, il te suffit de changer le frame source et le texte
 
-Tu obtiens une identite visuelle coherente sur toutes tes miniatures en quelques minutes.
+Tu obtiens une identité visuelle coherente sur toutes tes miniatures en quelques minutes.
 
 ---
 

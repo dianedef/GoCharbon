@@ -732,7 +732,7 @@ Capsules Illustration
 Instances dédiées par entreprise
 Cloud illustration
 Public Gateway Illustration
-serveurs dedies Core illustration
+serveurs dédiés Core illustration
 Réseaux Privés illustration
 Email transactionnel illustration
 Illustration DNS
@@ -742,7 +742,7 @@ Capsules Illustration
 Instances dédiées par entreprise
 Cloud illustration
 Public Gateway Illustration
-serveurs dedies Core illustration
+serveurs dédiés Core illustration
 Réseaux Privés illustration
 Email transactionnel illustration
 Illustration DNS
@@ -752,7 +752,7 @@ Capsules Illustration
 Instances dédiées par entreprise
 Cloud illustration
 Public Gateway Illustration
-serveurs dedies Core illustration
+serveurs dédiés Core illustration
 Réseaux Privés illustration
 Email transactionnel illustration
 Illustration DNS
@@ -762,7 +762,7 @@ Capsules Illustration
 Instances dédiées par entreprise
 Cloud illustration
 Public Gateway Illustration
-serveurs dedies Core illustration
+serveurs dédiés Core illustration
 Réseaux Privés illustration
 Email transactionnel illustration
 Illustration DNS

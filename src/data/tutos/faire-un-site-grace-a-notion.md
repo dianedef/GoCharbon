@@ -12,19 +12,19 @@ pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Faire Un Site Grace A Notion
+# Faire Un Site Grâce A Notion
 
 ## NOTION COMME CMS : TON SITE WEB SANS CODE
 
 ### tl;dr
 
-Tu n'as pas besoin de WordPress ou de savoir coder pour avoir un site pro. Notion peut devenir ton site web grace a Super.so, Potion ou Notion Sites (natif). Ce tuto te montre les options, les etapes et les limites.
+Tu n'as pas besoin de WordPress ou de savoir coder pour avoir un site pro. Notion peut devenir ton site web grâce à Super.so, Potion ou Notion Sites (natif). Ce tuto te montre les options, les etapes et les limites.
 
 ---
 
 ## Pourquoi utiliser Notion pour faire un site ?
 
-- **Tu connais deja Notion** -- Pas de nouvel outil a apprendre
+- **Tu connais déjà Notion** -- Pas de nouvel outil a apprendre
 - **C'est rapide** -- Un site en ligne en 30 minutes
 - **C'est facile a mettre a jour** -- Tu edites dans Notion, le site se met a jour automatiquement
 - **C'est clean** -- Le design minimaliste de Notion donne un rendu pro sans effort
@@ -40,7 +40,7 @@ Depuis 2024, Notion propose une fonctionnalite native de publication appelee "No
 3. Personnalise : theme (clair/sombre), favicon, header, image de partage
 4. Ajoute un domaine personnalise (add-on payant sur les plans Plus, Business ou Enterprise)
 
-**Avantages :** Gratuit pour publier (meme sur le plan Free), integre, mise a jour instantanee. **Limites :** personnalisation limitee (pas de CSS custom, peu de controle sur le design), URL en notion.site sauf plan payant, performance correcte mais pas optimale pour le SEO competitif. Ideal pour portfolios, pages personnelles, guides et documentations.
+**Avantages :** Gratuit pour publier (même sur le plan Free), integre, mise a jour instantanee. **Limites :** personnalisation limitee (pas de CSS custom, peu de contrôle sur le design), URL en notion.site sauf plan payant, performance correcte mais pas optimale pour le SEO competitif. Ideal pour portfolios, pages personnelles, guides et documentations.
 
 ## Option 2 : Super.so (le plus populaire)
 
@@ -62,7 +62,7 @@ Depuis 2024, Notion propose une fonctionnalite native de publication appelee "No
 
 ## Option 4 : Popsy (attention -- pivot en cours)
 
-Popsy ([popsy.co](https://popsy.co)) a connu un pivot majeur. L'ancienne version (editeur style Notion pour creer des sites) a eu des problemes de stabilite et de disponibilite courant 2025 -- plusieurs utilisateurs ont reporte des pannes prolongees et un manque de communication de l'equipe. Le site a pivote vers un service ou un designer humain cree ton site pour toi : creation gratuite, hebergement a 19 $/mois. Si tu cherches un constructeur de site auto-gere base sur Notion, privilegie Super.so ou Potion.so qui sont plus fiables.
+Popsy ([popsy.co](https://popsy.co)) a connu un pivot majeur. L'ancienne version (editeur style Notion pour creer des sites) a eu des problèmes de stabilite et de disponibilite courant 2025 -- plusieurs utilisateurs ont reporte des pannes prolongees et un manque de communication de l'équipe. Le site a pivote vers un service ou un designer humain cree ton site pour toi : création gratuite, hebergement a 19 $/mois. Si tu cherches un constructeur de site auto-gere base sur Notion, privilegie Super.so ou Potion.so qui sont plus fiables.
 
 ## Structurer ta page Notion pour un site
 
@@ -91,11 +91,11 @@ Popsy ([popsy.co](https://popsy.co)) a connu un pivot majeur. L'ancienne version
 - **Titre et description** : configurables dans Super/Potion
 - **URLs** : propres avec Super/Potion, moches avec Notion natif
 - **Vitesse** : Super optimise le cache. Notion natif est plus lent.
-- **Verdict :** suffisant pour un portfolio ou une landing page. Pas assez pour des mots-cles competitifs.
+- **Verdict :** suffisant pour un portfolio ou une landing page. Pas assez pour des mots-clés competitifs.
 
 ## Astuces GoCharbon
 
-- **Super.so est le meilleur rapport qualite/prix.** 16 $/mois, c'est moins qu'un hebergeur + WordPress.
+- **Super.so est le meilleur rapport qualité/prix.** 16 $/mois, c'est moins qu'un hebergeur + WordPress.
 - **Notion Sites natif suffit pour demarrer.** Gratuit et fonctionnel pour une presence rapide.
 - **Prepare ta structure AVANT d'ecrire.** Dessine l'arborescence sur papier avant de creer les pages.
 - **Duplique un template existant.** Super.so a une galerie de sites exemples.

@@ -28,7 +28,7 @@ https://www.fontreach.com/phosphate-inline-font-free-download/
 
 Snap Captions n'est pas un plugin ordinaire ; c'est un concentré de gain de temps conçu pour les professionnels de la création qui veulent se concentrer davantage sur la création de contenu et moins sur les tâches fastidieuses. Développé par Orson Lord et Dan Nolton, ce plugin exploite la fonction intégrée de sous-titres automatiques de Da Vinci Resolve, mais va encore plus loin. Il extrait le texte d'une piste de sous-titres et le convertit en éléments de texte animés personnalisables et modélisés.
 
-acheter telecharger [Snap Captions - orson lord's Ko-fi Shop - Ko-fi ❤️ Where creators get support from fans through donations, memberships, shop sales and more! The original 'Buy Me a Coffee' Page.](https://ko-fi.com/s/67e49a15e7)
+acheter télécharger [Snap Captions - orson lord's Ko-fi Shop - Ko-fi ❤️ Where creators get support from fans through donations, memberships, shop sales and more! The original 'Buy Me a Coffee' Page.](https://ko-fi.com/s/67e49a15e7)
 
 ### Drag the Lua File into the Resolve Directory
 

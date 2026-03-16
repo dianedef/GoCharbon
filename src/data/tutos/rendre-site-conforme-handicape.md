@@ -14,13 +14,13 @@ imgUrl: ../../assets/astro.jpeg
 
 # ACCESSIBILITE WEB : RENDS TON SITE UTILISABLE PAR TOUS
 
-En France, 12 millions de personnes vivent avec un handicap. Un site inaccessible, c'est 15-20% de ton audience potentielle que tu exclus. Et depuis 2023, la loi impose des obligations d'accessibilite a de plus en plus d'entreprises. Voici comment rendre ton site conforme, etape par etape.
+En France, 12 millions de personnes vivent avec un handicap. Un site inaccessible, c'est 15-20% de ton audience potentielle que tu exclus. Et depuis 2023, la loi impose des obligations d'accessibilite a de plus en plus d'entreprises. Voici comment rendre ton site conforme, étape par étape.
 
 ## Ce que dit la loi en France
 
 ### Le RGAA (Referentiel General d'Amelioration de l'Accessibilite)
 
-Le RGAA est le referentiel francais base sur les WCAG (Web Content Accessibility Guidelines) du W3C. La version actuelle est le **RGAA 4.1.2** (mise a jour en 2022, toujours en vigueur en 2025). Il definit **106 tests precis** repartis en 13 thematiques.
+Le RGAA est le referentiel français base sur les WCAG (Web Content Accessibility Guidelines) du W3C. La version actuelle est le **RGAA 4.1.2** (mise a jour en 2022, toujours en vigueur en 2025). Il definit **106 tests précis** repartis en 13 thématiques.
 
 **Qui est concerne ?**
 - Les sites publics (administrations, collectivites) : obligatoire depuis 2012 (loi n2005-102)
@@ -30,25 +30,25 @@ Le RGAA est le referentiel francais base sur les WCAG (Web Content Accessibility
 
 **Sanctions** : jusqu'a 50 000 EUR d'amende par an pour les sites publics non conformes. Pour le prive, les recours juridiques se multiplient. **En novembre 2025**, les premieres plaintes EAA ont ete deposees en France contre des enseignes de la grande distribution (Auchan, Carrefour, E.Leclerc, Picard) par des associations de droits des personnes handicapees (ApiDV et Droit Pluriel), via des procedures d'urgence (refere).
 
-**Chiffre cle** : en 2025, seulement 3,4% des sites des grandes entreprises francaises sont conformes aux normes d'accessibilite.
+**Chiffre clé** : en 2025, seulement 3,4% des sites des grandes entreprises françaises sont conformes aux normes d'accessibilite.
 
 ### Les niveaux WCAG
 
 Le RGAA est aligne sur les **WCAG 2.1** (et les WCAG 2.2 publiees en octobre 2023 sont de plus en plus referencees) :
 
 - **Niveau A** : le minimum vital (textes alternatifs, navigation clavier, pas de contenu clignotant)
-- **Niveau AA** : le standard recommande et exige par le RGAA (contrastes suffisants, texte redimensionnable, sous-titres video)
+- **Niveau AA** : le standard recommande et exige par le RGAA (contrastes suffisants, texte redimensionnable, sous-titres vidéo)
 - **Niveau AAA** : l'excellence (langue des signes, audio-description, navigation simplifiee)
 
-**Nouveautes WCAG 2.2** (2023) : 9 nouveaux criteres de succes dont :
+**Nouveautes WCAG 2.2** (2023) : 9 nouveaux criteres de succès dont :
 - Focus visible ameliore (2.4.11) : le focus doit avoir un contraste minimum de 3:1
 - Taille minimale des cibles (2.5.8) : les elements cliquables doivent faire au moins 24x24 CSS pixels
-- Aide coherente (3.2.6) : les mecanismes d'aide doivent apparaitre au meme endroit sur toutes les pages
+- Aide coherente (3.2.6) : les mecanismes d'aide doivent apparaitre au même endroit sur toutes les pages
 - Authentification accessible (3.3.8) : pas de test cognitif obligatoire pour se connecter
 
 Le RGAA exige le **niveau AA**.
 
-## Etape 1 : Audite ton site
+## Étape 1 : Audite ton site
 
 Avant de corriger, il faut savoir ce qui ne va pas.
 
@@ -68,16 +68,16 @@ Avant de corriger, il faut savoir ce qui ne va pas.
 **axe DevTools** (extension Chrome)
 1. Installe l'extension [axe DevTools](https://www.deque.com/axe/devtools/)
 2. Ouvre les DevTools (F12) > onglet axe
-3. Scanne la page -- l'outil classe les problemes par severite
+3. Scanne la page -- l'outil classe les problèmes par severite
 
 **Disability Simulator** -- [disabilitysimulator.com](https://www.disabilitysimulator.com/)
-Simule differents handicaps visuels (daltonisme, basse vision, tunnel vision) sur ta page. Tres utile pour comprendre l'experience reelle de tes utilisateurs.
+Simule differents handicaps visuels (daltonisme, basse vision, tunnel vision) sur ta page. Très utile pour comprendre l'expérience reelle de tes utilisateurs.
 
 ### Limites des outils automatiques
 
-Les outils automatiques detectent environ **30-40% des problemes**. Le reste necessite un test manuel : navigation au clavier, test avec un lecteur d'ecran (NVDA sur Windows, VoiceOver sur Mac), verification du sens des textes alternatifs.
+Les outils automatiques detectent environ **30-40% des problèmes**. Le reste necessite un test manuel : navigation au clavier, test avec un lecteur d'ecran (NVDA sur Windows, VoiceOver sur Mac), verification du sens des textes alternatifs.
 
-## Etape 2 : Les quick wins (impact immediat)
+## Étape 2 : Les quick wins (impact immediat)
 
 ### 1. Textes alternatifs sur les images
 
@@ -109,7 +109,7 @@ Les titres doivent suivre une hierarchie logique : H1 > H2 > H3. Pas de H3 sans 
 
 Verifie que tu peux :
 - Naviguer entre les elements avec **Tab**
-- Voir clairement quel element est selectionne (focus visible)
+- Voir clairement quel element est sélectionne (focus visible)
 - Activer les boutons et liens avec **Entree** ou **Espace**
 - Ne pas rester "piege" dans un element (modal, menu deroulant)
 
@@ -132,12 +132,12 @@ Chaque champ doit avoir un `<label>` associe :
 <input type="email" id="email" name="email">
 ```
 
-Les messages d'erreur doivent etre clairs et associes au champ concerne.
+Les messages d'erreur doivent être clairs et associes au champ concerne.
 
-## Etape 3 : Les actions structurelles
+## Étape 3 : Les actions structurelles
 
-### Sous-titres sur les videos
-Toute video avec de la parole doit avoir des sous-titres. YouTube les genere automatiquement, mais verifie-les -- la qualite automatique n'est pas toujours suffisante.
+### Sous-titres sur les vidéos
+Toute vidéo avec de la parole doit avoir des sous-titres. YouTube les génère automatiquement, mais verifie-les -- la qualité automatique n'est pas toujours suffisante.
 
 ### Langue de la page
 Declare la langue dans le HTML : `<html lang="fr">`. Ca permet aux lecteurs d'ecran de prononcer le contenu correctement.
@@ -146,7 +146,7 @@ Declare la langue dans le HTML : `<html lang="fr">`. Ca permet aux lecteurs d'ec
 Utilise les balises semantiques HTML5 : `<header>`, `<nav>`, `<main>`, `<aside>`, `<footer>`. Elles permettent aux utilisateurs de lecteurs d'ecran de naviguer rapidement entre les sections.
 
 ### Declaration d'accessibilite
-La loi impose de publier une declaration d'accessibilite sur ton site. Elle doit mentionner : le niveau de conformite vise, les parties non conformes, un moyen de contact pour signaler un probleme.
+La loi impose de publier une declaration d'accessibilite sur ton site. Elle doit mentionner : le niveau de conformite vise, les parties non conformes, un moyen de contact pour signaler un problème.
 
 ## Checklist rapide
 
@@ -156,11 +156,11 @@ La loi impose de publier une declaration d'accessibilite sur ton site. Elle doit
 - [ ] Le site est navigable au clavier
 - [ ] Les liens ont un texte descriptif
 - [ ] Les formulaires ont des labels associes
-- [ ] Les videos ont des sous-titres
+- [ ] Les vidéos ont des sous-titres
 - [ ] La langue est declaree dans le HTML
 - [ ] Un lien "aller au contenu" est present en haut de page
 - [ ] La declaration d'accessibilite est publiee
 
 ## Ce qu'il faut retenir
 
-L'accessibilite n'est pas un projet ponctuel, c'est un reflexe a integrer a chaque creation de page. Commence par un audit WAVE + Lighthouse, corrige les quick wins (alt, contrastes, titres, clavier), puis progresse vers le niveau AA complet. Un site accessible est aussi un site mieux structure, mieux reference, et plus agreable pour tout le monde.
+L'accessibilite n'est pas un projet ponctuel, c'est un reflexe a integrer a chaque création de page. Commence par un audit WAVE + Lighthouse, corrige les quick wins (alt, contrastes, titres, clavier), puis progresse vers le niveau AA complet. Un site accessible est aussi un site mieux structure, mieux reference, et plus agreable pour tout le monde.

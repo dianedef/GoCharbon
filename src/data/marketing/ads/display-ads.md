@@ -13,9 +13,9 @@ imgUrl: ../../../assets/astro.jpeg
 
 # DISPLAY ADS : FORMATS, TAILLES ET SPECIFICATIONS TECHNIQUES
 
-Tu as ta strategie display en place. Maintenant, il faut creer des bannieres qui respectent les specs techniques de chaque plateforme. Parce qu'une banniere refusee ou mal dimensionnee, c'est du temps et de l'argent perdus.
+Tu as ta stratégie display en place. Maintenant, il faut creer des bannieres qui respectent les specs techniques de chaque plateforme. Parce qu'une bannière refusee ou mal dimensionnee, c'est du temps et de l'argent perdus.
 
-Ce guide est ta reference technique : tailles, poids, formats, specifications par reseau. Garde-le en favori.
+Ce guide est ta reference technique : tailles, poids, formats, specifications par réseau. Garde-le en favori.
 
 ---
 
@@ -41,7 +41,7 @@ L'IAB (Interactive Advertising Bureau) definit les standards de la publicite dig
 | 320x50 | 320 x 50 | Mobile Leaderboard | Standard mobile, le plus courant |
 | 320x100 | 320 x 100 | Large Mobile Banner | Meilleur CTR que le 320x50 (+50%) |
 | 300x250 | 300 x 250 | Medium Rectangle | Fonctionne aussi en mobile |
-| 320x480 | 320 x 480 | Mobile Interstitial | Plein ecran, CTR tres eleve mais intrusif |
+| 320x480 | 320 x 480 | Mobile Interstitial | Plein ecran, CTR très eleve mais intrusif |
 | 300x50 | 300 x 50 | Mobile Banner | Format minimal, faible engagement |
 
 ### Conseil prioritaire
@@ -77,25 +77,25 @@ Si tu ne peux creer que 3 tailles, choisis celles-ci :
 **Bannieres HTML5 :**
 - Taille du fichier ZIP : 150 Ko max
 - Doit inclure un fichier HTML comme point d'entree
-- Duree d'animation : 30 secondes max
-- Doit se figer sur le dernier frame apres la boucle
+- Durée d'animation : 30 secondes max
+- Doit se figer sur le dernier frame après la boucle
 - Pas de JavaScript externe (Google Web Designer recommande)
 
 ### Meta Audience Network
 
 - Images : 1200x628 px minimum (ratio 1,91:1)
 - Ratio image : 9:16 a 16:9
-- Texte sur l'image : moins de 20% de la surface (recommandation, plus une regle stricte)
+- Texte sur l'image : moins de 20% de la surface (recommandation, plus une règle stricte)
 - Poids max : 30 Mo
-- Formats : JPG, PNG, GIF, MP4 (video)
-- Video : 1 seconde a 241 minutes, mais 15 secondes recommandees
+- Formats : JPG, PNG, GIF, MP4 (vidéo)
+- Vidéo : 1 seconde a 241 minutes, mais 15 secondes recommandees
 
 ### Criteo
 
-- Bannieres generees dynamiquement a partir de ton flux produits
+- Bannieres générées dynamiquement a partir de ton flux produits
 - Necessite : flux produit au format XML/CSV avec images, prix, descriptions
 - Images produit recommandees : 400x400 px minimum, fond blanc
-- Criteo gere la creation des bannieres automatiquement via son moteur creatif
+- Criteo gere la création des bannieres automatiquement via son moteur creatif
 
 ---
 
@@ -112,10 +112,10 @@ Les plateformes (Google, Meta) assemblent automatiquement tes elements creatifs 
 
 ### Bannieres fixes (quand c'est encore pertinent)
 
-- **Controle total** sur le rendu visuel (luxe, mode, marques haut de gamme)
+- **Contrôle total** sur le rendu visuel (luxe, mode, marques haut de gamme)
 - **Rich media** et animations complexes impossibles en responsive
 - **Campagnes sur des sites premium** ou tu choisis l'emplacement exact
-- **Tests creatifs** ou tu veux comparer des concepts visuels tres differents
+- **Tests creatifs** ou tu veux comparer des concepts visuels très differents
 
 **La bonne approche** : utilise les responsive ads comme base (80% de ton budget display), et cree des bannieres fixes pour les campagnes premium ou le retargeting personalise.
 
@@ -125,20 +125,20 @@ Les plateformes (Google, Meta) assemblent automatiquement tes elements creatifs 
 
 ### Les formats rich media
 
-Les rich media sont des publicites interactives qui vont au-dela de l'image statique ou animee. Ils offrent une experience immersive.
+Les rich media sont des publicités interactives qui vont au-dela de l'image statique ou animee. Ils offrent une expérience immersive.
 
 **Expandable Ads** :
-- La banniere commence en taille standard (ex: 300x250)
+- La bannière commence en taille standard (ex: 300x250)
 - Au clic ou survol, elle s'etend (ex: 600x500)
 - Taux d'interaction : 3 a 5% en moyenne (vs. 0,1% pour le display classique)
 
 **Floating Ads** :
 - La publicite "flotte" au-dessus du contenu de la page
-- Tres visible mais tres intrusif
+- Très visible mais très intrusif
 - A utiliser avec parcimonie (risque de degrader la marque)
 
-**In-banner Video** :
-- Une video joue directement dans l'espace banniere
+**In-banner Vidéo** :
+- Une vidéo joue directement dans l'espace bannière
 - Auto-play mute obligatoire (les navigateurs bloquent le son)
 - Taux d'engagement 5x superieur aux bannieres statiques
 
@@ -156,15 +156,15 @@ Les rich media sont des publicites interactives qui vont au-dela de l'image stat
 - Templates disponibles pour les tailles standard
 
 **Autres outils** :
-- **Creatopy** : editeur drag-and-drop, bibliotheque de templates, export multi-format (a partir de 17 EUR/mois)
+- **Creatopy** : editeur drag-and-drop, bibliothèque de templates, export multi-format (a partir de 17 EUR/mois)
 - **BannerBoo** : specialise bannieres animees, interface simple (a partir de 12 EUR/mois)
-- **Adobe Animate** : pour les agences et designers, controle total (abonnement Creative Cloud)
+- **Adobe Animate** : pour les agences et designers, contrôle total (abonnement Creative Cloud)
 
 ---
 
 ## Dynamic Creative Optimization (DCO)
 
-Le DCO, c'est la personnalisation des bannieres en temps reel en fonction de l'utilisateur. L'idee : au lieu de creer 50 variantes manuellement, tu fournis des elements (images, textes, prix, CTA) et l'algorithme assemble la combinaison optimale pour chaque impression.
+Le DCO, c'est la personnalisation des bannieres en temps reel en fonction de l'utilisateur. L'idée : au lieu de creer 50 variantes manuellement, tu fournis des elements (images, textes, prix, CTA) et l'algorithme assemble la combinaison optimale pour chaque impression.
 
 ### Cas d'usage concrets
 
@@ -179,7 +179,7 @@ Le DCO, c'est la personnalisation des bannieres en temps reel en fonction de l'u
 - **Google Ads** : DCO basique via les Responsive Display Ads
 - **Criteo** : DCO avancé, surtout pour l'e-commerce
 - **Abyssale** : generation de bannieres par lot avec personnalisation data-driven
-- **Celtra** : plateforme DCO enterprise, utilisee par les grandes marques
+- **Celtra** : plateforme DCO enterprise, utilisée par les grandes marques
 
 ---
 
@@ -189,8 +189,8 @@ Le DCO, c'est la personnalisation des bannieres en temps reel en fonction de l'u
 - [ ] Poids des fichiers verifie (< 150 Ko pour GDN)
 - [ ] Texte lisible a 100% de zoom
 - [ ] CTA visible et contrastant
-- [ ] Logo present sur chaque banniere
-- [ ] Landing page coherente avec la banniere (meme promesse, memes visuels)
+- [ ] Logo present sur chaque bannière
+- [ ] Landing page coherente avec la bannière (même promesse, memes visuels)
 - [ ] URL de destination testee (pas de 404)
 - [ ] Tracking UTM configure sur chaque URL
 - [ ] Version mobile testee sur smartphone reel
@@ -200,12 +200,12 @@ Le DCO, c'est la personnalisation des bannieres en temps reel en fonction de l'u
 
 ## Tendances display 2025
 
-**L'IA generative dans la creation** : Google et Meta proposent deja la generation automatique de visuels publicitaires par IA. En 2025, 30% des bannieres display seront creees ou assistees par l'IA (Forrester).
+**L'IA generative dans la création** : Google et Meta proposent déjà la generation automatique de visuels publicitaires par IA. En 2025, 30% des bannieres display seront creees ou assistees par l'IA (Forrester).
 
 **La disparition des cookies tiers** : Chrome a repousse, mais le cookieless arrive. Le ciblage contextuel (basé sur le contenu de la page plutot que l'historique de l'utilisateur) fait son grand retour.
 
 **Le DOOH (Digital Out-Of-Home)** : la convergence entre display digital et affichage physique. Les ecrans urbains deviennent programmatiques et ciblables.
 
-**Les formats immersifs** : les publicites en realite augmentee et les formats 3D interactifs sortent des labs pour entrer dans les plans media.
+**Les formats immersifs** : les publicités en realite augmentee et les formats 3D interactifs sortent des labs pour entrer dans les plans media.
 
-Le display evolue vite. Ce qui ne change pas : une banniere bien concue, avec le bon message, devant la bonne personne, ca fonctionne. Les specs techniques sont juste le ticket d'entree.
+Le display evolue vite. Ce qui ne change pas : une bannière bien concue, avec le bon message, devant la bonne personne, ca fonctionne. Les specs techniques sont juste le ticket d'entree.

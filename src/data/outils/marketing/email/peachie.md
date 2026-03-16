@@ -50,7 +50,7 @@ Merci à tous ceux qui seront là 🙏🏼
 Show translation
 le founder Oui j’ai des réseaux :
 
-LinkedIn (profil) : [https://www.linkedin.com/in/thibaultent/](https://www.linkedin.com/in/thibaultent/)  
+LinkedIn (profil) : [https://www.linkedin.com/in/thibaultent/](__MASK_0__)  
 LinkedIn (page) : [LinkedIn Login, Sign in | LinkedIn](https://www.linkedin.com/company/92764185)
 
 [(5) Facebook](https://www.facebook.com/thibault.ent)

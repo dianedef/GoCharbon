@@ -34,12 +34,12 @@ Affiliates earn a **recurring 20% commission** on all HARPA product sales from
 
 I will post them above. PS - just use the "Smart Agent", and ask how to use HARPA'S features. With the Smart Agent, she can explain her own functions very easily.
   
-The hotkeys are contextual. Meaning if you navigate e.g. to YouTube, you get hotkeys for video summarization, asking video a question, script creation etc. If you type a comment in YouTube then the hotkeys are to rewrite, rephrase, fix grammar, finish writing, translate. If you select a text, the hotkeys update to be relevant. Try and experiment with the features. We will make this whole system configurable later on, so that you can tell HARPA to show specific commands and hotkeys you like and use the most.
+The hotkeys are contextual. Meaning if you navigate e.g. to YouTube, you get hotkeys for vidéo summarization, asking vidéo a question, script création etc. If you type a comment in YouTube then the hotkeys are to rewrite, rephrase, fix grammar, finish writing, translate. If you select a text, the hotkeys update to be relevant. Try and experiment with the features. We will make this whole system configurable later on, so that you can tell HARPA to show specific commands and hotkeys you like and use the most.
 HARPA AI chrome extension brings AI-powered shortcut hotkeys for unparalleled productivity.
 
 To activate an AI command in your browser, get HARPA extension from https://get.harpa.ai and press one of the following combinations:
 
-- //U to Summarize pages, long Articles, YouTube videos.
+- //U to Summarize pages, long Articles, YouTube vidéos.
 - //S to search the web and compile a hallucination free answer using AI, similar to Perplexity.
 - //E to get instant explanations for any term, look up company info etc.
 - //A to "talk to page", YouTube transcripts and opened PDF documents.
@@ -62,7 +62,7 @@ Search faster with auto-generated follow-up questions in the **/ask** & **/ex
 
 Use new ChatGPT Web Session connection, which has been redesigned and fixed to support new ChatGPT communication protocols.
 
-Additionally, HARPA now intelligently overlays relevant summary takeaways as you skim through YouTube videos:
+Additionally, HARPA now intelligently overlays relevant summary takeaways as you skim through YouTube vidéos:
 
 
 HARPA v8.5 comes with improved premium **CLOUD GPT AI connection**. CLOUD GPT offers a higher level of reliability compared to Web Session connections, has no country blocks, and is tuned for data summarization.

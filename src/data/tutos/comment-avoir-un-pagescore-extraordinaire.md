@@ -18,7 +18,7 @@ Stratégie
 
 Quels avantages ? Du plus fort au moins fort
 
-## Etape 1/5
+## Étape 1/5
 
 S’adapter à tous les niveaux
 

@@ -75,7 +75,7 @@ Donc si j’ai 10 IP différentes, sans prendre en compte le fait que le contenu
 Fait un petit check avec [https://www.mail-tester.com 118](https://www.mail-tester.com/), cela devrait te donner plusieurs pistes
 
 La signature utilise une image ?  
-si oui, l’image vient d’un nom de domaine qui est peut etre blacklisté :  
+si oui, l’image vient d’un nom de domaine qui est peut être blacklisté :  
 check avec cet outil si le domain n’est pas blacklisté : [https://mxtoolbox.com/blacklists.aspx 117](https://mxtoolbox.com/blacklists.aspx)
 
 tu peux faire un test en hébergeant l’image sur [cloudinary.com 8](http://cloudinary.com/), et voir si tu recois l’email en spam

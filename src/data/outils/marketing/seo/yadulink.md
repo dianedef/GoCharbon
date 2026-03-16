@@ -68,7 +68,7 @@ Pour voir en un clin d’œil ce que Yadulink peut faire, checkez notre showcase
 - Roadmap publique disponible sur leur site
 
 ## ⛓️ Liens et Ressources
-- Site Web: [https://www.saashub.com/yadulink?utm_source=badge&utm_campaign=badge&utm_content=yadulink&badge_variant=color&badge_kind=approved](https://www.saashub.com/yadulink?utm_source=badge&utm_campaign=badge&utm_content=yadulink&badge_variant=color&badge_kind=approved)
+- Site Web: [https://www.saashub.com/yadulink?utm_source=badge&utm_campaign=badge&utm_content=yadulink&badge_variant=color&badge_kind=approved](__MASK_0__)
 - Support: dupont@yadulink.com
 
 ## 🤝 Programme de Parrainage

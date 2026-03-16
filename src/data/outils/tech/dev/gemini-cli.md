@@ -40,6 +40,6 @@ In detail, you’ll:
 Install Gemini CLI, explore its open-source architecture, and learn how it reasons through tasks, calls tools, and leverages the command line to power complex workflows.
 Automate coding workflows with GitHub Actions for pull request reviews and apply Gemini CLI to creative tasks like generating social media content from conference recordings and organizing multimedia study materials.
 Manage the context window with gemini.md files and extend capabilities by connecting Model Context Protocol (MCP) servers and Gemini CLI extensions to orchestrate across local files, cloud databases, and services like GitHub, Canva and Google Workspace.
-Build complete software features including a conference session catalog and an interactive data dashboard that combines local CSV files with cloud data sources—experiencing the full development workflow from research to testing.
+Build complète software features including a conference session catalog and an interactive data dashboard that combines local CSV files with cloud data sources—experiencing the full development workflow from research to testing.
 Use Gemini CLI as a learning tool by organizing course materials on your filesystem and grounding responses with web search for accurate, cited information.
-Whether you’re prototyping applications, automating development workflows, or studying topics in agentic AI, this course gives you hands-on experience coordinating multiple tools to build faster and work more efficiently.
+Whether you’re prototyping applications, automating development workflows, or studying topics in agentic AI, this course gives you hands-on expérience coordinating multiple tools to build faster and work more efficiently.

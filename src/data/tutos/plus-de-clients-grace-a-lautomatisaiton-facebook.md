@@ -33,7 +33,7 @@ Les 2 tests de diagnostic que tu vas apprendre t'aideront immédiatement :
  Fais-moi savoir quels sont les résultats de ton test (après avoir regardé ici). Je sais à quel point ces deux diagnostics peuvent t'ouvrir les yeux !
 
 
-[(17) Audience & Influence 📣 New Ways To Gain Massive Engagement On Facebook | # **How to MONETIZE Facebook Videos 🤑 (In-Stream Ads For Facebook Profiles)** | Facebook](https://www.facebook.com/groups/audienceandinfluence/posts/758874782688587/)
+[(17) Audience & Influence 📣 New Ways To Gain Massive Engagement On Facebook | # **How to MONETIZE Facebook Vidéos 🤑 (In-Stream Ads For Facebook Profiles)** | Facebook](https://www.facebook.com/groups/audienceandinfluence/posts/758874782688587/)
 
 
 L'épisode n°3 de la série de formation en 3 parties t'aidant à obtenir plus de prospects CIBLÉS à partir de Facebook est maintenant disponible.

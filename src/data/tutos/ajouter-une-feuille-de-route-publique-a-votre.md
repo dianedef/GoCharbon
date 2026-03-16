@@ -25,7 +25,7 @@ Une roadmap publique, c'est une page ou tes utilisateurs voient ce que tu constr
 - Ca reduit les tickets support "est-ce que vous prevoyez de..."
 
 ### Pour toi
-- Tu recois du feedback direct sur tes priorites
+- Tu recois du feedback direct sur tes priorités
 - Tu identifies les fonctionnalites les plus demandees (pas celles que tu imagines)
 - Ca augmente la retention : un utilisateur qui voit "sa" feature sur la roadmap reste plus longtemps
 - Ca cree un effet communautaire qui renforce la stickiness de ton produit
@@ -34,11 +34,11 @@ Une roadmap publique, c'est une page ou tes utilisateurs voient ce que tu constr
 - Un prospect hesitant voit que le produit a un avenir clair
 - Ca differencie ton SaaS des concurrents qui communiquent peu sur leur evolution
 
-## Les outils dedies
+## Les outils dédiés
 
 ### Canny -- Le plus complet
 
-[Canny](https://canny.io/) est la reference des roadmaps publiques avec systeme de vote.
+[Canny](https://canny.io/) est la reference des roadmaps publiques avec système de vote.
 
 **Configuration** :
 1. Cree un compte sur canny.io
@@ -47,8 +47,8 @@ Une roadmap publique, c'est une page ou tes utilisateurs voient ce que tu constr
 4. Personnalise le branding (logo, couleurs, domaine custom type roadmap.tonsite.com)
 5. Integre le widget sur ton site ou partage le lien direct
 
-**Fonctionnalites cles** :
-- Systeme de vote : les utilisateurs votent pour les features qu'ils veulent
+**Fonctionnalites clés** :
+- Système de vote : les utilisateurs votent pour les features qu'ils veulent
 - Changelog integre : annonce les nouvelles features directement depuis Canny
 - SSO : connexion automatique pour tes utilisateurs existants
 - Integrations : Jira, Linear, GitHub, Intercom, Slack
@@ -57,41 +57,41 @@ Une roadmap publique, c'est une page ou tes utilisateurs voient ce que tu constr
 - **Free** : 1 board, jusqu'a 25 tracked users, fonctionnalites limitees (pas de domaine custom, pas de SSO)
 - **Core** : a partir de 19 USD/mois -- boards illimites, domaine custom, integrations Jira/Linear/GitHub, changelog. Le prix augmente avec le nombre de tracked users
 - **Pro** : a partir de 79 USD/mois -- SSO, segmentation utilisateurs, scoring automatique des features, API avancee. Le prix augmente aussi avec le nombre de tracked users
-- **Business** : sur devis -- fonctionnalites enterprise, SLA, support dedie
+- **Business** : sur devis -- fonctionnalites enterprise, SLA, support dédié
 
-**Attention** : le modele usage-based signifie que ton prix peut augmenter automatiquement si tes utilisateurs interagissent plus avec tes boards. Verifie bien les paliers avant de t'engager. A 1 000 tracked users, le plan Core coute environ 200 USD/mois.
+**Attention** : le modele usage-based signifie que ton prix peut augmenter automatiquement si tes utilisateurs interagissent plus avec tes boards. Verifie bien les paliers avant de t'engager. A 1 000 tracked users, le plan Core coûte environ 200 USD/mois.
 
-### ProductBoard -- Pour les equipes produit
+### ProductBoard -- Pour les équipes produit
 
 [ProductBoard](https://www.productboard.com/) est un outil de product management complet dont la roadmap publique est une fonctionnalite.
 
-**Point fort** : tu peux lier les demandes utilisateurs a tes epics/features internes. Les equipes produit structurees adorent.
+**Point fort** : tu peux lier les demandes utilisateurs a tes epics/features internes. Les équipes produit structurees adorent.
 
 **Prix (2025)** : ProductBoard facture par "maker" (les utilisateurs qui gerent les features, pas ceux qui votent) :
-- **Starter** : gratuit -- 1 maker, roadmap basique, portal public (roadmap + idees). Ideal pour tester
+- **Starter** : gratuit -- 1 maker, roadmap basique, portal public (roadmap + idées). Ideal pour tester
 - **Essentials** : 19 USD/maker/mois -- portail de feedback, roadmaps multiples, integrations basiques (Jira, Slack)
 - **Pro** : 59 USD/maker/mois -- objectifs et KPIs, segmentation clients, scoring des features, intégrations avancees (Salesforce, Intercom, Zendesk)
-- **Enterprise** : sur devis -- SSO/SAML, permissions avancees, audit log, support dedie
+- **Enterprise** : sur devis -- SSO/SAML, permissions avancees, audit log, support dédié
 
-Essai gratuit de 15 jours sur tous les plans payants. Adapte aux equipes produit structurees de 3+ personnes.
+Essai gratuit de 15 jours sur tous les plans payants. Adapte aux équipes produit structurees de 3+ personnes.
 
 ### Frill -- L'alternative abordable
 
-[Frill](https://frill.co/) combine roadmap, idees/votes et changelog.
+[Frill](https://frill.co/) combine roadmap, idées/votes et changelog.
 
 **Prix (2025)** :
-- **Startup** : 25 USD/mois -- 1 board, jusqu'a 50 idees, roadmap, changelog, widget integrable
-- **Business** : 49 USD/mois -- boards illimites, idees illimitees, domaine custom, branding personnalise, integrations (Jira, Slack, Intercom)
+- **Startup** : 25 USD/mois -- 1 board, jusqu'a 50 idées, roadmap, changelog, widget integrable
+- **Business** : 49 USD/mois -- boards illimites, idées illimitees, domaine custom, branding personnalise, integrations (Jira, Slack, Intercom)
 - **Growth** : 149 USD/mois -- mode prive (roadmap reservee a certains utilisateurs), sondages, white-label complet, widget personnalise, priorite support
 - **Enterprise** : a partir de 349 USD/mois -- SSO/SAML, permissions avancees, SLA
 
 Pas de plan gratuit permanent, mais un essai gratuit de 14 jours.
 
-**Point fort** : le meilleur rapport qualite-prix pour les petites equipes et les solopreneurs. Interface claire, mise en place en 30 minutes.
+**Point fort** : le meilleur rapport qualité-prix pour les petites équipes et les solopreneurs. Interface claire, mise en place en 30 minutes.
 
 ### Nolt -- Minimaliste et efficace
 
-[Nolt](https://nolt.io/) est un board de feedback simple avec systeme de vote.
+[Nolt](https://nolt.io/) est un board de feedback simple avec système de vote.
 
 **Prix** : a partir de 25 USD/mois.
 
@@ -101,7 +101,7 @@ Pas de plan gratuit permanent, mais un essai gratuit de 14 jours.
 |-------|-------------|----------------------|---------|-------|-----------|------------|
 | **[Canny](https://canny.io/)** | Gratuit / 19 USD/mois | Par tracked users (usage) | Oui | Oui | Oui | Le plus complet, reference du marche |
 | **[ProductBoard](https://www.productboard.com/)** | Gratuit / 19 USD/maker/mois | Par maker (gestionnaire) | Oui | Oui | Non | Lie feedback aux epics produit |
-| **[Frill](https://frill.co/)** | 25 USD/mois | Forfait fixe | Oui | Oui | Oui | Meilleur rapport qualite-prix |
+| **[Frill](https://frill.co/)** | 25 USD/mois | Forfait fixe | Oui | Oui | Oui | Meilleur rapport qualité-prix |
 | **[Nolt](https://nolt.io/)** | 25 USD/mois | Forfait fixe | Non | Oui | Non | Minimaliste, setup en 5 min |
 | **[Beamer](https://www.getbeamer.com/)** | 49 USD/mois | Par MAU | Non* | Non* | Oui | Widget changelog integrable |
 
@@ -114,12 +114,12 @@ Pas de plan gratuit permanent, mais un essai gratuit de 14 jours.
 Tu peux creer une roadmap publique avec un board Trello gratuit :
 
 1. Cree un board Trello
-2. Cree 4 colonnes : **Idees**, **Planifie**, **En cours**, **Termine**
+2. Cree 4 colonnes : **Idées**, **Planifie**, **En cours**, **Termine**
 3. Ajoute une carte par fonctionnalite
 4. Va dans **Parametres du board > Visibilite > Public**
 5. Partage le lien sur ton site
 
-**Limites** : pas de systeme de vote natif, pas de branding personnalise, aspect "Trello" visible.
+**Limites** : pas de système de vote natif, pas de branding personnalise, aspect "Trello" visible.
 
 ### GitHub Projects -- Pour les projets open source
 
@@ -146,7 +146,7 @@ Si ton produit est open source ou tech :
 
 | Colonne | Ce qu'elle contient |
 |---------|-------------------|
-| **Sous consideration** | Les idees recues, pas encore evaluees |
+| **Sous consideration** | Les idées recues, pas encore evaluees |
 | **Planifie** | Valide, sera fait dans les prochains mois |
 | **En cours** | Actuellement en developpement |
 | **Termine** | Livre et disponible |
@@ -166,13 +166,13 @@ Si ton produit est open source ou tech :
 
 ## Ajouter un changelog
 
-La roadmap montre ce qui arrive. Le changelog montre ce qui est deja la. Les deux fonctionnent ensemble.
+La roadmap montre ce qui arrive. Le changelog montre ce qui est déjà la. Les deux fonctionnent ensemble.
 
 ### Outils de changelog
 
 - **Canny** : changelog integre a la roadmap
 - **Headway** : widget de changelog qui s'integre a ton site (plan gratuit disponible)
-- **[Beamer](https://www.getbeamer.com/)** : widget de notification "What's New" integrable sur ton site. Plans : Starter a 49 USD/mois (5 000 MAU), Pro a 99 USD/mois (10 000 MAU), Scale a 249 USD/mois (50 000 MAU). Attention : le module **Feedback** (idees + votes) est un add-on payant a 99 USD/mois en plus du plan changelog. Le module **NPS** est aussi un add-on separe
+- **[Beamer](https://www.getbeamer.com/)** : widget de notification "What's New" integrable sur ton site. Plans : Starter a 49 USD/mois (5 000 MAU), Pro a 99 USD/mois (10 000 MAU), Scale a 249 USD/mois (50 000 MAU). Attention : le module **Feedback** (idées + votes) est un add-on payant a 99 USD/mois en plus du plan changelog. Le module **NPS** est aussi un add-on separe
 - **Page dediee** : une simple page `/changelog` sur ton site avec les mises a jour classees par date
 
 ### Format d'une entree de changelog
@@ -195,11 +195,11 @@ La roadmap montre ce qui arrive. Le changelog montre ce qui est deja la. Les deu
 ## Les bonnes pratiques
 
 1. **Mets a jour regulierement** -- une roadmap abandonnee envoie un mauvais signal. Au minimum 1 fois par mois
-2. **Reponds aux suggestions** -- meme un "merci, on prend note" montre que tu ecoutes
+2. **Reponds aux suggestions** -- même un "merci, on prend note" montre que tu ecoutes
 3. **Communique quand une feature passe en "Termine"** -- envoie un email ou une notification aux votants
 4. **Garde un equilibre** -- ne mets pas que des "grosses" features. Les petites ameliorations comptent aussi
-5. **Sous-domaine dedie** -- `roadmap.tonsite.com` ou `feedback.tonsite.com` fait plus professionnel qu'un lien Trello
+5. **Sous-domaine dédié** -- `roadmap.tonsite.com` ou `feedback.tonsite.com` fait plus professionnel qu'un lien Trello
 
 ## Ce qu'il faut retenir
 
-Une roadmap publique cree de la confiance, reduit le support, et t'aide a prioriser ce qui compte vraiment pour tes utilisateurs. Commence avec Canny (reference) ou Frill (budget reduit), ou un board Trello public si tu veux du gratuit. L'essentiel : 4 colonnes claires, un systeme de vote, et des mises a jour regulieres. C'est un investissement de 2h a mettre en place pour des mois de benefices.
+Une roadmap publique cree de la confiance, reduit le support, et t'aide a prioriser ce qui compte vraiment pour tes utilisateurs. Commence avec Canny (reference) ou Frill (budget reduit), ou un board Trello public si tu veux du gratuit. L'essentiel : 4 colonnes claires, un système de vote, et des mises a jour regulieres. C'est un investissement de 2h a mettre en place pour des mois de benefices.

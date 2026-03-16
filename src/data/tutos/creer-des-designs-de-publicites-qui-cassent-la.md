@@ -14,7 +14,7 @@ imgUrl: ../../assets/astro.jpeg
 
 Secrets the Pros Use to Create GreatFacebook Ad Design
 
-[https://adespresso.com/blog/9-tips-perfect-facebook-ad-design/](https://adespresso.com/blog/9-tips-perfect-facebook-ad-design/)
+[https://adespresso.com/blog/9-tips-perfect-facebook-ad-design/](__MASK_0__)
 
 It’s not easy to know how exactly you want to get started when it comes to Facebook Ad design.
 
@@ -38,7 +38,7 @@ Less than two years later, we updated the post with **new and updated best pract
 
 **In the 2018 edition** of this post, **we’re going to look at** **what changed in Facebook Ad design** **after the latest big changes** the platform implemented.
 
-We added design tips spanning elements of **copywriting**, **visual components**, **placements**, and **strategies**, giving you a total of **22 secrets of Facebook Ad design that will give your campaigns new life.**
+We added design tips spanning elements of **copywriting**, **visual components**, **placements**, and **stratégies**, giving you a total of **22 secrets of Facebook Ad design that will give your campaigns new life.**
 
 But if you want the whole design… keep on reading!
 
@@ -79,7 +79,7 @@ Very different value propositions! For Startups, we highlight their desire to gr
 
 ### 3) Add Social Proofs
 
-Do you know what the most influential emotion in a purchase decision is? **Fear**.
+Do you know what the most influential emotion in a purchase décision is? **Fear**.
 
 
 People resist buying your product because they’re scared of losing money and afraid of making the wrong choice. **This is why free products are so effective. And it’s not just about the money. Free = No Risk = No Fear.**
@@ -101,7 +101,7 @@ Why? Because **a good call-to-action decreases friction**. If a user clicks your
 
 He’ll know because you’ve prompted him in your Ad with a Call-to-Action like “Download our eBook…,” “Subscribe to our newsletter for a chance to win…,” “Take the survey and receive $10 off…,” etc.
 
-By the way, here’s a post we recently published on [advanced Call-to-Action strategies on Facebook](https://adespresso.com/blog/8-ways-improve-cta-facebook-ads/).
+By the way, here’s a post we recently published on [advanced Call-to-Action stratégies on Facebook](https://adespresso.com/blog/8-ways-improve-cta-facebook-ads/).
 
 ### 5) Choose images that stands out
 
@@ -127,7 +127,7 @@ In your Facebook Ad designs, therefore, address both the rational and emotional 
 
 ### 7) Be Consistent
 
-Like Call-to-Actions, **consistency will reduce friction and help your users complete the desired action**. If someone clicks on your ads, it’s because they like the image, your message, and what you’re offering.
+Like Call-to-Actions, **consistency will reduce friction and help your users complète the desired action**. If someone clicks on your ads, it’s because they like the image, your message, and what you’re offering.
 
 **After clicking, they should end up on a landing page that reinforces what they saw in the ad**. Use the same images and wording, just go into more depth describing your product and why they should buy it.
 
@@ -170,7 +170,7 @@ While the business that advertises this may have actually earned such a high amo
 
 If you’re not harnessing the psychological powers that different colors can have, then you’re missing out on a vital creative force that every top Facebook ads pro is using.
 
-90% of all the snap judgments that we make about products can be traced back to **color**, according to a study in [Management Decision](http://www.emeraldinsight.com/doi/abs/10.1108/00251740610673332). Here are some of the major science-backed trends in how people perceive colors that you should keep in mind:
+90% of all the snap judgments that we make about products can be traced back to **color**, according to a study in [Management Décision](http://www.emeraldinsight.com/doi/abs/10.1108/00251740610673332). Here are some of the major science-backed trends in how people perceive colors that you should keep in mind:
 
 - **Older people like blue, purple, and green, [while younger people](http://www.joehallock.com/edu/COM498/preferences.html) are more into yellow, red, and orange.** As we age, our preferences tend towards the darker and cooler colors of shorter wavelength over the excitatory, long wavelength colors.
 - **Most people heavily dislike the color [orange](http://www.joehallock.com/edu/COM498/preferences.html)**. Purple, yellow, and brown pull up behind orange as the least liked colors, according to research done by Joe Hallock comparing color preferences across 232 people from 22 countries.
@@ -183,7 +183,7 @@ The gas companies here—BP, Shell, Gulf, ExxonMobil—may produce an identical 
 
 The same kind of color psychology can be seen in the tech companies on the chart (outlined in blue). Apple represents neutral, calm, design sensibility. Facebook represents trust and dependability. Yahoo represents wisdom… or at least, they did, at one point—originally, Yahoo set out to organize all of the internet’s information into one home page, and they did a pretty good job.
 
-Don’t take this chart as gospel—“My product is exciting, so I must use red in my Facebook ads”—but do check out what your competitors are doing. Look at what is working. Subtle changes in color [can influence how we see advertising](https://adespresso.com/blog/why-your-facebook-ads-shouldnt-be-blue/), so take your time and make your decisions count.
+Don’t take this chart as gospel—“My product is exciting, so I must use red in my Facebook ads”—but do check out what your competitors are doing. Look at what is working. Subtle changes in color [can influence how we see advertising](https://adespresso.com/blog/why-your-facebook-ads-shouldnt-be-blue/), so take your time and make your décisions count.
 
 ### 11) Utilize Location-Specific Imagery
 
@@ -278,7 +278,7 @@ That being said, there _have_ been some big changes to the platform, which gives
 
 There are so many more ad formats now than there used to be, which can be more overwhelming but it also means there are more design options so we can really get creative. Carousel ads, Collection Ads (which are shopping and product-focused), Canvas Ads, and even Story Ads are all exciting options that keep things diverse and can help you to capture user interest.
 
-Standing out in the newsfeed (or the Story feed, or the right column) is crucial to getting results, and when you use these different formats and placements correctly, you’ll be able to deliver your desired effect in a powerful way. Imagine wanting to showcase the excitement of an upcoming event you’re hosting and utilizing Canvas Ads to share videos, announcements, and lists of different speakers, ending with a CTA to register now.
+Standing out in the newsfeed (or the Story feed, or the right column) is crucial to getting results, and when you use these different formats and placements correctly, you’ll be able to deliver your desired effect in a powerful way. Imagine wanting to showcase the excitement of an upcoming event you’re hosting and utilizing Canvas Ads to share vidéos, announcements, and lists of different speakers, ending with a CTA to register now.
 
 If you want to switch things up but aren’t sure where to start, carousel ads are typically a safe bet. They have higher-than-average CTR and engagement rates, which is automatically a plus, and they give you more room to either demonstrate value or tell a story.
 
@@ -292,19 +292,19 @@ The concept is simple, but it’s so effective. And since these ads are often sh
 
 Interested in learning more about dynamic ads? [See how to set them up here.](https://adespresso.com/blog/facebook-dynamic-product-ads/)
 
-### 19. Incorporate Video
+### 19. Incorporate Vidéo
 
-I feel like video is to marketing what cheese is to pasta; you can never really have too much. Video marketing is so important, and when it comes to Facebook Ads, videos are a particularly strong design choice.
+I feel like vidéo is to marketing what cheese is to pasta; you can never really have too much. Vidéo marketing is so important, and when it comes to Facebook Ads, vidéos are a particularly strong design choice.
 
-There are several reasons for this. First, users love video, and they respond well to it. This gives you the chance to convey more information to users in a shorter space than a text-based ad ever would allow, complete with background theme music to [enhance the effect you’re going for](https://blog.shakr.com/background-music-for-video/). Videos also stand out in the feed, and automatically give you an edge at getting users to stop scrolling, which is a huge advantage.
+There are several reasons for this. First, users love vidéo, and they respond well to it. This gives you the chance to convey more information to users in a shorter space than a text-based ad ever would allow, complète with background theme music to [enhance the effect you’re going for](https://blog.shakr.com/background-music-for-video/). Vidéos also stand out in the feed, and automatically give you an edge at getting users to stop scrolling, which is a huge advantage.
 
-Videos are also natural vessels for storytelling, and really let you elaborate on your point in a way that will help your brand and product stand out.
+Vidéos are also natural vessels for storytelling, and really let you elaborate on your point in a way that will help your brand and product stand out.
 
-Ideally, your ad campaigns marketing videos should meet the following criteria for best results:
+Ideally, your ad campaigns marketing vidéos should meet the following criteria for best results:
 
-- Either use closed captions or not rely on voice narration at all, since [85% of videos](https://blog.hootsuite.com/silent-video/) are watched without sound on Facebook
+- Either use closed captions or not rely on voice narration at all, since [85% of vidéos](https://blog.hootsuite.com/silent-video/) are watched without sound on Facebook
 - Use the ad’s headline in order to entice users to watch, but keep it short.
-- Keep the video itself as short as possible, because even engaging videos will lose customers quickly. Keeping it under 30 seconds is ideal, and under 15 seconds (if possible) is even better.
+- Keep the vidéo itself as short as possible, because even engaging vidéos will lose customers quickly. Keeping it under 30 seconds is ideal, and under 15 seconds (if possible) is even better.
 
 ### 20. Offer Value
 
@@ -313,22 +313,22 @@ When you design your ads in a way that immediately demonstrates and offers value
 
 There are several ways to design your ad in a way that will demonstrate value. This includes:
 
-- Show the product in-use in the visual component, either with a single image or a video that shows how easy it is to use or what kind of results you can get.
+- Show the product in-use in the visual component, either with a single image or a vidéo that shows how easy it is to use or what kind of results you can get.
 - Explain the benefits and value propositions clearly in the text and headlines, keeping your specific audience in mind.
-- Get creative, and use video tutorials or carousel ads to feature more benefits or elaborate on the value of a product.
+- Get creative, and use vidéo tutorials or carousel ads to feature more benefits or elaborate on the value of a product.
 
 ### 21. Go Vertical
 
 We’re living in an increasingly mobile-first world, where users are on their mobile devices at heightened levels and slowly shifting towards leaving desktops behind. This is not only important to understand for what types of content to create, but also how to literally design it.
 
 
-At this point, you pretty much need to go big or go home by incorporating more vertical content (especially vertical video) into your ad campaigns. Note that not all of your campaigns need to be optimized for vertical, but that you should consider optimizing all video ads for the vertical format and to test out Facebook and Instagram Story Ads. Users who click to view a video and realize they have to turn their phone sideways, for example, may be just turned off by the experience enough that they’ll leave the ad where they otherwise may have stayed.
+At this point, you pretty much need to go big or go home by incorporating more vertical content (especially vertical vidéo) into your ad campaigns. Note that not all of your campaigns need to be optimized for vertical, but that you should consider optimizing all vidéo ads for the vertical format and to test out Facebook and Instagram Story Ads. Users who click to view a vidéo and realize they have to turn their phone sideways, for example, may be just turned off by the expérience enough that they’ll leave the ad where they otherwise may have stayed.
 
 ### 22. Tell a Story
 
 Storytelling is an exceptionally powerful tool for marketers, and incorporating short stories in your Facebook Ads will yield exceptional results. Stories can often help merge emotional and logical appeals, which we discussed earlier, while giving users something memorable to grasp onto.
 
-You can use single image ads to tell a story by setting a scene with a picture, and enhancing the effect with your descriptions. In the example below, for example, Plated uses a video featuring a family cooking and laughing together to really set a scene and establish that emotional connection. Carousel ads are another good option for storytelling, as each image and video slide can set a different scene, and video ads are unsurprisingly incredibly effective for this purpose, too.
+You can use single image ads to tell a story by setting a scene with a picture, and enhancing the effect with your descriptions. In the example below, for example, Plated uses a vidéo featuring a family cooking and laughing together to really set a scene and establish that emotional connection. Carousel ads are another good option for storytelling, as each image and vidéo slide can set a different scene, and vidéo ads are unsurprisingly incredibly effective for this purpose, too.
 
 
 When it comes to storytelling, keep it simple and go for a single effect. You don’t want to try to make people happy and scared and feeling a sense of adventure; instead, just pick one, or everything will get a little muddled and users will scroll away confused.
@@ -341,6 +341,6 @@ The targeting, the copy, the offer, the bids, and even the placements all have t
 
 **Combined, these 22 tips are the most effective ways to design killer Facebook Ads that we’ve learned over the last 10 years.**
 
-Remember to keep your specific audience and goals in mind when designing your Facebook Ads, and to thoroughly test these different design strategies and tips to see what your audience is most responsive to.
+Remember to keep your specific audience and goals in mind when designing your Facebook Ads, and to thoroughly test these different design stratégies and tips to see what your audience is most responsive to.
 
-_**What do you think? Which of these Facebook Ad design secrets have you put to the test? What strategies have worked best for you? Did we miss any of your favorites? Let us know in the comments below!**_
+_**What do you think? Which of these Facebook Ad design secrets have you put to the test? What stratégies have worked best for you? Did we miss any of your favorites? Let us know in the comments below!**_

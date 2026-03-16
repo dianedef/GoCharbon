@@ -56,7 +56,7 @@ Plan conseillé:
 
 ## 5) Renforce l'E-E-A-T
 
-E-E-A-T = Experience, Expertise, Authoritativeness, Trust.
+E-E-A-T = Expérience, Expertise, Authoritativeness, Trust.
 
 Montre:
 - expérience terrain,

@@ -39,7 +39,7 @@ imgUrl: ../../../assets/astro.jpeg
    - Purchases
    - Sign-ups
    - Form submissions
-   - Video engagement
+   - Vidéo engagement
 
 3. **Événements Personnalisés**
    - Actions spécifiques
@@ -70,7 +70,7 @@ imgUrl: ../../../assets/astro.jpeg
 
 ## Optimisation et Actions
 
-### Data-Driven Decisions
+### Data-Driven Décisions
 - Identification opportunités
 - Analyse comportementale
 - Tests A/B

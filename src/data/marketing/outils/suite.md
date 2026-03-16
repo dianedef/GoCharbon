@@ -77,7 +77,7 @@ imgUrl: ../../../assets/astro.jpeg
    - LinkedIn Campaign Manager
    - TikTok Ads
 
-2. **Ad Creation**
+2. **Ad Création**
    - Canva
    - Adobe Creative Suite
    - Figma
@@ -98,7 +98,7 @@ imgUrl: ../../../assets/astro.jpeg
    - Zoom
    - Loom
 
-### Content Creation
+### Content Création
 1. **Writing**
    - Grammarly
    - Hemingway

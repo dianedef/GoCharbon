@@ -110,7 +110,7 @@ This month, we made the transition even easier for extensions using declarativeN
 
 **Ecosystem progress**
 
-After we addressed the top issues and feature gaps blocking migration last year, we saw an acceleration of extensions migrating successfully to Manifest V3. Over the past year, we’ve even been able to invite some developers - such as Eyeo, the makers of Adblock Plus - and GDE members like Matt Frisbie to share their experiences and insights with the community through [guest posts](https://developer.chrome.com/blog/eyeos-journey-to-testing-mv3-service%20worker-suspension?hl=en) and [YouTube videos](https://www.youtube.com/watch?v=8P-Sc8ZaViY).
+After we addressed the top issues and feature gaps blocking migration last year, we saw an acceleration of extensions migrating successfully to Manifest V3. Over the past year, we’ve even been able to invite some developers - such as Eyeo, the makers of Adblock Plus - and GDE members like Matt Frisbie to share their experiences and insights with the community through [guest posts](https://developer.chrome.com/blog/eyeos-journey-to-testing-mv3-service%20worker-suspension?hl=en) and [YouTube vidéos](https://www.youtube.com/watch?v=8P-Sc8ZaViY).
 
 Now, over 85% of actively maintained extensions in the Chrome Web Store are running Manifest V3, and the top content filtering extensions all have Manifest V3 versions available - with options for users of AdBlock, Adblock Plus, uBlock Origin and AdGuard.
 
@@ -132,7 +132,7 @@ Posted by David Li, Product Manager, Chrome Extensions
 
 Wednesday, May 29, 2024
 
-In the latest release of Chrome, we're introducing [Minimized Custom Tabs](https://developer.chrome.com/docs/android/custom-tabs#:~:text=Users%20can%20minimize,Chrome%20122%20Beta.), a feature that allows users to effortlessly transition between native app and web content. With a simple tap on the down button in the Chrome Custom Tabs toolbar, users can minimize a Custom Tab into a compact, floating picture-in-picture window. This seamless integration enables multi-tasking across surfaces, enhancing the in-app web browsing experience. By tapping on the floating window, users can easily maximize the tab, restoring it to its original size.
+In the latest release of Chrome, we're introducing [Minimized Custom Tabs](https://developer.chrome.com/docs/android/custom-tabs#:~:text=Users%20can%20minimize,Chrome%20122%20Beta.), a feature that allows users to effortlessly transition between native app and web content. With a simple tap on the down button in the Chrome Custom Tabs toolbar, users can minimize a Custom Tab into a compact, floating picture-in-picture window. This seamless integration enables multi-tasking across surfaces, enhancing the in-app web browsing expérience. By tapping on the floating window, users can easily maximize the tab, restoring it to its original size.
 
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKB-vt3k1oWC8dnOgKzw3mthZikPMXJnYOwbL01KoivsRt69r98CeEjTv0TeAFjfCHdCx6WoOaoXiDECWg5EHgYoUjxQxQTm9aFaSK-AyUFb6w6EyASeQiM2RVfJgm5mgw6haiQYbspQuOQlcTlYcVFo709bmtC2skBgSA9XZJpvhoPDViNTxOkaDQ6IUD/s1228/Minimixed%20Custom%20Tabs.gif)
 
@@ -158,7 +158,7 @@ Thursday, May 23, 2024
 
 Google and many other organizations, such as [NIST](https://csrc.nist.gov/projects/post-quantum-cryptography), [IETF](https://datatracker.ietf.org/group/tls/about/), and [NSA](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3148990/nsa-releases-future-quantum-resistant-qr-algorithm-requirements-for-national-se/), believe that migrating to post-quantum cryptography is important due to the large risk posed by a [cryptographically-relevant quantum computer](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF) (CRQC). In [August](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html), we posted about how Chrome Security is working to protect users from the risk of future quantum computers by leveraging a new form of [hybrid post-quantum cryptographic key](https://datatracker.ietf.org/doc/draft-tls-westerbaan-xyber768d00/) exchange, Kyber (ML-KEM)[1](https://blog.chromium.org/#fn1). We’re happy to announce that we have enabled the latest Kyber draft specification by default for TLS 1.3 and QUIC on all desktop Chrome platforms as of Chrome 124.[2](https://blog.chromium.org/#fn2) This rollout revealed a number of previously-existing bugs in several TLS middlebox products. To assist with the deployment of fixes, Chrome is offering a temporary [enterprise policy to opt-out](https://chromeenterprise.google/policies/#PostQuantumKeyAgreementEnabled).
 
-Launching opportunistic quantum-resistant key exchange is part of [Google’s broader strategy](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography) to prioritize deploying post-quantum cryptography in systems _today_ that are at risk if an adversary has access to a quantum computer _in the future_. We believe that it’s important to inform standards with real-world experience, by implementing drafts and iterating based on feedback from implementers and early adopters. This iterative approach was a key part of developing QUIC and TLS 1.3. It’s part of why we’re launching this draft version of Kyber, and it informs our future plans for post-quantum cryptography.
+Launching opportunistic quantum-resistant key exchange is part of [Google’s broader strategy](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography) to prioritize deploying post-quantum cryptography in systems _today_ that are at risk if an adversary has access to a quantum computer _in the future_. We believe that it’s important to inform standards with real-world expérience, by implementing drafts and iterating based on feedback from implementers and early adopters. This iterative approach was a key part of developing QUIC and TLS 1.3. It’s part of why we’re launching this draft version of Kyber, and it informs our future plans for post-quantum cryptography.
 
 Chrome’s post-quantum strategy prioritizes quantum-resistant key exchange in HTTPS, and increased [agility](https://www.chromium.org/Home/chromium-security/root-ca-policy/moving-forward-together/) in certificates from the Web PKI. While PKI agility may appear somewhat unrelated, its absence has contributed to significant delays in past cryptographic transitions and will continue to do so until we find a viable solution in this space. A more agile Web PKI is required to enable a secure and reliable transition to post-quantum cryptography on the web.
 
@@ -200,7 +200,7 @@ Instead, to introduce agility to TLS we need an explicit mechanism for _trust a
 
 From there, we can explore more efficient ways to authenticate servers, such as [Merkle Tree Certificates](https://github.com/davidben/merkle-tree-certs). We view introducing some mechanism for trust anchor agility as a necessity for efficient post-quantum authentication. Experimentation will be extremely important as proposals are developed. Agility also enables using different solutions in different contexts, rather than sending extra data for the lowest-common denominator— solutions like Merkle Tree Certificates and [intermediate elision](https://www.ietf.org/archive/id/draft-davidben-tls-trust-expr-02.html#name-intermediate-elision) require up-to-date clients.
 
-Given these constraints, priorities, and [risks](https://dadrian.io/blog/posts/pqc-not-plaintext/), we think agility is more important than defining exactly what a post-quantum PKI will look like at this time. We recommend against _immediately_ standardizing ML-DSA in X.509 for use in the _public_ Web PKI via the [CA/Browser Forum](https://cabforum.org/). We expect that ML-DSA, once NIST completes standardization, will play a part in a post-quantum Web PKI, but we’re focusing on agility first. This does not preclude introducing ML-DSA in X.509 as an option for private PKIs, which may be operating on more strict post-quantum timelines and have fewer constraints around certificate size, handshake latency, issuance transparency, and unmanaged endpoints.
+Given these constraints, priorities, and [risks](https://dadrian.io/blog/posts/pqc-not-plaintext/), we think agility is more important than defining exactly what a post-quantum PKI will look like at this time. We recommend against _immediately_ standardizing ML-DSA in X.509 for use in the _public_ Web PKI via the [CA/Browser Forum](https://cabforum.org/). We expect that ML-DSA, once NIST complètes standardization, will play a part in a post-quantum Web PKI, but we’re focusing on agility first. This does not preclude introducing ML-DSA in X.509 as an option for private PKIs, which may be operating on more strict post-quantum timelines and have fewer constraints around certificate size, handshake latency, issuance transparency, and unmanaged endpoints.
 
 Ultimately, we think that any approach to post-quantum authentication has the same first requirement—a migration mechanism for clients to opt-in to post-quantum secure authentication mechanisms when servers support it. Post-quantum authentication presents significant challenges to the Web ecosystem, but we believe trust anchor agility will enable us to overcome them and lead to a more secure, robust, and performant post-quantum web.
 
@@ -210,7 +210,7 @@ Ultimately, we think that any approach to post-quantum authentication has the sa
 
 1. The draft is X25519Kyber768, which is a combination of the pre-quantum algorithm X25519, and the post-quantum algorithm Kyber 768. Kyber is being renamed to ML-KEM, however for the purposes of this post, we will use “Kyber” to refer to the hybrid algorithm defined for TLS. [↩](https://blog.chromium.org/#fnref1)
     
-2. As the standards from NIST and IETF are not yet complete, this will be later removed and replaced with the final versions. At this stage of standardization, we expect only early adopters to use the primitives. [↩](https://blog.chromium.org/#fnref2)
+2. As the standards from NIST and IETF are not yet complète, this will be later removed and replaced with the final versions. At this stage of standardization, we expect only early adopters to use the primitives. [↩](https://blog.chromium.org/#fnref2)
     
 3. It actually exists in considerably more than two forms, but from an organizational perspective, there are versions that signed by other Let’s Encrypt certificates, and a version that is signed by IdenTrust, which is a completely separate certification authority from Let’s Encrypt. [↩](https://blog.chromium.org/#fnref3)
     
@@ -234,7 +234,7 @@ Salespanel is a first-party intent data analytics and customer journey tracking 
 
 [Hawke AI](https://app.hawke.ai/login?redirect=/dashboard)
 
-[https://www.youtube.com/watch?v=0MtP_xRJNdg](https://www.youtube.com/watch?v=0MtP_xRJNdg)
+[https://www.youtube.com/watch?v=0MtP_xRJNdg](__MASK_68__)
 
 ### Weberlo
 
@@ -322,7 +322,7 @@ Salespanel is a first-party intent data analytics and customer journey tracking 
     
     [HYROS Training Channel - YouTube](https://www.youtube.com/channel/UCuXubd9EpOEZlIdWQeCFbcw)
     
-    [](https://app.weberlo.com/workspace/_Q_3WbvNSVKbQEDKvvBV-Q/stats?date_type=day&end_date=04-25-2022&start_date=04-18-2022)[https://app.weberlo.com/workspace/*Q*3WbvNSVKbQEDKvvBV-Q/stats?date*type=day&end*date=04-25-2022&start_date=04-18-2022](https://app.weberlo.com/workspace/*Q*3WbvNSVKbQEDKvvBV-Q/stats?date*type=day&end*date=04-25-2022&start_date=04-18-2022)
+    [](https://app.weberlo.com/workspace/_Q_3WbvNSVKbQEDKvvBV-Q/stats?date_type=day&end_date=04-25-2022&start_date=04-18-2022)[https://app.weberlo.com/workspace/*Q*3WbvNSVKbQEDKvvBV-Q/stats?date*type=day&end*date=04-25-2022&start_date=04-18-2022](__MASK_85__)
     
 - LinkedIn Profiles [Fake LinkedIn Account: How To Create One Without Being Banned?](https://blog.waalaxy.com/en/how-to-create-a-fake-account-on-linkedin-without-being-banned/?waapiersinternational&fbclid=IwAR1UvR7lGXSwLkUGi4XIpiMX-neqW0LFneXmRzXCXiOxKoFU-0hsuGoF-Rg#step-2-create-an-email-accordingly)
     
@@ -330,18 +330,18 @@ Salespanel is a first-party intent data analytics and customer journey tracking 
         
         LinkedIn has detected that you are sharing an IP with other accounts and wants to make sure you are not a robot by asking you for a phone number. If you get to this stage, you need to change your IP. Follow this procedure:
         
-        Close all open Linkedin tabs, including your regular account, Put your smartphone (I hope you have one!) in connection sharing: the IP of a 4G phone changes as soon as you activate and deactivate the airplane mode. So you can do this over and over again. Start a new blank Chrome session, Redo the account creation operation. Normally LinkedIn asks you to verify if you are a robot but no more phone number. Be careful you have to stay in connection share until the end of the creation process without reconnecting on another account. Wait at least 24 hours then to reconnect with this new account on your main IP.
+        Close all open Linkedin tabs, including your regular account, Put your smartphone (I hope you have one!) in connection sharing: the IP of a 4G phone changes as soon as you activate and deactivate the airplane mode. So you can do this over and over again. Start a new blank Chrome session, Redo the account création operation. Normally LinkedIn asks you to verify if you are a robot but no more phone number. Be careful you have to stay in connection share until the end of the création process without reconnecting on another account. Wait at least 24 hours then to reconnect with this new account on your main IP.
         
     - Formation à mla gestion des ressources humaines
         
     - Enseignement pluridisciplinaire permettant de s’orienter dans des organisations diverses : Entreprises, intérim, cabinets comptables, agences d’emploi
         
     
-    Then he will ask you for your position. Give **your persona**  an experience, if he is a student, put him in a big and famous school. If he is working, put him in a permanent job or in a work-study program in a big company. Be careful, if there are not many employees in your company, I advise you not to put your fake account on your real company right away (or don’t click on the proposal to choose the company page, keep only the name).If **your account is ever banned**  (you are never safe) it will no longer be visible in searches but will still appear in the number of employees. This is not great for your image if you have to create several.
+    Then he will ask you for your position. Give **your persona**  an expérience, if he is a student, put him in a big and famous school. If he is working, put him in a permanent job or in a work-study program in a big company. Be careful, if there are not many employees in your company, I advise you not to put your fake account on your real company right away (or don’t click on the proposal to choose the company page, keep only the name).If **your account is ever banned**  (you are never safe) it will no longer be visible in searches but will still appear in the number of employees. This is not great for your image if you have to create several.
     
     This is a crucial step in **creating a fake LinkedIn account** : your first connections. A low **acceptance rate**  because no one knows you are likely to alert LinkedIn’s AI. Send a connection request to the people LinkedIn suggests early on. If you can, use a .csv file with your close contacts, who you’ll ask to accept you, or use our [file of accounts](https://docs.google.com/spreadsheets/d/1vn-3q4tdq52dQofFX2tnD8UYlmIphbpL6w_Dj5HDHzk/edit?usp=sharing)  that will accept you, in any case, to get started. You can also add yours via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdLgavWKfxFU9ikBv-yznghi46ETtBBdEr0B9sqMGw6fhy_Eg/viewform?usp=sf_link)  to receive invitations and grow your network organically.
     
-    Once the account is created, the first **invitations sent**  and the photo set up, complete your persona’s profile. The goal is to make it at least intermediate. You can make him follow hashtags or add skills. LinkedIn will have less of an impression that it is a fake account, just like the users of the **social network.**
+    Once the account is created, the first **invitations sent**  and the photo set up, complète your persona’s profile. The goal is to make it at least intermediate. You can make him follow hashtags or add skills. LinkedIn will have less of an impression that it is a fake account, just like the users of the **social network.**
     
     From the moment someone accepts you, you have access to their connections (if no one has accepted you in the proposed people, you can send **invitations to Premium members** , they tend to accept much more easily). Once you have reached 100 connections and your account has at least 1 week of life, you can download Waalaxy. Export as many people as possible from this search, 1000, into Waalaxy. I recommend you simply use the “Person” and “2nd connection” filters.
     
@@ -353,7 +353,7 @@ Salespanel is a first-party intent data analytics and customer journey tracking 
     
     Here is a list of good practices and cases to avoid for your account to survive.
     
-    Each time you log in, [improve the profile a bit](https://blog.waalaxy.com/en/optimize-linkedin-profile/). A previous position, a bio, a university… We advise you to add a past with a big account. It seems that it is more complicated for LinkedIn to verify and gives you the benefit of the doubt (thanks to [Guillaume Albisetti](https://www.linkedin.com/in/guillaumealbisetti/)). Do yourself a favor! An executive at Total or Sales at Orange?For each position or school, add a complete description. LinkedIn doesn’t like empty job descriptions.
+    Each time you log in, [improve the profile a bit](https://blog.waalaxy.com/en/optimize-linkedin-profile/). A previous position, a bio, a university… We advise you to add a past with a big account. It seems that it is more complicated for LinkedIn to verify and gives you the benefit of the doubt (thanks to [Guillaume Albisetti](https://www.linkedin.com/in/guillaumealbisetti/)). Do yourself a favor! An executive at Total or Sales at Orange?For each position or school, add a complète description. LinkedIn doesn’t like empty job descriptions.
     
     Once it’s ready:
     
@@ -486,7 +486,7 @@ Salespanel is a first-party intent data analytics and customer journey tracking 
         
         ProspectIn est l’outil n°1 qui vous permet de passer **votre prospection LinkedIn** en mode autopilote. En seulement 10 minutes par jour, vous pourrez générer des dizaines de leads par semaine. Suivez le guide. 😉
         
-        # **Etape 1 : l’export de prospect**
+        # **Étape 1 : l’export de prospect**
         
         Avec ProspectIn, la première étape consiste à exporter des prospects depuis une **page de recherche LinkedIn**. Nous vous recommandons d’utiliser l’option premium « Sales Navigator » de LinkedIn qui permet d’obtenir des résultats de recherche infiniment plus précis.
         
@@ -501,7 +501,7 @@ Salespanel is a first-party intent data analytics and customer journey tracking 
         
         
         
-        # **Etape 2 : choix du scénario de prospection**
+        # **Étape 2 : choix du scénario de prospection**
         
         Une fois que vos **prospects ont été exportés dans ProspectIn**, il va vous falloir choisir le scénario de prospection que vous voulez mettre en place.
         
@@ -518,7 +518,7 @@ Salespanel is a first-party intent data analytics and customer journey tracking 
         
         
         
-        # **Etape 3 : Paramétrage des messages et envoi de la campagne**
+        # **Étape 3 : Paramétrage des messages et envoi de la campagne**
         
         Troisième et dernière étape : Saisissez le contenu de la **note d’invitation** à envoyer (*vous pouvez aussi laisser le champ vide, auquel cas aucune note ne sera envoyée, [voir notre étude de cas)](https://blog.waalaxy.com/faut-il-contacter-ses-prospects-avec-ou-sans-note-dinvitation/).*Ainsi que le contenu de votre premier message et le contenu de votre deuxième message.
         
@@ -635,7 +635,7 @@ Salespanel is a first-party intent data analytics and customer journey tracking 
     
     The way to go around the 7 day limit is to use server side cookies vs browser cookies
     
-    [](https://tinuiti.com/blog/data-privacy/server-to-server-tracking/?fbclid=IwAR28yH8QuJs_rayRmPFD-xw7i-io8_zY6EDvJuaudyU95sHRWoin99fUomk)[https://tinuiti.com/blog/data-privacy/server-to-server-tracking/](https://tinuiti.com/blog/data-privacy/server-to-server-tracking/)
+    [](https://tinuiti.com/blog/data-privacy/server-to-server-tracking/?fbclid=IwAR28yH8QuJs_rayRmPFD-xw7i-io8_zY6EDvJuaudyU95sHRWoin99fUomk)[https://tinuiti.com/blog/data-privacy/server-to-server-tracking/](__MASK_122__)
     
 - What is server-side tracking and why you need it ?
     
@@ -705,7 +705,7 @@ Salespanel is a first-party intent data analytics and customer journey tracking 
     
     Now Hyros is saying that this is happening. I don't believe that this is happening. What?
     
-    Not because I don't want to believe them, and also they don't have a lot of information about it because I totally get it. Even this video that I make here, I make it just to be okay with myself. I don't think that a lot of people can understand this technical information and they don't really care also about learning this technical information. So Alex and his team, they're putting a great effort to show as much as they can about the app. But at the end of the day, it's very difficult to explain to people all of these technical information.
+    Not because I don't want to believe them, and also they don't have a lot of information about it because I totally get it. Even this vidéo that I make here, I make it just to be okay with myself. I don't think that a lot of people can understand this technical information and they don't really care also about learning this technical information. So Alex and his team, they're putting a great effort to show as much as they can about the app. But at the end of the day, it's very difficult to explain to people all of these technical information.
     
     So in my opinion, what is happening is that Hyros is reporting back to the pixel only, but it's not reporting on the actual ad set, it's not reporting on the actual ad set the data so that I can use them to optimize.
     
@@ -723,9 +723,9 @@ Salespanel is a first-party intent data analytics and customer journey tracking 
     
     I hear a lot of people talking about pricing of Hyros being super expensive. For the people out there that have big account spending 20K, 30K, 40K, 50K I must say that their pricing is totally reasonable and they have a 90-days guarantee return of your money if you don't like the program.
     
-    So this video is not about hating Hyros. It's about saying my honest and humble opinion about optimization, in which I don't think that Hyros is helping, but other than that, you can use it in so many other ways, and it is not expensive for someone who is spending 20K, 30K, 40K, 50K per month or more on Facebook ads. This is my honest opinion.
+    So this vidéo is not about hating Hyros. It's about saying my honest and humble opinion about optimization, in which I don't think that Hyros is helping, but other than that, you can use it in so many other ways, and it is not expensive for someone who is spending 20K, 30K, 40K, 50K per month or more on Facebook ads. This is my honest opinion.
     
-    I know it's a little bit of a technical video and I hope to see you in a future video. .
+    I know it's a little bit of a technical vidéo and I hope to see you in a future vidéo. .
     
 - What is the most important asset for a marketer ?
     
@@ -860,7 +860,7 @@ real time conversion data platform connects your marketing and sales channels, w
     - Tools for team work
 - Ad Agencies
     
-    RedTrack has built proprietary high-load big-data-ready technology that handles raw digital advertising data at speed, volume and cost. Our turnkey solution helps agencies, who are struggling to consolidate relevant real-time data and make quality data-driven decisions.
+    RedTrack has built proprietary high-load big-data-ready technology that handles raw digital advertising data at speed, volume and cost. Our turnkey solution helps agencies, who are struggling to consolidate relevant real-time data and make quality data-driven décisions.
     
     ### **Problems**
     
@@ -996,7 +996,7 @@ real time conversion data platform connects your marketing and sales channels, w
     
     Pixel collects data from your audience’s browser (i.e., browser-side tracking), while conversions API collects data from your website’s server (i.e., server-side tracking). Ideally, you should use the two tools together.
     
-    For more information, read this [complete guide to the Facebook conversions API](https://blog.hootsuite.com/facebook-conversion-api/).
+    For more information, read this [complète guide to the Facebook conversions API](https://blog.hootsuite.com/facebook-conversion-api/).
     
     If you’re looking for a comprehensive social media dashboard that will include
     
@@ -1004,7 +1004,7 @@ real time conversion data platform connects your marketing and sales channels, w
         
         Why should you track your analytics anyway?
         
-        It’s all about long-term performance (a.k.a. the long-term success of your organic strategies and Facebook advertising).
+        It’s all about long-term performance (a.k.a. the long-term success of your organic stratégies and Facebook advertising).
         
         It’s easy to see the small picture when you monitor your campaigns on a day-by-day basis. But monitoring analytics is crucial for seeing the bigger picture, as it will help you understand, compare and report your performance long-term.
         
@@ -1014,7 +1014,7 @@ real time conversion data platform connects your marketing and sales channels, w
     
     Why should you track your analytics anyway?
     
-    It’s all about long-term performance (a.k.a. the long-term success of your organic strategies and Facebook advertising).
+    It’s all about long-term performance (a.k.a. the long-term success of your organic stratégies and Facebook advertising).
     
     It’s easy to see the small picture when you monitor your campaigns on a day-by-day basis. But monitoring analytics is crucial for seeing the bigger picture, as it will help you understand, compare and report your performance long-term.
     
@@ -1080,7 +1080,7 @@ real time conversion data platform connects your marketing and sales channels, w
     
     The solution can be to turn to very special tracking platform that doesn't really follow the rules that you can you see on the traditional tracking spot
     
-- Interesting youtube video to sum up
+- Interesting youtube vidéo to sum up
     
     if you haven't yet thought about adding the conversion api to your stack it's time to think about it
     
@@ -1117,9 +1117,9 @@ Is your **LinkedIn account** old and you’ve never been asked for your ID? Cr
 - Close all open Linkedin tabs, including your regular account,
 - Put your smartphone (I hope you have one!) in connection sharing: the IP of a 4G phone changes as soon as you activate and deactivate the airplane mode. So you can do this over and over again.
 - Start a new blank Chrome session,
-- Redo the account creation operation.
+- Redo the account création operation.
 
-Normally **LinkedIn asks you to verify** if you are a robot but no more phone number. Be careful you have to stay in connection share until the end of the creation process without reconnecting on another account. Wait at least 24 hours then to reconnect with this new account on your main IP.
+Normally **LinkedIn asks you to verify** if you are a robot but no more phone number. Be careful you have to stay in connection share until the end of the création process without reconnecting on another account. Wait at least 24 hours then to reconnect with this new account on your main IP.
 
 On our side, we continue to experiment and take feedback from the best growth hackers to
 
@@ -1170,7 +1170,7 @@ You have opened a new chrome session or use a VPN without sharing your cookies w
 
 - Enter the information and validate,
 - I enter my information and LinkedIn asks me to verify that I am not a robot by entering my phone number.
-- You arrive in the LinkedIn onboarding.He will first ask you for your position. Choose what you want.Then he will ask you for your position. Give **your persona** an experience, if he is a student, put him in a big and famous school. If he is working, put him in a permanent job or in a work-study program in a big company. Be careful, if there are not many employees in your company, I advise you not to put your fake account on your real company right away (or don’t click on the proposal to choose the company page, keep only the name).If **your account is ever banned** (you are never safe) it will no longer be visible in searches but will still appear in the number of employees. This is not great for your image if you have to create several.
+- You arrive in the LinkedIn onboarding.He will first ask you for your position. Choose what you want.Then he will ask you for your position. Give **your persona** an expérience, if he is a student, put him in a big and famous school. If he is working, put him in a permanent job or in a work-study program in a big company. Be careful, if there are not many employees in your company, I advise you not to put your fake account on your real company right away (or don’t click on the proposal to choose the company page, keep only the name).If **your account is ever banned** (you are never safe) it will no longer be visible in searches but will still appear in the number of employees. This is not great for your image if you have to create several.
 
 # **Step 5: Add your first contacts**
 
@@ -1185,7 +1185,7 @@ Once the account is created, the first
 
 **invitations sent**
 
-and the photo set up, complete your persona’s profile. The goal is to make it at least intermediate. You can make him follow hashtags or add skills. LinkedIn will have less of an impression that it is a fake account, just like the users of the
+and the photo set up, complète your persona’s profile. The goal is to make it at least intermediate. You can make him follow hashtags or add skills. LinkedIn will have less of an impression that it is a fake account, just like the users of the
 
 **social network.**
 
@@ -1214,7 +1214,7 @@ Here is a list of good practices and cases to avoid for your account to survive.
 
 The first few weeks:
 
-Each time you log in, [improve the profile a bit](https://blog.waalaxy.com/en/optimize-linkedin-profile/). A previous position, a bio, a university… We advise you to add a past with a big account. It seems that it is more complicated for LinkedIn to verify and gives you the benefit of the doubt (thanks to [Guillaume Albisetti](https://www.linkedin.com/in/guillaumealbisetti/)). Do yourself a favor! An executive at Total or Sales at Orange?For each position or school, add a complete description. LinkedIn doesn’t like empty job descriptions.
+Each time you log in, [improve the profile a bit](https://blog.waalaxy.com/en/optimize-linkedin-profile/). A previous position, a bio, a university… We advise you to add a past with a big account. It seems that it is more complicated for LinkedIn to verify and gives you the benefit of the doubt (thanks to [Guillaume Albisetti](https://www.linkedin.com/in/guillaumealbisetti/)). Do yourself a favor! An executive at Total or Sales at Orange?For each position or school, add a complète description. LinkedIn doesn’t like empty job descriptions.
 
 Once it’s ready:
 
@@ -1232,7 +1232,7 @@ Aim for Relationships 2 as a first step. If you have a low acceptance rate at on
     
     [Weberlo](https://www.notion.so/bb3a97c84eb741ae84e18d887f50ca2e?pvs=21)
     
-    [https://www.strerr.com/fr/md5_hash_chanager.html](https://www.strerr.com/fr/md5_hash_chanager.html)
+    [https://www.strerr.com/fr/md5_hash_chanager.html](__MASK_142__)
     
     [AnyTrack | #1 Conversion Tracking Software](https://anytrack.io/)
     

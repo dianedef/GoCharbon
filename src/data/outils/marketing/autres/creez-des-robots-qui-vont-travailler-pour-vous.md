@@ -29,7 +29,7 @@ Atlas-1 est un nouveau modèle multimodal que nous entraînons depuis plus d'un 
 [Rejoignez-nous sur Discord pour une diffusion en direct à 12h00 PST le 12/7](https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzAxOTEyNTQ4LCJuYmYiOjE3MDE5MTI1NDgsImFjY291bnRfaWQiOiI0MjI3MTA5IiwiZGVsaXZlcnlfaWQiOiIzMmR5Nm9kNjVydGplMnk3dG8weCIsInVybCI6Imh0dHBzOi8vZGlzY29yZC5nZy90bm5UdUdiSj9ldmVudD0xMTgxOTkwODAzODUwMTM3NjMwJl9fcz1jaWl5eXZueHNrOWt6dTN0MGpwOCJ9.MUrtlB5IECCufboCeOVAUEU6LUP2990yadRojsF_dNI)
   
 Consulte notre nouveau guide de démarrage rapide sur le bureau et les astuces les plus populaires ci-dessous pour te familiariser avec toutes les fonctionnalités géniales que tu peux utiliser pour obtenir plus de vues et gagner :  
-[https://youtu.be/WwS7-frr6cw](https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNzAxOTEyNTQ4LCJuYmYiOjE3MDE5MTI1NDgsImFjY291bnRfaWQiOiI0MjI3MTA5IiwiZGVsaXZlcnlfaWQiOiIzMmR5Nm9kNjVydGplMnk3dG8weCIsInVybCI6Imh0dHBzOi8veW91dHUuYmUvV3dTNy1mcnI2Y3c_X19zPWNpaXl5dm54c2s5a3p1M3QwanA4In0.t7poOvCcoOgtheZAmTkl1pNujWhsVv8dXfps8tfi8LI)
+[https://youtu.be/WwS7-frr6cw](__MASK_1__)
  
 
 # Cibles sémantiques

@@ -67,7 +67,7 @@ Considering all of that, while HTMX can replace SPAs in some cases, it doesn’t
 
 # Conclusion
 
-While HTMX is an exciting new way of web development, and it can change how and when many frameworks are used, it still isn’t a complete replacement for the current set of technologies, maybe unless you use the BETH stack.
+While HTMX is an exciting new way of web development, and it can change how and when many frameworks are used, it still isn’t a complète replacement for the current set of technologies, maybe unless you use the BETH stack.
 
 # Stackademic
 

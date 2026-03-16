@@ -17,7 +17,7 @@ _février 5, 2016 1648_
 
 Note à l’article. L’auteur est Syudzan Patel
 
-[https://wpsoul.com/100-lessons-from-10-years-experience-seo-guru/](https://wpsoul.com/100-lessons-from-10-years-experience-seo-guru/)
+[https://wpsoul.com/100-lessons-from-10-years-experience-seo-guru/](__MASK_0__)
 
 Les leçons suivantes sont basées sur ma propre expérience. Ils se rapportent non seulement au référencement, mais aussi à ma vie et à mon entreprise. J’espère que les leçons seront utiles et que vous éviterez les erreurs que j’ai commises.
 

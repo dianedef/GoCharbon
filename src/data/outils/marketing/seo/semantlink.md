@@ -54,7 +54,7 @@ Nous avons souhaité que notre outil soit le plus simple d'utilisation possible.
 
 ### 👩‍🏫 Démonstration complète
 
-[https://youtu.be/bC2uxwAPN7Q](https://youtu.be/bC2uxwAPN7Q)
+[https://youtu.be/bC2uxwAPN7Q](__MASK_4__)
 
 ### 🤩 L’équipe, l’histoire et la mission
 

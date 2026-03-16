@@ -19,7 +19,7 @@ imgUrl: ../../../../assets/astro.jpeg
 
 Le 8 décembre 2023par Korben -
 
-1. [Internet-Reseaux](https://korben.info/categories/internet-reseaux/ "Voir tous les articles de la catégorie Internet-Reseaux")
+1. [Internet-Réseaux](https://korben.info/categories/internet-reseaux/ "Voir tous les articles de la catégorie Internet-Reseaux")
 2. [Cloud](https://korben.info/categories/internet-reseaux/cloud/ "Voir tous les articles de la sous-catégorie Cloud")
 
 On n’arrête pas le progrès !!
@@ -52,7 +52,7 @@ En termes de prérequis, se lancer avec Cloudron ne demande pas grand-chose. Il 
 wget https://cloudron.io/cloudron-setup chmod +x cloudron-setup ./cloudron-setup
 ```
 
-Une fois Cloudron installé, vous pourrez configurer votre plateforme, notamment le nom de domaine et la gestion des DNS, soit via Amazon Route 53, DigitalOcean, avec un Wildcard ou manuellement. Une fois l’installation terminée, vous pourrez alors accéder à votre Cloudron via l’adresse principale de votre Cloudron qui sera [https://my.votrenomdedomaine.com](https://my.votredomaine.com/).
+Une fois Cloudron installé, vous pourrez configurer votre plateforme, notamment le nom de domaine et la gestion des DNS, soit via Amazon Route 53, DigitalOcean, avec un Wildcard ou manuellement. Une fois l’installation terminée, vous pourrez alors accéder à votre Cloudron via l’adresse principale de votre Cloudron qui sera [https://my.votrenomdedomaine.com](__MASK_8__).
 
 Pour approfondir le sujet et découvrir toutes les fonctionnalités de Cloudron, je vous invite à consulter la documentation complète sur [leur site](https://docs.cloudron.io/).
 

@@ -20,9 +20,9 @@ Voici comment faire sur chaque navigateur.
 
 ## Sur Google Chrome / Brave / Edge (Chromium)
 
-Tous les navigateurs bases sur Chromium partagent le meme systeme de raccourcis d'extensions.
+Tous les navigateurs bases sur Chromium partagent le même système de raccourcis d'extensions.
 
-### Etape 1 : Acceder aux parametres de raccourcis
+### Étape 1 : Acceder aux parametres de raccourcis
 
 1. Ouvre ton navigateur
 2. Tape `chrome://extensions/shortcuts` dans la barre d'adresse (ou `brave://extensions/shortcuts` pour Brave, `edge://extensions/shortcuts` pour Edge)
@@ -31,31 +31,31 @@ Tous les navigateurs bases sur Chromium partagent le meme systeme de raccourcis 
 
 **Note** : tu peux aussi y acceder via le menu : Extensions > Gerer les extensions > icone hamburger (trois barres en haut a gauche) > Raccourcis clavier.
 
-### Etape 2 : Assigner un raccourci
+### Étape 2 : Assigner un raccourci
 
 1. Trouve l'extension que tu veux configurer
 2. Clique sur l'icone crayon (ou directement dans le champ) a cote de l'action souhaitee
 3. Tape la combinaison de touches que tu veux utiliser (exemple : Ctrl+Shift+S)
 4. Le raccourci est sauvegarde automatiquement. Pour supprimer un raccourci, clique sur la croix a cote
 
-### Etape 3 : Choisir la portee
+### Étape 3 : Choisir la portee
 
 Pour chaque raccourci, tu peux choisir :
 - **Dans Chrome** : le raccourci fonctionne uniquement quand le navigateur est au premier plan
-- **Global** : le raccourci fonctionne meme si le navigateur est en arriere-plan (utile pour les outils de capture d'ecran ou les gestionnaires de clipboard)
+- **Global** : le raccourci fonctionne même si le navigateur est en arriere-plan (utile pour les outils de capture d'ecran ou les gestionnaires de clipboard)
 
 ## Sur Firefox
 
-### Etape 1 : Acceder aux parametres
+### Étape 1 : Acceder aux parametres
 
 1. Ouvre Firefox
 2. Tape `about:addons` dans la barre d'adresse, ou va dans le menu hamburger (trois barres) > "Extensions et themes"
 3. Clique sur l'icone engrenage en haut a droite
-4. Selectionne "Gerer les raccourcis des extensions"
+4. Sélectionne "Gerer les raccourcis des extensions"
 
 **Alternative rapide** : tu peux aussi taper directement `about:addons` puis cliquer sur l'engrenage.
 
-### Etape 2 : Configurer les raccourcis
+### Étape 2 : Configurer les raccourcis
 
 1. Trouve l'extension dans la liste
 2. Clique sur le champ de raccourci
@@ -91,7 +91,7 @@ Voici les extensions que tu devrais configurer en priorite, avec des suggestions
 
 | Extension | Action | Raccourci suggere |
 |-----------|--------|-------------------|
-| SEOquake | Voir les metriques SEO | Ctrl+Shift+Q |
+| SEOquake | Voir les métriques SEO | Ctrl+Shift+Q |
 | SimilarWeb | Voir le trafic | Ctrl+Shift+S |
 | Keywords Everywhere | Voir les volumes de recherche | Ctrl+Shift+K |
 
@@ -99,7 +99,7 @@ Voici les extensions que tu devrais configurer en priorite, avec des suggestions
 
 ### Eviter les conflits
 
-Certaines combinaisons sont deja prises par le navigateur ou le systeme :
+Certaines combinaisons sont déjà prises par le navigateur ou le système :
 - **Ctrl+T** : nouvel onglet (ne pas ecraser)
 - **Ctrl+W** : fermer l'onglet (surtout pas)
 - **Ctrl+L** : barre d'adresse (a garder)
@@ -111,11 +111,11 @@ Certaines combinaisons sont deja prises par le navigateur ou le systeme :
 
 Groupe tes raccourcis par theme :
 - **Alt+Shift+1 a 5** : tes 5 extensions les plus utilisees
-- **Ctrl+Shift+lettre** : la premiere lettre du nom de l'extension (B pour Bitwarden, P pour Pocket)
+- **Ctrl+Shift+lettre** : la première lettre du nom de l'extension (B pour Bitwarden, P pour Pocket)
 
 ### Creer un aide-memoire
 
-Note tes raccourcis dans un document ou un post-it sur ton ecran le temps de les memoriser. Apres 2-3 semaines, ca devient un reflexe.
+Note tes raccourcis dans un document ou un post-it sur ton ecran le temps de les memoriser. Après 2-3 semaines, ca devient un reflexe.
 
 ## Aller plus loin : automatiser avec AutoHotkey (Windows) ou Hammerspoon (Mac)
 

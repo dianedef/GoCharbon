@@ -91,7 +91,7 @@ Enrichissement en masse
 
 [(4) UseArtemis | Facebook](https://www.facebook.com/useartemisco/)
 
-[https://twitter.com/useartemisco](https://twitter.com/useartemisco)
+[https://twitter.com/useartemisco](__MASK_3__)
 
 [(36) useArtemis : Vue d'ensemble | LinkedIn](https://www.linkedin.com/company/useartemis/)
 
@@ -169,7 +169,7 @@ Ils ont & pg affi
     
     [S'inscrire | TubeBuddy](https://www.tubebuddy.com/signin?ReturnUrl=%2Flaunchpad%2Fdashboard%2FUCQo-_DT1_PetYrOjKQ_EO3Q)
     
-    [ACTUALITÉS : Web Series, Online Video & TV Shows, YouTube | EVENTS : LA & NYC Meetup | Tubefilter.com](https://www.tubefilter.com/)
+    [ACTUALITÉS : Web Series, Online Vidéo & TV Shows, YouTube | EVENTS : LA & NYC Meetup | Tubefilter.com](https://www.tubefilter.com/)
     
     [Outils - TubeBuddy](https://www.tubebuddy.com/tools/?tool=channelbackup)
     

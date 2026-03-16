@@ -8,7 +8,7 @@ status: "active"
 updatedAt: "2026-03-01"
 ---
 ## Ton objectif
-Produire du contenu multi-format assiste IA avec niveau editorial humain.
+Produire du contenu multi-format assiste IA avec niveau éditorial humain.
 
 ## En clair (version simple)
 - Pour qui : Coachs, SaaS B2B et marques perso qui doivent publier en continu.
@@ -16,12 +16,12 @@ Produire du contenu multi-format assiste IA avec niveau editorial humain.
 - Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 
 ## Idées d'offres à tester
-1. Calendrier editorial 30 jours + prompts proprietaires
+1. Calendrier éditorial 30 jours + prompts propriétaires
 2. Pack contenu cross-canal (article + carrousel + script vidéo)
 3. Service ghostwriting IA supervise
 
 ## Ton plan simple sur 7 jours
-1. Jour 1 : rends "Calendrier editorial 30 jours + prompts proprietaires" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
+1. Jour 1 : rends "Calendrier éditorial 30 jours + prompts propriétaires" en offre claire (pour qui, ce que tu fais, et pourquoi on peut te faire confiance).
 2. Jours 2-4 : utilise ton canal principal (Portfolio de transformations contenu brut vers contenu publish-ready.) pour proposer "Pack contenu cross-canal (article + carrousel + script vidéo)" à tes premiers clients et noter leurs retours.
 3. Jours 5-7 : continue avec "Service ghostwriting IA supervise", puis suis temps prod par asset en baisse et taux publication respecte > 90%, puis ajuste petit à petit.
 
@@ -31,7 +31,7 @@ Produire du contenu multi-format assiste IA avec niveau editorial humain.
 - contacts entrants via contenu organique
 
 ## Pièges à éviter
-- Contenu IA generique sans angle
+- Contenu IA générique sans angle
 - Absence de vérification qualité factualite
 - Incohérence de ton de marque
 
@@ -50,6 +50,6 @@ Produire du contenu multi-format assiste IA avec niveau editorial humain.
 - [Ressource utile 3](/marketing/content-marketing)
 
 ## Idées de contenus pour aller plus loin
-- [Guide à venir 1: systeme brief editorial](/tutos/ai-content-creator/systeme-brief-editorial)
+- [Guide à venir 1: système brief éditorial](/tutos/ai-content-creator/systeme-brief-editorial)
 - [Guide à venir 2: process d'humanisation](/tutos/ai-content-creator/workflow-humanisation)
 - [Guide à venir 3: pack prompts marque](/tutos/ai-content-creator/pack-prompts-marque)

@@ -83,7 +83,7 @@ Choisissez maintenant d'exporter votre résumé au format Word ou PDF !
 - 🤖 AI assistant chatbot for more context and recommendations
 - 🛠️ Customizable settings like vocabularies, bot image/description, privacy options
 - 💬 AI assistant can provide relevant quotes, insights, and information from the transcript
-- 🎥 Ability to create video/audio clips from transcripts as a library
+- 🎥 Ability to create vidéo/audio clips from transcripts as a library
 - 🔍 "Insights" section offers deeper analysis on topics discussed
 - 📊 Analytics like sentiment analysis, speaker stats (questions asked, monologue time, etc.)
 - ⬇️ Download and share transcripts with integrated tools
@@ -96,7 +96,7 @@ Choisissez maintenant d'exporter votre résumé au format Word ou PDF !
 - 🚀 Continuous improvement on transcription quality and detailed report generation
 - 🇫🇷 Prioritizing French language models and components
 - 💼 Business plan updates: same features, limit on team size based on original contract
-- 🔄 6-month grace period before new subscription pricing after platform launch
+- 🔄 6-month grâce period before new subscription pricing after platform launch
 - 🏫 Open to providing dedicated training webinars on specific Noota features
 ## **  
 NOUVEAUX RAPPORTS DÉTAILLÉS**
@@ -188,7 +188,7 @@ On average, a salesperson spends more than 40% of their time on customer interac
 
 ****Sharing knowledge****
 
-Knowledge & experience are useless if there are not shared.
+Knowledge & expérience are useless if there are not shared.
 
 **Concept**
 
@@ -245,16 +245,16 @@ The cost of the translation are per language. If the user decide to translate 60
     > _“La possibilité optionnelle offerte par l’outil de transcrire les “disfluences”, en particulier les répétitions. Je trouve cette option précieuse pour les collègues qui cherchent à obtenir une transcription aussi fidèle que possible au discours original. À noter qu’il est quasiment le seul de mon comparatif à offrir cette possibilité”_
     
 
-# How to export subtitled video ?
+# How to export subtitled vidéo ?
 
-<aside> 💡 When you are on the subtitle page you can click on “My Subtitled Video”
+<aside> 💡 When you are on the subtitle page you can click on “My Subtitled Vidéo”
 
 
-You will receive an email as soon as your video is ready. Follow the link in the email and download directly your video.
+You will receive an email as soon as your vidéo is ready. Follow the link in the email and download directly your vidéo.
 
 # How to generate subtitle ?
 
-<aside> 💡 When you upload a video, the first time you will open the transcription, you will be asked if you want to Transcribe or Subtitle.
+<aside> 💡 When you upload a vidéo, the first time you will open the transcription, you will be asked if you want to Transcribe or Subtitle.
 
 Select subtitle.
 
@@ -276,7 +276,7 @@ In the example above you can see :
 
 Today Noota use OGG format to create high quality small size file. So when you choose to download a file from Noota it will be downloaded in OGG.
 
-If you want to download the video, you can download the video from the subtitle mode as MP4 file.
+If you want to download the vidéo, you can download the vidéo from the subtitle mode as MP4 file.
 
 How long does it take for my transcription to be done ?
 
@@ -300,7 +300,7 @@ If your file is specific and is not taken into account, contact us directly on o
 
 Audio : MP3, AAC, WAV, FLAC, OGG
 
-Video : MP4, M4A, MOV, OGG
+Vidéo : MP4, M4A, MOV, OGG
 
 What is the accuracy ? The accuracy is highly dependant of the quality of the original recording
 
@@ -665,7 +665,7 @@ Les vidéoconférences sont là pour nous faire gagner du temps mais s’avèren
 
 Discordances, participants qui ne participent pas… Noota engage les opportunités
 
-Knowledge & experience are useless if there are not shared.
+Knowledge & expérience are useless if there are not shared.
 
 * 👥 Intégration CRM
 * 🔒Sécurité et confidentialité :
@@ -848,7 +848,7 @@ Passionnés par l'innovation de rupture et pour dépasser cette difficulté d'an
 
 ### Quels Fichiers Peuvent Être Analyser ?
 
-Tous types de fichiers audio et video contenant des paroles que nous pouvons transcrire. Ces fichiers seront transcrits puis analysés.
+Tous types de fichiers audio et vidéo contenant des paroles que nous pouvons transcrire. Ces fichiers seront transcrits puis analysés.
 
 En combien de temps ai-je mes résultats ?
 
@@ -936,7 +936,7 @@ Liens
 
 [Nous contacter](https://noota.io/contact/)
 
-[https://www.facebook.com/groups/216602660266844](https://www.facebook.com/groups/216602660266844)
+[https://www.facebook.com/groups/216602660266844](__MASK_34__)
 
 ## Programme Partenaire
 
@@ -958,13 +958,13 @@ The cost of the translation are per language. If the user decide to translate 60
 
 A total of 240 credits.
 
-How to export subtitled video ?
+How to export subtitled vidéo ?
 
-💡 When you are on the subtitle page you can click on “My Subtitled Video”
+💡 When you are on the subtitle page you can click on “My Subtitled Vidéo”
 
-You will receive an email as soon as your video is ready. Follow the link in the email and download directly your video.# How to generate subtitle ?
+You will receive an email as soon as your vidéo is ready. Follow the link in the email and download directly your vidéo.# How to generate subtitle ?
 
-💡 When you upload a video, the first time you will open the transcription, you will be asked if you want to Transcribe or Subtitle.
+💡 When you upload a vidéo, the first time you will open the transcription, you will be asked if you want to Transcribe or Subtitle.
 
 Select subtitle.
 
@@ -988,7 +988,7 @@ In the case above the is 516 minutes left out of 1500minutes that are reset ever
 
 Today Noota use OGG format to create high quality small size file. So when you choose to download a file from Noota it will be downloaded in OGG.
 
-If you want to download the video, you can download the video from the subtitle mode as MP4 file.
+If you want to download the vidéo, you can download the vidéo from the subtitle mode as MP4 file.
 
 How long does it take for my transcription to be done ?
 
@@ -1012,7 +1012,7 @@ If your file is specific and is not taken into account, contact us directly on o
 
 Audio : MP3, AAC, WAV, FLAC, OGG
 
-Video : MP4, M4A, MOV, OGG
+Vidéo : MP4, M4A, MOV, OGG
 
 What is the accuracy ? The accuracy is highly dependant of the quality of the original recording
 
@@ -1084,7 +1084,7 @@ In such case, you will invoice us back.
 
 We need :
 
-* If the account is normal (not anonymized), then user need to register at [https://app.noota.io](https://app.noota.io)
+* If the account is normal (not anonymized), then user need to register at [https://app.noota.io](__MASK_42__)
 * The email address of the user
 * The name of the company if a company
 * What subscription they are interested in
@@ -1164,7 +1164,7 @@ With the Note Taker you can :
 
 Here is how you can start Noota Note Taker through the widget :
 
-![[Untitled video - Made with Clipchamp (1).gif]].gif)
+![[Untitled vidéo - Made with Clipchamp (1).gif]].gif)
 
 Here is a sample of what you can do with NootEx
 
@@ -1380,17 +1380,17 @@ A total of 240 credits.
 #### How to Generate Subtitle ?
 
 <aside>
-💡 When you upload a video, the first time you will open the transcription, you will be asked if you want to Transcribe or generate Subtitles for your video.
+💡 When you upload a vidéo, the first time you will open the transcription, you will be asked if you want to Transcribe or generate Subtitles for your vidéo.
 
 </aside>
 
 ![[/Untitled%208.png)]]
 
-#### How to Export Subtitled Video ?
+#### How to Export Subtitled Vidéo ?
 
-You will receive an email as soon as your video is ready. Follow the link in the email and download directly your video.
+You will receive an email as soon as your vidéo is ready. Follow the link in the email and download directly your vidéo.
 
-[https://play.google.com/store/apps/details?id=io.noota.app.www.twa&gl](https://play.google.com/store/apps/details?id=io.noota.app.www.twa&gl)
+[https://play.google.com/store/apps/details?id=io.noota.app.www.twa&gl](__MASK_45__)
 
 #### The Mobile Application is not Working
 
@@ -1483,7 +1483,7 @@ Examinez facilement la réponse de chacun de vos clients
 
 surligne aussi vite que sur le papier.**
 
-Conçu à la base pour les professionnels de la vente afin de suivre sans effort leurs appels clients et réunions interne, Noota transcrit tous types de fichiers audio et video contenant des paroles. Il facilite la collecte des données vocales et les analyse pour vous aider à identifier les pratiques les plus performantes et maintenir tout le monde sur la même longueur d'onde.
+Conçu à la base pour les professionnels de la vente afin de suivre sans effort leurs appels clients et réunions interne, Noota transcrit tous types de fichiers audio et vidéo contenant des paroles. Il facilite la collecte des données vocales et les analyse pour vous aider à identifier les pratiques les plus performantes et maintenir tout le monde sur la même longueur d'onde.
 
 Cela améliorer la performance en automatisant les tâches chronophages liées à la gestion des appels et réunions, et permet d'avoir beaucoup plus de clarté sur nos interactions et nos échanges vocaux grâce aux analyses et retours portées par l'IA. 
 

@@ -17,7 +17,7 @@ Idée de lead magnet: [Free Sales & Business Templates | Salescamp Resources](ht
 
 [Quelle différence entre un prospect et un lead ?](https://www.webconversion.fr/difference-lead-prospect/)
 
-[https://mrqz.to/6295396328e46e0027e83088](https://mrqz.to/6295396328e46e0027e83088)
+[https://mrqz.to/6295396328e46e0027e83088](__MASK_2__)
 
 [3 secrets experts succès - Avec Num](https://jeremy-kohlmann.com/3-secrets-experts-succes/?0=3&1=20&fbclid=IwAR3B-ys-8gjTZ1SLpQ09TZFlxsHSrUhoFqoC2fjIH08YTdcI-v3535vHUFs)
 
@@ -56,4 +56,4 @@ Modèle de réception du lead : De manière générale sur un premier test on va
 
 seo is nuanced
 
-the best way to make judgement call is by experience
+the best way to make judgement call is by expérience

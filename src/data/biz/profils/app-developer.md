@@ -272,7 +272,7 @@ Même si tu ne veux pas devenir “pur dev”, apprendre un peu de langage logic
 **Payantes (100-500€)** :
 
 - Flutter/Dart sur Udemy (15-50€)
-- React Native Complete Guide (49-99€)
+- React Native Complète Guide (49-99€)
 - iOS/Swift courses sur Pluralsight (abonnement mensuel)
 
 ### Outils

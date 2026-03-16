@@ -34,7 +34,7 @@ Everything syncs seamlessly and in real-time across all your devices.
 
 - **Drag & drop** files and move lines by holding the dotted icon on each row like on Notion
 - Easily **search** within your Note using keyboard shortcuts (_cmd+F / ctrl+F_)
-- Attach and **store all file** types in your Notes - see full previews of files and images, and watch videos
+- Attach and **store all file** types in your Notes - see full previews of files and images, and watch vidéos
 
 Add PDFs
 
@@ -49,9 +49,9 @@ Share with anyone! Even if they don’t use Spike. Collaborate, chat, and leave 
 - Create **todo lists**. Cross them off when done
 - **Saves** and **syncs** automatically
 
-[https://www.spikenow.com/help/setting-up-your-spike-account/](https://www.spikenow.com/help/setting-up-your-spike-account/)
+[https://www.spikenow.com/help/setting-up-your-spike-account/](__MASK_1__)
 
-[https://superhuman.com/vip?email=themallette@gmail.com&via=email](https://superhuman.com/vip?email=themallette@gmail.com&via=email)
+[https://superhuman.com/vip?email=themallette@gmail.com&via=email](__MASK_2__)
 ## Shortwave
 
 [A deep dive into the world's smartest email AI](https://www.shortwave.com/blog/deep-dive-into-worlds-smartest-email-ai/)

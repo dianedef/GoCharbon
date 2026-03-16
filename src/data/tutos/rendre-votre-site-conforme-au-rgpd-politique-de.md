@@ -12,7 +12,7 @@ pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-[https://www.axeptio.eu/en/home](https://www.axeptio.eu/en/home)
+[https://www.axeptio.eu/en/home](__MASK_1__)
 
 - axeptio
     
@@ -102,9 +102,9 @@ imgUrl: ../../assets/astro.jpeg
     - **Nom:** funnelll (**important:** assurez-vous d’ajouter ce champ tel quel en minuscules)
     - **Brève description:** Nous permet d’analyser les statistiques de votre parcours sur notre site Web et comment l’améliorer
     - **Description longue :** Nous permet d’analyser les statistiques de votre parcours sur notre site Web, d’apprendre comment améliorer votre expérience et de savoir quelles publicités et quel contenu créer pour vous offrir la meilleure expérience sur notre site Web
-    - **Nom de domaine:** [](https://www.funnelll.com/)[https://www.funnelll.com](https://www.funnelll.com)
+    - **Nom de domaine:** [](https://www.funnelll.com/)[https://www.funnelll.com](__MASK_5__)
     - **Catégorie:** Marketing
-    - **URL de la politique de confidentialité:** [https://www.funnelll.com/privacy.html](https://www.funnelll.com/privacy.html)
+    - **URL de la politique de confidentialité:** [https://www.funnelll.com/privacy.html](__MASK_6__)
     
     
     
@@ -250,7 +250,7 @@ La lecture attentive de ce texte, la maîtrise de ses concepts révèle un mode 
 
 L’inventeur du web, Tim Berners-Lee qui a refusé de breveter sa création, a écrit en 1999 dans son ouvrage _, « Weaving the Web » :_
 
-_« The Web is more a social creation than a technical one. I designed it for a social effect—to help people work together—and not as a technical toy. The ultimate goal of the Web is to support and improve our weblike existence in the world. We clump into families, associations, and companies. We develop trust across the miles and distrust around the corner. What we believe, endorse, agree with, and depend on is representable and, increasingly, represented on the Web. We all have to ensure that the society we build with the Web is of the sort we intend._ _»_
+_« The Web is more a social création than a technical one. I designed it for a social effect—to help people work together—and not as a technical toy. The ultimate goal of the Web is to support and improve our weblike existence in the world. We clump into families, associations, and companies. We develop trust across the miles and distrust around the corner. What we believe, endorse, agree with, and depend on is representable and, increasingly, represented on the Web. We all have to ensure that the society we build with the Web is of the sort we intend._ _»_
 
 > **Le cookiewall ne s’inscrit pas dans cette logique. Il défigure le web et dessert ceux qui le mette en pratique.**
 

@@ -40,7 +40,7 @@ B-Reputation convient à divers profils professionnels, notamment :
 Bien que B-Reputation soit une solution unique, il existe quelques alternatives sur le marché, notamment :
 - Altares
 - Ellisphere
-- Societe.com
+- Société.com
 
 ## Fonctionnalités
 

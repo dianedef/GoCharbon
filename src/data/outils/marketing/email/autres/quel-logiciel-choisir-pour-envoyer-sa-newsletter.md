@@ -121,14 +121,14 @@ Un autorépondeur est un outil permettant de faciliter la gestion de la commun
 
 [Quel auto-répondeur choisir?! - Quartier général (Publique) - La Tranchée = Communauté + Coaching + Formation](https://forum.latranchee.com/t/quel-auto-repondeur-choisir/771/74?page=4)
 
-Bonjour, je suis à mes débuts dans le marketing par email et j’aimerais avoir votre opinion pour le choix d’un auto-répondeur. En francais, facile d’utilisation, le plus basic possible (je ne veux rien de compliquer pour l’instant), gratuit ou pas trop dispendieux.
+Bonjour, je suis à mes débuts dans le marketing par email et j’aimerais avoir votre opinion pour le choix d’un auto-répondeur. En français, facile d’utilisation, le plus basic possible (je ne veux rien de compliquer pour l’instant), gratuit ou pas trop dispendieux.
 
 J’ai entendu parlé de GetResponse, SG auto-répondeur, Mailchimp, Aweber.
 
 Lequel choisir selon mes critères?
 
 
-Perso, j’ai à peu près tout essayé. J’aime bien SG autorépondeur et c’est ce que j’utilise pour le moment. Très bonne formation en francais et 8 euros par mois pour un forfait qui te permet de débuter amplement.
+Perso, j’ai à peu près tout essayé. J’aime bien SG autorépondeur et c’est ce que j’utilise pour le moment. Très bonne formation en français et 8 euros par mois pour un forfait qui te permet de débuter amplement.
 
 
 Le choix de l’autorépondeur est crucial. Un truc qui dérange c’est que 30% des mails sont ouverts en moyenne… et cela parait normal 

@@ -234,7 +234,7 @@ claude "Design l'architecture du nouveau module de notifications temps réel"
 | --- | --- | --- |
 | Pro | $20/mois | Usage modéré, <5h/jour |
 | Max | $100/mois | Usage intensif |
-| Max (heavy) | $200/mois | Equipes, usage continu |
+| Max (heavy) | $200/mois | Équipes, usage continu |
 | API | $5/$25 par million tokens | Pay-as-you-go |
 
 ### Codex CLI

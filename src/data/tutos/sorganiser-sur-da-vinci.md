@@ -16,7 +16,7 @@ imgUrl: ../../assets/astro.jpeg
 
 ## ORGANISATION : LE SECRET DES MONTEURS EFFICACES
 
-Un projet mal organise dans DaVinci, c'est des heures perdues a chercher le bon fichier. Que tu montes une video YouTube ou un projet client, une bonne organisation te fait gagner un temps fou. Voici le systeme complet.
+Un projet mal organise dans DaVinci, c'est des heures perdues a chercher le bon fichier. Que tu montes une vidéo YouTube ou un projet client, une bonne organisation te fait gagner un temps fou. Voici le système complet.
 
 ---
 
@@ -53,15 +53,15 @@ Les Smart Bins trient automatiquement tes fichiers selon des criteres que tu def
 
 1. Clic droit dans le Media Pool > **New Smart Bin**
 2. Definis les criteres de filtrage :
-   - **Media Type** : Video, Audio, Still Image
+   - **Media Type** : Vidéo, Audio, Still Image
    - **Resolution** : filtre par resolution (4K, 1080p...)
    - **Date Created** : par date de tournage
-   - **Clip Name contains** : mots-cles dans le nom du fichier
-   - **Duration** : plus court ou plus long qu'une duree donnee
+   - **Clip Name contains** : mots-clés dans le nom du fichier
+   - **Duration** : plus court ou plus long qu'une durée donnee
 
 ### Exemples de Smart Bins utiles
 
-- **"Videos 4K"** : Media Type = Video + Resolution > 3840
+- **"Vidéos 4K"** : Media Type = Vidéo + Resolution > 3840
 - **"B-Roll"** : Clip Name contains "broll" ou "plan_coupe"
 - **"Clips courts"** : Duration < 10 secondes
 
@@ -75,17 +75,17 @@ Les Smart Bins se mettent a jour automatiquement quand tu importes de nouveaux f
 
 Attribue une couleur a tes clips pour les identifier visuellement sur la timeline.
 
-1. Selectionne un clip dans le Media Pool ou sur la timeline
+1. Sélectionne un clip dans le Media Pool ou sur la timeline
 2. Clic droit > **Clip Color** > Choisis une couleur
 
-### Systeme de couleurs recommande
+### Système de couleurs recommande
 
 | Couleur | Usage |
 |---------|-------|
 | Bleu | Plans face camera principaux |
 | Vert | B-roll / plans de coupe |
 | Orange | Musique et ambiance |
-| Rouge | A refaire / probleme technique |
+| Rouge | A refaire / problème technique |
 | Violet | Graphiques et overlays |
 | Jaune | A verifier / en attente de validation |
 
@@ -93,7 +93,7 @@ Attribue une couleur a tes clips pour les identifier visuellement sur la timelin
 
 Les flags marquent les clips avec un statut. Utile pour le tri avant montage.
 
-1. Selectionne un clip
+1. Sélectionne un clip
 2. Clic droit > **Flag** > choisis une couleur de flag
 3. Tu peux ensuite filtrer par flag dans le Media Pool
 
@@ -115,11 +115,11 @@ Les markers sont des points de repere sur ta timeline ou sur tes clips.
 - **Timeline markers** : places sur la timeline, visibles de tous les clips
 - **Clip markers** : attaches a un clip, ils se deplacent avec le clip
 
-### Systeme de markers recommande
+### Système de markers recommande
 
 | Couleur | Signification |
 |---------|--------------|
-| Rouge | Probleme a corriger |
+| Rouge | Problème a corriger |
 | Vert | Valide / approuve |
 | Bleu | Ajouter de la musique ici |
 | Jaune | Ajouter un effet / transition |
@@ -139,7 +139,7 @@ Les Power Bins sont des bins partages entre tous tes projets. Parfait pour les e
 ### Quoi mettre dans les Power Bins
 
 - Ton **logo** et ses variantes
-- Tes **intros et outros** de chaine
+- Tes **intros et outros** de chaîne
 - Ta **musique libre de droits** preferee
 - Tes **presets de titres** et overlays
 - Des **effets sonores** recurrents (whoosh, ding, transition)
@@ -153,7 +153,7 @@ Ca evite de reimporter ces fichiers dans chaque projet.
 
 Ne garde pas "Timeline 1". Nomme tes timelines clairement.
 
-### Systeme de nommage
+### Système de nommage
 
 ```
 v1_rough_cut        (premier montage brut)
@@ -186,7 +186,7 @@ Clique sur le **cadenas** a gauche de la piste pour la verrouiller. Ca evite de 
 
 ### Desactiver les pistes
 
-Clique sur le bouton **Mute** (pour l'audio) ou **Disable** (pour la video) pour masquer temporairement une piste.
+Clique sur le bouton **Mute** (pour l'audio) ou **Disable** (pour la vidéo) pour masquer temporairement une piste.
 
 ---
 
@@ -229,10 +229,10 @@ Clique sur le bouton **Mute** (pour l'audio) ou **Disable** (pour la video) pour
 
 DaVinci Resolve 19 a ajoute plusieurs fonctionnalites qui ameliorent l'organisation :
 
-- **Fixed Playhead on Timeline** (Edit tab) : la tete de lecture reste au centre de l'ecran et c'est la timeline qui deplace. Tres utile pour garder le focus pendant le montage (avant, cette option n'existait que dans l'onglet Cut).
-- **Precise Trim Editor dans la Preview** : double-clique entre deux clips pour ajuster frame par frame directement dans la fenetre de preview.
-- **Transcribe Mode Editing** : affiche la transcription des clips et permet de monter par le texte. Tres pratique pour les interviews et les tetes parlantes.
-- **Detection des interlocuteurs** dans la transcription : chaque personne est identifiee et peut etre nommee, facilitant le tri de longues interviews multi-personnes.
+- **Fixed Playhead on Timeline** (Edit tab) : la tete de lecture reste au centre de l'ecran et c'est la timeline qui deplace. Très utile pour garder le focus pendant le montage (avant, cette option n'existait que dans l'onglet Cut).
+- **Precise Trim Editor dans la Preview** : double-clique entre deux clips pour ajuster frame par frame directement dans la fenêtre de preview.
+- **Transcribe Mode Editing** : affiche la transcription des clips et permet de monter par le texte. Très pratique pour les interviews et les tetes parlantes.
+- **Detection des interlocuteurs** dans la transcription : chaque personne est identifiee et peut être nommee, facilitant le tri de longues interviews multi-personnes.
 
 ---
 

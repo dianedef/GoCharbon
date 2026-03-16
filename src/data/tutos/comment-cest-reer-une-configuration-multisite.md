@@ -75,7 +75,7 @@ Lorsque votre nom de domaine pointe sur votre espace d'hébergement, pensez à m
         
 5. redirections
     
-    - [https://faq.o2switch.fr/hebergement-mutualise/gestion-web/arborescence-dossiers-multisite](https://faq.o2switch.fr/hebergement-mutualise/gestion-web/arborescence-dossiers-multisite)
+    - [https://faq.o2switch.fr/hebergement-mutualise/gestion-web/arborescence-dossiers-multisite](__MASK_29__)
     
     Lorsque vous commandez un espace d'hébergement, nous vous attribuons une adresse de référence qui est de la forme `identifiant.odns.fr`. Il s'agit d'une adresse technique, permettant d'identifier un compte d'hébergement.
     
@@ -93,7 +93,7 @@ Lorsque votre nom de domaine pointe sur votre espace d'hébergement, pensez à m
     
     Ensuite vous pouvez consulter vos emails avec l'aide du webmail, qui permet de gérer vos emails depuis un navigateur web.
     
-    - [](https://pablo.o2switch.net:2096/)[https://pablo.o2switch.net:2096](https://pablo.o2switch.net:2096) (webmail)
+    - [](https://pablo.o2switch.net:2096/)[https://pablo.o2switch.net:2096](__MASK_38__) (webmail)
     
     Il est aussi possible de configurer un client de messagerie (Outlook, Thunderbird, votre téléphone) en POP ou IMAP. Voici les réglages qu'il faut utiliser, suivi d'un tutoriel plus exhaustif.
     

@@ -26,7 +26,7 @@ Prompt Hunt
 [BlueWillow A Free Stable Diffusion AI Art Generator - YouTube](https://www.youtube.com/watch?v=Aqnt0deqirk)
 
 
-midjourney [https://youtu.be/QJSFvWIRpgw?t=41](https://youtu.be/QJSFvWIRpgw?t=41)
+midjourney [https://youtu.be/QJSFvWIRpgw?t=41](__MASK_4__)
 
 [31 excellents prompts ChatGPT pour le SEO : la liste WebRankInfo](https://www.webrankinfo.com/dossiers/conseils/chatgpt-seo)
 
@@ -80,7 +80,7 @@ high detail, high-resolution photograph, professional photography, ultra-detail
 
 # The-DALL·E-2-prompt-book-v1.02
 
-DALL·E 2 is a game-changing new tool for AI powered art creation, turning sentences into beautiful pictures in seconds. Like magic.
+DALL·E 2 is a game-changing new tool for AI powered art création, turning sentences into beautiful pictures in seconds. Like magic.
 
 Digital art of a man looking upwards, eyes wide in wonder, awestruck, in the style of Pixar, Up, character, white background
 

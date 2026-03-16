@@ -1173,7 +1173,7 @@ Face à ces techniques de plus en plus sophistiquées, voici quelques principes 
 
 ## Sources et Références
 ### Études Scientifiques
-- Nature Neuroscience (2023) : ["The impact of AI on consumer decision-making"](https://www.nature.com/articles/s41593-023-01359-8)
+- Nature Neuroscience (2023) : ["The impact of AI on consumer décision-making"](https://www.nature.com/articles/s41593-023-01359-8)
 - Journal of Consumer Psychology (2024) : ["AI-driven neuromarketing: ethical considerations and effectiveness"](https://www.sciencedirect.com/science/article/abs/pii/S1057740823001234)
 
 ### Études Scientifiques

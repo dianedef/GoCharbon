@@ -12,45 +12,45 @@ pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-## Etape 1: Création de votre première campagne dans Sendinblue
+## Étape 1: Création de votre première campagne dans Sendinblue
 Pour commencer, donnez simplement un nom, une ligne d'objet et un e-mail d'expéditeur pour votre campagne dans Sendinblue.
 
-## Etape 2: Paramètres avancés et personnalisation
+## Étape 2: Paramètres avancés et personnalisation
 Explorez les paramètres avancés pour personnaliser le champ "à", ajouter des balises, une pièce jointe (avec un maximum de 5 Mo), intégrer des images et activer un lien miroir pour une visualisation dans le navigateur des abonnés.
 
-## Etape 3: Choix du générateur de modèles
+## Étape 3: Choix du générateur de modèles
 Sélectionnez un générateur de modèles à l'aide de l'outil de conception réactive ou du texte simple HTML pour adapter votre e-mail à la taille de l'écran sur lequel il est lu.
 
-## Etape 4: Utilisation du générateur de formulaires
+## Étape 4: Utilisation du générateur de formulaires
 Utilisez le générateur de formulaires par glisser-déposer pour créer rapidement un modèle de newsletter. Vous pouvez également commencer avec un modèle pré-rempli et personnaliser les éléments selon vos besoins.
 
-## Etape 5: Finalisation et envoi
+## Étape 5: Finalisation et envoi
 Une fois la conception terminée, assurez-vous que votre profil est complet avant d'envoyer un test. Vous pouvez également prévisualiser les e-mails dans votre navigateur Web.
 
-## Etape 6: Automatisation du marketing
+## Étape 6: Automatisation du marketing
 Explorez les fonctionnalités d'automatisation pour créer des workflows personnalisés, des filtres de contact en fonction de données démographiques, et l'envoi d'e-mails transactionnels ou de SMS.
 
-## Etape 7: Intégrations et plug-ins
+## Étape 7: Intégrations et plug-ins
 Découvrez les plug-ins pour les plateformes de commerce électronique, les outils d'analyse et de CRM, ainsi que l'interface de programmation d'applications (API) ouverte pour des intégrations personnalisées.
 
-## Etape 8: Améliorations de Sendinblue
+## Étape 8: Améliorations de Sendinblue
 Découvrez les améliorations apportées à Sendinblue, y compris les fonctionnalités CRM, la consultation de modèles personnalisés, et l'assistance disponible pour faciliter l'utilisation de la plate-forme.
 
 En suivant ces étapes, vous pourrez tirer parti des fonctionnalités de Sendinblue pour créer et automatiser vos campagnes marketing de manière efficace.
 
-## Etape 1: Création de votre première campagne dans Sendinblue
+## Étape 1: Création de votre première campagne dans Sendinblue
 Pour créer votre première campagne dans Sendinblue, donnez-lui simplement un nom, une ligne d'objet et un e-mail d'expéditeur.
 
-## Etape 2: Paramètres avancés et personnalisation
+## Étape 2: Paramètres avancés et personnalisation
 Les paramètres avancés incluent la personnalisation du champ "à" pour ajouter le nom de l'abonné et l'utilisation d'une page de désabonnement personnalisée pour chaque campagne. Vous pouvez également ajouter des balises et une pièce jointe, mais avec un maximum de 5 Mo.
 
-## Etape 3: Choix du générateur de modèles
+## Étape 3: Choix du générateur de modèles
 Ensuite, vous choisissez un générateur de modèles à l'aide de l'outil de conception réactive ou du texte simple HTML. Le Responsive Design est exactement ce à quoi cela ressemble : un outil qui permet à votre e-mail de s'adapter à la taille de l'écran sur lequel il est lu.
 
-## Etape 4: Utilisation du générateur de formulaires
+## Étape 4: Utilisation du générateur de formulaires
 Le générateur de formulaires par glisser-déposer de Sendinblue est le moyen le plus rapide de créer un modèle de newsletter. Vous pouvez soit commencer par déposer des éléments sur la page, soit utiliser un modèle prédéfini.
 
-## Etape 5: Finalisation et envoi
+## Étape 5: Finalisation et envoi
 Lorsque vous avez terminé la conception et essayé d'envoyer un test, assurez-vous que votre profil est complet. Vous pouvez également prévisualiser les e-mails dans votre navigateur Web.
 
 

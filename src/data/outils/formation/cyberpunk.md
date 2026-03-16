@@ -16,14 +16,14 @@ imgUrl: ../../../assets/astro.jpeg
 ---
 
 Salut Auristelle
-Merci pour ton message meme si désagréable et étrange.
+Merci pour ton message même si désagréable et étrange.
 
 Je pense pas qu’on puisse parler d’échanges quand vous ignorez plus qu’autre chose mes messages et appels. Il s’agit plutot d’un monologue, et de silences que vous choisissez pour des raisons opaques et indiscernables.
 Vous devriez cesser., le silence est une arme destructrice comme très peu d’autres et qui laisse beaucoup de sang sur les mains l’abbé Pierre et Gandhi le disaient.
 
 Secondo, à ma connaissance vous n’etes à aucun moment habilitée à me conseiller, j’accepte de conseils ad hominem non sollicités d’aucun humain. Encore moins quand ils sont incapables de répondre quand on les appelle. Je te conseille de ne jamais me toucher. Apprends à répondre à autrui avant de penser à ce que je pourrais bien faire de ma propre vie qui ne te concerne pas vu qu’on se connait pas.
 
-Pour finir et dans la meme veine les souhaits sont malheureusement proscrits ma belle. Je n’ai que faire des souhaits de quiconque, c’est vide de sens aux oreilles de mon coeur. Navrée. Moi aussi je souhaite la paix dans le monde et etre millionnaire. Le monde en a rien à foutre de nos putains de souhaits. Auto-conseille toi et auto-souhaite toi de me répondre si tu penses crois en ce que tu dis
+Pour finir et dans la même veine les souhaits sont malheureusement proscrits ma belle. Je n’ai que faire des souhaits de quiconque, c’est vide de sens aux oreilles de mon coeur. Navrée. Moi aussi je souhaite la paix dans le monde et être millionnaire. Le monde en a rien à foutre de nos putains de souhaits. Auto-conseille toi et auto-souhaite toi de me répondre si tu penses crois en ce que tu dis
 
 Bien à toi
 [Activité récente](https://business.cyberpunk.academy/)

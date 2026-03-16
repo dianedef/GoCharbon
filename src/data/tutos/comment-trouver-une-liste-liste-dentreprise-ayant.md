@@ -16,7 +16,7 @@ Je cherche à faire une séquence qui cible des entreprises ayant publié récem
 
 savez vous s’il existe des outils permettant d’obtenir ce genre de liste ?
 
-En effet, chez Mantiks [](https://mantiks.io/)[https://mantiks.io/](https://mantiks.io/) 36  de [@alexandre-chirie](https://www.growthhacking.fr/u/alexandre-chirie) on est spécialisé sur trouver les boites suivant leurs offres d’emploi + trouver le contact du bon décideur : le tout automatisé en quelques clics
+En effet, chez Mantiks [](https://mantiks.io/)[https://mantiks.io/](__MASK_1__) 36  de [@alexandre-chirie](https://www.growthhacking.fr/u/alexandre-chirie) on est spécialisé sur trouver les boites suivant leurs offres d’emploi + trouver le contact du bon décideur : le tout automatisé en quelques clics
 
 Voilà mon idée :
 

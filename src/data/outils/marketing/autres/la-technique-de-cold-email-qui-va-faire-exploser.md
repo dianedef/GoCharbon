@@ -54,7 +54,7 @@ Je vous présente les 3 logiciels qu’on utilise le plus chez [**Scrap.io**](h
 
   
 
- **** [**https://blog.scrap.io/warm-mailing/11-linfrastructure/**](https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnU2MxQVlEQUxRSnN3a0JpdFZ3QVV0QV84MjlkWUNURm9uRCIsImhyZWYiOiJodHRwczovL2Jsb2cuc2NyYXAuaW8vd2FybS1tYWlsaW5nLzExLWxpbmZyYXN0cnVjdHVyZS8iLCJpbnRlcm5hbCI6IjljZDQwNjAwYjMwOWI0MDkiLCJsaW5rX2lkIjo2Nzd9/326630fb0b2b6f27d29e351b0b35b983fbf3fa3078c0ad774c71ad44a26a946b)
+ **** [**https://blog.scrap.io/warm-mailing/11-linfrastructure/**](__MASK_5__)
 
 
 ## Connecter Un Compte de Messagerie Google Workspace (Gsuite)/Gmail
@@ -68,7 +68,7 @@ Je vous présente les 3 logiciels qu’on utilise le plus chez [**Scrap.io**](h
 
   
 
-### 3°) Vous Pouvez Aussi Utiliser Ce Lien: [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
+### 3°) Vous Pouvez Aussi Utiliser Ce Lien: [https://myaccount.google.com/apppasswords](__MASK_7__)
 
 ## Guide de Délivrabilité
 

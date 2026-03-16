@@ -82,7 +82,7 @@ et elle est fiable.
     
     With Flokzu, you can take your company to the next level, creating an efficient, productive, and competitive organization.
     
-    The platform is 100% no-code, so you'll be able to **develop and optimize complete processes without the need for IT knowledge** or an external consultancy team.
+    The platform is 100% no-code, so you'll be able to **develop and optimize complète processes without the need for IT knowledge** or an external consultancy team.
     
     And because the platform is so easy to use, you’ll be able to **automate end-to-end processes and workflows in a matter of hours**.
     
@@ -92,7 +92,7 @@ et elle est fiable.
     
     ### _Design and automate your processes with no-code technology and a friendly user interface._
     
-    Flokzu’s custom reports help you keep track of everything and make decisions based on real-time data from your processes.
+    Flokzu’s custom reports help you keep track of everything and make décisions based on real-time data from your processes.
     
     **Create custom reports by defining filters and display columns**, and send them to other users via email for convenient sharing.
     
@@ -116,7 +116,7 @@ et elle est fiable.
     
     ### _As process instances occur in your workflows, you’ll be able to send or receive information from a variety of data sources._
     
-    Flokzu offers a customer success service that helps you reach your goals with a complete helpdesk and CS representatives for answering questions.
+    Flokzu offers a customer success service that helps you reach your goals with a complète helpdesk and CS representatives for answering questions.
     
     Using these tools and a free BPM course, you can take the platform’s BPM capabilities to new heights with efficiency.
     
@@ -124,7 +124,7 @@ et elle est fiable.
     
     Then, you can **view all information about any process or task from one inbox**—all without depending on an IT department or consultancy team.
     
-    ### _Find all information, data, and due dates needed to complete your tasks in your inbox!_
+    ### _Find all information, data, and due dates needed to complète your tasks in your inbox!_
     
     Repetitive tasks like knitting might make for meditative hobbies, but they don't have any place in your workflows. (_“Instead of a scarf, all I’m getting is less sleep.”_)
     

@@ -49,9 +49,9 @@ When it comes to the selection of the best hosting services, then you should als
   
 The reputation of the company  
   
-Before going to make your final decision regarding the selection of the best service provider or company, you should check its reputation. With the help of doing this, you can easily find a trustworthy service provider in order to meet your various requirements with ease. Availing service from these service providers will help you to get proper satisfaction. To get an idea about the reputation of a company, you can take help from various methods.  
+Before going to make your final décision regarding the selection of the best service provider or company, you should check its reputation. With the help of doing this, you can easily find a trustworthy service provider in order to meet your various requirements with ease. Availing service from these service providers will help you to get proper satisfaction. To get an idea about the reputation of a company, you can take help from various methods.  
   
-Superior WordPress Experience  
+Superior WordPress Expérience  
 Life is easy.  
 Get your WordPress set up with 1 click on Cloudways servers  
 YES! TELL ME MORE  
@@ -65,7 +65,7 @@ It is also crucial to check whether the service providers are offering the insta
   
 Customer service  
   
-Before going to select the web hosting services for your WordPress website, many tips should be taken into account. The most important thing that you should check once is the quality of the customer service. If it is good, then you shouldn’t think anymore to make your final decision regarding the selection of the best service provider. You can also get an idea about the customer service of a company by asking some pre-sale questions from the support team.  
+Before going to select the web hosting services for your WordPress website, many tips should be taken into account. The most important thing that you should check once is the quality of the customer service. If it is good, then you shouldn’t think anymore to make your final décision regarding the selection of the best service provider. You can also get an idea about the customer service of a company by asking some pre-sale questions from the support team.  
   
 Web hosting performance  
   

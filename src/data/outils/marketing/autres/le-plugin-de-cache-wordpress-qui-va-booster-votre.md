@@ -45,7 +45,7 @@ WP Rocket starts at $59/year, including support, updates, and a license for one 
 
 ### 2. [**W3 Total Cache**](https://wordpress.org/plugins/w3-total-cache/)
 
-W3 Total Cache enhances your site’s user experience by improving server performance, caching every aspect of your site, and reducing load times.
+W3 Total Cache enhances your site’s user expérience by improving server performance, caching every aspect of your site, and reducing load times.
 
 It’s one of the most popular free cache plugins for WordPress.
 

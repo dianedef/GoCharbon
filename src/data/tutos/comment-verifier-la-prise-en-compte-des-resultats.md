@@ -16,7 +16,7 @@ imgUrl: ../../assets/astro.jpeg
 
 [Outil de test de balisage de schéma | Google Search Central  |  Google Developers](https://developers.google.com/search/docs/appearance/structured-data)
 
-Sur [https://search.google.com/test/rich-results](https://search.google.com/test/rich-results)
+Sur [https://search.google.com/test/rich-results](__MASK_2__)
 
 Sur Google faire site:https://:example.com/pagesurlaquelleonseposelaquestion
 

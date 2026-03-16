@@ -56,7 +56,7 @@ Pour résumer, Turbolehe est un outil incroyablement utile pour les amateurs d�
 
 Le 6 octobre 2022par Korben -
 
-1. [Securite-Vie-Privee](https://korben.info/categories/securite-vie-privee/ "Voir tous les articles de la catégorie Securite-Vie-Privee")
+1. [Sécurité-Vie-Privee](https://korben.info/categories/securite-vie-privee/ "Voir tous les articles de la catégorie Securite-Vie-Privee")
 2. [Anonymat-en-Ligne](https://korben.info/categories/securite-vie-privee/anonymat-en-ligne/ "Voir tous les articles de la sous-catégorie Anonymat-en-Ligne")
 
 Avec certains outils OSINT comme [Blackbird](https://korben.info/osint-pseudo-blackbird.html)que je vous ai présenté il y a quelques jours, il est possible de trouver des comptes en ligne à partir d’un simple pseudo. Mais l’information retournée n’est pas forcément fiable, car n’importe qui peut avoir le même pseudo que vous (j’en sais quelque chose).

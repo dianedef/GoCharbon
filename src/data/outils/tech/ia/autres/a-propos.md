@@ -25,8 +25,8 @@ imgUrl: ../../../../../assets/astro.jpeg
 Je m’appelle Sylvain Lepoutre, Créateur sur YouTube depuis 2009 avec 7 chaînes et plus de **6 millions** de vues cumulées.
 
 ▶ J'aide notamment des dizaines de milliers de photographes à prendre de meilleures photos sur :  
-[https://www.youtube.com/monpetitreflex](https://www.youtube.com/monpetitreflex)  
-▶ J'aide également des milliers de Créateurs sur YouTube à partager leur passion avec leur communauté le plus efficacement possible sur : [https://www.youtube.com/lecoindesyoutubers](https://www.youtube.com/lecoindesyoutubers)
+[https://www.youtube.com/monpetitreflex](__MASK_10__)  
+▶ J'aide également des milliers de Créateurs sur YouTube à partager leur passion avec leur communauté le plus efficacement possible sur : [https://www.youtube.com/lecoindesyoutubers](__MASK_11__)
 
 Au fil du temps j'ai expérimenté et analysé mes contenus et également ceux des chaînes qui "marchent" sur YouTube. J'ai ainsi développé une expertise en développement d'audience que je partage avec vous sur la chaîne "Le Coin Des YouTubers" depuis 2017.
 

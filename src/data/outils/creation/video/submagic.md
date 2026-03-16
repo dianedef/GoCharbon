@@ -29,7 +29,7 @@ Opus Clip (extraction de clips depuis des vidéos longues), CapCut (montage mobi
 
 ## Bénéfices
 
-**Gain de temps radical** — Une vidéo de 60 secondes prête en 3 minutes chrono. Tu importes, tu choisis un template, tu cliques. L'IA se charge des sous-titres, des emojis, des B-rolls, des transitions et des effets sonores. Ce qui prenait 1h+ dans Premiere Pro ou CapCut prend maintenant le temps d'un café.
+**Gain de temps radical** — Une vidéo de 60 secondes prête en 3 minutes chrono. Tu importes, tu choisis un template, tu cliques. L'IA se charge des sous-titres, des emojis, des B-rolls, des transitions et des effets sonores. Ce qui prenait 1h+ dans Première Pro ou CapCut prend maintenant le temps d'un café.
 
 **Sous-titres ultra-précis même avec un accent** — L'algorithme de transcription gère 48 langues et s'en sort très bien même avec du bruit de fond ou un accent prononcé. Les sous-titres sont synchronisés au mot près, avec des animations dynamiques qui captent l'attention du spectateur.
 
@@ -123,13 +123,13 @@ Si tu as un podcast de 45 minutes ou un webinaire d'1h, utilise Magic Clips. L'I
 
 ### Traduction et Internationalisation
 
-- **AI Video Translator** : traduis ta vidéo dans une autre langue avec doublage IA
+- **AI Vidéo Translator** : traduis ta vidéo dans une autre langue avec doublage IA
 - **48 langues supportées** pour la transcription et les sous-titres
 - **Multi-format** : export en 9:16 (vertical), 1:1 (carré), 16:9 (horizontal)
 
 ### Automatisation et API
 
-- **Video Editing API** : automatise le montage vidéo à grande échelle
+- **Vidéo Editing API** : automatise le montage vidéo à grande échelle
 - **100 minutes/mois** incluses dans le plan Business
 - **Intégrations** disponibles pour connecter Submagic à ton workflow existant
 - **Webhooks** pour des notifications en temps réel sur l'état de tes vidéos
@@ -172,7 +172,7 @@ Submagic propose aussi des outils gratuits accessibles sans compte :
 
 ## Intégrations
 
-- **Video Editing API** — pour automatiser le montage vidéo à grande échelle (plan Business)
+- **Vidéo Editing API** — pour automatiser le montage vidéo à grande échelle (plan Business)
 - **Webhooks** — notifications en temps réel sur l'état de traitement de tes vidéos
 - **Export vers toutes les plateformes** — fichiers MP4 compatibles YouTube, TikTok, Instagram, LinkedIn, Facebook
 - **Stock média Storyblocks** — accès intégré à une bibliothèque de B-rolls et de musiques (Pro et Business)
@@ -243,7 +243,7 @@ L'API est documentée et permet d'envoyer des vidéos en batch, de configurer le
 - La facturation est par membre — pour une équipe de 5 personnes en plan Pro, ça revient à 195$/mois (ou 115$/mois en annuel)
 - Les vidéos longues (>5 min) nécessitent le plan Business à 69$/mois — cher pour un solopreneur
 - Les options de personnalisation avancées (templates custom) sont réservées aux plans Pro et Business
-- Pas de montage multi-piste complet — Submagic n'est pas un éditeur vidéo traditionnel comme Premiere Pro ou DaVinci Resolve
+- Pas de montage multi-piste complet — Submagic n'est pas un éditeur vidéo traditionnel comme Première Pro ou DaVinci Resolve
 - La bibliothèque de B-rolls Storyblocks peut devenir répétitive si tu produis beaucoup de contenu dans la même niche
 - Certaines fonctionnalités IA (AI Actors Studio) sont encore en bêta et pas totalement abouties
 - L'outil est principalement orienté format court — pas adapté pour du montage de documentaires ou de vidéos >30 min

@@ -11,7 +11,7 @@ updatedAt: "2026-03-01"
 Construire des outils utiles avec boucle retours rapide et monétisation claire.
 
 ## En clair (version simple)
-- Pour qui : PME, créateurs, operations terrain qui ont un besoin mobile precis.
+- Pour qui : PME, créateurs, operations terrain qui ont un besoin mobile précis.
 - Où trouver les clients : Demo fonctionnelle + cas usage vertical (terrain, commerce, education).
 - Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 

@@ -4,23 +4,23 @@ tags:
 - Tutoriels
 imageNameKey: null
 u_site: null
-title: Comment Avoir Un Son Parfait Sur Tes Videos Pour Youtube
+title: Comment Avoir Un Son Parfait Sur Tes Vidéos Pour Youtube
 author: Diane
-description: 'Découvre Comment Avoir Un Son Parfait Sur Tes Videos Pour Youtube :
+description: 'Découvre Comment Avoir Un Son Parfait Sur Tes Vidéos Pour Youtube :
   outil français pour entrepreneurs, fonctionnalités et avis.'
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Comment Avoir Un Son Parfait Sur Tes Videos YouTube
+# Comment Avoir Un Son Parfait Sur Tes Vidéos YouTube
 
 ## AUDIO : LE FACTEUR N.1 QUE TOUT LE MONDE NEGLIGE
 
-Les spectateurs tolereront une image moyenne, mais jamais un son mauvais. Un audio de mauvaise qualite fait fuir les viewers dans les 5 premieres secondes. Voici comment obtenir un son pro sans studio professionnel.
+Les spectateurs tolereront une image moyenne, mais jamais un son mauvais. Un audio de mauvaise qualité fait fuir les viewers dans les 5 premieres secondes. Voici comment obtenir un son pro sans studio professionnel.
 
 ---
 
-## Etape 1 : Choisir Le Bon Micro
+## Étape 1 : Choisir Le Bon Micro
 
 ### Types de microphones
 
@@ -29,7 +29,7 @@ Les spectateurs tolereront une image moyenne, mais jamais un son mauvais. Un aud
 | **Lavalier (cravate)** | Tetes parlantes, interviews | 20-100 EUR | Rode Lavalier II (~80 EUR), Boya BY-M1 (~20 EUR), Hollyland Lark M2 (sans fil, ~120 EUR) |
 | **Shotgun** | Vlogs, tournage en exterieur | 80-300 EUR | Rode VideoMic GO II (~90 EUR), Rode VideoMicro II (~60 EUR), Deity V-Mic D3 Pro (~150 EUR) |
 | **USB a condensateur** | Bureau, podcast, voix off | 50-200 EUR | Rode NT-USB Mini (~100 EUR), Elgato Wave:3 (~150 EUR), Audio-Technica AT2020USB-X (~130 EUR) |
-| **XLR a condensateur** | Studio, qualite maximale | 100-500 EUR | Rode NT1 5th Gen (~250 EUR, USB+XLR), Audio-Technica AT2020 (~100 EUR) |
+| **XLR a condensateur** | Studio, qualité maximale | 100-500 EUR | Rode NT1 5th Gen (~250 EUR, USB+XLR), Audio-Technica AT2020 (~100 EUR) |
 | **Dynamique** | Environnement bruyant | 80-400 EUR | Shure SM7dB (~400 EUR, preampli integre), Rode PodMic USB (~110 EUR), Elgato Wave DX (~100 EUR) |
 | **Sans fil** | Mobilite, tournage exterieur | 50-350 EUR | Rode Wireless GO II (~250 EUR), DJI Mic 2 (~300 EUR), Hollyland Lark M2 (~120 EUR) |
 
@@ -37,14 +37,14 @@ Les spectateurs tolereront une image moyenne, mais jamais un son mauvais. Un aud
 
 - **Budget serre (< 50 EUR)** : un Boya BY-M1 (micro cravate) fait le job
 - **Bureau/voix off (50-150 EUR)** : Rode NT-USB Mini, branche directement en USB
-- **Qualite pro (200-400 EUR)** : Rode NT1 5th Gen (USB+XLR) + interface audio Focusrite Scarlett Solo (4eme gen, ~120 EUR)
+- **Qualité pro (200-400 EUR)** : Rode NT1 5th Gen (USB+XLR) + interface audio Focusrite Scarlett Solo (4eme gen, ~120 EUR)
 - **Mobilite/sans fil (120-300 EUR)** : Rode Wireless GO II ou DJI Mic 2 pour tourner en mouvement sans cable
 
 > **Nouveaute 2024-2025** : le Shure SM7dB est la version mise a jour du legendaire SM7B avec un preampli integre (+28 dB), ce qui signifie que tu n'as plus besoin d'un preampli externe (CloudLifter) ni d'une interface avec beaucoup de gain. Branche-le directement sur ton interface basique.
 
 ---
 
-## Etape 2 : Traitement Acoustique (Avant d'Enregistrer)
+## Étape 2 : Traitement Acoustique (Avant d'Enregistrer)
 
 Inutile d'avoir le meilleur micro du monde si ta piece resonne. Le traitement acoustique est plus important que le micro.
 
@@ -64,7 +64,7 @@ Inutile d'avoir le meilleur micro du monde si ta piece resonne. Le traitement ac
 
 ---
 
-## Etape 3 : Reglages d'Enregistrement
+## Étape 3 : Reglages d'Enregistrement
 
 ### Niveau d'entree (Gain)
 
@@ -76,21 +76,21 @@ Inutile d'avoir le meilleur micro du monde si ta piece resonne. Le traitement ac
 
 - **Micro cravate** : clippe a 15-20 cm de la bouche
 - **Micro USB/condensateur** : 15-25 cm de la bouche, legerement sur le cote (pas en face directe pour eviter les plosives)
-- **Shotgun** : pointe vers la bouche, le plus pres possible sans etre dans le cadre
+- **Shotgun** : pointe vers la bouche, le plus pres possible sans être dans le cadre
 
 ### Anti-pop
 
-Un filtre anti-pop (ou bonnette) est indispensable pour les micros a condensateur. Ca coute 5-15 EUR et ca elimine les "P" et "B" explosifs.
+Un filtre anti-pop (ou bonnette) est indispensable pour les micros a condensateur. Ca coûte 5-15 EUR et ca elimine les "P" et "B" explosifs.
 
 ---
 
-## Etape 4 : Post-Production Audio
+## Étape 4 : Post-Production Audio
 
 ### Suppression du bruit de fond
 
 #### DaVinci Resolve (gratuit)
 
-1. Selectionne ton clip audio dans l'onglet **Fairlight**
+1. Sélectionne ton clip audio dans l'onglet **Fairlight**
 2. Ouvre le **Mixer** et clique sur le slot d'effet
 3. Ajoute **Noise Reduction**
 4. Laisse les reglages par defaut ou ajuste le seuil
@@ -98,19 +98,19 @@ Un filtre anti-pop (ou bonnette) est indispensable pour les micros a condensateu
 
 #### Audacity (gratuit)
 
-1. Selectionne une portion de silence pur (juste du bruit de fond)
+1. Sélectionne une portion de silence pur (juste du bruit de fond)
 2. Va dans **Effet > Reduction du bruit > Obtenir le profil de bruit**
-3. Selectionne tout l'audio
+3. Sélectionne tout l'audio
 4. Effet > Reduction du bruit > OK
 5. Reduction : 12-18 dB. Au-dela, ta voix sonne "sous l'eau".
 
 #### Adobe Podcast Enhance Speech (en ligne, gratuit)
 
-Televerse ton fichier audio sur podcast.adobe.com et utilise "Enhance Speech". Le resultat est souvent bluffant en un clic. Note : depuis 2024, cette fonctionnalite est aussi integree directement dans Adobe Premiere Pro sous le nom "Enhance Speech".
+Televerse ton fichier audio sur podcast.adobe.com et utilise "Enhance Speech". Le resultat est souvent bluffant en un clic. Note : depuis 2024, cette fonctionnalite est aussi integree directement dans Adobe Première Pro sous le nom "Enhance Speech".
 
 #### Descript Studio Sound
 
-Si tu utilises Descript (a partir de 16 USD/mois), la fonction "Studio Sound" nettoie l'audio de fond en un clic. Tres efficace, surtout combine avec la suppression automatique des mots de remplissage.
+Si tu utilises Descript (a partir de 16 USD/mois), la fonction "Studio Sound" nettoie l'audio de fond en un clic. Très efficace, surtout combine avec la suppression automatique des mots de remplissage.
 
 ### Egalisation (EQ)
 
@@ -132,11 +132,11 @@ La compression uniformise le volume (les passages forts deviennent moins forts, 
 
 ### Normalisation
 
-En derniere etape, normalise ton audio a **-1 dB** (pour ne pas clipper) ou cible un **LUFS de -14** (standard YouTube).
+En derniere étape, normalise ton audio a **-1 dB** (pour ne pas clipper) ou cible un **LUFS de -14** (standard YouTube).
 
 ---
 
-## Etape 5 : Chaine de Traitement Recommandee
+## Étape 5 : Chaîne de Traitement Recommandee
 
 Applique les effets dans cet ordre :
 
@@ -144,7 +144,7 @@ Applique les effets dans cet ordre :
 2. EQ (egalisation)
 3. De-Esser (reduit les sifflantes "S" agressives)
 4. Compression
-5. Limiteur (filet de securite a -1 dB)
+5. Limiteur (filet de sécurité a -1 dB)
 6. Normalisation LUFS
 
 ---
@@ -188,7 +188,7 @@ Applique les effets dans cet ordre :
 
 - Rode Wireless GO II : ~250 EUR (2 emetteurs, ideal interview)
 - Ou DJI Mic 2 : ~300 EUR (bon range, connexion Lightning/USB-C)
-- Ou Hollyland Lark M2 : ~120 EUR (bon rapport qualite/prix)
+- Ou Hollyland Lark M2 : ~120 EUR (bon rapport qualité/prix)
 - Post-prod : DaVinci Resolve ou Descript
 
 ---
@@ -200,7 +200,7 @@ Applique les effets dans cet ordre :
 DaVinci Resolve 19 a ajoute des outils audio importants dans Fairlight :
 
 - **Dialogue Separator** : isole le dialogue, l'ambiance et le bruit de fond dans des canaux separes. Incroyablement utile pour nettoyer des interviews tournees dans des environnements bruyants.
-- **Music Remixer FX** : isole les elements musicaux (voix, drums, basse) meme sans stems. Parfait pour ajuster le volume de la musique sous ta voix off sans affecter l'instrumental.
+- **Music Remixer FX** : isole les elements musicaux (voix, drums, basse) même sans stems. Parfait pour ajuster le volume de la musique sous ta voix off sans affecter l'instrumental.
 - Ces deux outils utilisent le Neural Engine (IA) et sont disponibles dans la version gratuite.
 
 ---

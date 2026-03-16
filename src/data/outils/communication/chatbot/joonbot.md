@@ -70,10 +70,10 @@ Avec le constructeur visuel, cela revient à construire un organigramme. Aucun c
 - Un bloc peut être : une question, un message, une action (email, webhook, Calendly...)
 - **Templates pré-construits** : utilise un des templates dans ton chatbot builder pour démarrer instantanément
   - Lead capture form
-  - Complete lead generation
+  - Complète lead generation
   - Lead qualification
   - T-shirt order form
-  - Complete customer support
+  - Complète customer support
   - FAQ chatbot
   - Customer feedback survey
   - Newsletter signup

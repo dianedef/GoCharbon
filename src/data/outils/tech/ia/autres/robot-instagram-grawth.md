@@ -17,9 +17,9 @@ imgUrl: ../../../../../assets/astro.jpeg
 
 En outre, nous avons le plaisir de vous annoncer que la V2 de Grawth est déjà disponible en téléchargement sur notre site web:
 
--   Lien de téléchargement de la V2 pour Windows et MacOS : [https://www.grawth.com/beta-v2-48a1a3ef](https://www.grawth.com/tr/2/3264952/3348386577/20440404/1132617389704e272f88a0162efb0799d5c9cb972)
+-   Lien de téléchargement de la V2 pour Windows et MacOS : [https://www.grawth.com/beta-v2-48a1a3ef](__MASK_0__)
 -   Lien vers les tutoriels de Grawth : [Tutoriels Grawth ](https://www.grawth.com/tr/2/3264952/3348386577/20440405/1132617389704e272f88a0162efb0799d5c9cb972) .
--   Formulaire de Feedbacks: [https://forms.gle/yNLS3oBkWog67npZ8](https://www.grawth.com/tr/2/3264952/3348386577/20440406/1132617389704e272f88a0162efb0799d5c9cb972)
+-   Formulaire de Feedbacks: [https://forms.gle/yNLS3oBkWog67npZ8](__MASK_2__)
 
 Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter via [beta@grawth.com](https://www.grawth.com/tr/2/3264952/3348386577/20440407/1132617389704e272f88a0162efb0799d5c9cb972)
   
@@ -27,7 +27,7 @@ Vous pouvez désormais tester la version 1 bêta de Grawth  pendant une semain
 
 Voici les liens pour tester la V1 :
 
--   [https://www.grawth.com/beta](https://www.grawth.com/tr/2/3264952/3131744230/20293697/1132617389704e272f88a0162efb0799d5c9cb972) : lien de téléchargement pour MacOS et Windows
+-   [https://www.grawth.com/beta](__MASK_4__) : lien de téléchargement pour MacOS et Windows
 - 
 
 Petits rappels :
@@ -46,9 +46,9 @@ Rappel des fonctionnalités du robot :
 -   **Rétention et Conversion**: Cette partie vous est déléguée. Vous devrez vous concentrer sur la création de contenu de qualité et l’optimisation de votre profil pour donner envie aux visiteurs de s’abonner à votre compte ou d’interagir avec celui-ci. Vous pourrez également inciter les visiteurs à cliquer sur le lien présent dans votre bio etc.
 
 Merci à vous. N'hésitez pas si vous avez des questions.  
-Nous espérons que vous passez une bonne semaine. Nous avons ajouté une section importante dans les tutoriels et nous vous invitons à la lire afin d'avoir une idée des stratégies d'utilisation de Grawth, comme par exemple quand lancer vos campagnes d'engagement, quand prendre des pauses entre les différentes campagnes, etc. Vous retrouverez cette nouvelle section ici: [https://www.grawth.com/tutoriels#headline-8d9e920e](https://www.grawth.com/tr/2/3264952/3156285532/20317821/1132617389704e272f88a0162efb0799d5c9cb972)
+Nous espérons que vous passez une bonne semaine. Nous avons ajouté une section importante dans les tutoriels et nous vous invitons à la lire afin d'avoir une idée des stratégies d'utilisation de Grawth, comme par exemple quand lancer vos campagnes d'engagement, quand prendre des pauses entre les différentes campagnes, etc. Vous retrouverez cette nouvelle section ici: [https://www.grawth.com/tutoriels#headline-8d9e920e](__MASK_5__)
 
-Nous sortons également la version 2 (Bêta-V2) de Grawth le mardi prochain (18 avril). Merci de remplir ce formulaire afin de nous faire part de vos feedbacks sur la V1 et de confirmer votre participation à cette V2 qui sera encore plus performante et plus complète que celle que vous avez actuellement. Voici le lien pour les feedbacks: [https://forms.gle/XzN56gKXcStgU9Z9A](https://www.grawth.com/tr/2/3264952/3156285532/20317823/1132617389704e272f88a0162efb0799d5c9cb972)
+Nous sortons également la version 2 (Bêta-V2) de Grawth le mardi prochain (18 avril). Merci de remplir ce formulaire afin de nous faire part de vos feedbacks sur la V1 et de confirmer votre participation à cette V2 qui sera encore plus performante et plus complète que celle que vous avez actuellement. Voici le lien pour les feedbacks: [https://forms.gle/XzN56gKXcStgU9Z9A](__MASK_6__)
 
 Concrètement, cette V2 aura les fonctionnalités suivantes:
 
@@ -61,8 +61,8 @@ Concrètement, cette V2 aura les fonctionnalités suivantes:
 
 Si vous n'avez pas encore testé la V1, voici les liens avec les tutos et fichiers mis à jours:
 
--   [https://www.grawth.com/beta](https://www.grawth.com/tr/2/3264952/3156285532/20317824/1132617389704e272f88a0162efb0799d5c9cb972) : lien de téléchargement pour MacOS et Windows
--   [https://www.grawth.com/tutoriels](https://www.grawth.com/tr/2/3264952/3156285532/20317826/1132617389704e272f88a0162efb0799d5c9cb972) : tutoriels
+-   [https://www.grawth.com/beta](__MASK_7__) : lien de téléchargement pour MacOS et Windows
+-   [https://www.grawth.com/tutoriels](__MASK_8__) : tutoriels
 
 N'hésitez pas à nous contacter par e-mail à [beta@grawth.com](https://www.grawth.com/tr/2/3264952/3156285532/20317828/1132617389704e272f88a0162efb0799d5c9cb972) si vous avez des questions ou des problèmes, nous vous répondrons dans les meilleurs délais.  
 Voici un rappel des fonctionnalités de la V2:

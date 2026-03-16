@@ -91,7 +91,7 @@ DarwinRX se distingue par son positionnement 100% français, son prix accessible
 
 ## Prix
 
-Le pricing exact de DarwinRX n'est pas affiché publiquement sur le site principal (hébergé sur Systeme.io). L'accès se fait par inscription directe avec accès immédiat.
+Le pricing exact de DarwinRX n'est pas affiché publiquement sur le site principal (hébergé sur Système.io). L'accès se fait par inscription directe avec accès immédiat.
 
 Points clés sur la tarification :
 - **Accès immédiat** à l'achat — pas d'abonnement mensuel récurrent visible, le modèle semble être un achat unique ou une licence
@@ -104,7 +104,7 @@ Pour connaître le tarif exact, il est recommandé de visiter darwinrx.fr et de 
 ## Intégrations
 
 - **Pinterest** : intégration native complète avec l'API Pinterest pour la publication automatisée
-- **Systeme.io** : le site et la partie commerciale de DarwinRX sont construits sur Systeme.io, ce qui facilite l'achat et l'accès à la formation
+- **Système.io** : le site et la partie commerciale de DarwinRX sont construits sur Système.io, ce qui facilite l'achat et l'accès à la formation
 - **E-commerce** : compatible avec les boutiques Shopify, WooCommerce et autres plateformes e-commerce (tu crées tes épingles pointant vers tes produits)
 - **Blogs et sites web** : fonctionne avec n'importe quel site web dont tu veux promouvoir le contenu sur Pinterest
 - **Programmes d'affiliation** : supporte les liens d'affiliation dans les épingles pour les marketeurs affiliés
@@ -152,7 +152,7 @@ Pour connaître le tarif exact, il est recommandé de visiter darwinrx.fr et de 
 - Communauté encore modeste (99+ utilisateurs) — l'outil est encore en phase de croissance
 - Transparence limitée sur les prix — pas de grille tarifaire publique, il faut cliquer pour découvrir le coût
 - Limité à Pinterest uniquement — si tu cherches un outil multi-plateforme (Instagram, TikTok, LinkedIn), il faudra un deuxième outil
-- Site commercial construit sur Systeme.io — l'aspect "page de vente" peut manquer de crédibilité pour certains utilisateurs plus techniques
+- Site commercial construit sur Système.io — l'aspect "page de vente" peut manquer de crédibilité pour certains utilisateurs plus techniques
 - Pas d'essai gratuit clairement annoncé — il faut s'inscrire pour découvrir les fonctionnalités
 - Peu d'avis indépendants en ligne — difficile de trouver des tests détaillés de l'outil en dehors du site officiel
 

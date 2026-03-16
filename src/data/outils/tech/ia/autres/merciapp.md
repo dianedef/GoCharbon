@@ -20,7 +20,7 @@ imgUrl: ../../../../../assets/astro.jpeg
 - **Règles strictes sur le SEO et les Ads** : Il est désormais **formellement interdit** d’utiliser des pages "code promo" et des termes génériques en SEO, ainsi que de créer des Ads contenant notre marque associée à "code promo". Tous les détails sont disponibles dans les conditions générales mises à jour.
 -   **Important** : Les trackings de vos affiliations actuelles prendront fin le **22 novembre**.
   
-Pour continuer à générer des commissions et bénéficier du nouveau dashboard, **postulez dès maintenant ici** : [https://www.merci-app.com/affiliation](https://www.merci-app.com/affiliation).  
+Pour continuer à générer des commissions et bénéficier du nouveau dashboard, **postulez dès maintenant ici** : [https://www.merci-app.com/affiliation](__MASK_0__).  
   
 Vous pouvez aussi me répondre directement en m’indiquant l’adresse e-mail avec laquelle vous souhaitez vous inscrire, et je m’occuperai de tout.  
   

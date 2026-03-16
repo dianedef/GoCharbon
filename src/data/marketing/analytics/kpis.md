@@ -12,7 +12,7 @@ imgUrl: ../../../assets/astro.jpeg
 
 # KPIs marketing: les chiffres qui t'aident vraiment a decider
 
-Si tu suis les mauvais chiffres, tu prends de mauvaises decisions.
+Si tu suis les mauvais chiffres, tu prends de mauvaises décisions.
 Le but n'est pas d'avoir plus de donnees. Le but est de mieux agir.
 
 ## Ton objectif
@@ -30,7 +30,7 @@ Suivre 3 a 5 KPI maximum pour savoir quoi corriger chaque semaine.
 ### Metrics utiles (actionnables)
 
 - taux de conversion
-- cout d'acquisition client (CAC)
+- coût d'acquisition client (CAC)
 - revenu par canal
 - valeur client (LTV)
 - ROI/ROAS
@@ -54,7 +54,7 @@ Suivre 3 a 5 KPI maximum pour savoir quoi corriger chaque semaine.
 ### Email
 
 - taux de clic
-- taux de reponse ou conversion
+- taux de réponse ou conversion
 - delivrabilite
 - revenu par campagne
 
@@ -62,7 +62,7 @@ Suivre 3 a 5 KPI maximum pour savoir quoi corriger chaque semaine.
 
 - trafic vers offre
 - leads generes
-- cout par lead (si pub)
+- coût par lead (si pub)
 
 ## Methode simple pour choisir tes KPI
 
@@ -84,13 +84,13 @@ Suivre 3 a 5 KPI maximum pour savoir quoi corriger chaque semaine.
 
 Objectif: augmenter les ventes d'une offre a 99 EUR.
 
-KPI a suivre:
+KPI à suivre:
 - trafic qualifie
 - taux de conversion page offre
 - CPA
 - chiffre d'affaires hebdo
 
-Decision type:
+Décision type:
 - trafic ok + conversion basse -> retravailler offre/page
 - trafic bas + conversion correcte -> renforcer acquisition
 - CPA trop haut -> ajuster ciblage ou canal
@@ -100,7 +100,7 @@ Decision type:
 - suivre 20 KPI sans priorite
 - comparer des periodes incomparables
 - ignorer la marge en analysant le ROAS
-- analyser sans prendre de decision concrete
+- analyser sans prendre de décision concrete
 
 ## Checklist hebdo
 

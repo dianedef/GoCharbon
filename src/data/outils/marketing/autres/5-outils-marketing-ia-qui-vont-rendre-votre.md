@@ -14,7 +14,7 @@ imgUrl: ../../../../assets/astro.jpeg
 ---
 
 ## RepliQ, génère des avatars virtuels pour tes vidéos
-[RepliQ - Personalized outreach videos through a spreadsheet.](https://www.repliq.co/)
+[RepliQ - Personalized outreach vidéos through a spreadsheet.](https://www.repliq.co/)
 
 RepliQ : Anime-toi avec Ton Avatar Vidéo Personnalisé
 

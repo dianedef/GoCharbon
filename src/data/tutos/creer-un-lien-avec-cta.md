@@ -12,9 +12,9 @@ pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-[https://www.youtube.com/watch?v=3OOISAukYXA](https://www.youtube.com/watch?v=3OOISAukYXA)
+[https://www.youtube.com/watch?v=3OOISAukYXA](__MASK_0__)
 
-[https://www.youtube.com/watch?v=R1iZG5nWBiE](https://www.youtube.com/watch?v=R1iZG5nWBiE)
+[https://www.youtube.com/watch?v=R1iZG5nWBiE](__MASK_1__)
 
 **Generate icons for Web, Android, Microsoft, and iOS (iPhone and iPad) Apps Generate only 16x16 favicon.ico**[Favicon Generator - Text to Favicon - favicon.io](https://favicon.io/favicon-generator/)
 

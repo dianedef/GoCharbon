@@ -26,4 +26,4 @@ mr.planche 2 j Salut, vas sur les groupes fb d’échange de note sur google et 
 
 [#1 SMM PANEL IN THE WORLD FOR 5 YEARS! | JustAnotherPanel.com](https://justanotherpanel.com/)
 
-[https://youtu.be/Xws1mxyaluA?t=639](https://youtu.be/Xws1mxyaluA?t=639)
+[https://youtu.be/Xws1mxyaluA?t=639](__MASK_5__)

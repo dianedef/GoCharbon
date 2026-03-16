@@ -31,7 +31,7 @@ Driving the story: When Devin, the pioneering agentic code generator, arrived in
 
 When reasoning models arrived late in 2024, they immediately boosted coding power and cut costs, as reasoning enabled agents to map out tasks to be completed by less expensive models. The addition of variable reasoning budgets made it easier for agents to use a single model, devoting more tokens to planning and fewer to making simple edits. By the end of 2025, Gemini 3 Pro, Claude Opus 4.5, and GPT-5.2 emerged as top models for coding and agentic workflows.
 Open-weights models quickly followed. Z.ai GLM-4.5 and Moonshot Kimi K2 emerged as open-weights favorites, enabling automated-coding startups to cut their costs dramatically. Released in July, Qwen3-Coder provided a hefty 480 billion-parameter model trained on over 5 trillion tokens of code, nearly matching the performance of Claude Sonnet 4.
-Anthropic wrapped an agentic framework around Claude to create an application: Claude Code. Introduced in February, Claude Code was an instant hit and set expectations for what agentic coding systems should do. OpenAI responded with its Codex application based on coding-specialized versions of its GPT-5 series. Where Claude Code initially ran locally, the Codex app ran in a browser, helping to popularize coding agents that run in the cloud. By the end of the year, these agents were able to manage longer-running problems using multiple sub-agents — typically an initializer to start tasks and track progress and various coding agents to complete different tasks — each with its own context window.
+Anthropic wrapped an agentic framework around Claude to create an application: Claude Code. Introduced in February, Claude Code was an instant hit and set expectations for what agentic coding systems should do. OpenAI responded with its Codex application based on coding-specialized versions of its GPT-5 series. Where Claude Code initially ran locally, the Codex app ran in a browser, helping to popularize coding agents that run in the cloud. By the end of the year, these agents were able to manage longer-running problems using multiple sub-agents — typically an initializer to start tasks and track progress and various coding agents to complète different tasks — each with its own context window.
 A tug-of-war between model makers and developers of integrated development environments (IDEs) led popular IDE providers like Anysphere (Cursor) and Cognition AI (Windsurf) to build their own models. Conversely, Google built its own IDE, Antigravity, which debuted in November.
 Behind the news: Agentic systems steadily ratcheted up the state of the art on the popular SWE-Bench coding benchmark, and researchers looked for alternate ways to evaluate their performance.
 
@@ -41,7 +41,7 @@ Yes, but: At the beginning of 2025, most observers agreed that agents were good 
 
  
 
-Where things stand: In a short time, agentic coding has propelled vibe-coding from puzzling buzzword to burgeoning industry. Startups like Loveable, Replit, and Vercel enable users who have little or no coding experience to build web applications from scratch. While some observers worried that AI would replace junior developers, it turns out that developers who are skilled at using AI can prototype applications better and faster. Soon, AI-assisted coding may be regarded as simply coding, just as spellcheck and auto-complete are part of writing.
+Where things stand: In a short time, agentic coding has propelled vibe-coding from puzzling buzzword to burgeoning industry. Startups like Loveable, Replit, and Vercel enable users who have little or no coding expérience to build web applications from scratch. While some observers worried that AI would replace junior developers, it turns out that developers who are skilled at using AI can prototype applications better and faster. Soon, AI-assisted coding may be regarded as simply coding, just as spellcheck and auto-complète are part of writing.
 
  
 
@@ -73,7 +73,7 @@ DeepSeek reportedly stockpiled earlier Nvidia chips in advance of U.S. restricti
 Where things stand: China is signaling that it’s willing to do without American hardware. That may be a sign of confidence, given Huawei’s progress. It may also be a bluff, as some authorities evaluate China’s semiconductor industry still to be years behind the frontier of high-volume chip fabrication. Either way, the hard-line U.S. strategy backfired, and its relaxation of trade restrictions is a concession to economic and diplomatic realities.
 
  
-[video qui explik un agent c koi](https://www.youtube.com/watch?v=KuX_dkqr7UY)
+[vidéo qui explik un agent c koi](https://www.youtube.com/watch?v=KuX_dkqr7UY)
 
 # ChainDesk le Français
 
@@ -88,12 +88,12 @@ Where things stand: China is signaling that it’s willing to do without America
 
 [microsoft/promptflow: Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.](https://github.com/microsoft/promptflow)
 
-In this video, we delve deep into Prompt Flow, a comprehensive suite of development tools designed to streamline the entire lifecycle of LLM-based AI applications. From concept to deployment and monitoring, we'll explore how this innovative platform empowers developers at every step.
+In this vidéo, we delve deep into Prompt Flow, a comprehensive suite of development tools designed to streamline the entire lifecycle of LLM-based AI applications. From concept to deployment and monitoring, we'll explore how this innovative platform empowers developers at every step.
 
 Key Features and Benefits:
 🔹 End-to-End Development Cycle Streamlining:
 Seamlessly navigate from idea to production, ensuring efficiency at every stage.
-🔹 Executable Workflow Creation:
+🔹 Executable Workflow Création:
 Learn about Prompt Flow's standout feature—constructing executable workflows that link various tools for intricate LLM applications.
 🔹 Efficient Debugging and Iteration:
 Discover how debugging becomes effortless with Prompt Flow, leading to quicker development iterations and refined applications.
@@ -125,24 +125,24 @@ _Key Features:_
 _Real-World Example:_
 Imagine creating a travel plan with a team of expert agents. One agent curates the best food spots, another scouts top attractions, and together they craft a perfect itinerary for your trip to Italy. This scenario highlights the immense potential of Tribe AI to coordinate complex tasks effortlessly.
 
-If you found this video helpful, make sure to give it a thumbs up! Don’t forget to subscribe to our channel and hit the bell icon so you never miss an update. Share this video with anyone who could benefit from learning about Tribe AI.
+If you found this vidéo helpful, make sure to give it a thumbs up! Don’t forget to subscribe to our channel and hit the bell icon so you never miss an update. Share this vidéo with anyone who could benefit from learning about Tribe AI.
 
 # LLMStack cloup+OS
 
 [LLMStack | AI Agents in Minutes | No-code AI App Builder | LLMStack](https://llmstack.trypromptly.com/)
-What You'll Discover in this Video:
-In this enlightening video, we'll delve into the remarkable capabilities of LLMStack, designed to empower businesses and individuals, regardless of coding experience. Here's a glimpse of what awaits you:
+What You'll Discover in this Vidéo:
+In this enlightening vidéo, we'll delve into the remarkable capabilities of LLMStack, designed to empower businesses and individuals, regardless of coding expérience. Here's a glimpse of what awaits you:
 No-Code Platform: LLMStack is your key to AI, even if you're not a coding expert. It provides a user-friendly environment accessible to a wide range of users.
 Modular and Extensible: Discover how LLMStack's modular design allows you to customize and expand its features, ensuring it perfectly aligns with your unique project requirements.
 Data Integration: We'll explore how LLMStack seamlessly integrates with your data and existing business processes, creating context-aware generative AI applications that leverage your data sources.
 Tailor-Made AI Applications: See how you can build custom generative AI applications, chatbots, and agents, tailor-made to meet your specific needs. Perfect for diverse industries and use cases.
 Chaining Multiple LLMs: Learn how LLMStack empowers you to chain multiple Language Model Models (LLMs) together, enhancing the generative capabilities of your AI applications.
-No-Code Builder: We'll show you how to create and configure AI applications effortlessly, with no coding experience required. Lower the entry barrier for your business or personal projects.
+No-Code Builder: We'll show you how to create and configure AI applications effortlessly, with no coding expérience required. Lower the entry barrier for your business or personal projects.
 Integration with Messaging Platforms: Discover the convenience of triggering your AI chains directly from messaging platforms like Slack or Discord, simplifying interaction and automation.
 Cloud and On-Premise Deployment: Find out how you can deploy your AI applications and chatbots on the cloud or on-premises, tailored to your specific requirements and infrastructure.
 Comprehensive Solution: In a nutshell, LLMStack offers a comprehensive platform that empowers businesses and developers to integrate generative AI without extensive coding. Its modularity, data integration capabilities, and no-code approach make it a versatile solution for a wide range of use cases.
 
-If you're excited about the possibilities LLMStack can offer, don't forget to Like, Subscribe, and Share this video to spread the word and stay updated on the latest AI advancements.
+If you're excited about the possibilities LLMStack can offer, don't forget to Like, Subscribe, and Share this vidéo to spread the word and stay updated on the latest AI advancements.
 
 # Contenu
 
@@ -151,13 +151,13 @@ If you're excited about the possibilities LLMStack can offer, don't forget to Li
 Website: https://app.tryleap.ai/
 Docs: https://docs.workflows.tryleap.ai/doc…
 
-Leap into the future with the power of AI automation! In this video, we explore the wonders of Leap AI, a platform designed for effortless automation without any coding. Discover how Leap AI integrates seamlessly with top AI models, offering a zero-maintenance approach for perpetual smooth operation. Learn about collaborative workflows, robust AI capabilities, and how Leap AI simplifies complex tasks. Don't miss out on the magic - watch now!
+Leap into the future with the power of AI automation! In this vidéo, we explore the wonders of Leap AI, a platform designed for effortless automation without any coding. Discover how Leap AI integrates seamlessly with top AI models, offering a zero-maintenance approach for perpetual smooth operation. Learn about collaborative workflows, robust AI capabilities, and how Leap AI simplifies complex tasks. Don't miss out on the magic - watch now!
 
-Designed for collaboration, Leap AI facilitates team-driven automations, enabling seamless creation and sharing of workflows. Gain complete control and flexibility to build robust, customizable AI workflows that seamlessly integrate with your existing data and technology stacks. Leap AI consolidates the best AI models, offering language, image, and voice capabilities. Dive into various use cases, including document summarization, voice translation with lip syncing, avatar and asset generation, customer service transcript analysis, and end-to-end SEO automation.
+Designed for collaboration, Leap AI facilitates team-driven automations, enabling seamless création and sharing of workflows. Gain complète control and flexibility to build robust, customizable AI workflows that seamlessly integrate with your existing data and technology stacks. Leap AI consolidates the best AI models, offering language, image, and voice capabilities. Dive into various use cases, including document summarization, voice translation with lip syncing, avatar and asset generation, customer service transcript analysis, and end-to-end SEO automation.
 
 Notably, Leap AI's simplicity shines through its integration, connecting with a single API call, making it developer-friendly and accessible.
 
-If you're ready to revolutionize your business with AI automation, don't forget to like, subscribe, and share this video. Stay tuned for more insights on cutting-edge technology!
+If you're ready to revolutionize your business with AI automation, don't forget to like, subscribe, and share this vidéo. Stay tuned for more insights on cutting-edge technology!
 
 Welcome to our deep dive into OpenSearch GPT, the revolutionary open-source AI-powered search engine! Discover why OpenSearch GPT is a game-changer in personalized search experiences, outshining Perplexity and even Google in many ways.
 
@@ -172,7 +172,7 @@ We also cover:
 - GPT-4o-mini: Compact yet powerful language model for high-quality language processing.
 - Cloudflare Pages: Effortless web application deployment with continuous integration and global content delivery.
 
-If you enjoyed this video, don't forget to like, subscribe, and share! Hit the notification bell to stay updated on our latest content.
+If you enjoyed this vidéo, don't forget to like, subscribe, and share! Hit the notification bell to stay updated on our latest content.
 
 ## Pourquoi Créer unAgent IA ? C'est Quoi ?
 
@@ -215,7 +215,7 @@ _Langflow 1.0_ delivers the fundamental building blocks required to create, cust
 Langflow in the Cloud
 The much-anticipated cloud version of Langflow is here! Hosted by DataStax, this service is free to use and agnostic to any database, data source, or API. Sign up for a free account and try out the Quickstart now!
 
-If you found this video helpful, make sure to _LIKE_*, **SUBSCRIBE**, and *_SHARE_ with your friends. Don’t forget to hit the bell icon for more updates!
+If you found this vidéo helpful, make sure to _LIKE_*, **SUBSCRIBE**, and *_SHARE_ with your friends. Don’t forget to hit the bell icon for more updates!
 
 Relevant Tags and Keywords:
 Langflow, AI Development, Drag-and-Drop UI, Open Source AI, Flowise Alternative, Langflow 1.0, AI Pipelines, LangSmith, Cloud AI, DataStax Langflow, AI Agents
@@ -224,11 +224,11 @@ Langflow, AI Development, Drag-and-Drop UI, Open Source AI, Flowise Alternative,
 
 [Rivet](https://rivet.ironcladapp.com/)
 
-1. Visual Programming Environment: Discover how Rivet AI simplifies the AI agent creation process. We delve into its intuitive visual programming environment, which empowers users to design intricate LLM prompt graphs. Whether you're a seasoned developer or a newcomer, Rivet AI's interface makes AI agent creation accessible to all.
+1. Visual Programming Environment: Discover how Rivet AI simplifies the AI agent création process. We delve into its intuitive visual programming environment, which empowers users to design intricate LLM prompt graphs. Whether you're a seasoned developer or a newcomer, Rivet AI's interface makes AI agent création accessible to all.
 2. Direct Integration: We showcase Rivet's remarkable ability to seamlessly integrate LLM prompt graphs into applications. This streamlined approach ensures that your AI agents are primed for real-world deployment, bridging the gap between development and production effortlessly.
 3. Debugging Capabilities: Rivet AI's user-friendly debugger takes the spotlight as we demonstrate its critical role in identifying and resolving issues in AI applications. Real-time observation of prompt chains enhances debugging efficiency, bolstering the overall reliability of AI agents.
 4. Collaboration and Version Control: Learn how Rivet promotes collaboration within teams by representing AI graphs as YAML files. Developers can effortlessly manage version control for their AI projects using standard code versioning tools. This feature fosters teamwork and maintains the efficiency of AI development.
-5. Practical Applications: We present a compelling testimonial from Ironclad, a leading digital contracting platform. Ironclad's experience underscores the practical value of Rivet AI, demonstrating how it can streamline AI agent development, potentially revolutionizing processes like contract review and legal team support. Rivet is not merely a theoretical concept; it boasts real-world applications.
+5. Practical Applications: We present a compelling testimonial from Ironclad, a leading digital contracting platform. Ironclad's expérience underscores the practical value of Rivet AI, demonstrating how it can streamline AI agent development, potentially revolutionizing processes like contract review and legal team support. Rivet is not merely a theoretical concept; it boasts real-world applications.
 6. Developed and Used by Research: Gain insights into Rivet AI's development and utilization by an organization known as "Research." This indicates rigorous testing and refinement in research and development environments, contributing to its robust functionality and practicality.
 
 In summary, Rivet AI emerges as an invaluable tool for organizations and developers aiming to harness the capabilities of LLMs in their applications. Its unique blend of visual programming, debugging prowess, seamless integration, and collaboration features positions it as a prime choice for crafting sophisticated AI agents. The testimonial from Ironclad further validates its potential for practical use, especially in industries like legal tech, where AI can make a significant impact.

@@ -14,7 +14,7 @@ imgUrl: ../../assets/astro.jpeg
 
 # Comment connaitre et verifier les DNS de ton domaine
 
-Les DNS (Domain Name System), c'est le systeme qui traduit ton nom de domaine (example.com) en adresse IP (93.184.216.34). Si tes DNS sont mal configures, ton site peut etre inaccessible, tes emails peuvent ne pas arriver, et tes sous-domaines ne fonctionnent pas.
+Les DNS (Domain Name System), c'est le système qui traduit ton nom de domaine (example.com) en adresse IP (93.184.216.34). Si tes DNS sont mal configures, ton site peut être inaccessible, tes emails peuvent ne pas arriver, et tes sous-domaines ne fonctionnent pas.
 
 Voici comment verifier tes DNS et comprendre ce que tu vois.
 
@@ -38,17 +38,17 @@ DNSDumpster ([dnsdumpster.com](https://dnsdumpster.com)) est un outil gratuit de
 
 1. Va sur dnsdumpster.com
 2. Entre ton nom de domaine
-3. Tu obtiens : les enregistrements A, MX, TXT, les sous-domaines detectes, et meme une carte visuelle de ton infrastructure DNS
+3. Tu obtiens : les enregistrements A, MX, TXT, les sous-domaines detectes, et même une carte visuelle de ton infrastructure DNS
 
-**Avantage** : il detecte aussi les sous-domaines que tu aurais oublies via des techniques de reconnaissance passive (sans interroger directement tes serveurs). Tres utile pour un audit de securite. La carte visuelle te montre les relations entre tes sous-domaines, tes serveurs et tes fournisseurs tiers.
+**Avantage** : il détecte aussi les sous-domaines que tu aurais oublies via des techniques de reconnaissance passive (sans interroger directement tes serveurs). Très utile pour un audit de sécurité. La carte visuelle te montre les relations entre tes sous-domaines, tes serveurs et tes fournisseurs tiers.
 
 ## Methode 2 : MXToolbox (la reference)
 
-MXToolbox ([mxtoolbox.com](https://mxtoolbox.com)) est l'outil standard pour diagnostiquer les DNS, surtout pour les emails. Utilise par des millions d'administrateurs systeme dans le monde.
+MXToolbox ([mxtoolbox.com](https://mxtoolbox.com)) est l'outil standard pour diagnostiquer les DNS, surtout pour les emails. Utilise par des millions d'administrateurs système dans le monde.
 
 1. Va sur mxtoolbox.com
 2. Entre ton domaine
-3. Selectionne le type de verification : DNS Lookup, MX Lookup, SPF Record, DKIM, Blacklist Check, DMARC
+3. Sélectionne le type de verification : DNS Lookup, MX Lookup, SPF Record, DKIM, Blacklist Check, DMARC
 
 **Ce que tu peux verifier** :
 - Si tes enregistrements MX pointent vers les bons serveurs mail
@@ -58,7 +58,7 @@ MXToolbox ([mxtoolbox.com](https://mxtoolbox.com)) est l'outil standard pour dia
 - Si ton domaine est blackliste (verification sur 100+ listes noires simultanement)
 - Le TTL, la propagation et la coherence de tes enregistrements
 
-**Outils bonus de MXToolbox** : SuperTool (analyse complete en un clic), Email Health Report (rapport detaille gratuit sur la sante de tes emails), monitoring continu (payant).
+**Outils bonus de MXToolbox** : SuperTool (analyse complète en un clic), Email Health Report (rapport detaille gratuit sur la santé de tes emails), monitoring continu (payant).
 
 ## Methode 3 : Ligne de commande (nslookup et dig)
 
@@ -104,7 +104,7 @@ dig @8.8.8.8 example.com
 ## Methode 4 : Outils en ligne supplementaires
 
 - **WhatsMyDNS.net** : verifie la propagation DNS depuis plusieurs serveurs dans le monde. Ideal quand tu viens de modifier tes DNS et que tu veux savoir si le changement est pris en compte partout
-- **IntoDNS.com** : analyse complete de ta zone DNS avec des recommandations
+- **IntoDNS.com** : analyse complète de ta zone DNS avec des recommandations
 - **DNSChecker.org** : verification rapide depuis 20+ localisations mondiales
 
 ## Comment lire les resultats
@@ -115,7 +115,7 @@ dig @8.8.8.8 example.com
 example.com.    300    IN    A    93.184.216.34
 ```
 
-- `300` = TTL (Time To Live) en secondes. C'est la duree pendant laquelle le resultat est mis en cache
+- `300` = TTL (Time To Live) en secondes. C'est la durée pendant laquelle le resultat est mis en cache
 - `A` = type d'enregistrement
 - `93.184.216.34` = l'adresse IP de ton serveur
 
@@ -138,7 +138,7 @@ example.com.    300    IN    TXT    "v=spf1 include:_spf.google.com ~all"
 - `include:_spf.google.com` = autorise les serveurs Google a envoyer des emails pour ton domaine
 - `~all` = soft fail pour tout le reste (les emails non autorises arrivent en spam, pas bloques)
 
-## Diagnostic des problemes courants
+## Diagnostic des problèmes courants
 
 ### Mon site ne s'affiche pas
 
@@ -156,20 +156,20 @@ example.com.    300    IN    TXT    "v=spf1 include:_spf.google.com ~all"
 ### Mon sous-domaine ne fonctionne pas
 
 1. Verifie qu'il existe un enregistrement A ou CNAME pour le sous-domaine
-2. Verifie que le SSL couvre le sous-domaine (wildcard ou certificat dedie)
+2. Verifie que le SSL couvre le sous-domaine (wildcard ou certificat dédié)
 
 ## Ou modifier tes DNS
 
 Tes DNS se gerent chez ton registrar (l'endroit ou tu as achete ton domaine) ou chez ton hebergeur si tu as delegue la gestion DNS :
 
 - **OVH** : Espace client > Domaines > Zone DNS
-- **Cloudflare** : Dashboard > DNS (interface tres rapide, propagation quasi-instantanee)
+- **Cloudflare** : Dashboard > DNS (interface très rapide, propagation quasi-instantanee)
 - **Squarespace Domains** (ex-Google Domains, transfere en 2023) : Domains > DNS Settings
 - **Gandi** : Domaines > DNS Records
 - **Infomaniak** : Manager > Domaines > Zone DNS
 
-**Astuce** : apres toute modification, attends 24 a 48 heures pour la propagation complete. En pratique, c'est souvent plus rapide (quelques minutes a quelques heures), mais certains FAI ont des caches agressifs.
+**Astuce** : après toute modification, attends 24 a 48 heures pour la propagation complète. En pratique, c'est souvent plus rapide (quelques minutes a quelques heures), mais certains FAI ont des caches agressifs.
 
 ## Ce qu'il faut retenir
 
-Connaitre tes DNS, c'est la base pour diagnostiquer n'importe quel probleme de site ou d'email. Garde les outils DNSDumpster et MXToolbox en favoris. Et quand tu changes d'hebergeur ou de fournisseur email, verifie toujours tes DNS avant et apres la migration.
+Connaitre tes DNS, c'est la base pour diagnostiquer n'importe quel problème de site ou d'email. Garde les outils DNSDumpster et MXToolbox en favoris. Et quand tu changes d'hebergeur ou de fournisseur email, verifie toujours tes DNS avant et après la migration.

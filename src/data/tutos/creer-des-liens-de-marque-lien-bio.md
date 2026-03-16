@@ -16,4 +16,4 @@ imgUrl: ../../assets/astro.jpeg
 
 AV Branded links receive up to 39% more click-throughs when compared to generic short URLs. This figure was determined by carrying out two experiments, which you'll find detailed below
 
-[https://switchy.io/18785/list](https://switchy.io/18785/list)
+[https://switchy.io/18785/list](__MASK_1__)

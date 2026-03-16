@@ -101,7 +101,7 @@ imgUrl: ../../assets/astro.jpeg
     
     # **Comment créer un rapport client**
     
-    **Etape 1** : allez dans [l'application WP Umbrella](https://app.wp-umbrella.com/) et sélectionnez le projet pour lequel vous souhaitez créer un rapport client en cliquant sur son nom.
+    **Étape 1** : allez dans [l'application WP Umbrella](https://app.wp-umbrella.com/) et sélectionnez le projet pour lequel vous souhaitez créer un rapport client en cliquant sur son nom.
     
     
     

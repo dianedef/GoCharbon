@@ -267,11 +267,11 @@ Teste différentes approches.
 **Stratégie :**
 
 - Niche : Tech/Tutoriels
-- Contenu : Videos détaillées, shorts
+- Contenu : Vidéos détaillées, shorts
 - Affiliation : Amazon Influencer (4% commission)
 - Fréquence : 2 vidéos/semaine
 
-**Résultat :** 50000 abonnés × 10% vues = 5000 vues/video × 8 vidéos/mois = 40000 vues/mois
+**Résultat :** 50000 abonnés × 10% vues = 5000 vues/vidéo × 8 vidéos/mois = 40000 vues/mois
 40000 vues/mois × 0,5% CTR = 200 clics/mois
 200 clics/mois × 1% conversion = 2 ventes/mois
 2 ventes/mois × 50€ (commande moyenne) × 4% commission = 4€/mois

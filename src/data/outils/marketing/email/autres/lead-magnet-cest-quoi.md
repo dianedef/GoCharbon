@@ -16,7 +16,7 @@ Lead magnets
 
 Free Download - Online Business Quickstart Guide - A clear plan for building a desk you love. Download the guide for free!
 
-[https://youtu.be/m7Pg43ERfeI](https://youtu.be/m7Pg43ERfeI)
+[https://youtu.be/m7Pg43ERfeI](__MASK_0__)
 
 - best lead magnet idea
     
@@ -154,9 +154,9 @@ Gusto has an online [**Employee Onboarding Checklist**](https://gusto.com/tools/
 
 ### 9) Converter ###
 
-They allow you to convert something into another thing. They are commonly built by audio, video, image, or files businesses.
+They allow you to convert something into another thing. They are commonly built by audio, vidéo, image, or files businesses.
 
-Kapwing, an online video editor, has built a free [**tool to convert videos**](https://www.kapwing.com/tools/convert-video) to MP3, GIF, MP4, or JPG.
+Kapwing, an online vidéo editor, has built a free [**tool to convert vidéos**](https://www.kapwing.com/tools/convert-video) to MP3, GIF, MP4, or JPG.
 
 ‍
 
@@ -175,7 +175,7 @@ Side project marketing seems time-consuming and drains efforts from the product 
 
 Why would a business do Engineering as Marketing instead of running ads or writing content? Here are the main 4 reasons:
 
-1. **It’s not such a competitive acquisition channel**: Andrew Chen wrote many years ago about “[**The Law of Shitty Clickthroughs**](https://andrewchen.com/the-law-of-shitty-clickthroughs/)” stating that “over time, all marketing strategies result in shitty clickthrough rates.” Engineering as Marketing is a relatively new channel and requires certain resources that ads and content, to mention two of the most common acquisition channels, don’t.
+1. **It’s not such a competitive acquisition channel**: Andrew Chen wrote many years ago about “[**The Law of Shitty Clickthroughs**](https://andrewchen.com/the-law-of-shitty-clickthroughs/)” stating that “over time, all marketing stratégies result in shitty clickthrough rates.” Engineering as Marketing is a relatively new channel and requires certain resources that ads and content, to mention two of the most common acquisition channels, don’t.
 2. **It doesn’t feel like marketing**: "The best marketing is when you don’t know it’s marketing." Content and ads feel a lot like self-promotion and, in most cases, don’t provide any value. Side projects themselves give value to users; the user doesn’t need to become a customer to receive value from your company.
 3. **They can keep bringing customers over time**: Just as content, these projects can rank on Google for certain keywords bringing users every month, some of which might convert to customers. Unlike content, these projects can provide repeated usefulness, which means that the same user might visit your project various times (you don’t generally read a piece of content more than once).
 4. **They can generate PR coverage and backlinks**: Many of the mentioned side project examples have gone viral and received thousands of shares and backlinks. With the correct timing and some luck, your project might be covered by lots of media sites, earning you backlinks and higher domain authority.
@@ -199,7 +199,7 @@ Finally, visit niche blogs, podcasts, and communities and search for content tha
 
 If you cannot come up with any side-project marketing idea, it’s probably because you’re thinking in a product-oriented way rather than in an audience-oriented one. Here’s the difference:
 
-* **Product-oriented**: These are side projects that are a strong fit with your product or service. You’ll reach people who are your potential customers, who are actively searching for a product like yours. Kapwing’s video converter tool is a good example - the people who use this tool are editing a video and might therefore be interested in Kapwing’s product. While this kind of project has the highest conversion rates, it’ll be hard to develop a customer-oriented project idea in every niche.
+* **Product-oriented**: These are side projects that are a strong fit with your product or service. You’ll reach people who are your potential customers, who are actively searching for a product like yours. Kapwing’s vidéo converter tool is a good example - the people who use this tool are editing a vidéo and might therefore be interested in Kapwing’s product. While this kind of project has the highest conversion rates, it’ll be hard to develop a customer-oriented project idea in every niche.
 * **Audience-oriented**: These are side projects that are a strong fit with your target audience. You’ll reach people who are your potential customers, who aren’t actively searching for a product like yours. Hatchful, Shopify’s free logo maker, is a good example - the people who use the tool are eCommerce founders looking to create a logo, not an eCommerce, which is Shopify’s solution.
 
 If you can’t come up with any product-related projects, I encourage you to think in an audience-oriented way, as it will broaden the spectrum of possible ideas.
@@ -270,7 +270,7 @@ That’s why you should also consider working on the organic traffic of the proj
 
 #### Organic Traffic ####
 
-Some projects aren’t a good fit with organic traffic by nature. No one searches on Google for a GDPR Quiz. However, many people search every day for a video to MP3 converter.
+Some projects aren’t a good fit with organic traffic by nature. No one searches on Google for a GDPR Quiz. However, many people search every day for a vidéo to MP3 converter.
 
 If your Engineering as Marketing project is a good fit with organic traffic, here are some things you can do to optimize your project for SEO, along with examples.
 
@@ -280,7 +280,7 @@ If your Engineering as Marketing project is a good fit with organic traffic, her
 
 This is the most important thing: focus on making an Engineering as Marketing project page that satisfies users’ search intent in a hassle-free way (no email or registration required).
 
-Some things that improve the users’ experience and ensure they get what they want from your page:
+Some things that improve the users’ expérience and ensure they get what they want from your page:
 
 * Clean UX
 * No errors or bugs

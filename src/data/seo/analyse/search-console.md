@@ -59,7 +59,7 @@ imgUrl: ../../../assets/astro.jpeg
 - FID
 - CLS
 - Mobile usability
-- Page experience
+- Page expérience
 
 ## Ressources Complémentaires
 - [Core Web Vitals](/seo/technique/core-web-vitals)

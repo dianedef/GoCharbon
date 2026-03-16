@@ -33,11 +33,11 @@ Well, I just put together a HUGE new guide to Conversion Rate Optimization.
 
 - This new guide will show you exactly how to turn visitors into leads and customers.
     
-- (Plus: lots of little-known CRO strategies I've never talked about before) [
+- (Plus: lots of little-known CRO stratégies I've never talked about before) [
     
 - Check out the new guide right here.]([https://clicks.aweber.com/y/ct/?l=BVKpX&m=3fP8BgFRl9K8DrP&b=kCDN6ja9stimV9y4_2nXKg](https://clicks.aweber.com/y/ct/?l=BVKpX&m=3fP8BgFRl9K8DrP&b=kCDN6ja9stimV9y4_2nXKg))
     
-- Research has shown]([https://quuu-2b0dfe2e23f9.intercom-mail.com/via/e?ob=NmjkX0XogtMLrHtIbxiwPejj7uHd8jcvasjBDYVyp0YeyZeKprm%2FiZJuGXTlq6pQ&h=9cd1d435b9169742da3d7af611c6bb733d1d0e13-22328230993&l=6fb519c7864038ac7baab2fb5130aa6b8ee79f9d-1016258](https://quuu-2b0dfe2e23f9.intercom-mail.com/via/e?ob=NmjkX0XogtMLrHtIbxiwPejj7uHd8jcvasjBDYVyp0YeyZeKprm%2FiZJuGXTlq6pQ&h=9cd1d435b9169742da3d7af611c6bb733d1d0e13-22328230993&l=6fb519c7864038ac7baab2fb5130aa6b8ee79f9d-1016258)) that brand messages reach 561% further when shared by employees vs the same messages shares via official brand social channels. In other words, your biggest asset for social media has been right in front of you all along.
+- Research has shown]([https://quuu-2b0dfe2e23f9.intercom-mail.com/via/e?ob=NmjkX0XogtMLrHtIbxiwPejj7uHd8jcvasjBDYVyp0YeyZeKprm%2FiZJuGXTlq6pQ&h=9cd1d435b9169742da3d7af611c6bb733d1d0e13-22328230993&l=6fb519c7864038ac7baab2fb5130aa6b8ee79f9d-1016258](__MASK_1__)) that brand messages reach 561% further when shared by employees vs the same messages shares via official brand social channels. In other words, your biggest asset for social media has been right in front of you all along.
     
 - Le triangle de la réussite
     
@@ -59,7 +59,7 @@ Well, I just put together a HUGE new guide to Conversion Rate Optimization.
             - Stumble upon est intéressant aussi
             - les échanges de liens en contactant d'autrs blog. C'est dépassé maintenant google préfère des liens qui pointent que d'un seul sens. Demander à des blog qui ont un peu plus de lecteurs que nous
             - les forums de discussion
-                - [http://hardware.fr](http://hardware.fr)
+                - [http://hardware.fr](__MASK_2__)
                 - créer des topics de qualité
             - écrire des articles invités
                 - un des meilleurs moyens d'apporter du traffic de qualité à long terme

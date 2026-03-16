@@ -11,7 +11,7 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../../assets/astro.jpeg
 ---
 
-Il faut absolument ameliorer l'experience et l'ux ui sur mobile
+Il faut absolument ameliorer l'expérience et l'ux ui sur mobile
 
 
   Idées d'améliorations

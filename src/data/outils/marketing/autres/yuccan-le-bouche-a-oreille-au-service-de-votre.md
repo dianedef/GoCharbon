@@ -42,8 +42,8 @@ imgUrl: ../../../../assets/astro.jpeg
 ## 📱 Application Mobile
 
 Avec Yuccan, votre programme est publié sur une application mobile dédiée pour vos parrains & apporteurs d'affaires.
-[https://play.google.com/store/apps/details?id=com.audassia.yuccanlead](https://play.google.com/store/apps/details?id=com.audassia.yuccanlead)
-[https://apps.apple.com/fr/app/yuccan-lead/id1462431188](https://apps.apple.com/fr/app/yuccan-lead/id1462431188)
+[https://play.google.com/store/apps/details?id=com.audassia.yuccanlead](__MASK_3__)
+[https://apps.apple.com/fr/app/yuccan-lead/id1462431188](__MASK_4__)
 
 ## 💼 Récompenses En Cash et Légal
 

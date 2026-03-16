@@ -15,7 +15,7 @@ imgUrl: ../../../../../assets/astro.jpeg
 
 Le 28 mai 2024par Korben -
 
-1. [Securite-Vie-Privee](https://korben.info/categories/securite-vie-privee/ "Voir tous les articles de la catégorie Securite-Vie-Privee")
+1. [Sécurité-Vie-Privee](https://korben.info/categories/securite-vie-privee/ "Voir tous les articles de la catégorie Securite-Vie-Privee")
 2. [Cybersecurite](https://korben.info/categories/securite-vie-privee/cybersecurite/ "Voir tous les articles de la sous-catégorie Cybersecurite")
 
 2 bidouilleurs viennent de prouver qu’avec un peu d’astuce et beaucoup de persévérance, on pouvait cracker les coffres-forts numériques les mieux gardés.

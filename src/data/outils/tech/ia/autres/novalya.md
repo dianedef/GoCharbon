@@ -257,7 +257,7 @@ Vos prospects vous attendent.
 
  Tous ces outils sont centralisés sur une seule plateforme.
  Merci de ton avis et de ta réactivité au sujet de Novalya. D’autres « gourous » n’en disaient pas du bien en effet, c’est bien d’avoir un point de vue positif ET neutre pour changer (le tien ici). Tu tiens de bons arguments en faveur de l’entreprise.
- Le concurrent direct de Novalya sera évidemment Nowsite, vu qu’ils proposent a priori un service similaire. Les concurrents indirects, eux, seront probablement les outils de prospection hors MLM à la systeme io. À ton avis, quelle peut être LA valeur ajoutée de Novalya pour ne surtout pas être un clone de Nowsite mais bien au contraire éclipser toute concurrence ?
+ Le concurrent direct de Novalya sera évidemment Nowsite, vu qu’ils proposent a priori un service similaire. Les concurrents indirects, eux, seront probablement les outils de prospection hors MLM à la système io. À ton avis, quelle peut être LA valeur ajoutée de Novalya pour ne surtout pas être un clone de Nowsite mais bien au contraire éclipser toute concurrence ?
  Merci Sam pour cette article mais pour ma part. J’ai deux réserves ce genre d’outil existe déjà mis à part le côté marketing relationnel. Et ma deuxième réserve est la suivante. Tu va avoir effectivement des contacts énormément mais si tu ne sais pas les convaincre il resteront que des prospects. Donc si tu ne sais pas closer et ça tu ne peux le faire en automatique tu seras toujours au même point. Nous en reparlerons.
  Tu as à mon avis totalement raison: si tu ne sais pas closer, cet outil ne te servira pas à grand chose.
  L’avantage du fait que Novalya soit un MLM est aussi vrai, je suis de ton avis.

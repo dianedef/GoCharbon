@@ -12,4 +12,4 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 
-[9 Customer Retention Strategies to Keep Customers Coming Back - YouTube](https://www.youtube.com/watch?v=IqIwOs1ezEM&list=PL8hhAZzwVh8CQyouqPjZENsvYD_RTDR60&index=75&t=14s)
+[9 Customer Retention Stratégies to Keep Customers Coming Back - YouTube](https://www.youtube.com/watch?v=IqIwOs1ezEM&list=PL8hhAZzwVh8CQyouqPjZENsvYD_RTDR60&index=75&t=14s)

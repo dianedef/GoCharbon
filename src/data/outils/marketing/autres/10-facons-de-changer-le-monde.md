@@ -63,11 +63,11 @@ Biom Paris réinvente les objets du quotidien, avec une approche écologique et�
     
     - [Benjamin Gonzalez](https://www.linkedin.com/in/bgonzalez78/) , fondateur et CEO
     - [Philippe Soucaille](https://www.linkedin.com/in/philippe-soucaille-2a622863/), président du comité scientifique
-    - [https://www.metabolic-explorer.fr/organisation/](https://www.metabolic-explorer.fr/organisation/)
+    - [https://www.metabolic-explorer.fr/organisation/](__MASK_16__)
     
     ## Présence numérique
     
-    - [https://www.metabolic-explorer.fr/](https://www.metabolic-explorer.fr/)
+    - [https://www.metabolic-explorer.fr/](__MASK_17__)
 
 [Novagray — Wiki des startups](https://wiki-startup.com/index.php?title=Novagray)
 
@@ -179,7 +179,7 @@ Clickfunnels
 
 Brilliant Planet is a company that has a carbon capture and sequestration model that can scale up to billions of tons per year. The method involves pumping seawater into low-cost coastal desert land and then using the pools of seawater to grow algae. It could potentially capture two billion tons of carbon per year, about 5.5% of humanity's annual global carbon emissions. The company is aiming for a cost of around $50-$100 per ton, which is significantly cheaper than other current options.
 
-[https://www.foodlocker.africa/](https://www.foodlocker.africa/)
+[https://www.foodlocker.africa/](__MASK_51__)
 
 [Accueil - makesense](https://france.makesense.org/)
 

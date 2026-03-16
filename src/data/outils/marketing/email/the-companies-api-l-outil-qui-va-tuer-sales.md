@@ -65,10 +65,10 @@ Link to blog article + CTA + Contact me if needed I am Diane
         3. Up-leveling
             1. What would make this idea more original and fresh than what's already present on YouTube ?
             2. What intersectional ideas would make this idea even better ?
-            3. How will the idea that we're developing thus far be delivered throughout the video duration to provide an escalation experience so the video does not come across to my audience as flat rather I start here and at the end of the video, the viewer is at a ihgher place than they were before ?
+            3. How will the idea that we're developing thus far be delivered throughout the vidéo duration to provide an escalation expérience so the vidéo does not come across to my audience as flat rather I start here and at the end of the vidéo, the viewer is at a ihgher place than they were before ?
             4. What will make this idea memorable to viewers ?
         4. Validating the idea, it’s possible that it’s a great idea, but not for your audience that will be confused.
-            1. How well does the video that I have developped thus far, fit what I am currently doing ?
+            1. How well does the vidéo that I have developped thus far, fit what I am currently doing ?
             2. How does it fit my channel lens ?
             3. What would be my audience’s reaction if I were to tell them this idea ?
             4. Do I like this reaction ?
@@ -114,7 +114,7 @@ Link to blog article + CTA + Contact me if needed I am Diane
     
     [Sign In | TubeBuddy](https://www.tubebuddy.com/signin?ReturnUrl=%2Flaunchpad%2Fdashboard%2FUCQo-_DT1_PetYrOjKQ_EO3Q)
     
-    [NEWS: Web Series, Online Video & TV Shows, YouTube | EVENTS: LA & NYC Meetup | Tubefilter.com](https://www.tubefilter.com/)
+    [NEWS: Web Series, Online Vidéo & TV Shows, YouTube | EVENTS: LA & NYC Meetup | Tubefilter.com](https://www.tubefilter.com/)
     
     [Tools - TubeBuddy](https://www.tubebuddy.com/tools/?tool=channelbackup)
     
@@ -168,7 +168,7 @@ Link to blog article + CTA + Contact me if needed I am Diane
 
 - Author: thomas
 - Category: rss
-- URL: [https://leszoutils.com/blog/the-companies-api-loutil-qui-va-tuer-sales-navigator/](https://leszoutils.com/blog/the-companies-api-loutil-qui-va-tuer-sales-navigator/)
+- URL: [https://leszoutils.com/blog/the-companies-api-loutil-qui-va-tuer-sales-navigator/](__MASK_26__)
 
 ## Highlights
 

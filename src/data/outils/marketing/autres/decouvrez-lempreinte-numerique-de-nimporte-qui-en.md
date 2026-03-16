@@ -19,6 +19,6 @@ Donc par exemple si je veux chercher Baptiste Robert il va lancer un automatisme
 
 la prestation du groupe vend aux entreprises et aux gouvernements ça sert pour les forces de l'ordre mais ils ont pas l’intention de dealer avec des dictatures et ça c’est cool même si le concept de dicature en assez relatif en tout temps.
 
-[https://epieos.com/](https://epieos.com/)
+[https://epieos.com/](__MASK_1__)
 
-[https://youtu.be/fXaz1dM9dq8?t=536](https://youtu.be/fXaz1dM9dq8?t=536)
+[https://youtu.be/fXaz1dM9dq8?t=536](__MASK_2__)

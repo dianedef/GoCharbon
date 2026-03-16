@@ -39,21 +39,21 @@ SendShort est un outil puissant qui permet de créer des Shorts viraux à partir
 
 SendShort propose plusieurs plans tarifaires adaptés à différents besoins. Le plan "Subtitle Pro" à 15€/mois permet d'obtenir des sous-titres de qualité professionnelle, tandis que les plans "Advanced" et "Expert" offrent des fonctionnalités supplémentaires pour générer des Shorts à partir de vidéos longues. Les utilisateurs peuvent choisir le plan qui leur convient le mieux, avec la possibilité d'annuler à tout moment sans frais cachés. SendShort se positionne ainsi comme un outil accessible et efficace pour tous ceux qui souhaitent maximiser leur production de contenu vidéo.
 # Ressources
-1. NEW feature: Faceless video
+1. NEW feature: Faceless vidéo
 We've released a new way for you to create — less effort, more output 👇
 
 
-With Faceless videos, you simply:
+With Faceless vidéos, you simply:
 
 ✅ Write a story OR select a topic and AI will write it for you
 ✅ AI auto-generates the images
 ✅ AI automatically creates a short for you
 ✅ Effects, text, etc are auto added 😎
-In other words, with Faceless videos, you turn stories (text) into videos.
+In other words, with Faceless vidéos, you turn stories (text) into vidéos.
 
  
 
-Try creating a Faceless Video
+Try creating a Faceless Vidéo
  
 
 I'd show you a preview here but... it's magic 👀
@@ -81,7 +81,7 @@ The more a feature is voted, the faster we’ll start building it.
 
 Suggest on our roadmap
  
-In the future, you'll see more and more of SendShort - more features, more creativity unlocked, more auto-creation.
+In the future, you'll see more and more of SendShort - more features, more creativity unlocked, more auto-création.
 
  
 

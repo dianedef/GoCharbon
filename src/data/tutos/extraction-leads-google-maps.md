@@ -416,7 +416,7 @@ Générer des leads locaux en illimité
 
 40% affiliate program
 
-[https://scrap.id/s/ZWZ](https://scrap.id/s/ZWZ)
+[https://scrap.id/s/ZWZ](__MASK_50__)
 
 ## Get Infinite leads for $49/month
 

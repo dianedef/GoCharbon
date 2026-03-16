@@ -23,9 +23,9 @@ BeeHype's journey began when Stela and Momchil both realised that they **missed 
 
 Stela shares the inspiration behind their business: "From a young age, we knew what real honey taste like. My grandfather is a beekeeper himself, and when we moved to the UK, **we noticed that it’s hard to come across real artisanal honey**, especially in big cities. So we decided that it would be a great idea to bring the beautiful taste of Bulgarian honey to the UK."
 
-Starting four and a half years ago and reinventing perceptions of honey as a tired sweetener, Momchil says their aim was to **create a whole experience around the complex flavours of honey:** "Firstly, we have created salted honey, which is a healthy alternative to salted caramel and expanded our portfolio with healthy alternatives to chocolate spreads, jams, sweet chilli sauce, and so on."
+Starting four and a half years ago and reinventing perceptions of honey as a tired sweetener, Momchil says their aim was to **create a whole expérience around the complex flavours of honey:** "Firstly, we have created salted honey, which is a healthy alternative to salted caramel and expanded our portfolio with healthy alternatives to chocolate spreads, jams, sweet chilli sauce, and so on."
 
-Focusing on quality rather than quantity, Momchil emphasises that what lots of people don't realise is that when you buy supermarket honey, a lot of the time you might not actually be buying raw honey: **"A lot of the honey products sold go through a long process which removes all of the pollen to prevent crystallisation on the shelves. They boil it, they microfilter it, so all the good stuff inside stripped out, and you're left with just the sugar, which they sell in a plastic squeezy bottle.''** BeeHype is trying to do the opposite by partnering with small apiaries in Bulgaria.
+Focusing on quality rather than quantity, Momchil emphasises that what lots of people don't réalise is that when you buy supermarket honey, a lot of the time you might not actually be buying raw honey: **"A lot of the honey products sold go through a long process which removes all of the pollen to prevent crystallisation on the shelves. They boil it, they microfilter it, so all the good stuff inside stripped out, and you're left with just the sugar, which they sell in a plastic squeezy bottle.''** BeeHype is trying to do the opposite by partnering with small apiaries in Bulgaria.
 
 [](https://wise.com/gb/blog/creating-a-buzz-in-the-honey-industry-with-wise-business?lid=7rykh0pw9594#streamlining-international-transactions-with-wise-business)Streamlining international transactions with Wise Business
 ----------
@@ -69,7 +69,7 @@ BeeHype's future plans include strengthening their position in the UK market, ex
 
 *This publication is provided for general information purposes and does not constitute legal, tax or other professional advice from Wise Payments Limited or its subsidiaries and its affiliates, and it is not intended as a substitute for obtaining advice from a financial advisor or any other professional.*
 
-*We make no representations, warranties or guarantees, whether expressed or implied, that the content in the publication is accurate, complete or up to date.*
+*We make no representations, warranties or guarantees, whether expressed or implied, that the content in the publication is accurate, complète or up to date.*
 Conversation ouverte. 1 message non lu. 
 
 Aller au contenu

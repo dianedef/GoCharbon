@@ -30,7 +30,7 @@ En septembre 2018, le cofondateur et CEO, Sébastien Lebbe, annonce sa gratuité
 
 ## Présence numérique
 
-- [https://www.wooclap.com/fr/](https://www.wooclap.com/fr/)
+- [https://www.wooclap.com/fr/](__MASK_2__)
 - [[1]](https://www.linkedin.com/company/wooclap/) Linkedin
 - [[2]](https://fr.wikipedia.org/wiki/Wooclap) Wikipédia (3 références)
 

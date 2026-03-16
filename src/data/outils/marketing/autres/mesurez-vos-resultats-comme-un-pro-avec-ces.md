@@ -122,7 +122,7 @@ Common examples of vanity metrics in marketing include the number of followers, 
 
 Vanity metrics are easy to get hold of. But they fall short when bringing in sales and helping your business reach its goals. A startup might choose to report the number of total registrations instead of active, paid users to show demand for their products.
 
-What are the typical characteristics of vanity metrics, then? They’re out of your control, they can’t be repeated, and they don’t drive business decisions. In other words, they’re not actionable.
+What are the typical characteristics of vanity metrics, then? They’re out of your control, they can’t be repeated, and they don’t drive business décisions. In other words, they’re not actionable.
 
 ## Why vanity metrics are bad for you
 

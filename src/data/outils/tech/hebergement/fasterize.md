@@ -76,7 +76,7 @@ Cloudflare, Akamai, Fastly, Cloudinary, imgix, SpeedCurve, Botify (pour l'EdgeSE
 ### Diagnostic et Monitoring
 
 - **Outil de diagnostic webperf en ligne** — Gratuit, teste ton site en 1 clic
-- **Performance Experience Index (PX Index)** — Nouvelle méthodologie (janvier 2026) qui va au-delà de la conformité technique
+- **Performance Expérience Index (PX Index)** — Nouvelle méthodologie (janvier 2026) qui va au-delà de la conformité technique
 - **Classements webperf mensuels** — TOP 50 France, par secteur (travel, médias, e-commerce)
 - **Rapports personnalisés** — Suivi de l'évolution de tes métriques
 
@@ -103,7 +103,7 @@ Contacte l'équipe Fasterize pour une démo et un devis personnalisé.
 - **Entreprise française** — Plus de 10 ans d'existence dans la webperf
 - **Publié par Emilie Wilhelm** — Auteure de nombreuses publications et études sur la performance web, contribuant à sensibiliser le marché et à diffuser les bonnes pratiques
 - **Classements webperf de référence** — Publie chaque mois les classements des sites les plus visités en France
-- **Performance Experience Index (PX Index)** — Nouvelle méthodologie lancée en janvier 2026
+- **Performance Expérience Index (PX Index)** — Nouvelle méthodologie lancée en janvier 2026
 - **Success stories** — Nombreux cas clients publiés (e-commerce, mode, voyage, auto)
 - **Contenu riche** — Playbooks, insights, guides, livres blancs, articles de blog
 - **Mentionné sur Capterra France** — Avis et évaluations disponibles
@@ -123,7 +123,7 @@ Contacte l'équipe Fasterize pour une démo et un devis personnalisé.
 - Plus de 10 ans d'existence — maturité et pérennité
 - Fonctionne avec tous les CMS et technologies
 - Optimisation automatique (images, CSS, JS) — sans toucher au code source
-- PX Index (Performance Experience Index) — méthodologie innovante
+- PX Index (Performance Expérience Index) — méthodologie innovante
 - Contenu riche (playbooks, guides, études) — valeur ajoutée pour les clients
 
 ## Points Faibles

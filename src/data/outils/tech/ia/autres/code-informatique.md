@@ -699,9 +699,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Les ternaires sont des conditions condensées qui font un test sur une variable, et en fonction des résultats de ce test donnent une valeur à une autre variable. Elles sont cependant plus rarement utilisées.
     - Les boucles
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/912133-les-boucles](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/912133-les-boucles)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/912133-les-boucles](__MASK_3081__)
         
-        [https://vimeo.com/89864594](https://vimeo.com/89864594)
+        [https://vimeo.com/89864594](__MASK_3082__)
         
         Dans la série des éléments de base de PHP à connaître absolument, voici les boucles ! Répéter des instructions, ça, l'ordinateur sait faire (et en plus, il ne bronche jamais) !
         
@@ -857,9 +857,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         - L'incrémentation est une technique qui consiste à ajouter 1 à la valeur d'une variable. La décrémentation retire au contraire 1 à cette variable. On trouve souvent des incrémentations au sein de boucles`for`.
     - Les tableaux
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4238931-les-tableaux](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4238931-les-tableaux)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4238931-les-tableaux](__MASK_3083__)
         
-        [https://vimeo.com/89864633](https://vimeo.com/89864633)
+        [https://vimeo.com/89864633](__MASK_3084__)
         
         Nous abordons ici un aspect très important du PHP : les *arrays*.
         
@@ -1267,9 +1267,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Il existe de nombreuses fonctions permettant de travailler sur des tableaux et notamment d'effectuer des recherches.
     - Les fonctions
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/912352-les-fonctions](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/912352-les-fonctions)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/912352-les-fonctions](__MASK_3085__)
         
-        [https://vimeo.com/89864634](https://vimeo.com/89864634)
+        [https://vimeo.com/89864634](__MASK_3086__)
         
         En PHP, on n'aime pas avoir à répéter le même code. Pour pallier ce problème, nous avons découvert les boucles, qui permettent d'exécuter des instructions un certain nombre de fois. Ici nous allons découvrir un autre type de structure indispensable pour la suite : les fonctions.
         
@@ -1859,9 +1859,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Inclure des portions de page
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4239271-inclure-des-portions-de-page](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4239271-inclure-des-portions-de-page)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4239271-inclure-des-portions-de-page](__MASK_3090__)
         
-        [https://vimeo.com/89864593](https://vimeo.com/89864593)
+        [https://vimeo.com/89864593](__MASK_3091__)
         
         
         
@@ -1880,7 +1880,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Cette technique, très simple à mettre en place, permet par exemple de placer les menus de son site dans un fichier`menus.php`que l'on inclura dans toutes les pages. Cela permet de centraliser le code des menus alors qu'on était auparavant obligé de le copier dans chaque page sur nos sites statiques en HTML et CSS !
     - Codez proprement
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4239346-codez-proprement](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4239346-codez-proprement)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4239346-codez-proprement](__MASK_3092__)
         
         [918836_teaser_picture_1571132898.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/918836_teaser_picture_1571132898.jpg3fr3dpad)
         
@@ -2124,9 +2124,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Transmettez des données avec l'URL
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/912799-transmettez-des-donnees-avec-lurl](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/912799-transmettez-des-donnees-avec-lurl)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/912799-transmettez-des-donnees-avec-lurl](__MASK_3099__)
         
-        [https://vimeo.com/90469550](https://vimeo.com/90469550)
+        [https://vimeo.com/90469550](__MASK_3100__)
         
         Savez-vous ce qu'est une URL ? Cela signifie **Uniform Resource Locator**, et cela sert à représenter une adresse sur le web. Toutes les adresses que vous voyez en haut de votre navigateur, comme`http://www.siteduzero.com`, sont des URL.
         
@@ -2443,9 +2443,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Le transtypage est une technique qui permet de convertir une variable dans le type de données souhaité. Cela permet de s'assurer par exemple qu'une variable est bien un`int`(nombre entier).
     - Transmettez des données avec les formulaires
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913099-transmettez-des-donnees-avec-les-formulaires](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913099-transmettez-des-donnees-avec-les-formulaires)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913099-transmettez-des-donnees-avec-les-formulaires](__MASK_3101__)
         
-        [https://vimeo.com/90469552](https://vimeo.com/90469552)
+        [https://vimeo.com/90469552](__MASK_3102__)
         
         
         
@@ -2481,7 +2481,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Les formulaires permettent d'envoyer des fichiers. On retrouve les informations sur les fichiers envoyés dans un array`$_FILES`. Leur traitement est cependant plus complexe.
     - TP : page protégée par mot de passe
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913196-tp-page-protegee-par-mot-de-passe](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913196-tp-page-protegee-par-mot-de-passe)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913196-tp-page-protegee-par-mot-de-passe](__MASK_3103__)
         
         
         
@@ -2503,7 +2503,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Variables superglobales
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913348-variables-superglobales](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913348-variables-superglobales)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913348-variables-superglobales](__MASK_3105__)
         
         [918836_teaser_picture_1571132898.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/918836_teaser_picture_1571132898%201.jpg3fr3dpad)
         
@@ -2547,7 +2547,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Dans les chapitres précédents, nous avons découvert deux superglobales essentielles :`$_GET`(qui contient les données issues de l'URL) et`$_POST`(qui contient les données issues d'un formulaire).
     - Session & Cookies
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4239476-session-cookies](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4239476-session-cookies)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4239476-session-cookies](__MASK_3107__)
         
         
         
@@ -2562,7 +2562,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         - La superglobale `$_COOKIE` représente le contenu de tous les cookies stockés par votre site sur l'ordinateur du visiteur. Les cookies sont de petits fichiers que l'on peut écrire sur la machine du visiteur pour retenir par exemple son nom. On crée un cookie avec la fonction `setcookie()` .
     - Lisez et écrivez dans un fichier
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913492-lisez-et-ecrivez-dans-un-fichier](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913492-lisez-et-ecrivez-dans-un-fichier)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913492-lisez-et-ecrivez-dans-un-fichier](__MASK_3108__)
         
         
         
@@ -2580,9 +2580,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         - À moins de stocker des données très simples, l'utilisation des fichiers n'est pas vraiment la technique la plus adaptée pour enregistrer des informations. Il est vivement recommandé de faire appel à une base de données.
     - Qu'est-ce qu'une base de données ?
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913655-quest-ce-quune-base-de-donnees](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913655-quest-ce-quune-base-de-donnees)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913655-quest-ce-quune-base-de-donnees](__MASK_3109__)
         
-        [https://vimeo.com/90910564](https://vimeo.com/90910564)
+        [https://vimeo.com/90910564](__MASK_3110__)
         
         
         
@@ -2599,9 +2599,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Chaque table est un tableau où les colonnes sont appelées « champs » et les lignes « entrées ».
     - phpMyAdmin
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913893-phpmyadmin](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913893-phpmyadmin)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913893-phpmyadmin](__MASK_3111__)
         
-        [https://vimeo.com/90910567](https://vimeo.com/90910567)
+        [https://vimeo.com/90910567](__MASK_3112__)
         
         
         
@@ -2653,9 +2653,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         - phpMyAdmin possède un outil d'importation et d'exportation des tables qui nous permettra notamment d'envoyer notre base de données sur Internet lorsque nous mettrons notre site en ligne.
     - Lisez des données
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914293-lisez-des-donnees](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914293-lisez-des-donnees)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914293-lisez-des-donnees](__MASK_3113__)
         
-        [https://vimeo.com/90910715](https://vimeo.com/90910715)
+        [https://vimeo.com/90910715](__MASK_3114__)
         
         Dans ce chapitre, nous retournons à nos pages PHP. À partir de maintenant, nous allons apprendre à communiquer avec une base de données via PHP. Ce sera l'occasion de découvrir le langage SQL, que nous étudierons tout au long des prochains chapitres.
         
@@ -3340,11 +3340,11 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Pour construire une requête en fonction de la valeur d'une variable, on passe par un système de requête préparée qui permet d'éviter les dangereuses failles d'injection SQL.
     - Écrivez des données
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914508-ecrivez-des-donnees](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914508-ecrivez-des-donnees)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914508-ecrivez-des-donnees](__MASK_3118__)
         
         [918836_teaser_picture_1571132898.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/918836_teaser_picture_1571132898%202.jpg3fr3dpad)
         
-        [https://vimeo.com/90910568](https://vimeo.com/90910568)
+        [https://vimeo.com/90910568](__MASK_3120__)
         
         - `INSERT INTO` : ajout d'une entrée ;`UPDATE` : modification d'une ou plusieurs entrées ;`DELETE` : suppression d'une ou plusieurs entrées.
         - Comme pour la sélection de données, on utilise les requêtes préparées pour personnaliser nos requêtes en fonction de variables.
@@ -3352,7 +3352,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         - PHP indique si une erreur avec MySQL est intervenue.
     - TP : un mini-chat
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914663-tp-un-mini-chat](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914663-tp-un-mini-chat)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/914663-tp-un-mini-chat](__MASK_3121__)
         
         
         
@@ -3373,9 +3373,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Les fonctions SQL
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/915107-les-fonctions-sql](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/915107-les-fonctions-sql)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/915107-les-fonctions-sql](__MASK_3122__)
         
-        [https://vimeo.com/90910717](https://vimeo.com/90910717)
+        [https://vimeo.com/90910717](__MASK_3123__)
         
         
         
@@ -3393,9 +3393,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Après un groupement de données, on peut filtrer le résultat avec`HAVING`. Il ne faut pas le confondre avec WHERE qui filtre avant le groupement des données.
     - Les dates en SQL
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/915206-les-dates-en-sql](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/915206-les-dates-en-sql)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/915206-les-dates-en-sql](__MASK_3124__)
         
-        [https://vimeo.com/90911959](https://vimeo.com/90911959)
+        [https://vimeo.com/90911959](__MASK_3125__)
         
         Lorsque nous avons construit nos tables, nous avons utilisé différents types de champs, notamment(nombre entier),(texte court) et(texte long). Vous avez pu découvrir dans phpMyAdmin qu'il existait de nombreux autres types. La plupart ne sont que des variations de ces types, pour stocker par exemple de très petits ou de très grands nombres. La plupart du temps, vous n'aurez pas à vous soucier de tous ces types :suffit amplement pour les nombres entiers par exemple.
         
@@ -3405,7 +3405,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - TP : un blog avec des commentaires
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/915379-tp-un-blog-avec-des-commentaires](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/915379-tp-un-blog-avec-des-commentaires)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/915379-tp-un-blog-avec-des-commentaires](__MASK_3126__)
         
         Le blog est probablement l'application la plus courante que l'on réalise en PHP avec MySQL. Bien qu'il soit conseillé d'utiliser un système tout prêt (en téléchargeant Wordpress ou Dotclear, par exemple), en créer un de toutes pièces est un excellent exercice.
         
@@ -3788,7 +3788,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Les jointures entre tables
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916084-les-jointures-entre-tables](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916084-les-jointures-entre-tables)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916084-les-jointures-entre-tables](__MASK_3129__)
         
         MySQL permet de travailler avec plusieurs tables à la fois. Un des principaux intérêts d'une base de données est de pouvoir créer des relations entre les tables, de pouvoir les lier entre elles.
         
@@ -4035,7 +4035,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Créez des images en PHP
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916429-creez-des-images-en-php](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916429-creez-des-images-en-php)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916429-creez-des-images-en-php](__MASK_3134__)
         
         Vous savez quoi ? Il y a des gens qui croient que le PHP n'est fait que pour générer des pages web ! Si, si, je vous jure !
         
@@ -4595,11 +4595,11 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Des fonctions plus avancées de GD permettent de fusionner des images ou d'en redimensionner.
     - Les expressions régulières (partie 1/2)
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916990-les-expressions-regulieres-partie-1-2](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916990-les-expressions-regulieres-partie-1-2)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916990-les-expressions-regulieres-partie-1-2](__MASK_3135__)
         
         [918836_teaser_picture_1571132898.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/918836_teaser_picture_1571132898%203.jpg3fr3dpad)
         
-        [https://vimeo.com/91623042](https://vimeo.com/91623042)
+        [https://vimeo.com/91623042](__MASK_3137__)
         
         - Les expressions régulières sont des outils de recherche et de remplacement de texte très avancés qui permettent d'effectuer des recherches très précises, pour vérifier par exemple que le texte saisi par l'utilisateur correspond bien à la forme d'une adresse e-mail ou d'un numéro de téléphone.
         - La fonction`preg_match`vérifie si un texte correspond à la forme décrite par une expression régulière.
@@ -4608,9 +4608,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Les quantificateurs permettent d'exiger la répétition d'une chaîne de texte un certain nombre de fois.
     - Les expressions régulières (partie 2/2)
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/917386-les-expressions-regulieres-partie-2-2](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/917386-les-expressions-regulieres-partie-2-2)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/917386-les-expressions-regulieres-partie-2-2](__MASK_3138__)
         
-        [https://vimeo.com/91623043](https://vimeo.com/91623043)
+        [https://vimeo.com/91623043](__MASK_3139__)
         
         Fonctionnement de la fonction preg_replace
         
@@ -4624,7 +4624,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Dans le cas d'un remplacement, les parenthèses au sein d'une expression régulière permettent de capturer une portion de texte pour la réutiliser dans une autre chaîne.
     - TP : créez un espace membres
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/917948-tp-creez-un-espace-membres](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/917948-tp-creez-un-espace-membres)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/917948-tp-creez-un-espace-membres](__MASK_3140__)
         
         Afin de créer un espace communautaire sur leur site web, la plupart des webmasters ont recours à un système de gestion des membres. Cela leur permet de fidéliser leurs visiteurs, qui peuvent alors participer plus facilement à la vie du site.
         
@@ -4869,7 +4869,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Comment aller plus loin ?
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4778351-comment-aller-plus-loin](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4778351-comment-aller-plus-loin)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/4778351-comment-aller-plus-loin](__MASK_3141__)
         
         
         
@@ -4880,7 +4880,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Envoyez votre site sur le web
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/918167-envoyez-votre-site-sur-le-web](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/918167-envoyez-votre-site-sur-le-web)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/918167-envoyez-votre-site-sur-le-web](__MASK_3142__)
         
         
         
@@ -4921,7 +4921,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         - Pour vous connecter au serveur, vous avez besoin de trois informations : l'adresse IP du serveur (ou son nom d'hôte), votre login et votre mot de passe. Ceux-ci vous sont fournis par votre hébergeur.
     - Protégez un dossier avec un .htaccess
         
-        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/918580-protegez-un-dossier-avec-un-htaccess](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/918580-protegez-un-dossier-avec-un-htaccess)
+        [https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/918580-protegez-un-dossier-avec-un-htaccess](__MASK_3143__)
         
         Lorsque vous réalisez votre site en PHP, vous êtes souvent amenés à créer une zone « Admin » où l'accès est limité… Et il vaut mieux, vu que les personnes qui ont accès à la zone Admin peuvent en général tout supprimer si elles le désirent.
         
@@ -5075,7 +5075,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
 - Un site web dynamique avec jQuery !
     
-    [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery)
+    [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery](__MASK_3144__)
     
     *Bien le bonjour à vous ! JavaScript est un langage devenu incontournable en l'espace de quelques années, principalement dans le paysage du web. Et pour cause ! C'est une technologie complète, qui regroupe un nombre impressionnant d'outils permettant de dynamiser vos pages web et de leur donner une toute autre dimension. Comme toutes les grandes technologies, JavaScript a une grande communauté. Et comme toutes les grandes communautés, celle de JavaScript a vite ressenti le besoin d'améliorer les possibilités du langage, notamment par des frameworks. **jQuery est l'un d'eux**.*
     
@@ -5098,7 +5098,7 @@ imgUrl: ../../../../../assets/astro.jpeg
     
     - jQuery : l'histoire d'un framework !
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568058-jquery-lhistoire-dun-framework](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568058-jquery-lhistoire-dun-framework)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568058-jquery-lhistoire-dun-framework](__MASK_3147__)
         
         Pour bien nous situer dans cet univers de développement web, il est bon de contextualiser un peu la chose. C'est également **le choix que nous souhaitons faire pour ce tutoriel**. Avant de chercher à aborder jQuery, commençons déjà par poser les bases de la philosophie du framework dans votre tête. Pas de code ici, juste de l'histoire et des réponses aux questions basiques qui vous trottent dans la tête.
         
@@ -5222,7 +5222,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - De quels outils a-t-on besoin ?
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568239-de-quels-outils-a-t-on-besoin](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568239-de-quels-outils-a-t-on-besoin)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568239-de-quels-outils-a-t-on-besoin](__MASK_3149__)
         
         La préparation est probablement l'élément le plus important, quel que soit le projet que vous souhaitez mener, et ce, pas seulement en développement.
         
@@ -5334,7 +5334,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Rappels généraux sur JavaScript
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568273-rappels-generaux-sur-javascript](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568273-rappels-generaux-sur-javascript)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568273-rappels-generaux-sur-javascript](__MASK_3156__)
         
         
         
@@ -5431,7 +5431,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Vos premiers pas avec jQuery !
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568377-vos-premiers-pas-avec-jquery](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568377-vos-premiers-pas-avec-jquery)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568377-vos-premiers-pas-avec-jquery](__MASK_3158__)
         
         Nous voici maintenant dans la vraie phase d'apprentissage de jQuery. C'est ici que l'on va commencer à taper nos premiers codes sources en jQuery.
         
@@ -5708,7 +5708,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Les sélecteurs
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568515-les-selecteurs](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568515-les-selecteurs)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568515-les-selecteurs](__MASK_3161__)
         
         
         
@@ -5929,7 +5929,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - jQuery et les événements
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568731-jquery-et-les-evenements](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568731-jquery-et-les-evenements)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568731-jquery-et-les-evenements](__MASK_3162__)
         
         En jQuery, vous aurez presque tout le temps à travailler avec ce que l'on appelle des **évènements**, (*events* en anglais)... Nous allons voir ce que c'est dans ce chapitre. Qui sont-ils ? A quoi vont-ils nous servir, surtout et comment les aborder dans notre code jQuery ?
         
@@ -6173,7 +6173,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Manipuler le code CSS avec jQuery
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568783-manipuler-le-code-css-avec-jquery](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568783-manipuler-le-code-css-avec-jquery)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568783-manipuler-le-code-css-avec-jquery](__MASK_3165__)
         
         La manipulation du code CSS en jQuery se fait de manière rapide et efficace. En effet, il est possible d'accéder à toutes les propriétés existantes, et plus encore, comme récupérer des données stylisantes. Les différentes positions sont également une part importante de la modification du style par jQuery ; ce chapitre sera dédié à l'étude de tout cela. :)
         
@@ -6284,7 +6284,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - TP : le formulaire interactif
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568872-tp-le-formulaire-interactif](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568872-tp-le-formulaire-interactif)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1568872-tp-le-formulaire-interactif](__MASK_3166__)
         
         
         
@@ -6588,7 +6588,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Des effets sur votre site avec jQuery !
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569076-des-effets-sur-votre-site-avec-jquery](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569076-des-effets-sur-votre-site-avec-jquery)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569076-des-effets-sur-votre-site-avec-jquery](__MASK_3167__)
         
         
         
@@ -6604,7 +6604,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Manier les attributs
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569131-manier-les-attributs](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569131-manier-les-attributs)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569131-manier-les-attributs](__MASK_3168__)
         
         
         
@@ -6746,7 +6746,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Parcourir les éléments du DOM
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569211-parcourir-les-elements-du-dom](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569211-parcourir-les-elements-du-dom)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569211-parcourir-les-elements-du-dom](__MASK_3169__)
         
         Le parcours du DOM permet de se déplacer aisément sur la page, afin de récupérer certains éléments HTML. Un peu comme pour les sélecteurs, il faudra bien comprendre le principe de la descendance, car c'est un concept très puissant et très utilisé dans les langages orienté objet comme JavaScript, rappelez-vous-en !
         
@@ -6894,7 +6894,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Manipuler le code HTML avec jQuery
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569341-manipuler-le-code-html-avec-jquery](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569341-manipuler-le-code-html-avec-jquery)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569341-manipuler-le-code-html-avec-jquery](__MASK_3170__)
         
         Nous arrivons enfin au dernier chapitre d'apprentissage dans cette troisième partie consacrée au DOM ! C'en est d'ailleurs le cours le plus intéressant, mais aussi le plus long dans la mesure où il y a beaucoup de fonctions à retenir ; pas d'inquiétude à avoir cependant, car nous allons voir **pas à pas** comment manipuler le contenu, mais aussi la structure d'une page HTML !
         
@@ -7189,7 +7189,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - TP : le carrousel
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569419-tp-le-carrousel](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569419-tp-le-carrousel)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569419-tp-le-carrousel](__MASK_3171__)
         
         
         
@@ -7510,7 +7510,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - AJAX : les requêtes HTTP par l'objet XmlHttpRequest
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569531-ajax-les-requetes-http-par-lobjet-xmlhttprequest](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569531-ajax-les-requetes-http-par-lobjet-xmlhttprequest)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569531-ajax-les-requetes-http-par-lobjet-xmlhttprequest](__MASK_3174__)
         
         Vous qui êtes développeur JavaScript, vous savez très certainement qu'utiliser AJAX sur son site peut rapidement devenir une galère sans nom.
         
@@ -7707,7 +7707,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Le fonctionnement de $.ajax()
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569648-le-fonctionnement-de-ajax](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569648-le-fonctionnement-de-ajax)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569648-le-fonctionnement-de-ajax](__MASK_3182__)
         
         
         
@@ -7824,7 +7824,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         Nous avons une bonne nouvelle pour vous, votre requête HTTP fonctionne ! Si les scripts`more_come.php`ou`send_mail.php`fonctionnent aussi, ils réalisent leur boulot côté serveur, avant de nous envoyer une réponse. Seulement, on a toujours un petit problème côté client, nous n'avons rien pour traiter le retour ! Nous allons remédier à cela tout de suite, grâce à trois nouveaux paramètres de`$.ajax()`.
         
-        ### Les paramètres success, error et complete !
+        ### Les paramètres success, error et complète !
         
         Votre requête HTTP est donc prête, et pour peu que votre script côté serveur soit présent et fonctionnel, elle a toutes les chances de marcher. Après avoir fait son boulot, le serveur nous renvoie quelque chose. Manque de bol, nous n'avons rien pour gérer le retour de`$.ajax()`. Les paramètres`complete`,`success`et`error`vont nous être très utiles !
         
@@ -8105,7 +8105,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Cas concret : un formulaire de connexion avec AJAX
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569693-cas-concret-un-formulaire-de-connexion-avec-ajax](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569693-cas-concret-un-formulaire-de-connexion-avec-ajax)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569693-cas-concret-un-formulaire-de-connexion-avec-ajax](__MASK_3184__)
         
         
         
@@ -8350,7 +8350,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Les évènements AJAX
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569725-les-evenements-ajax](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569725-les-evenements-ajax)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569725-les-evenements-ajax](__MASK_3185__)
         
         
         
@@ -8446,7 +8446,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - La méthode load() !
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569757-la-methode-load](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569757-la-methode-load)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569757-la-methode-load](__MASK_3187__)
         
         
         
@@ -8521,7 +8521,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - TP : le tchat en AJAX
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569840-tp-le-tchat-en-ajax](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569840-tp-le-tchat-en-ajax)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569840-tp-le-tchat-en-ajax](__MASK_3188__)
         
         
         
@@ -8869,7 +8869,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - La documentation de jQuery
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569892-la-documentation-de-jquery](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569892-la-documentation-de-jquery)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569892-la-documentation-de-jquery](__MASK_3189__)
         
         RTFM : Lis le p***** de manuel !
         
@@ -8946,7 +8946,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Les interfaces utilisateur : jQuery UI
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569983-les-interfaces-utilisateur-jquery-ui](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569983-les-interfaces-utilisateur-jquery-ui)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1569983-les-interfaces-utilisateur-jquery-ui](__MASK_3195__)
         
         Au fil de son succès, le framework s'est décliné en plusieurs plugins, pour la majorité des créations amateurs, comme vous le savez déjà. Sachez qu'il existe également des plugins officiels, réalisés par la firme jQuery elle-même. Pour le moment au nombre de deux, **jQuery UI** et **jQuery Mobile** sont des plugins jQuery que vous utiliserez peut-être au cours de votre nouvelle vie d'utilisateur de la librairie. Comme le titre de ce chapitre l'indique, nous allons présenter le premier : jQuery UI. :D
         
@@ -9070,7 +9070,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Le framework mobile : jQuery Mobile
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1570144-le-framework-mobile-jquery-mobile](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1570144-le-framework-mobile-jquery-mobile)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1570144-le-framework-mobile-jquery-mobile](__MASK_3204__)
         
         Apparu il y a peu de temps, jQuery Mobile est un nouveau framework qui fait de plus en plus parler de lui, à cette époque où la navigation mobile croît de façon hallucinante. Cela permet aux développeurs de réaliser de véritables applications pour leur(s) site(s) web, et d'offrir une expérience utilisateur très sophistiquée sur presque toutes les plateformes. Comme d'habitude, le mot d'ordre est « simplicité », et nous allons voir qu'il est vraiment très aisé de mettre en place une version mobile de son site.
         
@@ -9328,7 +9328,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Programmez vos jeux avec gameQuery
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1570305-programmez-vos-jeux-avec-gamequery](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1570305-programmez-vos-jeux-avec-gamequery)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1570305-programmez-vos-jeux-avec-gamequery](__MASK_3213__)
         
         Né il y a peu de temps, ce plugin va vous permettre de réaliser vos propres jeux vidéos en jQuery ! Il a été créé par un développeur suisse, dont le souhait est de rendre la création de jeux vidéos sur navigateurs plus facile. En effet, vous n'êtes pas sans savoir que les nouvelles normes HTML5 et CSS3 permettent de nouvelles choses en terme d'expérience utilisateur. Les jeux vidéos sur navigateur ont vu le jour il y a déjà quelques années, mais leur création s'est vue grandement facilitée par l'arrivée de nouvelles technologies.
         
@@ -9751,7 +9751,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - D'autres plugins utiles
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1570360-dautres-plugins-utiles](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1570360-dautres-plugins-utiles)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1570360-dautres-plugins-utiles](__MASK_3217__)
         
         
         
@@ -9885,7 +9885,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Étendre le framework
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1570458-etendre-le-framework](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1570458-etendre-le-framework)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1570458-etendre-le-framework](__MASK_3225__)
         
         
         
@@ -9921,7 +9921,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Mémento des principales fonctions
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1571114-memento-des-principales-fonctions](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1571114-memento-des-principales-fonctions)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1571114-memento-des-principales-fonctions](__MASK_3226__)
         
         
         
@@ -10008,7 +10008,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - D'autres frameworks JavaScript
         
-        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1571173-dautres-frameworks-javascript](https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1571173-dautres-frameworks-javascript)
+        [https://openclassrooms.com/fr/courses/1567926-un-site-web-dynamique-avec-jquery/1571173-dautres-frameworks-javascript](__MASK_3243__)
         
         
         
@@ -10022,7 +10022,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
 - Passez au Full stack avec Node.js, Express et MongoDB
     
-    [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb)
+    [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb](__MASK_3246__)
     
     JavaScript reste-t-il uniquement un langage de front-end ? Plus maintenant ! Avec Node, Express et MongoDB, vous pouvez utiliser vos compétences de ninja JavaScript pour le **back-end** !
     
@@ -10040,9 +10040,9 @@ imgUrl: ../../../../../assets/astro.jpeg
     
     - Configurez votre environnement de développement
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466206-configurez-votre-environnement-de-developpement](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466206-configurez-votre-environnement-de-developpement)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466206-configurez-votre-environnement-de-developpement](__MASK_3248__)
         
-        [https://vimeo.com/373138409/](https://vimeo.com/373138409/)
+        [https://vimeo.com/373138409/](__MASK_3249__)
         
         Avant de pouvoir commencer à coder, vous devrez installer quelques outils. Commençons par installer le *runtime* de Node.
         
@@ -10078,7 +10078,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         ng serve
         ```
         
-        Cela installera toutes les dépendances requises par l'application front-end et lancera le serveur de développement. Désormais, si vous accédez à [http://localhost:4200](http://localhost:4200/), vous devriez voir l'interface suivante (en supposant que vous avez bien suivi les étapes ci-dessus) :
+        Cela installera toutes les dépendances requises par l'application front-end et lancera le serveur de développement. Désormais, si vous accédez à [http://localhost:4200](__MASK_3253__), vous devriez voir l'interface suivante (en supposant que vous avez bien suivi les étapes ci-dessus) :
         
         
         
@@ -10092,11 +10092,11 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Démarrez votre serveur Node
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466231-demarrez-votre-serveur-node](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466231-demarrez-votre-serveur-node)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466231-demarrez-votre-serveur-node](__MASK_3254__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282.jpg3fr3dpad)
         
-        [https://vimeo.com/373138160/](https://vimeo.com/373138160/)
+        [https://vimeo.com/373138160/](__MASK_3256__)
         
         ### Qu'est-ce que Node ?
         
@@ -10110,7 +10110,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         À partir de votre dossier `backend` , exécutez la commande de terminal `npm init` pour initialiser votre projet. Vous pouvez utiliser les options par défaut ou les modifier si vous le souhaitez. Cependant, votre point d'entrée doit être `server.js` . Vous le créerez bientôt.
         
-        [https://vimeo.com/374617448/](https://vimeo.com/374617448/)
+        [https://vimeo.com/374617448/](__MASK_3257__)
         
         Ce processus génère un fichier `package.json` vierge, dans lequel seront enregistrés les détails de tous les packages `npm` que nous utiliserons pour ce projet.
         
@@ -10120,7 +10120,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         ### Démarrez un serveur basique
         
-        [https://vimeo.com/374617465/](https://vimeo.com/374617465/)
+        [https://vimeo.com/374617465/](__MASK_3258__)
         
         Pour créer un serveur Node dans votre fichier `server.js` , il vous faudra le code suivant :
         
@@ -10141,11 +10141,11 @@ imgUrl: ../../../../../assets/astro.jpeg
         - soit la variable d'environnement du port grâce à `process.env.PORT` : si la plateforme de déploiement propose un port par défaut, c'est celui-ci qu'on écoutera ;
         - soit le port 3000, ce qui nous servira dans le cas de notre plateforme de développement.
         
-        Démarrez le serveur en exécutant `node server` à partir de la ligne de commande. Pour vérifier qu'il envoie la réponse correcte, utilisez une fenêtre de navigateur pour accéder à [http://localhost:3000](http://localhost:3000/) (en supposant que vous ayez bien suivi les étapes ci-dessus).
+        Démarrez le serveur en exécutant `node server` à partir de la ligne de commande. Pour vérifier qu'il envoie la réponse correcte, utilisez une fenêtre de navigateur pour accéder à [http://localhost:3000](__MASK_3259__) (en supposant que vous ayez bien suivi les étapes ci-dessus).
         
-        Vous pouvez également utiliser un outil de test tel que [Postman](https://www.getpostman.com/) pour effectuer une requête GET (ou tout autre type de requête d'ailleurs, car notre serveur ne fait actuellement aucune distinction !) vers la même URL : [http://localhost:3000](http://localhost:3000/) (à nouveau, en supposant que vous ayez bien suivi les étapes ci-dessus).
+        Vous pouvez également utiliser un outil de test tel que [Postman](https://www.getpostman.com/) pour effectuer une requête GET (ou tout autre type de requête d'ailleurs, car notre serveur ne fait actuellement aucune distinction !) vers la même URL : [http://localhost:3000](__MASK_3261__) (à nouveau, en supposant que vous ayez bien suivi les étapes ci-dessus).
         
-        [https://vimeo.com/374617488/](https://vimeo.com/374617488/)
+        [https://vimeo.com/374617488/](__MASK_3262__)
         
         Pour simplifier le développement Node, vous souhaiterez peut-être installer `nodemon` . Pour ce faire, exécutez la commande suivante :
         
@@ -10159,17 +10159,17 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Créez une application Express
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466277-creez-une-application-express](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466277-creez-une-application-express)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466277-creez-une-application-express](__MASK_3263__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%201.jpg3fr3dpad)
         
-        [https://vimeo.com/373138219/](https://vimeo.com/373138219/)
+        [https://vimeo.com/373138219/](__MASK_3265__)
         
         Coder des serveurs Web en Node pur est possible, mais long et laborieux. En effet, cela exige d'analyser manuellement chaque demande entrante. L'utilisation du framework Express simplifie ces tâches, en nous permettant de déployer nos API beaucoup plus rapidement. Installons-le maintenant.
         
         ### Installez Express
         
-        [https://vimeo.com/374617506/](https://vimeo.com/374617506/)
+        [https://vimeo.com/374617506/](__MASK_3266__)
         
         Pour ajouter Express à votre projet, exécutez la commande suivante à partir de votre dossier `backend` :
         
@@ -10189,7 +10189,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         ### Exécutez l'application Express sur le serveur Node
         
-        [https://vimeo.com/374617323/](https://vimeo.com/374617323/)
+        [https://vimeo.com/374617323/](__MASK_3267__)
         
         Revenez à votre fichier `server.js` et modifiez-le comme suit :
         
@@ -10225,7 +10225,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         Une application Express est fondamentalement une série de fonctions appelées ***middleware***. Chaque élément de *middleware* reçoit les objets `request` et`response` , peut les lire, les analyser et les manipuler, le cas échéant. Le *middleware* Express reçoit également la méthode `next` , qui permet à chaque *middleware* de passer l'exécution au *middleware* suivant. Voyons comment tout cela fonctionne.
         
-        [https://vimeo.com/374617346/](https://vimeo.com/374617346/)
+        [https://vimeo.com/374617346/](__MASK_3268__)
         
         ```
         const express = require('express');
@@ -10327,13 +10327,13 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Créez une route GET
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466298-creez-une-route-get](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466298-creez-une-route-get)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466298-creez-une-route-get](__MASK_3269__)
         
-        [https://vimeo.com/373138300/](https://vimeo.com/373138300/)
+        [https://vimeo.com/373138300/](__MASK_3270__)
         
         Il est temps d'ajouter les fonctionnalités dont notre application front-end a besoin et de regarder le système complet prendre forme !
         
-        Votre application front-end doit s'exécuter dans un navigateur. Exécutez donc `ng serve` à partir du répertoire front-end, accédez à [http://localhost:4200](http://localhost:4200/) avec votre navigateur puis cliquez sur « Parties 1 + 2 ».
+        Votre application front-end doit s'exécuter dans un navigateur. Exécutez donc `ng serve` à partir du répertoire front-end, accédez à [http://localhost:4200](__MASK_3271__) avec votre navigateur puis cliquez sur « Parties 1 + 2 ».
         
         ### Remettre des articles en vente
         
@@ -10373,7 +10373,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         CORS signifie « **Cross Origin Resource Sharing** ». Il s'agit d'un système de sécurité qui, par défaut, bloque les appels HTTP d'être effectués entre des serveurs différents, ce qui empêche donc les requêtes malveillantes d'accéder à des ressources sensibles. Dans notre cas, nous avons deux origines : `localhost:3000` et `localhost:4200` , et nous souhaiterions qu'elles puissent communiquer entre elles. Pour cela, nous devons ajouter des headers à notre objet `response` .
         
-        [https://vimeo.com/374617404/](https://vimeo.com/374617404/)
+        [https://vimeo.com/374617404/](__MASK_3272__)
         
         De retour au fichier `app.js` , ajoutez le *middleware* suivant avant la route d'API :
         
@@ -10400,13 +10400,13 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Créez une route POST
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466326-creez-une-route-post](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466326-creez-une-route-post)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466326-creez-une-route-post](__MASK_3273__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%202.jpg3fr3dpad)
         
-        [https://vimeo.com/373128869/](https://vimeo.com/373128869/)
+        [https://vimeo.com/373128869/](__MASK_3275__)
         
-        [https://vimeo.com/374617427/](https://vimeo.com/374617427/)
+        [https://vimeo.com/374617427/](__MASK_3276__)
         
         Dans cette première partie du cours, vous avez :
         
@@ -10418,15 +10418,15 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Configurez votre base de données
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466348-configurez-votre-base-de-donnees](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466348-configurez-votre-base-de-donnees)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466348-configurez-votre-base-de-donnees](__MASK_3277__)
         
-        [https://vimeo.com//373128974/](https://vimeo.com//373128974/)
+        [https://vimeo.com//373128974/](__MASK_3278__)
         
         Jusqu'à présent, nous n'avons pas pu faire persister de données ou rendre notre application entièrement dynamique. Mais tout cela est sur le point de changer, car nous intégrons la couche de base de données de notre serveur : MongoDB.
         
         Bien qu'il soit possible de télécharger et d'exécuter MongoDB sur votre propre machine (reportez-vous au [site Web de MongoDB](https://www.mongodb.com/download-center?initial=true#community) pour en savoir plus), pour ce cours nous utiliserons la couche gratuite de MongoDB Atlas, la « database as a service » (base de données en tant que service).
         
-        [https://vimeo.com/374618951/](https://vimeo.com/374618951/)
+        [https://vimeo.com/374618951/](__MASK_3280__)
         
         Accédez au [site Web de MongoDB](https://www.mongodb.com/cloud/atlas) et inscrivez-vous pour obtenir un compte gratuit. Une fois que vous avez accès à votre tableau de bord, créez un *cluster* puis configurez-le avec l'**option AWS** et **uniquement les options gratuites** afin de pouvoir développer gratuitement.
         
@@ -10470,17 +10470,17 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Créez un schéma de données
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466362-creez-un-schema-de-donnees](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466362-creez-un-schema-de-donnees)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466362-creez-un-schema-de-donnees](__MASK_3282__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%203.jpg3fr3dpad)
         
-        [https://vimeo.com/373129062/](https://vimeo.com/373129062/)
+        [https://vimeo.com/373129062/](__MASK_3284__)
         
         L'un des avantages que nous avons à utiliser Mongoose pour gérer notre base de données MongoDB est que nous pouvons implémenter des schémas de données stricts, qui permettent de rendre notre application plus robuste. Commençons par créer un schéma **Thing** (« chose ») pour tout objet mis en vente dans notre application.
         
         ### Créez un schéma Thing
         
-        [https://vimeo.com/374619026/](https://vimeo.com/374619026/)
+        [https://vimeo.com/374619026/](__MASK_3285__)
         
         Dans votre dossier `backend` , créez un dossier appelé `models` et, dans ce nouveau dossier, un fichier appelé `thing.js` :
         
@@ -10507,17 +10507,17 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Enregistrez et récupérez des données
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466398-enregistrez-et-recuperez-des-donnees](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466398-enregistrez-et-recuperez-des-donnees)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466398-enregistrez-et-recuperez-des-donnees](__MASK_3286__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%204.jpg3fr3dpad)
         
-        [https://vimeo.com/373129161/](https://vimeo.com/373129161/)
+        [https://vimeo.com/373129161/](__MASK_3288__)
         
         En utilisant le modèle Thing que nous avons créé dans le chapitre précédent, nous allons exploiter Mongoose. Vous verrez que l'enregistrement et la récupération de données dans la base de données est un jeu d'enfant ! Commençons par implémenter correctement notre route POST.
         
         ### Enregistrement des Things dans la base de données
         
-        [https://vimeo.com/374619056/](https://vimeo.com/374619056/)
+        [https://vimeo.com/374619056/](__MASK_3289__)
         
         Pour pouvoir utiliser notre nouveau modèle Mongoose dans l'application, nous devons l'importer dans le fichier `app.js` :
         
@@ -10551,7 +10551,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         ### Récupération de la liste de Things en vente
         
-        [https://vimeo.com/374619096/](https://vimeo.com/374619096/)
+        [https://vimeo.com/374619096/](__MASK_3291__)
         
         Désormais, nous pouvons implémenter notre route GET afin qu'elle renvoie tous les `Things` dans la base de données :
         
@@ -10567,7 +10567,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         En revanche, si vous cliquez sur l'un des `Things` , l'affichage d'un seul élément ne fonctionne pas. En effet, il tente d'effectuer un appel GET différent pour trouver un `Thing` individuel. Implémentons cette route maintenant.
         
-        [https://vimeo.com/374618836/](https://vimeo.com/374618836/)
+        [https://vimeo.com/374618836/](__MASK_3292__)
         
         Ajoutons une autre route à notre application, juste après notre route POST :
         
@@ -10593,15 +10593,15 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Modifiez et supprimez des données
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466426-modifiez-et-supprimez-des-donnees](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466426-modifiez-et-supprimez-des-donnees)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466426-modifiez-et-supprimez-des-donnees](__MASK_3293__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%205.jpg3fr3dpad)
         
-        [https://vimeo.com/373129265/](https://vimeo.com/373129265/)
+        [https://vimeo.com/373129265/](__MASK_3295__)
         
         ### Mettez à jour un Thing existant
         
-        [https://vimeo.com/374618877/](https://vimeo.com/374618877/)
+        [https://vimeo.com/374618877/](__MASK_3296__)
         
         Ajoutons une autre route à notre application, juste en dessous de notre route GET individuelle. Cette fois, elle répondra aux requêtes PUT :
         
@@ -10619,7 +10619,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         Vous pouvez maintenant tester votre nouvelle route : cliquez sur un `Thing` de l'application, puis sur son bouton Modifier, changez ses paramètres puis sauvegardez. Vous envoyez alors un `Thing` modifié au back-end. En revenant sur la page des articles, vous devriez retrouver votre article modifié.
         
-        [https://vimeo.com/374618919/](https://vimeo.com/374618919/)
+        [https://vimeo.com/374618919/](__MASK_3297__)
         
         Il est temps d'ajouter une dernière route, la route DELETE :
         
@@ -10652,17 +10652,17 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Optimisez la structure du back-end
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466459-optimisez-la-structure-du-back-end](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466459-optimisez-la-structure-du-back-end)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466459-optimisez-la-structure-du-back-end](__MASK_3298__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%206.jpg3fr3dpad)
         
-        [https://vimeo.com/373129314/](https://vimeo.com/373129314/)
+        [https://vimeo.com/373129314/](__MASK_3300__)
         
         Avant de nous lancer dans le sujet complexe qu'est l'authentification, nous allons réorganiser la structure de notre back-end pour en faciliter la compréhension et la gestion. Il est techniquement possible de conserver toute notre logique dans le fichier `app.js` , mais ce fichier peut vite devenir bien trop volumineux, ce qui compliquerait la gestion. Par conséquent, rendons les choses un peu plus modulaires.
         
         ### Configurez le routage
         
-        [https://vimeo.com/374619536/](https://vimeo.com/374619536/)
+        [https://vimeo.com/374619536/](__MASK_3301__)
         
         La première chose que nous allons faire est de dissocier notre logique de *routing* et la logique globale de l'application. Créez, dans votre dossier `backend` , un dossier `routes` puis, dans ce nouveau dossier, un fichier `stuff.js` . Celui-ci contiendra la logique de nos routes `stuff` :
         
@@ -10799,7 +10799,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         ### Configurez les contrôleurs
         
-        [https://vimeo.com/374619572/](https://vimeo.com/374619572/)
+        [https://vimeo.com/374619572/](__MASK_3302__)
         
         Pour rendre notre structure encore plus modulaire, simplifier la lecture et la gestion de notre code, nous allons séparer la logique métier de nos routes en contrôleurs.
         
@@ -10968,11 +10968,11 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Préparez la base de données pour les informations d'authentification
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466473-preparez-la-base-de-donnees-pour-les-informations-dauthentification](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466473-preparez-la-base-de-donnees-pour-les-informations-dauthentification)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466473-preparez-la-base-de-donnees-pour-les-informations-dauthentification](__MASK_3303__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%207.jpg3fr3dpad)
         
-        [https://vimeo.com/373134554/](https://vimeo.com/373134554/)
+        [https://vimeo.com/373134554/](__MASK_3305__)
         
         ### Comprenez le stockage de mot de passe sécurisé
         
@@ -10984,7 +10984,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         ### Créez un modèle de données
         
-        [https://vimeo.com/374619621](https://vimeo.com/374619621)
+        [https://vimeo.com/374619621](__MASK_3306__)
         
         Pour s'assurer que deux utilisateurs ne peuvent pas utiliser la même adresse e-mail, nous utiliserons le mot clé `unique` pour l'attribut `email` du schéma d'utilisateur `userSchema` . Les erreurs générées par défaut par MongoDB pouvant être difficiles à résoudre, nous installerons un package de validation pour pré-valider les informations avant de les enregistrer :
         
@@ -11014,15 +11014,15 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Créez des utilisateurs
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466506-creez-des-utilisateurs](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466506-creez-des-utilisateurs)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466506-creez-des-utilisateurs](__MASK_3307__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%208.jpg3fr3dpad)
         
-        [https://vimeo.com/373129822/](https://vimeo.com/373129822/)
+        [https://vimeo.com/373129822/](__MASK_3309__)
         
         ### Configurez les routes d'authentification
         
-        [https://vimeo.com/374619645/](https://vimeo.com/374619645/)
+        [https://vimeo.com/374619645/](__MASK_3310__)
         
         Commençons par créer l'infrastructure nécessaire à nos routes d'authentification. Il nous faudra un contrôleur et un routeur, puis nous devrons enregistrer ce routeur dans notre application Express.
         
@@ -11075,7 +11075,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         ### Créez des utilisateurs
         
-        [https://vimeo.com/374619331/](https://vimeo.com/374619331/)
+        [https://vimeo.com/374619331/](__MASK_3311__)
         
         Il nous faudra le package de chiffrement `bcrypt` pour notre fonction `signup` . Installons-le donc dans notre projet :
         
@@ -11111,19 +11111,19 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Vérifiez les informations d'identification d'un utilisateur
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466533-verifiez-les-informations-didentification-dun-utilisateur](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466533-verifiez-les-informations-didentification-dun-utilisateur)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466533-verifiez-les-informations-didentification-dun-utilisateur](__MASK_3313__)
         
     - Créez des tokens d'authentification
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466557-creez-des-tokens-dauthentification](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466557-creez-des-tokens-dauthentification)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466557-creez-des-tokens-dauthentification](__MASK_3314__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%209.jpg3fr3dpad)
         
-        [https://vimeo.com/373130013/](https://vimeo.com/373130013/)
+        [https://vimeo.com/373130013/](__MASK_3316__)
         
         ### Créez des tokens d'authentification
         
-        [https://vimeo.com/374619436/](https://vimeo.com/374619436/)
+        [https://vimeo.com/374619436/](__MASK_3317__)
         
         Les *tokens* d'authentification permettent aux utilisateurs de ne se connecter qu'une seule fois à leur compte. Au moment de se connecter, ils recevront leur *token* et le renverront automatiquement à chaque requête par la suite. Ceci permettra au back-end de vérifier que la requête est authentifiée.
         
@@ -11182,13 +11182,13 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Configurez le middleware d'authentification
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466605-configurez-le-middleware-dauthentification](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466605-configurez-le-middleware-dauthentification)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466605-configurez-le-middleware-dauthentification](__MASK_3318__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%2010.jpg3fr3dpad)
         
-        [https://vimeo.com/373130160/](https://vimeo.com/373130160/)
+        [https://vimeo.com/373130160/](__MASK_3320__)
         
-        [https://vimeo.com/374619488/](https://vimeo.com/374619488/)
+        [https://vimeo.com/374619488/](__MASK_3321__)
         
         Nous allons à présent créer le *middleware* qui protégera les routes sélectionnées et vérifier que l'utilisateur est authentifié avant d'autoriser l'envoi de ses requêtes.
         
@@ -11261,17 +11261,17 @@ imgUrl: ../../../../../assets/astro.jpeg
         - comment les supprimer lorsqu'ils ne sont plus nécessaires.
     - Acceptez les fichiers entrants avec multer
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466627-acceptez-les-fichiers-entrants-avec-multer](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466627-acceptez-les-fichiers-entrants-avec-multer)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466627-acceptez-les-fichiers-entrants-avec-multer](__MASK_3322__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%2011.jpg3fr3dpad)
         
-        [https://vimeo.com/373130245/](https://vimeo.com/373130245/)
+        [https://vimeo.com/373130245/](__MASK_3324__)
         
         Dans cette dernière partie du cours, nous allons implémenter des **téléchargements de fichiers** pour que les utilisateurs puissent télécharger des images d'articles à vendre. Pour ce faire, nous utiliserons `multer` , un package qui nous permet de gérer les fichiers entrants dans les requêtes HTTP. Commençons par installer `multer` et par créer un élément de *middleware* pour gérer ces fichiers entrants.
         
         ### Configurez le *middleware* de gestion des fichiers
         
-        [https://vimeo.com/374676613/](https://vimeo.com/374676613/)
+        [https://vimeo.com/374676613/](__MASK_3325__)
         
         Nous devrons d'abord installer `multer` dans notre projet :
         
@@ -11317,15 +11317,15 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Modifiez les routes pour prendre en compte les fichiers
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466669-modifiez-les-routes-pour-prendre-en-compte-les-fichiers](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466669-modifiez-les-routes-pour-prendre-en-compte-les-fichiers)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466669-modifiez-les-routes-pour-prendre-en-compte-les-fichiers](__MASK_3326__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%2012.jpg3fr3dpad)
         
-        [https://vimeo.com/373130352/](https://vimeo.com/373130352/)
+        [https://vimeo.com/373130352/](__MASK_3328__)
         
         Pour que notre *middleware* de téléchargement de fichiers fonctionne sur nos routes, nous devrons les modifier, car le format d'une requête contenant un fichier du front-end est différent.
         
-        [https://vimeo.com/374676513/](https://vimeo.com/374676513/)
+        [https://vimeo.com/374676513/](__MASK_3329__)
         
         Tout d'abord, ajoutons notre *middleware* `multer` à notre route POST dans notre routeur `stuff` :
         
@@ -11388,7 +11388,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         Cela indique à Express qu'il faut gérer la ressource `images` de manière statique (un sous-répertoire de notre répertoire de base, `__dirname` ) à chaque fois qu'elle reçoit une requête vers la route `/images` . Enregistrez et actualisez l'application dans le navigateur ; désormais, tout devrait fonctionner correctement. Et maintenant, occupons-nous de la route PUT !
         
-        [https://vimeo.com/374676541/](https://vimeo.com/374676541/)
+        [https://vimeo.com/374676541/](__MASK_3330__)
         
         La modification de notre route PUT est sensiblement plus compliquée, car nous devons prendre en compte deux possibilités : l'utilisateur a mis à jour l'image, ou pas. Dans le premier cas, nous recevrons l'élément form-data et le fichier. Dans le second cas, nous recevrons uniquement les données JSON.
         
@@ -11433,13 +11433,13 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Développez la fonction delete du back-end
         
-        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466697-developpez-la-fonction-delete-du-back-end](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466697-developpez-la-fonction-delete-du-back-end)
+        [https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466697-developpez-la-fonction-delete-du-back-end](__MASK_3331__)
         
         [6390246_teaser_picture_1575728282.jpg%3Fr%3Dpad](Le%20code%20informatique%207a4753d7284d487ca6c7b4a0279355ae/6390246_teaser_picture_1575728282%2013.jpg3fr3dpad)
         
-        [https://vimeo.com/373130533/](https://vimeo.com/373130533/)
+        [https://vimeo.com/373130533/](__MASK_3333__)
         
-        [https://vimeo.com/374676574/](https://vimeo.com/374676574/)
+        [https://vimeo.com/374676574/](__MASK_3334__)
         
         - vous avez connecté votre application à une base de données MongoDB et, à l'aide de Mongoose, vous avez créé une API RESTful permettant les opérations CRUD (Create, Read, Update and Delete — Créer, Lire, Modifier et Supprimer)
         - vous avez implémenté une authentification sécurisée à base du *token* JWT ;
@@ -11453,11 +11453,11 @@ imgUrl: ../../../../../assets/astro.jpeg
         
 - Réalisez une application web avec React.js
     
-    [https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js](https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js)
+    [https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js](__MASK_3335__)
     
     
     
-    [https://vimeo.com/252854453](https://vimeo.com/252854453)
+    [https://vimeo.com/252854453](__MASK_3336__)
     
     React.js est devenu une référence incontournable pour le développement d'expériences utilisateurs riches dans le navigateur web, y compris sur mobiles.
     
@@ -11477,9 +11477,9 @@ imgUrl: ../../../../../assets/astro.jpeg
     
     - Découvrez l'utilité et les concepts clés de React
         
-        [https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664388-decouvrez-lutilite-et-les-concepts-cles-de-react](https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664388-decouvrez-lutilite-et-les-concepts-cles-de-react)
+        [https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664388-decouvrez-lutilite-et-les-concepts-cles-de-react](__MASK_3341__)
         
-        [https://vimeo.com/252852974](https://vimeo.com/252852974)
+        [https://vimeo.com/252852974](__MASK_3342__)
         
         
         
@@ -11493,9 +11493,9 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Démarrez facilement avec Create-React-App
         
-        [https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664801-demarrez-facilement-avec-create-react-app](https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664801-demarrez-facilement-avec-create-react-app)
+        [https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664801-demarrez-facilement-avec-create-react-app](__MASK_3343__)
         
-        [https://vimeo.com/252853037](https://vimeo.com/252853037)
+        [https://vimeo.com/252853037](__MASK_3344__)
         
         ### À quoi sert Create-React-App (« CRA ») ?
         
@@ -11618,11 +11618,11 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Modernisez votre JavaScript avec ES2015
         
-        [https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664806-modernisez-votre-javascript-avec-es2015](https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664806-modernisez-votre-javascript-avec-es2015)
+        [https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664806-modernisez-votre-javascript-avec-es2015](__MASK_3352__)
         
         
         
-        [https://vimeo.com/252853086](https://vimeo.com/252853086)
+        [https://vimeo.com/252853086](__MASK_3353__)
         
         L’univers React, comme ceux de la plupart des frameworks front-end, utilise désormais intensément des **avancées récentes de JavaScript**. Ces avancées sont apparues à partir de 2015, dans la version du langage appelée ES2015 (également connue sous le nom « ES6 »).
         
@@ -11824,11 +11824,11 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Écrivez des fonctions pures
         
-        [https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664821-ecrivez-des-fonctions-pures](https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664821-ecrivez-des-fonctions-pures)
+        [https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664821-ecrivez-des-fonctions-pures](__MASK_3356__)
         
         
         
-        [https://vimeo.com/252853121](https://vimeo.com/252853121)
+        [https://vimeo.com/252853121](__MASK_3357__)
         
         React permet de définir des composants à l’aide d’**une simple fonction**. Ce type de composant, appelé *« composant pur fonctionnel »*, doit idéalement toujours renvoyer la même chose pour les mêmes arguments, et ce sans effet de bord ni variation. On parle alors de *fonctions pures*. Cela le rend particulièrement **facile à tester**.
         
@@ -11900,11 +11900,11 @@ imgUrl: ../../../../../assets/astro.jpeg
         
     - Décrivez un composant avec JSX
         
-        [https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664826-decrivez-un-composant-avec-jsx](https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664826-decrivez-un-composant-avec-jsx)
+        [https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664826-decrivez-un-composant-avec-jsx](__MASK_3359__)
         
         
         
-        [https://vimeo.com/252853157](https://vimeo.com/252853157)
+        [https://vimeo.com/252853157](__MASK_3360__)
         
         Nous avons vu qu’il est possible de décrire nos DOM virtuels React (« grappes ») avec la fonction `React.createElement(…)` . Nous allons voir dans ce chapitre qu'il est préférable d'utiliser la syntaxe JSX, créée spécifiquement pour React.
         
@@ -17021,7 +17021,7 @@ imgUrl: ../../../../../assets/astro.jpeg
                 console.log('Uh-oh, an error occurred! : ' + error);
               },
               () => {
-                console.log('Observable complete!');
+                console.log('Observable complète!');
               }
             );
         }
@@ -17061,7 +17061,7 @@ imgUrl: ../../../../../assets/astro.jpeg
                 console.log('Uh-oh, an error occurred! : ' + error);
               },
               () => {
-                console.log('Observable complete!');
+                console.log('Observable complète!');
               }
             );
           }
@@ -17086,7 +17086,7 @@ imgUrl: ../../../../../assets/astro.jpeg
                 console.log('Uh-oh, an error occurred! : ' + error);
               },
               () => {
-                console.log('Observable complete!');
+                console.log('Observable complète!');
               }
             );
           }
@@ -24935,7 +24935,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         La fonction `charAt()` permet d'obtenir le caractère qui se trouve à une position donnée dans une chaîne. Voici sa syntaxe :
         
         ```
-        var unCaractere = chaine.charAt(position);
+        var unCaractere = chaîne.charAt(position);
         ```
         
         … où `chaine` est une chaîne de caractères, `position` est la position du caractère à extraire (attention, le premier caractère occupe la position 0, le deuxième la position 1, etc.) et `unCaractere` est la variable dans laquelle est stocké le caractère extrait.
@@ -30423,7 +30423,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         unsigned char ADC_Convert(void)
         { // start an ADC conversion and return the 8 most-significant bits of the result
             ADCON0bits.GO_DONE = 1;             // start conversion
-            while (ADCON0bits.GO_DONE == 1);    // wait for it to complete
+            while (ADCON0bits.GO_DONE == 1);    // wait for it to complète
             return ADRESH;                      // return high byte of result
         }
         ```
@@ -31581,7 +31581,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         ofy().transact(new VoidWork() {
             public void vrun() { // Tout ce qui est exécuté dans cette méthode appartient à la même transaction
-                Objet objet = ofy().load().key(cle).now();
+                Objet objet = ofy().load().key(clé).now();
                 /* Modification de l'objet... */
                 ofy().save().entity(objet);
             }
@@ -31599,7 +31599,7 @@ imgUrl: ../../../../../assets/astro.jpeg
         
         Objet monObjet = ofy().transact(new Work<Objet>() {
             public Objet run() {
-                Objet objet = ofy().load().key(cle).now();
+                Objet objet = ofy().load().key(clé).now();
                 /* Modification de l'objet... */
                 ofy().save().entity(objet);
                 return objet;
@@ -34293,7 +34293,7 @@ imgUrl: ../../../../../assets/astro.jpeg
     Pour tester une chaîne à partir d'une regex, on utilise`preg_match` :
     
     ```
-    <?php preg_match("regex","chaine"); ?>
+    <?php preg_match("regex","chaîne"); ?>
     ```
     
     Le tableau suivant présente une utilisation basique des regex.

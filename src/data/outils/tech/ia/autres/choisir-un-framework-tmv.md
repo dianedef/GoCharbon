@@ -13,4 +13,4 @@ imgUrl: ../../../../../assets/astro.jpeg
 
 starlight hyper dur a config et bug
 	impossible de autogenerate les pages des dossiers imbriqués dans la sidebar..On peut autogénérer que les dossiers de premier niveaux
-	on ne peut pas lier une page à un dossier à ma connaissance meme en mettant un index.html
+	on ne peut pas lier une page à un dossier à ma connaissance même en mettant un index.html

@@ -115,7 +115,7 @@ const debiasing = {
 - Vote pondéré
 - Méthode Delphi
 - Consensus graduel
-- Decision poker
+- Décision poker
 
 ### Framework de Décision Collective
 ```typescript
@@ -195,4 +195,4 @@ La prise de décision efficace est un muscle qui se développe. Comme le dit Ray
 - [Thinking Fast and Slow](/books/thinking-fast-slow)
 - [Principles - Ray Dalio](/books/principles)
 - [Decisive - Heath Brothers](/books/decisive)
-- [Judgment in Managerial Decision Making](/books/judgment) 
+- [Judgment in Managerial Décision Making](/books/judgment) 

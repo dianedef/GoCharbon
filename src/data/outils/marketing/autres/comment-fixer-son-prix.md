@@ -16,7 +16,7 @@ Fixer un prix 1
 
 ### Fixer le prix et la valeur du produit
 
-[https://nicolasricher.fr/blog/prix-site-wordpress/](https://nicolasricher.fr/blog/prix-site-wordpress/)
+[https://nicolasricher.fr/blog/prix-site-wordpress/](__MASK_0__)
 
 Si vous avez déjà acheté des produits inutiles lors des soldes, uniquement parce que le rabais était important, alors vous avez déjà expérimenté le mécanisme des ancres.
 

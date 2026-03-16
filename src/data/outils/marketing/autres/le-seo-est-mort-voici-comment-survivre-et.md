@@ -42,7 +42,7 @@ Mon avis perso et ma visio de mon métier, c’est que le SEO, c’est avant tou
 
 En bref, l’IA est un bon outil, mais qui nécessite des compétences SEO toujours plus technique pour être bien utilisé.
 
-J’ai un point de vue assez tranché sur la question, mais pour moi l’IA (et plus particulièrement la search generative experience de Google, le fameux encart IA de réponse en haut de page) va flinguer le SEO tel que nous le connaissons. La SGE peut parfois utiliser tout l’espace écran, donc cela rend moins visible les résultats traditionnels (pour partie relégués en page 2 = quasi invisible). Et surtout la SGE donne la réponse donc bcp d’internautes s’en contenteront, d’où l’explosion des « 0 click searches », les recherches pour lesquelles les internautes n’ont pas besoin de cliquer sur un des liens proposés car Google donne la réponse directement.
+J’ai un point de vue assez tranché sur la question, mais pour moi l’IA (et plus particulièrement la search generative expérience de Google, le fameux encart IA de réponse en haut de page) va flinguer le SEO tel que nous le connaissons. La SGE peut parfois utiliser tout l’espace écran, donc cela rend moins visible les résultats traditionnels (pour partie relégués en page 2 = quasi invisible). Et surtout la SGE donne la réponse donc bcp d’internautes s’en contenteront, d’où l’explosion des « 0 click searches », les recherches pour lesquelles les internautes n’ont pas besoin de cliquer sur un des liens proposés car Google donne la réponse directement.
 
 
 Je suis d’accord a 100%.
@@ -53,18 +53,18 @@ Et peu de sites vont dire que la position 0 et autres snippets ont été bénéf
 Mais la, avec l’IA, et surtout la SGE, c’est juste que les sites n’apparaitront même plus avant un gros bloc d’IA.  
 Voici des liens intéressants sur la sge car il y a de + en + de testeurs, et donc de screenshots :
 
-- [Search Generative Experience : première prise en main du nouveau moteur de recherche de Google - Actualités SEO et moteurs - Abondance 3](https://www.abondance.com/20230526-53478-search-generative-experience-premiere-prise-en-main-du-nouveau-moteur-de-recherche-de-google.html)
+- [Search Generative Expérience : première prise en main du nouveau moteur de recherche de Google - Actualités SEO et moteurs - Abondance 3](https://www.abondance.com/20230526-53478-search-generative-experience-premiere-prise-en-main-du-nouveau-moteur-de-recherche-de-google.html)
 - [Plagiarism Engine: Google’s Content-Swiping AI Could Break the Internet | Tom's Hardware 1](https://www.tomshardware.com/news/google-sge-break-internet)
 
 C’est un peu comme apparaitre a l’heure actuelle en 20eme position sur un keyword. C’est cool d’arriver en 20eme position, mais cela ne sert a rien.
 
 Et Google l’a anticipé depuis des années a devenir un moteur de résultat, et ajouter les résultats directement dans les serp (horloge, calculatrice, mais aussi google flight, google shopping, résultats sportifs directement dans les résultats, ou l’extrait wikipedia…)
 
-Apres, tout va dépendre des niches, et si c’est un site avec du contenu d’informations, ecommerce, ou autre.
+Après, tout va dépendre des niches, et si c’est un site avec du contenu d’informations, ecommerce, ou autre.
 
 A terme, une recherche google s’effectuera comme une recherche a la bibliothèque. Si on veut avoir une réponse rapidement et qui convient a 99% des gens, l’IA donnera la bonne info, et pour les 1% restant, ils feront une recherche sur google comme ceux qui font actuellement une recherche dans les encyclopédies/bibliothèques.
 
-Apres, faut voir si c’est une vision a 5 ans ou 10 ans. Car cela évolue rapidement.  
+Après, faut voir si c’est une vision a 5 ans ou 10 ans. Car cela évolue rapidement.  
 Et puis google devra également intégrer la pub dans l’IA
 
 Mais de toute façon, le seo a tellement évolué que c’est une suite logique, et le seo n’est qu’un levier de plus pour un business pour faire plus de $.

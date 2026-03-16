@@ -24,7 +24,7 @@ PayFacile est une plateforme française no-code spécialisée dans la vente par 
 
 ### 📢 Alternative à
 
-Stripe Billing (plus simple), Chargebee, Recurly, systeme.io.
+Stripe Billing (plus simple), Chargebee, Recurly, système.io.
 
 ## ✔️ Bénéfices
 

@@ -29,7 +29,7 @@ Auto-GPT, une nouvelle technologie d'IA, cherche à surmonter les limitations de
 - Les avantages de l'IA comme Auto-GPT comprennent la réduction des coûts et de l'impact environnemental de la création de modèles d'IA et des activités liées à l'apprentissage automatique.
 - L'avenir de l'IA promet des sorties plus créatives, sophistiquées et utiles, qui auront un impact profond sur notre travail, nos loisirs et notre communication.
 
-[https://github.com/Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+[https://github.com/Significant-Gravitas/Auto-GPT](__MASK_2__)
 
 **Table des matières :**
 

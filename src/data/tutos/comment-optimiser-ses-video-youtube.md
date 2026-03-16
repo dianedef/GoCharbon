@@ -2,7 +2,7 @@
 section: tutos
 tags:
 - Tutoriels
-imageNameKey: optimiser-video-youtube
+imageNameKey: optimiser-vidéo-youtube
 u_site: null
 title: Comment Optimiser Ses Vidéo Youtube Automatiquement
 author: Diane
@@ -53,7 +53,7 @@ retrouver une partie du titre dans les tags
 
 mettre son titre en premier tag
 
-ex: filmer son ecran avec obs studio, filmer son ecran avec obs, filmer son écran, enregistrer son écran,.. logiciel capture video=non, trop éloigné du sujet
+ex: filmer son ecran avec obs studio, filmer son ecran avec obs, filmer son écran, enregistrer son écran,.. logiciel capture vidéo=non, trop éloigné du sujet
 
 #### Dispose les par Pertinence 🧩
 

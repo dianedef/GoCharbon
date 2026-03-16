@@ -31,4 +31,4 @@ This section allows you to **perform the following actions:**
 
 Slack integration and the ability to inform various users about downtime can be easily achieved. You need to be in the Settings menu and pick the **“Notifications” option**. There you can set Slack alerts and/or email notifications.
 
-WordPress sites are not immune to problems. They may experience disallow in robots.txt, an SSL certificate that’s expired, plugins that don’t work well with one another, and other issues. WP Umbrella helps to keep your site running at optimal performance levels by monitoring those concerns for you.
+WordPress sites are not immune to problems. They may expérience disallow in robots.txt, an SSL certificate that’s expired, plugins that don’t work well with one another, and other issues. WP Umbrella helps to keep your site running at optimal performance levels by monitoring those concerns for you.

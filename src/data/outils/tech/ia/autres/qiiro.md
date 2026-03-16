@@ -23,7 +23,7 @@ ouvre son capital ! 🎉
 
 🚀 Attention, places limitées ! Pour en savoir plus et être alerté de l'ouverture de la campagne, remplissez ce formulaire >
 
-[https://lnkd.in/esNzKNbQ](https://lnkd.in/esNzKNbQ)
+[https://lnkd.in/esNzKNbQ](__MASK_2__)
 
 🔥 Investir dans QiiRO, c'est possible ! Pour accélérer notre développement, nous lançons une levée de fonds avec
 

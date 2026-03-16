@@ -141,7 +141,7 @@ Marketing.
 Je suis fier de vous annoncer notre premier invité
 international : Mohamed Ali Aguel ! Fondateur de
 Momentum Marketing Tribe et grand marketer å
-succes qui représente Shopify a l'international.
+succès qui représente Shopify a l'international.
 Save the date : 3 janvier å 19h (heure de Paris)
 
 
@@ -152,9 +152,9 @@ tout dépend du type d’activité et des conditions
 par ex travailler et garder les enfants non
 ya pas de définition arrêté 
 
-la plupart des processus du cerveau se déroule sans notre conscience, les processus automatiques peuvent avoir lieu en meme temps, en revanche pas les processus nouveau conscients
+la plupart des processus du cerveau se déroule sans notre conscience, les processus automatiques peuvent avoir lieu en même temps, en revanche pas les processus nouveau conscients
 le thalamus est responsable du traitement des infos entrantes, il transmet au cortex les infos pertinentes
-la facon la plus efficace de faire est de focus. souvent on se met en danger, comme conduire et faire autre chose en meme temps : telephone en conduisant équivaut à avoir 1g d’alcool dans le sang, l’attention diminue de 40%
+la facon la plus efficace de faire est de focus. souvent on se met en danger, comme conduire et faire autre chose en même temps : telephone en conduisant équivaut à avoir 1g d’alcool dans le sang, l’attention diminue de 40%
 
 peut on vraiment écouter de la musique tout en travaillant et suivant un cours ? certains thèses soutiennent même que ça améliore la concentration. Des chercheurs de Zurich ont calculé l’activité cérébrale dans les 2 cas. Si y’a de la musique tu dois la combattre pour focaliser ton attention sur la tâche, tu épuises ton énergie pour ça
 

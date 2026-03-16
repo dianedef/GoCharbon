@@ -61,7 +61,7 @@ Pour organiser une stratégie il faut d’abord savoir où on va.
     
     Une des manières de le faire est de commenter sur les profils et posts des gens qui parlent uniquement de shopify, et apporter un max de valeur. Beaucoup de gens ne savent pas le faire ,et même en commentant 5 à 10 fois par jour ils n’arrivent pas à attirer de nouveaux followers, parce que leurs commentaires ne sont pas assez bons ou leur profils ne sont pas assez optimisés.
     
-    La bannière ne doit pas etre une distraction mais un tunnel
+    La bannière ne doit pas être une distraction mais un tunnel
     
     ## Mets-toi en retrait
     
@@ -158,9 +158,9 @@ Pour organiser une stratégie il faut d’abord savoir où on va.
 
 Today we're launching our first course: [Typefully Academy](https://email.typefully.app/e/c/eyJlbWFpbF9pZCI6IlJKT2RCZ01BQVgzRVdxZENzTGRBWEUycVg1bHZLUT09IiwiaHJlZiI6Imh0dHBzOi8vdHlwZWZ1bGx5LmFwcC9hY2FkZW15IiwiaW50ZXJuYWwiOiI5MzlkMDYwMGQzYTYwMWQ0YTYwMSIsImxpbmtfaWQiOjUyfQ/e98ea53943460227422e5372f696792996af13c58cfaa9955fd5c3058bb10b29) 🎓
 
-It's not just another course about growth hacks and cheap tricks. We created it by analyzing the **strategies of the top creators on [Typefully](https://email.typefully.app/e/c/eyJlbWFpbF9pZCI6IlJKT2RCZ01BQVgzRVdxZENzTGRBWEUycVg1bHZLUT09IiwiaHJlZiI6Imh0dHBzOi8vdHlwZWZ1bGx5LmFwcCIsImludGVybmFsIjoiOTM5ZDA2MDBkM2E2MDFkNGE2MDEiLCJsaW5rX2lkIjoxfQ/e677ef8eb9338ceb8934d82323a64477438ca187276eaa56c87d7bb88d507270)**, and applying the learnings to our own accounts.
+It's not just another course about growth hacks and cheap tricks. We created it by analyzing the **stratégies of the top creators on [Typefully](https://email.typefully.app/e/c/eyJlbWFpbF9pZCI6IlJKT2RCZ01BQVgzRVdxZENzTGRBWEUycVg1bHZLUT09IiwiaHJlZiI6Imh0dHBzOi8vdHlwZWZ1bGx5LmFwcCIsImludGVybmFsIjoiOTM5ZDA2MDBkM2E2MDFkNGE2MDEiLCJsaW5rX2lkIjoxfQ/e677ef8eb9338ceb8934d82323a64477438ca187276eaa56c87d7bb88d507270)**, and applying the learnings to our own accounts.
 
-[https://chrismakara.com/social-media/tweet-analytics/](https://chrismakara.com/social-media/tweet-analytics/)
+[https://chrismakara.com/social-media/tweet-analytics/](__MASK_20__)
 
 [Suivi des conversions pour sites Web](https://business.twitter.com/fr/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html)
 
@@ -179,7 +179,7 @@ It's not just another course about growth hacks and cheap tricks. We created it 
     
     N'oubliez pas d'ajouter votre propre spin et de tester une variété pour savoir ce qui résonne le mieux avec votre public spécifique. N'oubliez pas que la publicité numérique est extrêmement fluide, donc la meilleure stratégie de contenu est celle qui change et s'améliore constamment.
     
-    [https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/basics/what-to-tweet/GCBC-V1-bl.mp4](https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/basics/what-to-tweet/GCBC-V1-bl.mp4)
+    [https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/basics/what-to-tweet/GCBC-V1-bl.mp4](__MASK_27__)
     
     ### **Conseils rapides sur Twitter :**
     
@@ -206,7 +206,7 @@ It's not just another course about growth hacks and cheap tricks. We created it 
     
     Et j’ai pu générer plus de 2000 $ sans audience grâce à Twitter.
     
-    [https://public-files.gumroad.com/0ck5aqsvtww360vbyuxtn7t98vqe](https://public-files.gumroad.com/0ck5aqsvtww360vbyuxtn7t98vqe)
+    [https://public-files.gumroad.com/0ck5aqsvtww360vbyuxtn7t98vqe](__MASK_28__)
     
     Dans ce playbook, « **NO BULLSHIT** » je vais vous expliquer avec:
     
@@ -226,7 +226,7 @@ It's not just another course about growth hacks and cheap tricks. We created it 
     - Modèle de tweet
     - Tweet Sujet
     
-    [https://public-files.gumroad.com/0bms7s20auh2fonz5gs7kxatvurf](https://public-files.gumroad.com/0bms7s20auh2fonz5gs7kxatvurf)
+    [https://public-files.gumroad.com/0bms7s20auh2fonz5gs7kxatvurf](__MASK_29__)
     
     ### **Niveaux**
     
@@ -612,7 +612,7 @@ Twitter
     
     En plus de cela, l’application divise automatiquement le texte en tweets et le publie sous forme de fil de discussion.
     
-    Cool, n’est-ce pas? Essayez-le 👉 [https://getchirrapp.com/extension](https://getchirrapp.com/extension)
+    Cool, n’est-ce pas? Essayez-le 👉 [https://getchirrapp.com/extension](__MASK_74__)
     
 - twitter
     

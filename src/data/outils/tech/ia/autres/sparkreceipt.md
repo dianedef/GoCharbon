@@ -13,7 +13,7 @@ imgUrl: ../../../../../assets/astro.jpeg
 
 The speaker recounts their journey with AppSumo, highlighting their initial success with excellent metrics, a low refund rate, and a high taco rating. Despite AppSumo's interest in bringing them back with a Select badge, the speaker initially declined. After some persuasion from a colleague named Joel, they agreed to return for Sumo Day in June, but this deal ultimately fell through due to concerns about their finances.
 
-After boosting their Monthly Recurring Revenue (MRR) significantly, they were approved by AppSumo's partner team. However, by that time, they were experiencing strong growth outside of AppSumo, leading to a decision to proceed with the campaign despite the risks involved. They see this as a major opportunity for increased visibility, affiliate participation, and overall growth.
+After boosting their Monthly Recurring Revenue (MRR) significantly, they were approved by AppSumo's partner team. However, by that time, they were experiencing strong growth outside of AppSumo, leading to a décision to proceed with the campaign despite the risks involved. They see this as a major opportunity for increased visibility, affiliate participation, and overall growth.
 
 The speaker asks for support in the form of AppSumo reviews, Google Play ratings, and App Store ratings, expressing a desire to achieve 100x MRR in the coming year. They assure supporters that all proceeds from the campaign will be reinvested in marketing. The speaker expresses deep gratitude to their early supporters, acknowledging that their success is largely due to the initial AppSumo campaign.
 

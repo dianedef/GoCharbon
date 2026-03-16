@@ -140,7 +140,7 @@ imgUrl: ../../../assets/astro.jpeg
 
 ## Best Practices
 
-### Customer Experience
+### Customer Expérience
 1. **Relevance**
    - Context
    - Timing

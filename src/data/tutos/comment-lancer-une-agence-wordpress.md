@@ -64,7 +64,7 @@ Mais vous pouvez également tout remplacer pour qu'il reflète votre image de ma
 
 ### 1. Maintenir des Dizaines de Sites Sous Un Seul Capôt
 
-Pour commencer, WP Umbrella dispose d'un tableau de bord central où vous pouvez [gérer tous vos sites à partir d'un seul endroit] ([https://wp-umbrella.com/blog/manage-multiple-wordpress-sites-one-dashboard/](https://wp-umbrella.com/blog/manage-multiple-wordpress-sites-one-dashboard/)). Grâce aux codes couleurs (rouge, orange, vert), vous pouvez rapidement savoir quand quelque chose ne va pas et ainsi prioriser vos actions.
+Pour commencer, WP Umbrella dispose d'un tableau de bord central où vous pouvez [gérer tous vos sites à partir d'un seul endroit] ([https://wp-umbrella.com/blog/manage-multiple-wordpress-sites-one-dashboard/](__MASK_1__)). Grâce aux codes couleurs (rouge, orange, vert), vous pouvez rapidement savoir quand quelque chose ne va pas et ainsi prioriser vos actions.
 
 
 Le tableau de bord intuitif unique est conçu pour augmenter votre productivité. Vous pouvez en dire beaucoup sur vos sites Web en un coup d'œil. Par exemple, vous pouvez voir la disponibilité, les performances, les plugins obsolètes, le fournisseur d'hébergement, les problèmes PHP et les avertissements de sécurité, entre autres.

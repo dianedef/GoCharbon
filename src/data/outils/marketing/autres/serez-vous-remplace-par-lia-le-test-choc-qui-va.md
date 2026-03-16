@@ -17,7 +17,7 @@ imgUrl: ../../../../assets/astro.jpeg
 - 🤖 Demonstration of using AI like Claude to generate high-quality text content in the same writing style and tone, covering ideas from books.
 - 📝 The potential for AI to completely replace 90% of online creators within the next 2-5 years by generating similar or better text content.
 - 🧭 Importance of transitioning towards creating more human and authentic content beyond just ideas and concepts, showcasing real-life experiences.
-- 🎥 Suggestion to start testing video content featuring real-life projects aligned with the audience's aspirations.
+- 🎥 Suggestion to start testing vidéo content featuring real-life projects aligned with the audience's aspirations.
 - 👥 AI's inability to replicate genuine human presence, live interactions, and immersive experiences, creating opportunities for creators.
 - ⚠️ The urgency to prepare for the AI-driven content saturation by incorporating more humanity and authenticity into content.
 - 🔓 Exploring content that AI tools might hesitate to produce due to their constrained nature or "bridled" guidelines.

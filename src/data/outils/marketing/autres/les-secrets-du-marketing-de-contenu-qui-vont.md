@@ -22,7 +22,7 @@ imgUrl: ../../../../assets/astro.jpeg
 
 [Créer une stratégie de content marketing pour travailler votre posture d'expert - Camille Cocaud - YouTube](https://www.youtube.com/watch?v=VVNMU1X15N0&list=WL&index=397)
 
-Content is important to warm up our audience, engage andagreat way to communicate with them with value. We often need to study our target audience's curiosity, interests and emotions to help them. But usually there are3 Types of content: Educational Motivational Entertainment These are the3principles that are involved in content creation. If you make any content see these 3Principles you will choose. There's no right or wrong in content but at least engage with your audience.
+Content is important to warm up our audience, engage andagreat way to communicate with them with value. We often need to study our target audience's curiosity, interests and emotions to help them. But usually there are3 Types of content: Educational Motivational Entertainment These are the3principles that are involved in content création. If you make any content see these 3Principles you will choose. There's no right or wrong in content but at least engage with your audience.
 
 - Content Suggestions: discover and share content that your member community is interacting with
 - Community Hashtags: associate your LinkedIn Page with relevant hashtags to see and engage with trending posts
@@ -271,17 +271,17 @@ Enfin, CoSchedule dispose d’une excellente interface utilisateur qui prend en 
 
 Avec un tel éventail de fonctionnalités en un seul endroit, il ne devrait pas être surprenant d’apprendre que CoSchedule est une extension payante ; cependant, n’importe quel spécialiste du marketing de contenu sérieux peut le tester avec son essai gratuit. CoSchedule est, sans aucun doute, l’une des _meilleures_ extensions de marketing de contenu et vaut bien son prix.
 
-Tous les spécialistes du marketing de contenu n’auront pas le budget pour CoSchedule. Vous voudrez peut-être aussi découvrir cette alternative gratuite, l’extension [Editorial Calendar](https://wordpress.org/plugins/editorial-calendar/).
+Tous les spécialistes du marketing de contenu n’auront pas le budget pour CoSchedule. Vous voudrez peut-être aussi découvrir cette alternative gratuite, l’extension [Éditorial Calendar](https://wordpress.org/plugins/editorial-calendar/).
 
-Extension WordPress Editorial Calendar
+Extension WordPress Éditorial Calendar
 
-Il est compréhensible que cette extension n’ait pas les mêmes fonctionnalités que l’extension CoSchedule, mais si vous cherchez simplement un moyen facile de planifier votre contenu, alors Editorial Calendar est parfait.
+Il est compréhensible que cette extension n’ait pas les mêmes fonctionnalités que l’extension CoSchedule, mais si vous cherchez simplement un moyen facile de planifier votre contenu, alors Éditorial Calendar est parfait.
 
 Comme pour l’extension précédente, un calendrier en glisser-déposer vous permet de visualiser et de modifier facilement la date et l’heure à laquelle vos articles doivent être publiés. Cependant, aucun réseau social n’a été programmé cette fois-ci.
 
 Si vous voulez changer quand un article est planifié, tout ce que vous avez à faire est de faire glisser l’article à un autre jour et de saisir une heure personnalisée. Inutile de dire que si vous décidez de faire une planification/une replanification massive, cette extension vous fera gagner beaucoup de temps. Comparativement, aller dans l’éditeur d’articles pour effectuer les modifications manuellement à chaque fois est une perte de temps.
 
-Editorial Calendar regroupe également tous les articles qui n’ont pas encore été planifiés, de sorte que vous pouvez rapidement et facilement en insérer un dans un espace de votre calendrier de contenu. C’est là qu’il excelle vraiment – le calendrier agit comme un rappel de publication des articles non programmés, les empêchant de passer entre les mailles du filet et dans le purgatoire non publié.
+Éditorial Calendar regroupe également tous les articles qui n’ont pas encore été planifiés, de sorte que vous pouvez rapidement et facilement en insérer un dans un espace de votre calendrier de contenu. C’est là qu’il excelle vraiment – le calendrier agit comme un rappel de publication des articles non programmés, les empêchant de passer entre les mailles du filet et dans le purgatoire non publié.
 
 Pour tous les spécialistes du marketing de contenu à la recherche d’une solution gratuite pour les aider à tenir leurs calendriers de publication à jour, cette extension est un must absolu.
 
@@ -541,7 +541,7 @@ On parle tout de même de diviser les prix par 4 à 10 comparés à la publicit�
 	
 	A solid content marketing strategy builds momentum for your business that can weather the storms of other marketing fads.
 	
-	Whilst your competitors fuss over chatbots, "live" evergreen webinars and new black-hat SEO strategies, you can build an online presence that will survive when algorithms change and social media trends die out.
+	Whilst your competitors fuss over chatbots, "live" evergreen webinars and new black-hat SEO stratégies, you can build an online presence that will survive when algorithms change and social media trends die out.
 	
 	Content marketing is the turtle that beats the rabbit. Every. Time.
 	
@@ -603,11 +603,11 @@ On parle tout de même de diviser les prix par 4 à 10 comparés à la publicit�
 
 ## Création de Contenu : Attirez les Prospects Vers Vous Avec la Création de Contenu
 
-What we’re looking for from curators, for lack of a better word, is taste. The definition of _taste_ varies by topic. For some, taste may lie almost entirely in the personal preferences of each reader. But on many topics, taste comes down to having the experience to know what is true, what matters, and where there is debate. Readers have a lot of say in what curation they’ll see simply by which publications they follow. Importantly, we expect this change to do a lot for niche and specialty publications.
+What we’re looking for from curators, for lack of a better word, is taste. The definition of _taste_ varies by topic. For some, taste may lie almost entirely in the personal preferences of each reader. But on many topics, taste comes down to having the expérience to know what is true, what matters, and where there is debate. Readers have a lot of say in what curation they’ll see simply by which publications they follow. Importantly, we expect this change to do a lot for niche and specialty publications.
 
 ## **Internal Curation team**
 
-Our goal is to work in partnership with community curators to maintain a high standard for stories that get this Boost: stories that are constructive, original, written from relevant experience, well-crafted, and memorable.
+Our goal is to work in partnership with community curators to maintain a high standard for stories that get this Boost: stories that are constructive, original, written from relevant expérience, well-crafted, and memorable.
 
 6 - Stratégie de création de contenus qui convertisse du lead en client
 
@@ -619,7 +619,7 @@ Un peu en analysant plus de 3 millions d'applications mobiles et 80 millions de 
 
 Up is yoast seo yoast est l'un des meilleurs outils pour le référencement wordpress et il peut vous aider à vraiment analyser beaucoup de choses différentes c'est dans ce monde avec tout en un pack de référencement jetons un coup d'oeil à certaines des fonctionnalités si vous êtes actuellement un utilisateur de wordpress, vous devez vérifier le plugin yoast seo une fois qu'il est installé, il fonctionne en analysant la lisibilité et la convivialité de votre écriture en temps réel, cela vous donne du positif et des commentaires négatifs, il fait également beaucoup de choses sur le plan technique, il peut créer des plans de site ou bloquer des pages sur le site. la perspective d'optimisation des taux de manière à optimiser propose un ensemble complet de technologies d'optimisation de l'expérience numérique qui sont alimentées par ce logiciel d'expérimentation et ces technologies incluent la personnalisation alimentée par l'IA qui couvre les tests AV, les tests multivariants et les tests côté serveur, ce qui en fait des outils gagnants pour le contenu de référencement création, vous pouvez voir qu'il y a un mélange d'outils que nous avons là-bas certains des autres outils que j'aime vraiment crient grenouille deep crawl sem rush google search console bing webmaster tools évidemment google analytics et juste une bonne vieille recherche concurrentielle utilisez tous ces outils ensemble et vous allez être dans un endroit idéal pour votre création de contenu seo j'espère que cette vidéo vous plaira e un commentaire ci-dessous vous avez besoin d'aide n'hésitez pas à me contacter je vous verrai la prochaine fois au revoir
 
-[Plezi 🇫🇷 sur Twitter : "50% de prospects qualifiés en plus pour un coût inférieur de 33% par lead, ça vous tente ? 😏 C'est ce que génère le leadnurturing ! Et pourquoi ne pas profiter de cette période creuse pour mettre les premières briques de cette stratégie en place ?](https://twitter.com/PleziApp_FR/status/1554476834473054210) [https://t.co/YpPBfl1ytl](https://t.co/YpPBfl1ytl)" / Twitter
+[Plezi 🇫🇷 sur Twitter : "50% de prospects qualifiés en plus pour un coût inférieur de 33% par lead, ça vous tente ? 😏 C'est ce que génère le leadnurturing ! Et pourquoi ne pas profiter de cette période creuse pour mettre les premières briques de cette stratégie en place ?](https://twitter.com/PleziApp_FR/status/1554476834473054210) [https://t.co/YpPBfl1ytl](__MASK_95__)" / Twitter
 
 Modèles (templates)
 	
@@ -737,7 +737,7 @@ Changez vos abonnés et férus de gratuits vers des acheteurs de manière authen
 
 Augmentez votre audience et votre autorité de manière automatique en mettant en œuvre notre système simple et efficace.
 
-Viewers retain 95% of a message when they watch it in a video compared to 10% in text.
+Viewers retain 95% of a message when they watch it in a vidéo compared to 10% in text.
 capturer, captiver
 
 L’ère de l’infobésité
@@ -758,7 +758,7 @@ We had a fantastic webinar session with Daniel Nguyen explaining on **How to Su
 Here is what Daniel covered in the Webinar:
 The supply and demand in Google’s economy.
 Why topic discovery is so important and should be your first priority
-The "Zen metrics" - the concept that helps you filter out keywords in four different zones that fit with different timing, resources, and strategies.
+The "Zen metrics" - the concept that helps you filter out keywords in four different zones that fit with different timing, resources, and stratégies.
 
 [Outil en ligne de suppression des sauts de ligne](https://www.textfixerfr.com/outils/outil-suppression-saut-de-ligne.php)
 
@@ -778,7 +778,7 @@ ttop 10 des meilleurs
 * entrepreneurs
 * podcast
 * personnalités
-* chaines youtube
+* chaînes youtube
 * bouquins
 * formations
 * communautés

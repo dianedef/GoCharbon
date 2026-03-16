@@ -14,13 +14,13 @@ imgUrl: ../../assets/astro.jpeg
 
 **Table des matières :**
 
-[https://emoteev.io/](https://emoteev.io/)
+[https://emoteev.io/](__MASK_0__)
 
-[https://stape.io/gtm-server-blog/](https://stape.io/gtm-server-blog/)
+[https://stape.io/gtm-server-blog/](__MASK_1__)
 
 - milesmcc/shynet: Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
     
-    [https://github.com/milesmcc/shynet](https://github.com/milesmcc/shynet)
+    [https://github.com/milesmcc/shynet](__MASK_2__)
     
     
     
@@ -171,7 +171,7 @@ imgUrl: ../../assets/astro.jpeg
         
 - m
     
-    [https://www.figpii.com/dashboard/domains/315510/recordings](https://www.figpii.com/dashboard/domains/315510/recordings)
+    [https://www.figpii.com/dashboard/domains/315510/recordings](__MASK_31__)
     
     [End-to-End SaaS Analytics | HockeyStack](https://hockeystack.com/dashboard/)
     
@@ -181,9 +181,9 @@ imgUrl: ../../assets/astro.jpeg
     
 - Slimstat Analytics – The leading statistics plugin for WordPress – Discover Meaningful Patterns
     
-    [https://www.wp-slimstat.com/](https://www.wp-slimstat.com/)
+    [https://www.wp-slimstat.com/](__MASK_35__)
     
-    Slimstat transforms your most complex data into actionable insights to help you find answers fast—and make decisions even faster—with live data that connects you directly to the pulse of your business
+    Slimstat transforms your most complex data into actionable insights to help you find answers fast—and make décisions even faster—with live data that connects you directly to the pulse of your business
     
     Our optimized codebase delivers great performance and scalability. Because we believe that one size doesn’t always fit all.
     
@@ -211,9 +211,9 @@ imgUrl: ../../assets/astro.jpeg
     
 - Install & Setup Google Analytics in WordPress (3 easy methods) - YouTube
     
-    [https://www.youtube.com/watch?v=6XTcPCJEO6U](https://www.youtube.com/watch?v=6XTcPCJEO6U)
+    [https://www.youtube.com/watch?v=6XTcPCJEO6U](__MASK_36__)
     
-    [https://www.youtube.com/watch?v=6XTcPCJEO6U](https://www.youtube.com/watch?v=6XTcPCJEO6U)
+    [https://www.youtube.com/watch?v=6XTcPCJEO6U](__MASK_37__)
     
 
 [Website Visitor Tracking Tool [Weekly Reports] | Clearbit](https://clearbit.com/resources/tools/visitor-report)
@@ -232,7 +232,7 @@ Les actions des utilisateurs et les événements les plus importants sur votre s
 
 ---
 
-|Dans votre configuration Universal Analytics actuelle, vous mesurez les interactions clés à l'aide d'objectifs. Dans votre nouvelle propriétéGoogle Analytics 4  L'outil de migration des objectifs vous permet de transférer facilement les conversions vers votre nouvellepropriété Google Analytics 4. [https://notifications.google.com/g/p/ACnX6LYQtakR7U0LgxUFvNh6FDw97sfPI00XbfFkB5_s6htHF-CeQ9IT547RKbCVZi8PUlSDFzSErIoSTABWcOHOcmPiqe4r9Bnibs-qJNoihFl5zqFWu7ntFCj_wqQC0AMRG53V8lx1nql7xman47z-G5sRYWXkqJ3eUFDMFuTH68oFkeazITW2uemxo9Xs50PbAinxzdd39lujErV8u5GmT13kKuHIxNlRaDMGaHLnA7TSvqMjZciUCiBZMqkLaPThsxlAqN9oi8tfN__4n_1pYYFbpLY5cuf2xkLpOlVVCflFXMiB7IcircrpTQvuBPTuNTyuqyXz1x0B3X9yuXMahPxXxolcUJaeijqsXObO1KXZE8b7vBiffORg14mo5XQuHhQwTgHhd9FDfhnku3ZxPdQZNJ0gKcIOP9HzyWpkuYpuSOGEJ16_kk2bHX2WO7VbS7n-fEe8fjO38ga-4fwY](https://notifications.google.com/g/p/ACnX6LYQtakR7U0LgxUFvNh6FDw97sfPI00XbfFkB5_s6htHF-CeQ9IT547RKbCVZi8PUlSDFzSErIoSTABWcOHOcmPiqe4r9Bnibs-qJNoihFl5zqFWu7ntFCj_wqQC0AMRG53V8lx1nql7xman47z-G5sRYWXkqJ3eUFDMFuTH68oFkeazITW2uemxo9Xs50PbAinxzdd39lujErV8u5GmT13kKuHIxNlRaDMGaHLnA7TSvqMjZciUCiBZMqkLaPThsxlAqN9oi8tfN__4n_1pYYFbpLY5cuf2xkLpOlVVCflFXMiB7IcircrpTQvuBPTuNTyuqyXz1x0B3X9yuXMahPxXxolcUJaeijqsXObO1KXZE8b7vBiffORg14mo5XQuHhQwTgHhd9FDfhnku3ZxPdQZNJ0gKcIOP9HzyWpkuYpuSOGEJ16_kk2bHX2WO7VbS7n-fEe8fjO38ga-4fwY) Une fois cette étape effectuée, des données commenceront à être ajoutées aux rapports sur les conversions dans la nouvelleversion d'Analytics. [https://notifications.google.com/g/p/ACnX6LZxHgQSIqIXcyxYdopAwWshYw3BWdCVyKZOfQEfauijNMJLDDJ2eCiWB0fVQZZOJLLnp2uhsVvuS0jsgR-pc4t6UPyViiuxIT5OMydC0UDIoekkd98E_FnXkbzwiirJeRiJoVILRdCBo_MBVAxddb-4hEdiQQrNR5Yo-JMuPs0YD0YAweE3JZdKSenjPJuCaisBfpmWLQJakHRoOdyHiK5a4DLthl4K4bHrAnwx0tnlTwP2696efqTdxdBcY-skGVUvJXXebCrfyGzyF-0fNWaPGL6kNGWx75cu2f9j5w_jHjCflBDWeLh1rA](https://notifications.google.com/g/p/ACnX6LZxHgQSIqIXcyxYdopAwWshYw3BWdCVyKZOfQEfauijNMJLDDJ2eCiWB0fVQZZOJLLnp2uhsVvuS0jsgR-pc4t6UPyViiuxIT5OMydC0UDIoekkd98E_FnXkbzwiirJeRiJoVILRdCBo_MBVAxddb-4hEdiQQrNR5Yo-JMuPs0YD0YAweE3JZdKSenjPJuCaisBfpmWLQJakHRoOdyHiK5a4DLthl4K4bHrAnwx0tnlTwP2696efqTdxdBcY-skGVUvJXXebCrfyGzyF-0fNWaPGL6kNGWx75cu2f9j5w_jHjCflBDWeLh1rA)|
+|Dans votre configuration Universal Analytics actuelle, vous mesurez les interactions clés à l'aide d'objectifs. Dans votre nouvelle propriétéGoogle Analytics 4  L'outil de migration des objectifs vous permet de transférer facilement les conversions vers votre nouvellepropriété Google Analytics 4. [https://notifications.google.com/g/p/ACnX6LYQtakR7U0LgxUFvNh6FDw97sfPI00XbfFkB5_s6htHF-CeQ9IT547RKbCVZi8PUlSDFzSErIoSTABWcOHOcmPiqe4r9Bnibs-qJNoihFl5zqFWu7ntFCj_wqQC0AMRG53V8lx1nql7xman47z-G5sRYWXkqJ3eUFDMFuTH68oFkeazITW2uemxo9Xs50PbAinxzdd39lujErV8u5GmT13kKuHIxNlRaDMGaHLnA7TSvqMjZciUCiBZMqkLaPThsxlAqN9oi8tfN__4n_1pYYFbpLY5cuf2xkLpOlVVCflFXMiB7IcircrpTQvuBPTuNTyuqyXz1x0B3X9yuXMahPxXxolcUJaeijqsXObO1KXZE8b7vBiffORg14mo5XQuHhQwTgHhd9FDfhnku3ZxPdQZNJ0gKcIOP9HzyWpkuYpuSOGEJ16_kk2bHX2WO7VbS7n-fEe8fjO38ga-4fwY](__MASK_39__) Une fois cette étape effectuée, des données commenceront à être ajoutées aux rapports sur les conversions dans la nouvelleversion d'Analytics. [https://notifications.google.com/g/p/ACnX6LZxHgQSIqIXcyxYdopAwWshYw3BWdCVyKZOfQEfauijNMJLDDJ2eCiWB0fVQZZOJLLnp2uhsVvuS0jsgR-pc4t6UPyViiuxIT5OMydC0UDIoekkd98E_FnXkbzwiirJeRiJoVILRdCBo_MBVAxddb-4hEdiQQrNR5Yo-JMuPs0YD0YAweE3JZdKSenjPJuCaisBfpmWLQJakHRoOdyHiK5a4DLthl4K4bHrAnwx0tnlTwP2696efqTdxdBcY-skGVUvJXXebCrfyGzyF-0fNWaPGL6kNGWx75cu2f9j5w_jHjCflBDWeLh1rA](__MASK_40__)|
 |---|
 
 À bientôt sur le Web,

@@ -14,7 +14,7 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 
-[https://youtu.be/DBqpjaZWl9c?t=474](https://youtu.be/DBqpjaZWl9c?t=474)
+[https://youtu.be/DBqpjaZWl9c?t=474](__MASK_0__)
 
 you need to walk before you run
 

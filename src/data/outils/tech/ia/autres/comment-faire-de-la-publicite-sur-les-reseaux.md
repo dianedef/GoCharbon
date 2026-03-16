@@ -26,13 +26,13 @@ Especially if you have hundreds of lookalike audiences and ad sets.
 
 Enter:
 
-**Scalify's Scaling Strategies**
+**Scalify's Scaling Stratégies**
 
 .
 
 A set of pre-built automation rules that work on identifying scalable ads then increasing their ad spend accordingly in real-time.
 
-Scalify's Strategies run an audit on your ads on schedule (every 15 mins to every 72 hours) making sure that conditions are met before firing action.
+Scalify's Stratégies run an audit on your ads on schedule (every 15 mins to every 72 hours) making sure that conditions are met before firing action.
 
 It takes less than a minute to activate and customize a scaling strategy.
 
@@ -63,9 +63,9 @@ It takes less than a minute to activate and customize a scaling strategy.
 
 - Lancez une campagne de publicité avec Google AdWords - OpenClassrooms
     
-    [https://openclassrooms.com/fr/courses/2583236-lancez-une-campagne-de-publicite-avec-google-adwords](https://openclassrooms.com/fr/courses/2583236-lancez-une-campagne-de-publicite-avec-google-adwords)
+    [https://openclassrooms.com/fr/courses/2583236-lancez-une-campagne-de-publicite-avec-google-adwords](__MASK_5__)
     
-    [https://vimeo.com/200965377](https://vimeo.com/200965377)
+    [https://vimeo.com/200965377](__MASK_6__)
     
     J’ai tout fait pour que ce cours soit aussi , et que possible. Il est ouvert et alors n’hésitez pas à vous inscrire et à me rejoindre au premier chapitre ! 😃
     
@@ -76,18 +76,18 @@ It takes less than a minute to activate and customize a scaling strategy.
 
 FIn Janvier 2022 une pub de 30 sec au Super Bowl c’est [$6.5m](http://email.blog.kern.al/c/eJwdUMtuwjAQ_Bpya7R-Jj7kUCQqKpFIQEUSbs7aJikO0GIK5OvrVlrtaGb3MDOmyDshGU-GggKlQGhOOACw1FIBKIgAY7kDQ2YcOn8-pEf7fUq1T_pCUOkcAeMAVEaMQ80gV8AkUdx0gIkv-hAu1xl7ndG3OH44HdPQ2_52Dd6meI4a-gGPEankmSAqT6nKItXLDeCylKunYobhzbDqazVWP91W9XjaXFr68PhUoa3DpRsxtFsymWbucSBDx8x1Vcffmngcq0tb34NuyoBsd9837xE3z31TTfvT7rpqNue_m613PQ7wKD9aKKfFo_xc8HJSoaNrpZdztx93vVlW0LD5D07r6FA4RlGCReKUktRKJazgVs65ySSITCbfRcw6au9tCDbWdxj14GPqMQlFd_PHF_snJP_7ZTCFJI45aUGjzY2myF1sNbfmF8qyhBk)
 
-[https://youtu.be/kNFluT2e8Fs](https://youtu.be/kNFluT2e8Fs)
+[https://youtu.be/kNFluT2e8Fs](__MASK_8__)
 
 **6-10 Secs**
 
-The sweet spot for video ad length is 6-10 seconds.
+The sweet spot for vidéo ad length is 6-10 seconds.
 
 
 [Lessons From Spending $3M on Ecommerce Facebook Ads - Pixc](https://pixc.com/blog/ecommerce-facebook-ads/?utm_source=ecommerce-facebook-ads&utm_medium=newsletter&utm_campaign=Pixc%20Blog%202020)
 
 - Publicité Facebook : 6 erreurs de débutant (et comment les éviter)
     
-    [https://daniloduchesnes.com/blog/les-6-erreurs-de-debutant-en-publicite-facebook-et-comment-les-eviter/](https://daniloduchesnes.com/blog/les-6-erreurs-de-debutant-en-publicite-facebook-et-comment-les-eviter/)
+    [https://daniloduchesnes.com/blog/les-6-erreurs-de-debutant-en-publicite-facebook-et-comment-les-eviter/](__MASK_10__)
     
     
     
@@ -600,7 +600,7 @@ Industry benchmarking. If you are new to paid social, there are several resourc
 
 - À propos du boost de publication sur Facebook | Pages d’aide de Facebook Business
     
-    [https://www.facebook.com/business/help/240208966080581?id=352109282177656](https://www.facebook.com/business/help/240208966080581?id=352109282177656)
+    [https://www.facebook.com/business/help/240208966080581?id=352109282177656](__MASK_32__)
     
     Les publications sponsorisées sont des annonces créées à partir des publications sur votre page Facebook. Promouvoir une publication peut vous aider à obtenir plus de réactions, de partages et de commentaires. C'est également une façon d'atteindre de nouvelles personnes qui sont probablement intéressées par votre page ou votre entreprise, mais qui ne vous suivent pas actuellement.
     
@@ -613,24 +613,24 @@ POUR VENDRE SUR FB FAUT D4ABORD PAsser par la case divertissement sinon les rés
 
 - Facebook ads
     
-    *\+ Assurez-vous de vérifier régulièrement la qualité de votre [Page Facebook] ([http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-x/](http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-x/)). N'oubliez pas non plus que même les publications organiques doivent respecter les [Directives de la communauté Facebook] ([http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-m/](http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-m/)) afin de maintenir une qualité saine.
+    *\+ Assurez-vous de vérifier régulièrement la qualité de votre [Page Facebook] ([http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-x/](__MASK_34__)). N'oubliez pas non plus que même les publications organiques doivent respecter les [Directives de la communauté Facebook] ([http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-m/](__MASK_35__)) afin de maintenir une qualité saine.
     
     **\+ Qualité des publicités :** C'est peut-être l'un des problèmes les plus courants en matière de désapprobation. Facebook prend en compte différents facteurs pour juger de la qualité de votre publicité, comme la pertinence par rapport au public cible, l'exactitude des informations, la qualité de l'image et le rapport texte/image, entre autres.
     
     *\+ Mauvais format ou objectif de l'annonce : le fait de ne pas faire correspondre l'une de ces deux variables créera une mauvaise expérience utilisateur et entraînera des résultats de campagne décevants. Et dans le pire des cas, Facebook pourrait interpréter cela comme une tentative de manipulation du système.
     
-    *\+ Qualité de la page d'atterrissage : Si votre page d'atterrissage a un taux de rebond élevé, cela se traduira non seulement par un gaspillage de budget, mais vous risquez même d'avoir un impact sur le ciblage. Vous pouvez utiliser [Facebook's Sharing Debugger] ([http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-c/](http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-c/)) pour voir comment Facebook perçoit votre contenu et corriger tout problème que l'outil signale.
+    *\+ Qualité de la page d'atterrissage : Si votre page d'atterrissage a un taux de rebond élevé, cela se traduira non seulement par un gaspillage de budget, mais vous risquez même d'avoir un impact sur le ciblage. Vous pouvez utiliser [Facebook's Sharing Debugger] ([http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-c/](__MASK_36__)) pour voir comment Facebook perçoit votre contenu et corriger tout problème que l'outil signale.
     
     **\+ Facturation:** Assurez-vous que vos informations de paiement sont à jour.
     
     *\+ Sujets restreints ou interdits : la plupart des violations sont dues à des circonstances fortuites ou à des nuances imprévues. L'exemple qu'Ilya Cherepakhin donne ici est celui d'un restaurant qui possède un salon de cigares. Alors que sa campagne publicitaire porte uniquement sur un cours de cuisine, le salon de cigares mentionné sur le site peut poser problème.
     
-    Veillez à ce que l'ensemble de votre site Web et de votre activité respecte les [politiques publicitaires de Facebook] ([http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-q/](http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-q/)).
+    Veillez à ce que l'ensemble de votre site Web et de votre activité respecte les [politiques publicitaires de Facebook] ([http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-q/](__MASK_37__)).
     
-    Et pour le reste des conseils, [consultez l'article complet ici] ([http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-a/](http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-a/)).
+    Et pour le reste des conseils, [consultez l'article complet ici] ([http://cm.wtaff.co/t/j-l-akuurud-itydbpkh-a/](__MASK_38__)).
     
 
-[William Harris sur Twitter : "Facebook CANNOT measure ROAS. If you still think Facebook is reporting on ROAS then you're likely killing your business. This article goes DEEP into what Facebook is actually measuring and why it's critical:](https://twitter.com/wmharris101/status/1440695147046457359) [https://t.co/akl6eFKWdn](https://t.co/akl6eFKWdn) #ppcchat #fbads #ecommerce #D2C" / Twitter
+[William Harris sur Twitter : "Facebook CANNOT measure ROAS. If you still think Facebook is reporting on ROAS then you're likely killing your business. This article goes DEEP into what Facebook is actually measuring and why it's critical:](https://twitter.com/wmharris101/status/1440695147046457359) [https://t.co/akl6eFKWdn](__MASK_40__) #ppcchat #fbads #ecommerce #D2C" / Twitter
 
 [(58) GUIDE COMPLET: Publicité Facebook pour les débutants - YouTube](https://www.youtube.com/watch?v=uQNQ-ot2-ng)
 
@@ -664,7 +664,7 @@ _Source: Statista_
 
 # **4. Social media ad impressions are increasing by 20% every year**
 
-According to [Statista reports](https://www.statista.com/statistics/873631/social-media-advertising-cpm/), more and more people are receptive to social media advertising. This especially applies to passive advertising techniques like the use of Stories and videos.
+According to [Statista reports](https://www.statista.com/statistics/873631/social-media-advertising-cpm/), more and more people are receptive to social media advertising. This especially applies to passive advertising techniques like the use of Stories and vidéos.
 
 Social media ad impressions increase by 20% year on year, showing that there is no excuse for brands to not embrace advertising on social to expand their market reach.
 
@@ -690,7 +690,7 @@ _Source:_
 
 [_Sensor Tower_](https://go.sensortower.com/rs/351-RWH-315/images/Sensor-Tower-Q2-2020-Data-Digest.pdf)
 
-As of April 2021, it’s also the fifth most used social media platform worldwide with [1.28 billion active users](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/). Instagram’s popularity makes it an important part of many brand’s social media advertising strategies.
+As of April 2021, it’s also the fifth most used social media platform worldwide with [1.28 billion active users](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/). Instagram’s popularity makes it an important part of many brand’s social media advertising stratégies.
 
 # **2. Instagram Business accounts enjoy an average of 1.46% of growth in monthly followers**
 
@@ -852,7 +852,7 @@ The potential of LinkedIn Ads is not to be underestimated. While just over 663 m
 
 # **YouTube advertising statistics**
 
-[YouTube’s recent ad statistics](https://blog.hootsuite.com/youtube-stats-marketers/) are a good indication of just how big this social media and video-sharing platform is, and why its continued growth is promising for marketers.
+[YouTube’s recent ad statistics](https://blog.hootsuite.com/youtube-stats-marketers/) are a good indication of just how big this social media and vidéo-sharing platform is, and why its continued growth is promising for marketers.
 
 # **1. YouTube boasts more than two billion monthly users**
 
@@ -888,13 +888,13 @@ _Source:_
 
 [_Apptopia_](https://blog.apptopia.com/worldwide-us-download-leaders-2020)
 
-With regard to video-on-demand, it was the [2nd most downloaded](https://blog.apptopia.com/worldwide-us-download-leaders-2020) app in 2020 worldwide, second only to Netflix.
+With regard to vidéo-on-demand, it was the [2nd most downloaded](https://blog.apptopia.com/worldwide-us-download-leaders-2020) app in 2020 worldwide, second only to Netflix.
 
-YouTube’s reach, however, goes far beyond entertainment as many brands leverage the video streaming platform to run wide-reach ad campaigns. Its popularity continues to increase.
+YouTube’s reach, however, goes far beyond entertainment as many brands leverage the vidéo streaming platform to run wide-reach ad campaigns. Its popularity continues to increase.
 
 # **Pinterest Advertising Statistics**
 
-Many marketers overlook Pinterest in their social media strategies. Check out these [Pinterest ad statistics](https://adespresso.com/blog/pinterest-marketing-statistics/) and you’ll see the potential of this unique platform.
+Many marketers overlook Pinterest in their social media stratégies. Check out these [Pinterest ad statistics](https://adespresso.com/blog/pinterest-marketing-statistics/) and you’ll see the potential of this unique platform.
 
 # **1. An average of two million people pin content daily on Pinterest**
 
@@ -912,7 +912,7 @@ Like most brands in this time, Pinterest was met by the challenge of market unce
 
 Pinterest offers a great platform for advertising, and that’s likely why [1.5 billion businesses](https://techjury.net/blog/pinterest-statistics/) seize the opportunity so eagerly.
 
-# **4. Pinterest board creation increased by 35% every year**
+# **4. Pinterest board création increased by 35% every year**
 
 As Pinterest gained more users, the [number of boards](https://newsroom.pinterest.com/en/Pinterest%20launches%20new%20board%20features%20including%20notes%20to%20self) created on the platform also went up with a 35% year-on-year increase, indicating healthy growth.
 

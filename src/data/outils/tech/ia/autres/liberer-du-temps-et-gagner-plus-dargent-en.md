@@ -217,7 +217,7 @@ Essentiel applique la méthode décrite plus haut, puis opère le support et les
 - **Crèche :** Process recrutement et validation des contrats complexes.  
     _CRM sur Airtable > Automatisation des contrats en CDI> Envoi pour signature avec Docusign_
 - **Fonds d’investissement** : Deal Flow à automatiser depuis le listing des nouvelles sociétés créées à rencontrer jusqu’à la qualification.  
-    _Scraping des créations de société des 2 dernières semaines> Scraping Linkedin des fondateurs avec Phantombuster et Google Sheets > Agrégation infos societe.com > Scoring automatique > Pipe complet sur Airtable_
+    _Scraping des créations de société des 2 dernières semaines> Scraping Linkedin des fondateurs avec Phantombuster et Google Sheets > Agrégation infos société.com > Scoring automatique > Pipe complet sur Airtable_
 - **Association** de 500 cuisiniers de France : ensemble de la gestion des membres et de la synchronisation de la donnée entre les différents services.  
     _Nouveaux membres > Airtable > Liste de diffusion sur Mailchimp_
 
@@ -375,7 +375,7 @@ et elle est fiable.
 
 ---
 
-[https://ci3.googleusercontent.com/proxy/mX0T9M6Qv1LPh3HMWCx3QP0qddmehS4jvvkWMwTFxG_9rQsU8Rk-dbyWeCGyt3-y9CXif0doaKkk_zQwts2pTpMD99FY9tVJ0WeVGCfPOCqPD8x7HMiIxRpcsc4F-KD8cNrr=s0-d-e1-ft#https://ph-files.imgix.net/979e4e9b-9b46-4feb-9297-c516e7d14560.jpeg?auto=format](https://ci3.googleusercontent.com/proxy/mX0T9M6Qv1LPh3HMWCx3QP0qddmehS4jvvkWMwTFxG_9rQsU8Rk-dbyWeCGyt3-y9CXif0doaKkk_zQwts2pTpMD99FY9tVJ0WeVGCfPOCqPD8x7HMiIxRpcsc4F-KD8cNrr=s0-d-e1-ft#https://ph-files.imgix.net/979e4e9b-9b46-4feb-9297-c516e7d14560.jpeg?auto=format)
+[https://ci3.googleusercontent.com/proxy/mX0T9M6Qv1LPh3HMWCx3QP0qddmehS4jvvkWMwTFxG_9rQsU8Rk-dbyWeCGyt3-y9CXif0doaKkk_zQwts2pTpMD99FY9tVJ0WeVGCfPOCqPD8x7HMiIxRpcsc4F-KD8cNrr=s0-d-e1-ft#https://ph-files.imgix.net/979e4e9b-9b46-4feb-9297-c516e7d14560.jpeg?auto=format](__MASK_33__)
 
 ---
 

@@ -48,7 +48,7 @@ Un service de monitoring envoie une requete HTTP a ton site a intervalles reguli
 
 ### HetrixTools -- Le plus genereux
 
-[HetrixTools](https://hetrixtools.com/) offre un monitoring tres complet en gratuit.
+[HetrixTools](https://hetrixtools.com/) offre un monitoring très complet en gratuit.
 
 **Plan gratuit (2025)** :
 - 15 moniteurs uptime + 15 moniteurs serveur
@@ -58,7 +58,7 @@ Un service de monitoring envoie une requete HTTP a ton site a intervalles reguli
 - Monitoring de certificat SSL (authenticite + expiration)
 - Monitoring blacklist (verifie que ton IP n'est pas sur les listes noires type Spamhaus, Barracuda...)
 - Monitoring d'expiration de domaine + changement de nameservers
-- Diagnostics reseau en cas de panne (ping, MTR)
+- Diagnostics réseau en cas de panne (ping, MTR)
 - Historique d'uptime illimite
 
 **Plans payants** : Pro a 9,95 USD/mois (30 moniteurs, 6 localisations), Business a 19,95 USD/mois (60 moniteurs), Enterprise a 49,95 USD/mois (200 moniteurs).
@@ -68,7 +68,7 @@ Un service de monitoring envoie une requete HTTP a ton site a intervalles reguli
 2. Va dans **Uptime Monitors > Add Monitor**
 3. Choisis le protocole (HTTP, HTTPS, Ping, Port)
 4. Entre l'URL et configure les alertes
-5. Active le **SSL monitoring** pour etre prevenu 30 jours avant l'expiration de ton certificat
+5. Active le **SSL monitoring** pour être prevenu 30 jours avant l'expiration de ton certificat
 
 ### StatusCake -- L'alternative britannique
 
@@ -95,7 +95,7 @@ Un service de monitoring envoie une requete HTTP a ton site a intervalles reguli
 
 ## Que surveiller exactement ?
 
-Ne te contente pas de surveiller ta page d'accueil. Voici la liste complete :
+Ne te contente pas de surveiller ta page d'accueil. Voici la liste complète :
 
 | Element | URL a surveiller | Pourquoi |
 |---------|-----------------|----------|
@@ -103,7 +103,7 @@ Ne te contente pas de surveiller ta page d'accueil. Voici la liste complete :
 | Page de vente | `https://tonsite.com/offre` | C'est la que tu fais ton CA |
 | Checkout/Paiement | `https://tonsite.com/checkout` | Si cette page tombe, tu perds de l'argent |
 | API | `https://api.tonsite.com/health` | Si tu as une appli ou un SaaS |
-| Certificat SSL | Moniteur SSL dedié | Etre prevenu avant l'expiration |
+| Certificat SSL | Moniteur SSL dedié | Être prevenu avant l'expiration |
 | Domaine | Moniteur d'expiration | Eviter que ton domaine expire par oubli |
 
 ## Configurer les alertes intelligemment
@@ -112,37 +112,37 @@ Ne te contente pas de surveiller ta page d'accueil. Voici la liste complete :
 
 Configure au moins 2 canaux d'alerte :
 1. **Email** : le minimum
-2. **Slack ou Discord** : pour toi et ton equipe
+2. **Slack ou Discord** : pour toi et ton équipe
 3. **SMS** (si dispo sur ton plan) : pour les urgences critiques
 
 ### Eviter les faux positifs
 
 - Configure un **delai de confirmation** : l'outil reteste 2-3 fois avant d'envoyer l'alerte. Ca evite les fausses alertes causees par un timeout passager
-- **Teste depuis plusieurs localisations** : si le site est down uniquement depuis un datacenter, c'est peut-etre un probleme reseau local, pas une panne reelle
+- **Teste depuis plusieurs localisations** : si le site est down uniquement depuis un datacenter, c'est peut-être un problème réseau local, pas une panne reelle
 - **Definis les heures de notification** : pas besoin d'un SMS a 3h du matin si tu ne peux rien faire. Configure une alerte email la nuit et SMS le jour
 
 ## Creer une page de statut publique
 
 Tous les outils ci-dessus permettent de creer une page de statut (ex : `status.tonsite.com`). Pourquoi en avoir une :
 
-- **Transparence** : tes clients voient eux-memes si un probleme est en cours
+- **Transparence** : tes clients voient eux-memes si un problème est en cours
 - **Moins de tickets support** : au lieu de te contacter, ils consultent la page de statut
 - **Historique d'uptime** : montre que ton service est fiable (99.9%+ uptime)
 
 **Configuration UptimeRobot** :
 1. Va dans **"My Settings" > "Public Status Pages"**
 2. Cree une nouvelle page
-3. Selectionne les moniteurs a afficher
+3. Sélectionne les moniteurs a afficher
 4. Personnalise le domaine (CNAME vers ton sous-domaine)
 
 ## Que faire quand tu recois une alerte
 
 1. **Verifie manuellement** -- ouvre le site dans ton navigateur pour confirmer
 2. **Check les logs** -- `tail -100 /var/log/nginx/error.log` ou le dashboard de ton hebergeur
-3. **Redemarre si necessaire** -- souvent un simple restart du serveur web ou de l'appli resout le probleme
+3. **Redemarre si nécessaire** -- souvent un simple restart du serveur web ou de l'appli resout le problème
 4. **Communique** -- mets a jour ta page de statut et previens tes clients si l'interruption est longue
-5. **Post-mortem** -- apres resolution, note ce qui s'est passe et comment eviter que ca se reproduise
+5. **Post-mortem** -- après resolution, note ce qui s'est passe et comment eviter que ca se reproduise
 
 ## Ce qu'il faut retenir
 
-Le monitoring uptime est non-negociable des que ton site genere du revenu. UptimeRobot (gratuit, 50 moniteurs) ou HetrixTools (gratuit, verification toutes les minutes) te couvrent largement. Surveille au minimum : page d'accueil, page de vente, checkout, certificat SSL. Configure 2 canaux d'alertes et cree une page de statut publique. Ca prend 15 minutes a mettre en place et ca t'evite des heures de panique.
+Le monitoring uptime est non-negociable des que ton site génère du revenu. UptimeRobot (gratuit, 50 moniteurs) ou HetrixTools (gratuit, verification toutes les minutes) te couvrent largement. Surveille au minimum : page d'accueil, page de vente, checkout, certificat SSL. Configure 2 canaux d'alertes et cree une page de statut publique. Ca prend 15 minutes a mettre en place et ca t'evite des heures de panique.

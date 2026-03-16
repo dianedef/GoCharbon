@@ -131,7 +131,7 @@ Planifiez facilement vos rendez-vous en fonction des disponibilités de chaque m
 
 Accédez à votre planning en ligne partout, tout le temps, et partagez-le à votre équipe pour gérer efficacement vos rendez-vous.
 
-Disponibilites equipe
+Disponibilites équipe
 
 Notification rendez-vous
 

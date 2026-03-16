@@ -11,7 +11,7 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../../assets/astro.jpeg
 ---
 
-Eliminate the frustrating experience of CAPTCHAs with a simple snippet of free code. Cloudflare Turnstile confirms web visitors are real and blocks unwanted bots without slowing down web experiences for real users.
+Eliminate the frustrating expérience of CAPTCHAs with a simple snippet of free code. Cloudflare Turnstile confirms web visitors are real and blocks unwanted bots without slowing down web experiences for real users.
 
 
 [Cloudflare bot solutions](https://developers.cloudflare.com/bots/)
@@ -65,7 +65,7 @@ Integrate Cloudflare challenges on single-page applications (SPAs) by allowing T
 
 To start using the Turnstile widget, you will need to obtain a sitekey and a secret key. The sitekey and secret key are always associated with one widget and cannot be reused for other widgets.
 
-The sitekey is public and used to invoke the Turnstile widget on your site. The sitekey and secret key are generated upon the creation of a widget, allowing communication between your site and Cloudflare to verify responses for a solved challenge from Turnstile. Make sure you keep the secret key safe for security reasons.
+The sitekey is public and used to invoke the Turnstile widget on your site. The sitekey and secret key are generated upon the création of a widget, allowing communication between your site and Cloudflare to verify responses for a solved challenge from Turnstile. Make sure you keep the secret key safe for security reasons.
 
 1. Log in to the [Cloudflare dashboard ↗](https://dash.cloudflare.com/?to=/:account/turnstile) and select your account.
 2. Go to **Turnstile**.
@@ -104,15 +104,15 @@ Rendering the client-side integration & validating the server-side response are 
 
 Long before reCAPTCHA, there was the original CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart), a captcha challenge with the sole purpose of differentiating human users from bots. Over time, however, traditional CAPTCHAs became less effective as bots began utilizing machine learning to recognize patterns and decipher distorted text.
 
-Enter reCAPTCHA – an enhanced version of CAPTCHA that provides more complex tests, making it challenging for bots to circumvent while preserving an improved user experience and protecting web traffic.
+Enter reCAPTCHA – an enhanced version of CAPTCHA that provides more complex tests, making it challenging for bots to circumvent while preserving an improved user expérience and protecting web traffic.
 
 The development of reCAPTCHA dates back to 2000, when it was initially created at Carnegie Mellon University. The goal was to improve upon traditional CAPTCHA tests by utilizing machine learning and sophisticated risk analysis to better identify human behavior and provide distinct tests to differentiate between humans and bots.
 
 Their innovation caught the attention of Google, which acquired reCAPTCHA in 2009 to further develop and improve the technology.
 
-Since then, reCAPTCHA has evolved into a powerful tool that helps security teams filter out fake users and protect their web traffic while offering a more user-friendly experience for recaptcha users compared to traditional CAPTCHAs.
+Since then, reCAPTCHA has evolved into a powerful tool that helps security teams filter out fake users and protect their web traffic while offering a more user-friendly expérience for recaptcha users compared to traditional CAPTCHAs.
 
-One of the key differences between reCAPTCHA and traditional CAPTCHA is the complexity of the tests. reCAPTCHA utilizes text from real-world images, making it more difficult for bots to bypass while still providing a better user experience.
+One of the key differences between reCAPTCHA and traditional CAPTCHA is the complexity of the tests. reCAPTCHA utilizes text from real-world images, making it more difficult for bots to bypass while still providing a better user expérience.
 
 In addition, reCAPTCHA employs artificial intelligence to identify human behavior and offers a variety of tests, such as image recognition and checkbox tests, to further differentiate between humans and bots. This enhanced approach to CAPTCHA has led security teams to move away from CAPTCHAs and has driven the mass adoption of reCAPTCHA.
 
@@ -147,7 +147,7 @@ The flaws present in the various forms of reCAPTCHA highlight the need for a new
 
 ## **Advantages and Disadvantages of Using reCAPTCHA**
 
-In the following sections, we’ll explore the advantages and disadvantages of using reCAPTCHA in more detail to help you make an informed decision about whether this is the right solution for your website.
+In the following sections, we’ll explore the advantages and disadvantages of using reCAPTCHA in more detail to help you make an informed décision about whether this is the right solution for your website.
 
 ### **Benefits of reCAPTCHA**
 
@@ -165,7 +165,7 @@ Modern bots can easily evade reCAPTCHA in a few ways:
 
 Another drawback of reCAPTCHA is user friction. The fact of the matter is humans don’t want to solve CAPTCHAs. Some users like those who are visually impaired may not even be able to solve a CAPTCHA. Presenting your real customers with challenges to prove their legitimacy can hurt brand loyalty, conversion rates, and impact revenue.
 
-Given these issues, considering other anti-bot solutions that might offer superior protection against bots without hindering the user experience could be beneficial.
+Given these issues, considering other anti-bot solutions that might offer superior protection against bots without hindering the user expérience could be beneficial.
 
 ## **Types of Threats reCAPTCHA Fails to Prevent**
 
@@ -220,7 +220,7 @@ ReCAPTCHA can also be used to launch phishing attacks. In a phishing attack, the
 
 ReCAPTCHA is ineffective because it needs to keep up with the constantly evolving ways bad bots bypass CAPTCHA tests. ReCAPTCHA lacks long-term efficacy.
 
-As we’ve seen, bots use advanced strategies to bypass CAPTCHA tests. But which ones should you pay the most attention to as you protect your own website?
+As we’ve seen, bots use advanced stratégies to bypass CAPTCHA tests. But which ones should you pay the most attention to as you protect your own website?
 
 ## **How Can Bots Bypass reCAPTCHA?**
 
@@ -237,7 +237,7 @@ These methods exploit weaknesses in reCAPTCHA’s algorithms or leverage human a
 
 The fact that bots can bypass reCAPTCHA highlights the limitations of this security measure and underscores the need for security teams to explore alternative solutions that offer more comprehensive protection against bot attacks.
 
-The upcoming section will focus on some alternatives to reCAPTCHA that can bolster security and improve the user experience on your website.
+The upcoming section will focus on some alternatives to reCAPTCHA that can bolster security and improve the user expérience on your website.
 
 ## **Alternatives to reCAPTCHA**
 
@@ -253,9 +253,9 @@ Kasada is a bot mitigation platform that takes a proactive approach to stop mali
 
 Kasada’s technology is constantly learning and evolving, so it can effectively stop sophisticated AI-powered bad bots that can bypass reCAPTCHA.
 
-Bot operators often use DevTools, stealth plugins, solver services, anti-detect browsers, and proxy networks to evade detection. Kasada’s technology can detect and block all of these strategies.
+Bot operators often use DevTools, stealth plugins, solver services, anti-detect browsers, and proxy networks to evade detection. Kasada’s technology can detect and block all of these stratégies.
 
-Our solution offers actionable insights that distinguish good bots, bad bots, and humans so you can understand your website traffic and block automated threats. Better yet, our software does not require each user to prove that they are “human” like reCAPTCHA does, improving user experience and enhancing overall security.
+Our solution offers actionable insights that distinguish good bots, bad bots, and humans so you can understand your website traffic and block automated threats. Better yet, our software does not require each user to prove that they are “human” like reCAPTCHA does, improving user expérience and enhancing overall security.
 
 ## **Why Choose Kasada?**
 
@@ -279,13 +279,13 @@ ReCAPTCHA v3 uses a concept called “actions” to differentiate between real a
 
 ### **What is the main difference between reCAPTCHA and traditional CAPTCHA?**
 
-The main difference between reCAPTCHA and traditional CAPTCHA is that reCAPTCHA provides more complex tests to challenge bots, while attempting to preserve an improved user experience.
+The main difference between reCAPTCHA and traditional CAPTCHA is that reCAPTCHA provides more complex tests to challenge bots, while attempting to preserve an improved user expérience.
 
 
 # How Fraudsters Use Bots to Bypass CAPTCHAs
-For attackers looking to access your website, a basic security test called CAPTCHA has been the first line of defense since its creation in 2000. In the decades since its inception, CAPTCHA has been the go-to method for stopping bots and keeping websites safe.
+For attackers looking to access your website, a basic security test called CAPTCHA has been the first line of defense since its création in 2000. In the decades since its inception, CAPTCHA has been the go-to method for stopping bots and keeping websites safe.
 
-But all those years of service on bots and hackers means that bad actors have had a lot of practice getting past these challenges. As a result, CAPTCHAs are now both less effective at [blocking bots](https://cheq.ai/blog/block-bots-secure-site-data/) and more difficult for actual humans to complete.
+But all those years of service on bots and hackers means that bad actors have had a lot of practice getting past these challenges. As a result, CAPTCHAs are now both less effective at [blocking bots](https://cheq.ai/blog/block-bots-secure-site-data/) and more difficult for actual humans to complète.
 
 Now, according to [research](https://www.wired.co.uk/article/google-captcha-recaptcha), half of all CAPTCHAs passed are completed by bots, not real users. That means the attackers controlling the bots can do everything from leaving spam comments and submitting invalid forms to abusing other services that your website provides.
 
@@ -299,7 +299,7 @@ Table of Contents
 - [Why is CAPTCHA used?](https://cheq.ai/blog/how-fraudsters-bypass-captchas/# "Why is CAPTCHA used?")
 - [Types of CAPTCHA](https://cheq.ai/blog/how-fraudsters-bypass-captchas/# "Types of CAPTCHA")
 - [Behavior-based CAPTCHA: reCAPTCHA and hCAPTCHA](https://cheq.ai/blog/how-fraudsters-bypass-captchas/# "Behavior-based CAPTCHA: reCAPTCHA and hCAPTCHA")
-- [How do CAPTCHAs affect user experience?](https://cheq.ai/blog/how-fraudsters-bypass-captchas/# "How do CAPTCHAs affect user experience?")
+- [How do CAPTCHAs affect user expérience?](https://cheq.ai/blog/how-fraudsters-bypass-captchas/# "How do CAPTCHAs affect user experience?")
 - [How do hackers bypass CAPTCHA?](https://cheq.ai/blog/how-fraudsters-bypass-captchas/# "How do hackers bypass CAPTCHA?")
 - [What happens when hackers crack your CAPTCHA?](https://cheq.ai/blog/how-fraudsters-bypass-captchas/# "What happens when hackers crack your CAPTCHA?")
 - [What can you do about CAPTCHA bypassing bots?](https://cheq.ai/blog/how-fraudsters-bypass-captchas/# "What can you do about CAPTCHA bypassing bots?")
@@ -313,11 +313,11 @@ CAPTCHA tests take many forms, but the most popular kind will typically show the
 
 Users need to input what they see into the provided field, and if they answer correctly, they are granted access to the protected web area. The more simple bots will return irregular and incomprehensible letters or click the wrong images, making it obvious that they are not human.
 
-Advanced bots, on the other hand, can use a variety of strategies to read these distorted images and bypass the test easily. As a result, more sophisticated CAPTCHAs, like reCAPTCHA and hCAPTCHA, have been developed with even more complex puzzles to fight growing bot capabilities.
+Advanced bots, on the other hand, can use a variety of stratégies to read these distorted images and bypass the test easily. As a result, more sophisticated CAPTCHAs, like reCAPTCHA and hCAPTCHA, have been developed with even more complex puzzles to fight growing bot capabilities.
 
 ## Why is CAPTCHA used?
 
-CAPTCHA is used by any website that wants to restrict access from bots. The use of CAPTCHAs is widespread–over 30 million websites use reCAPTCHA alone–and the tests are typically placed at gate points in the user experience, such as a download or account creation form, a ticketing system, or a comments section.
+CAPTCHA is used by any website that wants to restrict access from bots. The use of CAPTCHAs is widespread–over 30 million websites use reCAPTCHA alone–and the tests are typically placed at gate points in the user expérience, such as a download or account création form, a ticketing system, or a comments section.
 
 CAPTCHAs help businesses filter out potential spam comments, ticket inflation, or even account takeover attacks from malicious bots.
 
@@ -346,15 +346,15 @@ Luckily, you can always hit the refresh button to get another image with zero co
 ### Audio CAPTCHA
 
 
-With audio CAPTCHAs, users can listen to a short recording and type the word they hear. These are effective because bots can’t use speech recognition to differentiate the pronounced characters from the background noise in the recording. This can be time-consuming, especially compared to a text-based CAPTCHA, and can negatively affect both user experience and page-load times but audio CAPTCHAs are quite effective.
+With audio CAPTCHAs, users can listen to a short recording and type the word they hear. These are effective because bots can’t use speech recognition to differentiate the pronounced characters from the background noise in the recording. This can be time-consuming, especially compared to a text-based CAPTCHA, and can negatively affect both user expérience and page-load times but audio CAPTCHAs are quite effective.
 
 ## Behavior-based CAPTCHA: reCAPTCHA and hCAPTCHA
 
 As bots have become more advanced, CAPTCHA has needed to add more complex functionality than simple tests and puzzles Enter behavior-based CAPTCHAs,  such as Google reCAPTCHA and its primary competitor, hCAPTCHA.
 
-These behavior-based CAPTCHA tools examine identifiers and behavioral data– i.e. how a user interacts with a webpage– to make a decision on their humanity. The classic example is reCAPTCHA’s “I’m not a robot” check box, which tracks mouse movements and other patterns to evaluate users. If reCAPTCHA believes a user is human, they are presented with the simple checkbox test, but if they are believed to be a bot they may be presented with a more difficult image-based test.
+These behavior-based CAPTCHA tools examine identifiers and behavioral data– i.e. how a user interacts with a webpage– to make a décision on their humanity. The classic example is reCAPTCHA’s “I’m not a robot” check box, which tracks mouse movements and other patterns to evaluate users. If reCAPTCHA believes a user is human, they are presented with the simple checkbox test, but if they are believed to be a bot they may be presented with a more difficult image-based test.
 
-By providing different tests based on contextual clues, these tools aim to reduce the friction CAPTCHA places on user experience while still providing tough verification for suspicious users.
+By providing different tests based on contextual clues, these tools aim to reduce the friction CAPTCHA places on user expérience while still providing tough verification for suspicious users.
 
 However, these tools are still susceptible to advanced bots, or CAPTCHA-solving services, and they come with their own set of difficulties.
 
@@ -362,17 +362,17 @@ Google’s offering, for example, can cause privacy headaches. ReCAPTCHA gathers
 
 For its part, hCAPTCHA does not rely so much on user data, but as a result, it is more likely to present human users with complex challenges which can be quite frustrating, adding an undesirable amount of friction to a landing page.
 
-## How do CAPTCHAs affect user experience?
+## How do CAPTCHAs affect user expérience?
 
 The clear benefit of CAPTCHA is that it is an effective technique to keep common, simple bots off of websites, but there are some major drawbacks to CAPTCHA use, particularly in how they affect real human users.
 
-CAPTCHAs–especially difficult CAPTCHAs–can be very disruptive to user experience and may be difficult for certain audiences to use or understand, resulting in a high rate of false positives and page abandonment.
+CAPTCHAs–especially difficult CAPTCHAs–can be very disruptive to user expérience and may be difficult for certain audiences to use or understand, resulting in a high rate of false positives and page abandonment.
 
 CAPTCHAs are particularly disruptive for mobile users, who are much more likely to leave a website when challenged than a desktop user.
 
 ## How do hackers bypass CAPTCHA?
 
-Hackers now have an easier time bypassing normal CAPTCHA challenges, and here are some of the strategies they use.
+Hackers now have an easier time bypassing normal CAPTCHA challenges, and here are some of the stratégies they use.
 
 ### AI
 
@@ -380,11 +380,11 @@ In his book, Deep Learning for Computer Vision with Python, Adrain Rosebrock lay
 
 CAPTCHAs with an open source code are, in theory, easier to crack because hackers can use the source to train their machine learning system to bypass CAPTCHA tests, regardless of the difficulty. Anybody can pass the exam if you know all the possible questions.
 
-### CAPTCHA hacking strategies
+### CAPTCHA hacking stratégies
 
 [Hack Tricks](https://book.hacktricks.xyz/pentesting-web/captcha-bypass) lists some of the ways that hackers get around CAPTCHA easily. Some of them include checking your page’s source code for CAPTCHA solutions (in case it’s text) or using an old CAPTCHA value in case they get the same challenge twice.
 
-Other CAPTCHA bypass strategies include:
+Other CAPTCHA bypass stratégies include:
 
 - Using optical character recognition (OCR) to read the characters on the screen
 - Checking how many images are being used and detecting them with MD5

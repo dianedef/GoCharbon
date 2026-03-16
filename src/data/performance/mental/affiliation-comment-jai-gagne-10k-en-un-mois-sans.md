@@ -18,13 +18,13 @@ imgUrl: ../../../assets/astro.jpeg
 
 ### tl;dr
 
-"10K en un mois sans rien faire" -- tu as deja lu ca partout. La verite ? L'affiliation peut effectivement generer des revenus importants. Mais le "sans rien faire" est un mensonge marketing. Derriere chaque gros mois en affiliation, il y a des mois de travail en amont. Voici ce que personne ne te dit sur ce modele economique.
+"10K en un mois sans rien faire" -- tu as déjà lu ca partout. La verite ? L'affiliation peut effectivement générer des revenus importants. Mais le "sans rien faire" est un mensonge marketing. Derriere chaque gros mois en affiliation, il y a des mois de travail en amont. Voici ce que personne ne te dit sur ce modele economique.
 
 ---
 
 ## Ce que "revenu passif" veut vraiment dire
 
-Un revenu passif, ce n'est pas un revenu sans effort. C'est un revenu decouple de ton temps. La difference est fondamentale. Un article d'affiliation qui genere 500 euros par mois t'a peut-etre demande 20 heures de travail en redaction, SEO et optimisation. Mais une fois publie, il travaille pour toi 24h/24.
+Un revenu passif, ce n'est pas un revenu sans effort. C'est un revenu decouple de ton temps. La difference est fondamentale. Un article d'affiliation qui génère 500 euros par mois t'a peut-être demande 20 heures de travail en redaction, SEO et optimisation. Mais une fois publie, il travaille pour toi 24h/24.
 
 Les affilies qui gagnent 10 000 euros par mois ont generalement :
 - 50 a 200 articles optimises pour le SEO
@@ -42,12 +42,12 @@ Soyons concrets. Pour atteindre 10 000 euros par mois en affiliation, voici un s
 
 C'est faisable. Mais ca ne se construit pas en un mois.
 
-## Les 4 piliers d'une strategie d'affiliation rentable
+## Les 4 piliers d'une stratégie d'affiliation rentable
 
 ### 1. Le choix de la niche
 
 La niche fait 80% du resultat. Les criteres qui comptent :
-- **Volume de recherche suffisant** : au moins 10 000 recherches mensuelles sur les mots-cles principaux
+- **Volume de recherche suffisant** : au moins 10 000 recherches mensuelles sur les mots-clés principaux
 - **Intention d'achat forte** : "meilleur outil de...", "alternative a...", "comparatif..."
 - **Commissions interessantes** : vise minimum 20% ou 30 euros par vente
 - **Recurrence** : les abonnements SaaS sont plus rentables que les produits one-shot
@@ -59,14 +59,14 @@ Trois types d'articles convertissent en affiliation :
 - **Guides d'achat** : "Les 10 meilleurs outils pour..." -- taux de 2 a 5%
 - **Tutoriels** : "Comment faire X avec [Outil]" -- taux de 1 a 3% mais fort volume
 
-Un article bien optimise de 2 000 a 3 000 mots, avec des captures d'ecran et des avis personnels, convertit 3 a 5 fois mieux qu'un article generique.
+Un article bien optimise de 2 000 a 3 000 mots, avec des captures d'ecran et des avis personnels, convertit 3 a 5 fois mieux qu'un article générique.
 
 ### 3. Le SEO comme moteur principal
 
 L'affiliation sans SEO, c'est pousser un rocher en haut d'une colline. Le trafic organique est gratuit et constant. Pour bien te positionner :
-- Cible des mots-cles a intention commerciale
+- Cible des mots-clés a intention commerciale
 - Construis des cocons semantiques autour de ta niche
-- Obtiens des backlinks de qualite (guest posting, HARO, relations presse)
+- Obtiens des backlinks de qualité (guest posting, HARO, relations presse)
 - Mets a jour tes articles tous les 3 a 6 mois
 
 ### 4. L'optimisation continue
@@ -81,14 +81,14 @@ Un article publie n'est jamais fini. Les affilies rentables :
 
 - **Promouvoir des produits que tu n'utilises pas** : ton audience le sent, et ta credibilite s'effondre
 - **Ne pas divulguer les liens affilies** : c'est une obligation legale (et ethique)
-- **Se concentrer sur le volume plutot que la qualite** : 10 articles excellents > 100 articles mediocres
+- **Se concentrer sur le volume plutot que la qualité** : 10 articles excellents > 100 articles mediocres
 - **Ignorer l'email marketing** : une liste email est un accelerateur puissant pour l'affiliation
 
 ## Timeline realiste
 
 | Mois | Action | Revenus attendus |
 |------|--------|-----------------|
-| 1-3 | Recherche de niche, creation des 10 premiers articles | 0-100 euros |
+| 1-3 | Recherche de niche, création des 10 premiers articles | 0-100 euros |
 | 4-6 | Optimisation SEO, 20 articles publies, premiers classements | 100-500 euros |
 | 7-12 | 40-50 articles, backlinks, premiers revenus recurrents | 500-2 000 euros |
 | 12-18 | Autorite etablie, optimisation des conversions | 2 000-5 000 euros |
@@ -98,7 +98,7 @@ Un article publie n'est jamais fini. Les affilies rentables :
 
 ## Le mot de la fin
 
-10 000 euros par mois en affiliation, c'est un objectif realiste. "Sans rien faire", c'est un mensonge. La realite se situe entre les deux : c'est un travail de construction qui, une fois en place, genere des revenus avec un effort de maintenance minimal. La question n'est pas "est-ce que ca marche ?" mais "est-ce que tu es pret a investir 12 a 18 mois avant de voir les gros resultats ?"
+10 000 euros par mois en affiliation, c'est un objectif realiste. "Sans rien faire", c'est un mensonge. La realite se situe entre les deux : c'est un travail de construction qui, une fois en place, génère des revenus avec un effort de maintenance minimal. La question n'est pas "est-ce que ca marche ?" mais "est-ce que tu es prêt a investir 12 a 18 mois avant de voir les gros resultats ?"
 
 ### Pour aller plus loin
 

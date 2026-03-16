@@ -70,7 +70,7 @@ Si vous n'êtes pas satisfait du résultat, vous pouvez toujours déplacer les d
 
 Abyssale template constructeur
 
-[https://img.abyssale.com/2e4358cf-bc38-4675-ad5d-3b652de65b26/banner-blog-v2](https://img.abyssale.com/2e4358cf-bc38-4675-ad5d-3b652de65b26/banner-blog-v2)
+[https://img.abyssale.com/2e4358cf-bc38-4675-ad5d-3b652de65b26/banner-blog-v2](__MASK_3__)
 
 # **Génération de bannières**
 

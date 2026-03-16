@@ -20,11 +20,11 @@ hero:
     file: [URL de ton image]
   actions:
     - text: Commence l'aventure
-      link: /strategies/
+      link: /stratégies/
       icon: right-arrow
       variant: primary
     - text: Notre vision
-      link: succes/
+      link: succès/
       icon: external
 ---
 

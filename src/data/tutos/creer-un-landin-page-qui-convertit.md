@@ -77,7 +77,7 @@ Est-elle assez spécifique ? (elle doit concerner une cible précise)
 
 Est-elle assez “désirable” ? (elle doit être accompagnée d’une vraie promesse, d’un vrai résultat)
 
-Un guide pour écrire des titres qui convertit : [https://sdlv.substack.com/p/creer-des-titres-qui-convertissent](https://substack.com/redirect/f274a22a-063c-4c0f-8933-56e1be57ba0b?j=eyJ1IjoiMjBuMm56In0.l9qiCjPL6EFO6IcgexTSCxf2BYTtXHUhNvK07FhjGU8)
+Un guide pour écrire des titres qui convertit : [https://sdlv.substack.com/p/creer-des-titres-qui-convertissent](__MASK_2__)
 
 Incitation - Friction
 

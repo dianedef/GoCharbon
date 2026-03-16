@@ -96,7 +96,7 @@ Il s'agit de Call A Lawyer, une plateforme sur lequel tu peux obtenir un accès 
 
 Tu as bien entendu, accès à vie avec appel illimité à des avocats qui pourrons répondre à toutes questions... Une offre à ne surtout pas manquer :
 
-[](https://viededingue1.com/BebWYa)[https://viededingue1.com/BebWYa](https://viededingue1.com/BebWYa)
+[](https://viededingue1.com/BebWYa)[https://viededingue1.com/BebWYa](__MASK_3__)
 
 ### **Est-ce que je peux joindre des avocats gratuitement ?**
 
@@ -328,7 +328,7 @@ Tu veux les rejoindre et changer la consommation du droit en France ? Lance-toi 
 
 [(1) Call A Lawyer | Paris | Facebook](https://www.facebook.com/callalawyer/)
 
-[](https://twitter.com/getcallalawyer/)[https://twitter.com/getcallalawyer/](https://twitter.com/getcallalawyer/)
+[](https://twitter.com/getcallalawyer/)[https://twitter.com/getcallalawyer/](__MASK_23__)
 
 [Call A Lawyer (@call.a.lawyer) • Photos et vidéos Instagram](https://www.instagram.com/call.a.lawyer/)
 

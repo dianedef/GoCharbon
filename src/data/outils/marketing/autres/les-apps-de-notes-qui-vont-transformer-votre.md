@@ -28,7 +28,7 @@ Note apps
 
 Same block based note taking app, writing
 
-More fluid experience
+More fluid expérience
 
 Two kinds of tools: Management like Asana, Monday, Airtable
 

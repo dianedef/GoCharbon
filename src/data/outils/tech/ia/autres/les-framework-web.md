@@ -122,22 +122,22 @@ Are you ready for a little exercise of pulling a framework apart and putting the
 
 The current landscape of web tooling is increasingly more complex than ever before. We have libraries such as Solid, Vue, Svelte, Angular, React, and others that handle UI (User Interface) updates in an ergonomic fashion. The ever more important topic weighing on developers is the balance and trade-off of performance and usability best practices.
 
-Developers are also blurring the lines between front-end and back-end code. The way we colocate logic and data is becoming more interesting as we integrate and mesh the way they work together to deliver a unified app experience.
+Developers are also blurring the lines between front-end and back-end code. The way we colocate logic and data is becoming more interesting as we integrate and mesh the way they work together to deliver a unified app expérience.
 
 With these shifts in ideology in mind, meta-frameworks have evolved around the core libraries in unique ways. To encapsulate the paradigms in which the UI is rendered and create seamless interoperability between our server code and our browser code, **new practices are emerging**.
 
-While the initial idea of having a “meta” framework was to stitch together different sets of tools in order to build smooth experiences, it is tough to create integrations without making some level of opinionated decisions. So frameworks such as QwikCity, SvelteKit, Redwood, and Next.js went all the way into their own opinionated territory and provided a hard railway to ensure a defined set of conventions.
+While the initial idea of having a “meta” framework was to stitch together different sets of tools in order to build smooth experiences, it is tough to create integrations without making some level of opinionated décisions. So frameworks such as QwikCity, SvelteKit, Redwood, and Next.js went all the way into their own opinionated territory and provided a hard railway to ensure a defined set of conventions.
 
 Meanwhile, others like Nuxt, Remix, and Analog stayed with a more shallow abstraction of their integrations, allowing a mix of their toolings and more easily using resources from the community (Vite is a good example of a tool that is shallowly used by all of them).
 
-This not only produces a lower vendor lock-in to developers but also allows configuration to be re-used in some cases as such decisions are stripped out of opinions in favor of stronger abstractions. **SolidStart takes a giant step beyond** that into unbiased territory. Its own core is around 1500 lines of code, and the biggest pieces of functionality are provided with a meshing of well-integrated tools.
+This not only produces a lower vendor lock-in to developers but also allows configuration to be re-used in some cases as such décisions are stripped out of opinions in favor of stronger abstractions. **SolidStart takes a giant step beyond** that into unbiased territory. Its own core is around 1500 lines of code, and the biggest pieces of functionality are provided with a meshing of well-integrated tools.
 
 Modules Over Monoliths
 ----------
 
 The impetus behind decoupling the architecture completely is to give power to the consuming developer to pick the framework and build it according to their desire. A developer may want to use Solid and SSR, but let’s imagine legacy code has a tight dependency on TanStack Router, while SolidStart and most Solid projects have Solid-Router instead. With a decoupled architecture, it becomes possible to either create an incremental adoption or integration layer so that everything will work tailored to the team’s best benefit.
 
-The decoupled architecture sustaining newer frameworks also empowers the developer for a **better debugging experience** within and beyond its community. If an issue is encountered on the server, you’re not restricted to the knowledge of a specific framework.
+The decoupled architecture sustaining newer frameworks also empowers the developer for a **better debugging expérience** within and beyond its community. If an issue is encountered on the server, you’re not restricted to the knowledge of a specific framework.
 
 For example, since both are based on Nitro, the Analog and SolidStart communities can now share knowledge with each other. Beyond that, because all of them are based in Nitro and Vite, Nuxt, Analog, and SolidStart can deploy to the same platforms and share implementation details to make each ecosystem grow together. The community wins with this approach, and the library/framework developers win as well. This is a radically **new pattern and approach** to jointly sharing the weight of meta-framework maintenance (one of the most feared responsibilities of maintainers).
 
@@ -168,7 +168,7 @@ Solid also brings first-class primitives, built-in Control Flow components, high
 
 Arguably the best bundler in the JavaScript ecosystem, Vite has the right balance between declarative and customizable configuration. It’s fully based on TypeScript, which makes it easy to extend by the consuming library or framework, and has a large enough user base that guarantees its versatility. Vite works with and has become the **de-facto tool for many frameworks**, such as Astro, Vue, Preact, Elm, Lit, Svelte, Nuxt, Analog, Remix, and many others.
 
-Aside from its popularity, it is particularly loved for its fast server start time, HMR support, optimized builds, ease of configuration, rich plug-in ecosystem, modern tooling, and high-quality overall developer experience.
+Aside from its popularity, it is particularly loved for its fast server start time, HMR support, optimized builds, ease of configuration, rich plug-in ecosystem, modern tooling, and high-quality overall developer expérience.
 
 3. Nitro
 ----------

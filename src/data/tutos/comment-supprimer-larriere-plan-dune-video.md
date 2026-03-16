@@ -12,11 +12,11 @@ pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Comment Supprimer l'Arriere-Plan d'Une Video
+# Comment Supprimer l'Arriere-Plan d'Une Vidéo
 
 ## FOND VERT SANS FOND VERT : LA TECHNIQUE QUI CHANGE TOUT
 
-Tu veux un fond propre pour tes videos sans investir dans un studio ? Que ce soit pour incruster un decor, un fond de couleur ou un environnement virtuel, la suppression d'arriere-plan est devenue accessible a tous grace a l'IA.
+Tu veux un fond propre pour tes vidéos sans investir dans un studio ? Que ce soit pour incruster un decor, un fond de couleur ou un environnement virtuel, la suppression d'arriere-plan est devenue accessible a tous grâce à l'IA.
 
 ---
 
@@ -28,7 +28,7 @@ La methode classique. Tu filmes devant un tissu vert (ou bleu) et tu retires cet
 
 ### Sans fond vert (IA)
 
-Les outils recents detectent automatiquement les personnes et separent l'arriere-plan sans fond vert. Moins precis mais beaucoup plus pratique.
+Les outils recents detectent automatiquement les personnes et separent l'arriere-plan sans fond vert. Moins précis mais beaucoup plus pratique.
 
 ---
 
@@ -39,11 +39,11 @@ Si tu fais du streaming ou des visioconferences :
 1. Installe un fond vert derriere toi (tissu, panneau ou peinture murale)
 2. Eclaire le fond vert **uniformement** (pas d'ombre, pas de pli)
 3. Ouvre OBS Studio
-4. Fais un clic droit sur ta source video > **Filtres**
+4. Fais un clic droit sur ta source vidéo > **Filtres**
 5. Ajoute un filtre **Chroma Key**
-6. Selectionne la couleur (vert par defaut)
+6. Sélectionne la couleur (vert par defaut)
 7. Ajuste les curseurs **Similarity** et **Smoothness** jusqu'a ce que le fond disparaisse proprement
-8. Ajoute une source image ou video en dessous pour ton nouveau fond
+8. Ajoute une source image ou vidéo en dessous pour ton nouveau fond
 
 ### Reglages OBS recommandes
 
@@ -65,15 +65,15 @@ Si tu fais du streaming ou des visioconferences :
 5. Clique sur le fond vert dans le viewer
 6. Ajuste les curseurs de tolerance pour capturer toute la nuance de vert
 7. Active l'**inversion** du masque (tu veux garder le sujet, pas le fond)
-8. Le fond devient transparent. Ajoute ton nouveau fond sur une piste video en dessous.
+8. Le fond devient transparent. Ajoute ton nouveau fond sur une piste vidéo en dessous.
 
 ### Sans fond vert (DaVinci Resolve Studio uniquement)
 
 La version Studio inclut le **Magic Mask** :
 
 1. Onglet Color > panneau Magic Mask
-2. Selectionne "Person" et peins sur le sujet
-3. DaVinci detecte et suit automatiquement la personne
+2. Sélectionne "Person" et peins sur le sujet
+3. DaVinci détecte et suit automatiquement la personne
 4. Inverse le masque pour isoler l'arriere-plan
 5. Supprime ou remplace le fond
 
@@ -98,49 +98,49 @@ La version Studio inclut le **Magic Mask** :
 
 ### Canva Pro
 
-Canva Pro (12,99 USD/mois) inclut desormais un outil de suppression d'arriere-plan video en un clic. Export en MP4 jusqu'a 1080p. Tres simple mais moins precis pour les details fins (cheveux).
+Canva Pro (12,99 USD/mois) inclut desormais un outil de suppression d'arriere-plan vidéo en un clic. Export en MP4 jusqu'a 1080p. Très simple mais moins précis pour les details fins (cheveux).
 
 ---
 
 ## Methode 4 : CapCut (Mobile et Desktop)
 
-1. Importe ta video dans CapCut
-2. Selectionne le clip et va dans **Retirer l'arriere-plan** (ou "Remove Background")
+1. Importe ta vidéo dans CapCut
+2. Sélectionne le clip et va dans **Retirer l'arriere-plan** (ou "Remove Background")
 3. CapCut utilise l'IA pour detecter le sujet
 4. Le fond est supprime automatiquement
-5. Ajoute un fond de couleur, une image ou une video en dessous
+5. Ajoute un fond de couleur, une image ou une vidéo en dessous
 
-Tres pratique pour les Reels et TikToks tournes au telephone.
+Très pratique pour les Reels et TikToks tournes au telephone.
 
 ---
 
-## Methode 5 : Premiere Pro + After Effects
+## Methode 5 : Première Pro + After Effects
 
-### Premiere Pro seul
+### Première Pro seul
 
-1. Selectionne le clip > **Effets > Incrustation Ultra**
+1. Sélectionne le clip > **Effets > Incrustation Ultra**
 2. Utilise la pipette pour selectionner la couleur du fond vert
 3. Ajuste les reglages de tolerance
 4. Place un fond sur la piste en dessous
 
-### After Effects (plus precis)
+### After Effects (plus précis)
 
 1. Importe le clip
 2. Applique l'effet **Keylight (1.2)**
 3. Pipette sur le fond vert
 4. Ajuste Screen Gain et Screen Balance
 5. Utilise **Roto Brush** pour corriger les zones problematiques (cheveux, bords)
-6. Le rendu sera plus propre qu'avec Premiere seul
+6. Le rendu sera plus propre qu'avec Première seul
 
 ---
 
-## Conseils Pour un Fond Vert Reussi
+## Conseils Pour un Fond Vert Réussi
 
 ### Eclairage
 
 - **Eclaire le fond vert separement** du sujet. Deux lumieres sur le fond, une ou deux sur le sujet.
-- Le fond doit etre eclaire de maniere **uniforme**. Pas de hotspot, pas d'ombre.
-- Le sujet doit etre a **minimum 1,5 metre** du fond vert pour eviter le "spill" (reflet vert sur la peau).
+- Le fond doit être eclaire de maniere **uniforme**. Pas de hotspot, pas d'ombre.
+- Le sujet doit être a **minimum 1,5 metre** du fond vert pour eviter le "spill" (reflet vert sur la peau).
 
 ### Le tissu
 
@@ -158,13 +158,13 @@ Tres pratique pour les Reels et TikToks tournes au telephone.
 
 ## Comparatif
 
-| Outil | Fond vert requis | Qualite | Prix | Facilite |
+| Outil | Fond vert requis | Qualité | Prix | Facilite |
 |-------|-----------------|---------|------|----------|
 | OBS | Oui (ou IA basique) | Bonne | Gratuit | Facile |
 | DaVinci Resolve | Oui (ou Studio pour Magic Mask) | Excellente | Gratuit / 295 USD (Studio) | Moyen |
-| unscreen.io | Non | Correcte a bonne | Gratuit (limite) / 9,90 USD/mois | Tres facile |
+| unscreen.io | Non | Correcte a bonne | Gratuit (limite) / 9,90 USD/mois | Très facile |
 | CapCut | Non | Bonne | Gratuit | Facile |
-| Canva Pro | Non | Bonne | 12,99 USD/mois | Tres facile |
+| Canva Pro | Non | Bonne | 12,99 USD/mois | Très facile |
 | After Effects | Oui | Excellente | ~23 USD/mois (plan annuel) | Avance |
 
 ---
@@ -175,17 +175,17 @@ Tres pratique pour les Reels et TikToks tournes au telephone.
 - Sujet trop proche du fond vert (spill vert sur la peau et les vetements)
 - Porter des vetements verts devant un fond vert
 - Oublier de traiter les cheveux (la zone la plus difficile a keyer)
-- Compression video trop forte qui detruit les nuances de vert
+- Compression vidéo trop forte qui detruit les nuances de vert
 
 ---
 
 ## Ressources
 
-- [Video : Montage Video IA - Les 5 outils que nous recommandons](https://youtu.be/aLMFZ2gwOFQ?t=353)
+- [Vidéo : Montage Vidéo IA - Les 5 outils que nous recommandons](https://youtu.be/aLMFZ2gwOFQ?t=353)
 - [OBS Studio](https://obsproject.com/) (gratuit, open source)
 - [unscreen.io](https://www.unscreen.io/) (successeur d'Unscreen, gratuit en navigateur / payant pour export pro)
 - [Unscreen Pro](https://unscreen.pro/) (alternative, a partir de 4,99 USD/mois)
 - [CapCut](https://www.capcut.com/) (gratuit, desktop et mobile)
-- [Runway ML](https://runwayml.com/) : suppression de fond video avancee via IA (a partir de 12 USD/mois)
+- [Runway ML](https://runwayml.com/) : suppression de fond vidéo avancee via IA (a partir de 12 USD/mois)
 
 > **Note** : le site original unscreen.com a ferme en decembre 2025. Les liens ci-dessus sont les alternatives recommandees.

@@ -192,9 +192,9 @@ The feed can be consumed by your firewall or any existing remediation mechanism.
 
 CrowdSec Security Engine key features
 
-Real-time decision management
+Real-time décision management
 
-Complete real-time decision management within the console with the Polling API.
+Complète real-time décision management within the console with the Polling API.
 
 Auditd Support
 
@@ -210,7 +210,7 @@ Create allow lists that also apply to the community blocklist.
 
 Detection Engine Improvements
 
-Experience increased efficiency with faster response times for high-volume log processing and a decrease in required processing power.
+Expérience increased efficiency with faster response times for high-volume log processing and a decrease in required processing power.
 
 Feature Flag Support
 
@@ -296,7 +296,7 @@ Unique cockpit to manage all CrowdSec setups - detection scenarios, bouncers, up
 
 All alerts & attacks on all your servers in one place
 
-Immediate overview of all threats, alerts on all your machines for faster decision-making
+Immediate overview of all threats, alerts on all your machines for faster décision-making
 
 Bridge to the CrowdSec Cyber Threat Intelligence
 
@@ -346,7 +346,7 @@ Reputation data is frequently refreshed to make sure it reflects the lifecycle o
 
 Strictly curated data sets
 
-Most CTI solutions are crippled by low data quality. False positives, deprecated data or poisoned bases increase alert fatigue and provide unreliable information to make decisions. CrowdSec CTI is curated to make sure only high-confidence data is shared with the users.
+Most CTI solutions are crippled by low data quality. False positives, deprecated data or poisoned bases increase alert fatigue and provide unreliable information to make décisions. CrowdSec CTI is curated to make sure only high-confidence data is shared with the users.
 
 Each contributing user gets a reputation score based on seniority and contribution. The higher the reputation, the higher the value the curation algorithm will give to the data provided by the user
 
@@ -506,7 +506,7 @@ We highly recommend users to always take the “softest” remedy, here is why. 
 
 How can I make sure to avoid poisoning and false positives when using CrowdSec?
 
-Every network member (watchers sharing their signals) gets a trust rank (TR). By consistently sending back valuable and exact information, the TR gets better over time. A daemon reporting for months, with 100% accuracy, valuable information will eventually reach the maximum TR. Feeding the system with wrong information would result in a severe and immediate loss of TR. This mechanism is made to avoid poisoning. All TR can partake in the consensus, but only the highest TR rank can publish to the database without needing validation from our own honeypot network. It nevertheless has to pass the test of the Canary list, meaning the IP reported shouldn’t be one of the canary. Canaries are in fact whitelisted IP, known to be trustworthy, like the Google bot, Microsoft updates, etc. If a scenario is too sensitive or twitchy, it might shoot a canary. This mechanism is made to avoid false positives. A ML algorithm will (soon) be trained on our honeypot network logs to further rule out false positives and also highlight low noise attacks, like IP working in a coordinated fashion, but where some of them aren’t directly violating rules. (like doing a basic port check before another one compromises a machine). All those mechanisms (and more to come) contribute to what we call the Consensus chamber (Consensus in short), where the decision is taken to either ban the IP responsible for an alert or not.
+Every network member (watchers sharing their signals) gets a trust rank (TR). By consistently sending back valuable and exact information, the TR gets better over time. A daemon reporting for months, with 100% accuracy, valuable information will eventually reach the maximum TR. Feeding the system with wrong information would result in a severe and immediate loss of TR. This mechanism is made to avoid poisoning. All TR can partake in the consensus, but only the highest TR rank can publish to the database without needing validation from our own honeypot network. It nevertheless has to pass the test of the Canary list, meaning the IP reported shouldn’t be one of the canary. Canaries are in fact whitelisted IP, known to be trustworthy, like the Google bot, Microsoft updates, etc. If a scenario is too sensitive or twitchy, it might shoot a canary. This mechanism is made to avoid false positives. A ML algorithm will (soon) be trained on our honeypot network logs to further rule out false positives and also highlight low noise attacks, like IP working in a coordinated fashion, but where some of them aren’t directly violating rules. (like doing a basic port check before another one compromises a machine). All those mechanisms (and more to come) contribute to what we call the Consensus chamber (Consensus in short), where the décision is taken to either ban the IP responsible for an alert or not.
 
 Is CrowdSec GDPR compliant?
 
@@ -526,7 +526,7 @@ The “Watcher tier” consists of people using the software, sending us their s
 
 How is the data treated and where is it stored?
 
-Data is treated by our online servers. CrowdSec’s team is made of former Pentesters, DevOps, SecOps, SecDevOps, some having a decade of experience in secure hosting. This doesn’t mean we aren’t error-prone, but at the very least, we have decent field knowledge and standards. Our servers are secured and maintained. Obviously, being breached would deeply damage our reputation and trust relation with our community, hence this point is not taken lightly. Even though we take all measures we think are adapted to protect our servers, would those collection servers be compromised, nothing vital transits through them. The data they gather is not sensible, confidential, or private material. We would potentially miss some signals, but that’s pretty much it. The consensus servers, the one casting whether an IP is dangerous or not, is not publicly exposed and is also severely secured to avoid any security breach. The storage of those data isn’t exposed either and only accessed through an Internal API. If the data were to be wiped out by accident or intentionally, the network would anyway quickly regenerate a consensus within a few hours. Anyway, those servers distributing the consensus (ie IP blacklists) aren’t either containing any sensitive information.
+Data is treated by our online servers. CrowdSec’s team is made of former Pentesters, DevOps, SecOps, SecDevOps, some having a decade of expérience in secure hosting. This doesn’t mean we aren’t error-prone, but at the very least, we have decent field knowledge and standards. Our servers are secured and maintained. Obviously, being breached would deeply damage our reputation and trust relation with our community, hence this point is not taken lightly. Even though we take all measures we think are adapted to protect our servers, would those collection servers be compromised, nothing vital transits through them. The data they gather is not sensible, confidential, or private material. We would potentially miss some signals, but that’s pretty much it. The consensus servers, the one casting whether an IP is dangerous or not, is not publicly exposed and is also severely secured to avoid any security breach. The storage of those data isn’t exposed either and only accessed through an Internal API. If the data were to be wiped out by accident or intentionally, the network would anyway quickly regenerate a consensus within a few hours. Anyway, those servers distributing the consensus (ie IP blacklists) aren’t either containing any sensitive information.
 
 Is CrowdSec IPV6 compatible?
 
@@ -558,7 +558,7 @@ Data source: Allow log, signals, or data acquisition (logfile, rsyslogd, cloud t
 
 Scenario: a Yaml file describing a behavior to identify Aggressions
 
-Bouncer: a component enforcing the decision which is setup in the Local or Online interface, it can be drop, captcha, mfa, privilege drop, rate or speed limiting, etc. It can work on any level IP/session/business logic. You could, for example, use a TPC wrapper in a IoT IDE to handle incoming connexion, or send a Captcha from your Magento if an IP is marked as dangerous.
+Bouncer: a component enforcing the décision which is setup in the Local or Online interface, it can be drop, captcha, mfa, privilege drop, rate or speed limiting, etc. It can work on any level IP/session/business logic. You could, for example, use a TPC wrapper in a IoT IDE to handle incoming connexion, or send a Captcha from your Magento if an IP is marked as dangerous.
 
 Collection: A group of scenarii, parsers and datasource focused on a precise vertical (eCommerce), technical context (Magento) or generic template (LAMP)
 
@@ -568,4 +568,4 @@ Consensus: The group of algorithms and data source contributing to the evaluatio
 
 Can I have more information about the CrowdSec software license?
 
-CrowdSec is licensed under MIT open source license, you can find a copy of the text here: “Copyright 2020, CrowdSec SAS ([http://crowdsec.net](http://crowdsec.net)), Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.” That’s all there is to it. Like in the case of Debian, you can do anything you want with it, for free, period. You just need to embed this license when you redistribute the product.
+CrowdSec is licensed under MIT open source license, you can find a copy of the text here: “Copyright 2020, CrowdSec SAS ([http://crowdsec.net](__MASK_4__)), Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.” That’s all there is to it. Like in the case of Debian, you can do anything you want with it, for free, period. You just need to embed this license when you redistribute the product.

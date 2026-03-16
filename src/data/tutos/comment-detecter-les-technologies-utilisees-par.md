@@ -37,7 +37,7 @@ C'est l'outil le plus pratique au quotidien.
 - Clique sur l'icone Wappalyzer dans ta barre d'outils
 - Tu vois instantanement toutes les technologies detectees, classees par categorie
 
-**Ce que Wappalyzer detecte :**
+**Ce que Wappalyzer détecte :**
 - CMS (WordPress, Shopify, Wix, Drupal, etc.)
 - Frameworks front-end (React, Vue.js, Angular, Next.js, Astro, etc.)
 - Outils analytics (Google Analytics, Matomo, Hotjar, etc.)
@@ -50,14 +50,14 @@ C'est l'outil le plus pratique au quotidien.
 
 **Avantage** : fonctionne en temps reel sur chaque site que tu visites. Zero effort.
 
-**Limite** : ne detecte que ce qui laisse des traces dans le code cote client. Un backend en Go ou Rust ne sera pas detecte.
+**Limite** : ne détecte que ce qui laisse des traces dans le code cote client. Un backend en Go ou Rust ne sera pas détecte.
 
 **Tarification Wappalyzer (2025)** :
 - **Extension navigateur** : gratuite pour la detection de technologies. Un compte gratuit donne 50 lookups/mois
 - **Plus** : 10 dollars/mois (200 lookups, infos entreprise dans l'extension, app iOS)
 - **Pro** : 250 dollars/mois (1 utilisateur, lead lists, CRM integration)
 - **Business** : 450 dollars/mois (5 utilisateurs, technologies illimitees, 20 000 credits API)
-- **Enterprise** : 850+ dollars/mois (25+ utilisateurs, 200 000+ credits API, account manager dedie)
+- **Enterprise** : 850+ dollars/mois (25+ utilisateurs, 200 000+ credits API, account manager dédié)
 
 ## Methode 2 : BuiltWith (analyse detaillee)
 
@@ -80,9 +80,9 @@ C'est l'outil le plus pratique au quotidien.
 - Alertes quand un site change de technologie
 - Export de listes pour la prospection
 
-**Prix (mis a jour)** : la recherche individuelle est gratuite a vie. Les fonctionnalites pro commencent a 295 dollars/mois (Basic -- 2 technologies, 2 mots-cles, 1 login), 495 dollars/mois (Pro -- technologies et rapports illimites, 1 login), et 995 dollars/mois (Team -- acces et logins illimites). Reduction disponible sur la facturation annuelle. BuiltWith suit plus de 111 000 technologies differentes sur 414 millions de domaines avec un historique de plus de 18 ans.
+**Prix (mis a jour)** : la recherche individuelle est gratuite a vie. Les fonctionnalites pro commencent a 295 dollars/mois (Basic -- 2 technologies, 2 mots-clés, 1 login), 495 dollars/mois (Pro -- technologies et rapports illimites, 1 login), et 995 dollars/mois (Team -- acces et logins illimites). Reduction disponible sur la facturation annuelle. BuiltWith suit plus de 111 000 technologies differentes sur 414 millions de domaines avec un historique de plus de 18 ans.
 
-## Methode 3 : WhatCMS (rapide et precis)
+## Methode 3 : WhatCMS (rapide et précis)
 
 [WhatCMS](https://whatcms.org) est specialise dans la detection de CMS.
 
@@ -155,16 +155,16 @@ Les enregistrements DNS te revelent l'hebergeur (Vercel, Netlify, AWS, OVH, etc.
 Avant un appel prospect, scanne son site. "Je vois que vous utilisez WordPress avec Elementor et WooCommerce. Je peux vous proposer une migration vers Shopify pour simplifier la gestion de votre boutique." Impression immediate de professionnalisme.
 
 **Tu es en veille concurrentielle :**
-Scanne les 10 premiers sites de ta niche. Note les outils marketing qu'ils utilisent (analytics, heatmaps, chat, email). Si 7 sur 10 utilisent Hotjar, c'est peut-etre un outil que tu devrais tester.
+Scanne les 10 premiers sites de ta niche. Note les outils marketing qu'ils utilisent (analytics, heatmaps, chat, email). Si 7 sur 10 utilisent Hotjar, c'est peut-être un outil que tu devrais tester.
 
 **Tu fais du SEO :**
 Identifier si un concurrent utilise un CDN, du lazy loading, ou un framework SSR te donne des indices sur pourquoi il est rapide (ou lent). Ca oriente tes recommandations techniques.
 
 ## Astuces
 
-- **Combine 2 outils minimum** : Wappalyzer + BuiltWith couvrent 95% des cas. Aucun outil ne detecte tout seul
+- **Combine 2 outils minimum** : Wappalyzer + BuiltWith couvrent 95% des cas. Aucun outil ne détecte tout seul
 - **Attention aux sites derriere des reverse proxies** : Cloudflare, Sucuri ou un WAF peuvent masquer certaines technologies
-- **Les SPA (Single Page Apps)** sont plus dures a analyser : le code source initial est souvent un shell vide. Utilise l'onglet Network des DevTools pour voir ce qui se charge apres
+- **Les SPA (Single Page Apps)** sont plus dures a analyser : le code source initial est souvent un shell vide. Utilise l'onglet Network des DevTools pour voir ce qui se charge après
 - **Historique BuiltWith** : regarde les technologies retirees pour comprendre les pivots techniques d'un concurrent
 
 Detecter la stack technique d'un site prend 30 secondes avec les bons outils. Installe Wappalyzer maintenant et tu auras cette info sur chaque site que tu visites, sans aucun effort supplementaire.

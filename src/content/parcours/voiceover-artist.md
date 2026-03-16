@@ -52,4 +52,4 @@ Monétiser une voix-off pro avec pipeline commande et qualité studio.
 ## Idées de contenus pour aller plus loin
 - [Guide à venir 1: setup home studio](/tutos/voiceover-artist/setup-home-studio)
 - [Guide à venir 2: template contrat cession droits](/tutos/voiceover-artist/template-contrat-cession-droits)
-- [Guide à venir 3: creation demo réel cible](/tutos/voiceover-artist/creation-demo-reel-cible)
+- [Guide à venir 3: création demo réel cible](/tutos/voiceover-artist/creation-demo-reel-cible)

@@ -13,7 +13,7 @@ imgUrl: ../../../../../assets/astro.jpeg
 
 repo officiel [sxyazi/yazi at shipped](https://github.com/sxyazi/yazi/tree/shipped)
 
-Yazi (means "duck") is a ⚡️ Blazing Fast Terminal file manager, written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, and customizable file management experience.
+Yazi (means "duck") is a ⚡️ Blazing Fast Terminal file manager, written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, and customizable file management expérience.
 
 ##  installer un theme
 

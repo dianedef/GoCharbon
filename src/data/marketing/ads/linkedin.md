@@ -18,7 +18,7 @@ imgUrl: ../../../assets/astro.jpeg
 - **Sponsored Content**
   - Single image ads
   - Carousel ads
-  - Video ads
+  - Vidéo ads
   - Event ads
   - Document ads
 

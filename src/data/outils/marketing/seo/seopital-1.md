@@ -58,9 +58,9 @@ https://x.com/seopital
 - Intégration de l'outil avec d'autres plateformes populaires
 
 ## ⛓️ Liens et Ressources
-- Site web : [https://www.seopital.co](https://www.seopital.co)
-- LinkedIn : [https://linkedin.com/company/seopital/](https://linkedin.com/company/seopital/)
-- Twitter : [https://twitter.com/seopital](https://twitter.com/seopital)
+- Site web : [https://www.seopital.co](__MASK_1__)
+- LinkedIn : [https://linkedin.com/company/seopital/](__MASK_2__)
+- Twitter : [https://twitter.com/seopital](__MASK_3__)
 
 ## 🤝 Programme de Parrainage
 - Programme d'affiliation : [Programme d’affiliation SEOpital](https://seopital.firstpromoter.com/)

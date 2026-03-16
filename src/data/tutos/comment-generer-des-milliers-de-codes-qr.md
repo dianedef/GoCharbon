@@ -12,11 +12,11 @@ pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Comment generer des milliers de QR codes personnalises
+# Comment générer des milliers de QR codes personnalises
 
-Un QR code sur une carte de visite, un flyer ou un emballage produit, ca devient standard. Mais quand tu dois en generer des centaines ou des milliers, chacun pointant vers une URL differente et avec un design personnalise, il faut les bons outils.
+Un QR code sur une carte de visite, un flyer ou un emballage produit, ca devient standard. Mais quand tu dois en générer des centaines ou des milliers, chacun pointant vers une URL differente et avec un design personnalise, il faut les bons outils.
 
-Voici comment generer des QR codes en masse, personnalises et traceables.
+Voici comment générer des QR codes en masse, personnalises et traceables.
 
 ## QR codes statiques vs dynamiques : quelle difference
 
@@ -25,29 +25,29 @@ Voici comment generer des QR codes en masse, personnalises et traceables.
 L'URL est encodee directement dans le QR code. Une fois imprime, tu ne peux plus changer la destination.
 
 - **Avantage** : fonctionne sans serveur intermediaire, gratuit
-- **Inconvenient** : impossible de modifier l'URL apres impression, pas de tracking
+- **Inconvenient** : impossible de modifier l'URL après impression, pas de tracking
 
 ### QR code dynamique
 
 Le QR code pointe vers une URL intermediaire qui redirige vers la destination finale. Tu peux changer la destination a tout moment.
 
-- **Avantage** : modifiable apres impression, tracking des scans (nombre, localisation, appareil)
+- **Avantage** : modifiable après impression, tracking des scans (nombre, localisation, appareil)
 - **Inconvenient** : depend d'un service tiers (si le service ferme, tes QR codes meurent)
 
-**Recommandation** : pour tout usage professionnel, utilise des QR codes dynamiques. Le tracking seul justifie le cout.
+**Recommandation** : pour tout usage professionnel, utilise des QR codes dynamiques. Le tracking seul justifie le coût.
 
-## Methode 1 : Abyssale (generation en masse, francais)
+## Methode 1 : Abyssale (generation en masse, français)
 
-Abyssale est un outil francais qui permet de generer des visuels et des QR codes a grande echelle.
+Abyssale est un outil français qui permet de générer des visuels et des QR codes a grande echelle.
 
 ### Comment ca marche
 
 1. Cree un template avec une zone de QR code dynamique
 2. Importe un fichier CSV avec toutes tes URLs
-3. Abyssale genere un QR code unique pour chaque ligne
+3. Abyssale génère un QR code unique pour chaque ligne
 4. Telecharge le tout en ZIP
 
-### Etape par etape
+### Étape par étape
 
 1. **Cree ton compte** sur abyssale.com
 2. **Cree un template** : carte de visite, flyer, sticker... avec un espace pour le QR code
@@ -61,10 +61,10 @@ nom,url_qr,couleur
 "Carte Marseille","https://monsite.com/marseille","#3498DB"
 ```
 
-5. **Importe et genere** : Abyssale cree toutes les variantes
+5. **Importe et génère** : Abyssale cree toutes les variantes
 6. **Telecharge** le ZIP avec tous les visuels
 
-**Prix** : a partir de 25$/mois (plan Starter, 250 credits images/mois). Plan Business a 75$/mois (2 000 credits, video/GIF inclus). Plan Prime a 125$/mois (10 000 credits, HTML5, PDF print). Essai gratuit 14 jours. Ideal si tu generes aussi des bannieres et visuels en masse.
+**Prix** : a partir de 25$/mois (plan Starter, 250 credits images/mois). Plan Business a 75$/mois (2 000 credits, vidéo/GIF inclus). Plan Prime a 125$/mois (10 000 credits, HTML5, PDF print). Essai gratuit 14 jours. Ideal si tu generes aussi des bannieres et visuels en masse.
 
 ## Methode 2 : QR Code generators en masse
 
@@ -75,13 +75,13 @@ nom,url_qr,couleur
 3. Telecharge en PNG, SVG, PDF ou EPS
 
 **Plans** :
-- **Free** : creation illimitee de QR codes statiques, personnalisation complete, telechargement haute resolution. 5 QR codes dynamiques, 15 codes sauvegardes, 180 jours de stats
+- **Free** : création illimitee de QR codes statiques, personnalisation complète, téléchargement haute resolution. 5 QR codes dynamiques, 15 codes sauvegardes, 180 jours de stats
 - **Lifetime Premium** : 79$ en paiement unique (au lieu de 199$). QR codes dynamiques illimites, sauvegardes illimitees, analytics 365 jours, acces API, QR codes en masse (bulk), domaine personnalise, white labeling, pas de pub
 - **Premium mensuel** : 7$/mois pour les memes fonctionnalites
 
 Pour la generation en masse via API :
 - **API via RapidAPI** : endpoints REST pour creer des QR codes personnalises en PNG, SVG, PDF ou EPS. Support des logos, couleurs, gradients et formes personnalisees
-- Documentation complete sur [qrcode-monkey.com/qr-code-api-with-logo](https://www.qrcode-monkey.com/qr-code-api-with-logo/)
+- Documentation complète sur [qrcode-monkey.com/qr-code-api-with-logo](https://www.qrcode-monkey.com/qr-code-api-with-logo/)
 
 ### QR Batch
 
@@ -90,7 +90,7 @@ Specialise dans la generation en masse ([qrbatch.com](https://qrbatch.com)) :
 1. Va sur qrbatch.com
 2. Uploade un fichier CSV ou Excel avec tes URLs (ou textes, vCards, etc.)
 3. Personnalise le design (couleurs, logo, forme)
-4. Genere et telecharge le lot complet en ZIP (PNG, SVG, PDF, EPS)
+4. Génère et telecharge le lot complet en ZIP (PNG, SVG, PDF, EPS)
 
 **Prix** : pay-per-use a partir de 5$ pour 100 QR codes statiques. QR codes dynamiques disponibles avec tracking. Pas d'abonnement, tu paies uniquement ce que tu generes.
 
@@ -101,7 +101,7 @@ Solution pro avec tracking integre ([scanova.io](https://scanova.io)) :
 1. Cree ton design de QR code (14+ types : URL, vCard, menu, app store, etc.)
 2. Importe ta liste d'URLs pour generation en masse
 3. Active le tracking (nombre de scans, localisation, appareil, heure)
-4. Genere en masse et telecharge
+4. Génère en masse et telecharge
 
 **Prix** : a partir de 60$/an (plan Starter). Plans Pro et Business disponibles avec plus de QR codes dynamiques et fonctionnalites avancees (retargeting, analytics GPS, design premium).
 
@@ -138,16 +138,16 @@ urls.forEach((url, i) => {
 
 ## Personnaliser tes QR codes
 
-Un QR code noir et blanc generique, ca ne donne pas envie de le scanner. Voici comment le rendre attractif :
+Un QR code noir et blanc générique, ca ne donne pas envie de le scanner. Voici comment le rendre attractif :
 
 ### Ajouter ton logo au centre
 
-La plupart des generateurs permettent d'inserer un logo au centre du QR code. Le code reste scannable grace a la correction d'erreur integree (jusqu'a 30% du code peut etre masque).
+La plupart des generateurs permettent d'inserer un logo au centre du QR code. Le code reste scannable grâce à la correction d'erreur integree (jusqu'a 30% du code peut être masque).
 
 ### Changer les couleurs
 
 - Utilise les couleurs de ta marque pour le premier plan
-- Garde un fond clair (blanc ou tres clair) pour le contraste
+- Garde un fond clair (blanc ou très clair) pour le contraste
 - Evite les couleurs trop proches entre le fond et le premier plan
 
 ### Modifier la forme des modules
@@ -186,14 +186,14 @@ https://monsite.com/promo?utm_source=qr&utm_medium=flyer&utm_campaign=paris
 | Cartes de visite | Lien LinkedIn/portfolio | Par personne |
 | Menu restaurant | Lien vers le menu digital | 1 par table |
 | Emballage produit | Fiche produit/avis | Par SKU |
-| Flyers evenement | Page d'inscription | Par evenement |
+| Flyers événement | Page d'inscription | Par événement |
 | Etiquettes logistiques | Suivi de colis | Par colis |
 | Affichage publicitaire | Landing page promo | Par campagne |
 | Certificats/diplomes | Verification d'authenticite | Par document |
 
 ## Les erreurs a eviter
 
-- **QR code trop petit** : minimum 2x2 cm pour etre scannable facilement
+- **QR code trop petit** : minimum 2x2 cm pour être scannable facilement
 - **Pas assez de contraste** : un QR code gris sur fond beige, ca ne marche pas
 - **URL trop longue** : plus l'URL est longue, plus le QR code est dense et difficile a scanner. Utilise un raccourcisseur
 - **Ne pas tester** : scanne TOUJOURS ton QR code avec 2-3 appareils differents avant de le faire imprimer
@@ -201,7 +201,7 @@ https://monsite.com/promo?utm_source=qr&utm_medium=flyer&utm_campaign=paris
 
 ## Ce qu'il faut retenir
 
-Pour quelques QR codes : QR Code Monkey (gratuit pour les statiques, 79$ lifetime pour le premium). Pour des centaines : QR Batch (pay-per-use) ou Abyssale (si tu generes aussi des visuels). Pour des milliers integres dans un workflow automatise : API + generation programmatique. Et toujours des QR codes dynamiques pour pouvoir modifier la destination et suivre les performances apres impression.
+Pour quelques QR codes : QR Code Monkey (gratuit pour les statiques, 79$ lifetime pour le premium). Pour des centaines : QR Batch (pay-per-use) ou Abyssale (si tu generes aussi des visuels). Pour des milliers integres dans un workflow automatise : API + generation programmatique. Et toujours des QR codes dynamiques pour pouvoir modifier la destination et suivre les performances après impression.
 
 ## Ressources utiles
 
@@ -209,4 +209,4 @@ Pour quelques QR codes : QR Code Monkey (gratuit pour les statiques, 79$ lifetim
 - [QR Code Monkey API (RapidAPI)](https://www.qrcode-monkey.com/qr-code-api-with-logo/) -- documentation API
 - [QR Batch](https://qrbatch.com) -- generation en masse pay-per-use
 - [Scanova](https://scanova.io) -- solution pro avec tracking
-- [Abyssale](https://www.abyssale.com) -- generation de visuels + QR codes en masse (francais)
+- [Abyssale](https://www.abyssale.com) -- generation de visuels + QR codes en masse (français)

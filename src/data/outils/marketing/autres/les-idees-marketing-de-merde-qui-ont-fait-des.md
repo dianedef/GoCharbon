@@ -26,7 +26,7 @@ imgUrl: ../../../../assets/astro.jpeg
 
 [(2) Andrew Tate](https://twitter.com/Cobratate/status/1607677190254235648)
 
-- [TTSTool.com](https://ttstool.com/) - create voiceovers for your YouTube videos STop doing that!
+- [TTSTool.com](https://ttstool.com/) - create voiceovers for your YouTube vidéos STop doing that!
 
 anchroing price point not well made
 Pire marketing
@@ -39,7 +39,7 @@ Pire marketing
 
 [(10) Infraction -The Upbeat Corporate (Royalty Free Music) (No Copyright music) / Rainforest - YouTube](https://www.youtube.com/watch?v=cofpK1CROI0)
 
-Source [Best Product Hunt Videos of 2022](https://www.tella.tv/blog/best-product-hunt-videos-2022?vero_id=google-oauth2%7C112897329347247887718&vero_conv=CCc4UjBrfbo3YBj7JYzHGV_5J4G5GF4lBBy0VRZqMMrhQ3w5LVWQvx2sg7ScLQwkKDMUtxVwHdajfTzYD18TKJOMFf9DHTVRPBo%3D)
+Source [Best Product Hunt Vidéos of 2022](https://www.tella.tv/blog/best-product-hunt-videos-2022?vero_id=google-oauth2%7C112897329347247887718&vero_conv=CCc4UjBrfbo3YBj7JYzHGV_5J4G5GF4lBBy0VRZqMMrhQ3w5LVWQvx2sg7ScLQwkKDMUtxVwHdajfTzYD18TKJOMFf9DHTVRPBo%3D)
 
 [exemple jvzoo crazy upsell](https://www.notion.so/exemple-jvzoo-crazy-upsell-ec2e7be700554ff6b025c6de5c195d94?pvs=21)
 
@@ -51,12 +51,12 @@ pas parler de toi, no transparence
 
 Contenu sponso déguisé trompeur
 
-[https://youtu.be/IjTDMFIQoQM?t=2453](https://youtu.be/IjTDMFIQoQM?t=2453)
+[https://youtu.be/IjTDMFIQoQM?t=2453](__MASK_15__)
 
 projet crypto perdu cryptozoo
 
-[https://youtu.be/oaWPUclcUSk](https://youtu.be/oaWPUclcUSk)
+[https://youtu.be/oaWPUclcUSk](__MASK_16__)
 
 ["Story Killers" : une start-up toulousaine propose de présenter des publi-reportages comme de vraies informations](https://www.francetvinfo.fr/monde/story-killers/story-killers-une-startup-toulousaine-propose-de-presenter-des-publi-reportages-comme-de-vraies-informations_5660882.html)
 
-[Synthesia | #1 AI Video Generation Platform](https://www.synthesia.io/)
+[Synthesia | #1 AI Vidéo Generation Platform](https://www.synthesia.io/)

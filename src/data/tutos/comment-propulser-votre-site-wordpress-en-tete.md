@@ -38,4 +38,4 @@ Lors de ce webinar, [Nicolas Mercatili](https://www.linkedin.com/in/creanico/) v
 
 [41:01](https://www.youtube.com/watch?v=QwzcBCJ6MSQ&t=2461s) Sans oublier la sécurité _(slide 62)_
 
-[https://wpsoul.com/optimize-seo-wordpress/](https://wpsoul.com/optimize-seo-wordpress/)
+[https://wpsoul.com/optimize-seo-wordpress/](__MASK_12__)

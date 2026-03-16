@@ -27,6 +27,6 @@ Gestion de la formation, parcours apprenants.
 
 Création de cours, quiz, certifications.
 
-**Top outils** : Teachizy, Systeme.io, Podia FR, Kooneo
+**Top outils** : Teachizy, Système.io, Podia FR, Kooneo
 
 [→ Voir tous les outils e-learning](/outils/formation/elearning/)

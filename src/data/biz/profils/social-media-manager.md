@@ -56,7 +56,7 @@ L'avantage : compétence très demandée (toutes les entreprises ont besoin de r
 ### Compétences bonus
 
 - **Ads** - Meta Ads, TikTok Ads (facturer plus)
-- **Montage vidéo** - Reels, TikToks (CapCut, Premiere)
+- **Montage vidéo** - Reels, TikToks (CapCut, Première)
 - **Stratégie** - Pas juste exécution, conseil stratégique
 - **SEO** - Hashtags, mots-clés
 - **Graphic design** - Visuels pros (Photoshop, Figma)

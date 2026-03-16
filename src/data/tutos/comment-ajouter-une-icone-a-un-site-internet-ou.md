@@ -60,8 +60,8 @@ L’image est convertie en .ICO automatiquement
 
 ## Décompresser l’archive
 
-## Etape 5
+## Étape 5
 
 ---
 
-## Etape 6
+## Étape 6

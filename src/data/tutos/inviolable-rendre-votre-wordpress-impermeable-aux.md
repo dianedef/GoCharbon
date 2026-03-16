@@ -135,7 +135,7 @@ _**Note:**_ For **Nginx server**, you need to restart Nginx after each customi
 sudo nginx -s reload
 ```
 
-_**Note:**_ For **Apache server**, you need to make sure you set the _**AllowOverride All**_ option for your current directory in **httpd.conf or apache2.conf**.Read more about it: [https://hidemywpghost.com/how-to-set-allowoverride-all/](https://hidemywpghost.com/how-to-set-allowoverride-all/)
+_**Note:**_ For **Apache server**, you need to make sure you set the _**AllowOverride All**_ option for your current directory in **httpd.conf or apache2.conf**.Read more about it: [https://hidemywpghost.com/how-to-set-allowoverride-all/](__MASK_14__)
 
 If you changed **wp-admin** or **wp-login.php** with different paths, you will have to check the Frontend login after the settings are saved and make sure the new paths are working.
 
@@ -159,7 +159,7 @@ Let’s make sure your website is safe and run a Security Check from “**Hide M
 
 Hide My WP Ghost will do **38 security tasks** and let you know in just seconds what you need to do to secure your website.
 
-Some of the tasks can be completed automatically, and some will of them require manual action. If you think that some tasks are too difficult, you can talk with your web developer who will be able to complete them.
+Some of the tasks can be completed automatically, and some will of them require manual action. If you think that some tasks are too difficult, you can talk with your web developer who will be able to complète them.
 
 Feel free to contact us with feedback and suggestions [here](https://hidemywpghost.com/contact/)
 
@@ -200,7 +200,7 @@ Also, it’s important to be able to ban an IP address or a range of IPs known t
 If you have purchased the [Hide My WP Ghost](https://hidemywpghost.com/hide-my-wp-pricing/) version of Hide My WordPress Plugin, you can select **Google reCaptcha V2** or **Google reCaptcha V3** and to protect the login process using Google security.
 
 
-To setup Google reCaptcha, you need to follow the link [https://www.google.com/recaptcha/admin#list](https://www.google.com/recaptcha/admin#list) and create a V2 or V3 reCaptcha. Add a unique Label, select the V2 or V3 Checkbox, and add your domain to the Domains list.
+To setup Google reCaptcha, you need to follow the link [https://www.google.com/recaptcha/admin#list](__MASK_19__) and create a V2 or V3 reCaptcha. Add a unique Label, select the V2 or V3 Checkbox, and add your domain to the Domains list.
 
 
 Once you register the new reCaptcha domain you will be redirected to a new page where you have access to the **Site Key** and the **Secret** Key.
@@ -246,7 +246,7 @@ Now it’s time to **hide the common WordPress files** from hackers,  who can
 Hide My WP Ghost will add a filter to protect all these files if you switch on the option “**Hide My WP**  > **Change Paths** > **WP Core Security** > **Hide WordPress Common Files**“.
 
 
-Hidden URLs:[https://demo.wpplugins.tips/wp-content/https://demo.wpplugins.tips/wp-content/plugins/https://demo.wpplugins.tips/readme.html](https://demo.wpplugins.tips/wp-content/https://demo.wpplugins.tips/wp-content/plugins/https://demo.wpplugins.tips/readme.html)
+Hidden URLs:[https://demo.wpplugins.tips/wp-content/https://demo.wpplugins.tips/wp-content/plugins/https://demo.wpplugins.tips/readme.html](__MASK_24__)
 
 ---
 
@@ -303,9 +303,9 @@ Some plugins use filenames with the same name as the plugin. To hide these files
 
 **URL Mapping** option will let you **change any URL from your website** to one that is more user-friendly and hides a plugin name.
 
-Now, If you already have a cache plugin installed, check if the cache plugin has the option to **minify/combine the CSS and JS files** that can be detected.We recommend the **WP Rocket** and **Autoptimize** cache plugins for caching which work perfect with Hide My WP Ghost.[https://hidemywpghost.com/how-to-use-autoptimize-with-hide-my-wp-ghost/](https://hidemywpghost.com/how-to-use-autoptimize-with-hide-my-wp-ghost/)
+Now, If you already have a cache plugin installed, check if the cache plugin has the option to **minify/combine the CSS and JS files** that can be detected.We recommend the **WP Rocket** and **Autoptimize** cache plugins for caching which work perfect with Hide My WP Ghost.[https://hidemywpghost.com/how-to-use-autoptimize-with-hide-my-wp-ghost/](__MASK_28__)
 
-[https://hidemywpghost.com/how-to-use-wp-rocket-with-hide-my-wp-ghost/](https://hidemywpghost.com/how-to-use-wp-rocket-with-hide-my-wp-ghost/)
+[https://hidemywpghost.com/how-to-use-wp-rocket-with-hide-my-wp-ghost/](__MASK_29__)
 
 ---
 
@@ -317,7 +317,7 @@ Go to **Hide My WP > Security Check** and run a report. If the report doesn’
 
 You can also check the Source Code of your website using a different browser or from incognito.
 
-Most browsers let you see the website’s source-code if you type “view-source:” before your domain, like this:[view-source:[https://demo.wpplugins.tips/](https://demo.wpplugins.tips/)]([http://view-source](http://view-source):https//demo.wpplugins.tips/). Now search for **wp-** using the search option (Ctrl + F).
+Most browsers let you see the website’s source-code if you type “view-source:” before your domain, like this:[view-source:[https://demo.wpplugins.tips/](__MASK_30__)]([http://view-source](__MASK_31__):https//demo.wpplugins.tips/). Now search for **wp-** using the search option (Ctrl + F).
 
 If you find URLs containing “/wp-content/”, make sure they were not generated by a cache plugin like [**Autoptimizer](https://wordpress.org/plugins/autoptimize/)** or [**Wp-Rocket**](https://wpplugins.tips/plugin/wp-rocket). If they were, **activate the Combine JS and Combine CSS** option in your cache plugin to add all the JS and CSS in the same file.
 
@@ -344,11 +344,11 @@ These options will not affect the SEO on your website. All the links will appear
 
 If you applied all the steps in the last three lessons, **your website should be safe from hacker’s bots, and hidden from all WordPress theme** detectors:
 
-- [https://www.wpthemedetector.com/](https://www.wpthemedetector.com/)
-- [https://whatwpthemeisthat.com/](https://whatwpthemeisthat.com/)
-- [https://whatcms.org/](https://whatcms.org/)
-- [https://wpplugins.tips/](https://wpplugins.tips/)
-- [https://mycodelesswebsite.com/](https://mycodelesswebsite.com/)
+- [https://www.wpthemedetector.com/](__MASK_35__)
+- [https://whatwpthemeisthat.com/](__MASK_36__)
+- [https://whatcms.org/](__MASK_37__)
+- [https://wpplugins.tips/](__MASK_38__)
+- [https://mycodelesswebsite.com/](__MASK_39__)
 
 We checked with many other detectors, but **some of them save a long term cache**, and the results are not relevant.
 
@@ -368,7 +368,7 @@ Hide My WP Ghost is a complex security tool and **covers all the security needs
 
 **Note!** The plugin is compatible with other security plugins and **you don’t have to deactivate all other security plugins if you install Hide My WP Ghost**.
 
-To see what Hide My WP Ghost can’t do on your website in order to avoid errors, please read:[https://hidemywpghost.com/what-hide-my-wp-ghost-cant-do/](https://hidemywpghost.com/what-hide-my-wp-ghost-cant-do/)
+To see what Hide My WP Ghost can’t do on your website in order to avoid errors, please read:[https://hidemywpghost.com/what-hide-my-wp-ghost-cant-do/](__MASK_43__)
 
 Feel free to contact us with feedback and suggestions [here](https://hidemywpghost.com/contact/)
 
@@ -389,7 +389,7 @@ Once you switch on [**Hide My WP Ghost** > **Events Log** > **Log User Even
 
 ### Step 2. Check and Filter the Events Log
 
-After you have activated the log, you can access the Events Log report on your website or on [](https://account.hidemywpghost.com/)[https://account.hidemywpghost.com](https://account.hidemywpghost.com).
+After you have activated the log, you can access the Events Log report on your website or on [](https://account.hidemywpghost.com/)[https://account.hidemywpghost.com](__MASK_51__).
 
 Website Events Log Report
 
@@ -411,7 +411,7 @@ This information will be removed from the cloud only after 30 days, so **you ca
 
 There are several situations when it’s important to receive email notifications, especially when a user is logging into your website from different IPs and countries.
 
-To add a new security alert go to [](https://account.hidemywpghost.com/)[https://account.hidemywpghost.com](https://account.hidemywpghost.com) at **Email Alerts > New Alert** and select the security alerts you want to receive by email.
+To add a new security alert go to [](https://account.hidemywpghost.com/)[https://account.hidemywpghost.com](__MASK_53__) at **Email Alerts > New Alert** and select the security alerts you want to receive by email.
 
 
 Hide My WP Ghost has some predefined alerts you can save for your website, and **you will receive the alert right after the event is triggered**.

@@ -21,7 +21,7 @@ Nous te recommandons vivement de configurer un plugin et un service SMTP pour to
 
 ## * Personnaliser les modèles d'emails de WooCommerce - MailPoet
 
-[https://www.mailpoet.com/blog/customizing-your-woocommerce-email-templates/](https://www.mailpoet.com/blog/customizing-your-woocommerce-email-templates/)
+[https://www.mailpoet.com/blog/customizing-your-woocommerce-email-templates/](__MASK_2__)
 
 Les emails transactionnels sont un canal de communication essentiel entre le propriétaire d'une boutique de commerce électronique et ses clients. Mais tu as peut-être remarqué que les modèles d'emails disponibles dans WooCommerce sont un peu, eh bien, fades pour être honnête 😴.
 
@@ -248,7 +248,7 @@ Inconvénients :
 
 ### * Comment connecter WordPress à SendGrid pour envoyer des e-mails - MailPoet
 
-[https://www.mailpoet.com/blog/how-to-connect-wordpress-with-sendgrid-to-deliver-emails/?utm_source=mailpoet&utm_medium=email&utm_campaign=april+newsletter+2](https://www.mailpoet.com/blog/how-to-connect-wordpress-with-sendgrid-to-deliver-emails/?utm_source=mailpoet&utm_medium=email&utm_campaign=april+newsletter+2)
+[https://www.mailpoet.com/blog/how-to-connect-wordpress-with-sendgrid-to-deliver-emails/?utm_source=mailpoet&utm_medium=email&utm_campaign=april+newsletter+2](__MASK_15__)
 
 
 Si tu veux améliorer la fiabilité et la délivrabilité des emails que ton site WordPress envoie, connecter WordPress à SendGrid est une excellente décision.

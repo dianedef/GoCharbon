@@ -21,7 +21,7 @@ We have some exciting news to share about our no-code chatbot platform!
   
 This means that our platform now allows you to create highly intelligent chatbots that can handle complex conversations with ease.  
   
-And guess what? We've also made a new video that shows you how to create a custom GPT4 chatbot for your company in under 2 minutes.
+And guess what? We've also made a new vidéo that shows you how to create a custom GPT4 chatbot for your company in under 2 minutes.
 
 [](https://ideta.us18.list-manage.com/track/click?u=106b6e9797a24cfe0a70025b2&id=b154c910f9&e=1864f26fa0)
 

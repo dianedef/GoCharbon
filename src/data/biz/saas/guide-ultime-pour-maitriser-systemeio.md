@@ -11,10 +11,10 @@ pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-[Mon Avis Positif sur la Certification Qualiopi avec Systeme.io | by sylvie | Medium](https://medium.com/@animfusionanim/mon-avis-positif-sur-la-certification-qualiopi-avec-systeme-io-b653259bebaa)
-# [**Sales Funnel, Email Marketing All-in-One Tool: Systeme Guide**](https://systeme.io/?sa=sa0002378999212571249f1903568944c60fe7083894)
+[Mon Avis Positif sur la Certification Qualiopi avec Système.io | by sylvie | Medium](https://medium.com/@animfusionanim/mon-avis-positif-sur-la-certification-qualiopi-avec-systeme-io-b653259bebaa)
+# [**Sales Funnel, Email Marketing All-in-One Tool: Système Guide**](https://systeme.io/?sa=sa0002378999212571249f1903568944c60fe7083894)
 
-💻[Systeme - Free Sales Funnel Builder, Email Marketing tool, Blog Builder and Just All-in-one Digital Marketing Tool](https://systeme.io/?sa=sa0002378999212571249f1903568944c60fe7083894) 🔥
+💻[Système - Free Sales Funnel Builder, Email Marketing tool, Blog Builder and Just All-in-one Digital Marketing Tool](https://systeme.io/?sa=sa0002378999212571249f1903568944c60fe7083894) 🔥
 
 🤑👉[Marketing & Business software at -90%](https://appsumo.8odi.net/4eomy0) 🚀
 
@@ -36,7 +36,7 @@ imgUrl: ../../../assets/astro.jpeg
 - La plateforme permet la création de blogs, l'utilisation d'autorépondeurs, et le suivi des ventes.
 - Elle offre une flexibilité et une facilité d'utilisation pour des opérations stratégiques complexes.
 - L'outil améliore la délivrabilité des e-mails via SendGrid, favorisant la communication avec les clients.
-- [Systeme.io](http://systeme.io/) peut être considéré comme un CRM plutôt qu'un simple autorépondeur, simplifiant la gestion des contacts.
+- [Système.io](http://systeme.io/) peut être considéré comme un CRM plutôt qu'un simple autorépondeur, simplifiant la gestion des contacts.
 - Le Pass Business d'Aurélien Amacker propose des formations mensuelles pour les débutants en marketing en ligne.
 - L'outil a été développé en réponse aux problèmes rencontrés par Aurélien Amacker avec d'autres solutions.
 - Aurélien Amacker a gagné en notoriété grâce à ses blogs et vidéos partageant des conseils sur la monétisation en ligne.
@@ -58,7 +58,7 @@ Comme une alternative française à Clickfunnels, il permet la création de tunn
 
 Limiter les frictions dans votre flux de travail peut faire la différence entre un succès entrepreneurial, ou un échec.
 
-Grâce à un environnement unifié et simple d’utilisation, [systeme.io](http://systeme.io) permet d’être opérationnel très rapidement. Je le conseille vivement à la place de WordPress pour tous les indépendants et les débutants qui ne sont pas nés dans l’informatique, et qui n’ont pas envie de perdre leur temps.
+Grâce à un environnement unifié et simple d’utilisation, [système.io](http://systeme.io) permet d’être opérationnel très rapidement. Je le conseille vivement à la place de WordPress pour tous les indépendants et les débutants qui ne sont pas nés dans l’informatique, et qui n’ont pas envie de perdre leur temps.
 
 Le plan gratuit suffira amplement pour démarrer un business qui roule !
 
@@ -66,22 +66,22 @@ ils ont une intgration native avec, sendgrid et vous pouvez galement, entrer dan
 
 - Systemeio
     - [Bienvenue](https://alextrc.systeme.io/c49639e3)
-    - [Systeme.io](https://damienmenu.systeme.io/school)
+    - [Système.io](https://damienmenu.systeme.io/school)
     - [Merci pour ton inscription](https://alextrc.systeme.io/c1737b7c)
-    - [🌟 Systeme.io Starter™](https://damienmenu.systeme.io/course/systemeio-starter)
+    - [🌟 Système.io Starter™](https://damienmenu.systeme.io/course/systemeio-starter)
     - [gagne-ta-liberte-financiere-damien-menu-v2.0-2.pdf - Google Drive](https://drive.google.com/file/d/180zYdGeIKeanBT_0xack4xmRHF0k5cj9/view?sc=419624323b63f5ad037098c06b0126967bd1c049&sa=sa0003517223b854b41630cfe163db292c3f546c4760)
 
 tag: bons ed commanded ?
 
 [gagne-ta-liberte-financiere-damien-menu-v2.0-2.pdf - Google Drive](https://drive.google.com/file/d/180zYdGeIKeanBT_0xack4xmRHF0k5cj9/view?sc=419624323b63f5ad037098c06b0126967bd1c049&sa=sa0003517223b854b41630cfe163db292c3f546c4760)
 
-[Systeme.io](https://damienmenu.systeme.io/school)
+[Système.io](https://damienmenu.systeme.io/school)
 
 [Merci pour ton inscription](https://alextrc.systeme.io/c1737b7c)
 
-[🌟 Systeme.io Starter™](https://damienmenu.systeme.io/course/systemeio-starter)
+[🌟 Système.io Starter™](https://damienmenu.systeme.io/course/systemeio-starter)
 
-Vous venez de recevoir accès à [Systeme.IO](http://systeme.io/) de A à Z tout simplement !
+Vous venez de recevoir accès à [Système.IO](http://systeme.io/) de A à Z tout simplement !
 
 Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
 
@@ -93,14 +93,14 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
 
 40 % à vie
 
-- [Systeme.io](https://www.notion.so/desktopenhanced/Systeme.io)
+- [Système.io](https://www.notion.so/desktopenhanced/Systeme.io)
     
-    - Afin de permettre à nos affiliés de faire plus de ventes et gagner plus de commissions, nous avons ajouté une nouvelle fonctionnalité qui vous permet de faire la promotion de [Systeme.io](https://www.notion.so/desktopenhanced/Systeme.io) en offrant 30 jours d'essai aux nouveaux inscrits au lieu de 14 jours.
+    - Afin de permettre à nos affiliés de faire plus de ventes et gagner plus de commissions, nous avons ajouté une nouvelle fonctionnalité qui vous permet de faire la promotion de [Système.io](https://www.notion.so/desktopenhanced/Systeme.io) en offrant 30 jours d'essai aux nouveaux inscrits au lieu de 14 jours.
     - Voici comment ça fonctionne:
-    - Ajoutez ( ?TRIAL=30&sa= ) plus (votre code affilié) sans parenthèses au lien de [Systeme.io](https://www.notion.so/desktopenhanced/Systeme.io) et c'est parti !
+    - Ajoutez ( ?TRIAL=30&sa= ) plus (votre code affilié) sans parenthèses au lien de [Système.io](https://www.notion.so/desktopenhanced/Systeme.io) et c'est parti !
     - Voici votre lien affilié pour en faire la promotion: [
-    - [https://systeme.io/fr/accueil?TRIAL=30&sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/fr/accueil?TRIAL=30&sa=sa0002378999212571249f1903568944c60fe7083894)]([https://rmif.systeme.io/tr/1/161/2254781/286498633e1cfe713739db45cb2907c87b74e66/47450](https://rmif.systeme.io/tr/1/161/2254781/286498633e1cfe713739db45cb2907c87b74e66/47450))
-    - (c'est votre lien affilié personnel car sur [Systeme.io](https://www.notion.so/desktopenhanced/Systeme.io) tous les inscrits
+    - [https://systeme.io/fr/accueil?TRIAL=30&sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_34__)]([https://rmif.systeme.io/tr/1/161/2254781/286498633e1cfe713739db45cb2907c87b74e66/47450](__MASK_35__))
+    - (c'est votre lien affilié personnel car sur [Système.io](https://www.notion.so/desktopenhanced/Systeme.io) tous les inscrits
     - à ma liste email ont un identifiant affilié)
     - Important: vous touchez 40% de commissions d'affiliation sur cette offre et la même chose sur les upsells qui sont présentées derrière.
     - Et bien sûr vous touchez ensuite des commissions d'affiliation A VIE
@@ -123,7 +123,7 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     
     PS: I paid for that plan for years 😥😥 so thank me guys 😅 (you see the number of funnels I built other the years in the image below)
     
-    [[https://systeme.io/en/](https://systeme.io/en/)...]([https://systeme.io/en/](https://systeme.io/en/)...)
+    [[https://systeme.io/en/](__MASK_37__)...]([https://systeme.io/en/](__MASK_38__)...)
     
 - _
     
@@ -133,17 +133,17 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     
 - Offres marketplace systemeio
     
-    ## 30% d'économies sur l'abonnement [Systeme.io](http://systeme.io/) Entreprise + une migration gratuite de votre business ! (valeur 1997€) 40%
+    ## 30% d'économies sur l'abonnement [Système.io](http://systeme.io/) Entreprise + une migration gratuite de votre business ! (valeur 1997€) 40%
     
-    [https://systeme.io/c4a9c822?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/c4a9c822?sa=sa0002378999212571249f1903568944c60fe7083894)
+    [https://systeme.io/c4a9c822?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_40__)
     
-    📣 Économisez 30% sur l'abonnement [Systeme.io](http://systeme.io/) Entreprise (+ migration gratuite !)
+    📣 Économisez 30% sur l'abonnement [Système.io](http://systeme.io/) Entreprise (+ migration gratuite !)
     
     40% de commissions d'affiliation pour vous (276€) + commissions à vie sur toutes les upsells 📣
     
     ☑️ Description :
     
-    Avec cette offre les clients bénéficient de toutes les fonctionnalités de [Systeme.io](http://systeme.io/) Entreprise:
+    Avec cette offre les clients bénéficient de toutes les fonctionnalités de [Système.io](http://systeme.io/) Entreprise:
     
     - 15 000 contacts
     - Envoi d'emails illimités
@@ -158,7 +158,7 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     - Création du programme d'affiliation
     - Support 7j/7
     
-    Plus si ils ont besoin on migre gratuitement leur business sur [Systeme.io](http://systeme.io/) ! (valeur de 1997€)
+    Plus si ils ont besoin on migre gratuitement leur business sur [Système.io](http://systeme.io/) ! (valeur de 1997€)
     
     🎯 Les bénéfices clients :
     
@@ -166,17 +166,17 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     
     ☀️ VOTRE COMMISSION: 40% (276€) . + commissions à vie sur toutes les ventes additionnelles !
     
-    ## 30% d'économies sur l'abonnement [Systeme.io](http://systeme.io/) Webinars + une migration gratuite de votre business ! (valeur 1997€)
+    ## 30% d'économies sur l'abonnement [Système.io](http://systeme.io/) Webinars + une migration gratuite de votre business ! (valeur 1997€)
     
-    [https://systeme.io/86aff41a?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/86aff41a?sa=sa0002378999212571249f1903568944c60fe7083894)
+    [https://systeme.io/86aff41a?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_45__)
     
-    📣 Économisez 30% sur l'abonnement [Systeme.io](http://systeme.io/) Webinars (+ migration gratuite !)
+    📣 Économisez 30% sur l'abonnement [Système.io](http://systeme.io/) Webinars (+ migration gratuite !)
     
     40% de commissions d'affiliation pour vous (132€) + commissions à vie sur toutes les upsells 📣
     
     ☑️ Description :
     
-    Avec cette offre les clients bénéficient de toutes les fonctionnalités de [Systeme.io](http://systeme.io/) Webinars:
+    Avec cette offre les clients bénéficient de toutes les fonctionnalités de [Système.io](http://systeme.io/) Webinars:
     
     - 10 000 contacts
     - Envoi d'emails illimités
@@ -191,7 +191,7 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     - Création du programme d'affiliation
     - Support 7j/7
     
-    Plus si ils ont besoin on migre gratuitement leur business sur [Systeme.io](http://systeme.io/) ! (valeur de 1997€)
+    Plus si ils ont besoin on migre gratuitement leur business sur [Système.io](http://systeme.io/) ! (valeur de 1997€)
     
     🎯 Les bénéfices clients :
     
@@ -199,17 +199,17 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     
     ☀️ VOTRE COMMISSION: 40% (132€) . + commissions à vie sur toutes les ventes additionnelles !
     
-    ## 30% d'économies sur l'abonnement [Systeme.io](http://systeme.io/) Startup + une migration gratuite de votre business ! (valeur 1997€)
+    ## 30% d'économies sur l'abonnement [Système.io](http://systeme.io/) Startup + une migration gratuite de votre business ! (valeur 1997€)
     
-    [https://systeme.io/090c2efc?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/090c2efc?sa=sa0002378999212571249f1903568944c60fe7083894)
+    [https://systeme.io/090c2efc?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_50__)
     
-    📣 Économisez 30% sur l'abonnement [Systeme.io](http://systeme.io/) Startup (+ migration gratuite !)
+    📣 Économisez 30% sur l'abonnement [Système.io](http://systeme.io/) Startup (+ migration gratuite !)
     
     40% de commissions d'affiliation pour vous (76€) + commissions à vie sur toutes les upsells 📣
     
     ☑️ Description :
     
-    Avec cette offre les clients bénéficient de toutes les fonctionnalités de [Systeme.io](http://systeme.io/) Startup:
+    Avec cette offre les clients bénéficient de toutes les fonctionnalités de [Système.io](http://systeme.io/) Startup:
     
     - 5000 contacts
     - Envoi d'emails illimité
@@ -221,7 +221,7 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     - Création du programme d'affiliation
     - Réponse du support en moins de 24 heures
     
-    Plus si ils ont besoin on migre gratuitement leur business sur [Systeme.io](http://systeme.io/) ! (valeur de 1997€)
+    Plus si ils ont besoin on migre gratuitement leur business sur [Système.io](http://systeme.io/) ! (valeur de 1997€)
     
     🎯 Les bénéfices clients :
     
@@ -270,15 +270,15 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     
     
     
-    Opt-in page [https://systeme.io/livre-independance-financiere?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/livre-independance-financiere?sa=sa0002378999212571249f1903568944c60fe7083894)
+    Opt-in page [https://systeme.io/livre-independance-financiere?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_55__)
     
-    Opt-in page [https://systeme.io/livre-independance-financiere?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/livre-independance-financiere?sa=sa0002378999212571249f1903568944c60fe7083894)
+    Opt-in page [https://systeme.io/livre-independance-financiere?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_56__)
     
     🔔🔔🔔 Offrez gratuitement le livre "L'indépendance financière pour tous" et touchez 40% DE COMMISSIONS sur la formation « Objectif Millionnaire » et sur toutes les upsells derrière !
     
     ➡️ QUI SUIS-JE :
     
-    Je suis Aurélien Amacker, fondateur de [Systeme.io](http://systeme.io/) et auteur du livre « L'indépendance financière pour tous »
+    Je suis Aurélien Amacker, fondateur de [Système.io](http://systeme.io/) et auteur du livre « L'indépendance financière pour tous »
     
     ➡️ LA FORMATION OBJECTIF MILLIONNAIRE :
     
@@ -328,11 +328,11 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     
     Sales page
     
-    [https://systeme.io/67409098?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/67409098?sa=sa0002378999212571249f1903568944c60fe7083894)
+    [https://systeme.io/67409098?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_59__)
     
     Opt-in page
     
-    [https://systeme.io/be310b34?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/be310b34?sa=sa0002378999212571249f1903568944c60fe7083894)
+    [https://systeme.io/be310b34?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_60__)
     
     📣 La méthode pour faire 6000 euros par mois en automatique!
     
@@ -356,16 +356,16 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     
     ☀️ COMMISSIONS : 40%
     
-    - commissions à vie sur toutes les ventes additionnelles (10% de commissions sur les offres high ticket et 40% de commissions sur les abonnements à [Systeme.io](http://systeme.io/) et les formations)
+    - commissions à vie sur toutes les ventes additionnelles (10% de commissions sur les offres high ticket et 40% de commissions sur les abonnements à [Système.io](http://systeme.io/) et les formations)
     - deuxième niveau de commissions (5% sur les ventes réalisées par les affiliés que vous avez recommandés)
     
     ## Aurélien Amacker - Arrêtez de vous faire tondre ! (Le guide de l'optimisation fiscale pour les entrepreneurs malins)
     
     Sales page
     
-    [https://systeme.io/10b9126a?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/10b9126a?sa=sa0002378999212571249f1903568944c60fe7083894)
+    [https://systeme.io/10b9126a?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_62__)
     
-    Opt-in page [https://systeme.io/339a63f1?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/339a63f1?sa=sa0002378999212571249f1903568944c60fe7083894)
+    Opt-in page [https://systeme.io/339a63f1?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_63__)
     
     📣 Le guide de l'optimisation fiscale pour les entrepreneurs malins
     
@@ -387,22 +387,22 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     
     ☀️ COMMISSIONS : 40%
     
-    - commissions à vie sur toutes les ventes additionnelles (10% de commissions sur les offres high ticket et 40% de commissions sur les abonnements à [systeme.io](http://systeme.io/) et les formations)
+    - commissions à vie sur toutes les ventes additionnelles (10% de commissions sur les offres high ticket et 40% de commissions sur les abonnements à [système.io](http://systeme.io/) et les formations)
     - deuxième niveau de commissions (5% sur les ventes réalisées par les affiliés que vous avez recommandés)
     
     ## Aurélien Amacker - Livre gratuit "Je gagne ma vie avec mon blog"
     
     
     
-    Promote page Sales page [https://systeme.io/8fa51990?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/8fa51990?sa=sa0002378999212571249f1903568944c60fe7083894)
+    Promote page Sales page [https://systeme.io/8fa51990?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_65__)
     
-    Opt-in page [https://systeme.io/9e566ba9?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/9e566ba9?sa=sa0002378999212571249f1903568944c60fe7083894)
+    Opt-in page [https://systeme.io/9e566ba9?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_66__)
     
     🔔🔔🔔 Offrez gratuitement le livre "Je gagne ma vie avec mon blog" et touchez 40% DE COMMISSION sur la formation « Comment créer un blog qui rapporte » et sur toutes les upsells !
     
     ➡️ QUI SUIS-JE :
     
-    Je suis Aurélien Amacker, fondateur de [Systeme.io](http://systeme.io/) et auteur du livre « Je gagne ma vie avec mon blog », entrepreneur sur internet depuis 2010 j'ai réalisé plus de 1.500.000€ de ventes sur internet en 2019
+    Je suis Aurélien Amacker, fondateur de [Système.io](http://systeme.io/) et auteur du livre « Je gagne ma vie avec mon blog », entrepreneur sur internet depuis 2010 j'ai réalisé plus de 1.500.000€ de ventes sur internet en 2019
     
     ➡️ CE QUE CONTIENT LA FORMATION :
     
@@ -420,9 +420,9 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     
     ## Aurélien Amacker - GAGNEZ 2K€ PAR MOIS EN TRAVAILLANT 1H/SEMAINE
     
-    Opt-in page [https://systeme.io/ef883e44?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/ef883e44?sa=sa0002378999212571249f1903568944c60fe7083894)
+    Opt-in page [https://systeme.io/ef883e44?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_68__)
     
-    Promote page Sales page [https://systeme.io/294e0b6f?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/294e0b6f?sa=sa0002378999212571249f1903568944c60fe7083894)
+    Promote page Sales page [https://systeme.io/294e0b6f?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_69__)
     
     📣 Le système complet pour monter un business de consultant marketing et être payé 500€ de l'heure
     
@@ -445,9 +445,9 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     
     ## Aurélien Amacker - 5k€ par mois avec une agence webmarketing
     
-    Promote page Sales page [https://systeme.io/f75e6ae2?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/f75e6ae2?sa=sa0002378999212571249f1903568944c60fe7083894)
+    Promote page Sales page [https://systeme.io/f75e6ae2?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_70__)
     
-    Opt-in page [https://systeme.io/7ada974b?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/7ada974b?sa=sa0002378999212571249f1903568944c60fe7083894)
+    Opt-in page [https://systeme.io/7ada974b?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_71__)
     
     📣 Le système complet pour faire 5k€ par mois avec une agence webmarketing
     
@@ -470,7 +470,7 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     
     ## Romàn Czerny - CASH'EXPRESS
     
-    Sales page [https://1-ecomfrenchtouch.systeme.io/89ba2423?sa=sa0002378999212571249f1903568944c60fe7083894](https://1-ecomfrenchtouch.systeme.io/89ba2423?sa=sa0002378999212571249f1903568944c60fe7083894)
+    Sales page [https://1-ecomfrenchtouch.systeme.io/89ba2423?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_72__)
     
     Touchez 40% de commissions sur tout le tunnel !
     
@@ -518,14 +518,14 @@ Voici votre nom d'utilisateur: [deforesd@gmail.com](mailto:deforesd@gmail.com)
     
 - Liens
     
-    - Votre lien affilié pour promouvoir [systeme.io](http://systeme.io/): [https://systeme.io/?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/?sa=sa0002378999212571249f1903568944c60fe7083894)
-    - Votre lien affilié pour promouvoir mon livre [https://rmif.systeme.io/telechargez-livre-gratuitement-a?sa=sa0002378999212571249f1903568944c60fe7083894](https://rmif.systeme.io/telechargez-livre-gratuitement-a?sa=sa0002378999212571249f1903568944c60fe7083894)
-    - Formation "Gagnez 2k€ par mois en travaillant 1h par semaine" [https://rmif.systeme.io/2ke-mois-1h-semaine?sa=sa0002378999212571249f1903568944c60fe7083894](https://rmif.systeme.io/2ke-mois-1h-semaine?sa=sa0002378999212571249f1903568944c60fe7083894)
-- Votre lien affilié pour promouvoir [systeme.io](http://systeme.io/): [https://systeme.io/?sa=sa0002378999212571249f1903568944c60fe7083894](https://systeme.io/?sa=sa0002378999212571249f1903568944c60fe7083894)
+    - Votre lien affilié pour promouvoir [système.io](http://systeme.io/): [https://systeme.io/?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_74__)
+    - Votre lien affilié pour promouvoir mon livre [https://rmif.systeme.io/telechargez-livre-gratuitement-a?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_75__)
+    - Formation "Gagnez 2k€ par mois en travaillant 1h par semaine" [https://rmif.systeme.io/2ke-mois-1h-semaine?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_76__)
+- Votre lien affilié pour promouvoir [système.io](http://systeme.io/): [https://systeme.io/?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_78__)
     
-- Votre lien affilié pour promouvoir mon livre [https://rmif.systeme.io/telechargez-livre-gratuitement-a?sa=sa0002378999212571249f1903568944c60fe7083894](https://rmif.systeme.io/telechargez-livre-gratuitement-a?sa=sa0002378999212571249f1903568944c60fe7083894)
+- Votre lien affilié pour promouvoir mon livre [https://rmif.systeme.io/telechargez-livre-gratuitement-a?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_79__)
     
-- Formation "Gagnez 2k€ par mois en travaillant 1h par semaine" [https://rmif.systeme.io/2ke-mois-1h-semaine?sa=sa0002378999212571249f1903568944c60fe7083894](https://rmif.systeme.io/2ke-mois-1h-semaine?sa=sa0002378999212571249f1903568944c60fe7083894)
+- Formation "Gagnez 2k€ par mois en travaillant 1h par semaine" [https://rmif.systeme.io/2ke-mois-1h-semaine?sa=sa0002378999212571249f1903568944c60fe7083894](__MASK_80__)
     
 
 PS : Spécialement pour remercier mes abonnés, je t'invite à rejoindre [**SIO Secrets**](https://alextrc.systeme.io/tr/2/34824/1223658733/9512959/4196241650de5e6f748d642d5b2b7d6d1e1c218b)
@@ -552,7 +552,7 @@ Les grands gagnants de la crise de la Covid 19 sont ceux qui avaient déjà pari
 
 Mais heureusement, il est encore temps de se faire une place... Si vous vous y prenez dès maintenant.
 
-**Systeme io permet cela.**
+**Système io permet cela.**
 
 [Pour découvrir Système.io, cliquez ici.](https://alextrc.systeme.io/tr/2/34824/1220830345/6400257/4196241650de5e6f748d642d5b2b7d6d1e1c218b)
 
@@ -565,7 +565,7 @@ Grâce à ses nombreuses fonctionnalités qui vont vous permettre :
 
 **Le tout en automatique !**
 
-Systeme io, c’est l’outil qui permet de faire grossir son chiffre d’affaires même quand on dort
+Système io, c’est l’outil qui permet de faire grossir son chiffre d’affaires même quand on dort
 
 ou qu’on passe des moments en famille loin de son business.
 
@@ -573,7 +573,7 @@ Imaginez profiter de votre dimanche pour vous balader ou bien dîner chez des am
 
 Et vous recevez sur votre téléphone d’appréciables notifications comme quoi vous avez fait 5 ventes aujourd’hui... alors que vous avez juste pris du temps pour vous !
 
-**Systeme io est la plateforme française qui vous offre cette possibilité.**
+**Système io est la plateforme française qui vous offre cette possibilité.**
 
 Voici les fonctionnalités qu’elle propose :
 
@@ -603,11 +603,11 @@ Très peu cher au regard de toutes les fonctionnalités qu’il propose.
 
 A Bientôt,
 
-**SYSTEME IO devient accessible pour tous avec son [*OFFRE GRATUITE](https://alextrc.systeme.io/tr/2/34824/1220916604/9519099/4196241650de5e6f748d642d5b2b7d6d1e1c218b) !***
+**SYSTÈME IO devient accessible pour tous avec son [*OFFRE GRATUITE](https://alextrc.systeme.io/tr/2/34824/1220916604/9519099/4196241650de5e6f748d642d5b2b7d6d1e1c218b) !***
 
 **Ça devient tout de suite plus simple de lancer son business en ligne... et avec 3 tunnels de ventes à ta disposition tu vas pouvoir démarrer tout de suite !**
 
-Systeme io a fait évoluer sa grille tarifaire en incluant une offre **FREE**
+Système io a fait évoluer sa grille tarifaire en incluant une offre **FREE**
 
 Si payer un abonnement à 27€/mois pouvait te faire peur et bien c'est teminé, tu vas pouvoir passer à l'action !
 
@@ -641,7 +641,7 @@ Et au bout de 3 commissions d'affiliation récurrentes, tu pourras prendre ton a
 - **Création de ton programme d'affiliation**
 - **Réponse du support en moins 24h**
 
-Comme tu le sais surement j'ai adopté systeme io à 100% depuis maintenant un an et demi.
+Comme tu le sais surement j'ai adopté système io à 100% depuis maintenant un an et demi.
 
 Mais comme beaucoup de personnes, j'ai eu du mal à investir à mes début... par peur de ne pas rentrer dans mes frais !
 

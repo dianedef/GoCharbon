@@ -57,7 +57,7 @@ Calliwords is perfect for:
 
 **️ Features**
 
-* **Persona creation:** Create a detailed profile of your ideal customer to help you write more targeted copy.
+* **Persona création:** Create a detailed profile of your ideal customer to help you write more targeted copy.
 * **Email templates:** Get a variety of email templates to get you started.
 * **Ad copy generation:** Create high-converting ad copy for Facebook, Google Ads, and more.
 * **Landing page copywriting:** Write persuasive landing page copy that converts visitors into customers.
@@ -74,7 +74,7 @@ Calliwords offers a variety of pricing plans to fit your needs.
 
 **️ Team, History, and Mission**
 
-Calliwords was created by Cédric Floris, a copywriter and entrepreneur with over 10 years of experience. Cédric was frustrated with the limitations of existing AI writing tools, which often produced generic and uninspired copy. He created Calliwords to solve this problem and provide businesses with a tool that could generate high-quality, persuasive sales copy.
+Calliwords was created by Cédric Floris, a copywriter and entrepreneur with over 10 years of expérience. Cédric was frustrated with the limitations of existing AI writing tools, which often produced generic and uninspired copy. He created Calliwords to solve this problem and provide businesses with a tool that could generate high-quality, persuasive sales copy.
 
 ** Roadmap**
 
@@ -82,10 +82,10 @@ Calliwords is constantly being updated with new features and improvements. The t
 
 **⛓️ Links and Resources**
 
-* **Website:** [https://www.callrecord.com/](https://www.callrecord.com/)
-* **Facebook:** [https://www.facebook.com/help/messenger-app/1109321839427482](https://www.facebook.com/help/messenger-app/1109321839427482)
-* **Twitter:** [https://twitter.com/david8hughes/status/1685854181524144128](https://twitter.com/david8hughes/status/1685854181524144128)
-* **Instagram:** [https://www.instagram.com/art_by_setirdis/](https://www.instagram.com/art_by_setirdis/)
+* **Website:** [https://www.callrecord.com/](__MASK_0__)
+* **Facebook:** [https://www.facebook.com/help/messenger-app/1109321839427482](__MASK_1__)
+* **Twitter:** [https://twitter.com/david8hughes/status/1685854181524144128](__MASK_2__)
+* **Instagram:** [https://www.instagram.com/art_by_setirdis/](__MASK_3__)
 
 ** Referral Program**
 
@@ -99,7 +99,7 @@ Calliwords does not currently integrate with any other tools.
 
 To use Calliwords, simply follow these steps:
 
-1. **Create an account:** [https://www.callrecord.com/](https://www.callrecord.com/)
+1. **Create an account:** [https://www.callrecord.com/](__MASK_4__)
 2. **Select the type of copy you want to create:** Persona, email, ad, landing page, social media post, etc.
 3. **Enter your information:** Provide Calliwords with some information about your product, service, or target audience.
 4. **Generate copy:** Click the "Generate copy" button and Calliwords will generate a variety of copy options for you.
@@ -156,7 +156,7 @@ Calliwords is perfect for:
 
 **️ Features**
 
-* **Persona creation:** Create a detailed profile of your ideal customer to help you write more targeted copy.
+* **Persona création:** Create a detailed profile of your ideal customer to help you write more targeted copy.
 * **Email templates:** Get a variety of email templates to get you started.
 * **Ad copy generation:** Create high-converting ad copy for Facebook, Google Ads, and more.
 * **Landing page copywriting:** Write persuasive landing page copy that converts visitors into customers.
@@ -173,7 +173,7 @@ Calliwords offers a variety of pricing plans to fit your needs.
 
 **️ Team, History, and Mission**
 
-Calliwords was created by Cédric Floris, a copywriter and entrepreneur with over 10 years of experience. Cédric was frustrated with the limitations of existing AI writing tools, which often produced generic and uninspired copy. He created Calliwords to solve this problem and provide businesses with a tool that could generate high-quality, persuasive sales copy.
+Calliwords was created by Cédric Floris, a copywriter and entrepreneur with over 10 years of expérience. Cédric was frustrated with the limitations of existing AI writing tools, which often produced generic and uninspired copy. He created Calliwords to solve this problem and provide businesses with a tool that could generate high-quality, persuasive sales copy.
 
 ** Roadmap**
 
@@ -181,10 +181,10 @@ Calliwords is constantly being updated with new features and improvements. The t
 
 **⛓️ Links and Resources**
 
-* **Website:** [https://www.callrecord.com/](https://www.callrecord.com/)
-* **Facebook:** [https://www.callrecord.com/](https://www.callrecord.com/)
-* **Twitter:** [https://www.callrecord.com/](https://www.callrecord.com/)
-* **Instagram:** [https://www.callrecord.com/](https://www.callrecord.com/)
+* **Website:** [https://www.callrecord.com/](__MASK_5__)
+* **Facebook:** [https://www.callrecord.com/](__MASK_6__)
+* **Twitter:** [https://www.callrecord.com/](__MASK_7__)
+* **Instagram:** [https://www.callrecord.com/](__MASK_8__)
 
 ** Referral Program**
 
@@ -198,7 +198,7 @@ Calliwords does not currently integrate with any other tools.
 
 To use Calliwords, simply follow these steps:
 
-1. **Create an account:** [https://www.callrecord.com/](https://www.callrecord.com/)
+1. **Create an account:** [https://www.callrecord.com/](__MASK_9__)
 2. **Select the type of copy you want to create:** Persona, email, ad, landing page, social media post, etc.
 3. **Enter your information:** Provide Calliwords with some information about your product, service, or target audience.
 4. **Generate copy:** Click the "Generate copy" button and Calliwords will generate a variety of copy options for you.
@@ -258,7 +258,7 @@ Calliwords is perfect for:
 
 **️ Features**
 
-* **Persona creation:** Create a detailed profile of your ideal customer to help you write more targeted copy.
+* **Persona création:** Create a detailed profile of your ideal customer to help you write more targeted copy.
 * **Email templates:** Get a variety of email templates to get you started.
 * **Ad copy generation:** Create high-converting ad copy for Facebook, Google Ads, and more.
 * **Landing page copywriting:** Write persuasive landing page copy that converts visitors into customers.
@@ -275,7 +275,7 @@ Calliwords offers a variety of pricing plans to fit your needs.
 
 **️ Team, History, and Mission**
 
-Calliwords was created by Cédric Floris, a copywriter and entrepreneur with over 10 years of experience. Cédric was frustrated with the limitations of existing AI writing tools, which often produced generic and uninspired copy. He created Calliwords to solve this problem and provide businesses with a tool that could generate high-quality, persuasive sales copy.
+Calliwords was created by Cédric Floris, a copywriter and entrepreneur with over 10 years of expérience. Cédric was frustrated with the limitations of existing AI writing tools, which often produced generic and uninspired copy. He created Calliwords to solve this problem and provide businesses with a tool that could generate high-quality, persuasive sales copy.
 
 ** Roadmap**
 
@@ -283,10 +283,10 @@ Calliwords is constantly being updated with new features and improvements. The t
 
 **⛓️ Links and Resources**
 
-* **Website:** [https://www.callrecord.com/](https://www.callrecord.com/)
-* **Facebook:** [https://www.callrecord.com/](https://www.callrecord.com/)
-* **Twitter:** [https://www.callrecord.com/](https://www.callrecord.com/)
-* **Instagram:** [https://www.callrecord.com/](https://www.callrecord.com/)
+* **Website:** [https://www.callrecord.com/](__MASK_10__)
+* **Facebook:** [https://www.callrecord.com/](__MASK_11__)
+* **Twitter:** [https://www.callrecord.com/](__MASK_12__)
+* **Instagram:** [https://www.callrecord.com/](__MASK_13__)
 
 ** Referral Program**
 
@@ -300,7 +300,7 @@ Calliwords does not currently integrate with any other tools.
 
 To use Calliwords, simply follow these steps:
 
-1. **Create an account:** [https://www.callrecord.com/](https://www.callrecord.com/)
+1. **Create an account:** [https://www.callrecord.com/](__MASK_14__)
 2. **Select the type of copy you want to create:** Persona, email, ad, landing page, social media post, etc.
 3. **Enter your information:** Provide Calliwords with some information about your product, service, or target audience.
 4. **Generate copy:** Click the "Generate copy" button and Calliwords will generate a variety of copy options for you.

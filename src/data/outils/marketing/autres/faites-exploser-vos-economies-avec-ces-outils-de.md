@@ -15,7 +15,7 @@ imgUrl: ../../../../assets/astro.jpeg
 
 I have seen that you are looking into synology?! Do you also use Docker? If your NAS is connected to an internet flatrate you could earn money without doing anything. You just provide your bandwidth and get paid for it. Kind of like mining, but more lucrative. And the best: there is also a container for Docker. Have a look at it:
 
-[https://r.honeygain.me/TYLON30D93](https://r.honeygain.me/TYLON30D93)
+[https://r.honeygain.me/TYLON30D93](__MASK_0__)
 
 Runs 24h for me, of course
 

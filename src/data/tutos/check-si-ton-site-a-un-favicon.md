@@ -14,15 +14,15 @@ imgUrl: ../../assets/astro.jpeg
 
 # Comment verifier et corriger le favicon de ton site
 
-Le favicon, c'est la petite icone qui s'affiche dans l'onglet de ton navigateur, dans les favoris, et dans les resultats Google. Si tu n'en as pas, ton site affiche une icone generique (ou pire, rien du tout). Ca fait amateur. Voici comment verifier, creer et implementer un favicon propre.
+Le favicon, c'est la petite icone qui s'affiche dans l'onglet de ton navigateur, dans les favoris, et dans les resultats Google. Si tu n'en as pas, ton site affiche une icone générique (ou pire, rien du tout). Ca fait amateur. Voici comment verifier, creer et implementer un favicon propre.
 
-## Etape 1 : Verifier si ton site a deja un favicon
+## Étape 1 : Verifier si ton site a déjà un favicon
 
 ### Methode rapide
 
 1. Ouvre ton site dans un navigateur
 2. Regarde l'onglet : tu vois une icone a gauche du titre de la page ?
-3. Si tu vois une icone de globe generique ou rien, tu n'as pas de favicon (ou il est mal configure)
+3. Si tu vois une icone de globe générique ou rien, tu n'as pas de favicon (ou il est mal configure)
 
 ### Methode precise avec un outil
 
@@ -42,15 +42,15 @@ Utilise le Favicon Checker de RealFaviconGenerator :
 - Safari pinned tab (SVG monochrome)
 - Theme color pour la barre de navigation mobile
 
-## Etape 2 : Creer ton favicon
+## Étape 2 : Creer ton favicon
 
 ### Option 1 : A partir de ton logo (recommande)
 
-Si tu as deja un logo, simplifie-le pour qu'il soit lisible en 32x32 pixels :
+Si tu as déjà un logo, simplifie-le pour qu'il soit lisible en 32x32 pixels :
 
 1. Va sur realfavicongenerator.net
 2. Uploade ton logo (PNG ou SVG, minimum 260x260px)
-3. L'outil genere toutes les tailles automatiquement
+3. L'outil génère toutes les tailles automatiquement
 4. Tu peux ajuster le rendu pour chaque plateforme (recadrer, changer la couleur de fond)
 5. Telecharge le package complet
 
@@ -58,13 +58,13 @@ Si tu as deja un logo, simplifie-le pour qu'il soit lisible en 32x32 pixels :
 
 Si tu n'as pas de logo :
 
-- **Favicon.io** : genere un favicon a partir de texte (tes initiales), d'un emoji ou d'une image
+- **Favicon.io** : génère un favicon a partir de texte (tes initiales), d'un emoji ou d'une image
 - **Canva** : cree un design 512x512 et exporte en PNG
-- **Figma** : pour un design plus precis, cree un cadre 32x32 et exporte en SVG
+- **Figma** : pour un design plus précis, cree un cadre 32x32 et exporte en SVG
 
-**Astuce** : le favicon doit etre lisible en tres petit. Evite les details fins, les textes longs et les degradees. Un symbole simple avec des couleurs contrastees fonctionne le mieux.
+**Astuce** : le favicon doit être lisible en très petit. Evite les details fins, les textes longs et les degradees. Un symbole simple avec des couleurs contrastees fonctionne le mieux.
 
-## Etape 3 : Implementer le favicon sur ton site
+## Étape 3 : Implementer le favicon sur ton site
 
 ### Sur n'importe quel site HTML
 
@@ -81,10 +81,10 @@ Place les fichiers favicon a la racine de ton site et ajoute ces lignes dans le 
 
 ### Sur WordPress
 
-1. Va dans Apparence > Personnaliser > Identite du site
+1. Va dans Apparence > Personnaliser > Identité du site
 2. Clique sur "Selectionner l'icone du site"
 3. Uploade ton image (minimum 512x512)
-4. WordPress genere automatiquement toutes les tailles
+4. WordPress génère automatiquement toutes les tailles
 
 ### Sur Shopify
 
@@ -98,9 +98,9 @@ Place les fichiers dans le dossier `public/` et ajoute les balises dans ton comp
 
 ### Sur Next.js
 
-Place un fichier `favicon.ico` dans le dossier `app/` (App Router) ou `public/` (Pages Router). Next.js le detecte automatiquement.
+Place un fichier `favicon.ico` dans le dossier `app/` (App Router) ou `public/` (Pages Router). Next.js le détecte automatiquement.
 
-## Etape 4 : Le format SVG (moderne et recommande)
+## Étape 4 : Le format SVG (moderne et recommande)
 
 Depuis 2023, tous les navigateurs majeurs supportent le favicon SVG : Chrome, Firefox, Edge, Opera et Safari (depuis la version 15). L'avantage : il s'adapte a toutes les tailles sans pixelisation et supporte le mode sombre nativement via les media queries CSS.
 
@@ -123,7 +123,7 @@ Pour creer un favicon SVG avec support du dark mode :
 </svg>
 ```
 
-## Checklist complete du favicon
+## Checklist complète du favicon
 
 - [ ] Favicon 16x16 et 32x32 (PNG ou ICO)
 - [ ] Favicon SVG (pour les navigateurs modernes)
@@ -131,22 +131,22 @@ Pour creer un favicon SVG avec support du dark mode :
 - [ ] Icons 192x192 et 512x512 (pour Android/PWA)
 - [ ] Fichier site.webmanifest avec les references aux icons
 - [ ] Meta theme-color pour la barre de navigation mobile
-- [ ] Test sur RealFaviconGenerator apres deploiement
+- [ ] Test sur RealFaviconGenerator après deploiement
 
 ## Les erreurs courantes
 
 - **Favicon trop detaille** : en 16x16 pixels, seule une forme simple est lisible
 - **Oublier le Apple Touch Icon** : quand quelqu'un ajoute ton site en raccourci sur iPhone, il voit un screenshot flou au lieu de ton icone
-- **Cache du navigateur** : apres avoir change ton favicon, force le rafraichissement avec Ctrl+F5 ou vide le cache. Le favicon est tres agressivement mis en cache
+- **Cache du navigateur** : après avoir change ton favicon, force le rafraichissement avec Ctrl+F5 ou vide le cache. Le favicon est très agressivement mis en cache
 - **Mauvais chemin** : verifie que les fichiers sont bien a la racine du site et que les chemins dans le HTML sont corrects
 
 ## Ce qu'il faut retenir
 
-Un favicon prend 15 minutes a configurer correctement et dure des annees. Utilise RealFaviconGenerator pour generer toutes les tailles et tester le resultat. C'est un detail qui fait la difference entre un site amateur et un site professionnel.
+Un favicon prend 15 minutes a configurer correctement et dure des années. Utilise RealFaviconGenerator pour générer toutes les tailles et tester le resultat. C'est un detail qui fait la difference entre un site amateur et un site professionnel.
 
 ## Approche moderne recommandee (2025+)
 
-En 2025, la configuration minimale recommandee pour un favicon est beaucoup plus simple qu'avant grace au support SVG quasi-universel :
+En 2025, la configuration minimale recommandee pour un favicon est beaucoup plus simple qu'avant grâce au support SVG quasi-universel :
 
 ```html
 <!-- Favicon SVG (Chrome, Firefox, Edge, Safari 15+) -->

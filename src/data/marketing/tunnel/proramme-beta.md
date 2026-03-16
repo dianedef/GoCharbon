@@ -17,7 +17,7 @@ Le but n'est pas de "faire du bruit". Le but est de valider ce qui convertit vra
 
 ## Ton objectif
 
-Savoir en 10 jours si ton tunnel merite d'etre scale, corrige ou repositionne.
+Savoir en 10 jours si ton tunnel merite d'être scale, corrige ou repositionne.
 
 ## Cadre beta en 10 jours
 
@@ -27,7 +27,7 @@ Savoir en 10 jours si ton tunnel merite d'etre scale, corrige ou repositionne.
 4. Jour 4: preuve + offre connectees
 5. Jours 5-7: trafic test qualifie
 6. Jours 8-9: analyse des frictions
-7. Jour 10: decision go / fix / no-go
+7. Jour 10: décision go / fix / no-go
 
 ## Les 5 KPI minimum
 
@@ -42,10 +42,10 @@ Savoir en 10 jours si ton tunnel merite d'etre scale, corrige ou repositionne.
 - taux de conversion offre
 - taux d'activation J1
 
-## Seuils de decision (point de depart)
+## Seuils de décision (point de depart)
 
 - CTR < 1.5%: retravailler angle/hook
-- completion < 45%: simplifier l'etape
+- completion < 45%: simplifier l'étape
 - clic offre < 20%: renforcer valeur + preuve
 - conversion < 2%: revoir promesse/prix/offre
 - activation J1 < 40%: onboarding trop complexe
@@ -57,7 +57,7 @@ Chaque jour:
 1. identifier la friction principale
 2. corriger un seul element majeur
 3. relancer trafic test
-4. comparer avant/apres
+4. comparer avant/après
 
 Un changement a la fois = apprentissage fiable.
 
@@ -66,9 +66,9 @@ Un changement a la fois = apprentissage fiable.
 - [ ] les KPI sont mesures sur toute la periode
 - [ ] la plus grosse friction est identifiee
 - [ ] la correction prioritaire est testee
-- [ ] une decision claire est prise
+- [ ] une décision claire est prise
 
-## Decision finale
+## Décision finale
 
 - Go: on scale progressivement
 - Fix then Go: sprint de correction court

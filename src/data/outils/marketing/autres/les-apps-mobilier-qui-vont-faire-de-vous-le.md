@@ -66,4 +66,4 @@ Les meubles Stooly, fabriqués en carton entièrement recyclable, se plient et s
 
 ## Notes et réferences
 
-- [https://www.maddyness.com/2019/06/03/8-concepts-de-boutique-en-competition-pour-reinventer-le-centre-commercial-de-demain/](https://www.maddyness.com/2019/06/03/8-concepts-de-boutique-en-competition-pour-reinventer-le-centre-commercial-de-demain/) Maddyness, Juin 2019
+- [https://www.maddyness.com/2019/06/03/8-concepts-de-boutique-en-competition-pour-reinventer-le-centre-commercial-de-demain/](__MASK_8__) Maddyness, Juin 2019

@@ -75,7 +75,7 @@ imgUrl: ../../../assets/astro.jpeg
    - Value proposition
    - Copy
    - Images
-   - Videos
+   - Vidéos
 
 3. **Trust**
    - Social proof

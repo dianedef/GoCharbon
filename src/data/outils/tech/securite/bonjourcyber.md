@@ -75,11 +75,11 @@ BonjourCyber® est né en 2022 et est composée d'experts en cybersécurité pas
 
 L'équipe de BonjourCyber® est composée de professionnels de la cybersécurité déterminés à protéger les entreprises et les entrepreneurs des cyber-risques. Leur objectif est de rendre le sujet de la cybersécurité passionnant plutôt qu'anxiogène.
 
-- **Equipe Dévouée à la Cybersécurité** : L'équipe de BonjourCyber® est composée d'experts en cybersécurité, dont des ingénieurs réseaux, hackers éthiques et pentesters, travaillant ensemble pour protéger les entreprises.
+- **Équipe Dévouée à la Cybersécurité** : L'équipe de BonjourCyber® est composée d'experts en cybersécurité, dont des ingénieurs réseaux, hackers éthiques et pentesters, travaillant ensemble pour protéger les entreprises.
 - **Mission de Protection** : La mission de BonjourCyber® est de sécuriser les entreprises, les entrepreneurs, les collaborateurs et leurs clients contre les cyber-risques, tout en rendant le sujet plus intéressant et moins stressant.
 - **Origine de l'Idée** : L'idée de BonjourCyber® est née lors d'une réunion entre entrepreneurs, où les fondateurs ont constaté le manque de solutions concrètes pour les petites et moyennes entreprises en matière de cybersécurité.
 - **Réponse aux Besoins Spécifiques** : Les fondateurs ont rapidement compris qu'il y avait une problématique spécifique aux PME et ETI en matière de cybersécurité, et ils ont décidé de combler ce vide avec BonjourCyber®.
-- **Equipe Fondatrice** : L'équipe fondatrice se compose de Farid Lahlou (CEO et Co-fondateur), Yann Repérant (CTO et Co-fondateur) et Renaud Granier (COO et Co-fondateur), apportant chacun leur expertise et expérience à la mission de l'entreprise.
+- **Équipe Fondatrice** : L'équipe fondatrice se compose de Farid Lahlou (CEO et Co-fondateur), Yann Repérant (CTO et Co-fondateur) et Renaud Granier (COO et Co-fondateur), apportant chacun leur expertise et expérience à la mission de l'entreprise.
 
 ### 🚧 Feuille de Route et Futur 🚧
 

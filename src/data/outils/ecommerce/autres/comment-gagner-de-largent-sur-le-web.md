@@ -181,9 +181,9 @@ Pour commencer à vendre de la formation en ligne, tu as besoin :
 - De moyens de paiement ;
 - D’un site vitrine éventuellement.
 
-La bonne nouvelle c’est qu’il existe [**un outil entièrement gratuit** (dans sa formule la plus simple) qui fait tout ça à la fois et c’est **Systeme.io.**](https://damienmenu.com/systemeio-avis/)
+La bonne nouvelle c’est qu’il existe [**un outil entièrement gratuit** (dans sa formule la plus simple) qui fait tout ça à la fois et c’est **Système.io.**](https://damienmenu.com/systemeio-avis/)
 
-[**Pour essayer Systeme.io gratuitement, clique ici**](https://damienmenu.com/go/systemeio-prix/)
+[**Pour essayer Système.io gratuitement, clique ici**](https://damienmenu.com/go/systemeio-prix/)
 
 # **L’intelligence de savoir déléguer**
 

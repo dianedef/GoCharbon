@@ -2872,7 +2872,7 @@ Si vous utilisez une intégration, vous n'aurez pas à faire cette étape mais s
 
 _L'ajout d'une valeur de contrat et l'attribution d'une étiquette vous aideront à vous motiver dans votre pipeline de vente sociale_
 
-#### Etape 3 : prendre le temps de connecter son compte entreprise
+#### Étape 3 : prendre le temps de connecter son compte entreprise
 
 Dans la plupart des cas, vous n'aurez pas le **URL de l'entreprise** de votre prospect (LinkedIn one ou Twitter one) dans votre base de données. Vous devrez ajouter l'URL manuellement dans les champs de l'entreprise si vos prospects.
 

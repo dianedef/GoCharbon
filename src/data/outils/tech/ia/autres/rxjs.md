@@ -42,7 +42,7 @@ intro [à RxJS](https://www.youtube.com/watch?v=-JwjHDG3b5U)
 [RxJS Tutorial For Beginners #21 - Max Operator Tutorial | Angular RxJS Tutorials - YouTube](https://www.youtube.com/watch?v=XZ46ePejrWw&list=PLp50dWW_m40WID0zCrftuRCVa3mCaxYG6&index=23)
 [RxJS Tutorial For Beginners #22 - Min Operator Tutorial | Angular RxJS Tutorials - YouTube](https://www.youtube.com/watch?v=WlYFHuB9yZo&list=PLp50dWW_m40WID0zCrftuRCVa3mCaxYG6&index=24)
 [RxJS Tutorial For Beginners #23 - Difference Between RxJS, Redux and NgRX | Angular RxJS Tutorials - YouTube](https://www.youtube.com/watch?v=cR_zpod6wFs&list=PLp50dWW_m40WID0zCrftuRCVa3mCaxYG6&index=25)
-[Big Milestone for ARC Tutorials | 1000 Videos on ARC Tutorials - YouTube](https://www.youtube.com/watch?v=hWVbsJkxYEs&list=PLp50dWW_m40WID0zCrftuRCVa3mCaxYG6&index=26)
+[Big Milestone for ARC Tutorials | 1000 Vidéos on ARC Tutorials - YouTube](https://www.youtube.com/watch?v=hWVbsJkxYEs&list=PLp50dWW_m40WID0zCrftuRCVa3mCaxYG6&index=26)
 ## install
 importer uniquement ce dont on a besoin [01:55](https://www.youtube.com/watch?v=ewcoEYS85Co&t=115#t=01:55.43)  
 

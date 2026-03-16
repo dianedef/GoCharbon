@@ -14,7 +14,7 @@ imgUrl: ../../assets/astro.jpeg
 
 # Comment creer un PDF remplissable
 
-Un PDF remplissable, c'est un document que ton client, ton prospect ou ton equipe peut remplir directement dans son lecteur PDF sans avoir besoin d'imprimer ni de scanner. Contrats, formulaires d'inscription, bons de commande, questionnaires, fiches d'evaluation... les usages sont infinis.
+Un PDF remplissable, c'est un document que ton client, ton prospect ou ton équipe peut remplir directement dans son lecteur PDF sans avoir besoin d'imprimer ni de scanner. Contrats, formulaires d'inscription, bons de commande, questionnaires, fiches d'evaluation... les usages sont infinis.
 
 Voici comment en creer un avec differents outils, du gratuit au pro.
 
@@ -22,17 +22,17 @@ Voici comment en creer un avec differents outils, du gratuit au pro.
 
 LibreOffice est la meilleure option gratuite pour creer des PDF remplissables.
 
-### Etape 1 : Activer la barre d'outils Formulaire
+### Étape 1 : Activer la barre d'outils Formulaire
 
 1. Ouvre LibreOffice Writer
 2. Va dans Affichage > Barres d'outils > Controles de formulaire
 3. La barre d'outils s'affiche avec les differents champs disponibles
 
-### Etape 2 : Creer ta mise en page
+### Étape 2 : Creer ta mise en page
 
 Redige ton document normalement : titre, instructions, sections. Laisse des espaces la ou tu veux placer les champs remplissables.
 
-### Etape 3 : Ajouter les champs de formulaire
+### Étape 3 : Ajouter les champs de formulaire
 
 Utilise la barre d'outils Formulaire pour inserer :
 
@@ -45,27 +45,27 @@ Utilise la barre d'outils Formulaire pour inserer :
 
 **Astuce** : double-clique sur chaque champ pour acceder a ses proprietes (nom du champ, valeur par defaut, taille, police).
 
-### Etape 4 : Exporter en PDF
+### Étape 4 : Exporter en PDF
 
 1. Va dans Fichier > Exporter au format PDF
 2. Coche l'option "Creer un formulaire PDF"
-3. Selectionne le format de soumission (PDF, FDF ou HTML)
+3. Sélectionne le format de soumission (PDF, FDF ou HTML)
 4. Clique sur Exporter
 
-Ton PDF remplissable est pret.
+Ton PDF remplissable est prêt.
 
 ## Methode 2 : Adobe Acrobat Pro (la reference)
 
 Adobe Acrobat Pro est l'outil standard pour les PDF remplissables professionnels.
 
-### Etape 1 : Partir d'un document existant
+### Étape 1 : Partir d'un document existant
 
 1. Ouvre Acrobat Pro
 2. Va dans Outils > Preparer un formulaire
-3. Importe ton document (PDF, Word, Excel, ou meme un scan)
-4. Acrobat detecte automatiquement les zones qui devraient etre des champs et les convertit
+3. Importe ton document (PDF, Word, Excel, ou même un scan)
+4. Acrobat détecte automatiquement les zones qui devraient être des champs et les convertit
 
-### Etape 2 : Ajuster les champs
+### Étape 2 : Ajuster les champs
 
 La detection automatique est bonne mais pas parfaite. Verifie chaque champ :
 
@@ -74,17 +74,17 @@ La detection automatique est bonne mais pas parfaite. Verifie chaque champ :
 - Ajoute des champs manquants avec les outils de la barre laterale
 - Definis le type de chaque champ (texte, nombre, date, email)
 
-### Etape 3 : Ajouter des validations
+### Étape 3 : Ajouter des validations
 
 Pour chaque champ, tu peux definir :
-- **Champ obligatoire** : le formulaire ne peut pas etre soumis sans ce champ
+- **Champ obligatoire** : le formulaire ne peut pas être soumis sans ce champ
 - **Format** : email, telephone, date, nombre
 - **Limite de caracteres** : utile pour les codes postaux, numeros de telephone
 - **Calculs** : un champ qui additionne automatiquement d'autres champs (devis, factures)
 
-### Etape 4 : Sauvegarder
+### Étape 4 : Sauvegarder
 
-Fichier > Enregistrer sous > choisis un nom explicite. Le PDF est pret a etre distribue.
+Fichier > Enregistrer sous > choisis un nom explicite. Le PDF est prêt a être distribue.
 
 **Prix Adobe Acrobat Pro** : 23,99 EUR/mois (abonnement annuel).
 
@@ -119,13 +119,13 @@ Fichier > Enregistrer sous > choisis un nom explicite. Le PDF est pret a etre di
 
 ## Methode 4 : Google Docs + complementaire
 
-Si tu travailles dans l'ecosysteme Google :
+Si tu travailles dans l'écosystème Google :
 
 1. Cree ton document dans Google Docs
 2. Utilise le module complementaire "Doc to Form" pour convertir les champs
-3. Ou cree un Google Form et genere un PDF a partir des reponses
+3. Ou cree un Google Form et génère un PDF a partir des reponses
 
-**Limitation** : moins de controle sur la mise en page du PDF final.
+**Limitation** : moins de contrôle sur la mise en page du PDF final.
 
 ## Types de champs et quand les utiliser
 
@@ -133,7 +133,7 @@ Si tu travailles dans l'ecosysteme Google :
 |---------------|-------|---------|
 | Texte court | Nom, email, telephone | Champ de 1 ligne |
 | Texte long | Commentaires, descriptions | Zone multiligne |
-| Case a cocher | Choix multiples | "Cochez vos centres d'interet" |
+| Case a cocher | Choix multiples | "Cochez vos centres d'intérêt" |
 | Bouton radio | Choix unique | "Oui / Non" |
 | Liste deroulante | Selection dans une liste | "Choisissez votre departement" |
 | Date | Dates | "Date de naissance" |
@@ -151,10 +151,10 @@ Si tu travailles dans l'ecosysteme Google :
 ## Distribuer ton PDF remplissable
 
 - **Par email** : envoie le PDF en piece jointe avec des instructions claires
-- **Sur ton site** : lien de telechargement direct
+- **Sur ton site** : lien de téléchargement direct
 - **Via un formulaire en ligne** : integre le PDF dans une page avec un viewer
 - **Avec signature electronique** : utilise DocuSign, Yousign ou PandaDoc pour combiner remplissage et signature
 
 ## Ce qu'il faut retenir
 
-Pour un usage ponctuel, LibreOffice (gratuit) fait tres bien le job. Pour un usage regulier et professionnel, Adobe Acrobat Pro reste la reference. Et si tu veux collecter les donnees automatiquement, passe par Jotform ou un outil similaire plutot que de demander au client de te renvoyer le PDF rempli par email.
+Pour un usage ponctuel, LibreOffice (gratuit) fait très bien le job. Pour un usage regulier et professionnel, Adobe Acrobat Pro reste la reference. Et si tu veux collecter les donnees automatiquement, passe par Jotform ou un outil similaire plutot que de demander au client de te renvoyer le PDF rempli par email.

@@ -123,7 +123,7 @@ Feuille de route :
 
 - Pause : Reçois des idées rajeunissantes pour ta pause 🍃
 
-- AI Task Creation : Dis ce que tu veux, l'IA fait le reste ! 🤖
+- AI Task Création : Dis ce que tu veux, l'IA fait le reste ! 🤖
 
 
 .
@@ -164,7 +164,7 @@ Feuille de route :
 
 - Pause : Recevez des idées rajeunissantes pour votre pause 🍃
 
-- AI Task Creation : Dites ce que vous voulez, l'IA fait le reste ! 🤖
+- AI Task Création : Dites ce que vous voulez, l'IA fait le reste ! 🤖
 
 *** Traduit avec www.DeepL.com/Translator/?utm_medium=referral&utm_source=contentstudio.io (version gratuite) ***
 
@@ -192,7 +192,7 @@ Feuille de route :
 
 - Pause : Recevez des idées rajeunissantes pour votre pause 🍃
 
-- AI Task Creation : Dites ce que vous voulez, l'IA fait le reste ! 🤖
+- AI Task Création : Dites ce que vous voulez, l'IA fait le reste ! 🤖
 
 *** Traduit avec www.DeepL.com/Translator/?utm_medium=referral&utm_source=contentstudio.io (version gratuite) ***
 

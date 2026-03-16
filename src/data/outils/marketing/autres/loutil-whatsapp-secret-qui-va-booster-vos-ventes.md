@@ -25,9 +25,9 @@ Key Features:
     
 2. Ease of Use: The tool is easy to use, because it was designed specifically for WhatsApp. Forget about complicated AI interfaces; chat with your assistant as you would with a friend.
     
-3. Art Creation: With the art creation feature you can turn your content into an interactive process—upload a PDF, and add or edit text with ease.
+3. Art Création: With the art création feature you can turn your content into an interactive process—upload a PDF, and add or edit text with ease.
     
-4. PocketAI Plugins: Make your interaction with the AI straightforward with the help of PocketAI's plugins like Skyscanner, Meme Creator, Wolfram, and many more.
+4. PocketAI Plugins: Make your interaction with the AI straightforward with the help of PocketAI's plugins like Skyscanner, Même Creator, Wolfram, and many more.
     
 5. Switch between AI Models: You can easily change the AI model underlying your application, adjusting it to tailor its outputs for specific applications.
     

@@ -1029,8 +1029,8 @@ Voici quelques moyens de trouver des opportunités de postes sponsoris�
 
 La plupart des blogs se trouvent soit dans un [sous-répertoire, soit dans un sous-domaine](https://kinsta.com/fr/blog/sous-domaine-wordpress/#impact) :
 
-- **Sous-répertoire** **:** [https://kinsta.com/blog/](https://kinsta.com/fr/blog/)
-- **Sous-domaine** **:** [https://blog.hubspot.com/](https://blog.hubspot.com/)
+- **Sous-répertoire** **:** [https://kinsta.com/blog/](__MASK_131__)
+- **Sous-domaine** **:** [https://blog.hubspot.com/](__MASK_132__)
 
 Pour savoir à quelle fréquence un site web publie du contenu :
 

@@ -71,7 +71,7 @@ imgUrl: ../../assets/astro.jpeg
 
 Copy of Manage Multiple WordPress Sites with WP Umbrella - WPExplorer
 
-[https://www.wpexplorer.com/wp-umbrella-review/](https://www.wpexplorer.com/wp-umbrella-review/)
+[https://www.wpexplorer.com/wp-umbrella-review/](__MASK_3__)
 
 Creating a WordPress website is exciting. Managing a site? Not so much. There are many mundane and repetitive tasks to handle almost all the time. Plus, [WordPress site maintenance](https://www.wpexplorer.com/wordpress-maintenance-checklist/) becomes tiresome quickly if you’re running multiple sites.
 
@@ -129,7 +129,7 @@ The above features and other options make WP Umbrella the perfect website manage
 
 On top of that Thomas and Aurelio provide awesome support, a blog, and detailed documentation in case you’re stuck.
 
-> “We firmly believe that nothing can be achieved without trust. Shall you experience an issue with our tools, we commit to provide you with amazing support and customer experience. Period.”
+> “We firmly believe that nothing can be achieved without trust. Shall you expérience an issue with our tools, we commit to provide you with amazing support and customer expérience. Period.”
 
 Moving on, how much will WP Umbrella cost you? Well, not much 🙂
 
@@ -204,7 +204,7 @@ Managing multiple WordPress sites needn’t be challenging anymore. With a tool 
 How do you manage WordPress sites? Any thoughts about WP Umbrella? Please let us know your thoughts in the comment section below.
 
 
-WP Umbrella est une ressource incroyable pour [gérer plusieurs sites WordPress] ([https://www.kasareviews.com/manage-multiple-wordpress-sites-from-one-dashboard/](https://www.kasareviews.com/manage-multiple-wordpress-sites-from-one-dashboard/)) à partir d'un seul tableau de bord. Je vous suggère de le tester en utilisant l'**option d'essai gratuit** et de voir ce qu'il offre.
+WP Umbrella est une ressource incroyable pour [gérer plusieurs sites WordPress] ([https://www.kasareviews.com/manage-multiple-wordpress-sites-from-one-dashboard/](__MASK_13__)) à partir d'un seul tableau de bord. Je vous suggère de le tester en utilisant l'**option d'essai gratuit** et de voir ce qu'il offre.
 
 - Option d'essai gratuit disponible
 - Surveillance de la disponibilité

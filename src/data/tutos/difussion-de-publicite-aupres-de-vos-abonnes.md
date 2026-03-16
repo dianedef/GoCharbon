@@ -12,33 +12,33 @@ pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# CIBLER TES ABONNES EMAIL AVEC DES PUBLICITES : LE COMBO QUI CONVERTIT
+# CIBLER TES ABONNÉS EMAIL AVEC DES PUBLICITÉS : LE COMBO QUI CONVERTIT
 
-Tu as une liste email ? Bravo, c'est ton actif le plus precieux. Mais sais-tu que tu peux aussi cibler ces memes personnes avec des publicites sur Facebook, Instagram et Google ? Ca s'appelle les audiences personnalisees (custom audiences). Combine avec les audiences similaires (lookalike), c'est une des strategies publicitaires les plus rentables.
+Tu as une liste email ? Bravo, c'est ton actif le plus precieux. Mais sais-tu que tu peux aussi cibler ces memes personnes avec des publicités sur Facebook, Instagram et Google ? Ca s'appelle les audiences personnalisees (custom audiences). Combine avec les audiences similaires (lookalike), c'est une des stratégies publicitaires les plus rentables.
 
-## Pourquoi cibler tes abonnes en publicite
+## Pourquoi cibler tes abonnés en publicite
 
-- **Taux de conversion plus eleve** : tes abonnes te connaissent deja. Ils ont 3 a 5 fois plus de chances de convertir qu'une audience froide
-- **Multi-touchpoint** : un prospect qui voit ton message en email ET en publicite est beaucoup plus susceptible de passer a l'action
-- **Recuperation des non-ouvreurs** : 70% de tes abonnes n'ouvrent pas tes emails. La publicite te permet de les atteindre quand meme
+- **Taux de conversion plus eleve** : tes abonnés te connaissent déjà. Ils ont 3 a 5 fois plus de chances de convertir qu'une audience froide
+- **Multi-touchpoint** : un prospect qui voit ton message en email ET en publicite est beaucoup plus susceptible de passer à l'action
+- **Recuperation des non-ouvreurs** : 70% de tes abonnés n'ouvrent pas tes emails. La publicite te permet de les atteindre quand même
 - **Audiences similaires** : Facebook et Google peuvent trouver des millions de personnes qui ressemblent a tes meilleurs clients
 
-## Etape 1 : Exporter ta liste email
+## Étape 1 : Exporter ta liste email
 
 Depuis ton outil d'emailing (Brevo, Mailchimp, ActiveCampaign, etc.) :
 
 1. Va dans ta liste de contacts
-2. Segmente si necessaire (ex : clients uniquement, ou abonnes actifs)
-3. Exporte en CSV avec au minimum l'email. Ajoute si possible : prenom, nom, numero de telephone, ville, pays
+2. Segmente si nécessaire (ex : clients uniquement, ou abonnés actifs)
+3. Exporte en CSV avec au minimum l'email. Ajoute si possible : prenom, nom, numéro de telephone, ville, pays
 4. Plus tu fournis d'informations, meilleur sera le taux de correspondance
 
 **Segmentation recommandee :**
 - **Clients** : pour du retargeting de produits complementaires ou du reachat
 - **Prospects chauds** : contacts qui ont clique dans tes emails mais n'ont pas achete
-- **Tous les abonnes** : pour creer une audience similaire large
+- **Tous les abonnés** : pour creer une audience similaire large
 - **VIP** (top 20% en valeur) : pour la meilleure audience similaire possible
 
-## Etape 2 : Creer une audience personnalisee sur Meta (Facebook/Instagram)
+## Étape 2 : Creer une audience personnalisee sur Meta (Facebook/Instagram)
 
 1. Va dans le **Meta Business Manager** > Audiences
 2. Clique sur **Creer une audience** > **Audience personnalisee**
@@ -52,11 +52,11 @@ Depuis ton outil d'emailing (Brevo, Mailchimp, ActiveCampaign, etc.) :
 
 **Mise a jour 2025 -- Consentement explicite requis** : depuis 2025, Meta exige un consentement explicite de tes contacts avant d'uploader leurs donnees pour du ciblage publicitaire. Ce n'est plus suffisant qu'ils se soient "juste inscrits" a ta newsletter. Tu dois les informer clairement que leurs donnees seront utilisees pour de la publicite ciblee sur les plateformes Meta. Mets a jour tes formulaires d'inscription et ta politique de confidentialite. Meta peut te demander une preuve de conformite en cas de plainte.
 
-**Restriction 2025** : depuis septembre 2025, Meta bloque les audiences personnalisees contenant des attributs lies a la sante (ex : "diabete", "arthrite") ou au statut financier (ex : "score de credit"). Les audiences contenant ces donnees ne recevront plus de nouveaux utilisateurs.
+**Restriction 2025** : depuis septembre 2025, Meta bloque les audiences personnalisees contenant des attributs lies a la santé (ex : "diabete", "arthrite") ou au statut financier (ex : "score de credit"). Les audiences contenant ces donnees ne recevront plus de nouveaux utilisateurs.
 
-## Etape 3 : Creer une audience similaire (Lookalike)
+## Étape 3 : Creer une audience similaire (Lookalike)
 
-C'est la ou la magie opere. Facebook analyse les caracteristiques communes de tes abonnes (interets, comportements, demographiques) et trouve des personnes similaires.
+C'est la ou la magie opere. Facebook analyse les caracteristiques communes de tes abonnés (intérêts, comportements, demographiques) et trouve des personnes similaires.
 
 1. Dans Audiences > **Creer une audience** > **Audience similaire**
 2. Choisis comme source ton audience personnalisee de clients ou VIP
@@ -69,7 +69,7 @@ C'est la ou la magie opere. Facebook analyse les caracteristiques communes de te
 - Cree plusieurs lookalikes : une basee sur les clients, une sur les prospects, une sur les visiteurs du site
 - Plus ta liste source est grande (minimum 1000 contacts), meilleure sera la lookalike
 
-## Etape 4 : Creer une audience personnalisee sur Google Ads
+## Étape 4 : Creer une audience personnalisee sur Google Ads
 
 Google appelle ca "Customer Match".
 
@@ -79,21 +79,21 @@ Google appelle ca "Customer Match".
 4. Google fait le matching avec les comptes Google
 
 **Ou utiliser Customer Match :**
-- **Google Search** : encherir plus agressivement quand un de tes abonnes cherche tes mots-cles
-- **YouTube** : diffuser des pubs video a tes abonnes
-- **Gmail** : afficher des pubs dans l'onglet Promotions de tes abonnes
-- **Display** : bannières sur les sites du reseau Display
+- **Google Search** : encherir plus agressivement quand un de tes abonnés cherche tes mots-clés
+- **YouTube** : diffuser des pubs vidéo a tes abonnés
+- **Gmail** : afficher des pubs dans l'onglet Promotions de tes abonnés
+- **Display** : bannières sur les sites du réseau Display
 
 **Mise a jour mai 2025 -- Customer Match accessible aux petits annonceurs** : Google a abaisse le minimum de Customer Match de 1 000 a seulement 100 utilisateurs actifs pour les campagnes Search. C'est une avancee majeure pour les PME qui n'avaient pas assez de contacts pour utiliser cette fonctionnalite. Les conditions historiques de depense (50 000 dollars minimum ou 90 jours d'historique) ont ete progressivement assouplies. La plupart des comptes en bonne reputation y ont desormais acces. Pour YouTube et le Display, le minimum recommande reste 1 000+ contacts pour de meilleurs resultats de matching.
 
-## Etape 5 : Strategies de campagnes
+## Étape 5 : Stratégies de campagnes
 
 ### Retargeting des non-acheteurs
 
-Cible : abonnes qui n'ont pas encore achete.
+Cible : abonnés qui n'ont pas encore achete.
 
 - Montre des temoignages clients en publicite
-- Offre une reduction exclusive ("10% pour nos abonnes newsletter")
+- Offre une reduction exclusive ("10% pour nos abonnés newsletter")
 - Rappelle les benefices de ton offre sous un angle different de tes emails
 
 ### Reachat et upsell
@@ -101,14 +101,14 @@ Cible : abonnes qui n'ont pas encore achete.
 Cible : clients existants.
 
 - Propose des produits complementaires
-- Annonce un nouveau produit en avant-premiere
-- Invite a un webinaire ou un evenement
+- Annonce un nouveau produit en avant-première
+- Invite a un webinaire ou un événement
 
 ### Acquisition via lookalike
 
 Cible : audience similaire a tes meilleurs clients.
 
-- Utilise tes meilleures creatives (celles qui convertissent deja)
+- Utilise tes meilleures creatives (celles qui convertissent déjà)
 - Lead magnet en publicite pour capturer de nouveaux emails
 - Offre d'entree a faible prix pour convertir rapidement
 
@@ -116,13 +116,13 @@ Cible : audience similaire a tes meilleurs clients.
 
 Aussi important que le ciblage : exclu les bonnes personnes.
 
-- Exclu tes clients actuels des campagnes d'acquisition (pourquoi payer pour atteindre quelqu'un qui a deja achete ?)
-- Exclu les abonnes newsletter des campagnes de capture d'email
+- Exclu tes clients actuels des campagnes d'acquisition (pourquoi payer pour atteindre quelqu'un qui a déjà achete ?)
+- Exclu les abonnés newsletter des campagnes de capture d'email
 - Exclu les non-pertinents (contacts qui se sont desabonnes)
 
-## Etape 6 : Mesurer les resultats
+## Étape 6 : Mesurer les resultats
 
-**Metriques cles :**
+**Métriques clés :**
 
 | Metrique | Audience personnalisee | Lookalike | Audience froide |
 |----------|----------------------|-----------|-----------------|
@@ -130,17 +130,17 @@ Aussi important que le ciblage : exclu les bonnes personnes.
 | Taux de conversion | 3-8% | 1-3% | 0.5-1.5% |
 | ROAS typique | 5-15x | 3-8x | 1-4x |
 
-Les audiences personnalisees coutent generalement moins cher et convertissent mieux que les audiences froides. C'est logique : ces personnes te connaissent deja.
+Les audiences personnalisees coutent generalement moins cher et convertissent mieux que les audiences froides. C'est logique : ces personnes te connaissent déjà.
 
 ## Astuces
 
 - **Synchronisation automatique** : si ton outil email le permet (Brevo, Mailchimp, Klaviyo), active la synchronisation automatique avec Meta/Google. Ta liste reste toujours a jour sans effort
-- **Frequence** : surveille la frequence d'affichage. Si tes abonnes voient ta pub 10 fois, ils vont se lasser. Limite a 3-5 impressions par semaine
-- **Coherence** : le message de ta pub doit etre coherent avec tes emails. Si tu parles de SEO dans ta newsletter, ne montre pas une pub sur du dropshipping
-- **RGPD** : tu dois informer tes abonnes que leurs donnees peuvent etre utilisees pour du ciblage publicitaire. Mentionne-le dans ta politique de confidentialite
+- **Frequence** : surveille la frequence d'affichage. Si tes abonnés voient ta pub 10 fois, ils vont se lasser. Limite a 3-5 impressions par semaine
+- **Coherence** : le message de ta pub doit être coherent avec tes emails. Si tu parles de SEO dans ta newsletter, ne montre pas une pub sur du dropshipping
+- **RGPD** : tu dois informer tes abonnés que leurs donnees peuvent être utilisees pour du ciblage publicitaire. Mentionne-le dans ta politique de confidentialite
 - **Taille minimum** : Meta demande au moins 100 contacts dans une audience personnalisee (mais vise 1 000+ pour de meilleurs resultats). Google a abaisse le minimum a 100 pour les campagnes Search (mai 2025), et recommande 1 000+ pour YouTube et Display
 
-Tes abonnes email sont ta meilleure audience publicitaire. En combinant email + publicites ciblees, tu multiplies les points de contact et tu augmentes significativement tes conversions. Si tu ne fais pas encore de Custom Audiences, c'est le premier levier a activer.
+Tes abonnés email sont ta meilleure audience publicitaire. En combinant email + publicités ciblees, tu multiplies les points de contact et tu augmentes significativement tes conversions. Si tu ne fais pas encore de Custom Audiences, c'est le premier levier a activer.
 
 ## Ressources et liens utiles
 

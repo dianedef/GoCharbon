@@ -150,7 +150,7 @@ C'est un business radicalement différent du e-commerce classique. Là où le e-
 ### TikTok Shop — Le moteur de découverte
 - Algorithme qui pousse tes lives à de nouvelles audiences
 - Commission : 9% en Europe (depuis janvier 2026)
-- Shoppable videos en plus des lives
+- Shoppable vidéos en plus des lives
 - Idéal pour : beauté, mode, produits tendance, audience jeune
 
 ### Amazon Live — L'intention d'achat

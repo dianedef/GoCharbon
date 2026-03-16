@@ -17,13 +17,13 @@ imgUrl: ../../../assets/astro.jpeg
 
 ### tl;dr
 
-Le succes entrepreneurial repose moins sur les competences techniques que sur la capacite a encaisser les coups et a continuer. 95% des startups echouent dans les 5 premieres annees. Ceux qui survivent n'ont pas eu plus de chance -- ils ont developpe une resilience mentale superieure. Voici comment construire la tienne.
+Le succès entrepreneurial repose moins sur les compétences techniques que sur la capacite a encaisser les coups et a continuer. 95% des startups echouent dans les 5 premieres années. Ceux qui survivent n'ont pas eu plus de chance -- ils ont developpe une resilience mentale superieure. Voici comment construire la tienne.
 
 ---
 
-## Pourquoi le mindset bat la strategie
+## Pourquoi le mindset bat la stratégie
 
-Tu peux avoir le meilleur business plan du monde. Si tu craques au premier obstacle serieux, ca ne servira a rien. Les recherches en psychologie entrepreneuriale montrent que la resilience est le facteur numero 1 de survie d'un business, devant le financement, le marche ou meme le produit.
+Tu peux avoir le meilleur business plan du monde. Si tu craques au premier obstacle serieux, ca ne servira a rien. Les recherches en psychologie entrepreneuriale montrent que la resilience est le facteur numéro 1 de survie d'un business, devant le financement, le marche ou même le produit.
 
 La bonne nouvelle : la resilience n'est pas un trait de caractere inne. C'est un muscle qui se developpe.
 
@@ -31,32 +31,32 @@ La bonne nouvelle : la resilience n'est pas un trait de caractere inne. C'est un
 
 ### 1. La tolerance a l'echec
 
-Les entrepreneurs qui reussissent ne detestent pas l'echec -- ils le normalisent. Jeff Bezos parle de "milliards de dollars d'echecs" chez Amazon. Sara Blakely (Spanx) attribue son succes a son pere qui lui demandait chaque soir : "Qu'est-ce que tu as rate aujourd'hui ?"
+Les entrepreneurs qui reussissent ne detestent pas l'echec -- ils le normalisent. Jeff Bezos parle de "milliards de dollars d'echecs" chez Amazon. Sara Blakely (Spanx) attribue son succès a son pere qui lui demandait chaque soir : "Qu'est-ce que tu as rate aujourd'hui ?"
 
-**Exercice concret** : a la fin de chaque semaine, note 3 choses que tu as essayees et qui n'ont pas marche. Analyse pourquoi sans te juger. Au bout de 3 mois, tu verras l'echec comme un outil d'apprentissage, pas comme une menace.
+**Exercice concret** : à la fin de chaque semaine, note 3 choses que tu as essayees et qui n'ont pas marche. Analyse pourquoi sans te juger. Au bout de 3 mois, tu verras l'echec comme un outil d'apprentissage, pas comme une menace.
 
 ### 2. La pensee long terme
 
-Le business, c'est un marathon deguise en sprint. Les reseaux sociaux te montrent des succes overnight qui ont en realite pris 5 a 10 ans. La pensee long terme te protege contre :
+Le business, c'est un marathon deguise en sprint. Les réseaux sociaux te montrent des succès overnight qui ont en realite pris 5 a 10 ans. La pensee long terme te protege contre :
 - Le decouragement des premiers mois sans resultats
 - La tentation de pivoter trop tot
 - La comparaison toxique avec les autres
 
-**Regle pratique** : fixe-toi un objectif a 3 ans et des milestones trimestriels. Juge tes progres sur 90 jours, jamais sur une semaine.
+**Règle pratique** : fixe-toi un objectif a 3 ans et des milestones trimestriels. Juge tes progres sur 90 jours, jamais sur une semaine.
 
 ### 3. La gestion de l'incertitude
 
-En tant que salarie, tu sais combien tu gagnes le mois prochain. En tant qu'entrepreneur, tu ne sais meme pas si tu auras des clients. Cette incertitude constante est le principal facteur de stress et d'abandon.
+En tant que salarie, tu sais combien tu gagnes le mois prochain. En tant qu'entrepreneur, tu ne sais même pas si tu auras des clients. Cette incertitude constante est le principal facteur de stress et d'abandon.
 
 **Comment la gerer** :
-- Constitue un fonds de securite de 6 a 12 mois de charges fixes
+- Constitue un fonds de sécurité de 6 a 12 mois de charges fixes
 - Diversifie tes sources de revenus progressivement
-- Prends des decisions basees sur les donnees, pas sur l'anxiete
-- Developpe des routines stables qui creent un sentiment de controle
+- Prends des décisions basees sur les donnees, pas sur l'anxiete
+- Developpe des routines stables qui creent un sentiment de contrôle
 
 ### 4. L'adaptabilite
 
-Le plan initial ne survit jamais au contact avec le marche. Les entrepreneurs resilients ne s'accrochent pas a leur premiere idee -- ils s'accrochent a leur vision tout en adaptant la methode. Instagram a commence comme une app de check-in (Burbn). Slack etait un outil interne d'une boite de jeux video. Twitter est ne d'un projet de podcasting.
+Le plan initial ne survit jamais au contact avec le marche. Les entrepreneurs resilients ne s'accrochent pas a leur première idée -- ils s'accrochent a leur vision tout en adaptant la methode. Instagram a commence comme une app de check-in (Burbn). Slack etait un outil interne d'une boite de jeux vidéo. Twitter est ne d'un projet de podcasting.
 
 **Pratique** : une fois par mois, demande-toi "qu'est-ce que le marche me dit que je refuse d'entendre ?" Les signaux faibles sont souvent la ou se cache la prochaine opportunite.
 
@@ -71,19 +71,19 @@ Entreprendre, c'est gerer des gens : clients, partenaires, fournisseurs, employe
 Les 90 premieres minutes de ta journee donnent le ton. Pas besoin d'un rituel complique :
 - 10 minutes de mouvement (marche, etirements)
 - 10 minutes de reflexion (journal, meditation, lecture)
-- 30 minutes sur ta tache la plus importante, avant de consulter tes emails
+- 30 minutes sur ta tâche la plus importante, avant de consulter tes emails
 
 ### Le soir : debrief et deconnexion
 
-- Note 3 victoires de la journee (meme petites)
+- Note 3 victoires de la journee (même petites)
 - Identifie 1 lecon apprise
-- Planifie les 3 priorites du lendemain
+- Planifie les 3 priorités du lendemain
 - Deconnecte-toi du travail au moins 2 heures avant de dormir
 
 ### Chaque semaine : prends du recul
 
 - 1 heure de revue hebdomadaire (qu'est-ce qui a marche, qu'est-ce qui n'a pas marche)
-- 1 echange avec un autre entrepreneur (le mastermind, meme informel, est un des outils les plus puissants)
+- 1 echange avec un autre entrepreneur (le mastermind, même informel, est un des outils les plus puissants)
 - 1 moment de deconnexion totale (sport, nature, famille)
 
 ## Quand ca va vraiment mal
@@ -91,8 +91,8 @@ Les 90 premieres minutes de ta journee donnent le ton. Pas besoin d'un rituel co
 Il y a des moments ou la resilience est mise a rude epreuve : un client majeur qui part, un lancement qui echoue, une tresorerie dans le rouge. Dans ces moments :
 
 1. **Reconnais la situation** sans la minimiser ni la dramatiser
-2. **Isole le probleme** -- un echec dans un domaine ne signifie pas que tout s'effondre
-3. **Agis vite mais pas dans la panique** -- prends 24h pour reflechir avant une decision majeure
+2. **Isole le problème** -- un echec dans un domaine ne signifie pas que tout s'effondre
+3. **Agis vite mais pas dans la panique** -- prends 24h pour reflechir avant une décision majeure
 4. **Parle a quelqu'un** -- le syndrome du fondateur isole est reel et dangereux
 5. **Rappelle-toi pourquoi tu as commence** -- ta vision initiale est ta boussole
 
@@ -100,12 +100,12 @@ Il y a des moments ou la resilience est mise a rude epreuve : un client majeur q
 
 ## Le mot de la fin
 
-Le mindset n'est pas un sujet "soft". C'est le fondement sur lequel tout le reste se construit. Les meilleurs outils, les meilleures strategies, les meilleurs marches ne servent a rien si tu n'as pas la solidite mentale pour traverser les moments difficiles.
+Le mindset n'est pas un sujet "soft". C'est le fondement sur lequel tout le reste se construit. Les meilleurs outils, les meilleures stratégies, les meilleurs marches ne servent a rien si tu n'as pas la solidite mentale pour traverser les moments difficiles.
 
 Investis dans ton mental comme tu investis dans ton business. Le retour est incalculable.
 
 ### Pour aller plus loin
 
-- [Competences entrepreneuriales](/performance/mental/competences) -- Les skills techniques et humaines
+- [Compétences entrepreneuriales](/performance/mental/competences) -- Les skills techniques et humaines
 - [Leadership](/performance/mental/leadership) -- Construire ton style de leadership
 - [Feedback](/performance/feedback) -- Utiliser les retours pour progresser

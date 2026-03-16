@@ -49,7 +49,7 @@ affiliate manager : [Affiliate@gifing.com](mailto:Affiliate@gifing.com)
     
 - A faire en affiliation
     
-    [https://gifing.learnybox.com/formation/formation/26526/?idmodule=265057&idpage=1344329&suite](https://gifing.learnybox.com/formation/formation/26526/?idmodule=265057&idpage=1344329&suite)
+    [https://gifing.learnybox.com/formation/formation/26526/?idmodule=265057&idpage=1344329&suite](__MASK_3__)
     
     rédiger des messages pertinents sans mettre de lien, en disant "vous pouvez me contacter si ça vous intéresse d'en savoir plus je pourrais vous faire une démonstration je pourrais vous montrer vous expliquer"
     
@@ -61,11 +61,11 @@ affiliate manager : [Affiliate@gifing.com](mailto:Affiliate@gifing.com)
     
 - Outils Marketing
     
-    [https://gifing.learnybox.com/formation/formation/26526/?idmodule=268146&idpage=1344647&suite](https://gifing.learnybox.com/formation/formation/26526/?idmodule=268146&idpage=1344647&suite)
+    [https://gifing.learnybox.com/formation/formation/26526/?idmodule=268146&idpage=1344647&suite](__MASK_4__)
 
 
 
-Et pour vos campagnes payantes, piochez dans la meilleure banque de GIF avec droits commerciaux : [https://giff1.com/WFXRQK](https://giff1.com/WFXRQK) Abordables et conçu spécialement pour booster vos conversions. Mais comme dit dans l’article, n’en abusez pas, ” La modération a du bon en tout, surtout dans la réussite. ” ! Il propose des GIF et courtes vidéos professionnelles de grande qualité dans les formats vertical (story), horizontal et carré. Et libres de droits !
+Et pour vos campagnes payantes, piochez dans la meilleure banque de GIF avec droits commerciaux : [https://giff1.com/WFXRQK](__MASK_5__) Abordables et conçu spécialement pour booster vos conversions. Mais comme dit dans l’article, n’en abusez pas, ” La modération a du bon en tout, surtout dans la réussite. ” ! Il propose des GIF et courtes vidéos professionnelles de grande qualité dans les formats vertical (story), horizontal et carré. Et libres de droits !
 
 Gifing est l’équivalent de Shutterstock pour les GIFs et vidéos avec téléchargement illimité et licences commerciales.
 
@@ -189,7 +189,7 @@ C’est énorme et cela peut faire la différence entre une campagne publicitair
 
 Plus de la moitié du temps que nous passons sur internet se fait sur mobile ([GlobalWebIndex](https://thenextweb.com/podium/2020/01/30/digital-trends-2020-every-single-stat-you-need-to-know-about-the-internet/)) et 92% des utilisateurs d'internet dans le monde se connectent maintenant sur leurs téléphones.
 
-[Does Vertical Video Make a Difference? We Spent $6,000 on Tests to Find Out Does Vertical Video Make a Difference? We Spent $6,000 on Tests to Find Out](https://buffer.com/resources/vertical-video)
+[Does Vertical Vidéo Make a Difference? We Spent $6,000 on Tests to Find Out Does Vertical Vidéo Make a Difference? We Spent $6,000 on Tests to Find Out](https://buffer.com/resources/vertical-video)
 
 Cette étude à 6000$ fait ressortir la performance du format vertical par rapport au format horizontal et carré en publicité sur mobile avec des CPC jusqu'à moitié moins cher pour le format vertical par rapport au format square
 
@@ -502,7 +502,7 @@ Les ambassadeurs perçoivent des **commissions d’affiliation sur les ventes d
     
     # **Source 1: Affiliation ambassadeur Gifing**
     
-    Etre rémunéré pour trouver des apporteurs d’affaire. Pas besoin de présenter le concept, Gifing le fait à travers des présentations.
+    Être rémunéré pour trouver des apporteurs d’affaire. Pas besoin de présenter le concept, Gifing le fait à travers des présentations.
     
     **Il est possible dès maintenant de construire son 1er niveau en recrutant d’autres ambassadeurs.**
     

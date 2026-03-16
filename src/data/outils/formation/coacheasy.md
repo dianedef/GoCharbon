@@ -225,7 +225,7 @@ Tu auras aussi la possibilité de partager avec un lien un calendrier public (pl
 
 - Partager un calendrier d’inscription à des sessions de coaching
 - Programmer des rendez-vous pour tes clients :
-    - par video avec un lien zoom, google meet, par téléphone, en personne
+    - par vidéo avec un lien zoom, google meet, par téléphone, en personne
 
 En unifiant les échanges dans une plateforme ludique et moderne, disposant d’outils de gestion des tâches, des rendez-vous, des appels, des plans d’actions et des ressources, CoachEasy optimise le suivi et les résultats des coachs et de leur clients.
 
@@ -289,7 +289,7 @@ L’accès à vie CoachEasy comprend l’accès aux vidéos de formation Vie De 
 
 Futur **outil tout en un de référence des Coachs.** Développez la gestion de vos coachings et **offrez une qualité d’accompagnement exceptionnelle** à vos clients !
 
-[https://youtu.be/QctL6aUqyys](https://youtu.be/QctL6aUqyys)
+[https://youtu.be/QctL6aUqyys](__MASK_6__)
 
 [CoachEasy - L'outil de coaching tout en 1 ! Accès à vie](https://viededingue.com/formation/coacheasy/?vgo_ee=i%2FL5UAxPt33KT35ONh8ZNYvy7T5YEJ8ohjC9vauJg30%3D)
 
@@ -315,7 +315,7 @@ Avec CoachEasy, tu pourras construire **un plan d’accompagnement sur-mesure** 
 
 Liens affiliation:
 
-[https://thrivecart.com/affiliates/coacheasy/beta/](https://thrivecart.com/affiliates/coacheasy/beta/)
+[https://thrivecart.com/affiliates/coacheasy/beta/](__MASK_8__)
 
 [Affiliation 7 emails webi : Les Secrets du Power Coaching - Google Docs](https://docs.google.com/document/d/1KZxXeywxR6JgjY9k6wqjoq2cI15CZkMkK5ESezAJcjE/edit)
 

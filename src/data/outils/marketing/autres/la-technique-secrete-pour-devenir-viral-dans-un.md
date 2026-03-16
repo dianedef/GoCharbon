@@ -17,13 +17,13 @@ We’re living in the age of social and entertainment overload. According to
 
 [The Collage Group](https://www.collagegroup.com/2018/02/22/ads-millennials-gen-z/)
 
-, “the proliferation of screens, the rise of social media, and creation of new digital media outlets have all converged to create unprecedented (consumer) stimulation.”
+, “the proliferation of screens, the rise of social media, and création of new digital media outlets have all converged to create unprecedented (consumer) stimulation.”
 
 This is creating an unparalleled challenge for new and established brands as they struggle to break through the social and media noise to engage their audience(s). It doesn’t help that the digital world is such a “fractured ecosystem” that brand survival often depends on how well you can navigate this complex landscape.
 
 So how do brands break through the clutter to gain attention for their products? Alle Fister, the Founder and CEO of Bollare, a communications firm with headquarters in LA, NY, and London, has experienced first-hand this shift in consumer behavior.
 
-Fister observes, “modern consumers are looking for more than a product. They’re seeking an experience, a brand ethos, and values that align with their own, and messaging that resonates with them on a personal level. According to Fister, a recent
+Fister observes, “modern consumers are looking for more than a product. They’re seeking an expérience, a brand ethos, and values that align with their own, and messaging that resonates with them on a personal level. According to Fister, a recent
 
 [Edelman Earned Brand](https://www.edelman.com/news-awards/two-thirds-consumers-worldwide-now-buy-beliefs)
 
@@ -35,7 +35,7 @@ Daniel Khabie, a well known digital brand builder, venturepreneur, and former Gl
 
 Reflecting on the changing landscape, Khabie detailed, “it wasn’t until massive digital changes were well underway that budgets started to shift and huge dollars moved into the space. Once that happened, there was a ripple effect as technology companies became advertisers. If you look at the landscape today, the $539 billion advertising market is being taken over by everyone from a child social media star to the Amazon of the worlds. So the question is, how do you stand out from the pack?”
 
-If this all sounds familiar, Fister and Khabie both have a series of insightful tips on how to garner attention for your brand in a cluttered media marketplace. Fister emphasizes, “the clutter is real for younger generations. With more sources of media than ever, it’s critical to understand the mechanisms underlying strong advertising to informed messaging and executional strategies. Mastering these elements can put your brand in a position to maximize your advertising dollars and break through the clutter.”
+If this all sounds familiar, Fister and Khabie both have a series of insightful tips on how to garner attention for your brand in a cluttered media marketplace. Fister emphasizes, “the clutter is real for younger generations. With more sources of media than ever, it’s critical to understand the mechanisms underlying strong advertising to informed messaging and executional stratégies. Mastering these elements can put your brand in a position to maximize your advertising dollars and break through the clutter.”
 
 **Here are 10 tips that just might make the difference for your brand:**
 
@@ -45,7 +45,7 @@ According to Khaibe, “your brand can’t just mean something anymore, it has t
 
 #### Create a brand personality
 
-You have probably heard this over and over but what does this actually mean today? Khabie observed “the world of marketing continues to change at a rapid pace and more than ever brands need a voice. In the past, that meant logo, taglines, color schemes; today this means chatbots, voice, and robotic customer service. Understanding your digital voice is critical to standing out.” A special caveat is to make sure to extend this all the way through the customer care experience.
+You have probably heard this over and over but what does this actually mean today? Khabie observed “the world of marketing continues to change at a rapid pace and more than ever brands need a voice. In the past, that meant logo, taglines, color schemes; today this means chatbots, voice, and robotic customer service. Understanding your digital voice is critical to standing out.” A special caveat is to make sure to extend this all the way through the customer care expérience.
 
 #### Find the right influencers
 
@@ -83,7 +83,7 @@ The Collage Group study also revealed (and we all probably instinctively know th
 
 The Collage Group also cited moving appeals are another type of emotion that runs through top ads (and remember this can be everything from a traditional ad to an Instagram story). This messaging relies on sentimentality and feeling. This approach can be very effective and featured prominently for all generations, especially older ones.
 
-Finally, form matters. Apparently, the frame of reference for length has shifted across all mediums. Younger generations are much more likely to call out the length as a rationale for liking the content. Older generations actually had the opposite reaction, occasionally calling out content for being “too short.” Second, younger audiences are more discerning consumers of video. The Collage Group found that this group “spends so much time watching user-generated content, they’re appreciative of tactical elements that lead to good videos. Millennials and Gen-Z are more likely to respond positively to executional elements, including music and complex editing. Bottom line quality and content matter in every element across every medium.” Don’t skimp in attention to detail and execution.
+Finally, form matters. Apparently, the frame of reference for length has shifted across all mediums. Younger generations are much more likely to call out the length as a rationale for liking the content. Older generations actually had the opposite reaction, occasionally calling out content for being “too short.” Second, younger audiences are more discerning consumers of vidéo. The Collage Group found that this group “spends so much time watching user-generated content, they’re appreciative of tactical elements that lead to good vidéos. Millennials and Gen-Z are more likely to respond positively to executional elements, including music and complex editing. Bottom line quality and content matter in every element across every medium.” Don’t skimp in attention to detail and execution.
 
 _This article was written by Nj Goldston from [Forbes](https://www.forbes.com/sites/njgoldston/2019/02/28/10-ways-to-break-through-the-noise-how-to-build-brand-engagement-in-a-cluttered-digital-landscape/) and was legally licensed through the [NewsCred](https://www.newscred.com/)publisher network. Please direct all licensing questions to [legal@newscred.com](mailto:legal@newscred.com)._
 

@@ -11,7 +11,7 @@ updatedAt: "2026-03-01"
 Transformer des données web en insights/actionnables exploitables business.
 
 ## En clair (version simple)
-- Pour qui : Equipes growth, pricing, contactgen et veille concurrentielle.
+- Pour qui : Équipes growth, pricing, contactgen et veille concurrentielle.
 - Où trouver les clients : Cas usage ROI (prix, contacts, veille) documentes.
 - Ton plus : tu aides vraiment les gens à obtenir un résultat concret.
 

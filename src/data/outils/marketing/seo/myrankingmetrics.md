@@ -260,7 +260,7 @@ analytics
 
 Visites SEO analysées dans Analytics
 
-videos
+vidéos
 32
 
 vidéos (webinars, how to)

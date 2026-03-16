@@ -50,7 +50,7 @@ Le contenu doit répondre à l'intention de recherche, pas au volume de mots.
 **Ce qui marche en 2026 :**
 
 - Contenu long-form (1000-2000 mots) pour les requêtes informationnelles
-- E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness)
+- E-E-A-T (Expérience, Expertise, Authoritativeness, Trustworthiness)
 - Réponses directes, pas de fluff
 - Mise à jour régulière (Google favorise le contenu frais)
 

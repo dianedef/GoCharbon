@@ -12,7 +12,7 @@ pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-[Etape 1 - SXO: Mots clés et Arborescence de pages - YouTube](https://youtu.be/tlTS8f-JIw0?t=405)
+[Étape 1 - SXO: Mots clés et Arborescence de pages - YouTube](https://youtu.be/tlTS8f-JIw0?t=405)
 	intro au  cocon
 fonctionnement du cosinus de salton [(46) Recherche d'Information: Le ModèleVectoriel  (VSM: Vector Space Model) avec Exercice Corrigé. - YouTube](https://www.youtube.com/watch?v=pAtybovoyyw)
 [Définition SEO du Cosinus de Salton](https://www.semjuice.com/definition/cosinus-de-salton)
@@ -130,7 +130,7 @@ Il faut souligner l'importance de comprendre et d'adopter cette stratégie, sans
 	
 	Google fait un calcul de pertinence, et on a plus de puissance de pénétration quand on apporte de la pet
 	
-	la page en elle-meme à une portée limitée, ce qui va la pousser ce sont des liens. En voyant que derrière telle page il y a d'autres pages connextes et intéressantes, contextuelles, Google reçoit un signal de qualité.
+	la page en elle-même à une portée limitée, ce qui va la pousser ce sont des liens. En voyant que derrière telle page il y a d'autres pages connextes et intéressantes, contextuelles, Google reçoit un signal de qualité.
 	
 	Création du plan de route éditorial
 		De quoi faut-il parler pour être intéressant ?

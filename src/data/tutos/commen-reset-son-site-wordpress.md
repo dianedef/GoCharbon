@@ -55,7 +55,7 @@ Click the Tools tab of the WP Reset plugin to delete theme and plugin files inst
 
 4. Click the Delete all themes button.
 
-Click the Delete all themes button of WP Reset button to complete resetting WordPress
+Click the Delete all themes button of WP Reset button to complète resetting WordPress
 
 5. A popup message will appear asking you to confirm that you want to delete your themes. Click Delete all themes to continue.
 
@@ -63,7 +63,7 @@ Click delete all themes button to confirm resetting WordPress
 
 6. Now click the Delete plugins button.
 
-Click the Delete plugins button of WP Reset button to complete resetting WordPress
+Click the Delete plugins button of WP Reset button to complète resetting WordPress
 
 7. A popup message will appear asking you to confirm that you want to delete your plugins. Click Delete plugins to continue.
 
@@ -120,7 +120,7 @@ Your website will be completely reset now — but you’re not quite done. To ma
 
 2. Fill in the form with the required information, including your site title and username.
 
-Form to complete 5-minute for WordPress
+Form to complète 5-minute for WordPress
 
 Image Source
 

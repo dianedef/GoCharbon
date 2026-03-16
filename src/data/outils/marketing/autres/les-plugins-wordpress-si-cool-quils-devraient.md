@@ -25,7 +25,7 @@ Il vous permet d'apporter des analyses Google et WooCommerce à votre tableau de
 
 [**Mettez à jour votre tableau de bord WordPress avec UiPress !**](https://go.vbt.email/r/2EyZ/?__vbtrk=Nzc0OTg6NTA0MDU5MTM6bmV3c2xldHRlcg==&_uax=Nzc0OTg6NTA0MDU5MTM=&ct)
 
-[DarkLup - Plugin mode sombre WordPress | Offre exclusive d'AppSumo] ([https://appsumo.com/products/darklup-wordpress-dark-mode-plugin/?__vbtrk=Nzc0OTg6NTA0MDU5MTM6bmV3c2xldHRlcg==&_uax=Nzc0OTg6NTA0MDU5MTM=](https://appsumo.com/products/darklup-wordpress-dark-mode-plugin/?__vbtrk=Nzc0OTg6NTA0MDU5MTM6bmV3c2xldHRlcg==&_uax=Nzc0OTg6NTA0MDU5MTM=))
+[DarkLup - Plugin mode sombre WordPress | Offre exclusive d'AppSumo] ([https://appsumo.com/products/darklup-wordpress-dark-mode-plugin/?__vbtrk=Nzc0OTg6NTA0MDU5MTM6bmV3c2xldHRlcg==&_uax=Nzc0OTg6NTA0MDU5MTM=](__MASK_2__))
 
 ## Le duo de stars pour une vitesse incroyable : WP Rocket + Imagify.
 

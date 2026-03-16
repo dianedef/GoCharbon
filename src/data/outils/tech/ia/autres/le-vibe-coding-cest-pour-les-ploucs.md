@@ -62,4 +62,4 @@ You define the "what" and "why" first, then the AI handles the "how" based on yo
 
  
 
-If you are already using AI-Driven Development (AIDD), this content is designed to help you move faster with more confidence. It covers advanced documentation strategies, complex refactors, and production-ready AI integrations in your development workflow.
+If you are already using AI-Driven Development (AIDD), this content is designed to help you move faster with more confidence. It covers advanced documentation stratégies, complex refactors, and production-ready AI integrations in your development workflow.

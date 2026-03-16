@@ -13,7 +13,7 @@ imgUrl: ../../../../../assets/astro.jpeg
 
 Ahttps://www.youtube.com/watch?v=C4nWUvFBMX0&list=PL5BcU-_5Oa_rqxq-O7dRyM0k8ehfA0go0
 
-[https://www.youtube.com/watch?v=C4nWUvFBMX0&list=PL5BcU-_5Oa_rqxq-O7dRyM0k8ehfA0go0](https://www.youtube.com/watch?v=C4nWUvFBMX0&list=PL5BcU-_5Oa_rqxq-O7dRyM0k8ehfA0go0)
+[https://www.youtube.com/watch?v=C4nWUvFBMX0&list=PL5BcU-_5Oa_rqxq-O7dRyM0k8ehfA0go0](__MASK_1__)
 
 ## Créez votre premier site web - Connecter le réseau
 ## Découvrez les Dessous des Sites Web
@@ -134,7 +134,7 @@ Votre site devra comporter les éléments suivants :
 
 [Vous vous souvenez que nous avons laissé Bobby fort intimidé auprès d’Ada Lovelace.](https://openclassrooms.com/courses/connecter-le-reseau/exercises/1552) À présent, il souhaite faire encore mieux. Cliquez sur le lien ci-dessous et aidez-le, ça ne devrait pas vous prendre plus de quelques minutes...
 
-[https://cyclic-wood.glitch.me/](https://cyclic-wood.glitch.me/)
+[https://cyclic-wood.glitch.me/](__MASK_4__)
 
 Si vous avez terminé ce petit jeu, vous devriez être un peu mieux familiarisé avec la lecture d’adresses web. Mais continuons à jouer encore un peu, si vous le voulez bien. :)
 
@@ -146,7 +146,7 @@ _Commençons par jouer aux devinettes : avant de cliquer sur ces différents lie
 
 ### Première devinette
 
-[https://zimbra.inria.fr/home/alan.turing@inria.fr/Calendar.html?view=week](https://zimbra.inria.fr/home/alan.turing@inria.fr/Calendar.html?view=week) (le lien n’est pas cliquable (ouf !) car c’est une information interne)
+[https://zimbra.inria.fr/home/alan.turing@inria.fr/Calendar.html?view=week](__MASK_5__) (le lien n’est pas cliquable (ouf !) car c’est une information interne)
 
 Si vous savez que Inria est un institut de recherche, que zimbra est un outil collaboratif et que Alan Turing y travaille (ça, c’est pas vrai :) ), parions que vous ne serez pas surpris de trouver le calendrier (ou agenda) de la personne avec une vue hebdomadaire.
 
@@ -248,12 +248,12 @@ Le protocole HTTPS est donc une extension du protocole HTTP qui permet au visite
 
 Voici une activité simple permettant de montrer comment marche le harponnage (ou _fishing_).
 
-1. Allez sur [](https://pixees.fr/)[https://pixees.fr](https://pixees.fr) (si vous n'êtes pas inscrit, c'est une bonne occasion !) et déconnectez-vous de votre compte.
-2. Retournez sur la page de connexion [https://pixees.fr/wq-login.php](https://pixees.fr/wq-login.php) et entrez votre login et mot de passe (en faisant bien attention que personne ne vous regarde).
+1. Allez sur [](https://pixees.fr/)[https://pixees.fr](__MASK_9__) (si vous n'êtes pas inscrit, c'est une bonne occasion !) et déconnectez-vous de votre compte.
+2. Retournez sur la page de connexion [https://pixees.fr/wq-login.php](__MASK_10__) et entrez votre login et mot de passe (en faisant bien attention que personne ne vous regarde).
 
 D'accord, c'est fait, et maintenant ?
 
-En pratique, les pirates essaient de vous proposer un lien très proche du lien réel, par exemple [](https://twiiter.com/)[https://twiiter.com](https://twiiter.com) au lieu de [](https://twitter.com/)[https://twitter.com](https://twitter.com) ; ils y recopient tous les éléments graphiques de la page, pour vous inciter à entrer vos éléments d'identification et souvent renvoient sur la vraie page avec un message du type "il y a eu une petite erreur, veuillez recommencer". Nous pouvons donc ne même pas détecter ce piratage et nous en rendre compte plus tard... trop tard !
+En pratique, les pirates essaient de vous proposer un lien très proche du lien réel, par exemple [](https://twiiter.com/)[https://twiiter.com](__MASK_12__) au lieu de [](https://twitter.com/)[https://twitter.com](__MASK_14__) ; ils y recopient tous les éléments graphiques de la page, pour vous inciter à entrer vos éléments d'identification et souvent renvoient sur la vraie page avec un message du type "il y a eu une petite erreur, veuillez recommencer". Nous pouvons donc ne même pas détecter ce piratage et nous en rendre compte plus tard... trop tard !
 
 Pour ne pas se faire avoir, il faut savoir lire une URL !
 
@@ -283,7 +283,7 @@ La cuisine étant le lieu de stockage des gourmandises, c’est de là que tout 
 
 Pour ce faire, il vous faut un **lutin-client** (Ada Lovelace, matérialisée par le bretzel D, dans notre exemple) et un **lutin-serveur** (Bobby dans notre exemple). Il vous faut également un **lutin-paquet** (ici les pâtisseries), qui est la chose demandée par le client au serveur. Mais il vous faut également placer un réseau de petits **lutins-routeurs** (les bretzels) qui permettront au paquet d’arriver jusqu’au client.
 
-Placez ces différents éléments, ou reprenez ceux de mon projet ici : [https://scratch.mit.edu/projects/145833489](https://scratch.mit.edu/projects/145833489)
+Placez ces différents éléments, ou reprenez ceux de mon projet ici : [https://scratch.mit.edu/projects/145833489](__MASK_16__)
 
 Puis passez à la suite pour commencer à coder et déterminer à quels voisins chacun des routeurs peut envoyer le paquet.
 
@@ -388,7 +388,7 @@ Bon, maintenant que nous avons l’adresse, comment se transmet l’information 
 
 Une requête va être envoyée vers le site pour lui demander de nous retourner le contenu de la page web. Avant d’être expédiée, la requête est mise dans une “enveloppe” appelée “paquet” sur laquelle est indiquée l’adresse du destinataire (obtenue grâce au DNS) et celle de l’émetteur (c’est-à-dire la vôtre).
 
-Si vous voulez connaître votre adresse IP, consultez [http://www.mon-ip.com/](http://www.mon-ip.com/).
+Si vous voulez connaître votre adresse IP, consultez [http://www.mon-ip.com/](__MASK_24__).
 
 Le paquet pour arriver à la destination va devoir traverser plusieurs réseaux. **En effet qu’est-ce que l’Internet ? C’est le réseau des réseaux.**
 
@@ -514,7 +514,7 @@ Une première solution, simple à mettre en pratique, consiste à compter le nom
 
 Ok… c’est un peu brutal comme solution (et pourtant, elle est bien utilisée en pratique). Il existe une technique complémentaire qui permet d’éviter ces cycles : ajouter le nombre d’étapes nécessaires pour aller à destination.
 
-Pour en savoir plus, n’hésitez pas à consulter la version complète de cette activité, proposée par Marie Duflot ici : [https://members.loria.fr/MDuflot/files/med/doc/routageelastique.pdf](https://members.loria.fr/MDuflot/files/med/doc/routageelastique.pdf)
+Pour en savoir plus, n’hésitez pas à consulter la version complète de cette activité, proposée par Marie Duflot ici : [https://members.loria.fr/MDuflot/files/med/doc/routageelastique.pdf](__MASK_29__)
 
 ## Partez à la découverte des acteurs du net
 
@@ -527,13 +527,13 @@ Dans la partie précédente, vous avez créé un mini-réseau et routé un paque
 
 ### Mettez-vous à la place de l'émetteur
 
-Pour vous aider à mieux comprendre le problème de Bobby, j’ai repris le projet de routage ici : [https://scratch.mit.edu/projects/150057625](https://scratch.mit.edu/projects/150057625)
+Pour vous aider à mieux comprendre le problème de Bobby, j’ai repris le projet de routage ici : [https://scratch.mit.edu/projects/150057625](__MASK_30__)
 
 En appuyant sur la touche “espace”, Bobby envoie un paquet de gâteaux. Mais il n’a aucune visibilité sur ce qui se passe ensuite ! Et on ne sait jamais ce qui peut arriver : un gentleman trop gourmand sur la route du paquet, un bretzel-routeur défaillant… Bref, on n’est pas à l’abri de perdre un paquet !
 
 Il est donc nécessaire que Bobby sache si le paquet est bien arrivé ou non, car si ce n’est pas le cas, il faudra qu’il renvoie le paquet de nouveau.
 
-Cette situation peut être simplifiée, comme dans le projet suivant, que vous pouvez remixer si vous le souhaitez : [https://scratch.mit.edu/projects/150095114](https://scratch.mit.edu/projects/150095114)
+Cette situation peut être simplifiée, comme dans le projet suivant, que vous pouvez remixer si vous le souhaitez : [https://scratch.mit.edu/projects/150095114](__MASK_31__)
 
 Lorsqu’on appuie sur la touche “espace”, Bobby envoie un paquet vers Ada. Ici, on se fiche de savoir par où passe le paquet. On sait juste qu’il part de Bobby, et qu’il arrive à Ada.
 
@@ -575,7 +575,7 @@ Quoi, un chronomètre ? Oui, il y a ça dans Scratch, dans la catégorie “Capt
 
 Je vous laisse donc tester ces quelques blocs si vous souhaitez améliorer votre protocole ; vous pouvez également ajouter des variables qui gardent en mémoire le nombre de paquets envoyés, et le nombre d’accusés de réception reçus… Facile, pour vous qui avez suivi le [module 1 de Class’Code !](https://openclassrooms.com/courses/decouvrir-la-programmation-creative) ;)
 
-Et voici mon propre projet minimal si vous souhaitez le regarder avant de passer au chapitre suivant : [https://scratch.mit.edu/projects/150063418](https://scratch.mit.edu/projects/150063418)
+Et voici mon propre projet minimal si vous souhaitez le regarder avant de passer au chapitre suivant : [https://scratch.mit.edu/projects/150063418](__MASK_33__)
 
 - Sur les réseaux, il peut y avoir des **pertes de paquets** !
 - Un **protocole de communication,** ce sont des règles établies pour que des machines puissent communiquer entre elles sans ambiguïté.
@@ -598,7 +598,7 @@ Dans la suite de ce chapitre, nous allons rentrer dans des détails un peu plus 
 Regardons de plus près le [protocole HTTP](https://fr.wikipedia.org/wiki/Hypertext_Transfer_Protocol) ou protocole de transfert hypertexte qui permet à un client (le navigateur) de communiquer avec un serveur web en lui envoyant des requêtes pour obtenir des documents (comme les pages HTML) qui peuvent contenir des liens vers d’autres documents.
 
 
-Quand on entre l’URL [http://www.loria.fr/fr/](http://www.loria.fr/fr/) dans la barre de navigation, quel message est effectivement émis vers le serveur ?
+Quand on entre l’URL [http://www.loria.fr/fr/](__MASK_35__) dans la barre de navigation, quel message est effectivement émis vers le serveur ?
 
 Le message commence par **GET** (en majuscule !) suivi du chemin (_path_) pour indiquer le nom de la ressource et de la version du protocole HTTP (ici HTTP 1.1) :
 

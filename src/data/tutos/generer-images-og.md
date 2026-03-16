@@ -59,7 +59,7 @@ Créez un tableau Google Sheets dans lequel **vous créerez une colonne par var
 
 Dans notre exemple, colonne A pour les images et colonne B pour les noms des villes.
 
-Dans la colonne C, **ajoutez l'URL de la page ou de l'article que vous souhaitez rattacher à l'OG image** . Dans notre exemple, on prendra cet article [: https://www.comptoirdesvoyages.fr/voyage-tag/rome/820](https://www.comptoirdesvoyages.fr/voyage-tag/rome/820)
+Dans la colonne C, **ajoutez l'URL de la page ou de l'article que vous souhaitez rattacher à l'OG image** . Dans notre exemple, on prendra cet article [: https://www.comptoirdesvoyages.fr/voyage-tag/rome/820](__MASK_1__)
 
 Vous pouvez aussi prévoir les colonnes D et E pour le Meta Titre et la Meta description.
 

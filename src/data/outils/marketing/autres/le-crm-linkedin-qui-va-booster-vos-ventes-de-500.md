@@ -132,4 +132,4 @@ Des gros acteurs comme Lemlist ne peuvent pas changer leur business model comme 
 
 Si ton budget est pas extensible à l’infini et que tu veux faire juste du cold email, je prendrais le plan à 37$ chez Instantly pour le warmup illimité, le cold emailing illimité chez Emelia.
 
-Si tu veux faire du multi-canal alors [LGM 2](https://lagrowthmachine.com/?ref=gh) sans acun doute car monter une machine custom te coutera beaucoup beaucoup plus chère et je te parle meme pas de la maintenance.
+Si tu veux faire du multi-canal alors [LGM 2](https://lagrowthmachine.com/?ref=gh) sans acun doute car monter une machine custom te coutera beaucoup beaucoup plus chère et je te parle même pas de la maintenance.

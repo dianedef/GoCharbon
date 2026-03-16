@@ -26,7 +26,7 @@ Yeah, that's a lot! And the trend is not going down…
 
 Whether it's shopping, ordering food, or reading the newspaper, we can basically do everything from our phones, and most of the time from apps that simplify the access to our favorite websites and online services. 🤖
 
-That's why it's crucial to optimize the user experience on mobile, especially by exploiting the power of mobile applications! Bringing a mobile user to an in-app page instead of a browser version of this page generates up to +44% more engagement.
+That's why it's crucial to optimize the user expérience on mobile, especially by exploiting the power of mobile applications! Bringing a mobile user to an in-app page instead of a browser version of this page generates up to +44% more engagement.
 
 Audience should always be redirected to in-app pages when it's possible… 😏
 
@@ -38,21 +38,21 @@ Deep linking is a technology that launches an app and sends users on mobile devi
 
 In a nutshell, a deep link will detect the device used by the one who clicks and will redirect him to the most relevant version of a page depending on the device he is using and whether the app is downloaded or not.
 
-Let say that you share a YouTube video link with your audience on social media 📺
+Let say that you share a YouTube vidéo link with your audience on social media 📺
 
-If your users are clicking on this link from a mobile device, in most cases, it will open your video in a browser (m.youtube.com), especially when the traffic comes from an app like Facebook, Instagram, etc.
+If your users are clicking on this link from a mobile device, in most cases, it will open your vidéo in a browser (m.youtube.com), especially when the traffic comes from an app like Facebook, Instagram, etc.
 
-Users will not be logged on to their account, the User Experience won't be the most optimized, and it will end up by a negative impact in terms of engagement: users won't watch the video until the end, won't follow your Youtube channel, etc. 😥
+Users will not be logged on to their account, the User Expérience won't be the most optimized, and it will end up by a negative impact in terms of engagement: users won't watch the vidéo until the end, won't follow your Youtube channel, etc. 😥
 
-👉 With deep-linking, the same mobile users will end on the in-app version of your video if they have it on their mobile. The result is a much more engaging experience for your audience.
+👉 With deep-linking, the same mobile users will end on the in-app version of your vidéo if they have it on their mobile. The result is a much more engaging expérience for your audience.
 
 ## 👀 Why you should care about it?
 
 **The use of deep linking increases the chances to engage and convert your mobile users by +44% on average. 🚀**
 
-Indeed, it provides a better user experience, redirecting to an in-app version of a page, where the navigation is easier, and where the user will be already logged-in and have all his information registered.
+Indeed, it provides a better user expérience, redirecting to an in-app version of a page, where the navigation is easier, and where the user will be already logged-in and have all his information registered.
 
-Such an experience is more engaging because it has fewer frictions as it requires fewer actions from the user.
+Such an expérience is more engaging because it has fewer frictions as it requires fewer actions from the user.
 
 **That's the theory… What about the practice?**
 
@@ -65,7 +65,7 @@ Actually, the usage possibilities are endless, but we've prepared a small select
 
 **1) Increase of +40% the conversion rate of your mobile customers on marketplaces (Amazon, Etsy, eBay, Craiglist, etc.) 🛒**
 
-Send your mobile customers directly to your product page in the Amazon Shopping app. Good to drive more conversions as many people have their accounts already registered in the app, with all the information needed to complete a purchase (credit card, addresses, and delivery preferences…).
+Send your mobile customers directly to your product page in the Amazon Shopping app. Good to drive more conversions as many people have their accounts already registered in the app, with all the information needed to complète a purchase (credit card, addresses, and delivery preferences…).
 
 **2) Get more followers and subscribers on streaming platforms (Twitch, YouTube, Vimeo, etc.) 📺**
 
@@ -77,11 +77,11 @@ Bring your future followers directly in-app on your social profiles, and this fr
 
 **4) Get more information when redirecting traffic to music streaming platforms (Spotify, Soundcloud, Deezer, etc.) 🎶**
 
-From any channel, direct your audience to the Spotify in-app page of the artist of your choice. You can also retarget those who click on this link and track the performance of your channels with UTM tags. Optimize user experience to best showcase your talent (or your favorite band's talent)!
+From any channel, direct your audience to the Spotify in-app page of the artist of your choice. You can also retarget those who click on this link and track the performance of your channels with UTM tags. Optimize user expérience to best showcase your talent (or your favorite band's talent)!
 
 **5) Maximize your Amazon affiliate revenues (increasing conversion rate for mobile users) 💰**
 
-Increase your affiliate revenue by redirecting your users directly to the Amazon in-app product page. As it will provide a better experience for your users, you avoid that they don't use your link to make their purchases when they are on mobile (+44% more conversion with deep linking compared to regular linking)!
+Increase your affiliate revenue by redirecting your users directly to the Amazon in-app product page. As it will provide a better expérience for your users, you avoid that they don't use your link to make their purchases when they are on mobile (+44% more conversion with deep linking compared to regular linking)!
 
 [](https://giphy.com/gifs/new-girl-fox-new-girl-jeff-day-l3V0dy1zzyjbYTQQM?ref=blog.switchy.io)
 

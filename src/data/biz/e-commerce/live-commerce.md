@@ -74,7 +74,7 @@ Résultat : 9 vendeurs sur 10 affirment que le live selling génère de meilleur
 - **Enchères live** — Le format roi sur Whatnot. Tu mets un prix de départ bas, les spectateurs enchérissent en temps réel. L'excitation monte, l'effet FOMO fait le reste. C'est le format qui génère le plus d'engagement.
 - **Buy It Now (BIN)** — Prix fixe, premier arrivé premier servi. Idéal pour les produits standardisés ou les drops limités.
 - **Giveaways et mystery boxes** — Tu offres des produits pendant le live pour attirer du monde, ou tu vends des "mystery boxes" à prix réduit. Excellent pour construire une audience.
-- **Shoppable videos** — Sur TikTok Shop, même les vidéos préenregistrées peuvent avoir des liens d'achat intégrés. Le live n'est qu'une partie de l'équation.
+- **Shoppable vidéos** — Sur TikTok Shop, même les vidéos préenregistrées peuvent avoir des liens d'achat intégrés. Le live n'est qu'une partie de l'équation.
 
 ### Ce que tu gagnes (concrètement)
 
@@ -132,7 +132,7 @@ Ce n'est pas du pocket money. C'est un vrai business.
 
 **Points forts :**
 - Algorithme de découverte surpuissant — tes lives sont poussés à des gens qui ne te connaissent pas
-- Shoppable videos en plus des lives
+- Shoppable vidéos en plus des lives
 - Audience gigantesque
 - Parfait pour les produits "instagrammables" à fort potentiel viral
 
@@ -253,9 +253,9 @@ Tu ne veux pas dépendre d'une marketplace ? Ces solutions permettent d'intégre
 
 | Plateforme | Origine | Spécialité | Intégrations |
 |---|---|---|---|
-| **[Bambuser](https://bambuser.com)** | Suède | Pionnier du live video commerce. One-to-many et one-to-one. Analytics post-show, replays interactifs. | Shopify, Salesforce, SAP, BigCommerce |
+| **[Bambuser](https://bambuser.com)** | Suède | Pionnier du live vidéo commerce. One-to-many et one-to-one. Analytics post-show, replays interactifs. | Shopify, Salesforce, SAP, BigCommerce |
 | **[Caast](https://caast.tv)** | France | Solution live shopping française. Plug-and-play sur sites existants, replay shoppable, analytics. | Shopify, PrestaShop, Magento, WooCommerce |
-| **[Firework](https://firework.com)** | USA | Shoppable video + live shopping. Format short-video à la TikTok intégré sur ton site. | Shopify, BigCommerce, Salesforce, custom |
+| **[Firework](https://firework.com)** | USA | Shoppable vidéo + live shopping. Format short-vidéo à la TikTok intégré sur ton site. | Shopify, BigCommerce, Salesforce, custom |
 | **[Livescale](https://livescale.tv)** | Canada/France | Plateforme tout-en-un : stratégie, production, talents. Multilingue. 6 ans d'expérience. | Shopify, e-commerce custom |
 | **[Sprii](https://fr.sprii.io)** | Danemark | Multichannel : diffuse sur ton site + Facebook + Instagram simultanément. Orienté retail. | Shopify, WooCommerce, custom |
 

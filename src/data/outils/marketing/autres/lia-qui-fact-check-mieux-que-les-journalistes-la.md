@@ -41,7 +41,7 @@ Afforai is your answer.
 
 Here’s what Afforai can do for you:
 
-Sift through hundreds of documents and URLs to get answers to any question, complete with accurate citations
+Sift through hundreds of documents and URLs to get answers to any question, complète with accurate citations
 
 Connect your AI chatbot to Google and receive answers with up-to-date information, and yes, with citations
 

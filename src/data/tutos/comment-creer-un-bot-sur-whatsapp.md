@@ -16,7 +16,7 @@ imgUrl: ../../assets/astro.jpeg
 
 WhatsApp, c'est 2 milliards d'utilisateurs actifs. Tes clients sont dessus. Un bot WhatsApp te permet de repondre automatiquement aux questions frequentes, qualifier des leads, envoyer des confirmations de commande et assurer un support 24h/24 sans que tu sois devant ton telephone.
 
-Voici comment en creer un, meme sans coder.
+Voici comment en creer un, même sans coder.
 
 ## Les deux approches pour creer un bot WhatsApp
 
@@ -24,7 +24,7 @@ Voici comment en creer un, meme sans coder.
 
 C'est la solution officielle de Meta. Obligatoire si tu veux envoyer des messages a grande echelle ou automatiser des conversations.
 
-**Avantages** : fiable, pas de risque de ban, acces aux templates de messages, statistiques completes.
+**Avantages** : fiable, pas de risque de ban, acces aux templates de messages, statistiques complètes.
 
 **Inconvenients** : il faut passer par un partenaire BSP (Business Solution Provider), et c'est payant par message.
 
@@ -32,29 +32,29 @@ C'est la solution officielle de Meta. Obligatoire si tu veux envoyer des message
 
 Des outils qui se connectent a l'API WhatsApp Business et te permettent de creer des flux de conversation sans ecrire une ligne de code.
 
-## Etape 1 : Configurer WhatsApp Business
+## Étape 1 : Configurer WhatsApp Business
 
 Avant de creer un bot, tu dois avoir un compte WhatsApp Business :
 
 1. **Cree un compte Meta Business** sur business.facebook.com
-2. **Ajoute un numero de telephone** dedie (pas ton numero perso)
+2. **Ajoute un numéro de telephone** dédié (pas ton numéro perso)
 3. **Verifie ton entreprise** via le Business Manager de Meta
-4. **Accede a l'API WhatsApp Business** soit directement (Cloud API), soit via un BSP
+4. **Accède a l'API WhatsApp Business** soit directement (Cloud API), soit via un BSP
 
 **BSP populaires** : 360dialog, Twilio, MessageBird, Vonage. Ils simplifient l'acces a l'API et ajoutent des fonctionnalites.
 
-## Etape 2 : Choisir ton outil de creation de bot
+## Étape 2 : Choisir ton outil de création de bot
 
 ### ManyChat (le plus accessible)
 
-ManyChat ([manychat.com](https://manychat.com)) est le leader des chatbots pour les reseaux sociaux, avec un support WhatsApp, Instagram, Messenger, TikTok, SMS, email et Telegram.
+ManyChat ([manychat.com](https://manychat.com)) est le leader des chatbots pour les réseaux sociaux, avec un support WhatsApp, Instagram, Messenger, TikTok, SMS, email et Telegram.
 
-- **Interface** : editeur visuel Flow Builder drag-and-drop, tres intuitif
+- **Interface** : editeur visuel Flow Builder drag-and-drop, très intuitif
 - **Fonctionnalites** : reponses automatiques, collecte d'infos, envoi de medias, integration CRM, drip sequences, broadcasts, live chat, tags et segments illimites
 - **Prix** :
-  - **Free** : 0$/mois (jusqu'a 1 000 contacts, flows illimites, 10 tags, 2 sequences, 1 membre d'equipe)
-  - **Pro** : a partir de 15$/mois (contacts illimites, multi-canal, 3 membres d'equipe, keywords et triggers illimites)
-  - **Elite** : sur devis (equipes, members illimites)
+  - **Free** : 0$/mois (jusqu'a 1 000 contacts, flows illimites, 10 tags, 2 sequences, 1 membre d'équipe)
+  - **Pro** : a partir de 15$/mois (contacts illimites, multi-canal, 3 membres d'équipe, keywords et triggers illimites)
+  - **Elite** : sur devis (équipes, members illimites)
   - **Add-on IA** : 29$/mois en option (reponses alimentees par l'IA)
 - **Ideal pour** : e-commerce, generation de leads, support client basique, automatisation Instagram/WhatsApp
 
@@ -69,12 +69,12 @@ Similaire a ManyChat, avec un focus sur la simplicite.
 
 ### Respond.io
 
-Respond.io ([respond.io](https://respond.io)) est une solution omnicanale avancee pour les equipes commerciales, integrant WhatsApp, Instagram, Messenger, Telegram, email et plus.
+Respond.io ([respond.io](https://respond.io)) est une solution omnicanale avancee pour les équipes commerciales, integrant WhatsApp, Instagram, Messenger, Telegram, email et plus.
 
 - **Interface** : inbox partagee + automatisations avancees (Workflow builder)
 - **Fonctionnalites** : routage intelligent vers le bon agent, qualification de leads, AI Agents pour reponses automatiques, broadcasts et newsletters, CRM integre, WhatsApp Business Calling API
-- **Prix** : plans Starter, Growth et Advanced disponibles. Le plan Starter inclut jusqu'a 5 utilisateurs. Plans Business pour les equipes plus grandes
-- **Ideal pour** : equipes de vente B2C en croissance, agences, support multi-agents, entreprises omnicanales
+- **Prix** : plans Starter, Growth et Advanced disponibles. Le plan Starter inclut jusqu'a 5 utilisateurs. Plans Business pour les équipes plus grandes
+- **Ideal pour** : équipes de vente B2C en croissance, agences, support multi-agents, entreprises omnicanales
 - **Avantage** : integrations CRM (HubSpot, Salesforce), Zapier, Make, API developpeur
 
 ### WATI
@@ -82,17 +82,17 @@ Respond.io ([respond.io](https://respond.io)) est une solution omnicanale avance
 WATI ([wati.io](https://www.wati.io)) est specialise WhatsApp, base sur l'API officielle de Meta. Certifie BSP WhatsApp.
 
 - **Interface** : editeur de flux + inbox partagee + AI Support Agent (beta)
-- **Fonctionnalites** : broadcasts (jusqu'a 15K/mois sur le plan Growth), templates valides par Meta, catalogue produits, WhatsApp Business Calling, integration Shopify (add-on a 4,99$/mois), analytics avances (taux d'ouverture, temps de reponse)
+- **Fonctionnalites** : broadcasts (jusqu'a 15K/mois sur le plan Growth), templates valides par Meta, catalogue produits, WhatsApp Business Calling, integration Shopify (add-on a 4,99$/mois), analytics avances (taux d'ouverture, temps de réponse)
 - **Prix** :
   - **Growth** : a partir de 30$/mois (3 utilisateurs inclus, pas d'utilisateurs supplementaires, 15K broadcasts/mois)
   - **Pro** : prix intermediaire (5 utilisateurs, plus d'automatisation)
-  - **Business** : jusqu'a 2 000$/mois (fonctionnalites enterprise completes)
-- **Important depuis juillet 2025** : WATI est passe d'une facturation par conversation a une facturation par message (alignement avec Meta). Les messages de service dans la fenetre 24h restent gratuits
+  - **Business** : jusqu'a 2 000$/mois (fonctionnalites enterprise complètes)
+- **Important depuis juillet 2025** : WATI est passe d'une facturation par conversation a une facturation par message (alignement avec Meta). Les messages de service dans la fenêtre 24h restent gratuits
 - **Ideal pour** : e-commerce et notifications transactionnelles, PME D2C
 
-## Etape 3 : Concevoir tes flux de conversation
+## Étape 3 : Concevoir tes flux de conversation
 
-Un bon bot WhatsApp suit une logique simple : question -> reponse -> action.
+Un bon bot WhatsApp suit une logique simple : question -> réponse -> action.
 
 ### Flux d'accueil
 
@@ -134,53 +134,53 @@ Bot: Voici les questions les plus frequentes :
 [Chaque option declenche une reponse automatique detaillee]
 ```
 
-## Etape 4 : Les cas d'usage qui cartonnent
+## Étape 4 : Les cas d'usage qui cartonnent
 
 - **Confirmation de commande** : message automatique avec resume et lien de suivi
 - **Rappel de rendez-vous** : message 24h et 1h avant le RDV avec option d'annulation
 - **Relance panier abandonne** : "Hey, tu as oublie quelque chose dans ton panier..."
-- **Notification de livraison** : "Ton colis est en route ! Voici le numero de suivi"
+- **Notification de livraison** : "Ton colis est en route ! Voici le numéro de suivi"
 - **Enquete de satisfaction** : "Comment s'est passee ta commande ? Note de 1 a 5"
 
-## Etape 5 : Bonnes pratiques
+## Étape 5 : Bonnes pratiques
 
 ### Ce qui est autorise par Meta
 
-- Repondre aux messages dans les 24 heures (fenetre de conversation gratuite)
-- Envoyer des templates pre-approuves en dehors de la fenetre de 24h
+- Repondre aux messages dans les 24 heures (fenêtre de conversation gratuite)
+- Envoyer des templates pre-approuves en dehors de la fenêtre de 24h
 - Utiliser des boutons interactifs (jusqu'a 3 boutons par message)
-- Envoyer des images, videos, documents et localisations
+- Envoyer des images, vidéos, documents et localisations
 
 ### Ce qui est interdit
 
 - Spammer des contacts qui n'ont pas donne leur consentement
 - Envoyer du contenu promotionnel non sollicite
-- Utiliser des APIs non officielles (risque de ban du numero)
+- Utiliser des APIs non officielles (risque de ban du numéro)
 - Collecter des donnees sans informer l'utilisateur
 
-### Conseils pour un bon taux de reponse
+### Conseils pour un bon taux de réponse
 
-- **Reponds vite** : configure une reponse automatique en moins de 5 secondes
+- **Reponds vite** : configure une réponse automatique en moins de 5 secondes
 - **Sois concis** : pas de paves de texte, des messages courts et actionnable
 - **Propose toujours une sortie** : "Tape STOP pour ne plus recevoir de messages"
 - **Humanise** : prevois un transfert vers un humain quand le bot ne sait pas repondre
 
-## Les couts a prevoir
+## Les coûts a prevoir
 
-**Attention** : depuis le 1er juillet 2025, Meta a change son modele de tarification WhatsApp Business API. On passe d'une facturation par conversation (fenetre 24h) a une facturation par message template. Voici le nouveau modele :
+**Attention** : depuis le 1er juillet 2025, Meta a change son modele de tarification WhatsApp Business API. On passe d'une facturation par conversation (fenêtre 24h) a une facturation par message template. Voici le nouveau modele :
 
-| Poste | Cout |
+| Poste | Coût |
 |-------|------|
-| Numero WhatsApp Business | Gratuit |
-| Messages de service (dans la fenetre 24h client) | Gratuit |
+| Numéro WhatsApp Business | Gratuit |
+| Messages de service (dans la fenêtre 24h client) | Gratuit |
 | Templates Marketing (par message envoye) | Variable par pays (0,05-0,15 EUR en Europe) |
-| Templates Utilitaires (hors fenetre 24h) | Variable, avec reductions par volume |
+| Templates Utilitaires (hors fenêtre 24h) | Variable, avec reductions par volume |
 | Templates Authentification | Variable, tarifs reduits |
-| Templates Utilitaires (dans fenetre 24h) | Gratuit |
+| Templates Utilitaires (dans fenêtre 24h) | Gratuit |
 | Plateforme chatbot (ManyChat, WATI...) | 15 a 79$/mois |
 | BSP (360dialog, Twilio) | Variable selon le volume |
 
-**Ce qui change** : les messages utilitaires envoyes dans la fenetre 24h du service client sont desormais gratuits. En revanche, chaque template marketing est facture individuellement (plus de "messages illimites" pendant 24h).
+**Ce qui change** : les messages utilitaires envoyes dans la fenêtre 24h du service client sont desormais gratuits. En revanche, chaque template marketing est facture individuellement (plus de "messages illimites" pendant 24h).
 
 ## Ce qu'il faut retenir
 

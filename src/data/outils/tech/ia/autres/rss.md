@@ -31,8 +31,8 @@ Miniflux is another excellent choice for developers, known for its simplicity an
 
 - **Lightweight and fast**: Built with Go, it offers excellent performance.
 - **Clean, minimalist interface**: Focuses on essential features without clutter.
-- **Advanced features**: Supports multiple attachments, including podcasts and videos.
-- **YouTube integration**: Play videos from YouTube channels directly within the application.
+- **Advanced features**: Supports multiple attachments, including podcasts and vidéos.
+- **YouTube integration**: Play vidéos from YouTube channels directly within the application.
 - **Third-party service integration**: Save articles to services like Pocket.
 - **Dark theme**: Offers better readability for long coding sessions.
 
@@ -40,7 +40,7 @@ Miniflux is another excellent choice for developers, known for its simplicity an
 
 TT-RSS is a robust, feature-rich option that many developers appreciate[1]:
 
-- **Self-hosted**: Gives you complete control over your data and setup.
+- **Self-hosted**: Gives you complète control over your data and setup.
 - **Customizable**: Offers a high degree of flexibility for developers.
 - **Keyboard shortcuts**: Enhances efficiency for power users.
 - **Feed aggregation/syndication**: Useful for managing multiple sources.

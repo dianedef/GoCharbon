@@ -17,18 +17,18 @@ C'est faire le lien entre ton offre et les bonnes personnes, au bon moment.
 
 ## Ton objectif
 
-Obtenir tes premiers resultats avec une strategie simple, mesurable et tenable.
+Obtenir tes premiers resultats avec une stratégie simple, mesurable et tenable.
 
 ## Les 4 bases qui changent tout
 
 ### 1) Cible
 
 Tu ne parles pas a "tout le monde".
-Tu parles a une cible qui a un probleme concret.
+Tu parles a une cible qui a un problème concret.
 
 ### 2) Message
 
-Ton message doit etre clair en 10 secondes:
+Ton message doit être clair en 10 secondes:
 - pour qui
 - quel resultat
 - pourquoi toi
@@ -39,12 +39,12 @@ Choisis 1 canal principal + 1 canal support.
 
 Exemple:
 - principal: SEO ou outreach LinkedIn
-- support: email ou reseaux sociaux
+- support: email ou réseaux sociaux
 
 ### 4) Conversion
 
 Le traffic seul ne suffit pas.
-Tu dois transformer l'interet en action:
+Tu dois transformer l'intérêt en action:
 - appel
 - essai
 - achat
@@ -54,7 +54,7 @@ Tu dois transformer l'interet en action:
 1. Attirer: contenu, SEO, social, ads
 2. Qualifier: mini quiz, formulaire, echange
 3. Convertir: offre claire + preuve
-4. Activer: premiere victoire rapide
+4. Activer: première victoire rapide
 5. Fideliser: suivi et relation
 
 ## Plan 14 jours (debutant)
@@ -83,11 +83,11 @@ Tu dois transformer l'interet en action:
 - mesurer les conversions
 - preparer le sprint suivant
 
-## Les KPI a suivre au debut
+## Les KPI à suivre au debut
 
 - Taux de clic vers ton offre
 - Taux de conversion vers prise de contact/achat
-- Cout d'acquisition (si pub)
+- Coût d'acquisition (si pub)
 - Revenu par canal
 
 ## Erreurs a eviter
