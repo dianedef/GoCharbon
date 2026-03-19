@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-03-19
+
+### Added
+- **Profil business "Entraîneur IA / Data Worker"** (`biz/profils/entraineur-ia.md`) — nouveau profil parcours complet : description, prérequis, personnalité, revenus cibles, 7 étapes, 4 exemples de réussite
+- **Mini cocon éducatif "Entraînement IA"** — 6 articles dans `tech/ia/entrainement/` (1 291 lignes) :
+  - `index.md` — hub avec vue d'ensemble et liens
+  - `comment-entrainer-ia.md` — RLHF expliqué, pipeline, types de feedback humain
+  - `combien-gagner-entraineur-ia.md` — chiffres réels par plateforme/domaine + fiscalité FR
+  - `competences-entraineur-ia.md` — tier list des compétences + comment progresser
+  - `guide-demarrer-entraineur-ia.md` — pas à pas 7 jours + micro-entreprise + pièges
+  - `comparatif-plateformes.md` — 10 plateformes comparées + recommandations par profil
+- **6 fiches outils plateformes d'entraînement IA** (1 171 lignes) :
+  - `outils/tech/ia/outlier-ai.md` — Scale AI, leader mondial RLHF ($10-120/h)
+  - `outils/tech/ia/wirk-io.md` — 🇫🇷 ex-Foule Factory, micro-travail français (50K contributeurs)
+  - `outils/tech/ia/isahit.md` — 🇫🇷 annotation IA éthique (Paris, 3K+ HITers)
+  - `outils/tech/ia/dataannotation-tech.md` — recrute activement des francophones (~25$/h)
+  - `outils/tech/ia/mindrift.md` — Toloka, experts spécialisés ($15-100+/h)
+  - `outils/tech/ia/kili-technology.md` — 🇫🇷 plateforme B2B enterprise ($25M levés, Airbus/Michelin)
+- Maillage interne complet : profil ↔ cocon ↔ fiches outils
+
 ## 2026-03-16
 
 ### Added
