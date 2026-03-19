@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: E-learning Creator / Créateur de Formations en Ligne
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Crée et vends des formations en ligne : plateformes, pédagogie et stratégies

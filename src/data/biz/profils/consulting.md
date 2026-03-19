@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Consulting / Conseil Stratégique
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Deviens consultant indépendant : expertise, prospection, tarification

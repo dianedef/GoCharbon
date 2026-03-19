@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: App Developer / Développeur d'applications mobiles
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Deviens développeur d''applications indépendant : compétences, outils,

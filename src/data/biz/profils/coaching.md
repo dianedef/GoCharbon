@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Coaching en Ligne
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Lance ton activité de coaching : positionnement, acquisition clients,

@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Prompt Engineer / Consultant IA
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Deviens prompt engineer : techniques, outils IA et stratégies pour vendre

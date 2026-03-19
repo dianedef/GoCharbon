@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Entraîneur IA / Data Worker
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 - Tech

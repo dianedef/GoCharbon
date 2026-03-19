@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: SaaS (Logiciel en Service)
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Lance ton SaaS : idéation, développement, pricing et croissance pour

@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Marketing d'Affiliation
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Découvre comment gagner de l''argent avec l''affiliation : stratégies,

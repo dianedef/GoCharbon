@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Live Commerce / Vente en Direct
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 - E-commerce

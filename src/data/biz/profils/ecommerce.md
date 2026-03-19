@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: E-commerce / Boutique en ligne
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Lance ta boutique e-commerce : plateformes, produits, marketing et logistique

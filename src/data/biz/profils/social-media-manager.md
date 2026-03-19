@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Social Media Manager
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Deviens social media manager : stratégies, outils et tarification pour

@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Pet Sitter (Garde d'animaux)
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Deviens pet-sitter professionnel : plateformes, tarification et conseils

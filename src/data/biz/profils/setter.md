@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Setter / Appointment Setter
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Maîtrise le setting : techniques de qualification, scripts et stratégies

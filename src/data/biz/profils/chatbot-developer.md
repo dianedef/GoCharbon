@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Chatbot Developer (No-Code)
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Crée des chatbots pour entreprises : technologies, outils no-code et

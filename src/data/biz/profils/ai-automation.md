@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: AI Automation Agency
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Maîtrise l''automatisation IA pour créer des revenus : outils, workflows

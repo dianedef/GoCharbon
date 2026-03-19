@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Infoproduits / Produits Digitaux
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Crée et vends des infoproduits : ebooks, templates et ressources digitales

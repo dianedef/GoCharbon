@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Virtual Assistant / Assistant Virtuel Spécialisé
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Deviens assistant virtuel : services, outils et stratégies pour travailler

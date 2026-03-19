@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Email Marketer / Spécialiste Marketing par Email
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Deviens expert email marketing : stratégies, outils et techniques pour

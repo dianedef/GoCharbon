@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Agence Digitale
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Lance ton agence de services : étapes clés, positionnement, acquisition

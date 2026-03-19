@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Voiceover Artist / Comédien de Doublage
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Lance ta carrière de voix-off : équipement, plateformes et techniques

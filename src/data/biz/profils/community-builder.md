@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Community Builder / Gestionnaire de Communauté
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Construis des communautés engagées : plateformes, stratégies d''animation

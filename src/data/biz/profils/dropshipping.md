@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Dropshipping
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Guide complet dropshipping : fournisseurs, boutique e-commerce et stratégies

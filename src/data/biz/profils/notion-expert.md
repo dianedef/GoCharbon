@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Notion Expert / Spécialiste Notion
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Deviens expert Notion : templates, consulting et formations pour aider

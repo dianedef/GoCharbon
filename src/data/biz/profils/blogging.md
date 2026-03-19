@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Blogging / Site de Contenu
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Lance un blog rentable : niches, SEO, monétisation et stratégies pour

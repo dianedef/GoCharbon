@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Print-on-Demand (POD)
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Guide print-on-demand : designs, plateformes et marketing pour vendre

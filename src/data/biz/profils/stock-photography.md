@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Stock Photography / Photographie et Vidéos Stock
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Vends tes photos en stock : plateformes, techniques et stratégies pour

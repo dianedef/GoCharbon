@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Designer Graphique Freelance
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Deviens designer graphique freelance : portfolio, clients, tarification

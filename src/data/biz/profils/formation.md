@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Formation en Ligne
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Crée ton organisme de formation : réglementation, financement CPF et

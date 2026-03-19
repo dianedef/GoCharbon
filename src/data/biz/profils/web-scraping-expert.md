@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Web Scraping Expert / Expert en Web Scraping
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Deviens expert web scraping : outils, éthique et stratégies pour extraire

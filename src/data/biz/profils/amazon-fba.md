@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Amazon FBA
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Guide complet Amazon FBA : sélection produits, sourcing, logistique

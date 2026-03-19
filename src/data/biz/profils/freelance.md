@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Freelance / Services en Ligne
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Guide du freelance : statuts, prospection, tarification et gestion pour

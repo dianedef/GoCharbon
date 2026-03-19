@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: YouTubeur
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Lance ta chaîne YouTube rentable : niche, contenu, monétisation et croissance

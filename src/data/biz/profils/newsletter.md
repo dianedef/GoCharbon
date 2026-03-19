@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Newsletter / Email Business
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Lance une newsletter rentable : acquisition, rétention et monétisation

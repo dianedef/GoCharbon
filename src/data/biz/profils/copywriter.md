@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Copywriter / Rédacteur Publicitaire
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Deviens copywriter freelance : techniques de persuasion, niches rentables

@@ -20,6 +20,9 @@
   - `outils/tech/ia/kili-technology.md` — 🇫🇷 plateforme B2B enterprise ($25M levés, Airbus/Michelin)
 - Maillage interne complet : profil ↔ cocon ↔ fiches outils
 
+### Changed
+- `author:` dans les 44 profils business : `Web Indé` → `Diane GoCharbon` (rebranding)
+
 ## 2026-03-16
 
 ### Added

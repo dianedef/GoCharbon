@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Créateur de Contenu
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Guide du créateur de contenu : plateformes, formats, monétisation et

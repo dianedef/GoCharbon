@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Podcast
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Lance un podcast rentable : équipement, distribution, monétisation et

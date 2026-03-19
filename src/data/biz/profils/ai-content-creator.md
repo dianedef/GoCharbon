@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: AI Content Creator
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Crée du contenu avec l''IA : outils, techniques et monétisation pour

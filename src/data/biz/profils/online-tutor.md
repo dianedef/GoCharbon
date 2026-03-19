@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Online Tutor / Enseignant en Ligne
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Lance ton activité de cours particuliers en ligne : plateformes, tarification

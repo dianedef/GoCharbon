@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Closer / Sales Closer
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Maîtrise l''art du closing : techniques de vente, scripts et psychologie

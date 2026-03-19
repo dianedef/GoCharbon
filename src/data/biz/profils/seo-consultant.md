@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: SEO Consultant / Consultant en Référencement Naturel
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Deviens consultant SEO : audits, stratégies et acquisition clients pour

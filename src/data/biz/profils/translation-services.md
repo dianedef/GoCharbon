@@ -1,7 +1,7 @@
 ---
 section: parcours
 title: Translation Services / Services de Traduction
-author: Web Indé
+author: Diane GoCharbon
 tags:
 - Business
 description: 'Lance ton activité de traduction : spécialisations, outils et stratégies
