@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: Preuveo
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Legal'
   - 'Business'
+  - Outils
 description: "Preuveo connecte citoyens et pros aux Commissaires de Justice en ligne. RDV, gestion de dossiers, constats. 140 commissaires, 500+ affaires. Saint-Étienne."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,17 @@ u_site: https://www.preuveo.fr/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://www.preuveo.fr/
+  - https://www.pappers.fr/entreprise/visioconstat-890260185
+  - https://www.preuveo.fr/partenaires
+notesQualification: "Preuveo dispose d'un operateur francais clairement rattache a Saint-Etienne et d'un produit oriente vers le marche national des commissaires de justice. En revanche, la structure ACT'IT fait l'objet d'une procedure collective en cours et la documentation publique n'explicite pas suffisamment l'hebergement et les sous-traitants. Je conserve donc une qualification prudente, avec ancrage et responsabilite partiels."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Preuveo

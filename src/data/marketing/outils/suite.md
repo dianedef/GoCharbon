@@ -1,10 +1,11 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: Suite Marketing Complète
 author: Diane
 tags:
 - Marketing
+- Outils
 description: Guide complet des outils essentiels pour le marketing digital
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg

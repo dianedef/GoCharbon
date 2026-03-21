@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: faible
+niveauResponsabilite: indetermine
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.oscar-manager.com/
+- https://entreprises.lefigaro.fr/oscar-manager-13/entreprise-820882165
+notesQualification: Oscar Manager etait une structure francaise basee a Marseille, mais l'entreprise a ete radiée en 2025 selon les informations publiques consultees; le dossier reste historiquement francais mais faible pour l'economie locale actuelle.
+methodologieVersion: gocharbon-v1
 title: Oscar manager
 author: Diane
 tags:

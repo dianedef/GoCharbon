@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Featt
 author: Diane
 tags:
   - 'Outils Français'
   - 'Social Media'
   - 'Marketing'
+  - Outils
 description: "Featt est la plateforme française de marketing d'influence responsable. Mise en relation marques-créateurs, campagnes UGC, influence éthique. Bordeaux/Cannes."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

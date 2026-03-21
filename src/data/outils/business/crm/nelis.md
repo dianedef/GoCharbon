@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.nelis.fr/mentions-legales
+- https://www.nelis.fr/politique-de-confidentialite-rgpd
+- https://www.nelis.fr/
+notesQualification: Nelis documente une entite francaise et un hebergement exclusif en France via Hosteur. L'ancrage economique reste note partiel faute d'information fiscale ou capitalistique plus detaillee.
+methodologieVersion: gocharbon-v1
 title: Nelis
 author: Diane
 tags:
@@ -11,6 +23,7 @@ description: Nelis est un CRM français de business development. Gestion de cont
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.nelis.fr
+u_derniere_maj: '2026-03-20'
 ---
 
 # Nelis

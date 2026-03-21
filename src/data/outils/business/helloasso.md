@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-16'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://www.helloasso.com/cgu-utilisateur
+- https://www.helloasso.com/confidentialite
+notesQualification: SAS francaise basee a Bordeaux avec etablissement de paiement regule en France; donnees hebergees sur Azure aux Pays-Bas et en Irlande.
+methodologieVersion: gocharbon-v1
 title: helloasso
 author: Diane
 tags:

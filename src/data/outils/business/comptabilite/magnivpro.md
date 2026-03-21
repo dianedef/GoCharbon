@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: indetermine
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://magnivpro.com/
+- https://help.magnivpro.com/
+- https://www.leblogdudirigeant.com/test-du-logiciel-magniv-pro-facturation/
+notesQualification: Magniv Pro est un micro-SaaS francais opéré depuis Paris par Hasselback SAS; l'ancrage local ressort clairement, mais la documentation publique reste trop legere pour qualifier finement l'hebergement ou la responsabilite.
+methodologieVersion: gocharbon-v1
 title: Magniv Pro
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Magniv Pro est le logiciel de facturation ultra-simple pour freelances et micro-entreprises. Plan gratuit. Dès 6€/mois. Paiement Stripe intégré."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

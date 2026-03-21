@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
+type: outil
+qualificationLocale: hors-union-europeenne
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: "États-Unis"
+hebergementDonnees: multi-region
+societeMere: "You Scale LLC"
+sourcesVerification:
+  - "https://www.iclosed.io/privacy-policy"
+  - "https://www.iclosed.io/terms"
+notesQualification: "La politique de confidentialite identifie You Scale LLC comme entite operatrice d'iClosed. Le coeur de plateforme est annonce principalement dans l'UE, mais des transferts internationaux et des fournisseurs globaux sont explicitement prevus."
 title: iClosed
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "iClosed est la plateforme de scheduling et closing pour la vente high-ticket. Pré-qualification IA, routing conditionnel. 10K+ clients. Dès 36$/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.iclosed.io/
 u_origine: "FR"
 u_langue_fr: true
+methodologieVersion: "gocharbon-v1"
 u_derniere_maj: "2026-03-15"
 ---
 

@@ -1,7 +1,7 @@
 ---
-section: apps
-metadataEnrichedAt: null
-type: app
+section: outils
+metadataEnrichedAt: '2026-03-21'
+type: outil
 tags:
 - Outils
 imageNameKey: legalstart
@@ -13,6 +13,18 @@ description: 'Découvre Legalstart : outil français pour entrepreneurs, fonctio
   et avis.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
+u_derniere_maj: '2026-03-21'
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+  - https://www.legalstart.fr/documents/mentions-legales/
+  - https://www.legalstart.fr/modele-politique-confidentialite/
+  - https://www.legalstart.fr/contacter-expert-legalstart/
+notesQualification: 'Legalstart est developpe par Yolaw SAS, societe francaise basee a Paris. Les mentions legales indiquent explicitement que les clusters Amazon utilises pour le site sont localises dans l''Union europeenne, avec un DPO identifie et des informations de contact completes. Le faisceau de preuves permet une qualification forte.'
+methodologieVersion: gocharbon-v1
 ---
 
 Accompagner l'entrepreneur au quotidien sur ses besoins juridiques, comptables et administratifs, tel est l’objectif que s’est fixé Legalstart. Plateforme juridique à destination des créateurs et chefs d’entreprise, [Legalstart](https://www.legalstart.fr/) est un véritable pionnier en la matière. Après avoir fait ses premiers pas en 2013, l’entreprise s’est rapidement imposée sur le marché français en tant que référence. Avec plus de 200 000 entrepreneurs accompagnés, 15 000 abonnements actifs et une croissance annuelle à deux chiffres, Legalstart est sans l’ombre d’un doute leader du marché.

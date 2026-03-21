@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://altoviz.com/fr/mentions-legales/
+- https://altoviz.com/fr/contact/
+notesQualification: Altoviz SAS est basee a Paris avec un hebergement officiel documente chez Microsoft Ireland; l'ancrage economique est francais mais la documentation vie privee reste plus sommaire que chez les acteurs les plus transparents.
+methodologieVersion: gocharbon-v1
 title: Altoviz
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Altoviz est le logiciel de facturation et gestion commerciale pour TPE/PME fondé par des ex-EBP/Microsoft. 4.7/5 Trustpilot. Plan gratuit généreux. API ouverte."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

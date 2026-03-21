@@ -1,4 +1,5 @@
 ---
+section: outils
 title: Channel Pilot Pro
 author: Diane
 tags:
@@ -6,7 +7,7 @@ tags:
   - 'E-commerce'
 description: "Channel Pilot Pro est la plateforme allemande de gestion de flux e-commerce multi-canal. Marketplaces, comparateurs, Google Shopping. Acquis par Bregal (2023). Depuis 2012."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.channelpilot.com/
 u_origine: "DE"
 u_langue_fr: true

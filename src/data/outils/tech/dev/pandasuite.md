@@ -1,10 +1,12 @@
 ---
+section: outils
 title: PandaSuite
 author: Diane
 tags:
   - 'Outils Français'
   - 'Dev'
   - 'Tech'
+  - Outils
 description: "PandaSuite est le studio français de création d'apps mobiles no-code. Apps iOS/Android interactives sans code. Pour entreprises, musées, formations."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

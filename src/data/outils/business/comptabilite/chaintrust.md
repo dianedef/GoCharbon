@@ -1,10 +1,26 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+societeMere: Visma
+sourcesVerification:
+- https://www.chaintrust.io/a-propos/
+- https://www.chaintrust.io/tarif/
+- https://www.chaintrust.io/blog/actualites/chaintrust-rejoint-le-groupe-visma/
+notesQualification: Chaintrust est nee en France et reste fortement ancree sur le marche comptable francais, mais l'outil appartient desormais a Visma; Chaintrust indique publiquement une certification ISO 27001 et des serveurs heberges en France.
+methodologieVersion: gocharbon-v1
 title: Chaintrust
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Chaintrust by Visma automatise la saisie comptable par IA pour 600+ cabinets d'expertise comptable. 150 000 factures/jour, 98% de fiabilité. Dès 5€/dossier/mois."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

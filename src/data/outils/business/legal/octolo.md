@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: Octolo
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Legal'
   - 'Business'
+  - Outils
 description: "Octolo digitalise le secrétariat juridique et la gouvernance d'entreprise. AG en ligne, registres, dataroom. Prix Vivatech 2025. Dès 2€/mois/utilisateur."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,17 @@ u_site: https://octolo.tech/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+  - https://octolo.tech/static/files/MENTIONS_LEGALES_JANV_2024.pdf
+  - https://octolo.tech/static/files/CGU.pdf
+  - https://octolo.tech/static/files/PRESTATAIRES.pdf
+notesQualification: "Octolo est exploite par OCTOLO SAS, societe francaise basee a Courbevoie. Les mentions legales et la liste des prestataires documentent un hebergement principal chez Scaleway en France, avec des donnees stockees sur des datacenters francais. Je conserve cependant un niveau de responsabilite partiel car la politique de confidentialite mentionne aussi des transferts internationaux et des prestataires externes."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Octolo

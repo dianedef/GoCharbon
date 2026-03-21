@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Emailee
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "Emailee est l'outil français de gestion de signatures email professionnelles. Signatures de marque, bannières marketing, analytics. Par Samuel Duc. Depuis 2023."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://emailee.io/
 u_origine: "FR"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://www.emailee.io/legal/privacy-policy
+  - https://www.emailee.io/legal/terms-of-use
+  - https://www.emailee.io/
+notesQualification: "La politique de confidentialité identifie Emailee comme un service opéré par VERITY STUDIO SAS, société française. L'ancrage économique est fort, mais la documentation publique ne permet pas d'établir précisément la localisation d'hébergement ni le niveau de contrôle sur l'ensemble des sous-traitants."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Emailee

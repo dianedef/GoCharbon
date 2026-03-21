@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Redaction.io
 author: Diane
 tags:
   - 'Outils Français'
   - 'SEO'
   - 'Marketing'
+  - Outils
 description: "Redaction.io est l'outil français de génération d'articles SEO par IA, développé par SEOQuantum (Anthony Techer). Article optimisé en 90 secondes. Depuis 2023."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

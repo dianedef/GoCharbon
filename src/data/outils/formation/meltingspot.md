@@ -1,12 +1,14 @@
 ---
+section: outils
 title: MeltingSpot
 author: Diane
 tags:
   - 'Outils Français'
   - 'Formation'
+  - Outils
 description: "MeltingSpot est la plateforme française de community-led growth et d'éducation client. Communauté + formation intégrées pour les SaaS et éditeurs."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.meltingspot.io/
 u_origine: "FR"
 u_langue_fr: true

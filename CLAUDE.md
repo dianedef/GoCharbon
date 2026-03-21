@@ -6,6 +6,32 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 GoCharbon (gocharbon.com) is a French-language educational blog platform for entrepreneurs, built with Astro 5. It uses the "Brutal" neobrutalist theme as a base. The site is fully static (SSG) with ~290 Markdown blog posts organized in a hierarchical tag system.
 
+## Founder Memory
+
+When generating or rewriting editorial content for GoCharbon, keep this founder context persistent:
+
+- The founder is **Diane**
+- Diane is **French**, **36 years old**, and **female**
+- Diane is a **builder** who likes making useful products, systems, and content
+- Her motivation is **impact**, not empty personal branding or startup theater
+- Core belief: if people use their energy to build the best things they can, the world becomes more useful and a bit better
+- GoCharbon should feel like a **real founder-led project**, not a faceless content machine
+- The project helps **people and businesses** move from vague ideas to concrete execution
+
+### Writing implications
+
+- Default to a **human, witty, lightly funny, grounded** voice
+- Avoid generic AI phrasing, inflated mission statements, and copywriter clichés
+- Let Diane feel like a **real French female founder**, but do not turn that into a gimmick
+- Prefer practical intelligence, lived conviction, and honest usefulness over polished abstraction
+- If writing "about", "bio", "founder", "team", "manifesto", or similar pages, present GoCharbon as **primarily carried by Diane**
+- Do not invent a corporate team if one is not explicitly provided
+
+### Founder reference file
+
+For founder/about/team positioning, use [`src/data/_founder.md`](/home/claude/GoCharbon/src/data/_founder.md) as the canonical content reference.
+For entrepreneurial vision content aimed at readers, keep using [`src/data/_vision.md`](/home/claude/GoCharbon/src/data/_vision.md).
+
 ## Commands
 
 ```bash
@@ -46,13 +72,46 @@ Content collection is defined in `src/content.config.ts` using Zod validation wi
 - `src/pages/api/filter-posts.json.ts` — Tag filtering API endpoint with pagination
 
 ### Tag System
-Tags use a 3-level hierarchy defined in `src/components/tagHierarchy.ts`. Root categories: business, marketing, tech, contenu, seo, productivite, tutoriels, apps.
+Tags use a 3-level hierarchy defined in `src/components/tagHierarchy.ts`. Root categories: business, marketing, tech, contenu, seo, productivite, tutoriels, outils.
 
 Key filtering logic in `src/utils/static-responses.ts`:
 - Parent tags are **ignored** when their subtags are selected (avoids redundancy)
 - All selected tags must match (AND logic)
 - Tag comparison is accent-insensitive and case-insensitive (NFD normalization)
 - Common tag combinations are pre-generated at build time for caching
+
+### Tool Qualification Method
+
+GoCharbon now distinguishes:
+
+- editorial taxonomy (`section: outils`)
+- local qualification (`qualificationLocale`)
+- economic anchoring (`ancrageEconomique`)
+- responsibility (`niveauResponsabilite`)
+- a public-facing `Engagement français` badge computed from these fields
+
+When working on tool qualification or patriotic/local-economy positioning:
+
+1. Read `AGENTS.md`
+2. Use the skill at `skills/outils-qualification-locale/SKILL.md`
+3. Follow the public doctrine in `src/pages/methodologie.astro`
+4. Use `scripts/audit_outils_qualification.py` for coverage checks
+5. Use `scripts/prioritize_outils_qualification.py` to build the stable backlog
+6. Use `skills/outils-qualification-locale/scripts/build_qualification_batch.py` for lane-specific batches
+7. Run `scripts/qa_outils_qualification.py` before considering a batch complete
+8. Remember that frontmatter decisions affect the public badge shown on tool cards and tool pages
+9. Default to one canonical tool page per product; only keep multiple pages when the editorial angle and search intent are truly distinct
+
+Never infer “French” from branding alone. Prefer `indetermine` or `partiel` when evidence is incomplete or mixed.
+When two tool pages are nearly identical, prefer one canonical URL surfaced through multiple tags/listings rather than two self-canonical pages.
+When duplicate tool pages have very high content similarity, merge them by default; keep two only if the editorial angle and search intent genuinely diverge.
+
+Suggested multi-agent split:
+
+- `admin-finance`: `business/admin`, `business/comptabilite`, `business/facturation`
+- `assurance-crm`: `business/assurance`, `business/crm`
+- `communication-productivite`: `communication`, `productivite`
+- `general`: everything else
 
 ### Path Aliases (tsconfig.json)
 ```

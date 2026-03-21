@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Simplebo
 author: Diane
 tags:
   - 'Outils Français'
   - 'Dev'
   - 'Tech'
+  - Outils
 description: "Simplebo est le créateur de sites web français pour professionnels. Sites vitrines clé en main, SEO, maintenance incluse. Pour indépendants et TPE."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

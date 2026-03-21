@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: BubbleYou
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "BubbleYou est la plateforme française de création de communautés en ligne brandées. Espace communautaire personnalisé pour marques et organisations."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://bubbleyou.com/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://www.pappers.fr/entreprise/accretio-digital-solutions-831830948
+  - https://apps.apple.com/pl/app/bubbleyou/id1559384388
+  - https://bubbleyou.com/
+notesQualification: "BubbleYou est rattache a Accretio Digital Solutions, societe francaise basee a Issy-les-Moulineaux. La fiche App Store officielle confirme le lien avec cet operateur et indique une collecte declaree comme nulle pour l'application mobile, ce qui donne un minimum de lisibilite sur la couche produit. En revanche, je n'ai pas trouve de documentation publique suffisamment nette sur l'hebergement, les sous-traitants ou la gouvernance technique ; la qualification reste donc prudente."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # BubbleYou

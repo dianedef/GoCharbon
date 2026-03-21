@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Medialog
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Medialog est le PMS + caisse restaurant français pour l'hôtellerie. 1500 établissements, 18K utilisateurs. Leader hôtellerie parisienne. Depuis 1988."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

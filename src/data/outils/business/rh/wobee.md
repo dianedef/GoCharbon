@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Wobee
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "Wobee est la plateforme française d'onboarding, crossboarding et offboarding. Parcours RH automatisés. Feedbacks. Paris. Depuis 2019."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

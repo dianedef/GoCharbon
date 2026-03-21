@@ -1,7 +1,7 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
-type: blog
+type: outil
 statut: []
 _priorité: normal
 imageNameKey: guide-prospection-froid

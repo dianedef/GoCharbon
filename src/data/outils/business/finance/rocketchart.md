@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
+type: outil
 title: RocketChart
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "RocketChart est le logiciel de gestion de trésorerie pour TPE/PME racheté par Sellsy. Suivi en temps réel, prévisions, multi-scénarios. Dès 41€/mois."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,18 @@ u_site: https://rocketchart.co/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-14"
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+societeMere: TeamSystem
+sourcesVerification:
+  - https://rocketchart.co/
+  - https://rocketchart.co/logiciel-plan-de-tresorerie/
+  - https://go.sellsy.com/blog/sellsy-teamsystem-rapprochement-strategique
+notesQualification: "RocketChart reste un produit opere sous marque française, avec un site officiel qui revendique une creation en France et un hébergement répliqué dans plusieurs data centers européens. Le rachat initial par Sellsy puis le rapprochement de Sellsy avec TeamSystem déplace toutefois l'ancrage économique hors du seul écosystème français. Je conserve donc une qualification française, mais seulement partielle sur l'ancrage et la responsabilité."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # RocketChart

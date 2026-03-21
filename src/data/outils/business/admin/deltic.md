@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-16'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://deltic.fr/mentions-legales/
+- https://deltic.fr/
+notesQualification: SAS francaise basee a Lagord avec hebergement OVH et mention explicite d'absence de transfert hors UE sans information prealable.
+methodologieVersion: gocharbon-v1
 title: Deltic
 author: Diane
 tags:

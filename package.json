@@ -18,7 +18,14 @@
     "preview": "astro preview",
     "astro": "astro",
     "audit:parcours": "node scripts/audit_parcours_content.mjs",
-    "audit:outils": "python3 scripts/audit_outils_content.py"
+    "audit:outils": "python3 scripts/audit_outils_content.py",
+    "audit:outils:qualification": "python3 scripts/audit_outils_qualification.py",
+    "audit:outils:doublons": "python3 scripts/audit_outils_duplicate_mirrors.py",
+    "prune:outils:doublons": "python3 scripts/prune_outils_same_parent_duplicates.py",
+    "prune:outils:doublons:similaires": "python3 scripts/prune_outils_high_similarity_duplicates.py",
+    "qa:outils:qualification": "python3 scripts/qa_outils_qualification.py",
+    "sync:outils:qualification": "python3 scripts/sync_outils_qualification_duplicates.py",
+    "backlog:outils:qualification": "python3 scripts/prioritize_outils_qualification.py --limit 300 --format markdown"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.15",

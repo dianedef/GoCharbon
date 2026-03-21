@@ -1,12 +1,14 @@
 ---
+section: outils
 title: Digistorm
 author: Diane
 tags:
   - 'Outils Français'
   - 'Formation'
+  - Outils
 description: "Digistorm est l'outil français de création de contenus interactifs pour la formation. Quiz, escape games, parcours gamifiés. Sans code. Pour formateurs."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://digistorm.io/
 u_origine: "FR"
 u_langue_fr: true

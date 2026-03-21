@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Duyo
 author: Diane
 tags:
   - 'Outils Français'
   - 'Social Media'
   - 'Marketing'
+  - Outils
 description: "Duyo est la plateforme française de co-création de contenu et UGC pour les marques. Communauté de créateurs, campagnes UGC, droits d'usage. Depuis 2021."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.frenchcrm.com
+- https://home.frenchcrm.com
+- https://www.frenchcrm.com/tarifs
+notesQualification: FrenchCRM se presente comme un CRM francais edite par OneMinLabs en region lyonnaise, avec un cloud prive et des serveurs annonces en France; faute de documentation juridique plus detaillee facilement accessible, le niveau de responsabilite reste prudent.
+methodologieVersion: gocharbon-v1
 title: FrenchCRM
 author: Diane
 tags:

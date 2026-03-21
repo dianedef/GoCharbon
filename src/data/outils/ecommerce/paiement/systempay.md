@@ -1,10 +1,12 @@
 ---
+section: outils
 title: SystemPay
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "SystemPay est la solution de paiement en ligne de BPCE (Banque Populaire, Caisse d'Épargne). Millions de transactions/an. PCI-DSS. Monétique bancaire."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,6 +1,16 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: indetermine
+ancrageEconomique: indetermine
+niveauResponsabilite: indetermine
+paysSiege: Inconnu
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.darwinrx.fr/
+notesQualification: DarwinRX dispose d'un site produit exploitable mais les sources publiques consultees ne permettent pas d'etablir proprement l'entite legale, le siege ou l'hebergement. La qualification reste donc volontairement indeterminee.
+methodologieVersion: gocharbon-v1
 title: DarwinRX
 author: Diane
 tags:

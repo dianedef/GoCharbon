@@ -1,7 +1,8 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: SwiftRead
+type: outil
 author: Diane
 tags:
 - Outils
@@ -10,6 +11,18 @@ description: SwiftRead est l'extension Chrome de lecture rapide RSVP. Lis 2 à 5
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://swiftread.com
+u_derniere_maj: '2026-03-20'
+qualificationLocale: hors-union-europeenne
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: Etats-Unis
+hebergementDonnees: multi-region
+sourcesVerification:
+  - https://apps.apple.com/hu/app/swiftread-speed-reading/id6470811151
+  - https://chromewebstore.google.com/detail/swiftread-read-faster-lea/ipikiaejjblmdopojhpejjmbedhlibno
+  - https://swiftread.com/
+notesQualification: 'SwiftRead est rattache a S10G Technologies LLC, societe americaine indiquee comme provider officiel sur l''App Store. Les fiches officielles marketplace montrent une collecte de donnees d''usage, d''identifiants et de contenu web, sans documentation publique suffisamment precise sur le perimetre d''hebergement. La qualification reste donc hors UE, avec ancrage faible et responsabilite partielle.'
+methodologieVersion: gocharbon-v1
 ---
 
 # SwiftRead

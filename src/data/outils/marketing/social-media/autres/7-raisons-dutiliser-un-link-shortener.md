@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: 7 Raisons D'Utiliser Un Link Shortener
 author: Diane

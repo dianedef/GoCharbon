@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Voxpay
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Voxpay est la solution française de paiement à distance sécurisé. Paiement vocal, lien, QR code, recouvrement. PCI-DSS 4.0.1. Dès 1% + 0,20€."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

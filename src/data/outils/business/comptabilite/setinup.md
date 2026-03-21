@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.setinup.com/mentions-legales/
+- https://www.setinup.com/
+notesQualification: SetInUp est edite par Info3w, SARL francaise basee a Schirmeck, avec un hebergement OVH a Roubaix; les pages consultees ne detaillent pas davantage les garanties de responsabilite.
+methodologieVersion: gocharbon-v1
 title: SetInUp
 author: Diane
 tags:

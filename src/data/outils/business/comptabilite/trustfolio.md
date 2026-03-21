@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://trustfolio.co/legal/mentions-legales
+- https://trustfolio.co
+notesQualification: Trustfolio est edite par une SAS francaise a Lyon et annonce un hebergement Azure en Europe de l'Ouest aux Pays-Bas; l'ancrage est francais mais l'infrastructure reste dependante d'un hyperscaler.
+methodologieVersion: gocharbon-v1
 title: Trustfolio
 author: Diane
 tags:

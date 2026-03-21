@@ -1,10 +1,26 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+societeMere: Groupe ISAGRI
+sourcesVerification:
+- https://www.factomos.com/es
+- https://www.factomos.com/conditions-generales-utilisation-v2
+- https://www.factomos.com/contact
+notesQualification: Factomos est une solution francaise exploitee depuis Paris et rattachee au groupe ISAGRI; le site public met en avant une conformite forte et des sauvegardes quotidiennes, mais l'hebergement principal n'est pas documente assez precisement.
+methodologieVersion: gocharbon-v1
 title: Factomos
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Factomos est le logiciel de facturation pour indépendants et TPE racheté par ISAGRI. 13 000+ entrepreneurs, 4.7/5 Trustpilot. Dès 9€/mois. E-invoicing ready."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

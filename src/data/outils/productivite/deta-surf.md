@@ -1,7 +1,8 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: Deta Surf
+type: outil
 author: Diane
 tags:
 - Outils
@@ -10,6 +11,17 @@ description: Deta Surf est le navigateur IA qui transforme ta navigation en base
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://deta.surf
+u_derniere_maj: '2026-03-20'
+qualificationLocale: union-europeenne
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: Allemagne
+hebergementDonnees: multi-region
+sourcesVerification:
+  - https://deta.surf/privacy
+  - https://deta.surf/terms
+notesQualification: 'Deta Surf est opte par Deta GmbH a Berlin. La politique de confidentialite documente une societe allemande mais aussi des traitements et transferts possibles dans l''EEE, aux Etats-Unis et chez plusieurs fournisseurs cloud ou IA, dont AWS, Cloudflare, OpenAI et Google. La qualification reste donc europeenne avec ancrage et responsabilite partiels.'
+methodologieVersion: gocharbon-v1
 ---
 
 # Deta Surf

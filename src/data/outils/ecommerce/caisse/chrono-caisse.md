@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Chrono-Caisse
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Chrono-Caisse est l'app de caisse cloud française pour petits commerçants. Tablette, smartphone, PC. Prix unique 49€/mois illimité. Aveyron."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: LegalPlace
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Legal'
   - 'Business'
+  - Outils
 description: "LegalPlace est la legaltech française n°1 pour créer et gérer ton entreprise. 300K+ utilisateurs, 12% des créations en France. 20M€ levés. Dès 69€."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,17 @@ u_site: https://www.legalplace.fr/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: hors-union-europeenne
+sourcesVerification:
+  - https://www.legalplace.fr/mentions-legales/
+  - https://www.legalplace.fr/contact/
+  - https://www.lemondedudroit.fr/professions/337-legaltech/84114-legalplace-leve-20-millions-euros.html
+notesQualification: "LegalPlace est exploite par LegalPlace SAS, societe francaise. Son actionnariat reste ancre en France avec Bpifrance et Partech visibles dans la documentation publique, ce qui justifie un ancrage economique fort. En revanche, les mentions legales indiquent un hebergement du site chez AWS LLC aux Etats-Unis ; je garde donc un niveau de responsabilite partiel."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # LegalPlace

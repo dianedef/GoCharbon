@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: multi-region
+sourcesVerification:
+- https://saalz.com/contactez/
+- https://saalz.com/politique-de-confidentialite/
+- https://saalz.com/liste-sous-traitants/
+notesQualification: Saalz est rattache a SITENCO, structure francaise basee dans l'Ain. Le dispositif de conformite est documente, mais la liste de sous-traitants montre aussi plusieurs prestataires hors UE, ce qui justifie une responsabilite et un ancrage economique notes partiels.
+methodologieVersion: gocharbon-v1
 title: Saalz
 author: Diane
 tags:
@@ -11,6 +23,7 @@ description: Saalz est un CRM français de prospection B2B avec enrichissement c
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://saalz.com
+u_derniere_maj: '2026-03-20'
 ---
 
 # Saalz

@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: Ikone LegalPlus
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Legal'
   - 'Business'
+  - Outils
 description: "Ikone LegalPlus est la plateforme française de dématérialisation des annonces légales pour la presse. 200K+ annonces/an. Depuis 2005. Paris."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,17 @@ u_site: https://www.ikone.fr/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://www.ikone.fr/
+  - https://www.ikone.fr/le-produit-legalplus/
+  - https://www.pappers.fr/entreprise/ids-ikone-developpement-et-strategie-484948948
+notesQualification: "Ikone LegalPlus est opere par IDS Ikone Developpement et Strategie, societe francaise installee a Paris. La structure et l'activite sont claires, avec une longue presence sur le marche des annonces legales et aucun signal public de controle etranger. En revanche, la documentation publique exploitable ne detaille pas assez l'hebergement, les sous-traitants et la gouvernance technique pour aller au-dela de partiel en responsabilite."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Ikone LegalPlus

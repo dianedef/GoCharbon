@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
 title: AssoConnect
 author: Diane
 tags:
@@ -10,6 +10,20 @@ description: AssoConnect est le logiciel français tout-en-un pour associations.
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.assoconnect.com
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+societeMere: team.blue
+sourcesVerification:
+- https://www.assoconnect.com/mentions-legales/
+- https://www.assoconnect.com/infos/politique-confidentialite/
+notesQualification: AssoConnect est une SAS parisienne, mais la politique de confidentialite
+  precise l'appartenance au groupe team.blue et ne documente pas assez finement la
+  localisation effective des donnees sur Azure.
+methodologieVersion: gocharbon-v1
 ---
 
 # AssoConnect

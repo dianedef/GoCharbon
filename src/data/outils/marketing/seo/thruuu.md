@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Thruuu
 author: Diane
 tags:
   - 'Outils Français'
   - 'SEO'
   - 'Marketing'
+  - Outils
 description: "Thruuu est l'outil français d'analyse SERP et de content brief SEO par Samuel Schmitt. Scrape Google, analyse top pages, génère briefs. Depuis 2019."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

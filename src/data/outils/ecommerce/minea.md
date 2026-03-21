@@ -1,4 +1,5 @@
 ---
+section: outils
 title: Minea
 author: Diane
 tags:
@@ -6,7 +7,7 @@ tags:
   - 'E-commerce'
 description: "Minea est l'outil suisse d'espionnage publicitaire pour le e-commerce. Analyse des ads Facebook, TikTok, Pinterest. 200K+ utilisateurs. Co-fondé par Loïc Berthelot."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://minea.com/
 u_origine: "CH"
 u_langue_fr: true

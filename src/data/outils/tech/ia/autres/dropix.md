@@ -1,8 +1,8 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 statut: []
-type: Logiciel
+type: outil
 _priorité: normal
 tags:
 - Outils

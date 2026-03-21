@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 url_lienExterne: https://webinde.fr/divhunt-guide-de-demarrage/
 title: Divhunt Guide De Démarrage

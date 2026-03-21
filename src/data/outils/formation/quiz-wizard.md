@@ -1,12 +1,14 @@
 ---
+section: outils
 title: Quiz Wizard
 author: Diane
 tags:
   - 'Outils Français'
   - 'Formation'
+  - Outils
 description: "Quiz Wizard est l'outil français de génération automatique de quiz par IA. Crée des questionnaires à partir de documents ou de sujets. Pour formateurs et enseignants."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.quizwizard.io/
 u_origine: "FR"
 u_langue_fr: true

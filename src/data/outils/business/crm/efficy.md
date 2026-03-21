@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: union-europeenne
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: Belgique
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://www.efficy.com/fr/contactez-nous/
+- https://www.efficy.com/
+- https://www.efficy.com/fr/actualites/efficy-france-est-certifie-qualiopi/
+notesQualification: Efficy est un editeur belge avec une forte implantation francaise; son positionnement et ses operations sont europeens, mais pas francais au sens strict.
+methodologieVersion: gocharbon-v1
 title: Efficy
 author: Diane
 tags:

@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://trustpair.com/fr/mentions-legales/
+- https://trustpair.com/
+notesQualification: Trustpair est une SAS francaise basee a Paris; les mentions legales de son site pointent vers un hebergement Kinsta aux Etats-Unis pour le site web, sans etablir clairement la residence des donnees produit.
+methodologieVersion: gocharbon-v1
 title: Trustpair
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Trustpair est la plateforme française de prévention de la fraude au virement B2B. Vérification de tiers, 200+ clients, 20M€ levés. Breega, Tikehau."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

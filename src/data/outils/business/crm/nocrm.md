@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://www.nocrm.io/tos
+- https://www.nocrm.io/privacy_policy
+- https://www.nocrm.io/pricing
+notesQualification: noCRM.io est exploite par une SAS francaise basee a Hem. La documentation publique annonce un developpement et un hebergement dans l'Union europeenne avec audits de securite, mais l'ancrage economique reste partiel faute d'information plus detaillee sur la structure de groupe et la fiscalite.
+methodologieVersion: gocharbon-v1
 title: noCRM.io
 author: Diane
 tags:
@@ -10,6 +22,7 @@ description: noCRM.io est un logiciel de prospection français conçu pour les c
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.nocrm.io/fr
+u_derniere_maj: '2026-03-20'
 ---
 
 # noCRM.io

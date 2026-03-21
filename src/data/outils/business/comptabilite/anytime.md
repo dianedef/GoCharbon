@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+societeMere: Credit Cooperatif
+sourcesVerification:
+- https://www.anyti.me/
+- https://support.anyti.me/hc/fr/articles/115004315385-Mentions-l%C3%A9gales
+notesQualification: Anytime est exploitee par une SAS francaise, desormais filiale du Credit Cooperatif, et ses mentions legales publiques documentent un hebergement en France; la qualification reste partielle car la documentation disponible melange anciennes et nouvelles structures.
+methodologieVersion: gocharbon-v1
 title: Anytime
 author: Diane
 tags:

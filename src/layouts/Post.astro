@@ -10,6 +10,7 @@ import { Image } from "astro:assets";
 import type { ImageMetadata } from "astro";
 import { learningPaths } from "../data/parcoursData";
 import { getParcoursSlug } from "../data/parcoursSlugs";
+import type { ToolQualification } from "../utils/tool-qualification";
 
 interface Props {
 	author: string;
@@ -20,9 +21,11 @@ interface Props {
 	id: string;
 	imgUrl: ImageMetadata;
 	tags?: string[];
+	section?: "blog" | "outils" | "tutos" | "parcours";
+	toolQualification?: ToolQualification;
 }
 
-const { author, pubDate, headings, description, title, id, imgUrl, tags } =
+const { author, pubDate, headings, description, title, id, imgUrl, tags, section, toolQualification } =
 	Astro.props;
 const slug = Astro.params.slug as string;
 const category = tags?.[0]?.toLowerCase();
@@ -57,7 +60,7 @@ const matchingPaths = learningPaths.filter(path =>
 						transition:name={`image-${id}`}
 					/>
 				</div>
-				<Content {pubDate} {author}>
+				<Content {pubDate} {author} {section} {toolQualification}>
 					<slot />
 				</Content>
 			</div>

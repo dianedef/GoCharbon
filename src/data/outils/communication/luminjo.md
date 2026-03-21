@@ -1,7 +1,8 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: luminjo
+type: outil
 author: Diane
 tags:
 - Outils
@@ -11,6 +12,18 @@ description: Luminjo offre un avantage clé aux entreprises en simplifiant leur 
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://fr.luminjo.com
+u_derniere_maj: '2026-03-20'
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: faible
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://fr.luminjo.com/pages/a-propos.html
+  - https://fr.luminjo.com/pages/aide/tutoriels/comment-etre-contacte-via-luminjo.html
+  - https://www.societe.com/societe/agence-awelty-794138081.html
+notesQualification: 'Luminjo est edite par la SARL Agence Awelty a Amiens, ce qui documente un operateur francais clair. En revanche, les pages publiques disponibles ne donnent pas de documentation assez precise sur l''hebergement, les sous-traitants ou la gouvernance technique. Je retiens donc un ancrage economique fort mais un niveau de responsabilite faible.'
+methodologieVersion: gocharbon-v1
 ---
 
 # luminjo

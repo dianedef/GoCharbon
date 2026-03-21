@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: indetermine
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.billabex.com/fr/mentions-legales
+- https://www.billabex.com/fr/
+notesQualification: Billabex est une SAS francaise basee a Paris; le site public est heberge chez Webflow aux Etats-Unis mais la documentation publique ne detaille pas assez clairement l'hebergement principal de la plateforme pour qualifier plus finement.
+methodologieVersion: gocharbon-v1
 title: Billabex
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Billabex est l'agent IA qui relance tes factures impayées par email, SMS, téléphone et courrier. 4.9/5 sur Google. Station F FUTURE40. Dès 170€/mois."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

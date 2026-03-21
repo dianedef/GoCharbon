@@ -1,16 +1,32 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+  - "https://calldesk.ai/contact"
+  - "https://calldesk.ai/security"
+  - "https://calldesk.ai/blog/caller-data-security"
+  - "https://calldesk.ai/insurance"
+notesQualification: "Calldesk est exploite par une SAS francaise basee a Paris. La documentation securite est substantielle et l'architecture est annoncee sur AWS Europe, mais l'ancrage economique reste note partiel par prudence."
 title: Calldesk
 author: Diane
 tags:
   - 'Outils Français'
   - 'Chatbot'
   - 'Communication'
+  - Outils
 description: "Calldesk est la plateforme française de voicebots IA pour les centres d'appels. Agents vocaux automatisés, NLP. Clients : Engie, La Poste. Depuis 2017."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.calldesk.ai/
 u_origine: "FR"
 u_langue_fr: true
+methodologieVersion: "gocharbon-v1"
 u_derniere_maj: "2026-03-15"
 ---
 

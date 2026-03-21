@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Districall
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "Districall est la solution française de standard téléphonique mobile. Numéro fixe pro sur smartphone, transfert d'appels, multi-utilisateurs. Depuis 2021."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.districall.com/
 u_origine: "FR"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://www.districall.com/mentions-legales
+  - https://www.districall.com/conditions-generales-utilisation
+  - https://www.districall.com/
+notesQualification: "Districall est opéré par une SARL française à Neuilly-sur-Seine, avec un ancrage économique local cohérent et un opérateur télécom également domicilié en France. La documentation publique reste toutefois trop limitée sur l'hébergement et l'architecture de traitement pour qualifier la responsabilité au-delà de partiel."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Districall

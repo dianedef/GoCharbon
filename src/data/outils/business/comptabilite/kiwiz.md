@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.kiwiz.io/mentions-legales
+- https://www.kiwiz.io/politique-de-confidentialit%C3%A9
+- https://www.kiwiz.io/
+notesQualification: Kiwiz est exploite par ARSHOP SAS a Saint-Martin-de-Crau; l'ancrage local est clair et la documentation privacy est publique, mais l'hebergement n'est pas precise de facon suffisamment exploitable.
+methodologieVersion: gocharbon-v1
 title: Kiwiz
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Kiwiz est la solution française de ticket de caisse dématérialisé. Ticket digital par email/SMS, conformité loi anti-gaspillage. Pour retailers et commerces."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

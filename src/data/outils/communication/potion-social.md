@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Potion Social
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "Potion Social est la plateforme française de gestion de communauté en ligne. Engagement, événements, espaces de discussion. Pour marques et organisations."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://potion.social/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: faible
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://potion.social/
+  - https://www.pappers.fr/entreprise/potion-social-528509060
+  - https://presse-cie.com/presse/avec-leroy-merlin-potion-social-connecte-les-clients-directement-aux-conseillers-de-leur-magasin/
+notesQualification: "Potion Social est rattache a une structure operatrice francaise a Lille, historiquement Caast, avec une activite d'edition logicielle et de plateformes communautaires documentee. L'ancrage economique peut etre qualifie de fort en l'absence d'indice public d'une gouvernance etrangere, mais la responsabilite reste faible car je n'ai pas trouve de couche publique suffisamment nette sur l'hebergement, les sous-traitants et la politique de traitement."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Potion Social

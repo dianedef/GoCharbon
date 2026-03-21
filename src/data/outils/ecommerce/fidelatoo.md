@@ -1,12 +1,14 @@
 ---
+section: outils
 title: Fidelatoo
 author: Diane
 tags:
   - 'Outils Français'
   - 'E-commerce'
+  - Outils
 description: "Fidelatoo est la solution française de fidélisation client digitale. Carte de fidélité dématérialisée. Par Elodie Delneuf (La Réunion). SIREN 942 677 535. Depuis 2025."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.fidelatoo.fr/
 u_origine: "FR"
 u_langue_fr: true

@@ -1,13 +1,15 @@
 ---
+section: outils
 title: Submagic
 author: Diane
 tags:
   - 'Outils Français'
   - 'Vidéo'
   - 'Création'
+  - Outils
 description: "Submagic est l'outil français de sous-titrage automatique IA pour les vidéos courtes. Par David Zitoun + Tsi-fei Chan. Bootstrappé. $8M ARR. 4M+ utilisateurs. Depuis 2023."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.submagic.co/
 u_origine: "FR"
 u_langue_fr: true

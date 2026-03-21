@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: indetermine
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://fretly.fr/
+- https://fretly.fr/cgu/
+- https://fretly.fr/nos-livres-blancs/
+notesQualification: Fretly opere depuis Lyon et reste clairement ancree en France, mais les sources publiques consultees ne documentent pas l'hebergement ni un cadre de responsabilite assez detaille pour aller plus loin.
+methodologieVersion: gocharbon-v1
 title: Fretly
 author: Diane
 tags:

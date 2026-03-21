@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Mammouth AI
 author: Diane
 tags:
   - 'Outils Français'
   - 'IA'
   - 'Tech'
+  - Outils
 description: "Mammouth AI est l'agrégateur français de modèles IA. Accède à Claude, GPT, Gemini, Mistral via un seul abonnement. Par Luc Bouvattier. SIREN 932 983 968. Depuis 2024."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

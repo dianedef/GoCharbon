@@ -1,9 +1,10 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
-type: app
+type: outil
 tags:
 - Marketing
+- Outils
 imageNameKey: findmassleads
 u_site: https://www.findmassleads.com/fr/
 title: Findmassleads

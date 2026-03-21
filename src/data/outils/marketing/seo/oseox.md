@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Oseox
 author: Diane
 tags:
   - 'Outils Français'
   - 'SEO'
   - 'Marketing'
+  - Outils
 description: "Oseox est la suite SEO française avec monitoring, audit technique, suivi de positions et analyse de backlinks. Outil gratuit + premium. Depuis 2008."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: Outils Pour Devenir La Meilleure Version De Toi Même
 author: Diane

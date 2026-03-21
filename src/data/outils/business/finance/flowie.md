@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: Flowie
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Flowie est la plateforme deep tech d'orchestration Finance et Achats reconnue par Gartner. 3.9M$ levés. Ex-CTO Big Mamma. IA + automatisation."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,18 @@ u_site: https://www.flowie.com/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-14"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://www.pappers.fr/entreprise/flowie-921376265
+  - https://www.get-flowie.com/en/about-us
+  - https://www.get-flowie.com/en/norms-and-certifications
+  - https://www.get-flowie.com/en/privacy-policy
+notesQualification: "Flowie est une SAS francaise immatriculee a Paris, sans signal public de gouvernance extra-europeenne. Le site officiel affiche des engagements RGPD et ISO 27001, ainsi qu'une architecture SecNumCloud en preparation, mais je n'ai pas trouve de mention publique assez nette pour documenter l'hebergement effectif. Je conserve donc un niveau de responsabilite partiel."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Flowie

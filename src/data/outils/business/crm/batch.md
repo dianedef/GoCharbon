@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://batch.com/en/legal-notice
+- https://batch.com/fr
+- https://batch.com/fr/partenaires/notify
+notesQualification: Batch est porte par une societe francaise basee a Paris; les mentions legales etablissent un hebergement web chez OVH en France, mais les sources consultees ne suffisent pas a qualifier de facon certaine toute la residence des donnees produit.
+methodologieVersion: gocharbon-v1
 title: Batch
 author: Diane
 tags:

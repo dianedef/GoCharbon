@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Zola RH
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "Zola RH est le SIRH français pour PME. Congés, temps, notes de frais, entretiens, formations. Interface simple. Depuis 2019. À partir de 2€/salarié."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

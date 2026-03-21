@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.dolicloud.com/fr/fr-information-legale-et-confidentialite.php
+- https://www.dolicloud.com/en-legal-and-privacy.php
+- https://www.dolibarr.org/
+notesQualification: L'ecosysteme Dolibarr demeure fortement ancre en France et DoliCloud documente un pilotage francais avec hebergement OVH a Roubaix; le modele open source et auto-hebergeable renforce nettement le controle local possible.
+methodologieVersion: gocharbon-v1
 title: Dolibarr
 author: Diane
 tags:

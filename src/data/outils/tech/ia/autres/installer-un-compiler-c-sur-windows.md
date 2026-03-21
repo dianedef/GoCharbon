@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: Installer Un Compiler C Sur Windows
 author: Diane

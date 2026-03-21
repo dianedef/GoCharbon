@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: Captain Contrat
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Legal'
   - 'Business'
+  - Outils
 description: "Captain Contrat est la legaltech française pour TPE/PME. Création d'entreprise, contrats, propriété intellectuelle. 200+ avocats. Levée 4M€. Dès 99€."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,18 @@ u_site: https://www.captaincontrat.com/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+societeMere: implid
+sourcesVerification:
+  - https://www.captaincontrat.com/mentions-legales
+  - https://www.captaincontrat.com/cgsu
+  - https://www.captaincontrat.com/
+notesQualification: "Captain Contrat est opere par WaasBros, societe francaise basee a Paris. Les CGVU indiquent un rattachement au groupe implid pour l'expertise comptable, sans signal d'une gouvernance extra-europeenne. L'hebergement est annonce chez AWS avec une politique de donnees detaillee, mais l'usage d'AWS et l'absence de precision publique sur la localisation exacte des traitements me conduisent a conserver un niveau de responsabilite partiel."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Captain Contrat

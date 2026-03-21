@@ -1,10 +1,12 @@
 ---
+section: outils
 title: E-Confiance
 author: Diane
 tags:
   - 'Outils Français'
   - 'Social Media'
   - 'Marketing'
+  - Outils
 description: "E-Confiance est la plateforme française de gestion des avis clients et de e-réputation. Collecte, modération, affichage d'avis vérifiés. NF Service."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

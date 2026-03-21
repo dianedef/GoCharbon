@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.furious-squad.com/cgu/
+- https://www.furious-squad.com/contact/
+- https://www.furious-squad.com/
+notesQualification: Furious est une SASU parisienne et ses CGU indiquent explicitement un hebergement web sur AWS France; l'ancrage economique local est solide.
+methodologieVersion: gocharbon-v1
 title: Furious
 author: Diane
 tags:

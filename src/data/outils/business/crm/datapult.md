@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://datapult.ai/mentions-legales/
+- https://datapult.ai/
+- https://datapult.ai/politique-de-confidentialite/
+notesQualification: Datapult est une SAS francaise basee a Senlis et son site est heberge chez OVH en France; en revanche, les sources consultees ne permettent pas de qualifier avec certitude toute la residence des donnees produit.
+methodologieVersion: gocharbon-v1
 title: Datapult
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "Datapult est la plateforme française de data B2B avec 4.7M d'entreprises, algorithme intelligent et CRM intégré. Pay-as-you-go. 25€ offerts. Senlis."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

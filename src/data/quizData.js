@@ -531,7 +531,7 @@ export const quizData = {
           points: { content: 3, livecommerce: 1, formation: 1 },
         },
         {
-          text: "Je bidouille des outils, j'explore des apps",
+          text: "Je bidouille des outils, j'explore des outils",
           icon: "🔧",
           points: { saas: 3, ecommerce: 1 },
         },

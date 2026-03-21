@@ -1,10 +1,12 @@
 ---
+section: outils
 title: YeldaAI
 author: Diane
 tags:
   - 'Outils Français'
   - 'IA'
   - 'Tech'
+  - Outils
 description: "YeldaAI est la plateforme française de chatbots et voicebots IA. Par Thomas Guenoux (ex-KRDS). SIREN 837 913 011. Station F. Callbots spécialisés. Clients : FNAC, Sodebo, BNP. Depuis 2018."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

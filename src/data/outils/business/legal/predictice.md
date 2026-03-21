@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: Predictice
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Legal'
   - 'Business'
+  - Outils
 description: "Predictice est la plateforme d'IA juridique française (justice prédictive). Racheté par Doctrine en sept. 2025. Analyse de jurisprudence, scoring de risque."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,18 @@ u_site: https://predictice.com/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+societeMere: Doctrine Topco
+sourcesVerification:
+  - https://predictice.com/mentions-legales
+  - https://predictice.com/politique-de-confidentialite
+  - https://blog.predictice.com/doctrine-et-predictice-unissent-leurs-forces
+notesQualification: "Predictice conserve une exploitation francaise identifiable, mais son ancrage economique est desormais faible du fait de son integration dans l'orbite Doctrine, elle-meme controlee majoritairement par Summit Partners. La documentation de confidentialite est serieuse, mais l'hebergement n'est pas explicite publiquement au niveau attendu ; je garde donc un niveau de responsabilite partiel."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Predictice

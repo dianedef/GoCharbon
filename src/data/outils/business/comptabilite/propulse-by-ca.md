@@ -1,10 +1,26 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+societeMere: Crédit Agricole SA
+sourcesVerification:
+- https://propulsebyca.fr/mentions-legales
+- https://propulsebyca.fr/documents-legaux
+- https://propulsebyca.fr/
+notesQualification: Propulse by CA est une offre distribuee par Credit Agricole SA et operee avec Okali, deux entites francaises; les mentions legales documentent un hebergement AWS Luxembourg et un cadre reglementaire tres explicite.
+methodologieVersion: gocharbon-v1
 title: Propulse by CA
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Propulse by CA est l'offre bancaire du Crédit Agricole pour les entrepreneurs. Compte pro, facturation, URSSAF, assurances. Dès 8€ HT/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

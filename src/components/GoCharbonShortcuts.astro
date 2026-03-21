@@ -6,7 +6,7 @@ import { applyContentScope } from "../utils/content-section";
 const allPosts = filterBuildVisiblePosts(await getCollection("posts"))
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 
-const latestApps = applyContentScope(allPosts, "apps").slice(0, 3);
+const latestOutils = applyContentScope(allPosts, "outils").slice(0, 3);
 const latestBlogPosts = applyContentScope(allPosts, "blog").slice(0, 3);
 const latestTutos = applyContentScope(allPosts, "tutos").slice(0, 3);
 
@@ -20,13 +20,13 @@ function getPreviewImageSrc(image: unknown): string {
 
 const shortcuts = [
   {
-    kicker: "Apps francophones",
+    kicker: "Outils francophones",
     title: "Trouve une stack plus vite",
     description: "Va droit aux outils utiles au lieu de comparer au hasard des logiciels qui ne collent ni à ton budget ni à ton niveau.",
-    href: "/apps",
-    cta: "Voir toutes les apps",
-    itemCta: "Voir l'app",
-    items: latestApps,
+    href: "/outils",
+    cta: "Voir tous les outils",
+    itemCta: "Voir l'outil",
+    items: latestOutils,
   },
   {
     kicker: "Flux RSS",

@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.youday.fr/mentions-legales/
+- https://www.youday.fr/
+- https://www.youday.fr/fonctionnalites/
+notesQualification: Youday documente un siege a Nantes, des equipes en France et des donnees hebergees uniquement en France. Le faisceau de preuves est suffisamment clair pour une qualification francaise forte et une responsabilite forte.
+methodologieVersion: gocharbon-v1
 title: Youday CRM
 author: Diane
 tags:
@@ -10,6 +22,7 @@ description: Youday CRM est le CRM français 100% personnalisable sans code. Bas
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.youday.fr
+u_derniere_maj: '2026-03-20'
 ---
 
 # Youday CRM

@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: pCloud
 author: Diane
 tags:
@@ -11,6 +11,22 @@ pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.pcloud.com/
 u_affi: https://partner.pcloud.com/r/55057
+type: outil
+qualificationLocale: hors-union-europeenne
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: Suisse
+hebergementDonnees: multi-region
+sourcesVerification:
+- https://www.pcloud.com/fr/privacy_policy.html
+- https://www.pcloud.com/Europe
+- https://www.pcloud.com/de/company/contactus.html
+notesQualification: 'pCloud International AG est basée en Suisse. Les sources officielles
+  indiquent un choix d''hébergement entre Union européenne et États-Unis selon le
+  paramétrage utilisateur ; la structure reste hors UE et la qualification économique
+  est donc faible, avec une responsabilité partielle malgré un cadre sécurité solide.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # pCloud

@@ -1,6 +1,19 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+societeMere: Yapla Incorporation
+sourcesVerification:
+- https://www.yapla.com/fr-fr/mentions-legales
+- https://www.yapla.com/fr-ca/donnees-personnelles
+- https://www.yapla.com/fr-fr/
+notesQualification: Yapla dispose d'une SAS francaise a Paris mais reste detenu en partie par Yapla Incorporation au Canada. L'ancrage local est reel via l'entite francaise, mais la structure de groupe et l'architecture transatlantique conduisent a rester en partiel.
+methodologieVersion: gocharbon-v1
 title: Yapla
 author: Diane
 tags:
@@ -11,6 +24,7 @@ description: 'Yapla : plateforme canadienne tout-en-un pour associations. 100 00
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.yapla.com/fr-fr/
+u_derniere_maj: '2026-03-20'
 ---
 
 # Yapla

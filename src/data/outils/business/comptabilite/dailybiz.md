@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: indetermine
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.dailybiz.com/mentions/
+- https://www.dailybiz.com/
+notesQualification: Dailybiz est une SAS francaise basee a Courbevoie; les plateformes sont hebergees par Nexeren en France, mais la documentation publique reste surtout legale et ne detaille pas davantage la gouvernance responsable du groupe.
+methodologieVersion: gocharbon-v1
 title: Dailybiz
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Dailybiz (ex-Idylis) est l'ERP cloud tout-en-un pour TPE/PME : gestion commerciale, compta, CRM, facturation, projets. 5 000+ clients. Dès 49€/mois."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

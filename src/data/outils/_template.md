@@ -11,20 +11,35 @@
 # FRONTMATTER OBLIGATOIRE :
 title: "Nom de l'Outil"
 author: Diane
+section: outils
+type: outil
 tags:
-  - 'Outils Français'       # Si outil français (u_origine: FR)
-  # - 'Outils'              # Si outil étranger avec version FR (u_origine != FR)
+  - 'Outils'
   - 'Sous-catégorie'         # Ex: Comptabilité, CRM, SEO, IA, Email...
   - 'Catégorie parente'      # Ex: Business, Marketing, Tech...
 description: "1-2 phrases percutantes. Inclure : ce que fait l'outil + chiffre clé (nb clients, levée, note) + prix d'entrée si dispo. Max 160 caractères pour le SEO."
 pubDate: "YYYY-MM-DD"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../assets/astro.jpeg
 # Ajuster la profondeur si la fiche n'est pas dans src/data/outils/<categorie>/<sous-categorie>/
 # FRONTMATTER OPTIONNEL :
 # u_site: "https://..."     # URL officielle de l'outil
 # u_affi: "https://..."     # Lien affilié (si dispo)
 # u_origine: "FR"            # Pays d'origine : FR, US, UK, DE, IL, etc.
 # u_langue_fr: true          # Interface disponible en français
+# qualificationLocale: france # france | union-europeenne | hors-union-europeenne | indetermine
+# ancrageEconomique: fort     # fort | partiel | faible | indetermine
+# niveauResponsabilite: partiel # fort | partiel | faible | indetermine
+# paysSiege: "France"
+# paysFiscal: "France"
+# paysFondateurs:
+#   - "France"
+# hebergementDonnees: union-europeenne # france | union-europeenne | hors-union-europeenne | multi-region | inconnu
+# societeMere: "Nom de la holding / groupe"
+# sourcesVerification:
+#   - "https://site-officiel.example/legal"
+#   - "https://societe.example/fiche"
+# notesQualification: "Nuance importante sur la structure, la fiscalité ou l'hébergement."
+# methodologieVersion: "gocharbon-v1"
 # u_derniere_maj: "YYYY-MM-DD" # Date de dernière vérification/mise à jour
 # draft: true                # Brouillon non publié
 ---

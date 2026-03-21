@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: faible
+paysSiege: "France"
+hebergementDonnees: inconnu
+sourcesVerification:
+  - "https://www.verticalsoft.com/mentions-legales.html"
+  - "https://www.verticalsoft.com/declaration-confidentialite.html"
+  - "https://www.verticalsoft.com/conditions-generales.html"
+notesQualification: "VerticalSoft est rattache a une structure francaise basee a Paris. En revanche, les informations d'hebergement et les references societaires publiques apparaissent datées ou contradictoires selon les pages, ce qui conduit a une qualification prudente avec responsabilite faible."
 title: VerticalSoft
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "VerticalSoft est le logiciel français de gestion pour associations. CRM, adhésions, dons, événements, comptabilité. Tout-en-un pour le monde associatif."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://verticalsoft.com/
 u_origine: "FR"
 u_langue_fr: true
+methodologieVersion: "gocharbon-v1"
 u_derniere_maj: "2026-03-15"
 ---
 

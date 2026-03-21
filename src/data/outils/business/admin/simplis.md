@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-16'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.simplis.fr/assurances-simplis/mentions-legales
+- https://simplis.fr/
+notesQualification: Entreprendre l'Avenir est une societe francaise basee a Paris; les mentions legales decrivent le stockage des donnees mais sans localisation d'hebergement suffisamment precise.
+methodologieVersion: gocharbon-v1
 title: Simplis
 author: Diane
 tags:
   - 'Outils Français'
   - 'Admin'
   - 'Business'
+  - Outils
 description: "Simplis est le logiciel français de gestion tout-en-un pour TPE et micro-entrepreneurs. Devis, factures, comptabilité, notes de frais. Simple et abordable."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Combo
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "Combo (ex-Snapshift) est le logiciel français de planning, pointeuse et RH pour hôtels, restaurants et retail. 10K+ établissements. 40M€+ levés. Paris."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

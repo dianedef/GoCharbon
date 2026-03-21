@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: indetermine
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.gestan.fr/
+- https://www.gestan.fr/support-logiciel-erp-crm-facturation/
+- https://www.gestan.fr/version-15-46/
+notesQualification: Gestan est un logiciel historiquement developpe et supporte depuis Paris pour le marche francais; l'ancrage economique est clair mais la documentation publique disponible ne precise pas assez la localisation de l'hebergement cloud.
+methodologieVersion: gocharbon-v1
 title: Gestan
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Gestan est le logiciel ERP gratuit français pour TPE. 40 000 utilisateurs, 20 ans d'existence. Version Standard gratuite. Entreprise dès 102€/an."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

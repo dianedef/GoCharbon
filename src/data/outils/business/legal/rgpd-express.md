@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: RGPD Express
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Legal'
   - 'Business'
+  - Outils
 description: "RGPD Express est le logiciel français de mise en conformité RGPD pour TPE/PME. 300+ clients, 15+ secteurs. Autonomie ou accompagnement. Simple et rapide."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,18 @@ u_site: https://rgpdexpress-b2b.com/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://www.rgpd-express.com/
+  - https://www.rgpd-express.com/qui-sommes-nous/
+  - https://www.rgpd-express.com/contactez-nous/
+  - https://www.pappers.fr/entreprise/rgpd-express-842646416
+notesQualification: "RGPD Express est une SAS francaise immatriculee a Saint-Nazaire, avec un site officiel et des contenus de conformité RGPD operationnels. L'ancrage economique est clairement francais. En revanche, je n'ai pas trouve de preuve publique suffisamment explicite sur l'hebergement des donnees ou la chaine exacte des sous-traitants, donc je garde un niveau de responsabilite partiel."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # RGPD Express

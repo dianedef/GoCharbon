@@ -1,6 +1,19 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: union-europeenne
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: Belgique
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://crm-pour-pme.fr/information-societe.php
+- https://crm-pour-pme.fr/equipe-simpl.php
+- https://crm-pour-pme.fr/formation-simple-crm.php
+- https://crm-pour-pme.fr/actualite-logiciel-crm-20250720.php
+notesQualification: Simple CRM est edite par Simple Group SA en Belgique, avec une equipe francophone revendiquee et un hebergement annonce en Europe. Les preuves disponibles orientent vers un ancrage europeen plutot que francais, avec un niveau de responsabilite partiel faute de documentation technique et juridique plus centralisee.
+methodologieVersion: gocharbon-v1
 title: Simple CRM
 author: Diane
 tags:
@@ -10,6 +23,7 @@ description: Simple CRM Enterprise est un CRM en ligne pour PME avec IA int√©gr√
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://crm-pour-pme.fr
+u_derniere_maj: '2026-03-20'
 ---
 
 # Simple CRM

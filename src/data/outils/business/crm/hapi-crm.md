@@ -1,6 +1,19 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+paysFiscal: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://about.hapicrm.com/
+- https://about.hapicrm.com/m/fr/page/qui-somme-nous.8.html
+- https://mmcreation.com/fr/page/mentions-legales-creation-site-web-hotel.12552.html
+notesQualification: Editeur et structure legale rattaches a MMCreation, SARL basee a Paris. Le rattachement francais est defendable, mais l'hebergement du service H.api CRM n'est pas documente explicitement dans les sources officielles consultees.
+methodologieVersion: gocharbon-v1
 title: H.api CRM
 author: Diane
 tags:
@@ -10,6 +23,7 @@ description: H.api CRM est une solution française d'emailing et CRM par MMCréa
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://about.hapicrm.com/fr/
+u_derniere_maj: '2026-03-20'
 ---
 
 🔹✅💡🥊🛡️🔇🧠📣🎁🏆📚🛠💥🙌😱❌✂️

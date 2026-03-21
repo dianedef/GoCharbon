@@ -1,4 +1,5 @@
 ---
+section: outils
 title: Kahoot!
 author: Diane
 tags:
@@ -6,7 +7,7 @@ tags:
   - 'Formation'
 description: "Kahoot! est la plateforme norvégienne de quiz interactifs et d'engagement. 9M+ d'enseignants, 8 milliards de participants cumulés. Version FR complète. Depuis 2012."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://kahoot.com/
 u_origine: "NO"
 u_langue_fr: true

@@ -1,6 +1,19 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: union-europeenne
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: Belgique
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://www.teamleader.eu/fr/legal
+- https://www.teamleader.eu/legal/gdpr
+- https://www.teamleader.eu/legal/security-teamleader-focus
+- https://www.teamleader.eu/legal/sub-processors-teamleader-focus
+notesQualification: Teamleader est clairement une societe belge, avec donnees clients hebergees dans l'Union europeenne et documentation securite tres detaillee. Des sous-traitants americains existent pour certains usages, ce qui conduit a garder un ancrage economique partiel.
+methodologieVersion: gocharbon-v1
 title: Teamleader
 author: Diane
 tags:
@@ -10,6 +23,7 @@ description: Teamleader est un CRM belge tout-en-un pour TPE/PME. Vente, factura
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.teamleader.eu/fr/
+u_derniere_maj: '2026-03-20'
 ---
 
 # Teamleader

@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-17'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.mycerfa.com/mentions-legales
+- https://www.mycerfa.com/
+notesQualification: MyCerfa est edite par Whoz SAS a Boulogne-Billancourt et annonce un hebergement OVH a Roubaix dans ses mentions legales.
+methodologieVersion: gocharbon-v1
 title: MyCerfa
 author: Diane
 tags:
   - 'Outils Français'
   - 'Admin'
   - 'Business'
+  - Outils
 description: "MyCerfa est la plateforme française de dématérialisation des formulaires Cerfa. Remplissage simplifié, signature électronique. Pour entreprises et pros."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

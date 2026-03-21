@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: ringover
 author: Diane
 tags:
@@ -11,6 +11,22 @@ description: 'Ringover est une entreprise française qui propose une solution de
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.ringover.fr/
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.ringover.com/legal-mention
+- https://www.ringover.com/privacy
+- https://www.ringover.com/contact
+notesQualification: 'Ringover est opéré par RINGOVER SAS, basée à Montrouge. La
+  politique de confidentialité officielle indique un hébergement principal en France
+  ou dans l''UE hors marché US, avec des points de présence en région parisienne et
+  dans les DOM ; la gouvernance et l''ancrage économique sont français.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # ringover

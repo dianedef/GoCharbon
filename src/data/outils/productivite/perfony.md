@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: Perfony
 author: Diane
 tags:
@@ -10,6 +10,22 @@ description: Perfony est le logiciel français IA de gestion de projet, réunion
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.perfony.com/fr/
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.perfony.com/fr/privacy-policy/
+- https://www.perfony.com/en/contact-us/
+- https://www.perfony.com/fr/
+notesQualification: 'Perfony SAS est une société française basée à Paris. La documentation
+  officielle établit clairement l''éditeur et son cadre RGPD, mais l''hébergement opérationnel
+  du produit n''est pas documenté avec assez de précision publiquement ; la forte
+  dépendance aux briques Azure/OpenAI conduit à rester sur un niveau partiel.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # Perfony

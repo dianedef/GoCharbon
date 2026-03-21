@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://agicap.com/fr/mentions-legales/
+- https://agicap.com/fr/politique-de-confidentialite/
+notesQualification: Agicap est une SAS lyonnaise bien ancree en France, mais sa politique couvre un groupe international et l'hebergement officiel du site est documente en Belgique via Google Ireland.
+methodologieVersion: gocharbon-v1
 title: Agicap
 author: Diane
 tags:

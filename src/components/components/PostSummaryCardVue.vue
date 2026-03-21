@@ -5,6 +5,7 @@ import Pill from "./Pill.vue";
 import { extractMainTags, getMainTagLabel } from "../../utils/tag-groups";
 import { useRandomColor } from "../../composables/useRandomColor";
 import { computed } from "vue";
+import { computeEngagementBadge } from "../../utils/tool-qualification";
 
 interface Props extends PostSummaryCardProps {
     post: Post;
@@ -32,6 +33,25 @@ const imgSrc = computed(() => {
 });
 
 const mainTags = computed(() => extractMainTags(data.tags));
+const engagementBadge = computed(() => {
+    if (data.section !== 'outils') {
+        return null;
+    }
+
+    return computeEngagementBadge({
+        qualificationLocale: data.qualificationLocale,
+        ancrageEconomique: data.ancrageEconomique,
+        niveauResponsabilite: data.niveauResponsabilite,
+        paysSiege: data.paysSiege,
+        paysFiscal: data.paysFiscal,
+        paysFondateurs: data.paysFondateurs,
+        hebergementDonnees: data.hebergementDonnees,
+        societeMere: data.societeMere,
+        sourcesVerification: data.sourcesVerification,
+        notesQualification: data.notesQualification,
+        methodologieVersion: data.methodologieVersion,
+    });
+});
 </script>
 
 <template>
@@ -55,6 +75,15 @@ const mainTags = computed(() => extractMainTags(data.tags));
                 <p class="poppins dark:text-yellow-soft text-sm md:text-base">
                     {{ data.description }}
                 </p>
+                <div
+                    v-if="engagementBadge"
+                    class="engagement-chip"
+                    :class="`engagement-chip--${engagementBadge.tone}`"
+                >
+                    <span class="engagement-chip__eyebrow">Badge GoCharbon</span>
+                    <strong>{{ engagementBadge.shortLabel }}</strong>
+                    <span class="engagement-chip__score">Score {{ engagementBadge.score }}/{{ engagementBadge.maxScore }}</span>
+                </div>
 
                 <div class="flex justify-end">
                     <div class="rounded-lg">
@@ -101,5 +130,69 @@ const mainTags = computed(() => extractMainTags(data.tags));
 
 .brutal-card * {
     border-color: var(--border-color);
+}
+
+.engagement-chip {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    width: fit-content;
+    padding: 0.45rem 0.65rem;
+    border: 2px solid var(--border-color);
+    box-shadow: 3px 3px 0 var(--border-color);
+    font-family: "Poppins", sans-serif;
+    color: var(--brand-black);
+    background: #fff7df;
+}
+
+.engagement-chip--fort {
+    background: linear-gradient(135deg, #fff1a8 0%, #f6c700 100%);
+}
+
+.engagement-chip--solide {
+    background: linear-gradient(135deg, #ffeab5 0%, #ffcf6d 100%);
+}
+
+.engagement-chip--modere {
+    background: linear-gradient(135deg, #fff3d9 0%, #ffd6a6 100%);
+}
+
+.engagement-chip--faible {
+    background: linear-gradient(135deg, #fff 0%, #e5ddd0 100%);
+}
+
+.engagement-chip--pending {
+    background: linear-gradient(135deg, #fff 0%, #d9e1e8 100%);
+}
+
+:global(.dark) .engagement-chip {
+    color: var(--brand-cream);
+    background: #151515;
+}
+
+:global(.dark) .engagement-chip--fort {
+    background: linear-gradient(135deg, #6f5600 0%, #3d2d00 100%);
+}
+
+:global(.dark) .engagement-chip--solide {
+    background: linear-gradient(135deg, #5f4420 0%, #2c2116 100%);
+}
+
+:global(.dark) .engagement-chip--modere {
+    background: linear-gradient(135deg, #45372b 0%, #201913 100%);
+}
+
+.engagement-chip__eyebrow {
+    font-size: 0.65rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    opacity: 0.75;
+}
+
+.engagement-chip__score {
+    font-size: 0.72rem;
+    font-weight: 700;
+    opacity: 0.8;
 }
 </style>

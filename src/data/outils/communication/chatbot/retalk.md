@@ -1,4 +1,6 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Retalk
 author: Diane
 tags:
@@ -11,7 +13,19 @@ imgUrl: ../../../../assets/astro.jpeg
 u_site: https://retalk.ai/
 u_origine: "LU"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
+type: outil
+qualificationLocale: union-europeenne
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: Luxembourg
+hebergementDonnees: inconnu
+societeMere: Reunit SA
+sourcesVerification:
+  - https://retalk.bot/fr/legal/privacy
+  - https://www.retalk.bot/fr/legal/dpa
+notesQualification: "Retalk est exploité par Reunit SA au Luxembourg, ce qui donne un ancrage européen clair mais non français. La documentation juridique est présente, mais l'hébergement et la chaîne de sous-traitance ne sont pas assez détaillés publiquement pour aller au-delà d'un niveau partiel."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Retalk

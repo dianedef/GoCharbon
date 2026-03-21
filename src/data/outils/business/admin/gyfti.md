@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-16'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: hors-union-europeenne
+sourcesVerification:
+- https://www.gyfti.fr/mentions-legales
+- https://www.gyfti.fr/politique-de-confidentialite
+notesQualification: OFIN est une SAS francaise, mais le site vitrine est heberge chez Webflow aux Etats-Unis et la stack declaree inclut aussi Stripe et Crisp.
+methodologieVersion: gocharbon-v1
 title: Gyfti
 author: Diane
 tags:
   - 'Outils Français'
   - 'Admin'
   - 'Business'
+  - Outils
 description: "Gyfti est la plateforme française de cartes cadeaux digitales pour entreprises. Cadeaux salariés, incentives clients, récompenses. 100% dématérialisé."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

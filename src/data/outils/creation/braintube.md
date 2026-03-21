@@ -1,13 +1,15 @@
 ---
+section: outils
 title: BrainTube
 author: Diane
 tags:
   - 'Outils Français'
   - 'Vidéo'
   - 'Création'
+  - Outils
 description: "BrainTube est l'outil français de génération de scripts YouTube par IA. Création de scripts tutoriels optimisés pour YouTube. Depuis ~2023. Possiblement inactif."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://braintube.ai/
 u_origine: "FR"
 u_langue_fr: true

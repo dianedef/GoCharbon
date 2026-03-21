@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-16'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://livestorm.co/legal-notice
+- https://livestorm.co/privacy-policy
+notesQualification: SAS francaise basee a Paris; hebergement AWS en Irlande et transferts possibles hors UE via certains sous-traitants documentes.
+methodologieVersion: gocharbon-v1
 title: livestorm
 author: Diane
 tags:

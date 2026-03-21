@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: SOPlanning
 author: Diane
 tags:
@@ -11,6 +11,22 @@ description: SOPlanning est le logiciel open-source français de planning en lig
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.soplanning.org/fr/
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.soplanning.org/fr/mentions-legales/
+- https://www.soplanning.org/fr/contactez-nous/
+- https://www.soplanning.org/fr/telechargement/
+notesQualification: 'SOPlanning est un projet français basé à Aix-en-Provence. La
+  documentation officielle confirme l''ancrage local et le caractère open-source/auto-hébergeable
+  du produit, mais le mode d''hébergement variant selon les déploiements, la qualification
+  reste prudente.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # SOPlanning

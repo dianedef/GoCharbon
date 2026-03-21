@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+societeMere: Credit Mutuel Arkea
+sourcesVerification:
+- https://seqino.com/mentions-legales/
+- https://help.seqino.com/fr/
+notesQualification: Seqino est porte par une SAS francaise a Gif-sur-Yvette, hebergee chez OVH a Roubaix, et son integration au groupe Credit Mutuel Arkea renforce son ancrage economique local.
+methodologieVersion: gocharbon-v1
 title: Seqino
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Seqino est le logiciel de facturation et devis certifié PDP, racheté par Crédit Mutuel Arkéa en avril 2025. Plan gratuit. Dès 15€/mois."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,6 +1,6 @@
 ---
 section: tutos
-type: Tuto
+type: tuto
 statut:
 - backlog
 _priorité: normal

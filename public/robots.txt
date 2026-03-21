@@ -1,7 +1,7 @@
 User-agent: *
 Disallow: /?page=
-Disallow: /apps/?page=
+Disallow: /outils/?page=
 Allow: /$
-Allow: /apps/$
+Allow: /outils/$
 
 Sitemap: https://gocharbon.com/sitemap-index.xml

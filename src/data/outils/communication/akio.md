@@ -1,16 +1,33 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+societeMere: Odigo
+sourcesVerification:
+  - "https://www.akio.com/fr/"
+  - "https://www.akio.com/fr/akio-unified-logiciel-omnicanal/"
+  - "https://www.akio.com/fr/iso-27001/"
+  - "https://www.odigo.com/fr-fr/a-propos/news/odigo-finalise-lacquisition-dakio-et-renforce-son-ambition-construire-une-alternative-europeenne-souveraine-majeure-sur-les-marches-du-ccaas-et-du-cxaas/"
+notesQualification: "Akio reste un editeur francais historiquement ancre en France avec hebergement annonce en cloud prive en France et certification ISO 27001. Depuis novembre 2025, l'entreprise est integree a Odigo, ce qui conduit a garder un ancrage economique partiel plutot que fort."
 title: Akio
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "Akio est la plateforme française de centre de contact + analyse sémantique. Par Patrick Giudicelli. SIREN 421 001 702. ⚠️ Acquis par Odigo (nov. 2025). Depuis 1998."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.akio.com/
 u_origine: "FR"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+methodologieVersion: "gocharbon-v1"
+u_derniere_maj: "2026-03-20"
 ---
 
 # Akio

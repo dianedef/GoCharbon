@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-16'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+societeMere: Docaposte / Groupe La Poste
+sourcesVerification:
+- https://www.docaposte.com/fr/mentions-legales
+- https://aide.digiposte.fr/hc/fr/articles/4408799931794-Digiposte-un-service-de-confiance-pour-vos-donn%C3%A9es-personnelles
+notesQualification: Service opere par Docaposte, filiale du Groupe La Poste, avec hebergement annonce en France et certifications sectorielles.
+methodologieVersion: gocharbon-v1
 title: Digiposte
 author: Diane
 tags:

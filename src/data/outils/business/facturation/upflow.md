@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://upflow.io/en-gb/legal-notices
+- https://support.upflow.io/hc/en-us/articles/29512104884625-Upflow-Privacy-Policy
+- https://insights.upflow.io/en/ar-collections-software/demo-request
+notesQualification: Upflow conserve une base operationnelle francaise a Saint-Mande et annonce des datacentres AWS en Irlande; la politique de confidentialite montre toutefois aussi une entite americaine, ce qui appelle une lecture prudente.
+methodologieVersion: gocharbon-v1
 title: upflow
 author: Diane
 tags:

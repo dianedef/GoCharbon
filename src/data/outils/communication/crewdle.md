@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: Crewdle
 author: Diane
 tags:
@@ -11,6 +11,22 @@ description: Crewdle est une visioconférence écologique et sécurisée en peer
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://crewdle.com/
+type: outil
+qualificationLocale: hors-union-europeenne
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: Canada
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://crewdle.com/contact-us
+- https://crewdle.com/about-privacy
+- https://crewdle.com/
+notesQualification: 'Crewdle est piloté depuis Montréal. La documentation publique
+  met en avant une architecture peer-to-peer et sans stockage central, mais ne fournit
+  pas assez de détails opérationnels standardisés pour qualifier plus fortement l''hébergement
+  ou la responsabilité.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # Crewdle

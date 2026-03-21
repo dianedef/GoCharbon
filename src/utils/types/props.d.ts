@@ -38,5 +38,5 @@ export interface PostContentProps {
 export interface FilterTagsProps {
 	mainTags: string[];
 	selectedTags?: string[];
-	scope?: "all" | "apps" | "blog" | "tutos" | "parcours";
+	scope?: "all" | "outils" | "blog" | "tutos" | "parcours";
 }

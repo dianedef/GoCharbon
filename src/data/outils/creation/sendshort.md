@@ -1,4 +1,5 @@
 ---
+section: outils
 title: SendShort
 author: Diane
 tags:
@@ -7,7 +8,7 @@ tags:
   - 'Création'
 description: "SendShort est l'outil de création de vidéos courtes par IA. Fondé en France (Romain Cerezo), racheté par PXCH Holding (Miami). 100K+ utilisateurs. Shorts/Reels/TikTok."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.sendshort.ai/
 u_origine: "US"
 u_langue_fr: true

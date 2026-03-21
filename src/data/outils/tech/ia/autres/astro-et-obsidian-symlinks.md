@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: Astro Et Obsidian Symlinks
 author: Diane

@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Mailo Pro
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "Mailo Pro est la messagerie email professionnelle française. Alternative souveraine à Gmail/Outlook. Hébergement France, RGPD natif. Depuis 2018."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.mailo.com/
 u_origine: "FR"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+  - https://www.mailo.com/
+  - https://www.mailo.com/mailo/en/privacy-rules.php
+  - https://www.mailo.com/mailo/fr/conditions-d-utilisation.php
+notesQualification: "Mailo est exploité par MAILO SAS, société française, avec une documentation officielle cohérente sur l'hébergement et le traitement des données en France. L'ancrage économique et le niveau de responsabilité peuvent être qualifiés de forts."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Mailo Pro

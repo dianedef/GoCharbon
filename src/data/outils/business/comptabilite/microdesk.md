@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://microdesk.fr/
+- https://microdesk.fr/politique-de-confidentialite/
+- https://microdesk.fr/devis-et-factures-en-micro-entreprise-obligatoire-ou-non/
+notesQualification: MicroDesk est une SAS francaise basee a Paris et tres ancree sur l'ecosysteme micro-entreprise francais; la politique de confidentialite est assez fournie, mais l'hebergement n'est pas documente de facon suffisamment explicite.
+methodologieVersion: gocharbon-v1
 title: MicroDesk
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "MicroDesk est le logiciel de gestion pour micro-entrepreneurs. Partenaire URSSAF. Facturation, déclarations, livre des recettes. 15€/mois."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

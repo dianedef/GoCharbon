@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qualification Outils"
+  short_description: "Qualifie l’ancrage local des outils"
+  default_prompt: "Use $outils-qualification-locale to qualify a batch of GoCharbon tool pages and update their frontmatter with conservative local and responsibility ratings."

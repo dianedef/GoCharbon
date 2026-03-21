@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.ohme.fr/mentions-legales/
+- https://www.ohme.fr/politique-de-confidentialite/
+- https://www.ohme.fr/contact/
+notesQualification: OHME est exploite par One Heart Channel Communication, structure basee a Paris. La conformite RGPD et l'encadrement contractuel sont documentes, mais l'hebergement et les transferts hors UE restent insuffisamment precis pour aller au-dela d'une qualification prudente.
+methodologieVersion: gocharbon-v1
 title: OHME
 author: Diane
 tags:
@@ -10,6 +22,7 @@ description: OHME est un CRM français pour associations. Gestion des contacts, 
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.welcome-ohme.fr
+u_derniere_maj: '2026-03-20'
 ---
 
 # OHME

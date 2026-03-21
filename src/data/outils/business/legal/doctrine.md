@@ -1,7 +1,7 @@
 ---
-section: apps
-metadataEnrichedAt: null
-type: app
+section: outils
+metadataEnrichedAt: '2026-03-21'
+type: outil
 tags:
 - Outils
 imageNameKey: doctrine
@@ -13,6 +13,19 @@ description: 'Découvre Doctrine : outil français pour entrepreneurs, fonctionn
   et avis.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
+u_derniere_maj: '2026-03-21'
+qualificationLocale: france
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+societeMere: Doctrine Topco
+sourcesVerification:
+  - https://www.pappers.fr/entreprise/forseti-820867877
+  - https://doctrine.pr.co/224793-doctrine-s-associe-a-summit-partners-et-peugeot-invest-pour-construire-un-leader-de-l-intelligence-juridique/
+  - https://doctrine.pr.co/246061-protection-des-donnees-doctrine-devient-le-premier-editeur-francais-d-ia-juridique-a-obtenir-la-certification-iso-27001/
+notesQualification: 'Doctrine conserve un operateur francais a Paris via Forseti, mais sa gouvernance economique est desormais structuree autour de Doctrine Topco avec une prise de participation majoritaire de Summit Partners aux cotes de Peugeot Invest. L''ancrage local reste donc faible malgre le siege francais. La certification ISO 27001 renforce la lisibilite securite, mais l''hebergement public reste trop peu documente pour aller au-dela de partiel.'
+methodologieVersion: gocharbon-v1
 ---
 
 [Legaltech : Doctrine rachetée par le fonds américain Summit Partners, Actu](https://business.lesechos.fr/entrepreneurs/actu/0703739922599-legaltech-doctrine-rachetee-par-le-fonds-americain-summit-partners-351586.php)

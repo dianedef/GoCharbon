@@ -1,13 +1,15 @@
 ---
+section: outils
 title: Klap
 author: Diane
 tags:
   - 'Outils Français'
   - 'Vidéo'
   - 'Création'
+  - Outils
 description: "Klap est l'outil français qui transforme tes vidéos longues en clips viraux pour TikTok, Reels et Shorts. Par Théo Champion. ZIGG SAS. SIREN 888 061 413. 2,1M+ utilisateurs."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://klap.app/
 u_origine: "FR"
 u_langue_fr: true

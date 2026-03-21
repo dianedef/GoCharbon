@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Live Vendor
 author: Diane
 tags:
   - 'Outils Français'
   - 'Social Media'
   - 'Marketing'
+  - Outils
 description: "Live Vendor est la plateforme française de live commerce et live shopping. Vente en direct sur ton site, Instagram, Facebook. Conversion x10. Depuis 2020."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

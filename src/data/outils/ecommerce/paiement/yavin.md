@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Yavin
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Yavin est la startup française de terminaux de paiement Android pour commerçants. TPE nouvelle génération, sans engagement. Fondée en 2019. Paris."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

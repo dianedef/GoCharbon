@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: Smash
 author: Diane
 tags:
@@ -10,6 +10,22 @@ description: Smash est le service français de transfert de fichiers sans limite
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://fromsmash.com
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://fromsmash.com/fr/essential/privacy
+- https://fromsmash.com/fr/essential/who-are-we
+- https://fromsmash.com/fr/discover-smash/everyone
+notesQualification: 'Smash & Co est une société française basée à Lyon. Les pages
+  officielles documentent un positionnement clair sur l''hébergement en France, la
+  non-exploitation des fichiers et un cadre sécurité structuré, ce qui justifie une
+  qualification forte.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # Smash

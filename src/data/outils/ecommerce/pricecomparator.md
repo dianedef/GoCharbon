@@ -1,12 +1,14 @@
 ---
+section: outils
 title: PriceComparator
 author: Diane
 tags:
   - 'Outils Français'
   - 'E-commerce'
+  - Outils
 description: "PriceComparator était l'outil français de veille tarifaire pour le e-commerce. Fondé en 2013 par Sébastien Bernis. ⚠️ FERMÉ — liquidation judiciaire avril 2023, clôture 2025."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.pricecomparator.pro/
 u_origine: "FR"
 u_langue_fr: true

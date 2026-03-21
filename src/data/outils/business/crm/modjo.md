@@ -1,16 +1,32 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: "France"
+hebergementDonnees: france
+sourcesVerification:
+  - "https://www.modjo.ai/fr/legals/mentions-legales"
+  - "https://www.modjo.ai/fr/legals/privacy"
+  - "https://www.modjo.ai/fr/trust-center"
+  - "https://www.modjo.ai/en/trust-center/subprocessors"
+notesQualification: "Modjo est exploite par Ringo, SAS francaise basee a Neuilly-sur-Seine. La documentation securite et conformite est solide, avec un hebergement AWS annonce en France et des garanties RGPD detaillees, mais l'ancrage economique reste partiel par prudence."
 title: Modjo
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "Modjo est la plateforme française d'intelligence conversationnelle pour les équipes sales B2B. 22K+ utilisateurs, 500+ clients, 14M€ levés. IA + coaching."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.modjo.ai/
 u_origine: "FR"
 u_langue_fr: true
+methodologieVersion: "gocharbon-v1"
 u_derniere_maj: "2026-03-15"
 ---
 

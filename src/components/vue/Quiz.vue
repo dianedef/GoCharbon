@@ -99,8 +99,8 @@
           <button @click="resetQuiz" class="quiz-btn secondary">
             Refaire le Quiz
           </button>
-          <a href="/apps" class="quiz-btn primary no-link-style">
-            Voir les Apps
+          <a href="/outils" class="quiz-btn primary no-link-style">
+            Voir les outils
           </a>
           <button
             v-if="mode === 'quick'"

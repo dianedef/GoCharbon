@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://hikoala.co/fr/nous-contacter/
+- https://hikoala.co/fr/politique-de-confidentialite/
+- https://hikoala.co/contact-us/
+notesQualification: Koala est operee par la SAS francaise Golao, immatriculee en France et a l'ORIAS; les sources consultees etablissent bien le siege mais pas une residence d'hebergement suffisamment precise.
+methodologieVersion: gocharbon-v1
 title: Koala
 author: Diane
 tags:

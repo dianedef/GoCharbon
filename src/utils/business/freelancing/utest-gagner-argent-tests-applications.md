@@ -5,7 +5,7 @@ author: "Diane"
 tags:
   - Freelancing
   - Business en Ligne
-  - Apps
+  - Outils
 imgUrl: '../../../assets/astro.jpeg'
 description: "Découvre une plateforme pour gagner de l'argent sur le web"
 slug: utest-gagner-argent-tests-applications

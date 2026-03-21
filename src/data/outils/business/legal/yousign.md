@@ -1,7 +1,8 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-21'
 title: Yousign
+type: outil
 author: Diane
 tags:
 - Outils
@@ -11,6 +12,19 @@ description: '**tl;dr:** Découvrez comment Yousign, une solution de signature �
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://yousign.com/fr-fr
+u_derniere_maj: '2026-03-21'
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+  - https://yousign.com/legal-notice
+  - https://yousign.com/privacy
+  - https://yousign.com/gdpr
+  - https://www.pappers.fr/entreprise/yousign-794513986
+notesQualification: 'Yousign est une SAS francaise basee a Caen, avec des mentions legales officielles qui documentent un hebergement via AWS EMA SARL, branche francaise, a Courbevoie. La politique de confidentialite precise que l’infrastructure supportant la plateforme est localisee en France, mais que certains transferts hors UE peuvent intervenir si nécessaire. J’en reste donc a une qualification francaise forte avec responsabilite partielle.'
+methodologieVersion: gocharbon-v1
 ---
 
 # Yousign

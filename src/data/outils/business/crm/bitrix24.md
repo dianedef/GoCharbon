@@ -1,6 +1,19 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: union-europeenne
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: Chypre
+hebergementDonnees: union-europeenne
+societeMere: Alaio Cloud Limited
+sourcesVerification:
+- https://www.bitrix24.fr/privacy/
+- https://helpdesk.bitrix24.fr/open/23242196/
+- https://www.bitrix24.fr
+notesQualification: Pour la zone francaise, Bitrix24 est opere par Alaio Cloud Limited a Chypre avec un stockage annonce sur AWS a Francfort; le service n'est donc pas francais, mais il reste dans un cadre europeen pour cette zone.
+methodologieVersion: gocharbon-v1
 title: Bitrix24
 author: Diane
 tags:

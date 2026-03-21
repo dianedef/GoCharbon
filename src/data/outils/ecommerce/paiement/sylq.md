@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Sylq
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Sylq est la plateforme de paiement tout-en-un née de la fusion Synalcom + Qori. 230K+ terminaux, 20K+ commerces. Carte, crypto, Open Banking."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

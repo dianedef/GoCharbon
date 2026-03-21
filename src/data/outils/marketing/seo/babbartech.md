@@ -1,8 +1,8 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 statut: null
-type: Logiciel
+type: outil
 _priorité: normal
 u_site: https://www.babbar.tech/fr
 tags:

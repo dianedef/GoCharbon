@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://fulldatalead.fr/
+- https://fulldatalead.fr/data_contact/
+- https://fulldatalead.fr/nos_solutions/
+notesQualification: FullDataLead est exploite depuis la France via Data Wolf et affiche une base B2B centree sur les entreprises francaises; les sources consultees confirment l'ancrage local mais pas l'hebergement technique exact.
+methodologieVersion: gocharbon-v1
 title: FullDataLead
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "FullDataLead est la base B2B française de 13M d'entreprises + enrichissement de contacts IA. Données SIRENE/INSEE. Plan gratuit. Dès 9€/mois. Successeur de RocketLead."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

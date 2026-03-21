@@ -1,4 +1,5 @@
 ---
+section: outils
 title: Easy-Peasy AI
 author: Diane
 tags:

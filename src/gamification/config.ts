@@ -91,7 +91,7 @@ export const charbonCategories: Record<string, string[]> = {
   seo: [],
   productivite: [],
   tutoriels: [],
-  apps: [],
+  outils: [],
 }
 
 export function createCharbonConfig(

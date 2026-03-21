@@ -1,12 +1,14 @@
 ---
+section: outils
 title: Uniite
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "Uniite est la plateforme française d'engagement communautaire. Animation de communautés de clients, partenaires et collaborateurs. Gamification et analytics."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://uniite.com/
 u_origine: "FR"
 u_langue_fr: true

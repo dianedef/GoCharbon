@@ -8,7 +8,8 @@ export const breadcrumbsConfig: BreadcrumbsOptions = {
   customLabels: {
     "tech": "Technologie",
     "business": "Business",
-    "apps": "Applications",
+    "outils": "Outils",
+    "methodologie": "Méthodologie",
     "tutos": "Tutoriels",
     "parcours": "Parcours",
     "ia": "Intelligence Artificielle",

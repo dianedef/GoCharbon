@@ -1,17 +1,32 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Draft.io
 author: Diane
 tags:
   - 'Outils Français'
   - 'Gestion Projet'
   - 'Productivité'
+  - Outils
 description: "Draft.io est l'outil français de diagrammes collaboratifs en ligne. Flowcharts, mind maps, wireframes, UML. Alternative française à Miro et Lucidchart."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://draft.io/
 u_origine: "FR"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+  - https://draft.io/terms-and-privacy
+  - https://draft.io/privacy-policy
+  - https://draft.io/fr/pricing
+notesQualification: "Draft SAS est une société française immatriculée à Nantes. La politique de confidentialité et les pages tarifaires officielles documentent un hébergement OVH en France ainsi qu'un cadre sécurité explicite, ce qui justifie une qualification forte."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Draft.io

@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: "France"
+hebergementDonnees: inconnu
+sourcesVerification:
+  - "https://www.my-clic.fr/"
+  - "https://www.francenum.gouv.fr/activateurs/myclic"
+  - "https://www.auvergnerhonealpes.digital/entreprise/MyClic_8428"
+notesQualification: "MyClic est rattache a Kubiweb, structure identifiee dans l'ecosysteme numerique lyonnais et referencee publiquement comme editeur du produit. Le rattachement francais est defendable, mais l'hebergement et la documentation juridique detaillee restent trop peu explicites pour aller au-dela d'une qualification prudente."
 title: MyClic
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "MyClic est le CRM-ERP français pour TPE/PME. Devis, factures, projets, agenda, signature électronique. Modules sectoriels (Qualiopi, BTP). Dès 49€/mois. Lyon."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.my-clic.fr/
 u_origine: "FR"
 u_langue_fr: true
+methodologieVersion: "gocharbon-v1"
 u_derniere_maj: "2026-03-15"
 ---
 

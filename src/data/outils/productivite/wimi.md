@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: Wimi
 author: Diane
 tags:
@@ -11,6 +11,22 @@ description: Wimi est la suite collaborative souveraine française. 450 000 util
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.wimi-teamwork.com/fr/
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.wimi-teamwork.com/fr/mentions-legales
+- https://www.wimi-teamwork.com/es/about/solucion-soberania/
+- https://www.wimi-teamwork.com/fr/
+notesQualification: 'Wimi est édité par Cloud Solutions SAS, société française indépendante.
+  Les sources officielles documentent un hébergement Scaleway en France, une gouvernance
+  100% française et un positionnement sécurité avancé, ce qui justifie une qualification
+  forte.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # Wimi

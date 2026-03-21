@@ -1,12 +1,14 @@
 ---
+section: outils
 title: T-Pop
 author: Diane
 tags:
   - 'Outils Français'
   - 'E-commerce'
+  - Outils
 description: "T-Pop est la plateforme française de print on demand éco-responsable. Impression textile bio, expédition France, 0 stock. Par Julien & Marie Boulogne. SIREN 902 108 646."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.t-pop.fr/
 u_origine: "FR"
 u_langue_fr: true

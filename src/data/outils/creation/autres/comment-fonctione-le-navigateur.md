@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: Comment Fonctione Le Navigateur
 author: Diane

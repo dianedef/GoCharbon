@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-17'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.myassoc.org/mentions-legales/
+- https://www.myassoc.org/
+notesQualification: FRANCETOI est une SAS francaise basee a Paris avec hebergement OVH documente sur la page legale.
+methodologieVersion: gocharbon-v1
 title: MyAssoc
 author: Diane
 tags:
   - 'Outils Français'
   - 'Admin'
   - 'Business'
+  - Outils
 description: "MyAssoc est la plateforme française de services pour associations. Démarches administratives, gestion, assurance. Guichet unique du monde associatif."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

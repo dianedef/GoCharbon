@@ -1,10 +1,11 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: 'Cursor avec Modèles Locaux : Guide Complet'
 author: Diane
 tags:
 - Tech
+- Outils
 description: Comment utiliser des modèles LLM locaux (Llama 3, Mistral...) avec Cursor
   via Gaia ou LM Studio
 pubDate: '2024-03-25'

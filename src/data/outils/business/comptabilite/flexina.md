@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: union-europeenne
+ancrageEconomique: partiel
+niveauResponsabilite: indetermine
+paysSiege: Belgique
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.myflexina.com/
+- https://www.myflexina.com/fr-fr/
+- https://www.myflexina.com/en/blog/nouvelle-mention-obligatoire-pour-le-taux-reduits-de-6-en-belgique
+notesQualification: Flexina est clairement exploite depuis Liege par une structure belge; la documentation publique suffit pour le siege et le marche cible, mais pas pour qualifier plus finement l'hebergement ou la responsabilite.
+methodologieVersion: gocharbon-v1
 title: Flexina
 author: Diane
 tags:

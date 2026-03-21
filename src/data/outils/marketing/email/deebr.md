@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Deebr
 author: Diane
 tags:
   - 'Outils Français'
   - 'Emailing'
   - 'Marketing'
+  - Outils
 description: "Deebr est l'outil français d'enrichissement et de vérification d'emails B2B. Trouve les emails pro à partir de noms et entreprises. Pour prospection."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

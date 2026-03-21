@@ -1,9 +1,10 @@
 ---
-section: apps
+section: outils
 title: 'Agents CLI IA : Claude Code vs Codex CLI — Le Guide 2026'
 author: Diane
 tags:
 - Tech
+- Outils
 description: Comparatif complet Claude Code vs Codex CLI en 2026 — benchmarks, cas
   d'usage, pricing et comment combiner les deux pour multiplier ta productivité
 pubDate: '2026-03-07'

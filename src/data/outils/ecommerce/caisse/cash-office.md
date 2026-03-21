@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Cash Office
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Cash Office est le logiciel de caisse français pour boutiques de détail. Certifié NF525. 35+ ans d'expérience. IFB Paris. Dès 39€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

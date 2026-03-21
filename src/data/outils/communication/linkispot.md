@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Linkispot
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "Linkispot est la plateforme française de networking et d'événements communautaires. Mise en relation, matchmaking événementiel. Pour organisateurs."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://linkispot.com/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: faible
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://www.linkispot.com/
+  - https://www.societe.com/societe/linkispot-915150007.html
+  - https://mbapreprod.edhec.edu/fr/a-propos/entreprendre-a-l-edhec/edhec-entrepreneurs/nos-startups/linkispot
+notesQualification: "Linkispot dispose d'un operateur francais identifiable a Paris, avec une activite logicielle documentee. En revanche, la couche publique reste tres legere sur les mentions legales detaillees, l'hebergement, les sous-traitants et la gouvernance technique. Je garde donc une qualification prudente avec ancrage partiel et niveau de responsabilite faible."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Linkispot

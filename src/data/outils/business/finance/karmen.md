@@ -1,7 +1,8 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-21'
 title: karmen
+type: outil
 author: Diane
 tags:
 - Outils
@@ -11,6 +12,18 @@ description: Karmen offre des solutions de financement sur-mesure pour les entre
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.karmen.io
+u_derniere_maj: '2026-03-21'
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+  - https://www.karmen.io/en/mentions-legales
+  - https://www.karmen.io/privacy-policy
+  - https://www.karmen.io/en/cgu
+notesQualification: "Karmen SAS est publiee comme societe francaise avec siege a Vincennes et immatriculation a Creteil. La politique de confidentialite precise un stockage sur AWS en Union europeenne, mais indique aussi des transferts possibles hors UE via certains sous-traitants. J'en conclus a une qualification francaise forte, avec responsabilite seulement partielle."
+methodologieVersion: gocharbon-v1
 ---
 
 # karmen

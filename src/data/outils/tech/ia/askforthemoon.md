@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Ask for the Moon
 author: Diane
 tags:
   - 'Outils Français'
   - 'IA'
   - 'Tech'
+  - Outils
 description: "Ask for the Moon est la plateforme française d'IA souveraine pour la gestion des connaissances industrielles. Par Clément Dietschy. SIREN 840 592 455. Levée 2,5M€. ISO 27001. Depuis 2018."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

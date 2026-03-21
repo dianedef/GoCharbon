@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Cosmic Data
 author: Diane
 tags:
   - 'Outils Français'
   - 'Social Media'
   - 'Marketing'
+  - Outils
 description: "Cosmic Data est la plateforme française d'audience intelligence et data marketing. Analyse d'audiences sociales, ciblage, insights. Paris. Depuis 2018."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

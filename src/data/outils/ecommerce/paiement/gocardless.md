@@ -1,4 +1,5 @@
 ---
+section: outils
 title: GoCardless
 author: Diane
 tags:

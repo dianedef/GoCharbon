@@ -2,12 +2,13 @@
 
 ## 📋 Table des Matières
 1. [Mission & Positionnement](#mission--positionnement)
-2. [Client Idéal](#client-idéal)
-3. [Ton & Voix](#ton--voix)
-4. [Identité Visuelle](#identité-visuelle)
-5. [Architecture de l'Information](#architecture-de-linformation)
-6. [Copywriting Guidelines](#copywriting-guidelines)
-7. [Valeurs & Engagements](#valeurs--engagements)
+2. [Fondatrice & Pourquoi Ce Projet Existe](#fondatrice--pourquoi-ce-projet-existe)
+3. [Client Idéal](#client-idéal)
+4. [Ton & Voix](#ton--voix)
+5. [Identité Visuelle](#identité-visuelle)
+6. [Architecture de l'Information](#architecture-de-linformation)
+7. [Copywriting Guidelines](#copywriting-guidelines)
+8. [Valeurs & Engagements](#valeurs--engagements)
 
 ---
 
@@ -15,6 +16,16 @@
 
 ### Notre Mission
 Aider les francophones à créer, lancer et développer leur business en ligne, même en partant de zéro. Sans bullshit, sans promesses irréalistes. Juste des stratégies concrètes qui marchent.
+
+### Ce qu'est GoCharbon
+GoCharbon n'est pas un simple blog business. C'est un produit éditorial et pratique qui aide des francophones à passer de "je regarde des contenus" à "je construis quelque chose de réel".
+
+Concrètement, GoCharbon combine :
+1. un angle éditorial clair pour comprendre vite
+2. des parcours pour savoir quoi faire dans le bon ordre
+3. des outils, tutos et plans d'action pour exécuter
+
+Le projet doit toujours être présenté comme un accélérateur de clarté et d'exécution. Pas comme une machine à vendre du rêve.
 
 ### Business Model
 - **Contenu gratuit** : Blog avec guides pratiques, tutoriels, analyses d'outils
@@ -35,6 +46,71 @@ Nous sommes les seuls à combiner :
 4. ✅ Ton cash, direct, anti-bullshit
 5. ✅ Stratégies testées et validées (pas de théorie)
 6. ✅ Parcours d'activation courts avec quiz interactif (6 profils business)
+
+---
+
+## 👩 Fondatrice & Pourquoi Ce Projet Existe
+
+### Qui est derrière GoCharbon
+La fondatrice s'appelle **Diane**.
+
+- Femme française
+- 36 ans
+- Builder dans l'âme
+- Obsédée par les produits utiles, concrets, bien pensés
+
+Diane ne construit pas des projets "pour avoir un projet". Elle aime fabriquer des outils, des systèmes et des contenus qui aident de vraies personnes à avancer plus vite, plus clairement, avec moins de friction.
+
+### Pourquoi Diane construit ce projet
+Le moteur profond n'est pas le bruit, la posture ou le "personal branding" creux. Le moteur, c'est l'impact.
+
+Idée directrice :
+
+> Si chacun utilisait son énergie pour construire la meilleure chose possible, le monde finirait probablement par devenir un peu moins nul et un peu plus utile.
+
+GoCharbon existe pour ça :
+- aider des gens à transformer une envie floue en projet concret
+- aider des indépendants et des petites boîtes à gagner du temps
+- rendre le business en ligne plus compréhensible, plus actionnable, moins opaque
+- prouver qu'on peut être ambitieux sans devenir insupportable
+
+### Ce qu'on doit sentir dans les contenus
+Quand un contenu parle au nom de GoCharbon, on doit sentir :
+- une personne réelle derrière le projet
+- du goût pour les produits bien faits
+- de l'humour sec, léger, jamais forcé
+- une envie sincère d'être utile
+- une intelligence pratique, pas professorale
+
+Le lecteur doit se dire :
+"Ok, quelqu'un a vraiment réfléchi à ce problème et essaie de m'aider pour de vrai."
+
+### Ce qu'il faut éviter
+- Le storytelling de startup fabriqué
+- Le ton "CEO LinkedIn" gonflé à l'ego
+- Les phrases qui sentent l'IA ou le copywriting générique
+- Le mythe de la "mission" racontée comme une pub de levée de fonds
+- Les grandes déclarations grandiloquentes sans preuve terrain
+
+### Formulation de référence
+Quand on a besoin d'expliquer Diane, le projet ou l'intention derrière le site, on peut s'appuyer sur cette base :
+
+> Je m'appelle Diane. Je suis française, j'ai 36 ans, et j'aime construire des choses utiles. Je crée des produits et des contenus parce que je pense qu'un travail bien fait peut vraiment aider des gens et des entreprises. Si on met tous un peu plus d'énergie à bâtir des choses solides, intelligentes et utiles, on finit peut-être avec un monde un peu meilleur. C'est l'idée.
+
+### Personnel / équipe
+Ne pas inventer une "team" corporate si elle n'existe pas.
+
+Aujourd'hui, GoCharbon doit être présenté comme :
+- un projet porté d'abord par Diane
+- avec une logique de studio produit / média / expérimentation
+- potentiellement aidé par des outils, des collaborateurs ponctuels ou de l'IA
+- mais sans faire passer des assistants ou automations pour une équipe humaine complète
+
+Formulation recommandée :
+
+> GoCharbon est un projet indépendant porté par Diane. L'équipe peut s'élargir selon les besoins, mais la vision, le ton, les choix produit et l'exigence éditoriale partent d'elle.
+
+Ce point est important pour tout contenu "about", "bio", "team", "manifesto", "notre histoire", footer, page de vente ou présentation presse.
 
 ---
 
@@ -103,6 +179,8 @@ Imagine un ami entrepreneur expérimenté qui :
 - Exemples concrets et relatable
 - Transparence totale (avouer les limites, les difficultés)
 - Humour léger, auto-dérision
+- Laisser sentir une vraie personnalité féminine française, sans en faire un gimmick
+- Écrire comme une fondatrice qui construit vraiment, pas comme un clone de copywriter
 - Questions rhétoriques pour engager
 - **Strong opinions** assumées
 - Chiffres précis plutôt que vagues
@@ -114,6 +192,8 @@ Imagine un ami entrepreneur expérimenté qui :
 - Phrases trop longues ou complexes
 - Promesses irréalistes ("deviens riche en 30 jours")
 - Ton corporate ou trop professionnel
+- Voix neutre, lisse, interchangeable
+- Blagues forcées ou ton "cool" artificiel
 - Langue de bois
 - Anglicismes non traduits
 - Comparaisons avec les USA sans critique

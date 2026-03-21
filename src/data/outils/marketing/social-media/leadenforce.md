@@ -1,10 +1,12 @@
 ---
+section: outils
 title: LeadEnforce
 author: Diane
 tags:
   - 'Outils Français'
   - 'Social Media'
   - 'Marketing'
+  - Outils
 description: "LeadEnforce est l'outil français de ciblage Facebook Ads par audiences de pages concurrentes. Extraction d'audiences, lookalikes ultra-ciblées. Depuis 2018."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

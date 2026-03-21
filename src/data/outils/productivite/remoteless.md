@@ -1,13 +1,15 @@
 ---
+section: outils
 title: Remoteless
 author: Diane
 tags:
   - 'Outils Français'
   - 'Gestion Projet'
   - 'Productivité'
+  - Outils
 description: "Remoteless est l'outil français de gestion du travail hybride et remote. Planning de présence, flex office, coordination d'équipe. Pour managers hybrides."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://remoteless.io/
 u_origine: "FR"
 u_langue_fr: true

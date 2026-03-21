@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: Callbell
 author: Diane
 tags:
@@ -10,6 +10,22 @@ description: Callbell centralise WhatsApp, Messenger, Instagram et Telegram en u
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.callbell.eu/fr/
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://www.callbell.eu/fr/politique-de-confidentialite/
+- https://www.callbell.eu/fr/securite/
+- https://www.callbell.eu/fr/
+notesQualification: 'Callbell opère via une SAS française à Paris, avec une politique
+  de confidentialité détaillée et des centres de données annoncés sur le territoire
+  de l''UE. L''ancrage économique reste partiel en raison d''une structure opérationnelle
+  internationale et de plusieurs sous-traitants non européens.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # Callbell

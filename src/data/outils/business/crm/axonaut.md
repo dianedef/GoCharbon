@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://axonaut.com/mentions-legales
+- https://axonaut.com/cgv/politiqueconfidentialite.pdf
+- https://axonaut.com/
+notesQualification: Axonaut est edite par Digitica SAS en Haute-Garonne et heberge chez ONLINE SAS en France; l'ancrage economique est fort et la politique de protection des donnees est plus detaillee que la moyenne.
+methodologieVersion: gocharbon-v1
 title: Axonaut
 author: Diane
 tags:

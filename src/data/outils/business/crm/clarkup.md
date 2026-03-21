@@ -1,6 +1,19 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: hors-union-europeenne
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: Canada
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.clarkup.com/
+- https://clarkup.com/contact/
+- https://clarkup.com/politique-de-confidentialite/
+- https://www.clarkup.com/cgv-conditions-generales-de-vente/
+notesQualification: Les pages de confidentialite et de vente identifient VieDeDingue INC comme responsable du traitement avec un siege a Montreal. L'outil reste francophone, mais l'ancrage juridique et contractuel officiel pointe hors Union europeenne; l'hebergement reste insuffisamment documente.
+methodologieVersion: gocharbon-v1
 title: ClarkUp
 author: Diane
 tags:
@@ -11,6 +24,7 @@ description: ClarkUp est un outil français de prospection commerciale tout-en-u
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.clarkup.com
+u_derniere_maj: '2026-03-20'
 ---
 
 # ClarkUp

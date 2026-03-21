@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Silae
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "Silae est le logiciel de paie français #1 pour les experts-comptables. 890K entreprises, 7,5M bulletins/mois. Racheté par Silver Lake. Toulouse."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

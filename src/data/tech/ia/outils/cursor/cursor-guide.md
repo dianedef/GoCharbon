@@ -1,10 +1,11 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: 'Cursor : Guide Complet du Copilote IA'
 author: Diane
 tags:
 - Tech
+- Outils
 description: 'Tout savoir sur Cursor : installation, MCP, raccourcis, astuces et comment
   maximiser sa productivité de développement'
 pubDate: '2024-03-26'

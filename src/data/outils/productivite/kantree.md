@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: Kantree
 author: Diane
 tags:
@@ -10,6 +10,22 @@ description: 'Kantree est un outil français de gestion de projet flexible (SCOP
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://kantree.io/fr
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://kantree.io/fr/mentions-legales
+- https://kantree.io/fr/
+- https://kantree.io/privacy
+notesQualification: 'Kantree est édité par Digicoop, SCOP française basée à Paris.
+  Les sources officielles établissent une gouvernance coopérative locale et un positionnement
+  souverain avec options françaises de déploiement ; le niveau de responsabilité reste
+  partiel, car le mode d''hébergement peut varier selon l''offre choisie.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # Kantree

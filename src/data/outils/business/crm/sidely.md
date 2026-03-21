@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: "France"
+hebergementDonnees: france
+sourcesVerification:
+  - "https://www.go-sidely.com/conditions-dutilisation-sidely"
+  - "https://www.go-sidely.com/politique-de-confidentialite-sidely"
+  - "https://www.go-sidely.com/faq-sidely"
+notesQualification: "Sidely est exploite par une SAS francaise basee a Paris. Le site annonce des serveurs francais et une documentation contractuelle claire, ce qui permet une responsabilite forte, tandis que l'ancrage economique reste partiel par prudence."
 title: Sidely
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "Sidely est le CRM terrain français pour les forces de vente (GMS, CHR, pharmacie). Mobile-first, IA, offline. 180+ clients. 1.6M€ levés. Dès 59€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.go-sidely.com/
 u_origine: "FR"
 u_langue_fr: true
+methodologieVersion: "gocharbon-v1"
 u_derniere_maj: "2026-03-15"
 ---
 

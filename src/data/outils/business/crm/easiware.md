@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.easiware.com/mentions-legales/
+- https://www.easiware.com/contact/
+- https://www.easiware.com/service-client-omnicanal/
+notesQualification: Easiware est une societe francaise basee a Paris, mais ses mentions legales indiquent un hebergement du site chez HubSpot; faute de documentation publique plus precise sur la residence des donnees produit, la qualification d'hebergement reste prudente.
+methodologieVersion: gocharbon-v1
 title: Easiware
 author: Diane
 tags:

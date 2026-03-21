@@ -1,7 +1,7 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
-type: tuto
+type: outil
 statut:
 - en-cours
 _priorité: normal

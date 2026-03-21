@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Beetween
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "Beetween est l'ATS français pour PME et collectivités. Multidiffusion, parsing CV, cooptation, marque employeur. 800+ clients. Bordeaux. Depuis 2015."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

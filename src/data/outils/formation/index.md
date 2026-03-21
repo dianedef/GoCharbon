@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: OUTILS FORMATION FRANÇAIS
 author: Diane

@@ -1,6 +1,19 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+paysFiscal: France
+hebergementDonnees: france
+sourcesVerification:
+- https://karlia.co/mentions-legales/
+- https://karlia.co/politique-confidentialite/
+- https://karlia.co/contact/
+notesQualification: Karlia est edite par une SAS francaise basee a Toulouse, avec TVA francaise et donnees annoncees hebergees et traitees en France. L'ancrage economique et la responsabilite restent notes partiels par prudence, faute de documentation plus detaillee sur la structure et la securite.
+methodologieVersion: gocharbon-v1
 title: Karlia
 author: Diane
 tags:
@@ -10,6 +23,7 @@ description: Karlia est un CRM tout-en-un français pour TPE/PME. Ventes, factur
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://karlia.co
+u_derniere_maj: '2026-03-20'
 ---
 
 # Karlia

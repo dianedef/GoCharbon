@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Incwo
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Incwo est l'ERP/CRM français tout-en-un avec module caisse. 140K+ utilisateurs, certifié NF525. 100% bootstrappé depuis 2007. Dès 9€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

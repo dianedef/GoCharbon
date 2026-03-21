@@ -1,10 +1,12 @@
 ---
+section: outils
 title: CleverAds
 author: Diane
 tags:
   - 'Outils Français'
   - 'SEO'
   - 'Marketing'
+  - Outils
 description: "CleverAds est la plateforme française de gestion et optimisation Google Ads. Automatisation des enchères, reporting, audit. PME et agences. Depuis 2018."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

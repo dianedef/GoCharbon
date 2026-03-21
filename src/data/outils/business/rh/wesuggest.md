@@ -1,10 +1,12 @@
 ---
+section: outils
 title: WeSuggest
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "WeSuggest est la plateforme française d'évaluation de soft skills pour le recrutement. Tests scientifiques en 12 min. Matching IA. Depuis 2020."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

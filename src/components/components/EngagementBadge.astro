@@ -1,0 +1,97 @@
+---
+import type { EngagementBadge as EngagementBadgeData } from "../../utils/tool-qualification";
+
+interface Props {
+  badge: EngagementBadgeData;
+  compact?: boolean;
+}
+
+const { badge, compact = false } = Astro.props;
+---
+
+<div class:list={["engagement-badge", `engagement-badge--${badge.tone}`, compact && "engagement-badge--compact"]}>
+  <span class="engagement-badge__eyebrow">Badge GoCharbon</span>
+  <strong class="engagement-badge__title">{compact ? badge.shortLabel : badge.label}</strong>
+  <span class="engagement-badge__score">Score {badge.score}/{badge.maxScore}</span>
+</div>
+
+<style>
+  .engagement-badge {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 0.12rem;
+    padding: 0.45rem 0.65rem;
+    border: 2px solid var(--brand-black);
+    box-shadow: 3px 3px 0 var(--brand-black);
+    font-family: "Poppins", sans-serif;
+    background: #fff7df;
+    color: var(--brand-black);
+  }
+
+  .engagement-badge--compact {
+    min-width: 0;
+  }
+
+  .engagement-badge--fort {
+    background: linear-gradient(135deg, #fff1a8 0%, #f6c700 100%);
+  }
+
+  .engagement-badge--solide {
+    background: linear-gradient(135deg, #ffeab5 0%, #ffcf6d 100%);
+  }
+
+  .engagement-badge--modere {
+    background: linear-gradient(135deg, #fff3d9 0%, #ffd6a6 100%);
+  }
+
+  .engagement-badge--faible {
+    background: linear-gradient(135deg, #fff 0%, #e5ddd0 100%);
+  }
+
+  .engagement-badge--pending {
+    background: linear-gradient(135deg, #fff 0%, #d9e1e8 100%);
+  }
+
+  :global(.dark) .engagement-badge {
+    border-color: var(--brand-cream);
+    box-shadow: 3px 3px 0 var(--brand-cream);
+    color: var(--brand-cream);
+    background: #151515;
+  }
+
+  :global(.dark) .engagement-badge--fort {
+    background: linear-gradient(135deg, #6f5600 0%, #3d2d00 100%);
+  }
+
+  :global(.dark) .engagement-badge--solide {
+    background: linear-gradient(135deg, #5f4420 0%, #2c2116 100%);
+  }
+
+  :global(.dark) .engagement-badge--modere {
+    background: linear-gradient(135deg, #45372b 0%, #201913 100%);
+  }
+
+  :global(.dark) .engagement-badge--faible,
+  :global(.dark) .engagement-badge--pending {
+    background: linear-gradient(135deg, #222 0%, #111 100%);
+  }
+
+  .engagement-badge__eyebrow {
+    font-size: 0.65rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    opacity: 0.75;
+  }
+
+  .engagement-badge__title {
+    font-size: 0.9rem;
+    line-height: 1.15;
+  }
+
+  .engagement-badge__score {
+    font-size: 0.72rem;
+    font-weight: 700;
+    opacity: 0.8;
+  }
+</style>

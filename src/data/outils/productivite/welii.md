@@ -1,17 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Welii
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Gestion Projet'
   - 'Productivité'
+  - Outils
 description: "Welii est la plateforme française de gestion du workplace et de l'environnement de travail. Gestion des bureaux, espaces, services aux occupants."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://welii.io/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: faible
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://welii.io/
+  - https://www.pappers.fr/entreprise/welii-894238070
+notesQualification: "Welii presente un ancrage operateur francais documente via son site public et son immatriculation a Paris. En revanche, je n'ai pas trouve de couche officielle exploitable sur l'hebergement, les sous-traitants ou la gouvernance technique. La qualification reste donc prudente, avec ancrage economique partiel et niveau de responsabilite faible."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Welii

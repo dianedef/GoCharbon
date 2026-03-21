@@ -1,13 +1,15 @@
 ---
+section: outils
 title: Qlip
 author: Diane
 tags:
   - 'Outils Français'
   - 'Vidéo'
   - 'Création'
+  - Outils
 description: "Qlip est l'outil français de clipping vidéo IA. Par Svend Court-Payen + Pamela Carvallo. QLIP AI SAS. SIREN 902 013 838. Levée $1,67M. Vidéos courtes en 1 clic."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://qlip.ai/
 u_origine: "FR"
 u_langue_fr: true

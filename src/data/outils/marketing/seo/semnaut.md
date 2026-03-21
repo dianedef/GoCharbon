@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Semnaut
 author: Diane
 tags:
   - 'Outils Français'
   - 'SEO'
   - 'Marketing'
+  - Outils
 description: "Semnaut est l'outil français d'audit SEO et de gestion de projets SEO. Crawl, reporting, suivi. Co-fondé par Baptiste Rebut et Jacky Giang. Depuis 2022."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

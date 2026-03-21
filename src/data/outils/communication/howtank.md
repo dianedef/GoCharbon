@@ -1,16 +1,30 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Howtank
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "Howtank est la plateforme française de support communautaire. Entraide client peer-to-peer en temps réel sur ton site. Réduit les tickets support."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.howtank.com/
 u_origine: "FR"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: faible
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://howtank.com/
+  - https://www.pappers.fr/entreprise/howtank-754013365
+notesQualification: "Howtank est une société française, mais le service a cessé au 31 mars 2025 selon le site officiel. En l'absence de documentation technique exploitable encore publiée et compte tenu de l'arrêt du service, la qualification reste volontairement prudente."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Howtank

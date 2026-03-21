@@ -1,10 +1,12 @@
 ---
+section: outils
 title: EBP Caisse
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "EBP Point de Vente est le logiciel de caisse du géant français EBP (Cegid). 275K utilisateurs. Compta, paie, gestion intégrés. Dès 36€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,9 +1,9 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 statut:
 - backlog
-type: []
+type: outil
 title: Harpa
 author: Diane
 tags:

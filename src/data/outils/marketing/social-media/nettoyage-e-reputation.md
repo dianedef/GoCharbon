@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Nettoyage E-Réputation
 author: Diane
 tags:
   - 'Outils Français'
   - 'Social Media'
   - 'Marketing'
+  - Outils
 description: "Nettoyage E-Réputation est le service français de nettoyage et protection de la réputation en ligne. Suppression de contenus négatifs, droit à l'oubli."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -134,9 +134,9 @@ def audit_file(file_path: Path) -> AuditResult:
         issues.append("pubDate invalide (format ISO attendu)")
 
     section = fm.get("section")
-    if section != "apps":
+    if section != "outils":
         score -= 5
-        warnings.append("section devrait être 'apps'")
+        warnings.append("section devrait être 'outils'")
 
     tags = fm.get("tags")
     normalized_tags: list[str] = []

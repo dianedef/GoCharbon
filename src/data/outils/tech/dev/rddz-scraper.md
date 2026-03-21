@@ -1,10 +1,12 @@
 ---
+section: outils
 title: RDDZ Scraper
 author: Diane
 tags:
   - 'Outils Français'
   - 'Dev'
   - 'Tech'
+  - Outils
 description: "RDDZ Scraper est le logiciel français de web scraping desktop. Scraping XPath multi-thread, proxies, Google/Bing/Amazon. Pour SEO, domaining, prospection."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Article GoCharbon"
+  short_description: "Crée un article GoCharbon depuis une recherche"
+  default_prompt: "Use $gocharbon-article-research to turn our research or conclusions into a GoCharbon article in the repo, without running a build at the end."

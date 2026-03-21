@@ -1,12 +1,14 @@
 ---
+section: outils
 title: Cards Micro-Learning
 author: Diane
 tags:
   - 'Outils Français'
   - 'Formation'
+  - Outils
 description: "Cards est la plateforme française de micro-learning mobile pour les entreprises. Formation en capsules courtes sur smartphone. Engagement collaborateurs."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.cards.co/
 u_origine: "FR"
 u_langue_fr: true

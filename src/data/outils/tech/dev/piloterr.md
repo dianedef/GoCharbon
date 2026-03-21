@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Piloterr
 author: Diane
 tags:
   - 'Outils Français'
   - 'Dev'
   - 'Tech'
+  - Outils
 description: "Piloterr est l'API française de web scraping et d'extraction de données. LinkedIn, Google Maps, sites web. API simple pour développeurs et growth hackers."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

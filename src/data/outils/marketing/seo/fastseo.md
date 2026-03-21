@@ -1,10 +1,12 @@
 ---
+section: outils
 title: FastSEO
 author: Diane
 tags:
   - 'Outils Français'
   - 'SEO'
   - 'Marketing'
+  - Outils
 description: "FastSEO est l'outil français d'audit SEO et de priorisation des quick wins. Connecté à GSC et GA. Fondé par Camille Toger. Depuis ~2022."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

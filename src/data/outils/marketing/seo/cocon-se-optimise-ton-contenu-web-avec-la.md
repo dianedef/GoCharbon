@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: Cocon.se, Optimise Ton Contenu Web avec la Sémantique
 author: Diane

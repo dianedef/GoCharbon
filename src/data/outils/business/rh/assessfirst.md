@@ -1,10 +1,12 @@
 ---
+section: outils
 title: AssessFirst
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "AssessFirst est la plateforme française de recrutement prédictif par IA. Tests de personnalité, motivations, aptitudes. 3500+ clients. Paris. Depuis 2002."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,10 +1,12 @@
 ---
+section: outils
 title: WP Search Console
 author: Diane
 tags:
   - 'Outils Français'
   - 'SEO'
   - 'Marketing'
+  - Outils
 description: "WP Search Console est un plugin WordPress qui affiche les données Google Search Console dans ton dashboard WordPress. ⚠️ Site possiblement inactif (2026)."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

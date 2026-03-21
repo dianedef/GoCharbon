@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.cirrus-shield.fr/mentions-legales/
+- https://www.cirrus-shield.fr/securite/
+- https://www.cirrus-shield.fr/crm-contact/
+notesQualification: Cirrus Shield est edite par la societe francaise Aliston et documente une localisation des donnees et serveurs en France; le dossier public reste correct mais pas encore assez detaille pour un niveau de responsabilite superieur.
+methodologieVersion: gocharbon-v1
 title: Cirrus Shield
 author: Diane
 tags:

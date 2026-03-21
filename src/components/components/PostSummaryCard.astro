@@ -3,8 +3,10 @@ import type { PostSummaryCardProps } from "../../utils/types/content";
 import Card from "./Card.astro";
 import Button from "./Button.astro";
 import Pill from "./Pill.astro";
+import EngagementBadge from "./EngagementBadge.astro";
 import { Image } from "astro:assets";
 import { extractMainTags, getMainTagLabel } from "../../utils/tag-groups";
+import { computeEngagementBadge } from "../../utils/tool-qualification";
 
 type Props = PostSummaryCardProps;
 
@@ -12,6 +14,22 @@ const { post, index = 0 } = Astro.props;
 const { data } = post;
 const isInitialLoad = index < 2;
 const mainTags = extractMainTags(data.tags);
+const isToolPost = data.section === "outils";
+const engagementBadge = isToolPost
+	? computeEngagementBadge({
+		qualificationLocale: data.qualificationLocale,
+		ancrageEconomique: data.ancrageEconomique,
+		niveauResponsabilite: data.niveauResponsabilite,
+		paysSiege: data.paysSiege,
+		paysFiscal: data.paysFiscal,
+		paysFondateurs: data.paysFondateurs,
+		hebergementDonnees: data.hebergementDonnees,
+		societeMere: data.societeMere,
+		sourcesVerification: data.sourcesVerification,
+		notesQualification: data.notesQualification,
+		methodologieVersion: data.methodologieVersion,
+	  })
+	: null;
 /* 
 console.log("PostSummaryCard reçoit:", {
 	postId: post.id,
@@ -83,6 +101,11 @@ const buttonColor = 'var(--brand-copper)';
 			<p class="post-description poppins text-xl md:text-2xl leading-relaxed">
 				{data.description}
 			</p>
+			{engagementBadge && (
+				<div class="my-4">
+					<EngagementBadge badge={engagementBadge} compact />
+				</div>
+			)}
 
 			<div class="flex justify-end my-4">
 				<div

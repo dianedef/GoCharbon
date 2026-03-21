@@ -1,12 +1,14 @@
 ---
+section: outils
 title: Reetags
 author: Diane
 tags:
   - 'Outils Français'
   - 'E-commerce'
+  - Outils
 description: "Reetags est la plateforme française de live shopping et social commerce par Momen Ferrah (BAO, SIREN 803 286 699). Clients : L'Oréal, YSL, Clarins. ⚠️ Difficultés financières."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://reetags.com/
 u_origine: "FR"
 u_langue_fr: true

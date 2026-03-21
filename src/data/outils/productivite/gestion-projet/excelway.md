@@ -1,17 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Excelway
 author: Diane
 tags:
   - 'Outils Français'
   - 'Gestion Projet'
   - 'Productivité'
+  - Outils
 description: "Excelway est l'outil français de gestion de projet visuelle. Kanban, Gantt, tableur collaboratif. Alternative française à Trello et Monday. RGPD."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://excelway.co/
 u_origine: "FR"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
+type: outil
+qualificationLocale: hors-union-europeenne
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: Maroc
+hebergementDonnees: france
+sourcesVerification:
+  - https://excelway.co/terms-of-service/
+  - https://excelway.co/fr/
+notesQualification: "Les conditions d'utilisation identifient Bsuccess SARLAU à Casablanca comme société opératrice d'ExcelWay. Le service annonce un hébergement AWS à Paris, mais la gouvernance est hors UE ; la qualification est donc prudente."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Excelway

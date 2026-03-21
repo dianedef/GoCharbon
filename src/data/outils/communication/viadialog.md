@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: ViaDialog
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "ViaDialog est la plateforme française de centre de contact cloud omnicanal. Téléphonie, email, chat, IA intégrée. Par Jean-David Benichou. SIREN 752 556 126. Depuis 2005."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.viadialog.com/
 u_origine: "FR"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+  - https://www.viadialog.com/mentions-legales/
+  - https://www.viadialog.com/
+  - https://www.viadialog.com/viasay/
+notesQualification: "ViaDialog est une SAS française basée à Paris. Les sources officielles documentent une technologie propriétaire, un hébergement en France, l'absence de transfert hors UE et une conformité RGPD / ISO 22301, ce qui justifie une qualification forte."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # ViaDialog

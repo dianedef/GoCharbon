@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.kriptown.com/
+- https://www.kriptown.com/about-us
+- https://www.kriptown.com/shop
+notesQualification: Kriptown est une SAS francaise basee a Paris et regulee par l'AMF; l'ancrage local et institutionnel est fort, mais l'hebergement detaille n'est pas documente publiquement avec assez de precision.
+methodologieVersion: gocharbon-v1
 title: Kriptown
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Kriptown est la néo-bourse française pour startups et PME. Tokenisation, equity crowdfunding, introduction en bourse. BNP Paribas + Bpifrance investisseurs."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

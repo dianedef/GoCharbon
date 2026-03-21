@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: Teachizy, Création de Formations Simplifiée et Personnalisée
 author: Diane

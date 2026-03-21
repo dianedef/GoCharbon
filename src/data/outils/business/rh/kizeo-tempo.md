@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Kizeo Tempo
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "Kizeo Tempo est la pointeuse mobile française pour équipes terrain. Géolocalisation, projets, export paie. Filiale de Kizeo (2011). Avignon."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

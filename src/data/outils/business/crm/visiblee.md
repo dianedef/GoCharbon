@@ -1,16 +1,32 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: "France"
+paysFiscal: "France"
+hebergementDonnees: france
+societeMere: "Altares - D&B"
+sourcesVerification:
+  - "https://www.visiblee.io/politique-de-confidentialite/"
+  - "https://www.visiblee.io/"
+notesQualification: "Visiblee est desormais porte par Altares - D&B, groupe francais integre a l'ecosysteme Dun & Bradstreet. Le siege et l'hebergement du site sont documentes en France, mais l'adossement a un groupe international justifie un ancrage economique note faible."
 title: Visiblee
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "Visiblee (by Altares D&B) identifie les visiteurs anonymes de ton site web et génère des leads B2B. IA prédictive, scoring. Racheté par Altares en 2021."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.visiblee.io/
 u_origine: "FR"
 u_langue_fr: true
+methodologieVersion: "gocharbon-v1"
 u_derniere_maj: "2026-03-15"
 ---
 

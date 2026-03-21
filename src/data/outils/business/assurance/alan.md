@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-16'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://alan.com/legal-notice
+- https://alan.com/privacy
+notesQualification: Societe francaise basee a Paris, mais les pages legales consultees ne documentent pas un hebergement principal suffisamment precis pour aller au-dela de partiel.
+methodologieVersion: gocharbon-v1
 title: Alan
 author: Diane
 tags:

@@ -1,6 +1,19 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+paysFiscal: France
+hebergementDonnees: france
+sourcesVerification:
+- https://go.incwo.com/termes-dutilisation-incwo/
+- https://go.incwo.com/securite-confidentialite-garanties/
+- https://go.incwo.com/knowledge-base/comment-renseigner-les-mentions-legales-de-mon-entreprise/
+notesQualification: incwo est edite par entreprise-facile SAS a Paris avec une infrastructure serveurs annoncee en France. Le dossier officiel est suffisamment documente pour une qualification francaise forte et un niveau de responsabilite fort.
+methodologieVersion: gocharbon-v1
 title: Incwo
 author: Diane
 tags:
@@ -11,6 +24,7 @@ description: Incwo est un ERP/CRM français modulaire pour TPE-PME. Facturation 
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.incwo.com
+u_derniere_maj: '2026-03-20'
 ---
 
 # Incwo

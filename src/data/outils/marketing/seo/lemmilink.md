@@ -1,10 +1,12 @@
 ---
+section: outils
 title: LemmiLink
 author: Diane
 tags:
   - 'Outils Français'
   - 'SEO'
   - 'Marketing'
+  - Outils
 description: "LemmiLink est la plateforme française de netlinking et d'achat de liens SEO. Marketplace d'articles sponsorisés, backlinks thématiques. Par Sofiane Boumedine."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

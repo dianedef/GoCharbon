@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.wemind.io/legal
+- https://www.wemind.io/
+- https://www.wemind.io/confidentialite
+notesQualification: Wemind est une SAS francaise basee a Paris, inscrite a l'ORIAS, et ses mentions legales annoncent un hebergement chez Gandi a Paris; le dossier public reste toutefois moins detaille sur les briques assurantielles sous-jacentes.
+methodologieVersion: gocharbon-v1
 title: Wemind
 author: Diane
 tags:
   - 'Outils Français'
   - 'Admin'
   - 'Business'
+  - Outils
 description: "Wemind est la néo-assurance française pour freelances et indépendants. Mutuelle, prévoyance, RC Pro, retraite. Tout-en-un pour les travailleurs indépendants."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

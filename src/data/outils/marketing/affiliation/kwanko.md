@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Kwanko
 author: Diane
 tags:
   - 'Outils Français'
   - 'Affiliation'
   - 'Marketing'
+  - Outils
 description: "Kwanko est la plateforme française de marketing à la performance et affiliation. 150K+ éditeurs, 1000+ clients/an. 42M€ CA. 130 employés. Depuis 2002."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

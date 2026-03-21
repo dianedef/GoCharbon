@@ -1,13 +1,15 @@
 ---
+section: outils
 title: WiziShop
 author: Diane
 tags:
   - 'Outils Français'
   - 'CMS'
   - 'E-commerce'
+  - Outils
 description: "WiziShop est la plateforme e-commerce française tout-en-un. Création de boutique, SEO intégré, IA pour fiches produit. +400 fonctionnalités. ⚠️ Redressement judiciaire (nov. 2025)."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.wizishop.fr/
 u_origine: "FR"
 u_langue_fr: true

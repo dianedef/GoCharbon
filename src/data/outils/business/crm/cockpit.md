@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://getcockpit.io/legal/mentions-legales
+- https://getcockpit.io/fr/trust/gdpr
+- https://getcockpit.io/fr/trust/safety
+notesQualification: Cockpit est edite par la SAS francaise UseAlto a Colombes; les contenus trust indiquent des serveurs securises en France et en Europe, avec toutefois des briques web et certains sous-traitants hors de France.
+methodologieVersion: gocharbon-v1
 title: Cockpit
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "Cockpit est la plateforme française d'intelligence conversationnelle et sales enablement. IA Coach, CRM auto-fill, 125+ langues. 2.1M$ CA. 1M€ levés."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

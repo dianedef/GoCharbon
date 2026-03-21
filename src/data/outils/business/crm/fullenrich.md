@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: hors-union-europeenne
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: Etats-Unis
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://fullenrich.com/privacy-policy
+- https://fullenrich.com/trust
+- https://fullenrich.com/
+notesQualification: Malgre des fondateurs francophones et une communication forte en Europe, FullEnrich est opere par FullEnrich Corp a San Francisco; la politique de confidentialite documente en outre des transferts hors UE, notamment vers les Etats-Unis.
+methodologieVersion: gocharbon-v1
 title: FullEnrich
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "FullEnrich est la plateforme d'enrichissement B2B waterfall. 20+ sources, 80%+ match rate, 4.8/5 G2. Fondée par un ex-forces spéciales. Dès 29€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

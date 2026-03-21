@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Global POS
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Global POS est le spécialiste français des titres dématérialisés et cartes cadeaux pour le retail. 3000+ clients. Acquis par Constellation Software."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

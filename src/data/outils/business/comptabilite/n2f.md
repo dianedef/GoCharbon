@@ -1,10 +1,26 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.n2f.com/fr/mentions-legales/
+- https://www.n2f.com/fr/politique-de-confidentialite/
+- https://www.n2f.com/fr/certifications/
+- https://www.n2f.com/fr/fonctionnalites/
+notesQualification: N2F est exploite par N2JSOFT a Montagnat; les sources publiques documentent un hebergement en France, une certification ISO 27001 et un archivage conforme, ce qui en fait un dossier local et responsable solide.
+methodologieVersion: gocharbon-v1
 title: N2F
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "N2F est le logiciel de notes de frais n°1 en France. 10 000 clients dans 86 pays, OCR intelligent, 300+ intégrations comptables. Dès 5,10€/mois."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

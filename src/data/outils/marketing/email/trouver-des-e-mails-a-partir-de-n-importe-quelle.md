@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: Trouver des e-mails à partir de n'importe quelle pagesur LinkedIn
 author: Diane

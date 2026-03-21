@@ -1,12 +1,14 @@
 ---
+section: outils
 title: GrAIg
 author: Diane
 tags:
   - 'Outils Français'
   - 'Formation'
+  - Outils
 description: "GrAIg est l'outil français d'IA pour la formation professionnelle. Génération de contenus pédagogiques, quiz et parcours par IA. Pour formateurs et OF."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://graig.ai/
 u_origine: "FR"
 u_langue_fr: true

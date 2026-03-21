@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: "France"
+hebergementDonnees: inconnu
+sourcesVerification:
+  - "https://www.leobizdev.ai/cgvu"
+  - "https://www.leobizdev.ai/fr-fr"
+  - "https://help.leobizdev.ai/fr/articles/10050928-creez-votre-compte-leo-bizdev"
+notesQualification: "Le produit actuel associe a Neodeal est rattache a SalesTech, SAS francaise basee a Levallois-Perret. Le rattachement local est defendable, mais l'hebergement et la documentation de securite restent insuffisamment explicites pour aller au-dela d'une responsabilite partielle."
 title: Neodeal
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "Neodeal est l'outil français de prospection LinkedIn automatisée. Campagnes, A/B testing, enrichissement Dropcontact. Devenu LEO Bizdev (IA). Dès 59€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://neodeal.fr/
 u_origine: "FR"
 u_langue_fr: true
+methodologieVersion: "gocharbon-v1"
 u_derniere_maj: "2026-03-15"
 ---
 

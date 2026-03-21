@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 _notes: null
 _priorité: null
@@ -8,7 +8,7 @@ seo_datePublié: null
 seo_motClef: null
 tags:
 - Outils
-type: null
+type: outil
 url_lienExterne: null
 url_lienInterne: null
 title: Ego Masculin

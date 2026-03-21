@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 tags:
 - Outils
 imageNameKey: klaxoon
@@ -13,6 +13,23 @@ description: 'Klaxoon : plateforme collaborative française (Rennes). Tableau bl
   quiz, brainstorming. 7 500+ entreprises clientes. Acquise par Wrike en 2025.'
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
+type: outil
+qualificationLocale: hors-union-europeenne
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: États-Unis
+hebergementDonnees: multi-region
+societeMere: Wrike
+sourcesVerification:
+- https://klaxoon.com/fr/politique-de-confidentialite
+- https://klaxoon.com/communaute/une-nouvelle-ere-la-plateforme-de-gestion-du-travail-intelligente-wrike-conclut-un-accord-pour-acquerir-klaxoon
+- https://klaxoon.com/fr
+notesQualification: 'Klaxoon conserve une implantation historique en France, mais
+  la gouvernance contractuelle et la politique de confidentialité relèvent désormais
+  de Wrike, groupe américain. En lecture conservative, la qualification locale bascule
+  hors UE et l''ancrage économique devient faible.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # Klaxoon

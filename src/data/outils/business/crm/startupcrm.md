@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://startupcrm.fr/mentions-legales
+- https://startupcrm.fr/contactez-nous
+- https://startupcrm.fr/login
+notesQualification: StartupCRM est rattache a une SAS francaise domiciliee a Puteaux. Les pages publiques documentent bien le siege, mais restent trop maigres sur l'architecture, la securite et l'hebergement de la solution pour aller au-dela d'une qualification prudente.
+methodologieVersion: gocharbon-v1
 title: StartupCRM
 author: Diane
 tags:
@@ -11,6 +23,7 @@ description: 'StartupCRM est un CRM français tout-en-un pour TPE/PME. Pilotage 
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://startupcrm.fr
+u_derniere_maj: '2026-03-20'
 ---
 
 # StartupCRM

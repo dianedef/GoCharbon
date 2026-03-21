@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: Beesbusy
 author: Diane
 tags:
@@ -11,6 +11,21 @@ description: Beesbusy est un logiciel français de gestion de projet collaborati
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.beesbusy.com/
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.beesbusy.com/mentions-legales/
+- https://www.beesbusy.com/
+notesQualification: 'Beesbusy est une SAS française basée à Nantes. Les sources officielles
+  indiquent un positionnement d''hébergement en France et une gouvernance locale cohérente,
+  mais la documentation technique mobilisable publiquement reste moins détaillée que
+  chez les acteurs les plus matures de la vague.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # Beesbusy

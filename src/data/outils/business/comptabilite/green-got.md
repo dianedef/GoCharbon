@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://green-got.com/mentions-legales
+- https://green-got.com/
+- https://faq.green-got.com/%C3%A0-propos-de-green-got/sF7ajAaCZDytPVFBLqsggN/nos-partenaires-/j3Ds1iBSMPJR6F2yDe58wa
+notesQualification: Green-Got est exploite par Domino SAS en France et affiche publiquement une ligne a impact tres explicite; l'offre repose toutefois sur des partenaires de paiement externes et la documentation publique ne detaille pas un hebergement de donnees suffisamment precis.
+methodologieVersion: gocharbon-v1
 tags:
 - Outils
 imageNameKey: green-got

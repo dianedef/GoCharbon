@@ -1,10 +1,12 @@
 ---
+section: outils
 title: WeWeb
 author: Diane
 tags:
   - 'Outils Français'
   - 'Dev'
   - 'Tech'
+  - Outils
 description: "WeWeb est le builder français de web apps no-code. Frontend visuel connecté à Supabase, Xano, API. Alternative française à Bubble et Webflow."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.klixi.io/fr
+- https://www.klixi.io/fr/a-propos-klixi
+notesQualification: Klixi affiche un ancrage parisien clair et une histoire d'entreprise demarree en France depuis 2012, mais les informations publiques accessibles ne suffisent pas encore pour documenter finement l'hebergement ou la structure capitalistique.
+methodologieVersion: gocharbon-v1
 title: Klixi
 author: Diane
 tags:
   - 'Outils Français'
   - 'Admin'
   - 'Business'
+  - Outils
 description: "Klixi est la plateforme française de gestion et digitalisation pour commerces de proximité. Site web, click & collect, avis, fidélité. Tout-en-un local."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

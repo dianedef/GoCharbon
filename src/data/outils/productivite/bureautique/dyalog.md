@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: DYALOG
 author: Diane
 tags:
@@ -10,6 +10,22 @@ description: DYALOG est la suite française de gestion de parc d'impression. Inf
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.mydyalog.com
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+societeMere: ARMOR
+sourcesVerification:
+- https://www.mydyalog.com/mentions-legales-dyalog
+- https://www.mydyalog.com/
+notesQualification: 'DYALOG est opéré par ARMOR SAS, groupe industriel français
+  basé à Nantes. La structure juridique et l''ancrage économique sont clairement français,
+  mais l''hébergement et les garanties techniques détaillées du service ne sont pas
+  documentés publiquement avec assez de précision pour dépasser un niveau partiel.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # DYALOG

@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://www.blank.app/mentions-legales
+- https://www.blank.app/
+notesQualification: Blank est une societe francaise immatriculee a Paris et rattachee a l'ecosysteme Credit Agricole; l'application est hebergee chez AWS Luxembourg et le service repose aussi sur des partenaires regules comme OKALI.
+methodologieVersion: gocharbon-v1
 title: Blank
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Blank est la néobanque pro du Crédit Agricole pour indépendants et TPE. Facturation, assurance, dépôt de capital. Noté 4.7/5. Dès 7€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

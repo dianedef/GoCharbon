@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: indetermine
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.fizen.fr/mentions-legales/
+- https://www.fizen.fr/politique-de-confidentialite/
+- https://www.fizen.fr/accueil/
+notesQualification: Fizen est une societe francaise basee a Saint-Herblain et developpee dans l'orbite Amarris; les mentions legales documentent un hebergement francais pour le site, mais la politique publique reste moins precise sur l'infrastructure applicative complete.
+methodologieVersion: gocharbon-v1
 title: Fizen
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Fizen est le logiciel de facturation et comptabilité du groupe Amarris pour indépendants. App mobile FizenGo. 4 000+ clients. Dès 19€/mois."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

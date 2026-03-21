@@ -1,10 +1,26 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+societeMere: Ulule SAS
+sourcesVerification:
+- https://www.kisskissbankbank.com/fr/pages/legal
+- https://www.kisskissbankbank.com/fr/pages/privacy
+- https://www.kisskissbankbank.com/
+notesQualification: KissKissBankBank reste un service tres ancre en France mais il est aujourd'hui exploite dans le cadre Ulule; la ligne d'impact citoyen est publique, tandis que la documentation accessible ne permet pas de qualifier finement l'hebergement.
+methodologieVersion: gocharbon-v1
 title: KissKissBankBank
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "KissKissBankBank est le pionnier du crowdfunding en France (La Banque Postale). 29 000+ projets financés, 3M+ de contributeurs. Fusionné avec Ulule 2024."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

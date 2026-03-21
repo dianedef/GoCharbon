@@ -1,6 +1,7 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
 tags:
 - Outils
 imageNameKey: glowbl
@@ -13,6 +14,18 @@ description: 'Découvre Glowbl : outil français pour entrepreneurs, fonctionnal
   et avis.'
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
+u_derniere_maj: '2026-03-20'
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: multi-region
+sourcesVerification:
+  - https://www.glowbl.com/fr/mentions-legales/
+  - https://www.glowbl.com/fr/politique-de-confidentialite/
+  - https://www.glowbl.com/
+notesQualification: 'Glowbl est exploite par GLOWBL SAS a Lyon. Les mentions legales et le site public documentent une societe francaise et un service presente comme heberge en France, mais les mentions legales indiquent aussi un hebergement web sur AWS aux Etats-Unis. Je retiens donc un ancrage economique fort avec un niveau de responsabilite partiel a cause de ce perimetre technique non entierement francais.'
+methodologieVersion: gocharbon-v1
 ---
 
 # Ressources

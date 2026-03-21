@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: Chrome A Tué Ublock Origin Et Adblock
 author: Diane

@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: Witik
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Legal'
   - 'Business'
+  - Outils
 description: "Witik est la plateforme française de conformité RGPD et Sapin 2. Registres, audits, PIA, droits des personnes, cookies. Plan gratuit. Dès 240€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,17 @@ u_site: https://www.witik.io/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+  - https://www.witik.io/mentions-legales/
+  - https://www.witik.io/politique-de-protection-des-donnees/
+  - https://www.witik.io/
+notesQualification: "Witik est une SAS francaise basee a Paris. Les pages officielles documentent une plateforme souveraine, avec hebergement des donnees en France, absence de transfert hors UE et communications repetes sur la certification ISO 27001/HDS. Malgre un site vitrine heberge par Netlify, le faisceau de preuves permet une qualification forte pour la solution."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Witik

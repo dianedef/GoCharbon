@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: ClicTreso
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "ClicTreso était un logiciel de gestion de trésorerie pour associations. ⚠️ SAS liquidée en février 2026. Service arrêté."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,17 @@ u_site: https://www.clictreso.fr/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-14"
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+  - https://clictreso.fr/mentions-legales
+  - https://clictreso.fr/
+  - https://www.pappers.fr/entreprise/clictreso-928964139
+notesQualification: "ClicTréso est rattache a une SAS francaise a Villeurbanne, et la mention legale officielle indique un hebergement O2Switch en France avec une politique de donnees detaillee. En revanche, la société est en liquidation et le service est arrete, ce qui empêche de qualifier l'ancrage économique de fort. Je garde donc un ancrage partiel mais une responsabilite forte sur le plan documentaire."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # ClicTreso

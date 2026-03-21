@@ -192,7 +192,6 @@ export const tagHierarchy: TagHierarchy = {
       outils: {
         label: 'Outils',
         subtags: {
-          'Apps': { label: 'Applications' },
           'IA': { label: 'Intelligence Artificielle' },
           'Scraping': { label: 'Scraping' },
           'Audio': { label: 'Audio' },

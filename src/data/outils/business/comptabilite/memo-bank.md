@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://memo.bank/mentions-legales/
+- https://memo.bank/contact/
+notesQualification: Memo Bank est une banque francaise agreee basee a Paris; les mentions legales documentent explicitement un hebergement AWS Luxembourg et Microsoft France, avec un cadre reglementaire bancaire fort.
+methodologieVersion: gocharbon-v1
 title: Memo Bank
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Memo Bank est la banque d'entreprise nouvelle génération pour PME. Agrément bancaire, crédit, API-first, chargé d'affaires dédié. Dès 49€/mois. Paris."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Fiche-Paie.net
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "Fiche-Paie.net est le service de paie en ligne français pour TPE. Bulletins conformes par des gestionnaires experts. Dès 24€/bulletin. Depuis 2014."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-16'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.papernest.com/mentions-legales/
+- https://www.papernest.com/donnees-personnelles/
+notesQualification: SAS francaise basee a Paris, mais l'hebergement n'est pas documente explicitement dans les pages legales consultees.
+methodologieVersion: gocharbon-v1
 title: papernest
 author: Diane
 tags:

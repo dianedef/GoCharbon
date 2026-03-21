@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.bizyness.fr/
+- https://www.bizyness.fr/cgv
+- https://www.bizyness.fr/contact
+notesQualification: Bizyness est edite par Le Pissenlit Bleu EURL, societe francaise basee a Paris; le produit revendique un developpement en Haute-Savoie et un fort ancrage local, mais l'hebergement detaille n'est pas expose publiquement dans les sources consultees.
+methodologieVersion: gocharbon-v1
 title: Bizyness
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Bizyness est l'outil de facturation et comptabilité pour auto-entrepreneurs et e-commerçants. Sync Shopify/WooCommerce, TVA OSS/IOSS. 4.9/5 Trustpilot. Gratuit."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

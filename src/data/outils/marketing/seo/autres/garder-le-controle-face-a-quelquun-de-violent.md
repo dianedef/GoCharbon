@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 _notes: null
 _priorité: null
@@ -8,7 +8,7 @@ datePublié: null
 seo_motClef: null
 tags:
 - Outils
-type: null
+type: outil
 u_externe: null
 u_interne: null
 title: Garder Le Contrôle Face À Quelqu'Un De Violent

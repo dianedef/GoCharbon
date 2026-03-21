@@ -1,6 +1,20 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+societeMere: TeamSystem
+sourcesVerification:
+- https://go.sellsy.com/informations-legales/mentions-legales
+- https://go.sellsy.com/informations-legales/confidentialite-des-donnees
+- https://go.sellsy.com/informations-legales/securite-des-donnees
+- https://help.sellsy.com/fr/articles/12691213-securiser-votre-compte-sellsy
+notesQualification: Sellsy reste opere par une SAS francaise basee a La Rochelle avec hebergement annonce en France et documentation securite solide. L'acquisition par TeamSystem conduit a noter l'ancrage economique en partiel plutot qu'en fort.
+methodologieVersion: gocharbon-v1
 title: Sellsy
 author: Diane
 tags:
@@ -11,6 +25,7 @@ description: 'Sellsy est une suite CRM française tout-en-un : prospection, fact
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://go.sellsy.com
+u_derniere_maj: '2026-03-20'
 ---
 
 # Sellsy

@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.dimo-crm.fr/mentions-legales/
+- https://www.dimo-crm.fr/crm-francais/
+- https://lp.dimo-crm.fr/plaquette-yellowbox-crm/
+notesQualification: YellowBox CRM est edite par DIMO Software, acteur francais base a Limonest avec equipe et discours produit clairement ancrés en France. L'hebergement applicatif n'est pas documente de facon assez explicite dans les sources consultees, ce qui maintient la responsabilite en partiel.
+methodologieVersion: gocharbon-v1
 title: YellowBox CRM
 author: Diane
 tags:
@@ -10,6 +22,7 @@ description: YellowBox CRM par DIMO Software est un CRM français flexible avec 
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.dimo-crm.fr
+u_derniere_maj: '2026-03-20'
 ---
 
 # YellowBox CRM

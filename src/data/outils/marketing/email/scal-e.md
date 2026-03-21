@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Scal-e
 author: Diane
 tags:
   - 'Outils Français'
   - 'Email'
   - 'Marketing'
+  - Outils
 description: "Scal-e est la CDP française (Customer Data Platform) pour le marketing omnicanal. Unification données, automation, fidélisation. Paris. Depuis 2007."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

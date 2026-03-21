@@ -1,10 +1,12 @@
 ---
+section: outils
 title: MyLibreEntreprise
 author: Diane
 tags:
   - 'Outils Français'
   - 'Prospection'
   - 'Marketing'
+  - Outils
 description: "MyLibreEntreprise est l'écosystème français pour le marketing relationnel (MLM). Librairie 724+ titres + outil de prospection IA. Dès 0€. Depuis 2002."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

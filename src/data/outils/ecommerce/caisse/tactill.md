@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Tactill
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Tactill est l'app de caisse iPad #1 en France. Amazon, Festival de Cannes. 4.9/5 Google, 5/5 App Store. Fondée 2011. Dès 39€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

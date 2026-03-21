@@ -1,6 +1,6 @@
 ---
 section: tutos
-type: Tuto
+type: tuto
 tags:
 - Tutoriels
 imageNameKey: img

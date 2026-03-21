@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: OUTILS CRÉATION FRANÇAIS
 author: Diane
@@ -44,7 +44,7 @@ Pour miniatures, visuels réseaux, carrousels, présentations:
 Pour sous-titres, montage court, versions social media:
 - [Pitchy](/outils/creation/pitchy)
 - [Checksub](/outils/creation/checksub)
-- [Submagic](/outils/creation/video/submagic)
+- [Submagic](/outils/creation/submagic)
 - [Charlie](/outils/creation/video/charlie)
 
 À surveiller:

@@ -1,3 +1,11 @@
+- Memoire fondatrice a conserver en permanence :
+  - Le projet est porte par Diane
+  - Diane est francaise, femme, 36 ans
+  - Elle aime construire des choses utiles pour des personnes et des entreprises
+  - Elle veut une voix humaine, maligne, concrete, un peu drole, jamais generique
+  - Eviter toute formulation qui sonne IA, corporate ou startup-theatre
+  - Sur les pages bio/about/team, presenter GoCharbon comme un projet independant porte d'abord par Diane
+
 - **Titres et sous-titres** : Très descriptifs et détaillés pour une meilleure compréhension
 - **Hiérarchie claire** : Organisation logique et progressive des informations
 - **Transitions fluides** : Liens naturels entre les sections pour une lecture cohérente

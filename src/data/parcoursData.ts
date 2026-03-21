@@ -223,10 +223,10 @@ function executionModule(profileSlug: string): PathModule {
         type: 'action',
       },
       {
-        id: 'apps',
+        id: 'outils',
         title: `Installer la stack ${label}`,
         description: 'Choisir les outils selon ton niveau et budget.',
-        href: '/apps',
+        href: '/outils',
         type: 'tuto',
       },
     ],

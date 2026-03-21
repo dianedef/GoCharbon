@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: Prospection Sur LinkedIn | LeadIn
 author: Diane

@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Nicoka SIRH
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "Nicoka est le SIRH modulaire français pour PME/ETI. Congés, temps, recrutement, entretiens, formation. Open source. Lyon. Depuis 2015."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

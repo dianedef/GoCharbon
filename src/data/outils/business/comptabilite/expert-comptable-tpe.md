@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+societeMere: Amarris Expertise Comptable
+sourcesVerification:
+- https://www.expert-comptable-tpe.fr/mentions-legales/
+- https://www.expert-comptable-tpe.fr/cgv/
+notesQualification: Expert-Comptable TPE est une marque d'ECL Direct, societe francaise basee a Saint-Herblain dans l'orbite Amarris; les mentions legales documentent un hebergement OVH Cloud et un ancrage local fort.
+methodologieVersion: gocharbon-v1
 title: Expert-Comptable TPE
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Expert-Comptable TPE (Amarris Direct) est le service d'expertise comptable en ligne du groupe Amarris. 42M€ CA groupe. Dès 69€ HT/mois."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

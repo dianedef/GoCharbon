@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-16'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://legal.qonto.com/fr
+- https://legal.qonto.com/fr/privacy
+notesQualification: Etablissement francais regule a Paris; la politique de confidentialite documente des transferts potentiels hors EEE sans detailler un hebergement principal.
+methodologieVersion: gocharbon-v1
 title: Qonto
 author: Diane
 tags:

@@ -1,7 +1,7 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
-type: Blog
+type: outil
 statut: en-attente
 _priorité: normal
 tags:

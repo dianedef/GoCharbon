@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: indetermine
+paysSiege: France
+hebergementDonnees: hors-union-europeenne
+sourcesVerification:
+- https://b-reputation.com/fr/static/legals
+- https://b-reputation.com/fr
+notesQualification: B-Reputation est exploite par Camelia Tech, societe francaise basee a Paris; l'hebergement public documente passe par Heroku aux Etats-Unis et la documentation publique ne detaille pas de politique d'hebergement plus locale.
+methodologieVersion: gocharbon-v1
 tags:
 - Outils
 imageNameKey: b-reputation

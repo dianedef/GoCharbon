@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Clictill
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Clictill est le logiciel de caisse cloud français pour commerces et chaînes. Bleu Libellule, Puma, La Poste. 300+ clients, 15 pays. Dès 41€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

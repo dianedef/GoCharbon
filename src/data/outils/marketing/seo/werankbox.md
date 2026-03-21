@@ -1,10 +1,12 @@
 ---
+section: outils
 title: WeRankBox
 author: Diane
 tags:
   - 'Outils Français'
   - 'SEO'
   - 'Marketing'
+  - Outils
 description: "WeRankBox est le boîtier français de CTR manipulation SEO. Raspberry Pi 4 qui simule des clics Google depuis des IPs résidentielles. Black hat SEO. Depuis 2020."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

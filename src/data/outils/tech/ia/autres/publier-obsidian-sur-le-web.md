@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: Publier Obsidian Sur Le Web
 author: Diane

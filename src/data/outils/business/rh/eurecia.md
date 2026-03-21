@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: Eurecia
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "Eurecia est le SIRH français modulaire pour PME. Congés, temps, paie, talents, formation. 3500+ clients, 500K+ utilisateurs. Toulouse. Depuis 2006."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,17 @@ u_site: https://www.eurecia.com/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+  - https://www.eurecia.com/mentions-legales
+  - https://www.eurecia.com/politique-confidentialite
+  - https://www.eurecia.com/securite-confidentialite
+notesQualification: "Eurecia est une societe francaise basee a Castanet-Tolosan, 100 % autofinancee selon sa communication publique. La politique de confidentialite indique un hebergement des donnees du site au sein de l'Union europeenne et une gouvernance RGPD lisible, avec DPO identifie. Le faisceau de preuves permet une qualification forte."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Eurecia

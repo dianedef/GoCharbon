@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.comptalib.com/mentions-legales/
+- https://www.comptalib.com/politique-de-confidentialite/
+- https://www.comptalib.com/cgu/
+notesQualification: Comptalib est une societe francaise basee a Laxou; les mentions legales et la politique de confidentialite documentent un hebergement AWS en France et en Europe, avec des serveurs applicatifs annonces en France.
+methodologieVersion: gocharbon-v1
 title: Comptalib
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Comptalib est l'app comptable IA pour entrepreneurs et auto-entrepreneurs. 3 000+ clients, télédéclaration TVA/liasse fiscale. Dès 59,40€ HT/an."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

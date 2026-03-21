@@ -1,4 +1,18 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
+type: outil
+qualificationLocale: union-europeenne
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: Chypre
+hebergementDonnees: multi-region
+sourcesVerification:
+  - "https://www.3cx.com/company/contact/"
+  - "https://www.3cx.com/company/privacy-policy/"
+  - "https://www.3cx.com/docs/manual/"
+notesQualification: "3CX conserve un ancrage europeen avec une implantation historique a Chypre, mais la structure commerciale est tres internationale. L'hebergement varie selon le mode choisi par le client ou le cloud retenu, ce qui justifie une lecture prudente."
+methodologieVersion: "gocharbon-v1"
 title: 3CX
 author: Diane
 tags:
@@ -6,11 +20,11 @@ tags:
   - 'Communication'
 description: "3CX est le standard téléphonique IP (PBX) avec visio, chat et intégrations CRM. Solution internationale avec version FR complète. Fondé en 2005."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.3cx.fr/
 u_origine: "US"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
 ---
 
 # 3CX

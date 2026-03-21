@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: "France"
+hebergementDonnees: inconnu
+sourcesVerification:
+  - "https://www.reachy.ai/"
+  - "https://www.reachy.ai/privacy-policy"
+  - "https://blog.reachy.ai/article/linkedin-automation-bans-the-real-risks-in-2025-and-how-to-avoid-them"
+notesQualification: "Reachy est rattache a BlackZebra, societe francaise identifiee dans la politique de confidentialite. Le discours produit insiste sur un traitement local sur l'appareil de l'utilisateur, mais l'architecture complete et les traitements tiers restent insuffisamment documentes pour aller au-dela d'une responsabilite partielle."
 title: Reachy
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "Reachy est l'outil d'automatisation LinkedIn IA pour la prospection B2B. GPT-4o, multi-comptes, lead scoring. Plan gratuit. Dès 49$/mois. 17 500+ downloads."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.reachy.ai/
 u_origine: "FR"
 u_langue_fr: false
+methodologieVersion: "gocharbon-v1"
 u_derniere_maj: "2026-03-15"
 ---
 

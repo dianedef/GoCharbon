@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: LES MEILLEURS OUTILS FRANÇAIS POUR ENTREPRENEURS
 author: Diane

@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.anaba.fr/
+- https://www.anaba.fr/en
+- https://www.anaba.fr/en/privacy-policy
+notesQualification: Anaba se presente explicitement comme un CRM francais, base a Montpellier, avec des donnees hebergees en France; la base publique est convaincante meme si la page legale detaillee etait moins simple a recuperer.
+methodologieVersion: gocharbon-v1
 title: Anaba
 author: Diane
 tags:

@@ -1,13 +1,15 @@
 ---
+section: outils
 title: Echo HelloWorld
 author: Diane
 tags:
   - 'Outils Français'
   - 'CMS'
   - 'E-commerce'
+  - Outils
 description: "Echo HelloWorld est le créateur de site e-commerce français ultra-simplifié. Boutique en ligne en quelques clics, 0 code. Micro-startup. Depuis ~2022."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.echohelloworld.com/
 u_origine: "FR"
 u_langue_fr: true

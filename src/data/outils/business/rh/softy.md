@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Softy
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "Softy est l'ATS français avec tests de personnalité intégrés. Multidiffusion, site carrière, vidéo différée. 10K+ utilisateurs. Lyon. Depuis 2019."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

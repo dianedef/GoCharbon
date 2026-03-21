@@ -1,7 +1,7 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
-type: Logiciel
+type: outil
 statut: null
 _priorité: urgent
 tags:

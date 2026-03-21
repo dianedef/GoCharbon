@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Listo Paye
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "Listo Paye est le service d'externalisation de paie français. Gestionnaire dédié + logiciel en ligne. PME. Paris. Depuis 2016. Dès 15€/bulletin."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

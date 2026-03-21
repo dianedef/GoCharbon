@@ -1,10 +1,12 @@
 ---
+section: outils
 title: SAS Gestion
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "SAS Gestion est le logiciel SaaS français pour magasins de réparation smartphone/informatique. Suivi réparation, stock, CRM. Certifié QualiRepar."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

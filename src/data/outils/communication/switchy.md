@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Switchy
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "Switchy est l'outil français de raccourcissement d'URL avec retargeting. Liens courts personnalisés, pixel tracking, analytics. Depuis 2018."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://switchy.io/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://chromewebstore.google.com/detail/switchyio-advanced-url-sh/dadacgagagdnplmhfmmjblnbhmfalhbh
+  - https://www.pappers.fr/entreprise/oby-833507338
+  - https://help.switchy.io/en/articles/2920906-privacy-popup-gdpr-ccpa-compliance
+notesQualification: "Switchy est rattache a Oby SAS en France, avec une adresse operateur a Neuilly-sur-Seine visible dans les sources publiques officielles. L'ancrage economique peut etre qualifie de fort faute d'indice public d'une societe mere etrangere, mais la responsabilite reste partielle car la documentation publique exploitable sur l'hebergement, les sous-traitants et la politique de traitement reste trop mince pour aller plus loin."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Switchy

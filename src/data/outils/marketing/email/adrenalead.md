@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Adrenalead
 author: Diane
 tags:
   - 'Outils Français'
   - 'Email'
   - 'Marketing'
+  - Outils
 description: "Adrenalead est la plateforme française de web push notification marketing. Collecte opt-in, campagnes push, retargeting navigateur. Lille. Depuis 2016."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.ubiq.fr/cgu
+- https://www.ubiq.fr/politique-de-confidentialite
+notesQualification: Ubiq SAS est basee a Paris et operee en France; les sources officielles confirment l'ancrage local mais ne documentent pas assez precisement la localisation effective des donnees sur Google Cloud.
+methodologieVersion: gocharbon-v1
 title: Ubiq
 author: Diane
 tags:

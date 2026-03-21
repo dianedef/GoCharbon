@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.micco.app/
+- https://www.micco.app/fr/depot-de-capital
+- https://www.micco.app/fr/compte-professionnel
+notesQualification: Micco est propose par Everest Finance, societe francaise basee a Paris; le service repose toutefois sur des partenaires tiers comme Swan et BNP Paribas, et la localisation technique de l'hebergement n'est pas documentee assez precisement.
+methodologieVersion: gocharbon-v1
 title: Micco
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Micco est le compte pro tout-en-un pour entrepreneurs et PME. Dépôt de capital, facturation, assurance, compte rémunéré 4%. Dès 9€ HT/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

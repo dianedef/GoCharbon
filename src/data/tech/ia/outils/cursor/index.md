@@ -1,10 +1,11 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: 'Cursor : L''IDE IA du Futur'
 author: Diane
 tags:
 - Tech
+- Outils
 description: Guide complet sur Cursor, l'IDE IA qui révolutionne le développement
 pubDate: '2024-03-25'
 imgUrl: ../../../../../assets/astro.jpeg

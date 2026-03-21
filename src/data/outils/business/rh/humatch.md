@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Humatch
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "Humatch est le SIRH français modulaire. Recrutement, onboarding, admin RH, entretiens, formation. EN LIQUIDATION JUDICIAIRE depuis octobre 2025."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

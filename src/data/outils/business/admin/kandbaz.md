@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.kandbaz.com/wp-content/themes/kandbaz-septembre-2022/assets/pdf/Communique-presse-kandbaz-24042018.pdf
+- https://www.kandbaz.com/wp-content/themes/kandbaz-septembre-2022/assets/pdf/Communique-presse-kandbaz-062018.pdf
+notesQualification: Kandbaz se presente comme une entreprise creee en France, operant a Paris et orientee TPE; faute de mentions legales ou de politique d'hebergement facilement accessibles, la qualification reste prudente.
+methodologieVersion: gocharbon-v1
 title: 'Kandbaz : Révolutionnez Votre Domiciliation d''Entreprise En Ligne'
 author: Diane
 tags:

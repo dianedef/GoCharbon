@@ -1,4 +1,5 @@
 ---
+section: outils
 title: InLinks
 author: Diane
 tags:

@@ -1,10 +1,12 @@
 ---
+section: outils
 title: JungleUp
 author: Diane
 tags:
   - 'Outils Français'
   - 'SEO'
   - 'Marketing'
+  - Outils
 description: "JungleUp est la plateforme française de netlinking et d'échange d'articles SEO. Marketplace de liens, articles sponsorisés. Communauté française."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://easya.solutions/mentions-legales/
+- https://easya.solutions/contact/
+- https://easya.solutions/easya-erp-crm/gestion-dentreprise/
+notesQualification: Easya Solutions est editee par Open-DSI a Vaulx-en-Velin et annonce un hebergement OVH en France ainsi qu'une offre SaaS hebergee en propre; l'ancrage local est solide.
+methodologieVersion: gocharbon-v1
 title: Easya Solutions
 author: Diane
 tags:

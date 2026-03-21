@@ -32,7 +32,7 @@ interface Props {
     mainTags: string[];           // Top-level tag categories
     initialPosts: Post[];         // Posts to show before any filtering
     selectedTags?: string[];      // Pre-selected tags (from URL)
-    scope?: 'all' | 'apps' | 'blog' | 'tutos' | 'parcours';
+    scope?: 'all' | 'outils' | 'blog' | 'tutos' | 'parcours';
 }
 
 const props = withDefaults(defineProps<Props>(), {
@@ -270,7 +270,7 @@ async function loadPosts() {
                 // ...selectedSubTags.value,
                 // ...selectedSubSubTags.value
             ];
-            const perPage = props.scope === 'apps' || props.scope === 'tutos' || props.scope === 'parcours' ? 60 : 15;
+            const perPage = props.scope === 'outils' || props.scope === 'tutos' || props.scope === 'parcours' ? 60 : 15;
             
             if (allSelectedTags.length === 0) {
                 posts.value = props.initialPosts;

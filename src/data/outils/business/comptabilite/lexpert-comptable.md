@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.l-expert-comptable.com/mentions-legales.html
+- https://www.l-expert-comptable.com/
+notesQualification: L-Expert-Comptable.com est une societe francaise basee a Paris et exerce une activite reglementee d'expertise comptable; le site public est heberge chez OVH en France, mais la documentation publique ne detaille pas toute l'infrastructure logicielle au-dela du site.
+methodologieVersion: gocharbon-v1
 title: "L'Expert-Comptable.com"
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "L'Expert-Comptable.com est le cabinet d'expertise comptable 100% en ligne du groupe Numbr. 50 000+ entrepreneurs. 4.9/5 Google. Dès 79€ HT/mois."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

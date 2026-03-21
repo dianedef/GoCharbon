@@ -1,6 +1,19 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+societeMere: Lundi Matin
+sourcesVerification:
+- https://www.yuto.fr/mentions-legales/
+- https://www.yuto.fr/
+- https://www.yuto.fr/equipe/
+notesQualification: Yuto est un produit edite en France et rattache a Lundi Matin, structure francaise. Le rattachement local est defendable, mais l'hebergement applicatif et la documentation de securite restent trop peu explicites pour aller au-dela d'une lecture prudente.
+methodologieVersion: gocharbon-v1
 title: Yuto
 author: Diane
 tags:
@@ -11,6 +24,7 @@ description: Yuto est un CRM mobile français pour les commerciaux terrain. Devi
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.yuto.fr
+u_derniere_maj: '2026-03-20'
 ---
 
 # Yuto

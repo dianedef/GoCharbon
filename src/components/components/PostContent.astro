@@ -1,10 +1,15 @@
 ---
+import ToolQualificationCard from "./ToolQualificationCard.astro";
+import type { ToolQualification } from "../../utils/tool-qualification";
+
 interface Props {
 	pubDate: Date;
 	author: string;
+	section?: "blog" | "outils" | "tutos" | "parcours";
+	toolQualification?: ToolQualification;
 }
 
-const { pubDate, author } = Astro.props;
+const { pubDate, author, section, toolQualification } = Astro.props;
 const worldIcons = {
 	charbon: "/world/charbon.svg",
 	mine: "/world/mine.svg",
@@ -35,6 +40,7 @@ const worldIcons = {
 	<p class="text-base md:text-lg">
 		Publié le {pubDate} par {author}
 	</p>
+	{section === "outils" && <ToolQualificationCard metadata={toolQualification} />}
 	<div>
 		<slot />
 	</div>

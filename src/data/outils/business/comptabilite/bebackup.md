@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.bebackup.fr/mentions-legales/
+- https://www.bebackup.fr/
+notesQualification: BeBackup est exploite par EDII, societe francaise basee a Montpellier; les mentions legales documentent un hebergement chez Online SAS en France et le positionnement local est tres explicite.
+methodologieVersion: gocharbon-v1
 title: BeBackup
 author: Diane
 tags:

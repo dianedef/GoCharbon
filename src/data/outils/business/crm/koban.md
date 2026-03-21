@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://www.koban.cloud/mentions-legales/
+- https://www.koban.cloud/charte-securite-confidentialite/
+- https://www.koban.cloud/
+notesQualification: Koban est edite par EBAZTEN, structure basee en France, avec equipe annoncee 100% en France. La charte de securite documente un hebergement AWS dans l'Union europeenne et l'absence de transfert hors UE.
+methodologieVersion: gocharbon-v1
 title: Koban
 author: Diane
 tags:
@@ -10,6 +22,7 @@ description: Koban, CRM 100% français concu a Lyon. 450+ PME, 2 300+ utilisateu
 pubDate: '2025-02-14'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.koban.cloud
+u_derniere_maj: '2026-03-20'
 ---
 
 # Koban

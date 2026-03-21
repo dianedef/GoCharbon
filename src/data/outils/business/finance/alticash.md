@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: Alticash
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Alticash est le logiciel français de gestion de trésorerie pour TPE et indépendants. Bootstrappé près de Grenoble. Plan gratuit + dès 25€/mois."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,17 @@ u_site: https://www.alticash.com/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-14"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://www.alticash.com/conditions-generales-de-vente/
+  - https://www.alticash.com/notre-vision/
+  - https://www.alticash.com/
+notesQualification: "Alticash est edite par ALTISOFT, societe francaise basee a Meylan pres de Grenoble. Les pages officielles documentent clairement l'exploitation locale et le traitement des donnees dans un cadre RGPD, mais je n'ai pas trouve de preuve publique assez nette sur la localisation precise de l'hebergement. L'ancrage economique peut etre qualifie de fort ; la responsabilite reste partielle par prudence."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Alticash

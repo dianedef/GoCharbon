@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: '2026-03-01'
 datePublié: null
 u_site: https://www.o2switch.fr

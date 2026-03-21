@@ -1,4 +1,18 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: union-europeenne
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: Suede
+hebergementDonnees: union-europeenne
+sourcesVerification:
+- https://www.getaccept.com/dpa
+- https://www.getaccept.com/privacy-policy
+- https://help.getaccept.com/en/articles/2393314-how-do-you-store-my-document-data
+notesQualification: GetAccept est opere par GetAccept AB en Suede; la solution permet un stockage regional et documente notamment Francfort pour les comptes europeens. L'ancrage est donc europeen, pas francais.
+methodologieVersion: gocharbon-v1
 title: GetAccept
 author: Diane
 tags:

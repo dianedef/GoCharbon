@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: Gino LegalTech
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Legal'
   - 'Business'
+  - Outils
 description: "Gino LegalTech est la plateforme française de CLM (Contract Lifecycle Management) avec IA. TF1, Bouygues, Hachette. 5.0/5 Capterra. Dès 30€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,17 @@ u_site: https://www.ginolegaltech.com/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+  - https://www.ginolegaltech.com/en/legalnotice
+  - https://www.ginolegaltech.com/confidentiality-policy
+  - https://www.ginolegaltech.com/
+notesQualification: "Gino LegalTech est exploite par une SARL francaise a Paris, avec une gouvernance locale claire. La politique de confidentialite et les mentions legales documentent un hebergement sur Microsoft Azure et des sous-traitants identifies, dont Universign. L'ancrage economique et la responsabilite peuvent donc etre qualifies de forts."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Gino LegalTech

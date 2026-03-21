@@ -1,7 +1,8 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-21'
 title: leeway
+type: outil
 author: Diane
 tags:
 - Outils
@@ -11,6 +12,19 @@ description: Le logiciel Leeway est une solution puissante pour la gestion des c
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.getleeway.com/fr/
+u_derniere_maj: '2026-03-21'
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+societeMere: Tomorro
+sourcesVerification:
+  - https://www.pappers.fr/entreprise/leeway-881239800
+  - https://www.tomorro.com/fr/legal/privacy
+  - https://www.tomorro.com/software/security
+notesQualification: 'Leeway est desormais rattache a Tomorro, societe francaise basee a Toulouse. La politique de confidentialite identifie clairement TOMORRO (LEEWAY SAS) comme responsable de traitement et la page securite officielle indique un hebergement des donnees et des sauvegardes en France, sur AWS. Le faisceau de preuves permet une qualification forte.'
+methodologieVersion: gocharbon-v1
 ---
 
 # leeway

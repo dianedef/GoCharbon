@@ -1,7 +1,7 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
-type: tuto
+type: outil
 statut: []
 _priorité: normal
 imageNameKey: twitter-crm

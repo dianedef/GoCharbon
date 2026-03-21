@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
+type: outil
 title: Trezorino
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Trezorino est un logiciel de gestion de trésorerie pour TPE/PME. Suivi temps réel, prévisions, multi-entités. 300+ banques. Dès 51€/mois. Statut incertain."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,15 @@ u_site: https://www.trezorino.com/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-14"
+qualificationLocale: indetermine
+ancrageEconomique: indetermine
+niveauResponsabilite: indetermine
+paysSiege: indetermine
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://www.trezorino.com/
+notesQualification: "Je n'ai pas trouvé de mentions légales, de politique de confidentialité ou de page entreprise officiellement exploitable sur le site public de Trezorino. Le service semble avoir connu des problèmes de disponibilité et la documentation publique accessible est trop mince pour établir proprement le siège, l'hébergement ou l'ancrage économique. Je laisse donc la qualification à indetermine."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Trezorino

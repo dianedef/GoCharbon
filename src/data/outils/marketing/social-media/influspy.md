@@ -1,10 +1,12 @@
 ---
+section: outils
 title: InfluSpy
 author: Diane
 tags:
   - 'Outils Français'
   - 'Social Media'
   - 'Marketing'
+  - Outils
 description: "InfluSpy est l'outil français d'espionnage publicitaire Facebook/Instagram. Analyse des pubs concurrents, tendances créatives, inspiration ads. Depuis 2019."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

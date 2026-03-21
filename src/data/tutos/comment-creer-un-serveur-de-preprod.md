@@ -1,6 +1,6 @@
 ---
 section: tutos
-type: Tuto
+type: tuto
 statut: en-attente
 _priorité: normal
 tags:

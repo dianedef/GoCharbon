@@ -1,17 +1,33 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: hors-union-europeenne
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: États-Unis
+hebergementDonnees: hors-union-europeenne
+sourcesVerification:
+- https://www.folk.app/llm-infos
+- https://help.folk.app/en/articles/5007534-security-privacy
+- https://www.folk.app/fr
+- https://www.folk.app/terms-of-affiliation
+notesQualification: Folk conserve une forte empreinte parisienne dans sa communication, mais ses CG d'affiliation identifient Folk, Inc en Delaware et la documentation securite annonce un hebergement AWS en Virginie du Nord. Le rattachement juridique et technique officiel est donc hors Union europeenne.
+methodologieVersion: gocharbon-v1
 title: Folk
 author: Diane
 tags:
   - 'Outils Français'
   - 'CRM'
   - 'Business'
+  - Outils
 description: "Folk est le CRM IA français pour petites équipes et agences. 300K+ utilisateurs, 4K+ clients, 8.3M$ ARR. Extension LinkedIn. Dès 24$/mois. Hexa/eFounders."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.folk.app/
 u_origine: "FR"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
 ---
 
 # Folk

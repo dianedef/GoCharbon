@@ -1,15 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+  - "https://fr.diabolocom.com/"
+  - "https://fr.diabolocom.com/contact/"
+  - "https://fr.diabolocom.com/produit/call-center-software/"
+  - "https://fr.diabolocom.com/produit/pci-dss/"
+notesQualification: "Diabolocom conserve un ancrage francais fort sur le plan operationnel avec siege parisien, direction francaise et cloud prive annonce en Europe ou en France selon les offres. La presence internationale conduit a garder un ancrage economique partiel, mais la documentation securite est suffisamment solide pour un niveau de responsabilite fort."
 title: Diabolocom
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "Diabolocom est la plateforme française de centre de contact cloud. Téléphonie, omnicanal, IA. Par Frédéric Durand. SIREN 482 652 401. Bootstrappé. 175+ employés. Depuis 2005."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.diabolocom.com/
 u_origine: "FR"
 u_langue_fr: true
+methodologieVersion: "gocharbon-v1"
 u_derniere_maj: "2026-03-15"
 ---
 

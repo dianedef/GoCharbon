@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Famoco
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Famoco est le fabricant français de terminaux Android professionnels. 500K+ appareils, 50+ pays. Google, Orange, Alipay. 59M€+ levés. Paris."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

@@ -1,4 +1,5 @@
 ---
+section: outils
 title: Scribbr
 author: Diane
 tags:
@@ -6,7 +7,7 @@ tags:
   - 'Formation'
 description: "Scribbr est la plateforme néerlandaise de relecture, correction et détection de plagiat pour les étudiants. Version FR complète (scribbr.fr). Depuis 2012."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.scribbr.fr/
 u_origine: "NL"
 u_langue_fr: true

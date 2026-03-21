@@ -1,7 +1,7 @@
 ---
-section: apps
-metadataEnrichedAt: null
-type: app
+section: outils
+metadataEnrichedAt: '2026-03-21'
+type: outil
 tags:
 - Outils
 imageNameKey: callalawyer
@@ -13,6 +13,18 @@ description: 'Découvre Call A Lawyer : outil français pour entrepreneurs, fonc
   et avis.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
+u_derniere_maj: '2026-03-21'
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://www.callalawyer.fr/legal/politique-de-confidentialite
+  - https://info.callalawyer.fr/cguv-clients
+  - https://www.pappers.fr/entreprise/call-a-lawyer-822183711
+notesQualification: 'Call A Lawyer dispose d''un operateur francais clair a Paris et d''une documentation RGPD publique. En revanche, la societe a fait l''objet d''une liquidation judiciaire prononcee le 17 avril 2025, ce qui affaiblit fortement sa lisibilite economique et sa soutenabilite. L''hebergement n''est pas documente publiquement avec assez de precision ; je reste donc sur une qualification prudente.'
+methodologieVersion: gocharbon-v1
 ---
 
 [](https://callalawyer.fr/)

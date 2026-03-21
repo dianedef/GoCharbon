@@ -1,6 +1,19 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: multi-region
+sourcesVerification:
+- https://aircall.io/en-gb/privacy/
+- https://aircall.io/fr/contact/
+- https://support.aircall.io/hc/en-gb/articles/30120361009437-Where-are-Call-Recordings-stored
+- https://aircall.io/fr/securite/
+notesQualification: Aircall dispose d'une entite Aircall SAS a Paris, mais opere aussi via plusieurs entites internationales dont une Inc au Delaware. Le stockage des enregistrements varie selon la region et l'anciennete du compte, ce qui justifie une qualification prudente.
+methodologieVersion: gocharbon-v1
 title: Aircall
 author: Diane
 tags:
@@ -10,6 +23,7 @@ description: Aircall est la téléphonie cloud pour équipes vente et support. 1
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://aircall.io/fr/
+u_derniere_maj: '2026-03-20'
 ---
 
 # Aircall

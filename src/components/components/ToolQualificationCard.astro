@@ -1,0 +1,332 @@
+---
+import type { ToolQualification } from "../../utils/tool-qualification";
+import {
+  computeEngagementBadge,
+  dataHostingLabels,
+  hasToolQualification,
+  qualificationLocaleLabels,
+  qualificationStrengthLabels,
+} from "../../utils/tool-qualification";
+import EngagementBadge from "./EngagementBadge.astro";
+
+interface Props {
+  metadata?: ToolQualification;
+}
+
+const { metadata } = Astro.props;
+const isQualified = hasToolQualification(metadata);
+const engagementBadge = computeEngagementBadge(metadata);
+type QualificationFact = {
+  label: string;
+  value: string;
+};
+
+function formatVerificationDate(value?: string | null): string | null {
+  if (!value) {
+    return null;
+  }
+
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return value;
+  }
+
+  return new Intl.DateTimeFormat("fr-FR", {
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    timeZone: "UTC",
+  }).format(date);
+}
+
+function getSourceLabel(source: string): string {
+  try {
+    const url = new URL(source);
+    const hostname = url.hostname.replace(/^www\./, "");
+    const pathname = url.pathname === "/" ? "" : url.pathname.replace(/\/$/, "");
+    const compactPath = pathname.length > 36 ? `${pathname.slice(0, 33)}...` : pathname;
+    return compactPath ? `${hostname}${compactPath}` : hostname;
+  } catch {
+    return source;
+  }
+}
+
+const verificationDate = formatVerificationDate(metadata?.metadataEnrichedAt);
+
+const facts: QualificationFact[] = isQualified
+  ? [
+      verificationDate
+        ? {
+            label: "Dernière vérification",
+            value: verificationDate,
+          }
+        : null,
+      metadata.qualificationLocale
+        ? {
+            label: "Qualification éditoriale",
+            value: qualificationLocaleLabels[metadata.qualificationLocale],
+          }
+        : null,
+      metadata.ancrageEconomique
+        ? {
+            label: "Ancrage économique",
+            value: qualificationStrengthLabels[metadata.ancrageEconomique],
+          }
+        : null,
+      metadata.niveauResponsabilite
+        ? {
+            label: "Responsabilité",
+            value: qualificationStrengthLabels[metadata.niveauResponsabilite],
+          }
+        : null,
+      metadata.paysSiege
+        ? {
+            label: "Pays du siège",
+            value: metadata.paysSiege,
+          }
+        : null,
+      metadata.paysFiscal
+        ? {
+            label: "Pays fiscal",
+            value: metadata.paysFiscal,
+          }
+        : null,
+      metadata.paysFondateurs?.length
+        ? {
+            label: "Fondateurs",
+            value: metadata.paysFondateurs.join(", "),
+          }
+        : null,
+      metadata.hebergementDonnees
+        ? {
+            label: "Hébergement des données",
+            value: dataHostingLabels[metadata.hebergementDonnees],
+          }
+        : null,
+      metadata.societeMere
+        ? {
+            label: "Société mère",
+            value: metadata.societeMere,
+          }
+        : null,
+      metadata.methodologieVersion
+        ? {
+            label: "Méthodologie",
+            value: metadata.methodologieVersion,
+          }
+        : null,
+    ].filter((value): value is QualificationFact => Boolean(value))
+  : [];
+---
+
+<aside class="tool-qualification-card">
+  <div class="tool-qualification-topline">
+    <span class:list={["status-chip", isQualified ? "status-chip--ready" : "status-chip--pending"]}>
+      {isQualified ? "Qualification renseignée" : "Qualification en cours"}
+    </span>
+    <a href="/methodologie" class="method-link">Voir la méthodologie</a>
+  </div>
+
+  <h3 class="poppins text-xl font-bold mt-3 mb-2 text-black dark:text-yellow-soft">
+    Ancrage local et responsabilité
+  </h3>
+  <div class="badge-row">
+    <EngagementBadge badge={engagementBadge} />
+    <p class="badge-rationale">{engagementBadge.rationale}</p>
+  </div>
+
+  {
+    isQualified ? (
+      <>
+        <p class="poppins text-base mb-4 text-black dark:text-white">
+          On sépare volontairement l’étiquette éditoriale, l’ancrage économique et le niveau de responsabilité.
+        </p>
+        <dl class="qualification-grid">
+          {facts.map((fact) => (
+            <div class="fact-card">
+              <dt>{fact.label}</dt>
+              <dd>{fact.value}</dd>
+            </div>
+          ))}
+        </dl>
+        {metadata?.notesQualification && (
+          <p class="notes-box">
+            {metadata.notesQualification}
+          </p>
+        )}
+        {metadata?.sourcesVerification?.length && (
+          <div class="sources-box">
+            <div class="sources-header">
+              <p class="sources-title">Sources de vérification</p>
+            </div>
+            <ul>
+              {metadata.sourcesVerification.map((source) => (
+                <li>
+                  <a href={source} target="_blank" rel="noopener noreferrer">
+                    {getSourceLabel(source)}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </>
+    ) : (
+      <p class="poppins text-base md:text-lg text-black dark:text-white">
+        Cette fiche est publiée dans notre section outils, mais sa qualification locale et responsable n’a pas encore
+        été auditée manuellement. Nous ajoutons progressivement le pays du siège, le pays fiscal, l’hébergement des
+        données et l’ancrage économique.
+      </p>
+    )
+  }
+</aside>
+
+<style>
+  .tool-qualification-card {
+    margin: 1rem 0 1.5rem;
+    padding: 1rem;
+    border: 3px solid var(--brand-black);
+    box-shadow: 6px 6px 0 var(--brand-black);
+    background:
+      radial-gradient(circle at top right, rgb(246 199 0 / 20%), transparent 35%),
+      linear-gradient(180deg, #fff9e8 0%, #ffeec2 100%);
+  }
+
+  :global(.dark) .tool-qualification-card {
+    border-color: var(--brand-cream);
+    box-shadow: 6px 6px 0 var(--brand-cream);
+    background:
+      radial-gradient(circle at top right, rgb(246 199 0 / 18%), transparent 35%),
+      linear-gradient(180deg, #161616 0%, #101010 100%);
+  }
+
+  .tool-qualification-topline {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .badge-row {
+    display: grid;
+    gap: 0.75rem;
+    margin: 0.9rem 0 1rem;
+  }
+
+  .badge-rationale {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 0.95rem;
+  }
+
+  @media (min-width: 768px) {
+    .badge-row {
+      grid-template-columns: minmax(240px, 320px) 1fr;
+      align-items: center;
+    }
+  }
+
+  .status-chip {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.35rem 0.65rem;
+    border: 2px solid var(--brand-black);
+    font-family: "Poppins", sans-serif;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .status-chip--ready {
+    background: #dff7de;
+  }
+
+  .status-chip--pending {
+    background: #ffe2a8;
+  }
+
+  :global(.dark) .status-chip {
+    border-color: var(--brand-cream);
+    color: var(--brand-cream);
+    background: rgb(255 255 255 / 8%);
+  }
+
+  .method-link {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    text-decoration: underline;
+  }
+
+  .qualification-grid {
+    display: grid;
+    gap: 0.85rem;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  }
+
+  .fact-card {
+    border: 2px solid var(--brand-black);
+    padding: 0.85rem;
+    background: rgb(255 255 255 / 65%);
+  }
+
+  :global(.dark) .fact-card {
+    border-color: var(--brand-cream);
+    background: rgb(255 255 255 / 4%);
+  }
+
+  .fact-card dt {
+    font-family: "Poppins", sans-serif;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    opacity: 0.75;
+    margin-bottom: 0.35rem;
+  }
+
+  .fact-card dd {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+
+  .notes-box,
+  .sources-box {
+    margin-top: 1rem;
+    border: 2px solid var(--brand-black);
+    padding: 0.85rem;
+    background: rgb(255 255 255 / 55%);
+  }
+
+  :global(.dark) .notes-box,
+  :global(.dark) .sources-box {
+    border-color: var(--brand-cream);
+    background: rgb(255 255 255 / 4%);
+  }
+
+  .sources-title {
+    margin: 0 0 0.5rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+  }
+
+  .sources-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .sources-box ul {
+    margin: 0;
+    padding-left: 1rem;
+  }
+
+  .sources-box li + li {
+    margin-top: 0.4rem;
+  }
+</style>

@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Lyfpit
 author: Diane
 tags:
   - 'Outils Français'
   - 'Social Media'
   - 'Marketing'
+  - Outils
 description: "Lyfpit est l'outil français de veille et monitoring des réseaux sociaux. Agrégation de flux, tableaux de bord, analyse. Nantes. Depuis 2014."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

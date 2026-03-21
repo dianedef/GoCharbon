@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Lydia Pro
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Lydia (devenue Sumeria) est l'app de paiement #1 en France. 8M+ utilisateurs. Compte pro, terminal, cagnotte. BPI, Tencent. Dès 0€."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

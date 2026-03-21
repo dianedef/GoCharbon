@@ -1,10 +1,12 @@
 ---
+section: outils
 title: PBN Studio
 author: Diane
 tags:
   - 'Outils Français'
   - 'SEO'
   - 'Marketing'
+  - Outils
 description: "PBN Studio est l'outil français de gestion de PBN par Frédéric Bourg (Freudix). Gestion de domaines expirés, WordPress automatisé. SIREN 912 679 453."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

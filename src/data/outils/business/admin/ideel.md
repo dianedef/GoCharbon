@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-16'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://ideel.io/cgu.html
+- https://ideel.io/
+notesQualification: Ideel est une SAS parisienne et intermediaire en assurances, mais les sources publiques consultees ne documentent pas assez precisement l'hebergement ou la chaine de sous-traitance.
+methodologieVersion: gocharbon-v1
 title: Ideel
 author: Diane
 tags:
   - 'Outils Français'
   - 'Admin'
   - 'Business'
+  - Outils
 description: "Ideel est la plateforme française de gestion d'abonnements et d'optimisation de dépenses. Centralise tes factures, résilie, optimise. 150 000+ utilisateurs."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

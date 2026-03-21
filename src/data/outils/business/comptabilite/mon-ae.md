@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: indetermine
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.monae.fr/auto-entrepreneur-generer-factures
+- https://facturation.dev/
+- https://www.societe.com/societe/facturation-pro-804607554.html
+notesQualification: MonAE est rattache a FACTURATION.PRO, acteur francais specialise sur la micro-entreprise; l'ancrage local est etabli, mais les sources publiques accessibles restent trop pauvres pour qualifier proprement l'hebergement ou la gouvernance responsable.
+methodologieVersion: gocharbon-v1
 title: MonAE
 author: Diane
 tags:

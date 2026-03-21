@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Copilhost
 author: Diane
 tags:
   - 'Outils Français'
   - 'Hébergement'
   - 'Tech'
+  - Outils
 description: "Copilhost est l'hébergement web français avec assistance IA. Hébergement mutualisé, VPS, WordPress. Support humain + IA. Serveurs en France."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

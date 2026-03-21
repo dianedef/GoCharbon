@@ -1,7 +1,7 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
-type: Guide
+type: outil
 statut: en-attente
 _priorité: urgent
 tags:

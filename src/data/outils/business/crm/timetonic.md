@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: multi-region
+sourcesVerification:
+- https://fr.home.timetonic.com/legal/legal-notice
+- https://fr.home.timetonic.com/legal/privacy-policy
+- https://fr.home.timetonic.com/contact-us
+notesQualification: TimeTonic est edite par O'MAILEY SAS en France avec un ancrage operationnel francais clair. En revanche, la politique de confidentialite prevoit des traitements possibles en dehors de France par des tiers ou des societes du groupe, ce qui justifie une lecture prudente sur l'hebergement et la responsabilite.
+methodologieVersion: gocharbon-v1
 title: TimeTonic
 author: Diane
 tags:
@@ -11,6 +23,7 @@ description: TimeTonic est une plateforme no-code française de gestion et colla
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://home.timetonic.com
+u_derniere_maj: '2026-03-20'
 ---
 
 # TimeTonic

@@ -1,17 +1,32 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: K-Inventory
 author: Diane
 tags:
   - 'Outils Français'
   - 'Gestion Projet'
   - 'Productivité'
+  - Outils
 description: "K-Inventory est le logiciel français de gestion d'inventaire et de stock. Suivi en temps réel, code-barres, multi-sites. Pour PME, artisans, associations."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://k-inventory.com/
 u_origine: "FR"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+  - https://www.k-inventory.com/en/contact
+  - https://www.k-inventory.com/hc
+  - https://www.k-inventory.com/
+notesQualification: "K inventory présente une structure opératrice française avec siège à La Défense, et son centre d'aide officiel documente explicitement un hébergement OVHCloud et Ikoula exclusivement en France. Le niveau de responsabilité peut donc être qualifié de fort."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # K-Inventory

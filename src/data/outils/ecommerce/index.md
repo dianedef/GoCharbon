@@ -1,5 +1,5 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: OUTILS E-COMMERCE FRANÇAIS
 author: Diane

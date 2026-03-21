@@ -1,16 +1,31 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Wudo
 author: Diane
 tags:
   - 'Outils Français'
   - 'Communication'
+  - Outils
 description: "Wudo est la plateforme française de réseau professionnel privé et de mise en relation. Networking intelligent pour communautés pro, alumni, clusters."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://wudo.io/
 u_origine: "FR"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+  - https://wudo.io/mentions-legales/
+  - https://wudo.io/politique-de-confidentialite/
+  - https://wudo.io/contact/
+notesQualification: "Wudo est édité par Wudo SAS, société française domiciliée dans le Doubs. Les mentions légales indiquent un hébergement OVH en France et une gouvernance locale claire ; le niveau de responsabilité reste partiel, faute de documentation technique plus détaillée sur l'ensemble du service."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Wudo

@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Noticia
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Noticia est la solution française de ticket de caisse dématérialisé par QR code. 500+ magasins. Loi AGEC. Sans app, sans email. Marseille."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

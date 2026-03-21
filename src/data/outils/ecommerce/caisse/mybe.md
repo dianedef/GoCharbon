@@ -1,10 +1,12 @@
 ---
+section: outils
 title: mybe
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "mybe est la caisse cloud tout-en-un française pour les commerces de proximité. 1000+ points de vente. 4.9/5 Google. Fondée 2022. Dès 39€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

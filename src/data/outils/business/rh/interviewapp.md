@@ -1,10 +1,12 @@
 ---
+section: outils
 title: InterviewApp
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "InterviewApp est la plateforme française d'entretien vidéo différé et live pour le recrutement. 600+ clients. IA analyse. Paris. Depuis 2012."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

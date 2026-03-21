@@ -1,10 +1,24 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.quoteo.fr/contact/
+- https://www.quoteo.fr/help/
+notesQualification: Quoteo se presente comme un outil francais pour independants et artisans, avec un hebergement annonce en France pres de Roubaix; les pages consultees ne detaillaient pas davantage la structure legale.
+methodologieVersion: gocharbon-v1
 title: Quoteo
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Quoteo est le logiciel de devis et facturation pour artisans et TPE du bâtiment. Plan gratuit. Fondé près de Lille. Dès 0€. Early stage."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg

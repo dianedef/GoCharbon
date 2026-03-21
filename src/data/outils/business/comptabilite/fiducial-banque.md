@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+societeMere: Groupe Fiducial
+sourcesVerification:
+- https://www.fiducial.fr/BanquePro/Mentions-Legales
+- https://www.fiducial-banque.fr/
+notesQualification: Fiducial Banque est un etablissement de credit francais base a Courbevoie au sein du groupe Fiducial; l'hebergement du site est assure en France et l'encadrement reglementaire est tres explicite.
+methodologieVersion: gocharbon-v1
 title: Fiducial Banque
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "Fiducial Banque est la banque pro française pour TPE/PME. Agréée ACPR. Élue banque pro la moins chère (MoneyVox). Groupe Fiducial. Dès 12€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

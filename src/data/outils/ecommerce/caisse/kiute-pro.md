@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Kiute Pro
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "Kiute Pro (devenu Booksy) est le logiciel tout-en-un pour salons de coiffure et beauté. 10K salons. Racheté par Booksy (Pologne) en 2021. Dès 49€/mois."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

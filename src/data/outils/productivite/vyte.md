@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: Vyte
 author: Diane
 tags:
@@ -11,6 +11,22 @@ description: Vyte est un outil français de prise de rendez-vous en ligne. Plani
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.vyte.in/fr
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.vyte.in/fr/mentions-legales
+- https://www.vyte.in/fr/politique-de-confidentialite
+- https://www.vyte.in/fr/gdpr
+notesQualification: 'Vyte.in SAS est une société française basée à Paris. Les mentions
+  légales et la politique de confidentialité documentent un traitement opéré depuis
+  la France et un hébergement AWS en Île-de-France, ce qui justifie un ancrage fort
+  avec un niveau de responsabilité partiel.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # Vyte

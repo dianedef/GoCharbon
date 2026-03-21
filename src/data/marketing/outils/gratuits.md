@@ -1,10 +1,11 @@
 ---
-section: apps
+section: outils
 metadataEnrichedAt: null
 title: Outils Marketing Gratuits
 author: Diane
 tags:
 - Marketing
+- Outils
 description: Guide complet des meilleurs outils marketing gratuits
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg

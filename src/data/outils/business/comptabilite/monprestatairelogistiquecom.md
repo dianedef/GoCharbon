@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: faible
+niveauResponsabilite: indetermine
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.pappers.fr/entreprise/monprestatairelogistiquecom-921082004
+- https://www.monprestatairelogistique.com
+- https://www.aetl.eu/antennes/16-paris-nord/articles/24-technologie-innovation-transformation-numerique/2343/2023/07/06/monprestatairelogistiquecom-la-plateforme-pour-choisir-le-bon-partenaire.html
+notesQualification: Monprestatairelogistique.com est une initiative francaise lancee a Paris, mais le registre public indique une radiation fin 2024 et les sources accessibles ne permettent pas de documenter un hebergement ou une structure encore active. L'ancrage est donc classe faible.
+methodologieVersion: gocharbon-v1
 tags:
 - Outils
 imageNameKey: monprestatairelogistique

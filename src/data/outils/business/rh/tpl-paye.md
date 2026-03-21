@@ -1,10 +1,12 @@
 ---
+section: outils
 title: TPL Paye
 author: Diane
 tags:
   - 'Outils Français'
   - 'Ressources Humaines'
   - 'Business'
+  - Outils
 description: "TPL Paye est le logiciel de paie en ligne français pour TPE/PME. Bulletins conformes en 5 min. DSN automatique. Dès 19€/mois. Depuis 2015."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

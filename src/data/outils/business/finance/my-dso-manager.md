@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: My DSO Manager
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Comptabilité'
   - 'Business'
+  - Outils
 description: "My DSO Manager est le logiciel français de recouvrement et gestion du poste client. 2100+ clients, 95 pays, IA MAIA. Dès 0€. Bootstrappé, 5.5M€ CA."
 pubDate: "2026-03-14"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,18 @@ u_site: https://www.mydsomanager.com/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-14"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+  - https://www.mydsomanager.com/contact.php
+  - https://www.mydsomanager.com/fr/privacy.php
+  - https://www.mydsomanager.com/fr/rse.php
+  - https://www.mydsomanager.com/
+notesQualification: "My DSO Manager est publie par P2B Solutions, dont la documentation officielle situe les bureaux a Meylan et indique un developpement integralement pilote par une equipe francaise. La politique de confidentialite affirme un hebergement en France, des transferts interdits a des tiers, et un chiffrement TLS en transit. La combinaison siege francais + hebergement francais + transparence RGPD permet une qualification forte."
+methodologieVersion: gocharbon-v1
 ---
 
 # My DSO Manager

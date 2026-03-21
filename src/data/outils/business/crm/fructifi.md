@@ -1,6 +1,20 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+paysFiscal: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://landing.fructifi.io/
+- https://landing.fructifi.io/demo
+- https://go.sellsy.com/applications/fructifi
+- https://www.pappers.fr/entreprise/fructifi-828147025
+notesQualification: Fructifi est rattache a une SAS francaise immatriculee a Paris d'apres le registre public, ce qui permet de sortir du blocage. En revanche, les sources accessibles ne documentent pas suffisamment l'hebergement et la securite pour aller au-dela d'une qualification prudente.
+methodologieVersion: gocharbon-v1
 title: Fructifi
 author: Diane
 tags:
@@ -10,6 +24,7 @@ description: 'Fructifi : outil français de Sales Intelligence B2B. Prédit les 
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://landing.fructifi.io/
+u_derniere_maj: '2026-03-20'
 ---
 
 # Fructifi

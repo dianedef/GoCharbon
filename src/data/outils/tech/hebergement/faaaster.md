@@ -1,10 +1,12 @@
 ---
+section: outils
 title: Faaaster
 author: Diane
 tags:
   - 'Outils Français'
   - 'Hébergement'
   - 'Tech'
+  - Outils
 description: "Faaaster est l'hébergement WordPress français haute performance. Serveurs LiteSpeed, cache intégré, staging. Alternative française à Kinsta et WP Engine."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

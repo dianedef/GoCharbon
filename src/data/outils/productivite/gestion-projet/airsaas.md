@@ -1,10 +1,14 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: AirSaaS
+type: outil
 author: Diane
 tags:
   - 'Outils Français'
   - 'Gestion Projet'
   - 'Productivité'
+  - Outils
 description: "AirSaaS est la plateforme française de Customer Success et de pilotage de projets clients. Suivi onboarding, santé client, NPS. Alternative à Gainsight."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg
@@ -12,6 +16,17 @@ u_site: https://www.airsaas.com/
 u_origine: "FR"
 u_langue_fr: true
 u_derniere_maj: "2026-03-15"
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+  - https://www.airsaas.io/en/legal-notices
+  - https://www.airsaas.io/en/legal/privacy-policy
+  - https://www.airsaas.io/en/legal/personal-data
+notesQualification: "AirSaaS est operee par une SAS francaise basee a Labege. La documentation officielle mentionne un hebergement de certaines donnees chez Scaleway, OVH et Crisp en France, mais la pile de sous-traitance inclut aussi plusieurs services americains et le site public est heberge sur Webflow avec serveurs AWS aux Etats-Unis. Le niveau de responsabilite reste donc partiel."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # AirSaaS

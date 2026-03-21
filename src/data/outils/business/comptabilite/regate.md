@@ -1,6 +1,19 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+societeMere: Qonto
+sourcesVerification:
+- https://www.regate.io/partenaires-categories/paiement
+- https://qonto.com/fr/accountants/regate-joins-qonto
+- https://support-regate-fr.qonto.com/hc/fr-fr/articles/36252984411537-Tout-ce-qu-il-faut-savoir-sur-la-migration-de-votre-compte-Treezor
+notesQualification: Regate reste un produit ne en France et base a Paris, mais il fait desormais partie de l'ecosysteme Qonto; les sources publiques confirment le cadre ACPR et les partenaires de paiement, sans exposer nettement l'hebergement principal.
+methodologieVersion: gocharbon-v1
 title: Regate by Qonto
 author: Diane
 tags:

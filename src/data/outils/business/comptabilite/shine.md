@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.shine.fr/privacy/fr/
+- https://www.shine.fr/contacter-shine/
+- https://help.shine.fr/fr/articles/5809680-securisation-des-donnees-et-des-fonds-de-nos-clients
+notesQualification: Shine est une SAS francaise basee a Paris avec une politique de protection des donnees tres detaillee et un cadre bancaire explicite; l'hebergement principal n'est pas documente publiquement dans les sources consultees et l'actionnariat reste moins lisible.
+methodologieVersion: gocharbon-v1
 title: Shine
 author: Diane
 tags:

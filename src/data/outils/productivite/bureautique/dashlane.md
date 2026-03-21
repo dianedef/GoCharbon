@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: Dashlane
 author: Diane
 tags:
@@ -10,6 +10,23 @@ description: Dashlane est le gestionnaire de mots de passe français. Zero-knowl
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.dashlane.com
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.dashlane.com/fr/legal
+- https://www.dashlane.com/privacy
+- https://support.dashlane.com/hc/en-us/articles/360012686840-Security-at-Dashlane
+notesQualification: 'Dashlane SAS est juridiquement établie à Paris et conserve un
+  ancrage français clair, mais l''organisation est fortement internationalisée. Les
+  sources officielles documentent très bien la sécurité et le modèle zero-knowledge,
+  sans préciser publiquement la localisation opérationnelle complète des données :
+  qualification conservatrice en ancrage partiel et responsabilité forte.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # Dashlane

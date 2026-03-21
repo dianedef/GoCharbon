@@ -1,4 +1,6 @@
 ---
+section: outils
+metadataEnrichedAt: "2026-03-20"
 title: Cision
 author: Diane
 tags:
@@ -6,11 +8,23 @@ tags:
   - 'Communication'
 description: "Cision est la plateforme mondiale de relations presse et de veille média. Base journalistes, diffusion communiqués, analytics RP. Version FR complète."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.cision.fr/
 u_origine: "US"
 u_langue_fr: true
-u_derniere_maj: "2026-03-15"
+u_derniere_maj: "2026-03-20"
+type: outil
+qualificationLocale: hors-union-europeenne
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: États-Unis
+hebergementDonnees: inconnu
+sourcesVerification:
+  - https://www.cision.com/legal/privacy-policy/
+  - https://privacy.cision.com/dataprivacynotice_customersprospects
+  - https://www.cision.com/about/media-kit/
+notesQualification: "Les sources officielles positionnent clairement Cision comme un groupe américain piloté depuis Chicago. La gouvernance et le contrôle juridique sont hors UE ; l'hébergement n'est pas documenté de manière assez précise pour aller au-delà d'un niveau partiel."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Cision

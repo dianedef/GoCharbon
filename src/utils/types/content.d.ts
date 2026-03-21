@@ -15,6 +15,27 @@ export interface Post {
         draft?: boolean;
         pubDate?: Date | string;
         author?: string;
+        section?: "blog" | "outils" | "tutos" | "parcours";
+        qualificationLocale?:
+            | "france"
+            | "union-europeenne"
+            | "hors-union-europeenne"
+            | "indetermine";
+        ancrageEconomique?: "fort" | "partiel" | "faible" | "indetermine";
+        niveauResponsabilite?: "fort" | "partiel" | "faible" | "indetermine";
+        paysSiege?: string;
+        paysFiscal?: string;
+        paysFondateurs?: string[];
+        hebergementDonnees?:
+            | "france"
+            | "union-europeenne"
+            | "hors-union-europeenne"
+            | "multi-region"
+            | "inconnu";
+        societeMere?: string;
+        sourcesVerification?: string[];
+        notesQualification?: string;
+        methodologieVersion?: string;
     };
 }
 
@@ -38,7 +59,7 @@ export interface FilterTagsProps {
   mainTags: string[];
   tagHierarchy: TagHierarchy;
   initialPosts: Post[];
-  scope?: "all" | "apps" | "blog" | "tutos" | "parcours";
+  scope?: "all" | "outils" | "blog" | "tutos" | "parcours";
 }
 
 export interface PostMetadata {

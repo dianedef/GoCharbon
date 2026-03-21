@@ -1,12 +1,14 @@
 ---
+section: outils
 title: Kastorr
 author: Diane
 tags:
   - 'Outils Français'
   - 'Formation'
+  - Outils
 description: "Kastorr est la plateforme française de LMS et e-learning pour les organismes de formation. Gestion administrative, catalogue, vente de formations en ligne."
 pubDate: "2026-03-15"
-imgUrl: ../../../../assets/astro.jpeg
+imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.kastorr.com/
 u_origine: "FR"
 u_langue_fr: true

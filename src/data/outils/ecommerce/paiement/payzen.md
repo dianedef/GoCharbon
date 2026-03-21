@@ -1,10 +1,12 @@
 ---
+section: outils
 title: PayZen
 author: Diane
 tags:
   - 'Outils Français'
   - 'Paiement'
   - 'E-commerce'
+  - Outils
 description: "PayZen est la solution de paiement en ligne de Lyra Network. 120+ pays, 250+ moyens de paiement. PCI-DSS. Groupe français depuis 2001. Bordeaux."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

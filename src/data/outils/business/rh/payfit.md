@@ -1,7 +1,8 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: "2026-03-21"
 title: Payfit
+type: outil
 author: Diane
 tags:
 - Outils
@@ -11,6 +12,18 @@ description: '[Découvrez notre histoire](https://payfit.com/fr/notre-histoire/)
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://payfit.com/fr/
+u_derniere_maj: "2026-03-21"
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: union-europeenne
+sourcesVerification:
+  - https://payfit.com/fr/mentions-legales/
+  - https://payfit.com/fr/politique-de-confidentialite/
+  - https://payfit.com/fr/contact-securite/
+notesQualification: "PayFit est opere par PayFit SAS a Paris. Les mentions legales et la politique de confidentialite documentent une gouvernance francaise claire et un cadre securite mature, mais l'entreprise est deployee a l'echelle europeenne et s'appuie sur AWS, sans documentation publique assez fine pour qualifier un ancrage economique ou une responsabilite au niveau fort. Je reste donc sur une qualification prudente."
+methodologieVersion: "gocharbon-v1"
 ---
 
 # Payfit

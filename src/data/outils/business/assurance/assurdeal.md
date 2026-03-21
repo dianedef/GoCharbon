@@ -1,10 +1,25 @@
 ---
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: hors-union-europeenne
+ancrageEconomique: faible
+niveauResponsabilite: partiel
+paysSiege: Royaume-Uni
+hebergementDonnees: france
+sourcesVerification:
+- https://www.assurdeal.fr/fr/pages/mentions-legales
+- https://www.assurdeal.fr/fr/pages/cgu
+- https://www.assurdeal.fr/en/contact-us
+notesQualification: Malgre un ciblage fort du courtage francais, Assurdeal est edite par une societe de droit anglais; l'ancrage economique local reste donc faible, meme si l'hebergement annonce se situe chez AWS a Paris.
+methodologieVersion: gocharbon-v1
 title: Assurdeal
 author: Diane
 tags:
   - 'Outils Français'
   - 'Admin'
   - 'Business'
+  - Outils
 description: "Assurdeal est le comparateur d'assurances pro français. RC Pro, mutuelle entreprise, locaux, flotte. Devis instantanés et souscription en ligne."
 pubDate: "2026-03-15"
 imgUrl: ../../../../assets/astro.jpeg

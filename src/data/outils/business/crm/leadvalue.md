@@ -1,6 +1,19 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: fort
+paysSiege: France
+paysFiscal: France
+hebergementDonnees: france
+sourcesVerification:
+- https://leadvalue.fr/mentions-legales/
+- https://leadvalue.fr/protection-des-donnees/
+- https://leadvalue.fr/contactez-nous/
+notesQualification: Leadvalue est une societe francaise domiciliee a Paris et annonce un hebergement OVH en France pour ses sites et informations. La filiation au groupe Monama est visible publiquement, mais l'ancrage economique reste note partiel faute d'informations plus completes sur la structure de groupe.
+methodologieVersion: gocharbon-v1
 title: LeadValue
 author: Diane
 tags:
@@ -10,6 +23,7 @@ description: LeadValue est un CRM français spécialisé dans la gestion et la d
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://crm.leadvalue.fr
+u_derniere_maj: '2026-03-20'
 ---
 
 # LeadValue

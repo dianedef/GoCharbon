@@ -1,6 +1,6 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
 title: Acollab
 author: Diane
 tags:
@@ -11,6 +11,21 @@ description: Acollab est une plateforme collaborative française par Akelio. Ges
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 u_site: https://www.acollab.com
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: fort
+paysSiege: France
+hebergementDonnees: france
+sourcesVerification:
+- https://www.acollab.com/mentions-legales/
+- https://www.acollab.com/
+- https://www.acollab.com/contact/
+notesQualification: 'Acollab est édité par Akelio, société française basée au Mans.
+  Les mentions légales et les pages officielles documentent un hébergement OVH en
+  France et une gouvernance locale claire, ce qui justifie une qualification forte.'
+methodologieVersion: gocharbon-v1
+u_derniere_maj: '2026-03-20'
 ---
 
 # Acollab

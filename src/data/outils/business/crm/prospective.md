@@ -1,6 +1,18 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-20'
+type: outil
+qualificationLocale: france
+ancrageEconomique: partiel
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://www.prospective-fr.com/
+- https://www.prospective-fr.com/contact
+- https://www.prospective-fr.com/telecharger
+notesQualification: Prospective est rattache a Matisoft Edition, editeur francais base dans la Sarthe. Les pages publiques documentent bien l'ancrage local mais restent trop legères sur l'hebergement et la gouvernance pour aller au-dela d'une qualification prudente.
+methodologieVersion: gocharbon-v1
 title: Prospective
 author: Diane
 tags:
@@ -10,6 +22,7 @@ description: Prospective est un logiciel français de gestion de contacts pour i
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.prospective-fr.com
+u_derniere_maj: '2026-03-20'
 ---
 
 # Prospective

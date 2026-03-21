@@ -1,6 +1,17 @@
 ---
-section: apps
-metadataEnrichedAt: null
+section: outils
+metadataEnrichedAt: '2026-03-18'
+type: outil
+qualificationLocale: france
+ancrageEconomique: fort
+niveauResponsabilite: partiel
+paysSiege: France
+hebergementDonnees: inconnu
+sourcesVerification:
+- https://axelor.com/fr/mentions-legales/
+- https://axelor.com/fr/politique-de-confidentialite/
+notesQualification: Axelor est une SAS francaise basee a Champs-sur-Marne; les sources publiques confirment le siege et une politique de confidentialite mature, mais l'hebergement applicatif principal n'est pas detaille de facon assez nette.
+methodologieVersion: gocharbon-v1
 title: Axelor
 author: Diane
 tags:
