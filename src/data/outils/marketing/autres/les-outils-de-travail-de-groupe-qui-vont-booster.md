@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: collaboration
 metadataEnrichedAt: null
 tags:
 - Outils

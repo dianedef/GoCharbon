@@ -191,4 +191,12 @@ imgUrl: ../../../assets/astro.jpeg
 - Optimal Workshop
 - Lookback
 
+## Pour aller plus loin
+
+Si tu veux comprendre l'autre côté du miroir, c'est-à-dire les personnes qui réalisent concrètement ces tests pour gagner un revenu annexe, regarde aussi :
+
+- [Tests utilisateurs rémunérés : ce que ça vaut vraiment](/biz/business-mobile/tests-remuneres)
+- [Comparatif des plateformes de tests rémunérés](/biz/business-mobile/comparatif-plateformes-tests-remuneres)
+- [Profil Testeur Utilisateur / Crowdtester](/biz/profils/testeur-utilisateur)
+
 [Découvrir l'Automation Marketing →](/marketing/automation/parcours) 

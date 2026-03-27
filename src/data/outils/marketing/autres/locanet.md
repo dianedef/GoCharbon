@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: business
+toolSubcategoryPrimary: site-web
 metadataEnrichedAt: null
 RS-&-RSS-suivi: null
 Ville: null

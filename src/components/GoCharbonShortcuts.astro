@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import { filterBuildVisiblePosts } from "../utils/build-posts";
 import { applyContentScope } from "../utils/content-section";
+import { ROUTES } from "../config/routes";
 
 const allPosts = filterBuildVisiblePosts(await getCollection("posts"))
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
@@ -23,7 +24,7 @@ const shortcuts = [
     kicker: "Outils francophones",
     title: "Trouve une stack plus vite",
     description: "Va droit aux outils utiles au lieu de comparer au hasard des logiciels qui ne collent ni à ton budget ni à ton niveau.",
-    href: "/outils",
+    href: ROUTES.outils,
     cta: "Voir tous les outils",
     itemCta: "Voir l'outil",
     items: latestOutils,
@@ -32,7 +33,7 @@ const shortcuts = [
     kicker: "Flux RSS",
     title: "Suivre sans laisser ton email",
     description: "Tu veux la veille et les nouveaux contenus sans formulaire ni séquence email ? Le feed est là pour ça.",
-    href: "/feed.xml",
+    href: ROUTES.feed,
     cta: "Ouvrir le feed RSS",
     itemCta: "Voir l'article",
     items: latestBlogPosts,
@@ -41,7 +42,7 @@ const shortcuts = [
     kicker: "Tutos",
     title: "Débloque un problème précis",
     description: "Prospection, acquisition, SEO, automatisation, outils : pioche un guide concret sur le point qui te ralentit maintenant.",
-    href: "/tutos",
+    href: ROUTES.tutos,
     cta: "Voir tous les tutos",
     itemCta: "Voir le tuto",
     items: latestTutos,

@@ -84,6 +84,22 @@
             ✓ {{ strength }}
           </li>
         </ul>
+
+        <div v-if="finalRelatedProfiles.length" class="related-profiles">
+          <h4 class="related-profiles-title">Voies concrètes à explorer</h4>
+          <div class="related-profiles-grid">
+            <a
+              v-for="profile in finalRelatedProfiles"
+              :key="profile.slug"
+              :href="profile.slug"
+              class="related-profile-card no-link-style"
+            >
+              <span class="related-profile-name">{{ profile.title }}</span>
+              <span v-if="profile.description" class="related-profile-description">{{ profile.description }}</span>
+            </a>
+          </div>
+        </div>
+
         <div class="result-actions">
           <a
             v-if="finalBizProfile?.learningPathUrl"
@@ -99,7 +115,7 @@
           <button @click="resetQuiz" class="quiz-btn secondary">
             Refaire le Quiz
           </button>
-          <a href="/outils" class="quiz-btn primary no-link-style">
+          <a :href="ROUTES.outils" class="quiz-btn primary no-link-style">
             Voir les outils
           </a>
           <button
@@ -124,8 +140,13 @@ import {
   setCompletedStepIds,
 } from '../../gamification/pathProgress';
 import { setTaskCompleted } from '../../gamification/xp';
+import {
+  CANONICAL_ARCHETYPES,
+  type CanonicalArchetype,
+} from '../../data/profileTaxonomy';
+import { ROUTES } from '../../config/routes';
 
-type ProfileKey = 'ecommerce' | 'saas' | 'content' | 'service' | 'formation' | 'livecommerce';
+type ProfileKey = CanonicalArchetype;
 type ProfileScores = Record<ProfileKey, number>;
 
 interface BizProfileData {
@@ -133,6 +154,15 @@ interface BizProfileData {
   description: string;
   slug: string;
   tags: string[];
+  learningPathUrl?: string;
+  learningPathId?: string;
+  relatedProfiles?: RelatedProfileData[];
+}
+
+interface RelatedProfileData {
+  title: string;
+  description: string;
+  slug: string;
   learningPathUrl?: string;
   learningPathId?: string;
 }
@@ -193,7 +223,6 @@ const emptyQuizData: QuizPayload = {
     content: { title: 'Contenu', icon: '🎥', description: '', strengths: [] },
     service: { title: 'Service', icon: '🤝', description: '', strengths: [] },
     formation: { title: 'Formation', icon: '📚', description: '', strengths: [] },
-    livecommerce: { title: 'Live Commerce', icon: '🎬', description: '', strengths: [] },
   },
 };
 
@@ -211,9 +240,8 @@ const scores = reactive({
   content: 0,
   service: 0,
   formation: 0,
-  livecommerce: 0,
 });
-const profileKeys: ProfileKey[] = ['ecommerce', 'saas', 'content', 'service', 'formation', 'livecommerce'];
+const profileKeys: ProfileKey[] = [...CANONICAL_ARCHETYPES];
 const activeQuizData = computed<QuizPayload>(() => props.data ?? emptyQuizData);
 
 const currentQuestion = computed(() => activeQuizData.value.questions[currentIndex.value]);
@@ -241,6 +269,7 @@ const finalBizProfile = computed(() => props.bizProfiles[finalResult.value] ?? n
 const secondBizProfile = computed(() =>
   secondResult.value ? props.bizProfiles[secondResult.value.profile] ?? null : null
 );
+const finalRelatedProfiles = computed(() => finalBizProfile.value?.relatedProfiles ?? []);
 
 const finalResultTitle = computed(() => finalBizProfile.value?.title ?? finalResultData.value.title);
 const finalResultDescription = computed(
@@ -312,7 +341,7 @@ const advancedPrefillUrl = computed(() => {
   if (payload.length === 0) {
     return '';
   }
-  return `/quiz-avance?prefill=${encodeURIComponent(JSON.stringify(payload))}`;
+  return `${ROUTES.quizAvance}?prefill=${encodeURIComponent(JSON.stringify(payload))}`;
 });
 
 const goToAdvancedQuiz = () => {
@@ -335,7 +364,7 @@ const goToAdvancedQuiz = () => {
     }
   }
 
-  window.location.assign('/quiz-avance');
+  window.location.assign(ROUTES.quizAvance);
 };
 
 function markQuizStepAsCompleted(pathId: string): void {
@@ -844,6 +873,49 @@ const resetQuiz = () => {
   color: var(--brand-black);
 }
 
+.related-profiles {
+  margin-bottom: 2rem;
+}
+
+.related-profiles-title {
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  color: var(--brand-black);
+}
+
+.related-profiles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem;
+}
+
+.related-profile-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 0.9rem;
+  border: 2px solid var(--brand-black);
+  background: var(--brand-cream);
+  color: var(--brand-black);
+  transition: all 0.2s ease-in-out;
+}
+
+.related-profile-card:hover {
+  transform: translate(2px, 2px);
+  background: var(--brand-yellow);
+}
+
+.related-profile-name {
+  font-weight: 700;
+}
+
+.related-profile-description {
+  font-size: 0.95rem;
+  line-height: 1.45;
+  color: var(--brand-soot);
+}
+
 .result-actions {
   display: flex;
   justify-content: center;
@@ -1023,6 +1095,29 @@ const resetQuiz = () => {
 
 .dark .top-two-card.winner {
   background: var(--brand-yellow);
+  color: var(--brand-black);
+}
+
+.dark .related-profiles-title {
+  color: var(--brand-cream);
+}
+
+.dark .related-profile-card {
+  background: var(--brand-charcoal);
+  border-color: var(--brand-cream);
+  color: var(--brand-cream);
+}
+
+.dark .related-profile-card:hover {
+  background: var(--brand-yellow);
+  color: var(--brand-black);
+}
+
+.dark .related-profile-description {
+  color: var(--brand-cream);
+}
+
+.dark .related-profile-card:hover .related-profile-description {
   color: var(--brand-black);
 }
 </style>

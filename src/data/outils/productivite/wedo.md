@@ -5,6 +5,8 @@ title: WEDO
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: reunions
 description: WEDO est la plateforme collaborative suisse de gestion de réunions et
   tâches. 700+ entreprises, ISO 27001, 4.7/5 Capterra. Dès 19,90€/mois/user. Essai
   14j.

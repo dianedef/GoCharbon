@@ -5,6 +5,8 @@ title: sortlist
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: business
+toolSubcategoryPrimary: marketplace
 description: 'Sortlist, un répertoire en ligne de logiciels SaaS français, s''avère
   un précieux allié pour les entrepreneurs cherchant à optimiser leurs ventes tout
   en gagnant du temps. L''un des '

@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: recommandation
 imageNameKey: yuccan
 u_site: https://yuccan.app/fr/
 u_affi: null

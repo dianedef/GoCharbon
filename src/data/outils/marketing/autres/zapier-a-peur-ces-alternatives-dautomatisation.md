@@ -6,6 +6,8 @@ statut: en-attente
 _priorité: normal
 tags:
 - Outils
+toolCategoryPrimary: tech
+toolSubcategoryPrimary: automatisation
 title: Zapier A Peur Ces Alternatives D'Automatisation Vont Vous Bluffer
 author: Diane
 description: 'Découvre Zapier A Peur Ces Alternatives D''Automatisation Vont Vous

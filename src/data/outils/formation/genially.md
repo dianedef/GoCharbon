@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: null
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: content-interactif
 u_site: https://genially.com/fr/
 u_affi: null
 u_affiAdmin: null

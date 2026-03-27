@@ -3,6 +3,10 @@ section: outils
 metadataEnrichedAt: null
 title: 360Learning
 author: Diane
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: lms
+toolFacets:
+  - ia
 tags:
 - Outils
 description: '360Learning : LMS collaboratif français utilisé par 2 500+ entreprises.

@@ -1,7 +1,7 @@
 module.exports = {
   apps: [{
-    name: "GoCharbon",
-    cwd: "/home/claude/GoCharbon",
+    name: "gocharbon",
+    cwd: "/home/claude/gocharbon",
     script: "bash",
     args: ["-c", "export PORT=3014 && flox activate -- pnpm dev -- --port 3014"],
     env: {

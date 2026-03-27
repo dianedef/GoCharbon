@@ -1,5 +1,6 @@
 ---
 import Button from "./components/Button.astro";
+import { ROUTES } from "../config/routes";
 
 interface Props {
 	variant?: 'compact' | 'full';
@@ -14,7 +15,7 @@ const { variant = 'full' } = Astro.props;
 			<p class="text-lg font-bold poppins text-black dark:text-white">
 				42 parcours interactifs t'attendent — avec checklists, XP et badges.
 			</p>
-			<Button href="/parcours" color="var(--brand-yellow)">
+			<Button href={ROUTES.parcours} color="var(--brand-yellow)">
 				Voir les Parcours
 			</Button>
 		</div>
@@ -29,10 +30,10 @@ const { variant = 'full' } = Astro.props;
 				Entre par le quiz si tu hesites encore. Entre par les parcours si tu veux deja un plan d'action structure.
 			</p>
 			<div class="flex flex-col md:flex-row gap-4 justify-center items-center">
-				<Button href="/quiz" color="var(--brand-yellow)">
+				<Button href={ROUTES.quiz} color="var(--brand-yellow)">
 					Faire le quiz
 				</Button>
-				<Button href="/parcours" color="var(--brand-orange)">
+				<Button href={ROUTES.parcours} color="var(--brand-orange)">
 					Voir les 42 parcours
 				</Button>
 			</div>

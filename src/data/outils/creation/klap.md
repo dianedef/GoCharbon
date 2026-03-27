@@ -2,6 +2,11 @@
 section: outils
 title: Klap
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
+toolFacets:
+  - ia
+  - repurposing
 tags:
   - 'Outils Français'
   - 'Vidéo'

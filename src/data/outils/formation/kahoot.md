@@ -2,6 +2,8 @@
 section: outils
 title: Kahoot!
 author: Diane
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: quiz
 tags:
   - 'Outils'
   - 'Formation'

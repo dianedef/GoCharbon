@@ -2,6 +2,8 @@
 section: outils
 title: Digistorm
 author: Diane
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: content-interactif
 tags:
   - 'Outils Français'
   - 'Formation'

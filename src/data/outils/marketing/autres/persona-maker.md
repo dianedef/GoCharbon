@@ -9,6 +9,8 @@ imageNameKey: null
 datePublié: null
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: personas
 u_interne: null
 u_externe: null
 u_site: https://www.personamaker.co

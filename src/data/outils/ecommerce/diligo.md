@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: logistique
+toolFacets:
+  - dernier-kilometre
+  - velo-cargo
 metadataEnrichedAt: null
 title: Diligo
 author: Diane

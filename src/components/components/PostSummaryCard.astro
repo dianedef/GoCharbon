@@ -7,14 +7,16 @@ import EngagementBadge from "./EngagementBadge.astro";
 import { Image } from "astro:assets";
 import { extractMainTags, getMainTagLabel } from "../../utils/tag-groups";
 import { computeEngagementBadge } from "../../utils/tool-qualification";
+import { getToolDisplayChips } from "../../utils/tool-taxonomy";
 
 type Props = PostSummaryCardProps;
 
 const { post, index = 0 } = Astro.props;
 const { data } = post;
 const isInitialLoad = index < 2;
-const mainTags = extractMainTags(data.tags);
+const mainTags = extractMainTags(data.tags).slice(0, 2);
 const isToolPost = data.section === "outils";
+const toolDisplayChips = getToolDisplayChips({ id: post.id, data });
 const engagementBadge = isToolPost
 	? computeEngagementBadge({
 		qualificationLocale: data.qualificationLocale,
@@ -122,20 +124,33 @@ const buttonColor = 'var(--brand-copper)';
 
 			<div class="hidden sm:inline-block">
 				<div class="flex justify-between items-center">
-					<ul class="flex flex-wrap gap-4 mt-2">
-						{
-							mainTags.map((mainTag) => (
-								<li>
-									<a
-										class="sanchez"
-										href={`/tag/${encodeURIComponent(mainTag)}`}
-									>
-										<Pill>{getMainTagLabel(mainTag)}</Pill>
-									</a>
-								</li>
-							))
-						}
-					</ul>
+						<ul class="flex flex-wrap gap-4 mt-2">
+							{isToolPost
+								? toolDisplayChips.map((chip) => (
+									<li>
+										{chip.href ? (
+											<a
+												class="sanchez"
+												href={chip.href}
+											>
+												<Pill>{chip.label}</Pill>
+											</a>
+										) : (
+											<Pill>{chip.label}</Pill>
+										)}
+									</li>
+								))
+								: mainTags.map((mainTag) => (
+									<li>
+										<a
+											class="sanchez"
+											href={`/tag/${encodeURIComponent(mainTag)}`}
+										>
+											<Pill>{getMainTagLabel(mainTag)}</Pill>
+										</a>
+									</li>
+								))}
+						</ul>
 					{
 						data.draft && (
 							<span class="draft-badge bg-primary rounded-full border-2 py-1 px-4 text-sm card-shadow">

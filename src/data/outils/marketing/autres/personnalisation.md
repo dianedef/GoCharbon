@@ -6,6 +6,8 @@ statut: en-attente
 _priorité: normal
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: personnalisation
 title: Personnalisation
 author: Diane
 description: 'Découvre Personnalisation : outil français pour entrepreneurs, fonctionnalités

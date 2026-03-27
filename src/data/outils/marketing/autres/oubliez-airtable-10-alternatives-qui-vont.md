@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: tech
+toolSubcategoryPrimary: no-code
 title: Oubliez Airtable 10 Alternatives Qui Vont Révolutionner Votre Productivité
 author: Diane
 description: 'Découvre Oubliez Airtable 10 Alternatives Qui Vont Révolutionner Votre

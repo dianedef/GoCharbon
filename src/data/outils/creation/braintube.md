@@ -2,6 +2,10 @@
 section: outils
 title: BrainTube
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: creation-contenu
+toolFacets:
+  - ia
 tags:
   - 'Outils Français'
   - 'Vidéo'

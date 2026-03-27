@@ -5,6 +5,8 @@ title: reputation
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: reputation
 description: B-Reputation est une solution essentielle pour les entrepreneurs en France.
   Cette plateforme offre une vue à 360° sur plus de 11 millions d'entreprises et 5
   millions de dirigeants,

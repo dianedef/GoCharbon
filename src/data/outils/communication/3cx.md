@@ -18,6 +18,8 @@ author: Diane
 tags:
   - 'Outils'
   - 'Communication'
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: telephonie
 description: "3CX est le standard téléphonique IP (PBX) avec visio, chat et intégrations CRM. Solution internationale avec version FR complète. Fondé en 2005."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

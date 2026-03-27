@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: cms
+toolFacets:
+  - configurateur
+  - ecommerce
 metadataEnrichedAt: null
 tags:
 - Outils

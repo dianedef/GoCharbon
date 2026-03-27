@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: messagerie-omnicanale
 metadataEnrichedAt: null
 type: outil
 tags:

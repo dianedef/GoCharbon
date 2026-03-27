@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: lead-generation
 metadataEnrichedAt: null
 tags:
 - Outils

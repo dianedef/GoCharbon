@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: analytics
 metadataEnrichedAt: null
 title: DashThis
 author: Diane

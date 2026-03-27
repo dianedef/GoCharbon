@@ -2,6 +2,11 @@
 section: outils
 title: Qlip
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
+toolFacets:
+  - ia
+  - repurposing
 tags:
   - 'Outils Français'
   - 'Vidéo'

@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: autres
 imageNameKey: stiilt
 u_site: https://www.stiilt.com
 u_affi: null

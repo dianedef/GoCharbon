@@ -53,6 +53,8 @@ Structure d'email qui fonctionne:
 - une idée principale,
 - un CTA unique.
 
+Pour approfondir le copywriting des emails, voir [Séquences Email Copywriting](/marketing/copywriting/email-sequences).
+
 ## 4) Mesurer et améliorer
 
 Métriques clés:

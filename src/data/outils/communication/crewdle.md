@@ -5,6 +5,8 @@ title: Crewdle
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: visio
 description: Crewdle est une visioconférence écologique et sécurisée en peer-to-peer.
   Zéro serveur, chiffrement bout en bout, 600 000+ utilisateurs. Gratuit jusqu'à 12
   participants.

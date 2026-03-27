@@ -16,6 +16,8 @@ imgUrl: ../../../assets/astro.jpeg
 
 Le neuromarketing utilise les découvertes des neurosciences pour influencer les décisions d'achat. Amazon, par exemple, génère 35% de ses revenus grâce à son système de recommandation basé sur ces principes. Découvrons les techniques les plus courantes pour mieux les comprendre et s'en protéger.
 
+Ces mécanismes sont au cœur du [copywriting](/marketing/copywriting/index) et de la [déconstruction de croyances](/marketing/copywriting/croyances) en persuasion écrite.
+
 ## Les Mécanismes Psychologiques Fondamentaux
 
 ### 1. L'Effet d'Urgence

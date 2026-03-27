@@ -4,6 +4,8 @@ import { Breadcrumbs } from "astro-breadcrumbs";
 import "astro-breadcrumbs/breadcrumbs.css";
 import { Home, ChevronRight } from "lucide-astro";
 import { breadcrumbsConfig } from "../../config/breadcrumbs";
+import { SITE } from "../../config/site";
+import { ROUTES } from "../../config/routes";
 import type {
 	BaseNavigationProps,
 	NavigationItem,
@@ -13,40 +15,40 @@ import type {
 type Props = BaseNavigationProps;
 
 const navigationItems: NavigationItem[] = [
-	{ name: "Parcours", url: "/parcours" },
-	{ name: "Outils", url: "/outils" },
-	{ name: "Blog", url: "/blog" },
-	{ name: "Tutos", url: "/tutos" },
-	{ name: "Progression", url: "/progression" },
+	{ name: "Parcours", url: ROUTES.parcours },
+	{ name: "Outils", url: ROUTES.outils },
+	{ name: "Blog", url: ROUTES.blog },
+	{ name: "Tutos", url: ROUTES.tutos },
+	{ name: "Progression", url: ROUTES.progression },
 ];
 
 const socialIcons: SocialLink[] = [
 	{
 		name: "YouTube",
-		url: "https://www.youtube.com/@charbon",
+		url: SITE.social.youtube,
 		icon: "i-uil-youtube",
 	},
 	{
 		name: "Twitter",
-		url: "https://x.com/charbon",
+		url: SITE.social.x,
 		icon: "i-uil-twitter",
 	},
 	{
 		name: "Instagram",
-		url: "https://www.instagram.com/charbon",
+		url: SITE.social.instagram,
 		icon: "i-uil-instagram",
 	},
 	{
 		name: "LinkedIn",
-		url: "https://www.linkedin.com/company/charbon",
+		url: SITE.social.linkedin,
 		icon: "i-uil-linkedin",
 	},
 	{
 		name: "Facebook",
-		url: "https://www.facebook.com/charbon",
+		url: SITE.social.facebook,
 		icon: "i-uil-facebook",
 	},
-	{ name: "RSS", url: "/feed.xml", icon: "i-uil-rss" },
+	{ name: "RSS", url: ROUTES.feed, icon: "i-uil-rss" },
 ];
 
 const { pageTitle } = Astro.props;
@@ -120,7 +122,7 @@ const worldIcons = {
 				aria-label="Retour à l'accueil"
 				class="inline-block cursor-pointer z-10 relative"
 			>
-				<span class="righteous text-3xl md:text-5xl text-black dark:text-yellow-soft">GOCHARBON</span>
+				<span class="righteous text-3xl md:text-5xl text-black dark:text-yellow-soft">{SITE.nameUpper}</span>
 			</a>
 			<Breadcrumbs {...breadcrumbsConfig}>
 				<Home slot="home" class="w-5 h-5" />
@@ -163,7 +165,7 @@ const worldIcons = {
 							<a
 								href={item.url}
 								target="_blank"
-								title={`Voir GoCharbon sur ${item.name}`}
+								title={`Voir ${SITE.name} sur ${item.name}`}
 							>
 								<div
 									class:list={[item.icon, "w-6 h-6 md:w-7 md:h-7"]}
@@ -233,7 +235,7 @@ const worldIcons = {
 							href={item.url}
 							target="_blank"
 							rel="noopener noreferrer"
-							title={`Voir GoCharbon sur ${item.name}`}
+							title={`Voir ${SITE.name} sur ${item.name}`}
 							class="mobile-link"
 						>
 							<div class:list={[item.icon, "w-7 h-7"]} />

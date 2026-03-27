@@ -3,6 +3,10 @@ section: outils
 metadataEnrichedAt: null
 title: Storyfox
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
+toolFacets:
+  - ia
 tags:
 - Outils
 description: Storyfox est la plateforme française de création vidéo d'entreprise avec

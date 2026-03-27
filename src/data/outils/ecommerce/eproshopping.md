@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: cms
+toolFacets:
+  - saas
+  - petites-boutiques
 metadataEnrichedAt: null
 title: eProShopping
 author: Diane

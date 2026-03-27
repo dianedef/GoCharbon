@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: bureautique
 imageNameKey: null
 u_site: null
 title: Organisez Vous Sur Notion Comme Un Génie De La Productivité

@@ -5,6 +5,8 @@ title: Callbell
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: messagerie-omnicanale
 description: Callbell centralise WhatsApp, Messenger, Instagram et Telegram en une
   inbox multi-agents. Fondé à Paris en 2019. Bootstrappé. 2000+ clients. Dès 15€/mois.
 pubDate: '2024-03-25'

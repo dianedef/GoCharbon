@@ -4,6 +4,8 @@ metadataEnrichedAt: '2026-03-20'
 type: outil
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: collaboration
 imageNameKey: glowbl
 u_site: https://www.glowbl.com/fr/
 u_affi: null

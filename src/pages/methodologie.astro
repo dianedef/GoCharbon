@@ -1,6 +1,7 @@
 ---
 import Layout from "../layouts/Default.astro";
 import Button from "../components/components/Button.astro";
+import { ROUTES } from "../config/routes";
 
 const qualificationFields = [
   "qualificationLocale",
@@ -73,8 +74,8 @@ const badges = [
         d’ancrage économique.
       </p>
       <div class="flex flex-wrap gap-3 mt-6">
-        <Button href="/outils" color="var(--brand-copper)">Voir les outils</Button>
-        <Button href="/tag/outils" color="var(--brand-yellow)">Explorer les tags outils</Button>
+        <Button href={ROUTES.outils} color="var(--brand-copper)">Voir les outils</Button>
+        <Button href={ROUTES.outils} color="var(--brand-yellow)">Explorer les catégories outils</Button>
       </div>
     </section>
 
@@ -191,8 +192,8 @@ const badges = [
       <h2 class="section-title">Notre politique sur les doublons et le SEO</h2>
       <p class="section-intro">
         Par défaut, un outil doit correspondre à une seule fiche canonique. Si un outil mérite d’apparaître dans
-        plusieurs univers du site, on préfère le faire remonter via les tags, les listes et les parcours plutôt que de
-        créer plusieurs URLs quasi identiques.
+        plusieurs univers du site, on préfère le faire remonter via la taxonomie outil, les listes et les parcours
+        plutôt que de créer plusieurs URLs quasi identiques.
       </p>
       <p class="section-intro">
         On ne garde plusieurs fiches pour un même outil que si les angles éditoriaux sont réellement distincts: usage

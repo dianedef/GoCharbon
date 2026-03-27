@@ -3,6 +3,10 @@ section: outils
 metadataEnrichedAt: '2026-03-20'
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: reunions
+toolFacets:
+  - ia
 imageNameKey: klaxoon
 u_site: https://klaxoon.com/fr
 u_affi: null

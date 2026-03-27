@@ -5,7 +5,7 @@ description: "Plan d'action pour AI Automation Agency."
 category: "tech"
 level: "debutant"
 status: "active"
-updatedAt: "2026-03-01"
+updatedAt: "2026-03-25"
 ---
 ## Ton objectif
 Vendre des systèmes d automatisation IA qui réduisent le temps opérationnel client.

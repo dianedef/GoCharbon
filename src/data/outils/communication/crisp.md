@@ -19,6 +19,8 @@ u_site: https://crisp.chat/fr/partnerships/
 u_affi: null
 title: Crisp
 author: Diane
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: support-client
 description: 'Découvre Crisp : outil français pour entrepreneurs, fonctionnalités
   et avis.'
 pubDate: '2024-03-25'

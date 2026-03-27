@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: social-media
 metadataEnrichedAt: null
 type: outil
 statut: en-attente

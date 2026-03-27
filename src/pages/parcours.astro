@@ -1,10 +1,29 @@
 ---
 import Layout from "../layouts/Default.astro";
 import { learningPaths } from "../data/parcoursData";
-import { getParcoursSlug } from "../data/parcoursSlugs";
+import {
+  CANONICAL_ARCHETYPES,
+  getArchetypeDefinition,
+  getFeaturedProfilesForArchetype,
+} from "../data/profileTaxonomy";
+import { getParcoursRoute } from "../config/routes";
 
 const sortedPaths = [...learningPaths].sort((a, b) => a.profileTitle.localeCompare(b.profileTitle, "fr"));
 const categories = [...new Set(sortedPaths.map((path) => path.category))].sort((a, b) => a.localeCompare(b, "fr"));
+const familyCards = CANONICAL_ARCHETYPES.map((archetype) => {
+  const definition = getArchetypeDefinition(archetype);
+  const pivotPath = learningPaths.find((path) => path.id === definition.pivotProfileSlug) ?? sortedPaths[0];
+  const examples = getFeaturedProfilesForArchetype(archetype).map((profile) => profile.title);
+
+  return {
+    archetype,
+    label: definition.label,
+    description: definition.description,
+    href: getParcoursRoute(pivotPath.id),
+    pivotTitle: pivotPath.profileTitle,
+    examples,
+  };
+});
 
 const spotlights = [
   {
@@ -21,6 +40,11 @@ const spotlights = [
     kicker: "Monter un produit",
     path: sortedPaths.find((path) => path.id === "ecommerce") ?? sortedPaths[2],
     description: "Pour tester un produit, choisir la bonne stack et mieux piloter acquisition et conversion.",
+  },
+  {
+    kicker: "Revenu annexe simple",
+    path: sortedPaths.find((path) => path.id === "testeur-utilisateur") ?? sortedPaths[3] ?? sortedPaths[0],
+    description: "Pour démarrer avec des tests rémunérés, comprendre vite le terrain et éviter les faux espoirs.",
   },
 ];
 ---
@@ -62,15 +86,36 @@ const spotlights = [
       <section class="spotlight-section bg-white-soft dark:bg-black">
         <div class="section-heading">
           <p class="section-kicker">PORTES D'ENTREE</p>
-          <h2 class="section-title poppins">Trois demarrages simples si tu ne sais pas encore quoi ouvrir</h2>
+          <h2 class="section-title poppins">Quatre demarrages simples si tu ne sais pas encore quoi ouvrir</h2>
         </div>
         <div class="spotlight-grid">
           {spotlights.map((entry) => (
-            <a href={`/parcours/${getParcoursSlug(entry.path.id)}`} class="spotlight-card no-link-style">
+            <a href={getParcoursRoute(entry.path.id)} class="spotlight-card no-link-style">
               <p class="spotlight-kicker">{entry.kicker}</p>
               <h3>{entry.path.profileTitle}</h3>
               <p>{entry.description}</p>
               <span>Ouvrir ce parcours →</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="families-section bg-yellow-soft dark:bg-purple-darker">
+        <div class="section-heading">
+          <p class="section-kicker">GRANDES FAMILLES</p>
+          <h2 class="section-title poppins">Le quiz pense en familles. Les parcours détaillent les sous-profils.</h2>
+          <p class="section-copy">
+            Commence par une famille business claire, puis affine avec un sous-profil concret. C'est plus lisible, et ça évite de te noyer dans un catalogue de métiers dès la première page.
+          </p>
+        </div>
+        <div class="family-grid">
+          {familyCards.map((family) => (
+            <a href={family.href} class="family-card no-link-style">
+              <p class="family-label">{family.label}</p>
+              <h3>{family.pivotTitle}</h3>
+              <p>{family.description}</p>
+              <p class="family-examples">Exemples : {family.examples.join(", ")}</p>
+              <span>Explorer cette famille →</span>
             </a>
           ))}
         </div>
@@ -119,7 +164,7 @@ const spotlights = [
         <div class="paths-grid" id="paths-grid">
           {sortedPaths.map((path) => (
             <a
-              href={`/parcours/${getParcoursSlug(path.id)}`}
+              href={getParcoursRoute(path.id)}
               class="path-card no-link-style"
               data-path-card
               data-title={path.profileTitle}
@@ -206,6 +251,7 @@ const spotlights = [
 
   .hero-stat,
   .spotlight-card,
+  .family-card,
   .filter-field,
   .path-card {
     border: 3px solid var(--brand-black);
@@ -229,7 +275,14 @@ const spotlights = [
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .family-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+  }
+
   .spotlight-card,
+  .family-card,
   .path-card {
     display: grid;
     gap: 0.65rem;
@@ -237,20 +290,28 @@ const spotlights = [
   }
 
   .spotlight-card h3,
+  .family-card h3,
   .path-card h2 {
     margin: 0;
     font-size: 1.45rem;
   }
 
   .spotlight-card p,
+  .family-card p,
   .path-card p {
     margin: 0;
     line-height: 1.55;
   }
 
   .spotlight-card span,
+  .family-card span,
   .path-cta {
     font-weight: 700;
+  }
+
+  .family-label,
+  .family-examples {
+    font-size: 0.9rem;
   }
 
   .filters-toolbar {
@@ -356,6 +417,7 @@ const spotlights = [
 
   :global(.dark) .hero-stat,
   :global(.dark) .spotlight-card,
+  :global(.dark) .family-card,
   :global(.dark) .filter-field,
   :global(.dark) .path-card {
     border-color: var(--brand-cream);

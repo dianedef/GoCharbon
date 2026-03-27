@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: url-shortener
 metadataEnrichedAt: null
 tags:
 - Outils

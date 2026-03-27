@@ -157,3 +157,11 @@ Les enquêtes et rewards sont du **pocket money**, pas un business.
 ---
 
 Les enquêtes mobiles, c'est 5€/h max. Si ton temps vaut plus que ça, investis-le ailleurs.
+
+## Pour aller plus loin
+
+Si tu veux rester dans la logique "petit revenu annexe", mais avec des tickets parfois un peu meilleurs que les enquêtes :
+
+- [Tests utilisateurs rémunérés : ce que ça vaut vraiment](/biz/business-mobile/tests-remuneres)
+- [Comparatif des plateformes de tests rémunérés](/biz/business-mobile/comparatif-plateformes-tests-remuneres)
+- [Amazon Vine et alternatives](/biz/business-mobile/amazon-vine-et-alternatives)

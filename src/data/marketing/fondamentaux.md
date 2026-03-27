@@ -33,6 +33,8 @@ Ton message doit être clair en 10 secondes:
 - quel resultat
 - pourquoi toi
 
+Pour structurer ton message, les [frameworks de copywriting](/marketing/copywriting/frameworks) (PAS, AIDA, PASTOR) sont tes meilleurs alliés.
+
 ### 3) Canal
 
 Choisis 1 canal principal + 1 canal support.

@@ -6,6 +6,8 @@ type: outil
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: communautes
 description: Beewac est un réseau social éthique français avec messagerie instantanée.
   Carte interactive, salons, blogs, protection des données. Fondé par Boris Jouatel.
   Sophia Antipolis.

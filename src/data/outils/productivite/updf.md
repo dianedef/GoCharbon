@@ -6,6 +6,10 @@ type: outil
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: pdf
+toolFacets:
+  - ia
 description: UPDF est l'éditeur PDF tout-en-un avec IA intégrée. Édition, annotation,
   OCR, conversion, signature. Superace Software. Licence à vie. Windows/Mac/iOS/Android.
 pubDate: '2024-03-25'

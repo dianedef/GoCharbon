@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: audio
 metadataEnrichedAt: null
 tags:
 - Outils

@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: caisse
+toolFacets:
+  - restauration
+  - pos
 metadataEnrichedAt: null
 title: Innovorder
 author: Diane

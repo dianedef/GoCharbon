@@ -8,6 +8,8 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: communautes
 description: "BubbleYou est la plateforme française de création de communautés en ligne brandées. Espace communautaire personnalisé pour marques et organisations."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

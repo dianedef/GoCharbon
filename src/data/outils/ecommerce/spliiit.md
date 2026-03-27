@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: marketplace
+toolFacets:
+  - abonnements
+  - partage
 metadataEnrichedAt: null
 type: outil
 tags:

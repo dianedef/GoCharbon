@@ -16,6 +16,9 @@ export interface Post {
         pubDate?: Date | string;
         author?: string;
         section?: "blog" | "outils" | "tutos" | "parcours";
+        toolCategoryPrimary?: string;
+        toolSubcategoryPrimary?: string;
+        toolFacets?: string[];
         qualificationLocale?:
             | "france"
             | "union-europeenne"

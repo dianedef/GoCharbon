@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: hexfit
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: coaching-sportif
 u_site: https://www.myhexfit.com/fr-fr/
 u_affi: null
 u_affiAdmin: null

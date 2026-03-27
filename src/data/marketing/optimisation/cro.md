@@ -160,4 +160,12 @@ imgUrl: ../../../assets/astro.jpeg
 - Documentation
 - Knowledge sharing
 
+## Pour aller plus loin
+
+Les tests utilisateurs ne servent pas seulement à améliorer un produit. Pour certains profils, c'est aussi une activité annexe rémunérée. Si tu veux voir ce sujet sous l'angle revenu et plateformes :
+
+- [Tests utilisateurs rémunérés : ce que ça vaut vraiment](/biz/business-mobile/tests-remuneres)
+- [Comparatif des plateformes de tests rémunérés](/biz/business-mobile/comparatif-plateformes-tests-remuneres)
+- [Profil Testeur Utilisateur / Crowdtester](/biz/profils/testeur-utilisateur)
+
 [Découvrir l'UX Design →](/marketing/optimisation/ux) 

@@ -7,6 +7,8 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: telephonie
 description: "Districall est la solution française de standard téléphonique mobile. Numéro fixe pro sur smartphone, transfert d'appels, multi-utilisateurs. Depuis 2021."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

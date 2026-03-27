@@ -5,7 +5,7 @@ description: "Plan d'action pour Chatbot Developer (No-Code)."
 category: "tech"
 level: "debutant"
 status: "active"
-updatedAt: "2026-03-01"
+updatedAt: "2026-03-25"
 ---
 ## Ton objectif
 Creer des chatbots utiles qui resolvent un cas concret (support, contact, démarrage).
@@ -31,7 +31,7 @@ Creer des chatbots utiles qui resolvent un cas concret (support, contact, démar
 - contacts qualifiés via bot
 
 ## Pièges à éviter
-- Bot sans base connaissance fiable
+- Bot sans base connaissance fiable : sur ce point, l'idée utile de [WebCode d'Exa](https://exa.ai/blog/webcode) est simple, un bot ne vaut pas grand-chose s'il ne récupère pas le bon passage de la bonne source
 - Conversation trop rigide
 - Absence process escalation
 

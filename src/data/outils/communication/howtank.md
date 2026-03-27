@@ -7,6 +7,8 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: support-client
 description: "Howtank est la plateforme française de support communautaire. Entraide client peer-to-peer en temps réel sur ton site. Réduit les tickets support."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

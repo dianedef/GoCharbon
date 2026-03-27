@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: cms
+toolFacets:
+  - no-code
+  - ecommerce
 title: Echo HelloWorld
 author: Diane
 tags:

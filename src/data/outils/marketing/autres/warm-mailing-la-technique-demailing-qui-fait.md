@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: email-marketing
 imageNameKey: null
 u_site: null
 title: Warm Mailing La Technique D'Emailing Qui Fait Exploser Les Taux D'Ouverture

@@ -1,6 +1,10 @@
 ---
 section: outils
 metadataEnrichedAt: null
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
+toolFacets:
+  - ia
 tags:
 - Outils
 imageNameKey: greenencoder

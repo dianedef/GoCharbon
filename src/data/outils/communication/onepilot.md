@@ -5,6 +5,10 @@ title: onepilot
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: support-client
+toolFacets:
+  - ia
 description: Onepilot est une solution révolutionnaire de service client externalisé
   qui promet de transformer votre interaction avec les clients en une expérience fluide
   et rentable. Grâce à d

@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: quiz
 metadataEnrichedAt: null
 title: iziquiz
 author: Diane

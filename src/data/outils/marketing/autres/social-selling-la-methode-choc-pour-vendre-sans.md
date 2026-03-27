@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: vente
 title: Social Selling La Méthode Choc Pour Vendre Sans Vendre
 author: Diane
 description: 'Découvre Social Selling La Méthode Choc Pour Vendre Sans Vendre : outil

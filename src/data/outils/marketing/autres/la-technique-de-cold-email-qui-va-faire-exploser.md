@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: email
 metadataEnrichedAt: null
 type: outil
 statut:

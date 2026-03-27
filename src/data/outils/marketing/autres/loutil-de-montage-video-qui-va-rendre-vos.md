@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
 metadataEnrichedAt: null
 tags:
 - Outils

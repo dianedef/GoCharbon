@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: fidelite
+toolFacets:
+  - parrainage
+  - ugc
 metadataEnrichedAt: null
 title: Loyoly (ex-Wiink)
 author: Diane

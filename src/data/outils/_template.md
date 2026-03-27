@@ -14,9 +14,12 @@ author: Diane
 section: outils
 type: outil
 tags:
-  - 'Outils'
-  - 'Sous-catégorie'         # Ex: Comptabilité, CRM, SEO, IA, Email...
-  - 'Catégorie parente'      # Ex: Business, Marketing, Tech...
+  - 'Outils'                 # Tag legacy / compat. Ne pas s'en servir comme taxonomie principale.
+# toolCategoryPrimary: "marketing"      # Taxonomie canonique principale
+# toolSubcategoryPrimary: "seo"         # Sous-catégorie canonique principale
+# toolFacets:                           # Facettes secondaires pour listings transversaux
+#   - "ia"
+#   - "email-marketing"
 description: "1-2 phrases percutantes. Inclure : ce que fait l'outil + chiffre clé (nb clients, levée, note) + prix d'entrée si dispo. Max 160 caractères pour le SEO."
 pubDate: "YYYY-MM-DD"
 imgUrl: ../../assets/astro.jpeg

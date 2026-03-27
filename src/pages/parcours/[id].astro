@@ -3,6 +3,13 @@ import Layout from "../../layouts/Default.astro";
 import { getEntry, render } from "astro:content";
 import { learningPaths, learningPathById } from "../../data/parcoursData";
 import { getParcoursIdFromSlug, getParcoursSlug } from "../../data/parcoursSlugs";
+import { ROUTES, getParcoursRoute } from "../../config/routes";
+import {
+  getArchetypeDefinition,
+  getFeaturedProfilesForArchetype,
+  getProfileTaxonomy,
+  type ProfileSlug,
+} from "../../data/profileTaxonomy";
 import PathProgressTracker from "../../components/vue/PathProgressTracker.vue";
 
 export function getStaticPaths() {
@@ -41,6 +48,23 @@ const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.lev
 const pathTotalSteps = pathData
   ? pathData.modules.reduce((acc, module) => acc + module.steps.length, 0)
   : 0;
+const currentProfileSlug = pathData?.profileSlug as ProfileSlug | undefined;
+const currentTaxonomy = currentProfileSlug ? getProfileTaxonomy(currentProfileSlug) : null;
+const relatedPathIds =
+  currentTaxonomy && currentProfileSlug
+    ? Array.from(
+        new Set([
+          ...(currentProfileSlug === getArchetypeDefinition(currentTaxonomy.primaryArchetype).pivotProfileSlug
+            ? []
+            : [getArchetypeDefinition(currentTaxonomy.primaryArchetype).pivotProfileSlug]),
+          ...getFeaturedProfilesForArchetype(currentTaxonomy.primaryArchetype).map((profile) => profile.profileSlug),
+        ])
+      ).filter((slug) => slug !== currentProfileSlug)
+    : [];
+const relatedPaths = relatedPathIds
+  .map((slug) => learningPathById[slug])
+  .filter(Boolean)
+  .slice(0, 4);
 const pathReferenceStages = [
   {
     key: "charbon",
@@ -148,16 +172,39 @@ const pathReferenceStages = [
               <PathProgressTracker client:load pathData={pathData} />
             </div>
 
+            {relatedPaths.length > 0 && (
+              <section class="path-neighbors" aria-label="Parcours voisins">
+                <div class="path-neighbors-head">
+                  <p class="path-neighbors-kicker">AUTRES VOIES DANS LA MEME FAMILLE</p>
+                  <h2>Parcours voisins à explorer ensuite</h2>
+                  <p>
+                    Tu n'es pas obligé de tout faire. Mais si tu veux comparer deux angles proches dans la même famille business,
+                    commence ici.
+                  </p>
+                </div>
+                <div class="path-neighbors-grid">
+                  {relatedPaths.map((relatedPath) => (
+                    <a href={getParcoursRoute(relatedPath.id)} class="path-neighbor-card no-link-style">
+                      <p class="path-neighbor-category">{relatedPath.category}</p>
+                      <h3>{relatedPath.profileTitle}</h3>
+                      <p>{relatedPath.outcome}</p>
+                      <span>Voir ce parcours →</span>
+                    </a>
+                  ))}
+                </div>
+              </section>
+            )}
+
             <div class="path-actions">
-              <a href="/quiz-avance" class="path-btn no-link-style">Refaire le quiz avancé</a>
-              <a href="/parcours" class="path-btn secondary no-link-style">Voir tous les parcours</a>
+              <a href={ROUTES.quizAvance} class="path-btn no-link-style">Refaire le quiz avancé</a>
+              <a href={ROUTES.parcours} class="path-btn secondary no-link-style">Voir tous les parcours</a>
             </div>
           </>
         ) : (
           <div class="path-not-found">
             <h1>Parcours introuvable</h1>
             <p>Le lien utilise probablement un identifiant invalide.</p>
-            <a href="/parcours" class="path-btn no-link-style">Voir tous les parcours</a>
+            <a href={ROUTES.parcours} class="path-btn no-link-style">Voir tous les parcours</a>
           </div>
         )}
       </div>
@@ -258,6 +305,93 @@ const pathReferenceStages = [
     box-shadow: 3px 3px 0 var(--brand-black);
     transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
     flex-shrink: 0;
+  }
+
+  .path-neighbors {
+    margin-top: 1.4rem;
+    margin-bottom: 1.4rem;
+    background: var(--brand-cream);
+    border: 3px solid var(--brand-black);
+    box-shadow: 6px 6px 0 var(--brand-black);
+    padding: 1.25rem;
+  }
+
+  .path-neighbors-head {
+    display: grid;
+    gap: 0.45rem;
+    margin-bottom: 1rem;
+  }
+
+  .path-neighbors-head h2,
+  .path-neighbors-head p {
+    margin: 0;
+  }
+
+  .path-neighbors-kicker,
+  .path-neighbor-category {
+    margin: 0;
+    font-size: 0.8rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .path-neighbors-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0.9rem;
+  }
+
+  .path-neighbor-card {
+    display: grid;
+    gap: 0.55rem;
+    padding: 1rem;
+    border: 2px solid var(--brand-black);
+    background: var(--brand-cream);
+    color: var(--brand-black);
+    transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+    box-shadow: 4px 4px 0 var(--brand-black);
+  }
+
+  .path-neighbor-card:hover {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0 var(--brand-black);
+    background: var(--brand-yellow);
+  }
+
+  .path-neighbor-card h3,
+  .path-neighbor-card p {
+    margin: 0;
+  }
+
+  .path-neighbor-card span {
+    font-weight: 700;
+  }
+
+  :global(.dark) .path-neighbors {
+    background: var(--brand-ink);
+    border-color: var(--brand-cream);
+    box-shadow: 6px 6px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .path-neighbors-head h2,
+  :global(.dark) .path-neighbors-head p,
+  :global(.dark) .path-neighbors-kicker,
+  :global(.dark) .path-neighbor-category {
+    color: var(--brand-cream);
+  }
+
+  :global(.dark) .path-neighbor-card {
+    background: var(--brand-charcoal);
+    border-color: var(--brand-cream);
+    box-shadow: 4px 4px 0 var(--brand-cream);
+    color: var(--brand-cream);
+  }
+
+  :global(.dark) .path-neighbor-card:hover {
+    background: var(--brand-yellow);
+    box-shadow: 2px 2px 0 var(--brand-cream);
+    color: var(--brand-black);
   }
 
   .path-profile-btn:hover {

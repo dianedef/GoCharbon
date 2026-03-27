@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: autres
+toolFacets:
+  - live-shopping
+  - social-commerce
 title: Reetags
 author: Diane
 tags:

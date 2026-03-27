@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: business
+toolSubcategoryPrimary: revenus
 metadataEnrichedAt: null
 tags:
 - Outils

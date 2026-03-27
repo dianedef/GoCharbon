@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: veille
+toolFacets:
+  - shopify
+  - veille-concurrence
 metadataEnrichedAt: null
 title: Copyfy
 author: Diane

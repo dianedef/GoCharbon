@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: smappen
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: analytics
 u_site: https://www.smappen.fr
 u_affi: null
 title: Smappen

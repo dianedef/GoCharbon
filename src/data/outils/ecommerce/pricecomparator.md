@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: veille
+toolFacets:
+  - veille-prix
+  - pricing
 title: PriceComparator
 author: Diane
 tags:

@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: planning
 imageNameKey: null
 u_site: null
 title: Planifiez Comme Un Génie L'App Française Qui Va Révolutionner Votre Emploi

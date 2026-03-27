@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import vue from '@astrojs/vue';
 import UnoCSS from '@unocss/astro';
 import sitemap from '@astrojs/sitemap';
+import { SITE } from './src/config/site.ts';
 
 export default defineConfig({
     server: {
@@ -18,7 +19,7 @@ export default defineConfig({
         }),
         sitemap()
     ],
-    site: 'https://gocharbon.com',
+    site: SITE.url,
     trailingSlash: 'never',
     build: {
         format: 'directory',

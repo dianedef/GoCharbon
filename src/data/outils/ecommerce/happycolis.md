@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: logistique
+toolFacets:
+  - colis
+  - fulfillment
 metadataEnrichedAt: null
 title: HappyColis
 author: Diane

@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 title: Teachizy, Création de Formations Simplifiée et Personnalisée
 author: Diane
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: lms
 tags:
 - Outils
 description: Teachizy est un logiciel français puissant avec tout ce qu'il faut pour

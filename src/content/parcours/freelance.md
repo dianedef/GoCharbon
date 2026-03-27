@@ -48,6 +48,7 @@ Construire une activité freelance stable avec flux de prospects prévisible.
 - [Ressource utile 1](/biz/freelance)
 - [Ressource utile 2](/tutos/trouver-des-prospects-qualifies-pour-votre-agence)
 - [Ressource utile 3](/tutos/comment-se-faire-payer-par-ses-clients)
+- [Sous-profil utile si tu veux commencer plus léger : Testeur utilisateur](/parcours/tests-utilisateurs-remuneres)
 
 ## Idées de contenus pour aller plus loin
 - [Guide à venir 1: méthode positionnement niche](/tutos/freelance/methode-positionnement-niche)

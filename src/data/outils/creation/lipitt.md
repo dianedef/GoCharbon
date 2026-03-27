@@ -3,6 +3,10 @@ section: outils
 metadataEnrichedAt: null
 title: Lipitt (Equos)
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
+toolFacets:
+  - ia
 tags:
 - Outils
 description: Lipitt (rebrandé Equos en 2025) est l'outil français de traduction vidéo

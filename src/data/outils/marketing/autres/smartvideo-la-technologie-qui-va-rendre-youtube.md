@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
 imageNameKey: null
 u_site: null
 title: Smartvideo La Technologie Qui Va Rendre Youtube Obsolète

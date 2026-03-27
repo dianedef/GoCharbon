@@ -177,6 +177,16 @@ Après avoir observe des centaines d'entrepreneurs :
 
 **Si tu es patient et regulier** : contenu + abonnement. 18 mois pour decoller, mais effet boule de neige ensuite.
 
+## Side hustles et revenus annexes
+
+Tout le monde n'a pas envie de lancer un SaaS ou de monter une offre freelance demain matin. Il existe aussi des activites annexes plus modestes pour completer ses revenus, avec des plafonds beaucoup plus bas mais une entree plus simple.
+
+Si tu veux explorer cet angle :
+
+- [Tests utilisateurs remuneres : ce que ca vaut vraiment](/biz/business-mobile/tests-remuneres)
+- [Comparatif des plateformes de tests remuneres](/biz/business-mobile/comparatif-plateformes-tests-remuneres)
+- [Amazon Vine et alternatives](/biz/business-mobile/amazon-vine-et-alternatives)
+
 ## Le Vrai Secret
 
 Le modele de revenus ne fait pas le succès. C'est l'execution et la constance qui font la difference. Choisis un modele, execute pendant 6 mois minimum, mesure les resultats, ajuste. Puis ajoute un deuxieme pilier de revenus.

@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: veille
+toolFacets:
+  - veille-prix
+  - pricing
 metadataEnrichedAt: null
 title: Paarly
 author: Diane

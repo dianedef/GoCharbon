@@ -6,6 +6,8 @@ type: outil
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: lecture-rapide
 description: SwiftRead est l'extension Chrome de lecture rapide RSVP. Lis 2 à 5x plus
   vite sur le web. Résumés de livres, articles, emails. Gratuit ou Premium.
 pubDate: '2024-03-25'

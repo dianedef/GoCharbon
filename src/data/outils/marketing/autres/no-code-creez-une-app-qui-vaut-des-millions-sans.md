@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: tech
+toolSubcategoryPrimary: no-code
 imageNameKey: null
 u_site: null
 title: No Code Créez Une App Qui Vaut Des Millions Sans Écrire Une Ligne De Code

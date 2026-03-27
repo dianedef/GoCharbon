@@ -16,6 +16,10 @@ Améliorer le quiz pour produire une recommandation business plus crédible qu'u
 - Mode hybride activé:
   - scoring conservé dans `src/data/quizData.js`
   - titres/descriptions des résultats injectés depuis `src/data/biz/profils/*`
+- Taxonomie centralisée ajoutée dans `src/data/profileTaxonomy.ts` pour distinguer:
+  - archétypes canoniques du quiz
+  - profils pivots
+  - sous-profils éditoriaux
 - Résultats enrichis pour les 5 modèles:
   - `ecommerce`
   - `saas`
@@ -47,13 +51,14 @@ Source CMS des profils (contenu éditorial):
   - `biz/profils/content-creator`
   - `biz/profils/freelance`
   - `biz/profils/formation`
+- Les pivots sont désormais dérivés de `src/data/profileTaxonomy.ts` plutôt que codés en dur.
 
 Le composant `Quiz.vue` reçoit ces données et les utilise en priorité pour les titres + descriptions.
 Si une fiche manque, fallback automatique sur `quizData.results`.
 
 ## Logique de scoring (actuelle)
-- À chaque réponse, les points sont ajoutés aux profils concernés.
-- À la fin, le profil avec le score max est retourné.
+- À chaque réponse, les points sont ajoutés aux 5 archétypes canoniques.
+- À la fin, l'archétype avec le score max est retourné.
 - En cas d'égalité, le premier profil trouvé avec le score max est pris.
 
 ## Roadmap d'amélioration (priorisée)

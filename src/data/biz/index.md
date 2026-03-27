@@ -38,6 +38,7 @@ Avec ces 4 blocs, tu avances.
 - Avantage: cash rapide
 - Limite: difficile a scaler sans process
 - Bon choix si tu veux tes premiers revenus vite
+- Variante d'entree: les [tests utilisateurs remuneres](/biz/business-mobile/tests-remuneres) peuvent servir de premiere marche si tu veux commencer petit sans vendre encore une offre complete
 
 ### Produit digital (formation, template, pack)
 
@@ -134,6 +135,8 @@ Mesure 4 signaux:
 - [Bases du SEO](/seo/fondamentaux/bases-seo)
 - [Atelier tunnel](/marketing/tunnel/atelier)
 - [KPIs marketing](/marketing/analytics/kpis)
+- [Profil Testeur Utilisateur / Crowdtester](/biz/profils/testeur-utilisateur)
+- [Parcours Tests Utilisateurs Rémunérés](/parcours/tests-utilisateurs-remuneres)
 
 Tu n'as pas besoin de plus d'information.
 Tu as besoin d'une semaine d'execution propre.

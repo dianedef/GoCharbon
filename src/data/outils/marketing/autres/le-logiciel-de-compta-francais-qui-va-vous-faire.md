@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: business
+toolSubcategoryPrimary: facturation
 metadataEnrichedAt: null
 tags:
 - Outils

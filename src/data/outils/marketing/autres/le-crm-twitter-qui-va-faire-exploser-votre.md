@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: business
+toolSubcategoryPrimary: crm
 metadataEnrichedAt: null
 type: outil
 statut: []

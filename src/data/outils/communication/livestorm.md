@@ -16,6 +16,8 @@ title: livestorm
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: visio
 description: Webinars et vidéo conférences intégrées pour votre entreprise. Livestorm
   aide les entreprises à exploiter au mieux le webinar. Notre mission est de rendre
   vos webinars plus simples

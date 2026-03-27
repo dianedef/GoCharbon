@@ -5,6 +5,8 @@ title: Optico
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: analytics
 description: Optico est une solution française de call tracking et live tracking pour
   mesurer le ROI des campagnes marketing via les appels téléphoniques. Pay-per-call,
   sans abonnement.

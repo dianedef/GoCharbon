@@ -5,6 +5,8 @@ title: Kantree
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: gestion-projet
 description: 'Kantree est un outil français de gestion de projet flexible (SCOP Digicoop).
   Kanban, Gantt, automations, API. Clients : Orange, Thales, Orano. Dès 6,40€/user/mois.'
 pubDate: '2024-03-25'

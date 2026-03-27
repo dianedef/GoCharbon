@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: '2026-03-20'
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: no-code
 imageNameKey: novabricks
 u_site: https://www.novabricks.com
 u_affi: null

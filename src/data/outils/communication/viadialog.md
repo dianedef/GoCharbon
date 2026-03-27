@@ -7,6 +7,8 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: centre-contact
 description: "ViaDialog est la plateforme française de centre de contact cloud omnicanal. Téléphonie, email, chat, IA intégrée. Par Jean-David Benichou. SIREN 752 556 126. Depuis 2005."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

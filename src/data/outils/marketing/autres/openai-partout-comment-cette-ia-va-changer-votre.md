@@ -3,6 +3,10 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: tech
+toolSubcategoryPrimary: ia
+toolFacets:
+  - ia
 title: Openai Partout Comment Cette Ia Va Changer Votre Vie Pour Toujours
 author: Diane
 description: 'Découvre Openai Partout Comment Cette Ia Va Changer Votre Vie Pour Toujours

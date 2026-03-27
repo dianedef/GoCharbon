@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: tech
+toolSubcategoryPrimary: automatisation
 title: Transformez Votre Pc En Machine À Cash Le Hack Ultime Des Entrepreneurs
 author: Diane
 description: 'Découvre Transformez Votre Pc En Machine À Cash Le Hack Ultime Des Entrepreneurs

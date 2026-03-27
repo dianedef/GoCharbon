@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: logistique
+toolFacets:
+  - fulfillment
+  - ecommerce
 metadataEnrichedAt: null
 title: Cubyn
 author: Diane

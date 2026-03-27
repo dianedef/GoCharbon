@@ -2,6 +2,10 @@
 section: outils
 title: Submagic
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
+toolFacets:
+  - ia
 tags:
   - 'Outils Français'
   - 'Vidéo'

@@ -12,6 +12,8 @@ title: Piratage De Notoriété La Technique Secrète Des Influenceurs
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: social-media
 description: 'Découvre Piratage De Notoriété La Technique Secrète Des Influenceurs
   : outil français pour entrepreneurs, fonctionnalités et avis.'
 pubDate: '2024-03-25'

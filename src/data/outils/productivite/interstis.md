@@ -5,6 +5,8 @@ title: Interstis
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: collaboration
 description: Interstis est la plateforme collaborative française SecNumCloud. 1 600
   clients, 800 000 utilisateurs, alternative souveraine à Microsoft 365. Dès 2,49
   €/mois.

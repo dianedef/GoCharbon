@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: tech
+toolSubcategoryPrimary: dev
 metadataEnrichedAt: null
 tags:
 - Outils

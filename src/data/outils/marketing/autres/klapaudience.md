@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: lead-generation
 metadataEnrichedAt: null
 title: '📊 KlapAudience : Des lead magnets qui convertissent avec succès'
 author: Diane

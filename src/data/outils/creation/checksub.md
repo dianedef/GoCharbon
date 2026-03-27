@@ -3,6 +3,10 @@ section: outils
 metadataEnrichedAt: null
 title: checksub
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
+toolFacets:
+  - ia
 tags:
 - Outils
 description: 'Checksub est une entreprise de SaaS offrant un service de sous-titrage

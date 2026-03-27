@@ -1,5 +1,9 @@
 ---
 section: outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: automation
+toolFacets:
+- open-source
 metadataEnrichedAt: null
 type: outil
 statut:

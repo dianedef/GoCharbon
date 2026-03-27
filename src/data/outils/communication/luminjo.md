@@ -6,6 +6,8 @@ type: outil
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: support-client
 description: Luminjo offre un avantage clé aux entreprises en simplifiant leur service
   client. Que vous travailliez en solo ou en équipe, ce logiciel centralise toutes
   les requêtes de vos utili

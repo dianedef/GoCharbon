@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: creation-contenu
 metadataEnrichedAt: null
 type: outil
 statut: en-attente

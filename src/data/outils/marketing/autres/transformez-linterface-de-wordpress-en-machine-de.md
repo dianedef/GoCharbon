@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: tech
+toolSubcategoryPrimary: cms
 imageNameKey: null
 u_site: null
 title: Transformez L'Interface De Wordpress En Machine De Guerre Du Seo

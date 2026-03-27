@@ -1,7 +1,10 @@
 ---
-const title = "GoCharbon | Diane"
-const description = "Diane construit GoCharbon pour aider les francophones a lancer des projets utiles, solides et moins bullshit."
-const siteUrl = "https://gocharbon.com"
+import { SITE, getSiteUrl } from "../config/site";
+import { ROUTES, getBlogTagRoute } from "../config/routes";
+
+const title = `${SITE.name} | Diane`
+const description = `Diane construit ${SITE.name} pour aider les francophones a lancer des projets utiles, solides et moins bullshit.`
+const siteUrl = SITE.url
 ---
 
 <!DOCTYPE html>
@@ -18,7 +21,7 @@ const siteUrl = "https://gocharbon.com"
 	<meta property="og:description" content={description} />
 	<meta property="og:url" content={`${siteUrl}/bio`} />
 	<meta property="og:type" content="website" />
-	<meta property="og:site_name" content="GoCharbon" />
+	<meta property="og:site_name" content={SITE.name} />
 	<meta property="og:locale" content="fr_FR" />
 
 	<meta name="twitter:card" content="summary" />
@@ -202,17 +205,17 @@ const siteUrl = "https://gocharbon.com"
 		</p>
 
 		<p class="bio-intro">
-			GoCharbon, c'est mon terrain de jeu serieux : un media utile, des parcours, des outils et des plans d'action pour les francophones qui veulent construire quelque chose de solide. Avec un peu d'humour, un peu de nerfs, et le moins de bullshit possible.
+			{SITE.name}, c'est mon terrain de jeu serieux : un media utile, des parcours, des outils et des plans d'action pour les francophones qui veulent construire quelque chose de solide. Avec un peu d'humour, un peu de nerfs, et le moins de bullshit possible.
 		</p>
 
 		<div class="bio-links">
-			<a href="https://gocharbon.com/parcours" class="bio-link accent">Commencer par les parcours</a>
-			<a href="https://gocharbon.com/quiz" class="bio-link">Faire le quiz business</a>
-			<a href="https://gocharbon.com" class="bio-link">Accueil</a>
-			<a href="https://gocharbon.com/blog" class="bio-link">Blog</a>
-			<a href="https://gocharbon.com/outils" class="bio-link">Voir les outils</a>
-			<a href="https://gocharbon.com/blog?tags=productivite" class="bio-link">Productivite & execution</a>
-			<a href="https://gocharbon.com/#guide-outils-francais-gratuits" class="bio-link">Recevoir le guide des outils francais</a>
+			<a href={getSiteUrl(ROUTES.parcours)} class="bio-link accent">Commencer par les parcours</a>
+			<a href={getSiteUrl(ROUTES.quiz)} class="bio-link">Faire le quiz business</a>
+			<a href={getSiteUrl(ROUTES.home)} class="bio-link">Accueil</a>
+			<a href={getSiteUrl(ROUTES.blog)} class="bio-link">Blog</a>
+			<a href={getSiteUrl(ROUTES.outils)} class="bio-link">Voir les outils</a>
+			<a href={getSiteUrl(getBlogTagRoute("productivite"))} class="bio-link">Productivite & execution</a>
+			<a href={getSiteUrl("/#guide-outils-francais-gratuits")} class="bio-link">Recevoir le guide des outils francais</a>
 		</div>
 
 		<div class="bio-socials">
@@ -234,7 +237,7 @@ const siteUrl = "https://gocharbon.com"
 			</a>
 		</div>
 
-		<p class="bio-footer">&copy; 2026 GoCharbon</p>
+		<p class="bio-footer">&copy; 2026 {SITE.name}</p>
 	</div>
 </body>
 </html>

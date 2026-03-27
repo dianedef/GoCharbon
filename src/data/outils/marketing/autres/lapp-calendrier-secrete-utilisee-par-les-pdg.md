@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: calendrier
 metadataEnrichedAt: null
 tags:
 - Outils

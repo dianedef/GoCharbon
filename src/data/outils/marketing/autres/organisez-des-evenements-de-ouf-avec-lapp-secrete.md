@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: evenements
 imageNameKey: null
 u_site: null
 title: Organisez Des Événements De Ouf Avec L'App Secrète Des Plus Grands Festivals

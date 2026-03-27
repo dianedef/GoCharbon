@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: cms
+toolFacets:
+  - open-source
+  - self-hosted
 metadataEnrichedAt: null
 title: PrestaShop
 author: Diane

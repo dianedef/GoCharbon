@@ -1,5 +1,74 @@
 # Changelog
 
+## 2026-03-26
+
+### Changed
+- **Centralisation du branding et des routes internes** — ajout de `src/config/site.ts` pour le nom de marque, le domaine, le publisher et les URLs absolues, plus `src/config/routes.ts` pour les chemins internes récurrents; recâblage des layouts, métadonnées SEO, navigation, footer, CTA, quiz et pages piliers pour éviter les chaînes `GoCharbon`, `gocharbon.com` et `/quiz|/parcours|/outils|...` dupliquées
+- **Migration du lot `creation/*`** — taxonomie explicite ajoutée sur les fiches directes du dossier creation, avec une catégorisation prudente par usage réel et une seule exception nette (`Praiz` vers `business/crm`)
+- **Migration des lots `formation/*` et `productivite/*`** — taxonomie explicite ajoutée sur les fiches directes, avec des sous-catégories prudentes par usage réel et des facettes limitées aux cas évidents
+- **Migration de `business/helloasso.md`** — rattachement explicite à `business > association`, avec des facettes limitées à son usage principal
+- **Extension de la couverture taxonomique de `marketing/autres`** — une large vague de fiches évidentes a reçu une taxonomie canonique minimale, en gardant `autres` comme amortisseur sur les cas trop éditoriaux ou hybrides
+- **Migration ciblée du sous-ensemble `marketing/autres` n-z** — fiches évidentes enrichies avec une taxonomie canonique prudente, surtout pour les outils de recherche utilisateur, vidéo, automatisation, email, événements, e-réputation et RSE
+- **Validation technique du refactor taxonomie outils** — installation des dépendances, build Astro complet validé, correction d'un frontmatter YAML cassé et sécurisation des nouvelles routes `/outils/[category]` et `/outils/[category]/[subcategory]`
+
+## 2026-03-25
+
+### Added
+- **Navigation taxonomique dédiée pour les outils** — nouvelles pages catégories `/outils/[category]` et sous-catégories `/outils/[category]/[subcategory]`, construites à partir de la taxonomie outil canonique
+
+### Changed
+- **Séparation entre taxonomie outils et tags éditoriaux** — les fiches `section: outils` remontent désormais via une taxonomie dédiée au lieu d'être interprétées comme contenu `business`, `marketing` ou `tech` selon leurs tags
+- **Cartes outils enrichies** — affichage de la catégorie, de la sous-catégorie et de quelques facettes utiles à la place de tags globaux trop vagues
+- **Pages détail outil enrichies** — affichage de la taxonomie canonique dans le contenu et recommandations d'outils similaires basées sur la proximité de taxonomie
+- **Page `/outils` clarifiée** — navigation par catégories et sous-catégories outils plutôt que par pages tags éditoriales
+- **Page méthodologie ajustée** — vocabulaire réaligné sur la taxonomie outil et le principe d'une seule fiche canonique par outil
+- **Première vague de migration taxonomique** — lots `communication/*` et `ecommerce/*` directs enrichis avec `toolCategoryPrimary`, `toolSubcategoryPrimary` et des `toolFacets` prudentes quand c'était évident
+- **Migration des lots `productivite/*` et `creation/*`** — taxonomie explicite ajoutée sur les fiches directes de ces dossiers, avec une catégorisation prudente par usage réel
+- **Migration du lot `communication/*`** — les fiches outils directes du dossier communication ont reçu `toolCategoryPrimary` et `toolSubcategoryPrimary`, avec des facettes IA ponctuelles sur les cas évidents
+
+### Added
+- **Profil business "Testeur Utilisateur / Crowdtester"** (`src/data/biz/profils/testeur-utilisateur.md`) — nouveau profil sur les tests utilisateurs rémunérés, le crowdtesting, uTest comme point d'entrée, et cadrage d'Amazon Vine comme opportunité adjacente plutôt que vrai métier business
+- **Source de vérité de taxonomie profils/quiz** (`src/data/profileTaxonomy.ts`) — registre central des 5 archétypes canoniques, profils pivots, clusters, sous-profils et helpers pour réaligner le quiz, les parcours et la navigation
+- **Réalignement du quiz sur 5 archétypes canoniques** — suppression de `livecommerce` comme résultat primaire, redistribution du scoring dans `src/data/quizData.js` et `src/data/quizQuickData.js`, et mappings pivots branchés sur `src/data/profileTaxonomy.ts`
+- **Restitution du quiz enrichie avec des sous-profils suggérés** — ajout d'un bloc "Voies concrètes à explorer" dans `src/components/vue/Quiz.vue`, alimenté depuis `src/data/profileTaxonomy.ts` via `src/pages/quiz-avance.astro` et `src/pages/quiz-rapide.astro`
+- **Pages parcours enrichies avec des parcours voisins** — ajout d'un bloc "Parcours voisins à explorer ensuite" dans `src/pages/parcours/[id].astro`, plus maillage croisé renforcé entre `freelance` et `testeur-utilisateur`
+- **Navigation globale clarifiée autour des familles business** — ajout d'un bloc "Grandes familles" dans `src/pages/parcours.astro` et enrichissement des cartes d'entrée sur `src/pages/index.astro` avec des exemples concrets de sous-profils
+- **Cluster éditorial "tests rémunérés"** dans `src/data/biz/business-mobile/` :
+  - `tests-remuneres.md` — cadrage honnête des tests utilisateurs rémunérés, gains réalistes, familles de plateformes
+  - `comparatif-plateformes-tests-remuneres.md` — comparatif uTest, UserTesting, TRYBER, Userbrain, Respondent, User Interviews, TestingTime
+  - `amazon-vine-et-alternatives.md` — Amazon Vine, Influenster, Home Tester Club et programmes adjacents, avec distinction claire entre bonus produit et vrai revenu
+- **8 nouvelles fiches outils liées aux tests rémunérés et programmes adjacents** dans `src/data/outils/marketing/autres/` :
+  - `usertesting.md`
+  - `user-interviews.md`
+  - `respondent.md`
+  - `testingtime.md`
+  - `tryber.md`
+  - `amazon-vine.md`
+  - `influenster.md`
+  - `home-tester-club.md`
+- **Rapport de recherche** `research/testing-opportunites-paye-2026.md` — cartographie des plateformes et opportunités adjacentes, avec recommandations éditoriales et maillage
+
+## 2026-03-23
+
+### Added
+- **Cluster Copywriting complet** — 14 articles (1 pillar + 13 spokes) dans `src/data/marketing/copywriting/` (~25 400 mots) :
+  - `index.md` — pillar page "Copywriting : Le Guide Complet pour Vendre avec les Mots"
+  - `frameworks.md` — PAS, AIDA, PASTOR, 4P, BAB avec exemples FR
+  - `niveaux-conscience.md` — les 5 niveaux de conscience de Schwartz
+  - `big-idea.md` — Big Idea et Mécanisme Unique (Ogilvy/Schwartz/Tugan Bara)
+  - `titres-accroches.md` — formules de titres, 30+ templates FR, subject lines
+  - `storytelling-vente.md` — story selling, structures narratives pour la vente
+  - `email-sequences.md` — préchauffage, closing, relance, open loops entre emails
+  - `croyances.md` — déconstruction de croyances, 3 fausses croyances (Brunson), concept du véhicule (Tugan)
+  - `fascinations.md` — curiosity bullets, 7 types, 20+ templates FR
+  - `offres-irresistibles.md` — value stacking, power offers, architecture bonus, garantie
+  - `landing-pages.md` — anatomie section par section d'une page de vente
+  - `direct-response.md` — philosophie DR, pionniers (Hopkins → Halbert → Tugan Bara)
+  - `polarisation.md` — polarisation, identité tribale, ennemi commun, éthique
+  - `open-loops.md` — open loops, curiosity gaps, effet Zeigarnik, pattern interrupts
+- **Tag "Copywriting"** ajouté dans `tagHierarchy.ts` sous Marketing (subtags : Frameworks, Persuasion, Email Copy, Direct Response)
+- **Maillage interne** : 6 cross-links ajoutés dans les articles existants (marketing/index, fondamentaux, email/strategie, ads/index, biz/profils/copywriter, psychologie/neuromarketing-techniques)
+
 ## 2026-03-19
 
 ### Added

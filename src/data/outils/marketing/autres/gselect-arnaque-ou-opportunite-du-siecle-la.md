@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: reputation
 metadataEnrichedAt: null
 tags:
 - Outils

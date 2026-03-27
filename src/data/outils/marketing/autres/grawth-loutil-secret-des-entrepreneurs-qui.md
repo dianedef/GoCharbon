@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: growth-hacking
 metadataEnrichedAt: null
 tags:
 - Outils

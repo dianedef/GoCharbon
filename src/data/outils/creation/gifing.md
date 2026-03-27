@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 type:
 - app
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
 tags:
 - Outils
 imageNameKey: gifing

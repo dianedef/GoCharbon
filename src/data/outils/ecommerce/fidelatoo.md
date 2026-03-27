@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: fidelite
+toolFacets:
+  - fidelite
+  - retail
 title: Fidelatoo
 author: Diane
 tags:

@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: gestion-documentaire
 metadataEnrichedAt: null
 tags:
 - Outils

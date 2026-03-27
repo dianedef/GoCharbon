@@ -5,6 +5,10 @@ title: leexi
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: conversation-intelligence
+toolFacets:
+  - ia
 description: Leexi est une plateforme d'intelligence conversationnelle qui vise à
   transcrire, analyser et résumer vos appels et visioconférences. Elle offre une solution
   puissante pour augmente

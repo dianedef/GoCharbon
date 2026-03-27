@@ -1,6 +1,7 @@
 <script setup>
 import { ref, computed, onMounted, onUnmounted } from 'vue'
 import { quizData } from '../../data/quizData.js'
+import { ROUTES } from '../../config/routes'
 
 const questions = {
   goal: {
@@ -183,7 +184,7 @@ const result = computed(() => {
         <p class="sq-result-desc">{{ result.description }}</p>
         <div class="sq-result-actions">
           <a :href="result.urls.parcours" class="sq-btn sq-btn-primary">Voir le Parcours</a>
-          <a href="/quiz-rapide" class="sq-btn sq-btn-secondary">Affiner avec le Quiz (2 min)</a>
+          <a :href="ROUTES.quizRapide" class="sq-btn sq-btn-secondary">Affiner avec le Quiz (2 min)</a>
         </div>
       </div>
     </transition>

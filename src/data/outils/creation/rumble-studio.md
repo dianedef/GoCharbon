@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 title: Rumble studio
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: audio
 tags:
 - Outils
 description: Rumble Studio est passé par le site d'Anthony Nevo, [Vie De Dingue](http://viededingue1.com/F6JPnB)

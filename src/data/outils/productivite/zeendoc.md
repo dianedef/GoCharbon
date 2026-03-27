@@ -6,6 +6,8 @@ type: outil
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: gestion-documentaire
 description: Zeendoc, la Solution de Gestion Électronique des Documents, est conçue
   pour propulser les entreprises vers le numérique en offrant une dématérialisation
   efficace, un partage fluide

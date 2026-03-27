@@ -1,4 +1,7 @@
 ---
+import { SITE } from "../../config/site";
+import { ROUTES } from "../../config/routes";
+
 export interface Props {
 	backToTop?: boolean;
 }
@@ -6,26 +9,26 @@ export interface Props {
 const { backToTop = false } = Astro.props;
 
 const navigationLinks = [
-	{ name: "Parcours", url: "/parcours" },
-	{ name: "Outils", url: "/outils" },
-	{ name: "Méthodologie", url: "/methodologie" },
-	{ name: "Blog", url: "/blog" },
-	{ name: "Tutos", url: "/tutos" },
-	{ name: "Progression", url: "/progression" },
+	{ name: "Parcours", url: ROUTES.parcours },
+	{ name: "Outils", url: ROUTES.outils },
+	{ name: "Méthodologie", url: ROUTES.methodologie },
+	{ name: "Blog", url: ROUTES.blog },
+	{ name: "Tutos", url: ROUTES.tutos },
+	{ name: "Progression", url: ROUTES.progression },
 ];
 
 const legalLinks = [
-	{ name: "Politique de confidentialité", url: "/confidentialite" },
-	{ name: "Mentions légales", url: "/mentions-legales" },
-	{ name: "CGU", url: "/cgu" },
+	{ name: "Politique de confidentialité", url: ROUTES.confidentialite },
+	{ name: "Mentions légales", url: ROUTES.mentionsLegales },
+	{ name: "CGU", url: ROUTES.cgu },
 ];
 
 const socialLinks = [
-	{ name: "YouTube", url: "https://www.youtube.com/@charbon" },
-	{ name: "X (Twitter)", url: "https://x.com/charbon" },
-	{ name: "Instagram", url: "https://www.instagram.com/charbon" },
-	{ name: "LinkedIn", url: "https://www.linkedin.com/company/charbon" },
-	{ name: "Facebook", url: "https://www.facebook.com/charbon" },
+	{ name: "YouTube", url: SITE.social.youtube },
+	{ name: "X (Twitter)", url: SITE.social.x },
+	{ name: "Instagram", url: SITE.social.instagram },
+	{ name: "LinkedIn", url: SITE.social.linkedin },
+	{ name: "Facebook", url: SITE.social.facebook },
 ];
 
 const currentYear = new Date().getFullYear();
@@ -70,9 +73,9 @@ const worldIcons = {
 		<div class="grid grid-cols-2 md:grid-cols-4 gap-8 mb-8">
 			<!-- Brand -->
 			<div class="col-span-2">
-				<h2 class="righteous text-3xl mb-4 text-black dark:text-yellow-soft">GOCHARBON</h2>
+				<h2 class="righteous text-3xl mb-4 text-black dark:text-yellow-soft">{SITE.nameUpper}</h2>
 				<p class="poppins text-lg mb-4 text-black dark:text-white">
-					Le guide de survie digital pour entrepreneurs francophones qui refusent d'enrichir la Silicon Valley.
+					{SITE.descriptions.footer}
 				</p>
 				<div class="mine-icon-belt mb-4" aria-label="Repères du monde GoCharbon">
 					<span class="mine-icon-chip">
@@ -136,7 +139,7 @@ const worldIcons = {
 		<!-- Bottom section -->
 		<div class="flex flex-col md:flex-row justify-between items-center gap-4">
 			<p class="poppins text-sm text-black dark:text-white">
-				© {currentYear} GoCharbon. Tous droits réservés.
+				© {currentYear} {SITE.copyrightName}. Tous droits réservés.
 			</p>
 			<ul class="flex flex-wrap gap-4 justify-center">
 				{legalLinks.map((link) => (

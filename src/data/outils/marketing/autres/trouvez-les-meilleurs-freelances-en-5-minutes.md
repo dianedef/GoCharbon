@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: null
+toolCategoryPrimary: business
+toolSubcategoryPrimary: marketplace
 u_site: null
 title: Trouvez Les Meilleurs Freelances En 5 Minutes Avec Ces Outils Magiques
 author: Diane

@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 title: Sticker Mule
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: print
 tags:
 - Outils
 description: Sticker Mule est un service d'impression de stickers et produits personnalisés.

@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: marketing-automation
 metadataEnrichedAt: null
 type: outil
 tags:

@@ -5,6 +5,8 @@ title: Teambook
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: gestion-ressources
 description: Teambook est le logiciel de planification des ressources et gestion d'équipes.
   Planning visuel, suivi des temps, capacité. 4.7/5. Essai gratuit.
 pubDate: '2024-03-25'

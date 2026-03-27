@@ -8,6 +8,8 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: communautes
 description: "Potion Social est la plateforme française de gestion de communauté en ligne. Engagement, événements, espaces de discussion. Pour marques et organisations."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

@@ -8,6 +8,8 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: networking
 description: "Linkispot est la plateforme française de networking et d'événements communautaires. Mise en relation, matchmaking événementiel. Pour organisateurs."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

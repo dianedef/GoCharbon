@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: tech
+toolSubcategoryPrimary: no-code
 imageNameKey: null
 u_site: null
 title: Oubliez Webflow Voici L'Outil Qui Va Le Détrôner En 2024

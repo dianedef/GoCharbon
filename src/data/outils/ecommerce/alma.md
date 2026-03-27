@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: paiement
+toolFacets:
+  - bnpl
+  - paiement-fractionne
 metadataEnrichedAt: null
 title: Alma
 author: Diane

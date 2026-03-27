@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: support-client
 metadataEnrichedAt: null
 tags:
 - Outils

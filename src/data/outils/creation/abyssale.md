@@ -2,6 +2,10 @@
 section: outils
 metadataEnrichedAt: null
 type: outil
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: design
+toolFacets:
+  - ia
 tags:
 - Outils
 imageNameKey: abyssale

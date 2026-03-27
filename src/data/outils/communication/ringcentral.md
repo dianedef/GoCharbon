@@ -5,6 +5,8 @@ title: La plateforme de communications complète
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: telephonie
 description: RingCentral offre une solution complète pour améliorer le service client,
   augmenter la satisfaction des clients et optimiser les opérations. Voici un aperçu
   de ce logiciel essentie

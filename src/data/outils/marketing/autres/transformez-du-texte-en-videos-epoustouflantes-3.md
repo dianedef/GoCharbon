@@ -3,6 +3,10 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
+toolFacets:
+  - ia
 title: Transformez Du Texte En Vidéos Époustouflantes 3 Outils Magiques À Ne Pas Manquer
 author: Diane
 description: 'Découvre Transformez Du Texte En Vidéos Époustouflantes 3 Outils Magiques

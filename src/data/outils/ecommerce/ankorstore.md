@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: marketplace
+toolFacets:
+  - b2b
+  - wholesale
 metadataEnrichedAt: null
 title: Ankorstore
 author: Diane

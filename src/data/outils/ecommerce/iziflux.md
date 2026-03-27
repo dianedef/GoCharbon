@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: flux
+toolFacets:
+  - repricing
+  - marketplaces
 metadataEnrichedAt: null
 title: Iziflux
 author: Diane

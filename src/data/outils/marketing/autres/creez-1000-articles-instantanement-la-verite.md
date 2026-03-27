@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: content-marketing
 metadataEnrichedAt: null
 type: outil
 statut:

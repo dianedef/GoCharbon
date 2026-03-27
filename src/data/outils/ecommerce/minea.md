@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: veille
+toolFacets:
+  - ads-spy
+  - shopify
 title: Minea
 author: Diane
 tags:

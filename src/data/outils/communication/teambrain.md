@@ -5,6 +5,10 @@ title: teambrain
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: support-client
+toolFacets:
+  - ia
 description: 'TeamBrain **capitalise et répond automatiquement aux questions récurrentes**
   de vos visiteurs directement sur votre site ou vos collaborateurs dans votre entreprise.
   Economisez du '

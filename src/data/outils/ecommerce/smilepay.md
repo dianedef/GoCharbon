@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: paiement
+toolFacets:
+  - tpe
+  - mobile
 metadataEnrichedAt: null
 tags:
 - Outils

@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: traverse
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: workplace
 u_site: traverse.ninja
 u_affi: null
 u_affiAdmin: null

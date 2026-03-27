@@ -5,6 +5,8 @@ title: Olvid
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: messagerie
 description: Olvid est la messagerie ultra-sécurisée française certifiée ANSSI. Chiffrement
   total, zéro donnée personnelle requise. Utilisée par le gouvernement. Dès 0€.
 pubDate: '2024-03-25'

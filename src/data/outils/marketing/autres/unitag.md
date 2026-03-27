@@ -5,6 +5,8 @@ title: unitag
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: qr-code
 description: '[Unitag | Maison du QR | Générateur de QR Codes](https://www.unitag.io/fr/qrcode)
   Les grandes marques nous font confiance depuis 10 ans, avec plus de 40 millions
   de QR Codes généré'

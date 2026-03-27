@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: vente
 imageNameKey: null
 u_site: null
 title: Vendez Sans Mentir Ni Manipuler Les Hacks Éthiques Qui Cartonnent

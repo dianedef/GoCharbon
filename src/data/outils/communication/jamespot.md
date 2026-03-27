@@ -5,6 +5,8 @@ title: Jamespot
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: collaboration
 description: Jamespot est la digital workplace souveraine française. RSE, intranet,
   bureautique collaborative. 400 000+ utilisateurs, hébergé OVH, 100+ apps modulables.
 pubDate: '2024-03-25'

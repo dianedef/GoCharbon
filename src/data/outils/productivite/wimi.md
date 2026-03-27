@@ -5,6 +5,8 @@ title: Wimi
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: collaboration
 description: Wimi est la suite collaborative souveraine française. 450 000 utilisateurs,
   70 000 clients. SecNumCloud visé T1 2026. Chiffrement bout-en-bout. ISO 27001. Dès
   3€/mois.

@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: azeoo
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: coaching-sportif
 u_site: https://azeoo.com/fr/
 u_affi: null
 u_affiAdmin: null

@@ -7,6 +7,8 @@ tags:
   - 'Gestion Projet'
   - 'Productivité'
   - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: travail-hybride
 description: "Remoteless est l'outil français de gestion du travail hybride et remote. Planning de présence, flex office, coordination d'équipe. Pour managers hybrides."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

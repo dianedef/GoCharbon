@@ -135,6 +135,7 @@ const PROFILE_SPECIALIZATION_LINKS: Record<string, string[]> = {
   saas: ["/biz/saas", "/tutos/comment-creer-saas-avec-espace-membre-avec-notion", "/marketing/analytics/kpis"],
   "seo-consultant": ["/seo/fondamentaux/bases-seo", "/tutos/comment-se-classer-en-premier-sur-google", "/tutos/trouver-les-mots-clefs-de-ses-concurrents"],
   setter: ["/marketing/social/selling", "/tutos/comment-faire-de-la-prospection-sur-les-reseaux", "/tutos/recuperer-les-clients-de-vos-concurrents-linkedin"],
+  "testeur-utilisateur": ["/biz/business-mobile/tests-remuneres", "/biz/business-mobile/comparatif-plateformes-tests-remuneres", "/outils/marketing/autres/utest-la-plateforme-ideale-pour-gagner-de-largent"],
   "social-media-ads-manager": ["/marketing/ads/meta", "/marketing/ads/google", "/tutos/espionner-les-pubs-de-vos-concurrents-sur-fb-yt"],
   "social-media-manager": ["/marketing/social/strategie", "/marketing/social/community", "/tutos/comment-organiser-un-concours-sur-les-reseaux"],
   "stock-photography": ["/tutos/comment-generer-des-images-en-lots", "/tutos/comment-retirer-un-objet-ou-une-personne-dune", "/outils/creation"],
@@ -517,6 +518,25 @@ export const learningPaths: LearningPath[] = [
       },
       specializationModule('data-entry-specialist', 'service'),
       executionModule('data-entry-specialist'),
+    ],
+  },
+  {
+    id: 'testeur-utilisateur',
+    profileSlug: 'testeur-utilisateur',
+    profileTitle: "Testeur Utilisateur / Crowdtester",
+    category: 'service',
+    level: 'debutant',
+    estimatedDuration: "2 à 6 heures + 1 à 3 semaines de premières missions",
+    outcome: "Mettre en place un revenu annexe cadré et comprendre rapidement si ton profil est rentable.",
+    modules: [
+      {
+        id: 'fondations',
+        title: 'Bases communes',
+        objective: 'Comprendre les bases et apprendre à trouver ses premières opportunités.',
+        steps: FOUNDATION_STEPS,
+      },
+      specializationModule('testeur-utilisateur', 'service'),
+      executionModule('testeur-utilisateur'),
     ],
   },
   {

@@ -2,6 +2,8 @@
 section: outils
 metadataEnrichedAt: null
 type: outil
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: coaching
 tags:
 - Outils
 imageNameKey: coacheasy

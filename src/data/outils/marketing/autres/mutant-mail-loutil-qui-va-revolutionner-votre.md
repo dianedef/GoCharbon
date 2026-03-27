@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: email
 metadataEnrichedAt: null
 type: outil
 _priorité: normal

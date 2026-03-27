@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 title: Calaméo
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: publication
 tags:
 - Outils
 description: Calaméo est la plateforme française de publication digitale. PDF en flipbooks

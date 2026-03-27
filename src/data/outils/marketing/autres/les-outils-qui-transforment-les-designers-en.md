@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: design
 metadataEnrichedAt: null
 tags:
 - Outils

@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: business
+toolSubcategoryPrimary: business-plan
 metadataEnrichedAt: null
 tags:
 - Outils

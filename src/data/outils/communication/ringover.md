@@ -5,6 +5,8 @@ title: ringover
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: telephonie
 description: 'Ringover est une entreprise française qui propose une solution de téléphonie
   VoIP pour les entreprises. Voici toutes les informations relatives à cet outil :
   1. Présentation du pro'

@@ -19,6 +19,10 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: centre-contact
+toolFacets:
+  - ia
 description: "Diabolocom est la plateforme française de centre de contact cloud. Téléphonie, omnicanal, IA. Par Frédéric Durand. SIREN 482 652 401. Bootstrappé. 175+ employés. Depuis 2005."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

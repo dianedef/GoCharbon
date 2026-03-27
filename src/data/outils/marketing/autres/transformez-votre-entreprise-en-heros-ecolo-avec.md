@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: saas-ecologie
+toolCategoryPrimary: business
+toolSubcategoryPrimary: rse
 title: Transformez Votre Entreprise En Héros Écolo Avec Ces Astuces Secrètes
 author: Diane
 description: 'Découvre Transformez Votre Entreprise En Héros Écolo Avec Ces Astuces

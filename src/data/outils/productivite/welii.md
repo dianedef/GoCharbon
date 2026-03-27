@@ -9,6 +9,8 @@ tags:
   - 'Gestion Projet'
   - 'Productivité'
   - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: workplace
 description: "Welii est la plateforme française de gestion du workplace et de l'environnement de travail. Gestion des bureaux, espaces, services aux occupants."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

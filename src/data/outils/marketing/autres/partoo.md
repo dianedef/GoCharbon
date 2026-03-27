@@ -5,6 +5,8 @@ title: Partoo
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: seo
 description: 'Partoo est une plateforme française de gestion de présence en ligne
   et e-réputation. Avis Google, SEO local, store locator. 35,5M€ ARR, 350 employés.
   Clients : Orange, Carrefour.'

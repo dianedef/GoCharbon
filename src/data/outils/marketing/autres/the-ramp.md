@@ -5,6 +5,8 @@ title: the ramp
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: local-marketing
 description: '[The Ramp sur BFM Business pour parler publicité locale - YouTube](https://www.youtube.com/watch?v=wdCMXyPbUEY)
   Retrouvez tous nos contenus sur le marketing local Articles, livres '
 pubDate: '2024-03-25'

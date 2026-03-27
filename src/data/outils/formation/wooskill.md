@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 title: Wooskill
 author: Diane
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: marketplace-competences
 tags:
 - Outils
 description: Wooskill est la plateforme française de partage de compétences en visio.

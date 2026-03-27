@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: null
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: evenements
 u_site: null
 title: Top 6 Des Coworkings Virtuels Travaillez Dans Le Futur Dès Maintenant
 author: Diane

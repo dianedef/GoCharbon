@@ -5,6 +5,8 @@ title: swatix
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: analytics
 description: '- 📈 Swatix offre une vision à 360° du ROI du Webmarketing. - 💼 Il améliore
   les performances du marketing numérique des marques. - 💰 Swatix optimise le R.O.A.S
   et le R.O.I multicana'

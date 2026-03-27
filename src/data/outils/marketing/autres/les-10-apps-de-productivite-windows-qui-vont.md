@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: bureautique
 metadataEnrichedAt: null
 type: outil
 tags:

@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: business
+toolSubcategoryPrimary: prospection
 metadataEnrichedAt: null
 title: jobphoning
 author: Diane

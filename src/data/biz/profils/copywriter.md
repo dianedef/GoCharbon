@@ -18,7 +18,7 @@ Tu écris des textes persuasifs pour aider des entreprises à vendre (landing pa
 
 ## C'est quoi exactement ?
 
-Le copywriting, c'est **l'art de vendre avec les mots**. Contrairement au journalisme ou à l'écriture créative, le copywriting a un objectif unique : convaincre le lecteur d'agir (acheter, s'inscrire, cliquer).
+Le copywriting, c'est **l'art de vendre avec les mots**. Contrairement au journalisme ou à l'écriture créative, le copywriting a un objectif unique : convaincre le lecteur d'agir (acheter, s'inscrire, cliquer). Pour tout comprendre sur la discipline, lis le [guide complet du copywriting](/marketing/copywriting/index).
 
 Concrètement, tu vas écrire :
 

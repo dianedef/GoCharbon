@@ -37,7 +37,8 @@ Le [Display](/marketing/ads/display) vous permet d'afficher des bannières visue
 ## Stratégies pour Réussir
 
 1. **Définir des Objectifs Clairs** : Notoriété, trafic, leads ou ventes directes ?
-2. **Tracking et Analytics** : Installez vos pixels de conversion avant de dépenser le moindre euro.
+2. **Créativité et Copywriting** : Vos ads ne valent que ce que vaut leur texte. Les [titres et accroches](/marketing/copywriting/titres-accroches) font la différence entre un clic et un scroll.
+3. **Tracking et Analytics** : Installez vos pixels de conversion avant de dépenser le moindre euro.
 3. **Créativité et Copywriting** : Testez plusieurs visuels et accroches pour optimiser votre CTR (taux de clic).
 4. **Optimisation du Tunnel** : Une publicité efficace ne sert à rien si votre page d'atterrissage ne convertit pas.
 

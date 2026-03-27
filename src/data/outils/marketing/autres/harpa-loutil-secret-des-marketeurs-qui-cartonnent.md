@@ -1,5 +1,9 @@
 ---
 section: outils
+toolCategoryPrimary: tech
+toolSubcategoryPrimary: ia
+toolFacets:
+- automation
 metadataEnrichedAt: null
 tags:
 - Outils

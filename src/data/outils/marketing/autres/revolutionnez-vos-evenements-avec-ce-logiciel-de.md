@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: null
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: evenements
 u_site: null
 title: Révolutionnez Vos Événements Avec Ce Logiciel De Billetterie Français
 author: Diane

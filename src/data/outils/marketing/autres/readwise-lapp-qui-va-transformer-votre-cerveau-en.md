@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: lecture-rapide
 imageNameKey: null
 u_site: null
 title: Readwise L'App Qui Va Transformer Votre Cerveau En Superordinateur

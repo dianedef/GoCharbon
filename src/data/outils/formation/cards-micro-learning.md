@@ -2,6 +2,8 @@
 section: outils
 title: Cards Micro-Learning
 author: Diane
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: micro-learning
 tags:
   - 'Outils Français'
   - 'Formation'

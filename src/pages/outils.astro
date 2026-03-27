@@ -5,40 +5,75 @@ import PostGrid from "../components/components/PostGrid.astro";
 import Button from "../components/components/Button.astro";
 import { applyContentScope } from "../utils/content-section";
 import { filterBuildVisiblePosts } from "../utils/build-posts";
+import {
+	buildToolTaxonomyIndex,
+	getToolCategoryHref,
+	getToolSubcategoryHref,
+} from "../utils/tool-taxonomy";
+import { ROUTES } from "../config/routes";
 
 const posts = applyContentScope(filterBuildVisiblePosts(await getCollection("posts")), "outils")
 	.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 const visiblePosts = posts.slice(0, 30);
-const pillarTags = [
-	{ label: "Outils", href: "/tag/outils" },
-	{ label: "Tech", href: "/tag/tech" },
-	{ label: "Business", href: "/tag/business" },
-	{ label: "Marketing", href: "/tag/marketing" },
-];
+const toolCategories = buildToolTaxonomyIndex(posts);
+const featuredSubcategories = toolCategories
+	.flatMap((category) => category.subcategories.slice(0, 2))
+	.sort((a, b) => b.count - a.count)
+	.slice(0, 8);
 ---
 
 <Layout title="Outils" description="GOCHARBON | La Mine" pageTitle="La Mine">
 	<main class="px-2 md:px-6 py-6 max-w-7xl mx-auto">
 		<section class="mb-8 p-4 md:p-6 border-3 border-black dark:border-yellow-soft bg-white-soft dark:bg-black">
-			<h2 class="poppins text-2xl md:text-3xl font-bold mb-3 text-black dark:text-white">Pages piliers</h2>
+			<h2 class="poppins text-2xl md:text-3xl font-bold mb-3 text-black dark:text-white">Explorer les outils</h2>
 			<p class="poppins text-lg mb-4 text-black dark:text-white">
-				Navigation directe par thématique, sans logique de filtres.
+				Une seule fiche canonique par outil, puis une navigation par categorie et sous-categorie.
 			</p>
 			<p class="poppins text-base md:text-lg mb-4 text-black dark:text-white">
 				Notre promesse ne se limite pas à “outil français”. On documente progressivement le siège, le pays fiscal,
 				l’hébergement des données et l’ancrage responsable de chaque fiche.
 			</p>
+			<p class="poppins text-base md:text-lg mb-4 text-black dark:text-white">
+				Si tu explores les revenus annexes, on a aussi commencé un cluster dédié aux tests rémunérés, au crowdtesting
+				et aux programmes adjacents comme Amazon Vine. L'idée n'est pas de vendre du rêve, mais de montrer ce qui peut
+				servir de vraie porte d'entrée vers des modèles plus solides.
+			</p>
 			<div class="flex flex-wrap gap-3">
-				{pillarTags.map((tag) => (
-					<Button href={tag.href} color="var(--brand-copper)">
-						{tag.label}
+				{toolCategories.map((category) => (
+					<Button href={getToolCategoryHref(category.slug)} color="var(--brand-copper)">
+						{category.label} ({category.count})
 					</Button>
 				))}
-				<Button href="/methodologie" color="var(--brand-yellow)">
+				<Button href="/biz/business-mobile/tests-remuneres" color="var(--brand-orange)">
+					Tests rémunérés
+				</Button>
+				<Button href="/biz/business-mobile/comparatif-plateformes-tests-remuneres" color="var(--brand-copper)">
+					Comparatif plateformes
+				</Button>
+				<Button href={ROUTES.methodologie} color="var(--brand-yellow)">
 					Notre méthodologie
 				</Button>
 			</div>
 		</section>
+		{featuredSubcategories.length > 0 && (
+			<section class="mb-8 p-4 md:p-6 border-3 border-black dark:border-yellow-soft bg-yellow-soft dark:bg-black">
+				<h2 class="poppins text-2xl md:text-3xl font-bold mb-3 text-black dark:text-white">Sous-categories utiles</h2>
+				<p class="poppins text-base md:text-lg mb-4 text-black dark:text-white">
+					Pour les outils, on garde des categories canoniques et des entrees plus fines seulement quand elles
+					aident vraiment a trouver la bonne fiche.
+				</p>
+				<div class="flex flex-wrap gap-3">
+					{featuredSubcategories.map((subcategory) => (
+						<Button
+							href={getToolSubcategoryHref(subcategory.category, subcategory.slug)}
+							color="var(--brand-yellow)"
+						>
+							{subcategory.label} ({subcategory.count})
+						</Button>
+					))}
+				</div>
+			</section>
+		)}
 		<PostGrid posts={visiblePosts} />
 	</main>
 </Layout>

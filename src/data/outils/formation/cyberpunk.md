@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: cyberpunk
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: communaute
 u_site: https://cyberpunk.academy
 u_affi: null
 u_affiAdmin: null

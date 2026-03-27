@@ -159,4 +159,12 @@ imgUrl: ../../../assets/astro.jpeg
 - Ressources
 - Scalabilité
 
+## Pour aller plus loin
+
+L'A/B testing te dit ce qui performe. Les tests utilisateurs te disent souvent pourquoi ça coince. Et si tu veux le voir côté terrain, il existe aussi des plateformes qui paient des testeurs pour faire ce travail.
+
+- [Tests utilisateurs rémunérés : ce que ça vaut vraiment](/biz/business-mobile/tests-remuneres)
+- [Comparatif des plateformes de tests rémunérés](/biz/business-mobile/comparatif-plateformes-tests-remuneres)
+- [Profil Testeur Utilisateur / Crowdtester](/biz/profils/testeur-utilisateur)
+
 [Découvrir le CRO →](/marketing/optimisation/cro) 

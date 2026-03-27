@@ -2,6 +2,8 @@
 section: outils
 title: Kastorr
 author: Diane
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: lms
 tags:
   - 'Outils Français'
   - 'Formation'

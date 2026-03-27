@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: gestion-projet
 metadataEnrichedAt: null
 type: outil
 statut:

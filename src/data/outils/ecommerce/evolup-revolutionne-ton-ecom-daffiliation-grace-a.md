@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: cms
+toolFacets:
+  - affiliation
+  - dropshipping
 metadataEnrichedAt: null
 tags:
 - Outils

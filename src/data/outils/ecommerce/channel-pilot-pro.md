@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: flux
+toolFacets:
+  - marketplaces
+  - shopping
 title: Channel Pilot Pro
 author: Diane
 tags:

@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: marketplace
+toolFacets:
+  - commande-groupee
+  - b2b
 metadataEnrichedAt: null
 title: Groopay
 author: Diane

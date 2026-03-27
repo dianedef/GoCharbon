@@ -20,6 +20,10 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: centre-contact
+toolFacets:
+  - ia
 description: "Akio est la plateforme française de centre de contact + analyse sémantique. Par Patrick Giudicelli. SIREN 421 001 702. ⚠️ Acquis par Odigo (nov. 2025). Depuis 1998."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

@@ -5,6 +5,8 @@ title: SOPlanning
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: planning
 description: SOPlanning est le logiciel open-source français de planning en ligne
   d'équipe. GNU GPLv3, auto-hébergeable, Google Agenda, Outlook. Gratuit ou SaaS dès
   15€/mois.

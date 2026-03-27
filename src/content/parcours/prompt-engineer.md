@@ -5,7 +5,7 @@ description: "Plan d'action pour Prompt Engineer / Consultant IA."
 category: "tech"
 level: "debutant"
 status: "active"
-updatedAt: "2026-03-01"
+updatedAt: "2026-03-25"
 ---
 ## Ton objectif
 Concevoir des systèmes prompts robustes relies à des usages business réels.
@@ -32,7 +32,7 @@ Concevoir des systèmes prompts robustes relies à des usages business réels.
 
 ## Pièges à éviter
 - Prompting sans tests versionnes
-- Pas de guardrails
+- Pas de guardrails ni d'évaluation sérieuse de la groundedness : comme le montre [WebCode d'Exa](https://exa.ai/blog/webcode), une réponse correcte peut masquer une mauvaise récupération des sources
 - Confusion entre demo et usage réel
 
 ## À la fin, tu dois avoir

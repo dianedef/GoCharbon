@@ -18,6 +18,10 @@ title: Botnation AI
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: chatbot
+toolFacets:
+  - ia
 description: Botnation AI est une plateforme française de création de chatbots no-code.
   Messenger, WhatsApp, web, WordPress. NLP + ChatGPT. Fondé 2016 à Paris. Dès 9€/mois.
 pubDate: '2024-03-25'

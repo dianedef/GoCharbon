@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: tech
+toolSubcategoryPrimary: scraping
 metadataEnrichedAt: null
 type: outil
 statut:

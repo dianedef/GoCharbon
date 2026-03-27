@@ -9,6 +9,9 @@ const postCollection = defineCollection({
       author: z.string(),
       tags: z.array(z.string()),
       section: z.enum(["blog", "outils", "tutos", "parcours"]).optional(),
+      toolCategoryPrimary: z.string().optional(),
+      toolSubcategoryPrimary: z.string().optional(),
+      toolFacets: z.array(z.string()).optional(),
       qualificationLocale: z.enum([
         "france",
         "union-europeenne",

@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: knowledge-management
 metadataEnrichedAt: null
 tags:
 - Outils

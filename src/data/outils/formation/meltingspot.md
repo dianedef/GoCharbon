@@ -2,6 +2,8 @@
 section: outils
 title: MeltingSpot
 author: Diane
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: communaute
 tags:
   - 'Outils Français'
   - 'Formation'

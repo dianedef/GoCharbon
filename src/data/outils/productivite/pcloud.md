@@ -5,6 +5,10 @@ title: pCloud
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: stockage
+toolFacets:
+  - zero-knowledge
 description: 'pCloud : stockage cloud suisse ultra-sécurisé avec offres à vie. Chiffrement
   côté client, 10 Go gratuits, dès 49,99€/an.'
 pubDate: '2024-03-25'

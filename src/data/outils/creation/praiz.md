@@ -3,6 +3,10 @@ section: outils
 metadataEnrichedAt: null
 title: Praiz
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: communication
+toolFacets:
+  - ia
 tags:
 - Outils
 description: Praiz transforme tes conversations commerciales en donnees CRM fiables

@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: social-media
 metadataEnrichedAt: null
 tags:
 - Outils

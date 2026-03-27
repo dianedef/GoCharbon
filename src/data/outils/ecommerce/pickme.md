@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: autres
 metadataEnrichedAt: null
 tags:
 - Outils

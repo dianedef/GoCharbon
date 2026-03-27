@@ -18,6 +18,8 @@ title: Aircall
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: telephonie
 description: Aircall est la téléphonie cloud pour équipes vente et support. 100+ intégrations
   CRM, analytics IA, power dialer. Fondé à Paris en 2014. Dès 30€/licence/mois.
 pubDate: '2024-03-25'

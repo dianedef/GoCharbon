@@ -6,6 +6,8 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: communautes
 description: "Uniite est la plateforme française d'engagement communautaire. Animation de communautés de clients, partenaires et collaborateurs. Gamification et analytics."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

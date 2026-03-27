@@ -5,6 +5,8 @@ title: Dexem
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: telephonie
 description: 'Dexem est la suite française de téléphonie cloud : Call Tracking, SVI
   et Call Manager. IA incluse, 10 000+ utilisateurs. Dès 10€/mois. Essai gratuit.'
 pubDate: '2024-03-25'

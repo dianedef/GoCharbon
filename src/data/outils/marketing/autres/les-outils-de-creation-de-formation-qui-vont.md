@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: lms
 metadataEnrichedAt: null
 tags:
 - Outils

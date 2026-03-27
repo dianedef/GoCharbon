@@ -6,8 +6,8 @@ import SentenceQuiz from "../components/vue/SentenceQuiz.vue";
 import { getCollection } from "astro:content";
 import { filterBuildVisiblePosts } from "../utils/build-posts";
 import { learningPaths } from "../data/parcoursData";
-import { getParcoursSlug } from "../data/parcoursSlugs";
 import { charbonBadges } from "../gamification/config";
+import { ROUTES, getParcoursRoute } from "../config/routes";
 
 const allPosts = filterBuildVisiblePosts(await getCollection("posts"));
 
@@ -20,7 +20,7 @@ const totalSteps = learningPaths.reduce(
 const averageSteps = Math.round(totalSteps / totalPaths);
 const totalBadges = charbonBadges.length;
 
-const popularPathIds = ["freelance", "ecommerce", "content-creator", "formation"];
+const popularPathIds = ["freelance", "testeur-utilisateur", "ecommerce", "content-creator", "formation"];
 const popularPaths = popularPathIds
   .map((id) => learningPaths.find((path) => path.id === id))
   .filter((path): path is NonNullable<typeof path> => path != null);
@@ -30,19 +30,29 @@ const entryPoints = [
     label: "Vendre un service vite",
     title: "Freelance / consulting / agence",
     description: "Pour partir d'une compétence, trouver des premiers clients et structurer une offre simple.",
-    href: `/parcours/${getParcoursSlug("freelance")}`,
+    examples: "Exemples : copywriter, assistant virtuel, testeur utilisateur, SEO freelance",
+    href: getParcoursRoute("freelance"),
+  },
+  {
+    label: "Revenu annexe cadré",
+    title: "Tests utilisateurs / crowdtesting",
+    description: "Pour démarrer petit, comprendre vite le terrain et transformer un side hustle en porte d'entrée vers des services plus sérieux.",
+    examples: "Exemples : crowdtesting, études rémunérées, missions simples avant une offre freelance plus carrée",
+    href: getParcoursRoute("testeur-utilisateur"),
   },
   {
     label: "Construire une audience",
     title: "Contenu / newsletter / creator biz",
     description: "Pour avancer avec le contenu, le personal branding, la monétisation et un système éditorial tenable.",
-    href: `/parcours/${getParcoursSlug("content-creator")}`,
+    examples: "Exemples : YouTube, newsletter, blogging, affiliation",
+    href: getParcoursRoute("content-creator"),
   },
   {
     label: "Monter un produit",
     title: "E-commerce / SaaS / formation",
     description: "Pour tester une offre, choisir la bonne stack et poser un vrai chemin de conversion.",
-    href: `/parcours/${getParcoursSlug("ecommerce")}`,
+    examples: "Exemples : e-commerce, SaaS, formation en ligne, live commerce comme angle produit",
+    href: getParcoursRoute("ecommerce"),
   },
 ];
 
@@ -89,10 +99,10 @@ const productPreview = {
             </div>
           </div>
           <div class="hero-actions">
-            <Button href="/quiz" color="var(--brand-yellow)" variant="hero">
+            <Button href={ROUTES.quiz} color="var(--brand-yellow)" variant="hero">
               Faire le quiz
             </Button>
-            <Button href="/parcours" color="var(--brand-orange)" variant="hero">
+            <Button href={ROUTES.parcours} color="var(--brand-orange)" variant="hero">
               Voir les parcours
             </Button>
           </div>
@@ -215,7 +225,7 @@ const productPreview = {
           <p class="section-kicker">CHOISIS TA PORTE D'ENTRÉE</p>
           <h2 class="section-title poppins">Commence par le type de machine que tu veux construire</h2>
           <p class="section-copy">
-            Au lieu de tomber dans une page catalogue, entre par ton intention : vendre un service, construire une audience ou monter un produit.
+            Au lieu de tomber dans une page catalogue, entre par ton intention : vendre un service, construire une audience, monter un produit ou commencer par un revenu annexe utile.
           </p>
         </div>
         <div class="entry-grid">
@@ -224,6 +234,7 @@ const productPreview = {
               <p class="entry-label">{entry.label}</p>
               <h3>{entry.title}</h3>
               <p>{entry.description}</p>
+              <p class="entry-examples">{entry.examples}</p>
               <span>Ouvrir ce parcours →</span>
             </a>
           ))}
@@ -257,7 +268,7 @@ const productPreview = {
               ))}
             </ul>
             <div class="showcase-footer">
-              <Button href={`/parcours/${getParcoursSlug(productPreview.profile.id)}`} color="var(--brand-yellow)">
+              <Button href={getParcoursRoute(productPreview.profile.id)} color="var(--brand-yellow)">
                 Voir un vrai parcours
               </Button>
             </div>
@@ -295,10 +306,10 @@ const productPreview = {
               L'idée n'est pas de te distraire avec de la gamification. L'idée, c'est de rendre visible ton avancée pour que tu tiennes assez longtemps pour voir des résultats.
             </p>
             <div class="showcase-footer dual">
-              <Button href="/progression" color="var(--brand-orange)">
+              <Button href={ROUTES.progression} color="var(--brand-orange)">
                 Voir la progression
               </Button>
-              <Button href="/quiz-avance" color="var(--brand-yellow)">
+              <Button href={ROUTES.quizAvance} color="var(--brand-yellow)">
                 Affiner le quiz
               </Button>
             </div>
@@ -317,7 +328,7 @@ const productPreview = {
         </div>
         <div class="popular-grid">
           {popularPaths.map((path) => (
-            <a href={`/parcours/${getParcoursSlug(path.id)}`} class="popular-card no-link-style">
+            <a href={getParcoursRoute(path.id)} class="popular-card no-link-style">
               <p class="popular-category">{path.category}</p>
               <h3>{path.profileTitle}</h3>
               <p>{path.outcome}</p>
@@ -569,9 +580,12 @@ const productPreview = {
   }
 
   .proof-grid,
-  .difference-grid,
-  .entry-grid {
+  .difference-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .entry-grid {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   }
 
   .popular-grid {
@@ -618,6 +632,11 @@ const productPreview = {
   .popular-card {
     display: grid;
     gap: 0.7rem;
+  }
+
+  .entry-examples {
+    font-size: 0.95rem;
+    opacity: 0.82;
   }
 
   .entry-card span,

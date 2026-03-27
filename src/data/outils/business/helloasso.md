@@ -2,6 +2,11 @@
 section: outils
 metadataEnrichedAt: '2026-03-16'
 type: outil
+toolCategoryPrimary: business
+toolSubcategoryPrimary: association
+toolFacets:
+- dons
+- billetterie
 qualificationLocale: france
 ancrageEconomique: fort
 niveauResponsabilite: partiel

@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: cms
+toolFacets:
+  - dropshipping
+  - no-code
 metadataEnrichedAt: '2026-03-01'
 tags:
 - Outils

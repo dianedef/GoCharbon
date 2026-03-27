@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: pdf
 metadataEnrichedAt: null
 tags:
 - Outils

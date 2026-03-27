@@ -8,6 +8,8 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: url-shortener
 description: "Switchy est l'outil français de raccourcissement d'URL avec retargeting. Liens courts personnalisés, pixel tracking, analytics. Depuis 2018."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

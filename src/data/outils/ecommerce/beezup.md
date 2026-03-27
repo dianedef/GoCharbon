@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: flux
+toolFacets:
+  - marketplaces
+  - comparateurs
 metadataEnrichedAt: null
 title: BeezUP
 author: Diane

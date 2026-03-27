@@ -7,6 +7,8 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: email
 description: "Mailo Pro est la messagerie email professionnelle française. Alternative souveraine à Gmail/Outlook. Hébergement France, RGPD natif. Depuis 2018."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

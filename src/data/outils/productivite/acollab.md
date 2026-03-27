@@ -5,6 +5,8 @@ title: Acollab
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: collaboration
 description: Acollab est une plateforme collaborative française par Akelio. Gestion
   de projets, partage de fichiers, agenda, messagerie, suivi des temps. Hébergement
   en France. Dès 5€/mois/utilisateur.

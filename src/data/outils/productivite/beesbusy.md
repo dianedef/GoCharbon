@@ -5,6 +5,8 @@ title: Beesbusy
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: gestion-projet
 description: Beesbusy est un logiciel français de gestion de projet collaboratif.
   Gantt, ressources, multi-projets, suivi des temps. 80 000+ utilisateurs. CES 2019.
   Dès 9,99€/user/mois.

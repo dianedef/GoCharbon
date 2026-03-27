@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: tcheen
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: evenements
 u_site: https://tcheen.com
 u_affi: null
 u_affiAdmin: null

@@ -5,6 +5,11 @@ title: TheAssistant
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: assistant
+toolFacets:
+  - ia
+  - automatisation
 description: TheAssistant est le service français d'assistanat virtuel augmenté par
   l'IA et la RPA. 500+ clients, 45 collaborateurs, 400 000+ tâches réalisées. 4,8/5.
   Dès 1,25€/action.

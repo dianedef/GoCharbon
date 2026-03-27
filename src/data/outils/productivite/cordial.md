@@ -3,6 +3,10 @@ section: outils
 metadataEnrichedAt: '2026-03-20'
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: bureautique
+toolFacets:
+  - ia
 imageNameKey: cordial
 u_site: https://www.cordial.fr
 u_affi: null

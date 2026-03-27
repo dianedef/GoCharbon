@@ -3,6 +3,8 @@ section: outils
 metadataEnrichedAt: null
 tags:
 - Outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: affiliation
 imageNameKey: null
 title: Vos Commissions D'Affiliation Non Trackées Voici La Solution Choc
 author: Diane

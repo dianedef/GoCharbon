@@ -3,6 +3,10 @@ section: outils
 metadataEnrichedAt: null
 title: Pitchy
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
+toolFacets:
+  - ia
 tags:
 - Outils
 description: Pitchy est la plateforme française de création vidéo pour entreprises.

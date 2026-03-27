@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: logistique
+toolFacets:
+  - woocommerce
+  - shipping
 metadataEnrichedAt: null
 title: WcMultiShipping
 author: Diane

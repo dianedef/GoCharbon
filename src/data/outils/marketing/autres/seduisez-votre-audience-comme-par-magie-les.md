@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: null
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: copywriting
 u_site: null
 title: Séduisez Votre Audience Comme Par Magie Les Techniques Secrètes Dévoilées
 author: Diane

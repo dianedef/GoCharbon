@@ -7,6 +7,8 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: email
 description: "Emailee est l'outil français de gestion de signatures email professionnelles. Signatures de marque, bannières marketing, analytics. Par Samuel Duc. Depuis 2023."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

@@ -2,6 +2,10 @@
 section: outils
 title: Quiz Wizard
 author: Diane
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: quiz
+toolFacets:
+  - ia
 tags:
   - 'Outils Français'
   - 'Formation'

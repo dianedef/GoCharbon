@@ -7,6 +7,7 @@ import {
   qualificationLocaleLabels,
   qualificationStrengthLabels,
 } from "../../utils/tool-qualification";
+import { ROUTES } from "../../config/routes";
 import EngagementBadge from "./EngagementBadge.astro";
 
 interface Props {
@@ -124,7 +125,7 @@ const facts: QualificationFact[] = isQualified
     <span class:list={["status-chip", isQualified ? "status-chip--ready" : "status-chip--pending"]}>
       {isQualified ? "Qualification renseignée" : "Qualification en cours"}
     </span>
-    <a href="/methodologie" class="method-link">Voir la méthodologie</a>
+    <a href={ROUTES.methodologie} class="method-link">Voir la méthodologie</a>
   </div>
 
   <h3 class="poppins text-xl font-bold mt-3 mb-2 text-black dark:text-yellow-soft">

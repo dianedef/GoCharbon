@@ -2,6 +2,10 @@
 section: outils
 title: GrAIg
 author: Diane
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: ia
+toolFacets:
+  - ia
 tags:
   - 'Outils Français'
   - 'Formation'

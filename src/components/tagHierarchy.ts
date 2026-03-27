@@ -110,6 +110,15 @@ export const tagHierarchy: TagHierarchy = {
           'Acquisition': { label: 'Acquisition' }
         }
       },
+      copywriting: {
+        label: 'Copywriting',
+        subtags: {
+          'Frameworks': { label: 'Frameworks' },
+          'Persuasion': { label: 'Persuasion' },
+          'Email Copy': { label: 'Email Copy' },
+          'Direct Response': { label: 'Direct Response' }
+        }
+      },
       publicite: {
         label: 'Publicité',
         subtags: {

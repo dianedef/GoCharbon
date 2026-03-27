@@ -1,6 +1,8 @@
 ---
 import LocalFont from "./LocalFont.astro";
 import type { BaseProps } from "../../utils/types/props";
+import { SITE, formatDocumentTitle, getSiteUrl } from "../../config/site";
+import { ROUTES } from "../../config/routes";
 
 interface ArticleData {
 	author?: string;
@@ -29,9 +31,11 @@ const ogImagePath =
 // Construction de l'URL OG complète de manière sécurisée
 const fullOgImageUrl = Astro.site
 	? new URL(ogImagePath.replace(/^\//, ""), Astro.site)
-	: new URL(ogImagePath, "https://gocharbon.com");
+	: new URL(ogImagePath, SITE.url);
 
 const { title, description, metaRobots = "index, follow", article } = Astro.props;
+const documentTitle = formatDocumentTitle(title);
+const feedUrl = getSiteUrl(ROUTES.feed);
 
 // Génération du JSON-LD pour les articles de blog
 const isArticle = !!article;
@@ -46,12 +50,12 @@ const blogPostingSchema = isArticle
 			datePublished: article.pubDate?.toISOString(),
 			author: {
 				"@type": "Person",
-				name: article.author || "GOCHARBON",
+				name: article.author || SITE.nameUpper,
 			},
 			publisher: {
-				"@type": "Organization",
-				name: "GOCHARBON",
-				url: "https://gocharbon.com",
+				"@type": SITE.publisherType,
+				name: SITE.nameUpper,
+				url: SITE.url,
 			},
 			mainEntityOfPage: {
 				"@type": "WebPage",
@@ -67,7 +71,7 @@ const breadcrumbItems = [
 		"@type": "ListItem",
 		position: 1,
 		name: "Accueil",
-		item: "https://gocharbon.com",
+		item: SITE.url,
 	},
 ];
 
@@ -78,7 +82,7 @@ if (pathSegments.length > 0) {
 			"@type": "ListItem",
 			position: 2,
 			name: "Blog",
-			item: "https://gocharbon.com/blog",
+			item: getSiteUrl(ROUTES.blog),
 		});
 		breadcrumbItems.push({
 			"@type": "ListItem",
@@ -111,11 +115,11 @@ const breadcrumbSchema = {
 
 <link
 	rel="alternate"
-	href="https://gocharbon.com/feed.xml"
+	href={feedUrl}
 	type="application/rss+xml"
 />
 
-<meta name="title" content={`GOCHARBON | ${title}`} />
+<meta name="title" content={documentTitle} />
 <meta name="description" content={description} />
 
 <meta property="og:type" content="website" />
@@ -133,7 +137,7 @@ const breadcrumbSchema = {
 <link rel="canonical" href={canonicalURL} />
 <link rel="icon" type="image/svg" href="/favicon.svg" />
 
-<title>GOCHARBON | {title}</title>
+<title>{documentTitle}</title>
 
 <!-- JSON-LD Structured Data -->
 {breadcrumbItems.length > 1 && (

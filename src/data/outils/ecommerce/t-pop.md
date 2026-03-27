@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: cms
+toolFacets:
+  - print-on-demand
+  - textile
 title: T-Pop
 author: Diane
 tags:

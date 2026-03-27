@@ -1,5 +1,10 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: caisse
+toolFacets:
+  - retail
+  - pos
 metadataEnrichedAt: null
 title: ShopCaisse
 author: Diane

@@ -6,6 +6,8 @@ author: Diane
 tags:
   - 'Outils'
   - 'Communication'
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: relations-presse
 description: "Cision est la plateforme mondiale de relations presse et de veille média. Base journalistes, diffusion communiqués, analytics RP. Version FR complète."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

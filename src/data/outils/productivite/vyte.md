@@ -5,6 +5,8 @@ title: Vyte
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: prise-rendez-vous
 description: Vyte est un outil français de prise de rendez-vous en ligne. Planification
   groupe (vote), 1-to-1, page perso. Bootstrap rentable. 600K$/an avec 4 personnes.
   Dès 0€.

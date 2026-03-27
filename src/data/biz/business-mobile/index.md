@@ -180,6 +180,12 @@ Apps qui te paient pour des petites tâches : tester des apps, prendre des photo
 - Ceux qui veulent une carrière
 - Ceux avec des compétences spécialisées
 
+Pour creuser le sous-angle le plus intéressant de cette catégorie, regarde aussi :
+
+- [Tests utilisateurs rémunérés : ce que ça vaut vraiment](/biz/business-mobile/tests-remuneres)
+- [Comparatif des plateformes de tests rémunérés](/biz/business-mobile/comparatif-plateformes-tests-remuneres)
+- [Amazon Vine et alternatives](/biz/business-mobile/amazon-vine-et-alternatives)
+
 ## Type 4 : Freelancing Mobile
 
 Apps de freelancing : design, rédaction, traduction, etc.

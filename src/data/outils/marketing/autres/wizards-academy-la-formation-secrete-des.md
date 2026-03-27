@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: avis-wizard-academy
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: formation
 u_site: null
 title: Wizards Academy La Formation Secrète Des Entrepreneurs Millionnaires
 author: Diane

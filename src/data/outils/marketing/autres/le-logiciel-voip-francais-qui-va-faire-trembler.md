@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: telephonie
 metadataEnrichedAt: null
 tags:
 - Outils

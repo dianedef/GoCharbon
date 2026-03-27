@@ -7,6 +7,8 @@ tags:
   - 'Outils Français'
   - 'Communication'
   - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: networking
 description: "Wudo est la plateforme française de réseau professionnel privé et de mise en relation. Networking intelligent pour communautés pro, alumni, clusters."
 pubDate: "2026-03-15"
 imgUrl: ../../../assets/astro.jpeg

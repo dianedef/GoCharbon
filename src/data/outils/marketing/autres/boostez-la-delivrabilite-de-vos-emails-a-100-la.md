@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: messagerie
 metadataEnrichedAt: null
 tags:
 - Outils

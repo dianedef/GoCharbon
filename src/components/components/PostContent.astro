@@ -1,20 +1,44 @@
 ---
 import ToolQualificationCard from "./ToolQualificationCard.astro";
 import type { ToolQualification } from "../../utils/tool-qualification";
+import { getToolDisplayChips } from "../../utils/tool-taxonomy";
+import Pill from "./Pill.astro";
 
 interface Props {
+	postId: string;
 	pubDate: Date;
 	author: string;
 	section?: "blog" | "outils" | "tutos" | "parcours";
 	toolQualification?: ToolQualification;
+	toolCategoryPrimary?: string;
+	toolSubcategoryPrimary?: string;
+	toolFacets?: string[];
 }
 
-const { pubDate, author, section, toolQualification } = Astro.props;
+const {
+	postId,
+	pubDate,
+	author,
+	section,
+	toolQualification,
+	toolCategoryPrimary,
+	toolSubcategoryPrimary,
+	toolFacets,
+} = Astro.props;
 const worldIcons = {
 	charbon: "/world/charbon.svg",
 	mine: "/world/mine.svg",
 	or: "/world/or.svg",
 };
+const toolDisplayChips = getToolDisplayChips({
+	id: postId,
+	data: {
+		section,
+		toolCategoryPrimary,
+		toolSubcategoryPrimary,
+		toolFacets,
+	},
+});
 ---
 
 <article
@@ -40,6 +64,21 @@ const worldIcons = {
 	<p class="text-base md:text-lg">
 		Publié le {pubDate} par {author}
 	</p>
+	{section === "outils" && toolDisplayChips.length > 0 && (
+		<ul class="tool-taxonomy-list">
+			{toolDisplayChips.map((chip) => (
+				<li>
+					{chip.href ? (
+						<a href={chip.href}>
+							<Pill>{chip.label}</Pill>
+						</a>
+					) : (
+						<Pill>{chip.label}</Pill>
+					)}
+				</li>
+			))}
+		</ul>
+	)}
 	{section === "outils" && <ToolQualificationCard metadata={toolQualification} />}
 	<div>
 		<slot />
@@ -67,6 +106,15 @@ const worldIcons = {
 
 	.post-world-cues {
 		margin: 0.65rem 0 0.85rem;
+	}
+
+	.tool-taxonomy-list {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.75rem;
+		margin: 1rem 0;
+		padding: 0;
+		list-style: none;
 	}
 
 	article :global(h1) {

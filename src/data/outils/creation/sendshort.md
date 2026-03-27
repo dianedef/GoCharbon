@@ -2,6 +2,11 @@
 section: outils
 title: SendShort
 author: Diane
+toolCategoryPrimary: creation
+toolSubcategoryPrimary: video
+toolFacets:
+  - ia
+  - repurposing
 tags:
   - 'Outils'
   - 'Vidéo'

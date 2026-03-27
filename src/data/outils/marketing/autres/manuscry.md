@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: marketing
+toolSubcategoryPrimary: copywriting
 metadataEnrichedAt: null
 title: manuscry
 author: Diane

@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: business
+toolSubcategoryPrimary: caisse
 metadataEnrichedAt: null
 tags:
 - Outils

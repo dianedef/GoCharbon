@@ -1,5 +1,7 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: personalization
 metadataEnrichedAt: null
 title: Customizely
 author: Diane

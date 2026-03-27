@@ -1,5 +1,9 @@
 ---
 section: outils
+toolCategoryPrimary: ecommerce
+toolSubcategoryPrimary: autres
+toolFacets:
+  - mobilite
 metadataEnrichedAt: null
 type: outil
 tags:

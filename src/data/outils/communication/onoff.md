@@ -5,6 +5,8 @@ title: onoff
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: telephonie
 description: Avec Onoff App, tu peux obtenir un deuxième numéro de téléphone pour
   ton entreprise, sans avoir besoin d'une seconde carte SIM ni d'un second téléphone.
   Les avantages clés incluent

@@ -2,6 +2,8 @@
 section: outils
 title: Scribbr
 author: Diane
+toolCategoryPrimary: formation
+toolSubcategoryPrimary: relecture-academique
 tags:
   - 'Outils'
   - 'Formation'

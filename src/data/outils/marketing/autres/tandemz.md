@@ -4,6 +4,8 @@ metadataEnrichedAt: null
 tags:
 - Outils
 imageNameKey: tandemz
+toolCategoryPrimary: communication
+toolSubcategoryPrimary: recherche-utilisateur
 u_site: https://www.tandemz.io/fr
 u_affi: null
 u_affiAdmin: null

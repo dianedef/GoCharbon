@@ -5,7 +5,7 @@ description: "Plan d'action pour AI Content Creator."
 category: "content"
 level: "debutant"
 status: "active"
-updatedAt: "2026-03-01"
+updatedAt: "2026-03-25"
 ---
 ## Ton objectif
 Produire du contenu multi-format assiste IA avec niveau éditorial humain.

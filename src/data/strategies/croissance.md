@@ -153,3 +153,12 @@ D'après [BDC](https://www.bdc.ca/), la banque de développement du Canada, les 
 - Formation continue des équipes
 - Accompagnement personnalisé
 - Feedback loops réguliers
+
+## Pour aller plus loin
+
+Si tu veux une croissance moins théorique et plus terrain, les tests utilisateurs restent un levier simple pour voir où les gens bloquent avant de scaler un produit ou un tunnel.
+
+- [Tests utilisateurs rémunérés : ce que ça vaut vraiment](/biz/business-mobile/tests-remuneres)
+- [Comparatif des plateformes de tests rémunérés](/biz/business-mobile/comparatif-plateformes-tests-remuneres)
+- [UX Design](/marketing/optimisation/ux)
+- [CRO](/marketing/optimisation/cro)

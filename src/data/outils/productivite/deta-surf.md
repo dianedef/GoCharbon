@@ -6,6 +6,10 @@ type: outil
 author: Diane
 tags:
 - Outils
+toolCategoryPrimary: productivite
+toolSubcategoryPrimary: navigation-ia
+toolFacets:
+  - ia
 description: Deta Surf est le navigateur IA qui transforme ta navigation en base de
   connaissances. Notebooks, résumés, code. Berlin/New York. Chromium. Gratuit en beta.
 pubDate: '2024-03-25'

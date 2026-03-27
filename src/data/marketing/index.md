@@ -43,6 +43,7 @@ Transformer les visiteurs en clients.
 **Ce qui fonctionne :**
 
 - Landing pages optimisées
+- [Copywriting](/marketing/copywriting/index) — les mots qui transforment un visiteur en client
 - CTA clairs
 - Tunnel de vente fluide
 - Social proof (témoignages, avis)

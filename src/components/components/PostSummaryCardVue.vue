@@ -6,6 +6,7 @@ import { extractMainTags, getMainTagLabel } from "../../utils/tag-groups";
 import { useRandomColor } from "../../composables/useRandomColor";
 import { computed } from "vue";
 import { computeEngagementBadge } from "../../utils/tool-qualification";
+import { getToolDisplayChips } from "../../utils/tool-taxonomy";
 
 interface Props extends PostSummaryCardProps {
     post: Post;
@@ -32,7 +33,8 @@ const imgSrc = computed(() => {
     return data.imgUrl.src;
 });
 
-const mainTags = computed(() => extractMainTags(data.tags));
+const mainTags = computed(() => extractMainTags(data.tags).slice(0, 2));
+const toolDisplayChips = computed(() => getToolDisplayChips({ id: props.post.id, data }));
 const engagementBadge = computed(() => {
     if (data.section !== 'outils') {
         return null;
@@ -102,11 +104,21 @@ const engagementBadge = computed(() => {
             <div class="hidden sm:inline-block mt-4">
                 <div class="flex justify-between items-center">
                     <ul class="flex flex-wrap gap-4 mt-2">
-                        <li v-for="mainTag in mainTags" :key="mainTag">
-                            <a class="sanchez text-sm md:text-base" :href="`/tag/${encodeURIComponent(mainTag)}`">
-                                <Pill :content="getMainTagLabel(mainTag)">{{ getMainTagLabel(mainTag) }}</Pill>
-                            </a>
-                        </li>
+                        <template v-if="data.section === 'outils'">
+                            <li v-for="chip in toolDisplayChips" :key="chip.label">
+                                <a v-if="chip.href" class="sanchez text-sm md:text-base" :href="chip.href">
+                                    <Pill :content="chip.label">{{ chip.label }}</Pill>
+                                </a>
+                                <Pill v-else :content="chip.label">{{ chip.label }}</Pill>
+                            </li>
+                        </template>
+                        <template v-else>
+                            <li v-for="mainTag in mainTags" :key="mainTag">
+                                <a class="sanchez text-sm md:text-base" :href="`/tag/${encodeURIComponent(mainTag)}`">
+                                    <Pill :content="getMainTagLabel(mainTag)">{{ getMainTagLabel(mainTag) }}</Pill>
+                                </a>
+                            </li>
+                        </template>
                     </ul>
                     <span v-if="data.draft" class="bg-primary rounded-full border-2 border-black dark:border-yellow-soft py-1 px-3 md:px-4 text-xs md:text-sm dark:text-yellow-soft">
                         Brouillon
