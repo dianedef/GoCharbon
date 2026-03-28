@@ -1,5 +1,23 @@
 # Changelog
 
+## 2026-03-28/29
+
+### Added
+- **Skill `/gocharbon-fiche-outil`** — skill complet (6 phases) + slash command pour évaluer un outil et créer sa fiche avec qualification locale en une seule passe
+- **Fiche LivePepper** (`outils/ecommerce/livepepper.md`) — commande en ligne restauration 0% commission, Sophia Antipolis
+- **Cluster hébergement : 12 nouvelles fiches outils** — Scaleway, OVHcloud, Infomaniak, Gandi, LWS, PlanetHoster, IONOS, Clever Cloud, WP Serveur, Upsun (ex Platform.sh), avec qualification locale complète sur chacune
+- **Page pilier "Hébergeurs Web Français : Le Comparatif"** (`outils/tech/hebergement/hebergeurs-francais.md`) — comparatif de 17 hébergeurs français et francophones organisé par cas d'usage (mutualisé, WordPress managé, cloud, PaaS, registrar, stockage souverain, CDN)
+
+### Changed
+- **4 fiches hébergement enrichies** (o2switch, Leviia, Be Cloud, Ex2) — squelettes réécrits en fiches encyclopédiques complètes avec qualification locale
+- **Page pilier hébergeurs mise à jour** — intégration des 7 dernières fiches (Gandi, LWS, PlanetHoster, IONOS, Clever Cloud, WP Serveur, Upsun) + nouvelles sections PaaS et registrars
+
+### Removed (draft)
+- `tech/ia/autres/quel-hebergeur-web.md` — comparatif 2023 daté, supplanté par le pilier
+- `tech/ia/autres/ksuite.md` — squelette mal rangé, kSuite couverte dans la fiche Infomaniak
+- `tech/hebergement/alternatives-open-source.md` — copié-collé d'articles tiers, pas une fiche outil
+- `tech/hebergement/comment-creer-un-site-daffiliation.md` — hors sujet hébergement
+
 ## 2026-03-26
 
 ### Changed

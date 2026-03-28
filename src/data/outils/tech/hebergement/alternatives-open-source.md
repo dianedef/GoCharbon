@@ -9,6 +9,7 @@ description: 'Découvre Alternatives Open Source : outil français pour entrepre
   fonctionnalités et avis.'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
+draft: true
 ---
 
 [Consequences of Open Sourcing Software](https://www.builder.io/blog/oss-consequences)
