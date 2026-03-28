@@ -168,6 +168,10 @@ Le SEO prend 6-12 mois avant de voir des résultats. Sois patient.
 - [Black Hat & Automatisation](/seo/technique/black-hat-automation) - Stratégies avancées et scalabilité
 - [Netlinking](/seo/netlinking) - Stratégie de backlinks
 - [SEO Local](/seo/local) - Optimiser ta présence locale
+- [Comprendre le GEO (Generative Engine Optimization)](/seo/contenu/geo-generative-engine-optimization/) - Optimiser ton contenu pour les moteurs IA
+- [Synergie SEO, SEA et GEO](/seo/fondamentaux/synergie-seo-sea-geo/) - Combiner les trois leviers de visibilité
+- [Panorama des outils SEO français](/outils/marketing/autres/les-outils-seo-francais-qui-font-trembler-google/) - Les alternatives made in France
+- [Automatiser son SEO avec l'IA](/tutos/automatiser-ses-process-seo-avec-ia/) - Gagner du temps grâce à l'automatisation
 
 ---
 

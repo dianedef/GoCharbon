@@ -14,9 +14,9 @@ imgUrl: ../../../assets/astro.jpeg
 # Les Bonnes Pratiques SEO en 2024
 
 ## Évolutions Majeures en 2024
-- Intelligence artificielle et SEO
+- [Intelligence artificielle et SEO : l'impact des LLMs sur le référencement](/outils/marketing/autres/le-seo-est-mort-voici-comment-survivre-et/)
 - Importance croissante de l'E-A-T-E
-- SGE (Search Generative Expérience)
+- SGE et [Generative Engine Optimization (GEO)](/seo/contenu/geo-generative-engine-optimization/)
 - Recherche multimodale
 - Focus sur l'intention utilisateur
 

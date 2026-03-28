@@ -39,7 +39,7 @@ HubSpot a révolutionné l'acquisition B2B avec son approche inbound, générant
 Selon [Semrush](https://www.semrush.com/blog/), les canaux les plus rentables en 2024 sont :
 
 **SEO**
-Spotify acquiert 27% de ses nouveaux utilisateurs via la recherche organique :
+Spotify acquiert 27% de ses nouveaux utilisateurs via la recherche organique. En 2026, les stratégies gagnantes combinent [SEO, SEA et GEO pour maximiser la visibilité](/seo/fondamentaux/synergie-seo-sea-geo/) :
 - Contenu long format (+187% de performance)
 - Optimisation locale (45% des recherches)
 - Rich snippets (CTR augmenté de 35%)

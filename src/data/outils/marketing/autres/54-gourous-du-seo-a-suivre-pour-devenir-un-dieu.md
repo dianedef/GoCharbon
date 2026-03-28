@@ -5,198 +5,226 @@ toolSubcategoryPrimary: seo
 metadataEnrichedAt: null
 tags:
 - Outils
+- SEO
 imageNameKey: null
 u_site: null
-title: 54 Gourous Du Seo À Suivre Pour Devenir Un Dieu Du Référencement
+title: "Les experts SEO français à suivre en 2026 : le guide sans bullshit"
 author: Diane
-description: 'Découvre 54 Gourous Du Seo À Suivre Pour Devenir Un Dieu Du Référencement
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
-pubDate: '2024-03-25'
+description: "Qui suivre pour progresser en SEO en 2026 ? Les meilleurs experts français et internationaux, leurs spécialités, et où les croiser cette année."
+pubDate: '2026-03-28'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 
-[21 must-follow SEO Experts & Resources (that'll up your TRAFFIC game!) - YouTube](https://www.youtube.com/watch?v=BHtTlkmJy0g)
+Tu peux lire cinquante articles "tendances SEO 2026" sans rien retenir. Ou tu peux suivre les bonnes personnes et capter en temps réel ce qui change vraiment.
 
-Toute l’équipe de[French Touch SEO](https://www.frenchtouchseo.com/#section-72) que jai déjà liké sur twitter
+Le SEO bouge vite. Les moteurs de recherche génératifs, [les LLMs qui redistribuent les cartes de la visibilité](/outils/marketing/autres/le-seo-est-mort-voici-comment-survivre-et/), Google qui empile les fonctionnalités dans ses SERPs -- rester à jour tout seul, c'est un travail à plein temps. La bonne nouvelle : il existe des gens dont c'est littéralement le métier de décrypter tout ça. Et certains d'entre eux sont français.
 
-Laurent Bourrelly
+Ce guide réunit les experts SEO qui méritent ton attention en 2026. Pas une liste de "gourous" autoproclamés. Des gens qui publient, expérimentent, partagent et font avancer le métier. On commence par les français, parce que c'est eux que tu croiseras en conférence et qui comprennent les spécificités du marché francophone.
 
-[frenchtouchseo.com](http://frenchtouchseo.com/)
+## Les experts SEO français
 
-[rank4win.com](http://rank4win.com/)
+### Sylvain Peyronnet -- Le scientifique des moteurs de recherche
 
-[seoconspiracy.com](http://seoconspiracy.com/)
+**Rôle** : Co-fondateur et CEO de [Babbar.tech](https://babbar.tech/)
 
-Dans la catégorie « SEO Dino », David Durand Pichard fait partie des espèces les plus recherchées par les paléontologues, puisque son entrée dans le métier remonte à 1996. Pourtant, il n’est pas aussi connu que d’autres; sans doute par manque d’implication sur son [blog SEO](http://referenceur.blogspot.com/), [Twitter](https://twitter.com/since1996) ou les divers forums et autres communautés.Son parcours est extrêmement prolifique, jonglant entre annonceur et agence depuis le début. Je vous laisse découvrir les grands noms d’annonceurs épinglés à [son CV](http://1996.eu/). C’est même le parcours le plus dense que je connaisse. Faut dire qu’il a pris de l’avance, depuis 1996, sur la plupart…
+Sylvain Peyronnet est un ancien professeur d'université spécialisé dans les algorithmes de recherche. Autant dire qu'il ne fait pas du SEO "au feeling". Avec plus de vingt ans d'expérience en recherche informatique, il a créé [Babbar](/outils/marketing/seo/babbartech/) (outil d'analyse de liens et d'autorité) et [YourTextGuru](/outils/marketing/seo/yourtext-guru/) (optimisation sémantique). Il a aussi été Chief Strategy Officer pour l'IA chez Qwant entre 2016 et 2020.
 
-Il faut aussi souligner son implication avec [SEO Camp](http://www.seo-camp.org/) où il s’occupe plus particulièrement des actions liées à l’emploi. Vous pouvez toujours le croiser aux grandes messes du référencement, telles que SEO Campus ou SMX (voir les slides de sa conférence [SMX 2011](http://fr.slideshare.net/since1996/recrutement-seo-missceline-since1996-smx-paris-2011)), mais également aux événement Speed Recruiting de SEO Camp.
+**Pourquoi le suivre** : Quand Sylvain parle d'algorithmes, ce n'est pas de la spéculation. C'est de la recherche appliquée. Au [SEO Summit 2026](https://seo-summit.fr/), il a présenté un talk sur le reverse engineering de LinkedIn -- le genre de sujet que personne d'autre n'aborde avec ce niveau de rigueur. Si tu veux comprendre le "pourquoi" derrière le [fonctionnement des moteurs de recherche](/seo/fondamentaux/fonctionnement-moteurs/), il est incontournable.
 
-Par ailleurs, c’est un [sportif de haut niveau](http://www.athletissimo.net/html/dd.htm) et franchement respect car la marche active m’a l’air d’un sport de dingues…
+**Où le trouver** : [sylvain.info](https://sylvain.info/), [Twitter/X @speyronnet](https://twitter.com/speyronnet)
 
-Dixon Jones
+---
 
-[DixonJones.com](http://dixonjones.com/)
+### Olivier Andrieu -- Le patriarche du SEO français
 
-[majestic.com](http://majestic.com/) (data company)
+**Rôle** : Fondateur d'[Abondance](https://www.abondance.com/)
 
-[inlinks.net](http://inlinks.net/)
+Olivier Andrieu fait du SEO depuis avant que la plupart des gens sachent ce que c'était. Il a créé Abondance en 1998, qui reste en 2026 le média francophone de référence sur le référencement naturel. Ingénieur Supélec, auteur d'une vingtaine de livres sur le sujet, il est le genre d'expert qui a vu passer toutes les mises à jour de Google -- et qui les a toutes documentées.
 
-eric landri founder of qwant
+**Pourquoi le suivre** : Abondance est ta source quotidienne d'actus SEO fiables en français. Pas de sensationnalisme, pas de hype. Juste de l'info solide, analysée par quelqu'un qui a le recul nécessaire. Ses formations sur [FormaSEO](https://www.formaseo.fr/) sont aussi parmi les meilleures du marché francophone.
 
-Matthew Cutts est un ingénieur informatique américain spécialisé dans la conception de logiciels. Il est célèbre mondialement dans le milieu de la tech pour avoir été pendant de nombreuses années le « Monsieur antispam » et le référent SEO (optimisation au référencement naturel) chez Google.
+**Où le trouver** : [abondance.com](https://www.abondance.com/), [formaseo.fr](https://www.formaseo.fr/)
 
-Olivier Andrieu prendre le pari au SEOCampus que chaque internaute aura des SERP différent (et il avait raison).
+---
 
-[Thomas Cubel](http://www.thomascubel.com/)
+### Olivier Duffez -- L'encyclopédie vivante du référencement
 
-et moi-même vont animer le débat.
+**Rôle** : Fondateur de [WebRankInfo](https://www.webrankinfo.com/) et co-fondateur de [Ranking Metrics](https://www.ranking-metrics.fr/)
 
-Un siège sera libre pour les participants, qui souhaitent se joindre à la discussion.
+Olivier Duffez a créé le plus grand portail francophone sur le SEO. Le forum WebRankInfo a réuni plus de 160 000 membres. Avec 25 ans d'expérience en conseil SEO auprès de grands comptes (FNAC, Orange, SNCF, Canal+, Gucci, entre autres), il a aussi lancé la plateforme My Ranking Metrics avec des outils comme RM Tech, utilisés par plus de 2 000 clients.
 
-Notre invité spécial sera
+**Pourquoi le suivre** : Sa maîtrise du SEO technique est redoutable, et il sait vulgariser des sujets complexes. Au SEO Summit 2026, il a parlé d'embeddings appliqués au SEO et au [GEO (Generative Engine Optimization)](/seo/contenu/geo-generative-engine-optimization/) -- preuve qu'il reste à la pointe malgré ses vingt-cinq ans de métier.
 
-[Olivier de Segonzac](https://twitter.com/5eg)
+**Où le trouver** : [webrankinfo.com](https://www.webrankinfo.com/), [webrankexpert.com](https://www.webrankexpert.com/), [Twitter/X @webrankinfo](https://twitter.com/webrankinfo)
 
-, fondateur de l’agence
+---
 
-[Resoneo](http://www.resoneo.com/)
+### Laurent Bourrelly -- Le pionnier du cocon sémantique
 
-et fin connaisseur du métier.
+**Rôle** : Consultant SEO indépendant depuis 2004, fondateur du [BootCamp SEO](https://bootcampseo.mykajabi.com/)
 
-Olivier est un des plus qualifiés pour nous aider à décortiquer cette affaire de périmètre du SEO.
+Laurent Bourrelly est le créateur du concept de "[cocon sémantique](/seo/contenu/cocon-semantique/)", une approche de maillage interne qui a influencé toute une génération de référenceurs francophones. Ancien pilier de la communauté French Touch SEO, il continue de publier régulièrement sur son blog et reste très actif.
 
-Frédéric Bobet fait partie de la célèbre génération de l’été 2015 où de nombreux référenceurs d’expérience chez l’annonceur se sont lancés en freelance.
+**Pourquoi le suivre** : Il pense les sites comme des écosystèmes où les pages communiquent intelligemment entre elles. En 2025-2026, il a adapté sa méthodologie à l'ère de l'IA générative, publiant notamment sur la manière de dominer en SEO avec les nouvelles règles du jeu. Son approche architecturale du SEO reste unique.
 
-En plus d’être un sacré bon SEO, Fred est également très actif au sein de la communauté.Surtout, ne loupez pas le gros teasing pour le prochain outil d’analyse sémantique nouvelle génération.
+**Où le trouver** : [laurentbourrelly.com](https://www.laurentbourrelly.com/), [Twitter/X @techskunkworks](https://twitter.com/techskunkworks)
 
-Sans vouloir trop lui passer la brosse à reluire, Fred apporte beaucoup à la communauté SEO.Ses conférences sont toujours excellentes et il est toujours prêt à partager et à tester mes idées saugrenues.
+---
 
-En plus, c’est un très bon pote et super compagnon de fiesta !
+### Vincent Terrasi -- Le défricheur de l'IA appliquée au SEO
 
-Pour en savoir plus sur Frédéric Bobet, dirigez vous vers son site [Trikaya](http://www.trikaya.fr/) et sur Twitter via son pseudo [@Doeurf](http://www.trikaya.fr/).
+**Rôle** : Co-fondateur et CTO de Draft & Goal (Station F)
 
-Vous pouvez déjà vous inscrire pour être les premiers à profiter du nouvel outil d’aide à la rédaction [YourTextGuru](http://yourtext.guru/).
+Ingénieur informatique de formation, Vincent Terrasi est un pionnier de l'application du machine learning au référencement. Il est passé par M6 Web et OVH avant de lancer sa startup à Station F, où il aide les entreprises à transformer leurs processus marketing avec l'IA.
 
-Romain Bellet, big boss de [Yooda](https://www.yooda.com/), qui nous explique en détails le concept de son événement [YOODx](http://yoodx.com/).
+**Pourquoi le suivre** : Vincent est celui qui parle d'IA en SEO avec des cas concrets, pas des promesses vagues. Au SEO Summit 2025, il a ouvert le débat sur le "SEO agentique" -- quand des agents IA autonomes [prennent des décisions d'optimisation](/tutos/automatiser-ses-process-seo-avec-ia/). Sa formation AI Search & GEO sur [FormaSEO](https://www.formaseo.fr/) fait référence.
 
-En effet, il s’agit d’un concept réellement novateur, qui va entraîner les participants dans une véritable aventure enrichissante pour aller bien au-delà du référencement.
+**Où le trouver** : [LinkedIn Vincent Terrasi](https://www.linkedin.com/in/vincent-terrasi/), [reacteur.com](https://www.reacteur.com/)
 
-Les événements SEO s’enchaînent et se ressemblent parfois un peu trop.
+---
 
-Du coup, certains ont décidé d’innover avec des concepts, qui méritent réellement de s’y attarder.
+### Mikaël Priol -- Le bâtisseur d'empire SEO
 
-[YOODx](http://yoodx.com/) fait partie de ces événements SEO, dont vous aurez envie de dire plus tard « j’y étais! »
+**Rôle** : Président de [SEO.fr](https://www.seo.fr/), [Netlinking.fr](https://www.netlinking.fr/), [Yooda](https://www.yooda.com/) et [Contenu.fr](https://www.contenu.fr/)
 
-Nicolas, que j’ai d’abord connu en temps qu’élève du [BootCampSEO.](https://bootcampseo.mykajabi.com/)
+Mikaël Priol est un serial entrepreneur du SEO. Son groupe Internet Factory couvre toute la chaîne de valeur : l'agence SEO.fr, la plateforme de netlinking, l'outil d'analyse Yooda, et la production de contenu. Il est aussi éditeur d'un réseau de plus de 8 000 sites thématiques.
 
-À l’époque, il était spécialisé WordPress et Prestashop avec son site [CreaNico.](https://www.creanico.fr/)
+**Pourquoi le suivre** : Il apporte une vision pragmatique et data-driven du marché. Au SEO Summit 2026, il a présenté une étude OpinionWay sur le marché du SEO en France -- le genre de données structurées qu'on trouve rarement ailleurs. Si tu veux comprendre l'économie du SEO (et découvrir les [outils français qui font bouger le marché](/outils/marketing/autres/les-outils-seo-francais-qui-font-trembler-google/)), c'est lui.
 
-Aujourd’hui, il a développé [SEMJuice](https://www.semjuice.com/), qui est devenu une des plateformes leader dans le domaine de la vente de lien.
+**Où le trouver** : [seo.fr](https://www.seo.fr/), [LinkedIn Mikaël Priol](https://www.linkedin.com/in/mikael-priol/)
 
-Pour en savoir plus sur Nico, tu peux le suivre sur twitter: @[Creanico](https://twitter.com/_CreaNico).
+---
 
-[Julien Ringard](https://twitter.com/jringard), SEO Popstar de l’agence [Digimood](http://www.digimood.com/), se prête pour la première fois à l’exercice du podcast référencement.
+### Elliott Bobiet -- La nouvelle génération LLM-native
 
-Je me trompe rarement (jamais en fait) lorsqu’il s’agit de dénicher les vrais talents dans la sphère SEO et celui là fait partie de ceux qui vont figurer sur le podium.
+**Rôle** : Co-fondateur de Content Rank
 
-Rockstar vs. Popstar
+Elliott Bobiet fait partie de cette nouvelle vague de SEOs qui ont grandi avec les LLMs et en ont fait leur spécialité. Il publie régulièrement sur Substack des analyses pointues sur l'intersection entre SEO et IA générative, avec un ton rafraîchissant : pas de panique, pas de bullshit, juste des données.
 
-Avec Julien Ringard, vous avec le profil du référenceur qui a parfaitement capté les rouages pour obtenir des résultats pour ses clients.
+**Pourquoi le suivre** : Son talk au SEO Summit 2026 portait sur la manipulation des LLMs -- un sujet brûlant quand on sait que [ChatGPT, Perplexity et consorts redistribuent la visibilité](/outils/marketing/autres/le-seo-est-mort-voici-comment-survivre-et/). Il est l'un des rares à mesurer concrètement le ROI du GEO et à dire honnêtement quand ça ne vaut pas le coup.
 
-C’est aussi une ascension fulgurante au sein de la communauté, avec un récent coup d’éclat grâce à la publication d’[un livre](https://www.amazon.fr/Google-veut-Comprendre-r%C3%A9f%C3%A9rencement-naturel/dp/2759031756) au succès incroyable.Faut dire qu’il a tout pour lui le garçon :  c’est un beau gosse sympa et pas con du tout, alors que demande le peuple ?Vous êtes les témoins en direct live de la naissance d’une véritable star du SEO.
+**Où le trouver** : [elliottbobiet.substack.com](https://elliottbobiet.substack.com/), [LinkedIn Elliott Bobiet](https://www.linkedin.com/in/elliott-bobiet/)
 
-Fabien fait partie des anciens du SEO, mais il a commencé à prendre la parole en public sur le tard.
+---
 
-C’est aujourd’hui le compte de référence à suivre sur Twitter [@fabienr34](https://twitter.com/fabienr34)
+### Mathieu Chapon -- Le data scientist du e-commerce
 
-Il connait le métier d’éditeur de sites par coeur et propose également une plate-forme assez innovante, en ce qui concerne l’achat de liens et tous les besoins inhérents au backlink : [VIPSEO](https://www.vipseo.fr/)
+**Rôle** : Fondateur et directeur data & innovation chez [Peak Ace](https://peakace.fr/)
 
-Si vous avez besoin de contacter Fabien pour une prestation, direction le site de son agence [VIPAGENCE.COM](https://www.vip-agence.com/)
+Mathieu Chapon a lancé l'agence Search Foresight (devenue Peak Ace) en 2012 et l'a dirigée pendant plus de douze ans. Il a constitué une équipe de cinq data scientists pour développer des outils d'analyse basés sur l'IA. Il a accompagné des grands comptes comme eBay, SFR, Truffaut et Louis Vuitton.
 
-David aka Ninjalinker dans le Podcast SEO. En effet, il fait partie de ceux, qui font avancer le référencement. Dans cette vidéo, je vous propose de faire connaissance avec une sacré personnalité de la communauté du référencement. En plus, il trempe du côté obscur de la Force, donc cela donne encore plus de piquant.
+**Pourquoi le suivre** : Mathieu incarne le SEO data-driven, surtout en e-commerce. Il ne fait pas de SEO "artisanal" mais industrialise les process avec de l'automatisation et du machine learning. Si tu bosses sur un site marchand, ses formations et interventions sont du concentré d'expérience opérationnelle.
 
-Vous pouvez tester la nouvelle version de [pbnpremium.com](http://pbnpremium.com/) qui propose un dashboard complet pour faciliter l’achat d’expirés.
+**Où le trouver** : [peakace.fr](https://peakace.fr/), [LinkedIn Mathieu Chapon](https://www.linkedin.com/in/mathieuchapon/)
 
-En exclusivité, David annonce dans le podcast son nouveau bébé : pbn.express Profitez vite de vous inscrire pour la version Beta de ce service, dont nous parlons dans le podcast.
+---
 
-Pour contacter David, le mieux est d’aller directement sur son site [ninjalinker.com](http://ninjalinker.com/)
+### Olivier de Segonzac -- Le vétéran stratégique
 
-Nicolas Nguyen, expert SEO et co-fondateur de Reputation Vip et de Semji, et Stéphane Jambu, fondateur de HI-commerce et consultant expert pour des marques comme Jouéclub ou CashPiscine vous expliquent comment réussir vos cocons sémantiques. Grâce à des conseils concrets et des cas clients réussis, découvrez les bonnes pratiques pour réussir vos cocons sémantiques et par conséquent votre stratégie SEO. Si vous souhaitez en savoir + : [semji.com](http://semji.com/)
+**Rôle** : Co-fondateur et directeur associé de [Resoneo](https://www.resoneo.com/)
 
-[https://www.frenchtouchseo.com/](__MASK_36__)
+Olivier de Segonzac est dans le jeu depuis 2000. Après des études d'économie et un passage par le journalisme, il a cofondé Resoneo en 2004 et dirige depuis une trentaine de consultants SEO. Il a aussi cofondé Ozae, une plateforme de visibilité pour Google News. En 2025, il a publié dans Search Engine Land une analyse de plus de 2 500 pages de l'API Google qui avait fuité.
 
-[Untitled](https://www.notion.so/%3Chttps://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2bb6ebb-0e8d-4315-97c9-f39f06f0443e/Untitled.png%3E) [Untitled](https://www.notion.so/%3Chttps://s3-us-west-2.amazonaws.com/secure.notion-static.com/85992b8a-3360-4e2d-9ba1-7aef53992c1a/Untitled.png%3E)
+**Pourquoi le suivre** : C'est le profil "senior stratégique" par excellence. Ses analyses de fond sur l'évolution des moteurs sont toujours bien documentées, et il intervient régulièrement au SMX Paris, SEO Camp et WebCampDay.
 
-Ce nouvel épisode du Podcast référencement à l’honneur de recevoir le truculent [Thomas Leonetti](http://www.thomas-leonetti.com/) aka [@Yakiseo](https://twitter.com/Yakiseo) aka [Pepper SEO](http://www.pepperseo.com/).
+**Où le trouver** : [resoneo.com](https://www.resoneo.com/), [Twitter/X @5eg](https://twitter.com/5eg)
 
-- seo à suivre [Keyword Hero - Match keyword to session in GA, get rid of (not provided)](https://keyword-hero.com/#features)
-    
-    FR
-    
-    peyronnet
-    
-    bourrelly
-    
-    **Cyrus Shepard**
-    
-    , former lead SEO for Moz, now running his own SEO company
-    
-    [Zippy](https://www.zippy.com/)
-    
-    :
-    
-    **Branko Kral**
-    
-    , director of analytics and community builder at
-    
-    [B King Digital](https://bkingdigital.com/)
-    
-    :
-    
-    **Rand Fishkin**
-    
-    , Moz's Co-founder and founder of
-    
-    [SparkToro](https://www.sparktoro.com/)
-    
-    and author of
-    
-    ["Lost and Founder"](https://sparktoro.com/book)
-    
-    :
-    
-    **Luke Monaghan**
-    
-    ,
-    
-    [Senior SEO account manager at fetch and author](https://twitter.com/lukethemono)
-    
-    :
-    
-    **Felix Beilharz**
-    
-    ,
-    
-    [top-influencer, lecturer at several German universities and author](https://felixbeilharz.de/)
-    
-    :
-    
-    **Lukasz Zelezny**
-    
-    , head of organic acquisition at
-    
-    [uSwitch.com](https://uswitch.com/)
-    
-    and digital consultant at
-    
-    [Zelezny.uk](https://zelezny.uk/)
-    
-    :
-    
-    **Dan Charles**
-    
-    , founder of
-    
-    [Be Fair Marketing Co](https://befairmarketing.co/)
-    
-    and former marketing specialist with Yell:
+---
+
+### Jacky Giang -- L'architecte du backlink
+
+**Rôle** : Fondateur de [Linksgarden](https://www.linksgarden.com/) et co-créateur de Semnaut
+
+Jacky Giang s'est lancé à 22 ans après des études en maths et informatique, et a fait du netlinking sa spécialité. Il a créé Linksgarden (acquisition de liens de qualité) et co-développé Semnaut, un outil SEO orienté gestion de projet. Il organise aussi la SEO Garden Party, un événement digital gratuit qui réunit la communauté chaque année.
+
+**Pourquoi le suivre** : Si le netlinking est ton sujet, Jacky est une référence. Il combine une approche technique de l'acquisition de liens avec une vraie culture communautaire -- la SEO Garden Party est devenue un rendez-vous apprécié de l'écosystème français.
+
+**Où le trouver** : [page1.fr/experts/jacky-giang](https://www.page1.fr/experts/jacky-giang/), [Twitter/X @jacky_gng](https://twitter.com/jacky_gng)
+
+---
+
+### Nicolas Plantelin -- Le trait d'union SEO/SEA/GEO
+
+**Rôle** : Head of SEO chez [Ad's Up Consulting](https://ads-up.fr/)
+
+Nicolas Plantelin fait du SEO depuis 2010, d'abord chez Netbooster puis chez OUI.sncf avant de rejoindre Ad's Up Consulting. Sa particularité : il a une vision transversale qui intègre SEO, SEA, Social Ads et GEO dans une stratégie d'acquisition unifiée.
+
+**Pourquoi le suivre** : En 2026, le SEO ne vit plus dans son silo. Nicolas incarne cette approche "search global" où le référencement naturel dialogue avec le payant et le génératif. Au SEO Summit 2026, il a parlé de [synergie SEO/SEA/GEO](/seo/fondamentaux/synergie-seo-sea-geo/) -- un sujet crucial pour les équipes marketing qui doivent optimiser leurs budgets.
+
+**Où le trouver** : [ads-up.fr](https://ads-up.fr/), [Twitter/X @Nico_Plantelin](https://twitter.com/Nico_Plantelin)
+
+---
+
+## Les experts internationaux à connaître
+
+### Neil Patel -- Le "Search Everywhere Optimization"
+
+**Rôle** : Co-fondateur de [NP Digital](https://npdigital.com/) et créateur d'[Ubersuggest](https://neilpatel.com/ubersuggest/)
+
+Neil Patel n'a pas besoin de présentation. Ce qui est pertinent en 2026, c'est son concept de "Search Everywhere Optimization" : l'idée que Google n'est plus le seul moteur qui compte. YouTube, TikTok, Amazon, ChatGPT -- chaque plateforme est devenue un moteur de recherche. Avec 45 milliards de recherches par jour sur internet, optimiser pour un seul canal ne suffit plus.
+
+**Pourquoi le suivre** : Même si son contenu est parfois un peu trop "marketing américain" pour le goût français, sa capacité à synthétiser les méga-tendances est réelle. Son talk au SEO Summit 2026 a confirmé qu'il reste pertinent dans un monde post-Google-monopole.
+
+**Où le trouver** : [neilpatel.com](https://neilpatel.com/), [YouTube Neil Patel](https://www.youtube.com/@NeilPatel)
+
+---
+
+### Dawn Anderson -- La chercheuse qui pense en retrieval
+
+**Rôle** : Fondatrice de [Bertey](https://bertey.com/)
+
+Dawn Anderson est une consultante SEO basée à Manchester avec près de vingt ans d'expérience et des diplômes avancés en marketing digital et data science. Sa spécialité : penser le SEO à travers le prisme de l'information retrieval, c'est-à-dire la façon dont les systèmes (y compris les LLMs) retrouvent, sélectionnent et citent l'information.
+
+**Pourquoi la suivre** : En 2026, Dawn est celle qui dit que la visibilité se mérite par le "retrieval", pas par le ranking. Focus sur les embeddings, la recherche vectorielle, les signaux d'autorité que les machines peuvent vérifier. Si tu veux anticiper comment l'IA choisit ses sources, elle est essentielle.
+
+**Où la trouver** : [bertey.com](https://bertey.com/), [Twitter/X @dawnieando](https://twitter.com/dawnieando)
+
+---
+
+### Si Quan Ong -- Le chercheur d'Ahrefs
+
+**Rôle** : Senior Content Marketer chez [Ahrefs](https://ahrefs.com/)
+
+Si Quan Ong est l'auteur de plus de 150 articles sur le blog d'Ahrefs, et surtout le cerveau derrière plusieurs études data-driven majeures. En 2025, il a publié une analyse de 600 000 pages qui démontre que Google ne pénalise pas le contenu généré par IA -- le genre de données qui coupe court aux débats de comptoir.
+
+**Pourquoi le suivre** : Si Quan apporte ce qui manque souvent dans le SEO : des données à grande échelle, analysées méthodiquement. Ses études sur le GEO sont parmi les plus citées du secteur. Au SEO Summit 2026, il a partagé les dernières recherches d'Ahrefs sur l'optimisation générative.
+
+**Où le trouver** : [ahrefs.com/blog/author/si-quan-ong](https://ahrefs.com/blog/author/si-quan-ong/), [siquanong.com](https://www.siquanong.com/)
+
+---
+
+### Rand Fishkin -- Le dissident lucide
+
+**Rôle** : Co-fondateur de [SparkToro](https://www.sparktoro.com/)
+
+Ancien co-fondateur de Moz, Rand Fishkin a pris du recul sur le SEO pur pour s'intéresser à l'audience intelligence avec SparkToro. Son livre "Lost and Founder" reste une lecture obligatoire pour tout entrepreneur du digital.
+
+**Pourquoi le suivre** : Rand est celui qui pose les questions que l'industrie préfère éviter. Il a été l'un des premiers à documenter les fuites de données de Google et à questionner la fiabilité des métriques SEO classiques. En 2026, sa perspective sur la découverte d'audience au-delà de Google est plus pertinente que jamais.
+
+**Où le trouver** : [sparktoro.com](https://www.sparktoro.com/), [Twitter/X @randfish](https://twitter.com/randfish)
+
+---
+
+## Où les croiser en 2026
+
+Le meilleur moyen de progresser en SEO, c'est de rencontrer ces gens en vrai. Voici les rendez-vous à marquer dans ton agenda (et pour un calendrier complet, consulte notre [guide des événements SEO en France](/outils/marketing/autres/les-evenements-seo-secrets-ou-se-font-les/)) :
+
+**SEO & GEO Summit** (mars et octobre 2026, Parc des Princes, Paris) -- L'événement de référence en France. 37 conférences, networking, masterclass la veille. C'est là que se retrouvent la plupart des experts cités dans cet article. L'édition de mars 2026 a réuni Sylvain Peyronnet, Olivier Duffez, Neil Patel, Dawn Anderson, Elliott Bobiet, et une vingtaine d'autres speakers. La prochaine édition est prévue en octobre. [seo-summit.fr](https://seo-summit.fr/)
+
+**Salon du Search Marketing** (janvier, Paris) -- L'événement de la FePSeM qui combine conférences courtes et salon professionnel. Format innovant pour du networking efficace.
+
+**SMX Paris** (mars, Paris) -- Le Search Marketing Expo, 16e édition en 2026. Un classique international décliné en version parisienne, avec des speakers français et internationaux. [smxfrance.com](https://smxfrance.com/)
+
+**SEO Camp** (dates variables, plusieurs villes) -- L'association historique du SEO français organise des événements locaux (Strasbourg en septembre 2026) et le Salon du Search Marketing. [seo-camp.org](https://www.seo-camp.org/)
+
+**SEO Garden Party** (février, en ligne) -- Organisée par Linksgarden, c'est l'événement digital gratuit de la communauté. Plusieurs conférences en streaming, accessible à tous. [Linksgarden](https://www.linksgarden.com/)
+
+---
+
+## Ce qu'il faut retenir
+
+Le SEO en 2026, c'est un métier qui s'est fragmenté. Il y a le SEO technique, le sémantique, le netlinking, le local, le e-commerce, le [GEO](/seo/contenu/geo-generative-engine-optimization/), et maintenant [l'optimisation pour les LLMs](/outils/marketing/autres/le-seo-est-mort-voici-comment-survivre-et/). Personne ne maîtrise tout. La bonne stratégie, c'est de suivre les bons experts dans chaque domaine qui t'intéresse.
+
+Les Français ont un écosystème SEO solide et actif, soutenu par des [outils SEO français de qualité](/outils/marketing/autres/les-outils-seo-francais-qui-font-trembler-google/). Que tu débutes ou que tu cherches à monter en compétence sur un sujet précis, les profils de cette liste publient régulièrement du contenu gratuit et de qualité. Abonne-toi à leurs newsletters, suis-les sur LinkedIn ou X, et si tu en as l'occasion, va les voir en conférence. Le SEO se transmet mieux en conversation qu'en article de blog.
+
+Et si tu ne devais en retenir qu'un conseil : méfie-toi de ceux qui prétendent avoir "la" méthode. Les meilleurs experts SEO sont ceux qui doutent, testent, et partagent leurs résultats -- bons ou mauvais.

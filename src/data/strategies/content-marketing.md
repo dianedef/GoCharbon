@@ -93,7 +93,7 @@ LinkedIn a révélé que les entreprises qui publient du contenu sur 3 canaux ou
 
 ### Amplification Organique
 Ahrefs a construit une audience de 580 000 visiteurs mensuels grâce à :
-- Une stratégie SEO basée sur l'analyse de 3 millions de recherches
+- Une stratégie SEO basée sur l'analyse de 3 millions de recherches (tu peux d'ailleurs [automatiser une partie de ces process SEO avec l'IA](/tutos/automatiser-ses-process-seo-avec-ia/))
 - Un programme de guest posting sur les sites à DR 70+
 - Une communauté de 150 000 experts qui partagent naturellement
 - Un programme d'ambassadeurs générant 30% du trafic

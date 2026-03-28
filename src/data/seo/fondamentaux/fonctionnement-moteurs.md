@@ -61,6 +61,7 @@ Le moteur de recherche modifie régulièrement son algorithme pour lutter contre
 - BERT
 - MUM
 - Impact sur le SEO
+- [GEO : optimiser pour les moteurs de recherche génératifs](/seo/contenu/geo-generative-engine-optimization/)
 
 ## Limites et Controverses des Algorithmes
 

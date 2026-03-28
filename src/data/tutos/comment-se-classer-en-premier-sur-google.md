@@ -87,7 +87,7 @@ Qualité > quantité.
 
 Sources:
 - partenariats,
-- guest posts ciblés,
+- guest posts ciblés (les [événements SEO en France](/outils/marketing/autres/les-evenements-seo-secrets-ou-se-font-les/) sont l'occasion idéale pour nouer ces contacts),
 - études originales,
 - ressources que les gens citent naturellement.
 
@@ -102,6 +102,8 @@ Routine:
 - données actualisées.
 
 ## 10) Mesure et ajuste
+
+Pour suivre et analyser tes positions efficacement, explore les [outils SEO français dédiés au suivi](/outils/marketing/autres/les-outils-seo-francais-qui-font-trembler-google/).
 
 KPIs à suivre:
 - impressions,

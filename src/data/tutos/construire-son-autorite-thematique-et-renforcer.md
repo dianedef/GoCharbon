@@ -23,7 +23,7 @@ Un tunnel informationnel de contenu qui sert à prouver ton expertise, et donc t
 
 Il faut souligner l'importance de comprendre et d'adopter cette stratégie, sans laquelle certaines SERPs sophistiquées où la concurrence est rude et les acteurs très bien établis depuis des années ([Google existe depuis 1998!](https://www.youtube.com/watch?v=3KtWfp0UopM))
 
- Laurent Bourrelly c'est un peu le papa du cocon sémantique, c'est lui qui l'a découvert et popularisé dans les années ??. Il permet au SEO d’avancer plus loin avec cette stratégie de référencement complète axée sur la fourniture à Google de ce qu'il veut tout en respectant l'intention existante de l'utilisateur.
+ Laurent Bourrelly c’est un peu le papa du cocon sémantique, c’est lui qui l’a découvert et popularisé (c’est l’un des [experts SEO français incontournables](/outils/marketing/autres/54-gourous-du-seo-a-suivre-pour-devenir-un-dieu/)). Il permet au SEO d’avancer plus loin avec cette stratégie de référencement complète axée sur la fourniture à Google de ce qu’il veut tout en respectant l’intention existante de l’utilisateur.
   Il l'expose dans des termes simples dans cette vidéo en détaillant l'idée de [tunnel informationnel thématique multimodal de haute qualité](https://youtu.be/v1bpEUyR_n8) (qui s'étend bien au delà de Google seulement) et sa mise en place physique dans les pages de ton site.
 
 

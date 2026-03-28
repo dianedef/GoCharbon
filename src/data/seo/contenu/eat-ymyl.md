@@ -50,4 +50,5 @@ imgUrl: ../../../assets/astro.jpeg
 
 ## Ressources Complémentaires
 - [Stratégie de contenu](/seo/contenu/strategie)
-- [Rédaction web](/seo/contenu/redaction-web) 
+- [Rédaction web](/seo/contenu/redaction-web)
+- [Les experts SEO français à suivre en 2026](/outils/marketing/autres/54-gourous-du-seo-a-suivre-pour-devenir-un-dieu/)
