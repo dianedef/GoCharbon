@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-04-06
+
+### Added
+- **12 nouvelles fiches outils** — Mirakl, Octopia, ShoppingFeed (e-commerce/marketplace), Bootcamp SEO, FormaSEO, Jedha, LiveMentor, Sauce Writing (formation), Contenu.fr (SEO), Taplio (social-media), Dust, Mistral AI (IA)
+- **Listes d'experts francophones** — ajout d'experts dans 5 listes existantes (biz, copywriting, e-commerce, marketing, IA)
+
+### Changed
+- **Fiches outils SEO refondues** — ContentRank (réécriture complète, -400 lignes), MyRankingMetrics (consolidation, -800 lignes), MyRankingMetrics-1 (corrections), LinksGarden (réécriture)
+- **Layout Default.astro** — ajustements de mise en page
+- **Page confidentialité** — mise à jour du contenu RGPD
+
 ## 2026-03-28/29
 
 ### Added

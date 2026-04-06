@@ -17,7 +17,7 @@ Tu peux scroller LinkedIn pendant des heures et tomber sur des "experts" qui rec
 
 Le marketing digital en 2026, c'est un champ de bataille. L'IA générative a redistribué les cartes, les algorithmes des réseaux sociaux changent tous les trois mois, et les [techniques de growth hacking](/marketing/growth/techniques/) qui marchaient l'an dernier sont déjà obsolètes. La bonne nouvelle : il existe des gens qui vivent ces transformations au quotidien, qui testent, qui partagent, et qui ne se contentent pas de répéter ce qu'un LLM pourrait te cracher en trente secondes.
 
-Ce guide réunit les experts marketing digital qui méritent ton attention cette année. Pas une liste de "gourous" autoproclamés ni d'influenceurs qui vendent du rêve en pyjama. Des gens qui construisent des choses, qui publient des résultats, et qui font avancer le métier. On commence par les français, parce que le marketing digital a ses spécificités locales et que ces gens-là comprennent ton marché.
+Ce guide réunit les experts marketing digital qui méritent ton attention cette année. Pas une liste de "gourous" autoproclamés ni d'influenceurs qui vendent du rêve en pyjama. Des gens qui construisent des choses, qui publient des résultats, et qui font avancer le métier. On commence par les français, parce que le marketing digital a ses spécificités locales et que ces gens-là comprennent ton marché. Et si tu cherches aussi des voix de référence dans des domaines connexes, on a compilé des guides similaires sur les [experts en copywriting francophone](/marketing/copywriting/experts-copywriting-francophones/) et les [entrepreneurs-mentors français](/biz/entrepreneurs-mentors-francais-a-suivre/) à suivre.
 
 ## Les experts marketing digital français
 
@@ -27,7 +27,7 @@ Ce guide réunit les experts marketing digital qui méritent ton attention cette
 
 Grégoire Gambatto a cofondé Germinal en 2018 avec Paco Villetard et Benjamin Gabay, et en a fait l'une des agences de growth hacking les plus reconnues en France. En quelques années, Germinal a accompagné plus de 200 entreprises -- Ornikar, Cityscoot, L'Oréal, LVMH, La Poste -- en appliquant des méthodes d'acquisition systématiques. Après la revente de Germinal à Spaag en 2022, il a poursuivi dans l'écosystème tech en cofondant OnlyDust, puis Ctrl+G. Il est aussi intervenant à HEC et Polytechnique.
 
-**Pourquoi le suivre** : Grégoire incarne le growth hacking à la française : structuré, data-driven, et orienté résultats. Son livre "Le Growth Hacking" (co-écrit avec Frédéric Canevet, 3e édition chez Dunod) est devenu la référence francophone sur le sujet. Il a aussi lancé l'Antichambre, une plateforme de formation qui démocratise les techniques avancées d'acquisition. Si tu veux comprendre comment passer de [l'expérimentation growth](/marketing/growth/experimentation/) à l'industrialisation, il est incontournable.
+**Pourquoi le suivre** : Grégoire incarne le growth hacking à la française : structuré, data-driven, et orienté résultats. Son livre "Le Growth Hacking" (co-écrit avec Frédéric Canevet, 3e édition chez Dunod) est devenu la référence francophone sur le sujet. Il a aussi lancé l'Antichambre, une plateforme de formation qui démocratise les techniques avancées d'acquisition. Si tu veux comprendre comment passer de [l'expérimentation growth](/marketing/growth/experimentation/) à l'industrialisation, il est incontournable. Et si tu veux [automatiser ta stack SEO avec l'IA](/tutos/automatiser-ses-process-seo-avec-ia/), ses méthodes de growth s'y appliquent parfaitement.
 
 **Où le trouver** : [LinkedIn Grégoire Gambatto](https://www.linkedin.com/in/gregoiregambatto/), [Twitter/X @gambfrench](https://twitter.com/gambfrench)
 
@@ -51,7 +51,7 @@ Caroline Mignaux est passée du growth marketing à la création d'un écosystè
 
 Stan Leloup a construit la plus grosse chaîne YouTube francophone dédiée au marketing, avec près de 500 000 abonnés. Son approche est unique : il décortique les mécanismes psychologiques derrière les stratégies marketing avec un talent de storyteller qui rend chaque vidéo addictive. Ancien expatrié en Asie, auteur de "Votre empire dans un sac à dos", il a transformé sa passion pour la persuasion en un véritable empire éducatif avec des formations en [copywriting](/marketing/copywriting/index/) et en création de business en ligne.
 
-**Pourquoi le suivre** : Stan ne fait pas de marketing sur le marketing. Il analyse, teste et explique les mécanismes de persuasion avec une rigueur intellectuelle qu'on trouve rarement dans le milieu. Son podcast "Conversations d'entrepreneurs" complète parfaitement la chaîne YouTube en allant chercher les coulisses de business réels. Si tu veux comprendre le [copywriting de fond](/marketing/copywriting/frameworks/) et pas juste les hacks de surface, c'est ton gars.
+**Pourquoi le suivre** : Stan ne fait pas de marketing sur le marketing. Il analyse, teste et explique les mécanismes de persuasion avec une rigueur intellectuelle qu'on trouve rarement dans le milieu. Son podcast "Conversations d'entrepreneurs" complète parfaitement la chaîne YouTube en allant chercher les coulisses de business réels. Si tu veux comprendre le [copywriting de fond](/marketing/copywriting/frameworks/) et pas juste les hacks de surface, c'est ton gars. On le retrouve d'ailleurs dans notre sélection des [meilleurs experts copywriting francophones](/marketing/copywriting/experts-copywriting-francophones/).
 
 **Où le trouver** : [marketingmania.fr](https://marketingmania.fr/), [YouTube Marketing Mania](https://www.youtube.com/@marketingmania), [Twitter/X @marketingstan](https://twitter.com/marketingstan)
 
@@ -189,7 +189,7 @@ Le marketing digital se transmet mieux en conversation qu'en scroll infini. Voic
 
 **Génération Do It Yourself Live** (dates variables, Paris) -- Matthieu Stefani organise régulièrement des enregistrements live de son podcast. L'occasion de voir des entrepreneurs de haut niveau se livrer en public et de networker avec une audience qualifiée.
 
-**Web Summit / VivaTech** (juin, Paris pour VivaTech) -- Les grands événements tech européens où se retrouvent les entrepreneurs et marketeurs qui pensent à l'échelle internationale. Guillaume Moubeche et d'autres fondateurs SaaS français y interviennent régulièrement.
+**Web Summit / VivaTech** (juin, Paris pour VivaTech) -- Les grands événements tech européens où se retrouvent les entrepreneurs et marketeurs qui pensent à l'échelle internationale. Guillaume Moubeche et d'autres fondateurs SaaS français y interviennent régulièrement. C'est aussi l'occasion de croiser les [experts IA français](/tech/ia/experts-ia-francais-a-suivre/) qui font bouger les lignes de l'automatisation marketing.
 
 **Podcasts à intégrer dans ta routine** : Marketing Square (growth marketing hebdomadaire), GDIY (parcours d'entrepreneurs), Marketing Mania (psychologie et persuasion), La Growth Semaine (newsletter, pas un podcast, mais indispensable). Et si le SEO t'intéresse aussi, jette un oeil à notre [guide des experts SEO français](/outils/marketing/autres/54-gourous-du-seo-a-suivre-pour-devenir-un-dieu/).
 
@@ -202,3 +202,5 @@ Le marketing digital en 2026, c'est un métier qui s'est fragmenté : growth hac
 Les Français ont un écosystème marketing digital solide et de plus en plus mature. Que tu débutes ou que tu cherches à monter en compétence sur un sujet précis, les profils de cette liste publient régulièrement du contenu gratuit et de qualité. Abonne-toi à leurs newsletters, suis-les sur LinkedIn ou X, écoute leurs podcasts dans les transports.
 
 Et si tu ne devais en retenir qu'un conseil : méfie-toi de ceux qui vendent des "méthodes secrètes". Les meilleurs experts marketing sont ceux qui montrent leurs résultats, partagent leurs échecs, et ne prétendent pas avoir trouvé la formule magique. Le marketing, c'est de la méthode, du test et de l'itération -- exactement comme le business qu'il est censé servir.
+
+Pour compléter ta veille, on a aussi compilé des guides sur les [entrepreneurs et mentors français](/biz/entrepreneurs-mentors-francais-a-suivre/) et les [experts e-commerce](/outils/ecommerce/autres/experts-ecommerce-francais-a-suivre/).

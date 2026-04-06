@@ -5,14 +5,13 @@ type: outil
 tags:
 - Outils
 imageNameKey: myrankingmetrics
-u_site: https://myrankingmetrics.com    https://fr.myrankingmetrics.com
-u_affi: null
+u_site: https://myrankingmetrics.com
 title: Myrankingmetrics
 author: Diane
-description: 'Découvre Myrankingmetrics : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: 'Fiche dupliquée — voir /outils/marketing/seo/myrankingmetrics/'
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
+draft: true
 ---
 
 [Comment trouver tous les mots-clés de vos pages dans Google (SEO) - YouTube](https://youtu.be/L_P2UNc1rw8?t=105) Trouver la totalité des mots clefs d’une page avece MRM, + les cannibalisations sur les 16derniers mois
