@@ -22,12 +22,13 @@ const featuredSubcategories = toolCategories
 	.slice(0, 8);
 ---
 
-<Layout title="Outils" description="GOCHARBON | La Mine" pageTitle="La Mine">
+<Layout title="Outils pour Entrepreneurs Francophones" description="Sélection d'outils pour entrepreneurs francophones : e-commerce, marketing, SEO, productivité, création. Fiches détaillées avec qualification locale et ancrage économique." pageTitle="La Mine">
 	<main class="px-2 md:px-6 py-6 max-w-7xl mx-auto">
+		<h1 class="poppins text-3xl md:text-4xl font-bold mb-6 text-black dark:text-white">Outils pour entrepreneurs</h1>
 		<section class="mb-8 p-4 md:p-6 border-3 border-black dark:border-yellow-soft bg-white-soft dark:bg-black">
 			<h2 class="poppins text-2xl md:text-3xl font-bold mb-3 text-black dark:text-white">Explorer les outils</h2>
 			<p class="poppins text-lg mb-4 text-black dark:text-white">
-				Une seule fiche canonique par outil, puis une navigation par categorie et sous-categorie.
+				Une seule fiche canonique par outil, puis une navigation par catégorie et sous-catégorie.
 			</p>
 			<p class="poppins text-base md:text-lg mb-4 text-black dark:text-white">
 				Notre promesse ne se limite pas à “outil français”. On documente progressivement le siège, le pays fiscal,
@@ -57,10 +58,10 @@ const featuredSubcategories = toolCategories
 		</section>
 		{featuredSubcategories.length > 0 && (
 			<section class="mb-8 p-4 md:p-6 border-3 border-black dark:border-yellow-soft bg-yellow-soft dark:bg-black">
-				<h2 class="poppins text-2xl md:text-3xl font-bold mb-3 text-black dark:text-white">Sous-categories utiles</h2>
+				<h2 class="poppins text-2xl md:text-3xl font-bold mb-3 text-black dark:text-white">Sous-catégories utiles</h2>
 				<p class="poppins text-base md:text-lg mb-4 text-black dark:text-white">
-					Pour les outils, on garde des categories canoniques et des entrees plus fines seulement quand elles
-					aident vraiment a trouver la bonne fiche.
+					Pour les outils, on garde des catégories canoniques et des entrées plus fines seulement quand elles
+					aident vraiment à trouver la bonne fiche.
 				</p>
 				<div class="flex flex-wrap gap-3">
 					{featuredSubcategories.map((subcategory) => (

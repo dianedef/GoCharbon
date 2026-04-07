@@ -56,7 +56,7 @@ const metaRobots = posts.length >= 3 ? "index, follow" : "noindex, follow";
 
 <Layout
 	title={`${subcategory.label} | ${category.label} | GoCharbon`}
-	description={`Selection d'outils ${subcategory.label.toLowerCase()} dans la categorie ${category.label.toLowerCase()}.`}
+	description={`Sélection d'outils ${subcategory.label.toLowerCase()} dans la catégorie ${category.label.toLowerCase()}. Fiches et avis pour entrepreneurs.`}
 	pageTitle={subcategory.label}
 	metaRobots={metaRobots}
 >
@@ -73,11 +73,11 @@ const metaRobots = posts.length >= 3 ? "index, follow" : "noindex, follow";
 				{subcategory.label}
 			</h1>
 			<p class="poppins text-lg mb-4 text-black dark:text-white">
-				Sous-categorie utile pour l'utilisateur. Elle reste indexable seulement quand le volume la justifie.
+				Sous-catégorie utile pour l'utilisateur. Elle reste indexable seulement quand le volume la justifie.
 			</p>
 			<div class="flex flex-wrap gap-3">
 				<Button href={getToolCategoryHref(category.slug)} color="var(--brand-copper)">
-					Retour a {category.label}
+					Retour à {category.label}
 				</Button>
 				{category.subcategories.map((entry) => (
 					<Button

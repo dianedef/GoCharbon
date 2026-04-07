@@ -51,7 +51,7 @@ const spotlights = [
 
 <Layout
   title="Parcours Business - GOCHARBON"
-  description="Explore les parcours GoCharbon par categorie, niveau et besoin. Trouve plus vite le bon point de depart."
+  description="Explore les parcours GoCharbon par catégorie, niveau et besoin. Trouve plus vite le bon point de départ."
   pageTitle="Parcours"
 >
   <main class="parcours-shell min-h-screen py-12 md:py-20">
@@ -59,11 +59,11 @@ const spotlights = [
       <section class="browser-hero bg-yellow-primary dark:bg-yellow-dark">
         <div class="browser-hero-inner">
           <div class="hero-copy">
-            <p class="hero-kicker">BIBLIOTHEQUE D'EXECUTION</p>
-            <h1 class="hero-title poppins">Trouve plus vite le parcours qui colle a ton point de depart</h1>
+            <p class="hero-kicker">BIBLIOTHÈQUE D'EXÉCUTION</p>
+            <h1 class="hero-title poppins">Trouve plus vite le parcours qui colle à ton point de départ</h1>
             <p class="hero-copy-text">
-              Tous les parcours ne servent pas a la meme chose. Utilise les portes d'entree ci-dessous ou filtre par categorie,
-              niveau et mot-cle pour tomber sur un plan qui te fera avancer maintenant.
+              Tous les parcours ne servent pas à la même chose. Utilise les portes d'entrée ci-dessous ou filtre par catégorie,
+              niveau et mot-clé pour tomber sur un plan qui te fera avancer maintenant.
             </p>
           </div>
           <div class="hero-stats">
@@ -73,7 +73,7 @@ const spotlights = [
             </div>
             <div class="hero-stat">
               <strong>3 modules</strong>
-              <span>bases, specialisation, execution</span>
+              <span>bases, spécialisation, exécution</span>
             </div>
             <div class="hero-stat">
               <strong>Plan 7 jours</strong>
@@ -86,7 +86,7 @@ const spotlights = [
       <section class="spotlight-section bg-white-soft dark:bg-black">
         <div class="section-heading">
           <p class="section-kicker">PORTES D'ENTREE</p>
-          <h2 class="section-title poppins">Quatre demarrages simples si tu ne sais pas encore quoi ouvrir</h2>
+          <h2 class="section-title poppins">Quatre démarrages simples si tu ne sais pas encore quoi ouvrir</h2>
         </div>
         <div class="spotlight-grid">
           {spotlights.map((entry) => (
@@ -140,13 +140,13 @@ const spotlights = [
             <span>Niveau</span>
             <select id="level-filter">
               <option value="all">Tous les niveaux</option>
-              <option value="debutant">Debutant</option>
-              <option value="intermediaire">Intermediaire</option>
-              <option value="avance">Avance</option>
+              <option value="debutant">Débutant</option>
+              <option value="intermediaire">Intermédiaire</option>
+              <option value="avance">Avancé</option>
             </select>
           </label>
         </div>
-        <div class="category-row" aria-label="Filtrer par categorie">
+        <div class="category-row" aria-label="Filtrer par catégorie">
           <button type="button" class="category-btn active" data-category-filter="all">Tout</button>
           {categories.map((category) => (
             <button type="button" class="category-btn" data-category-filter={category}>
@@ -155,8 +155,8 @@ const spotlights = [
           ))}
         </div>
         <div class="results-meta">
-          <p id="results-count">{sortedPaths.length} parcours affiches</p>
-          <button type="button" class="reset-btn" id="reset-filters">Reinitialiser</button>
+          <p id="results-count">{sortedPaths.length} parcours affichés</p>
+          <button type="button" class="reset-btn" id="reset-filters">Réinitialiser</button>
         </div>
       </section>
 
@@ -185,7 +185,7 @@ const spotlights = [
           ))}
         </div>
         <p id="no-results" class="no-results hidden">
-          Aucun parcours ne correspond a ce filtre. Essaie un mot-cle plus large ou reinitialise les filtres.
+          Aucun parcours ne correspond à ce filtre. Essaie un mot-clé plus large ou réinitialise les filtres.
         </p>
       </section>
     </div>
@@ -504,7 +504,7 @@ const spotlights = [
       });
 
       if (resultCount) {
-        resultCount.textContent = `${visible} parcours affiches`;
+        resultCount.textContent = `${visible} parcours affichés`;
       }
 
       noResults?.classList.toggle("hidden", visible !== 0);

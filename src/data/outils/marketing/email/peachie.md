@@ -1,13 +1,11 @@
 ---
 section: outils
 metadataEnrichedAt: null
-title: Contenu
+title: Peachie
 author: Diane
 tags:
 - Outils
-description: La route n’a pas toujours été facile. Ça fait aujourd’hui près de 2 ans
-  que je travaille sur cet outil. Je suis parti de zéro, et je suis fier d’être arrivé
-  là aujourd’hui. Je me s
+description: "Peachie est une plateforme française tout-en-un pour vendre des formations en ligne, créer des tunnels de vente et gérer les emails marketing."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://peachie.io

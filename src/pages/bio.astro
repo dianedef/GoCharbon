@@ -3,7 +3,7 @@ import { SITE, getSiteUrl } from "../config/site";
 import { ROUTES, getBlogTagRoute } from "../config/routes";
 
 const title = `${SITE.name} | Diane`
-const description = `Diane construit ${SITE.name} pour aider les francophones a lancer des projets utiles, solides et moins bullshit.`
+const description = `Diane construit ${SITE.name} pour aider les francophones à lancer des projets utiles, solides et moins bullshit.`
 const siteUrl = SITE.url
 ---
 
@@ -24,9 +24,12 @@ const siteUrl = SITE.url
 	<meta property="og:site_name" content={SITE.name} />
 	<meta property="og:locale" content="fr_FR" />
 
-	<meta name="twitter:card" content="summary" />
+	<meta property="og:image" content={`${siteUrl}/v1/generate/og/default.png`} />
+
+	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content={title} />
 	<meta name="twitter:description" content={description} />
+	<meta name="twitter:image" content={`${siteUrl}/v1/generate/og/default.png`} />
 
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -201,11 +204,11 @@ const siteUrl = SITE.url
 		<h1 class="bio-name">DIANE / GOCHARBON</h1>
 
 		<p class="bio-tagline">
-			Francaise, 36 ans, je construis des produits et des contenus pour aider les gens a passer de l'idee au concret.
+			Française, 36 ans, je construis des produits et des contenus pour aider les gens à passer de l'idée au concret.
 		</p>
 
 		<p class="bio-intro">
-			{SITE.name}, c'est mon terrain de jeu serieux : un media utile, des parcours, des outils et des plans d'action pour les francophones qui veulent construire quelque chose de solide. Avec un peu d'humour, un peu de nerfs, et le moins de bullshit possible.
+			{SITE.name}, c'est mon terrain de jeu sérieux : un média utile, des parcours, des outils et des plans d'action pour les francophones qui veulent construire quelque chose de solide. Avec un peu d'humour, un peu de nerfs, et le moins de bullshit possible.
 		</p>
 
 		<div class="bio-links">
@@ -214,8 +217,8 @@ const siteUrl = SITE.url
 			<a href={getSiteUrl(ROUTES.home)} class="bio-link">Accueil</a>
 			<a href={getSiteUrl(ROUTES.blog)} class="bio-link">Blog</a>
 			<a href={getSiteUrl(ROUTES.outils)} class="bio-link">Voir les outils</a>
-			<a href={getSiteUrl(getBlogTagRoute("productivite"))} class="bio-link">Productivite & execution</a>
-			<a href={getSiteUrl("/#guide-outils-francais-gratuits")} class="bio-link">Recevoir le guide des outils francais</a>
+			<a href={getSiteUrl(getBlogTagRoute("productivite"))} class="bio-link">Productivité & exécution</a>
+			<a href={getSiteUrl("/#guide-outils-francais-gratuits")} class="bio-link">Recevoir le guide des outils français</a>
 		</div>
 
 		<div class="bio-socials">

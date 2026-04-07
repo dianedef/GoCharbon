@@ -1,13 +1,11 @@
 ---
 section: outils
 metadataEnrichedAt: null
-title: Contenu
+title: Winston AI
 author: Diane
 tags:
 - Outils
-description: Précision inégalée dans la détection de contenu IA 99.98% de taux de
-  précision Adapté pour le secteur éducatif, le référencement et les rédacteurs Facilité
-  d'utilisation et résulta
+description: "Winston AI est un détecteur de contenu IA avec 99,98% de précision. Détection de plagiat, images IA et paraphrases. Multi-langues, conforme RGPD."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://gowinston.ai/fr/

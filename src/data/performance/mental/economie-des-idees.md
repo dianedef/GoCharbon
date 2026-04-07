@@ -1,5 +1,6 @@
 ---
 section: blog
+draft: true
 title: 'L''Économie des Idées : Guide pour Prospérer dans l''Ère Numérique'
 author: Tech Expert
 tags:

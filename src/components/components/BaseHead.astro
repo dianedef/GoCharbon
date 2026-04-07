@@ -105,6 +105,24 @@ const breadcrumbSchema = {
 	"@type": "BreadcrumbList",
 	itemListElement: breadcrumbItems,
 };
+
+// Organisation / WebSite schema (homepage only)
+const isHomepage = Astro.url.pathname === "/" || Astro.url.pathname === "";
+const websiteSchema = isHomepage
+	? {
+			"@context": "https://schema.org",
+			"@type": "WebSite",
+			name: SITE.nameUpper,
+			url: SITE.url,
+			description: SITE.descriptions.default,
+			inLanguage: "fr",
+			publisher: {
+				"@type": SITE.publisherType,
+				name: SITE.nameUpper,
+				url: SITE.url,
+			},
+		}
+	: null;
 ---
 
 <LocalFont />
@@ -122,7 +140,7 @@ const breadcrumbSchema = {
 <meta name="title" content={documentTitle} />
 <meta name="description" content={description} />
 
-<meta property="og:type" content="website" />
+<meta property="og:type" content={isArticle ? "article" : "website"} />
 <meta property="og:url" content={canonicalURL} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
@@ -145,6 +163,9 @@ const breadcrumbSchema = {
 )}
 {blogPostingSchema && (
 	<script type="application/ld+json" set:html={JSON.stringify(blogPostingSchema)} />
+)}
+{websiteSchema && (
+	<script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
 )}
 
 <slot />

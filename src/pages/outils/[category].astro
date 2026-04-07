@@ -33,7 +33,7 @@ const posts = allToolPosts.filter((post) => getToolTaxonomy(post)?.category === 
 
 <Layout
 	title={`${category.label} | Outils | GoCharbon`}
-	description={`Selection d'outils ${category.label.toLowerCase()} sur GoCharbon.`}
+	description={`Sélection d'outils ${category.label.toLowerCase()} sur GoCharbon. Fiches détaillées et comparatifs pour entrepreneurs.`}
 	pageTitle={category.label}
 	metaRobots="index, follow"
 >
@@ -46,10 +46,10 @@ const posts = allToolPosts.filter((post) => getToolTaxonomy(post)?.category === 
 				Outils {category.label.toLowerCase()}
 			</h1>
 			<p class="poppins text-lg mb-4 text-black dark:text-white">
-				Une page categorie indexable, avec les outils ranges par taxonomie canonique plutot que par tags flous.
+				Une page catégorie indexable, avec les outils rangés par taxonomie canonique plutôt que par tags flous.
 			</p>
 			<div class="flex flex-wrap gap-3">
-				<Button href="/outils" color="var(--brand-copper)">Toutes les categories</Button>
+				<Button href="/outils" color="var(--brand-copper)">Toutes les catégories</Button>
 				{category.subcategories.map((subcategory) => (
 					<Button
 						href={getToolSubcategoryHref(category.slug, subcategory.slug)}

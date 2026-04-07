@@ -1,5 +1,6 @@
 ---
 section: outils
+draft: true
 metadataEnrichedAt: null
 type: outil
 tags:

@@ -1,5 +1,6 @@
 ---
 section: outils
+draft: true
 metadataEnrichedAt: '2026-03-18'
 type: outil
 qualificationLocale: france

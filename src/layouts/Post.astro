@@ -52,9 +52,30 @@ const matchingPaths = learningPaths.filter(path =>
 		mod.steps.some(step => step.href === `/${slug}` || step.href === `/${id}`)
 	)
 );
+
+// SoftwareApplication JSON-LD pour les fiches outils
+const isToolPage = section === "outils" && toolCategoryPrimary;
+const toolSchema = isToolPage
+	? {
+			"@context": "https://schema.org",
+			"@type": "SoftwareApplication",
+			name: title,
+			description: description,
+			applicationCategory: toolCategoryPrimary,
+			url: Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : Astro.url.pathname,
+			author: {
+				"@type": "Organization",
+				name: "GOCHARBON",
+				url: "https://gocharbon.com",
+			},
+		}
+	: null;
 ---
 
 <Layout title={title} description={description} ogImage="/v1/generate/og/default.png" article={{ author, pubDate, tags }}>
+	{toolSchema && (
+		<script type="application/ld+json" set:html={JSON.stringify(toolSchema)} />
+	)}
 	<div class="p-6 dark:bg-black" transition:name={`post-${id}`}>
 		<main class="lg:grid lg:grid-cols-3 flex justify-center gap-4">
 			<SideBar headings={headings as any[]} />

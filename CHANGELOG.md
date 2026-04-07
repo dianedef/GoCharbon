@@ -1,5 +1,28 @@
 # Changelog
 
+## 2026-04-07
+
+### Added
+- **Cluster Documents Business enrichi** — 8 articles rédigés (pilier + 7 guides : Lean Canvas, One-Pager, Executive Summary, Pitch Deck, PRD, Cahier des Charges, User Stories, Roadmap Produit) avec maillage interne croisé complet
+- **Schéma JSON-LD `WebSite`** sur la homepage (BaseHead.astro)
+- **Schéma JSON-LD `SoftwareApplication`** sur toutes les fiches outils (Post.astro)
+- **`<h1>`** ajouté sur blog.astro, outils.astro, tutos.astro
+
+### Fixed
+- **SEO : 27 corrections code** — `og:type` article pour les posts, meta descriptions vides/courtes/sans accents sur 10+ pages, OG image manquante sur bio.astro, titres trop courts sur pages listing
+- **Accents français** corrigés sur parcours.astro (~20 instances), outils.astro, bio.astro, pages catégories/sous-catégories outils, tag pages, progression.astro
+- **Titres incorrects** — peachie.md ("Contenu" → "Peachie"), gowinston.md ("Contenu" → "Winston AI")
+- **Preload polices** Sanchez et Poppins activé (LocalFont.astro)
+
+### Removed
+- **13 pages en doublon** passées en draft (Thruuu, Switchy, Semnaut, Praiz, Cosmic Data, Captain Contrat, Magniv Pro, INFast, Incwo, Youtube, Comment Réussir Sur Youtube, Crowdfunding, Tugan Bara, Économie des Idées)
+- **97 fichiers thin content** déplacés vers `to_decide/` hors du build (concepts hors-sujet, notes YouTube égarées, stubs sans corps)
+- **3 stubs tutos** supprimés (comment-sauvegarder-son-ordinateur, trouver-toutes-les-pages-dun-site, voir-les-gens-sur-ton-site-en-temps-reel)
+- **`noindex`** ajouté sur gamification.astro (doublon de /progression)
+
+### Changed
+- Build : 2534 → 2424 pages (110 pages retirées du build)
+
 ## 2026-04-06
 
 ### Added
