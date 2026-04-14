@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-04-14
+
+### Added
+- **26 fiches outils complètes** — Lovable, KissKissBankBank, Ulule, Taboola, Marketo, Sparklane, Henrri, Freebe, Magileads, MailPoet, Vidjet, Captain Wallet, Captain Metrics, SharpSpring, Blacksales, Onlypult, Competitors App, Switchy, WebExpire, Uncoflow, SEOPepper, Ereferer, Medusia, Deeptalk, Infinite Leads, Manageo — avec champs qualification locale (qualificationLocale, ancrageEconomique, niveauResponsabilite) sur chaque fiche
+- **Fiche FunBooker** — marketplace française team building & activités (2017, 20K activités, 1M clients, 4.7/5)
+- **Fiche Little Snitch** — firewall réseau macOS par Objective Development (Autriche, UE, ~45€ perpétuelle)
+- **Fiche Scam Detect** — validateur de sites web scam-detector.com
+
+### Removed
+- **9 stubs passés en draft** — Deezer, Site Funs, Goalflowz, Nomore Boring Stuff, Killer Or Not, Sniffy, App Institut de Beauté, Ton Texte (introuvable), Mon CRM (emails personnels supprimés)
+
+### Changed
+- **TASKS.md** — 5 clusters articles "apps francophones fun & loisir pro" backlogués (QVT, sport/challenge, animation réunions, team building, avantages salariés)
+
 ## 2026-04-07
 
 ### Added
