@@ -44,9 +44,9 @@ Concevoir des systèmes prompts robustes relies à des usages business réels.
 - [Fiche profil Prompt Engineer](/biz/profils/prompt-engineer)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/prompt-engineer)
+- [Suivi du parcours](/parcours/ingenieur-prompt)
 - [Ressource utile 1](/tutos/creer-un-custom-gpt-gratuitement)
-- [Ressource utile 2](/tutos/how-to-train-your-own-prompt-on-your-custom-style)
+- [Ressource utile 2](/tutos/comment-proteger-tes-customgpt-des-injections-de-prompt)
 - [Ressource utile 3](/tech/ia/guides)
 
 ## Idées de contenus pour aller plus loin

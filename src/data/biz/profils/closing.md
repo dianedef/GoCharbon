@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: Closer / Sales Closer
+title: Closer commercial
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Maîtrise l''art du closing : techniques de vente, scripts et psychologie
-  pour convertir tes prospects en clients.'
+description: 'Le closing peut rapporter vite, mais il demande une vraie solidité commerciale
+  et une bonne hygiène mentale.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Closer / Sales Closer
+# Closer commercial
 
 ## Description en une phrase
 

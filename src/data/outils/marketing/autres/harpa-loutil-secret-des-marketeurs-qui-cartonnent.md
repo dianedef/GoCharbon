@@ -9,8 +9,7 @@ tags:
 - Outils
 title: Harpa L'Outil Secret Des Marketeurs Qui Cartonnent
 author: Diane
-description: 'Découvre Harpa L''Outil Secret Des Marketeurs Qui Cartonnent : outil
-  français pour entrepreneurs, fonctionnalités et avis.'
+description: "Harpa L'Outil Secret Des Marketeurs Qui Cartonnent."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

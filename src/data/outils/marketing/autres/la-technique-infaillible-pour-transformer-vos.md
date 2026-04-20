@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: La Technique Infaillible Pour Transformer Vos Haters En Fans Inconditionnels
 author: Diane
-description: 'Découvre La Technique Infaillible Pour Transformer Vos Haters En Fans
-  Inconditionnels : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Technique Infaillible Pour Transformer Vos Haters En Fans Inconditionnels."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

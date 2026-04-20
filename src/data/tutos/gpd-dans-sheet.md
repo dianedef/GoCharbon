@@ -2,40 +2,35 @@
 section: tutos
 tags:
 - Tutoriels
-title: Gpd Dans Sheet
+title: Utiliser GPT dans Google Sheets sans transformer ton tableur en casino
 author: Diane
-description: 'Découvre Gpd Dans Sheet : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: Branche l’IA à Google Sheets pour accélérer certaines tâches de contenu, de classement ou de résumé sans perdre le contrôle.
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Guide rapide pour utiliser Sheet GPT dans une vidéo
+Mettre GPT dans Google Sheets peut être très utile. À condition de l’utiliser sur les bonnes tâches, et pas comme une machine à remplir des cellules au hasard.
 
-- **Mise en place de Sheet GPT :**
-  - Lors de l'inscription, accédez à la page "Sheet GPT" pour obtenir la version la plus récente.
-  - Suivez les cinq étapes de configuration initiale.
-  - Passez du mode lecture seule en allant dans "Fichier", puis "Faire une copie" pour créer votre propre version.
+## Là où ça aide vraiment
 
-- **Obtention de la clé API Open AI :**
-  - Connectez-vous à votre compte Open AI, ou créez un compte si nécessaire.
-  - Dans "Sheet GPT", allez à l'aide et cliquez sur "Configurer la clé API".
-  - Suivez le processus d'autorisation, et en cas d'avertissement, cliquez sur "Avancé" et autorisez l'accès à "Sheet GPT".
+- résumer ;
+- reformuler ;
+- catégoriser ;
+- générer des variantes ;
+- nettoyer des brouillons.
 
-- **Intégration de la clé API :**
-  - Copiez la clé API d'Open AI.
-  - Collez la clé dans l'interface de "Sheet GPT" et enregistrez.
+## Là où il faut faire attention
 
-- **Exemple d'utilisation avec l'IA dans Google Sheets :**
-  - Utilisez la fonction AI dans une cellule avec une phrase entre guillemets.
-  - Connectez cette cellule à une autre pour créer un titre engageant.
-  - Cette méthode peut être étendue à une liste de mots-clés, générant rapidement des titres variés.
+- faits non vérifiés ;
+- réponses incohérentes d’une ligne à l’autre ;
+- coûts qui s’accumulent ;
+- prompts mal cadrés.
 
-- **Exploration de différentes fonctions :**
-  - La bibliothèque de prompts offre des idées variées.
-  - Exemple : Utiliser la fonction "summarize" pour condenser des données en trois phrases.
+## Bonne méthode
 
-- **Support et assistance :**
-  - Pour des questions ou de l'aide, contactez le support.
+1. commence avec un petit échantillon ;
+2. fixe des prompts simples ;
+3. garde les colonnes d’origine ;
+4. relis avant export ou publication.
 
-En résumé, cette vidéo fournit un guide pratique pour la configuration et l'utilisation de Sheet GPT, mettant l'accent sur l'intégration avec l'IA dans Google Sheets pour des tâches telles que la génération de titres ou la synthèse de données.
+L’IA dans Sheets est très bien pour accélérer. Pas pour déléguer le jugement.

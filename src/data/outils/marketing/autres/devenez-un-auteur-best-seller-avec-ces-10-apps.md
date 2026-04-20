@@ -7,8 +7,7 @@ tags:
 - Outils
 title: Devenez Un Auteur Best Seller Avec Ces 10 Apps Révolutionnaires
 author: Diane
-description: 'Découvre Devenez Un Auteur Best Seller Avec Ces 10 Apps Révolutionnaires
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Devenez Un Auteur Best Seller Avec Ces 10 Apps Révolutionnaires."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

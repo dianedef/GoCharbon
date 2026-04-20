@@ -5,8 +5,7 @@ tags:
 - Outils
 title: Les Outils De Suivi Marketing Qui Vont Faire De Vous Un Génie De L'Analytics
 author: Diane
-description: 'Découvre Les Outils De Suivi Marketing Qui Vont Faire De Vous Un Génie
-  De L''Analytics : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Outils De Suivi Marketing Qui Vont Faire De Vous Un Génie De L'Analytics."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

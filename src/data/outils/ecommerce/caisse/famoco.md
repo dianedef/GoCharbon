@@ -18,17 +18,17 @@ u_derniere_maj: "2026-03-15"
 
 # Famoco
 
-## TERMINAUX PROFESSIONNELS : LE FABRICANT FRANÇAIS QUI DÉPLOIE 500K+ APPAREILS ANDROID DANS 50+ PAYS
+# TERMINAUX PROFESSIONNELS : LE FABRICANT FRANÇAIS QUI DÉPLOIE 500K+ APPAREILS ANDROID DANS 50+ PAYS
 
-### tl;dr
+## tl;dr
 
 Famoco (famoco.com), c'est le **fabricant français de terminaux Android professionnels sécurisés** pour le **paiement**, le **transport**, le **retail**, les **télécoms** et l'**événementiel**. Fondée en **2010** à **Paris** par **Lionel Baraban** (CEO), **Nicolas Berbigier** (Président) et **Guérin Thibaut**. SIREN **527 948 814**. Famoco conçoit des terminaux NFC/Android durcis, une plateforme de gestion de flotte (MDM — Mobile Device Management), et **Famoco Pay** — une solution SoftPOS certifiée EMV qui transforme n'importe quel appareil Android en terminal de paiement. **500 000+ terminaux** déployés dans **50+ pays** chez **1 400+ clients** dont **Google**, **Alipay**, **Orange**, **Accor**, **Airtel**, **Gemalto**. **+59M€ levés** en 5 tours (Idinvest, Orange Digital Ventures, SNCF, BNP Paribas, Bpifrance, Eurazeo, HI INOV). **50-99 employés**. CA : **17,6M€** (2019). Bureaux à **Paris**, **Rennes**, **Bruxelles**, **Singapour**, **Shenzhen**, **Abidjan**, **USA**. En 2024, création de **Mobilan Transit** (valorisée 12,6M€) pour le secteur transport/validation.
 
-### Alternative à
+## Alternative à
 
 Ingenico (Worldline), Verifone, PAX Technology, Sunmi, Newland, terminaux bancaires traditionnels. Famoco se distingue par son **approche plateforme** (terminal + MDM + SoftPOS dans un écosystème intégré — pas juste du hardware), son **ADN Android** (tous les terminaux tournent sous Android sécurisé, permettant des applications personnalisées), et son **déploiement massif** (500K+ appareils dans 50+ pays — c'est un acteur industriel, pas une startup).
 
-## Bénéfices
+# Bénéfices
 
 **500 000+ terminaux déployés** — Famoco n'est pas un fabricant de garage. 500K appareils dans 50+ pays chez Google, Orange, Alipay et Accor. C'est une infrastructure de paiement à l'échelle mondiale, conçue et assemblée en France.
 
@@ -40,7 +40,7 @@ Ingenico (Worldline), Verifone, PAX Technology, Sunmi, Newland, terminaux bancai
 
 **+59M€ levés auprès d'investisseurs stratégiques** — Idinvest, Orange Digital Ventures, SNCF, BNP Paribas, Bpifrance, Eurazeo. Ce ne sont pas juste des investisseurs financiers — ce sont des clients et des partenaires industriels qui valident la technologie.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Opérateurs télécoms qui déploient des terminaux de paiement mobile (Orange, Airtel)
 - Groupes hôteliers (check-in mobile, paiement en chambre)
@@ -49,7 +49,7 @@ Ingenico (Worldline), Verifone, PAX Technology, Sunmi, Newland, terminaux bancai
 - Événementiel (contrôle d'accès, paiement sans contact)
 - Entreprises qui veulent du SoftPOS à grande échelle
 
-## Comment Utiliser Famoco
+# Comment Utiliser Famoco
 
 1. **Contact** — Va sur [famoco.com](https://www.famoco.com/) et contacte l'équipe commerciale
 2. **Analyse** — Famoco évalue tes besoins : nombre d'appareils, cas d'usage, déploiement géographique
@@ -58,9 +58,9 @@ Ingenico (Worldline), Verifone, PAX Technology, Sunmi, Newland, terminaux bancai
 5. **Déploiement** — Famoco livre, configure et déploie les terminaux
 6. **Gestion** — Monitoring et gestion à distance via la plateforme MDM
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Terminaux
+## Terminaux
 
 - **Terminaux NFC** — Lecture et écriture de tags NFC
 - **Paiement sans contact** — Acceptation CB, Apple Pay, Google Pay
@@ -68,21 +68,21 @@ Ingenico (Worldline), Verifone, PAX Technology, Sunmi, Newland, terminaux bancai
 - **Robustes** — Conçus pour un usage terrain intensif
 - **Android sécurisé** — Surcouche de sécurité Famoco
 
-### Famoco Pay (SoftPOS)
+## Famoco Pay (SoftPOS)
 
 - **Certifié EMV** — Standard international de paiement
 - **Sans contact** — Paiement NFC sur smartphone/tablette Android
 - **Pas de hardware additionnel** — L'appareil Android suffit
 - **Déploiement à grande échelle** — Des milliers de points de paiement en quelques jours
 
-### MDM (gestion de flotte)
+## MDM (gestion de flotte)
 
 - **Configuration à distance** — Paramétrage centralisé
 - **Mises à jour OTA** — Déploiement d'apps et de mises à jour over-the-air
 - **Monitoring** — État de chaque terminal en temps réel
 - **Sécurité** — Verrouillage, effacement à distance, géolocalisation
 
-### Verticales
+## Verticales
 
 - **Transport** — Validation de titres, billettique NFC (Mobilan Transit)
 - **Télécoms** — Enregistrement SIM, mobile money, KYC terrain
@@ -90,7 +90,7 @@ Ingenico (Worldline), Verifone, PAX Technology, Sunmi, Newland, terminaux bancai
 - **Événementiel** — Contrôle d'accès, cashless
 - **Santé** — Lecture de carte Vitale, télétransmission
 
-## Prix
+# Prix
 
 Famoco est un fabricant B2B — les tarifs sont sur devis :
 
@@ -102,7 +102,7 @@ Famoco est un fabricant B2B — les tarifs sont sur devis :
 
 *Source : [Famoco](https://www.famoco.com/)*
 
-## Intégrations
+# Intégrations
 
 - **Android** : Tous les terminaux tournent sous Android (apps personnalisées)
 - **NFC** : Lecture/écriture de tags, paiement sans contact
@@ -110,7 +110,7 @@ Famoco est un fabricant B2B — les tarifs sont sur devis :
 - **MDM** : Plateforme de gestion de flotte propriétaire
 - **Partenaires** : Google, Alipay, Orange, SNCF
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **2010** — Création de **Famoco** à **Paris** par **Lionel Baraban** (CEO), **Nicolas Berbigier** (Président) et **Guérin Thibaut**. SIREN 527 948 814. L'idée : créer des terminaux Android professionnels sécurisés pour les entreprises qui ont besoin de déployer du hardware à grande échelle
 - **2012-2015** — Premières levées de fonds : Seed **4M€**, Série A **11M€**. Développement du premier terminal et de la plateforme MDM. Partenariat avec **Orange** pour le déploiement de terminaux en Afrique et au Moyen-Orient (200 000 agents terrain)
@@ -121,7 +121,7 @@ Famoco est un fabricant B2B — les tarifs sont sur devis :
 
 *Source : [Famoco](https://www.famoco.com/), [Crunchbase](https://www.crunchbase.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **Orange en Afrique (200K agents)** — Orange déploie 200 000 agents de mobile money en Afrique et au Moyen-Orient. Chaque agent a un terminal Famoco pour encaisser, enregistrer des SIM et gérer des transactions mobile money. Famoco gère le déploiement, la configuration à distance et les mises à jour.
 
@@ -129,7 +129,7 @@ Famoco est un fabricant B2B — les tarifs sont sur devis :
 
 **SNCF (validation transport)** — La filiale Mobilan Transit fournit des terminaux de validation NFC pour les réseaux de transport. Les voyageurs valident leur titre de transport en tapant leur carte ou téléphone sur le terminal Famoco.
 
-## Points Forts
+# Points Forts
 
 - 500 000+ terminaux déployés dans 50+ pays
 - Clients de référence : Google, Orange, Alipay, Accor, SNCF
@@ -140,7 +140,7 @@ Famoco est un fabricant B2B — les tarifs sont sur devis :
 - 50-99 employés — taille structurée
 - Android sécurisé — applications personnalisées
 
-## Points Faibles
+# Points Faibles
 
 - **Pas pour les petits commerçants** — Famoco est un fournisseur B2B pour les déploiements à grande échelle (100+ terminaux). Un boulanger qui veut un TPE n'est pas la cible
 - **Pricing non transparent** — Tout est sur devis. Les tarifs ne sont accessibles qu'après discussion commerciale

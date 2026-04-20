@@ -7,8 +7,7 @@ tags:
 - Outils
 title: La Leçon De Marketing Géniale Cachée Dans L'Histoire De La Pomme De Terre
 author: Diane
-description: 'Découvre La Leçon De Marketing Géniale Cachée Dans L''Histoire De La
-  Pomme De Terre : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Leçon De Marketing Géniale Cachée Dans L'Histoire De La Pomme De Terre."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

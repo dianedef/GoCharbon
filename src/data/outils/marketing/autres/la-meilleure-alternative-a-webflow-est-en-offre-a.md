@@ -11,8 +11,7 @@ metadesc: Divhunt gagne rapidement du terrain en tant qu'alternative de premier 
   à Webflow, et pour une bonne raison. Ce puissant logiciel combine le meilleur
 title: La Meilleure Alternative À Webflow Est En Offre À Vie
 author: Diane
-description: 'Découvre La Meilleure Alternative À Webflow Est En Offre À Vie : outil
-  français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Meilleure Alternative À Webflow Est En Offre À Vie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -8,8 +8,7 @@ u_site: null
 title: 15 Idées De Revenus Passifs Qui Vont Vous Rendre Riche Pendant Votre Sommeil
   En 2024
 author: Diane
-description: 'Découvre 15 Idées De Revenus Passifs Qui Vont Vous Rendre Riche Pendant
-  Votre Sommeil En 2024 : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "15 Idées De Revenus Passifs Qui Vont Vous Rendre Riche Pendant Votre Sommeil En 2024."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

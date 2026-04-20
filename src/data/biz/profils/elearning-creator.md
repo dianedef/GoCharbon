@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: E-learning Creator / Créateur de Formations en Ligne
+title: Créateur de formations en ligne
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Crée et vends des formations en ligne : plateformes, pédagogie et stratégies
-  de lancement pour formateurs.'
+description: 'Créer des formations utiles, vendables et pédagogiquement solides sans
+  tomber dans l''infoproduit paresseux.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# E-learning Creator / Créateur de Formations en Ligne
+# Créateur de formations en ligne
 
 ## Description en une phrase
 

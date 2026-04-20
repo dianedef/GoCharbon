@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Les Réseaux D'Entrepreneurs Secrets Où Se Font Les Millions
 author: Diane
-description: 'Découvre Les Réseaux D''Entrepreneurs Secrets Où Se Font Les Millions
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Réseaux D'Entrepreneurs Secrets Où Se Font Les Millions."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

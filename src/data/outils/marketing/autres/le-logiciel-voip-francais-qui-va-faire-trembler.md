@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Le Logiciel Voip Français Qui Va Faire Trembler Skype
 author: Diane
-description: 'Découvre Le Logiciel Voip Français Qui Va Faire Trembler Skype : outil
-  français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Logiciel Voip Français Qui Va Faire Trembler Skype."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

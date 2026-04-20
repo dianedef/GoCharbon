@@ -9,8 +9,7 @@ toolFacets:
   - ia
 title: Openai Partout Comment Cette Ia Va Changer Votre Vie Pour Toujours
 author: Diane
-description: 'Découvre Openai Partout Comment Cette Ia Va Changer Votre Vie Pour Toujours
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Openai Partout Comment Cette Ia Va Changer Votre Vie Pour Toujours."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

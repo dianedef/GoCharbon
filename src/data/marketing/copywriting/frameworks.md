@@ -1,15 +1,15 @@
 ---
 section: blog
-title: 'Frameworks Copywriting : PAS, AIDA, PASTOR et les Autres'
+title: 'Frameworks copywriting : quand utiliser PAS, AIDA, PASTOR et les autres'
 author: Diane
 tags:
   - Marketing
-description: Les frameworks de copywriting essentiels pour structurer tes textes de vente. PAS, AIDA, PASTOR, 4P expliqués avec des exemples concrets.
-pubDate: '2026-03-23'
+description: Les frameworks de copywriting à connaître, à quoi ils servent vraiment, et dans quels contextes ils t'aident au lieu de te rigidifier.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Frameworks Copywriting : PAS, AIDA, PASTOR et les Autres
+# Frameworks copywriting : quand utiliser PAS, AIDA, PASTOR et les autres
 
 Un framework de copywriting, c'est pas une recette magique qui transforme un texte mou en machine à vendre. C'est un squelette. Une structure de persuasion qui t'évite de partir dans tous les sens quand tu rédiges.
 

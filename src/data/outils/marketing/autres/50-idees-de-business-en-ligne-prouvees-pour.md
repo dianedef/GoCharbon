@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: 50 Idées De Business En Ligne Prouvées Pour Devenir Riche La 17 Va Vous Choquer
 author: Diane
-description: 'Découvre 50 Idées De Business En Ligne Prouvées Pour Devenir Riche La
-  17 Va Vous Choquer : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "50 Idées De Business En Ligne Prouvées Pour Devenir Riche La 17 Va Vous Choquer."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Dopamine Détox La Méthode Choc Pour Booster Votre Productivité De 1000%
 author: Diane
-description: 'Découvre Dopamine Détox La Méthode Choc Pour Booster Votre Productivité
-  De 1000% : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Dopamine Détox La Méthode Choc Pour Booster Votre Productivité De 1000%."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

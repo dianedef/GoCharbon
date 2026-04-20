@@ -5,8 +5,7 @@ tags:
 - Outils
 title: Le Tunnel De Vente Parfait Qui Va Faire Pleuvoir L'Argent Guide Ultime
 author: Diane
-description: 'Découvre Le Tunnel De Vente Parfait Qui Va Faire Pleuvoir L''Argent
-  Guide Ultime : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Tunnel De Vente Parfait Qui Va Faire Pleuvoir L'Argent Guide Ultime."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

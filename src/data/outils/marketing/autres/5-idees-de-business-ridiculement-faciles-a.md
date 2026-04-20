@@ -8,9 +8,7 @@ u_site: null
 title: 5 Idées De Business Ridiculement Faciles À Développer En Parallèle De Ton Activité
   Salariée
 author: Diane
-description: 'Découvre 5 Idées De Business Ridiculement Faciles À Développer En Parallèle
-  De Ton Activité Salariée : outil français pour entrepreneurs, fonctionnalités et
-  avis.'
+description: "5 Idées De Business Ridiculement Faciles À Développer En Parallèle De Ton Activité Salariée."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -7,8 +7,7 @@ tags:
 - Outils
 title: L'Outil Crm Facebook Qui Va Faire De Vous Un Dieu Du Marketing
 author: Diane
-description: 'Découvre L''Outil Crm Facebook Qui Va Faire De Vous Un Dieu Du Marketing
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Outil Crm Facebook Qui Va Faire De Vous Un Dieu Du Marketing."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

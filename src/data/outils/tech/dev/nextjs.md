@@ -1,43 +1,46 @@
 ---
 section: outils
 metadataEnrichedAt: null
-title: Nextjs
+title: Next.js
 author: Diane
 tags:
 - Outils
-description: 'Découvre Nextjs : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "Next.js est un framework React pour créer des sites et applications web avec routing, rendu hybride et déploiement moderne."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
 
-Pour exécuter ce code et voir le résultat, suivez ces étapes :
+# Next.js
 
-1. Assurez-vous d'avoir Node.js installé sur votre ordinateur.
+Next.js est un framework web basé sur React. Il sert à construire des sites marketing, des applications produit, des dashboards et des plateformes plus complexes sans repartir de zéro sur tout l'empilement technique.
 
-2. Ouvrez un terminal et naviguez vers le répertoire racine de votre projet Next.js.
+Le vrai sujet n'est pas “est-ce que c'est populaire ?” mais “est-ce que ça colle à ton besoin ?”. Si tu veux une stack React structurée avec routing, rendu côté serveur, API routes et déploiement bien balisé, Next.js reste une base sérieuse.
 
-3. Si vous n'avez pas encore installé les dépendances, exécutez la commande suivante :
-   ```
-   npm install
-   ```
+## Ce que fait l'outil
 
-4. Une fois les dépendances installées, lancez le serveur de développement avec la commande :
-   ```
-   npm run dev
-   ```
+- Gérer le routing et la structure d'une application React.
+- Mélanger rendu statique, SSR et pages dynamiques.
+- Servir de base pour des interfaces produit, SaaS et sites éditoriaux.
+- S'intégrer facilement à un workflow TypeScript, CI/CD et design system.
 
-5. Ouvrez votre navigateur et allez à l'adresse `http://localhost:3000`
+## Pour qui ?
 
-Vous devriez maintenant voir la page d'accueil de votre application Next.js avec le contenu que vous avez défini dans le fichier `app/page.tsx`.
+- Développeurs React qui veulent une base robuste.
+- Startups et petites équipes produit.
+- Freelances qui livrent des apps web modernes.
 
-Cette page affichera le logo Next.js, une liste numérotée avec deux éléments, et deux boutons : "Deploy now" et "Read our docs". En bas, vous verrez un pied de page avec trois liens : "Learn", "Examples", et "Go to nextjs.org".
+## Ce qu'on aime
 
-N'oubliez pas que si vous apportez des modifications au code, elles seront automatiquement reflétées dans le navigateur grâce au rechargement à chaud (hot reloading) de Next.js.
+- Le cadre évite de perdre du temps sur l'architecture de base.
+- L'écosystème est vaste, donc les ressources et intégrations ne manquent pas.
+- C'est une stack crédible pour aller d'un MVP à un produit plus solide.
 
+## Limites à connaître
 
-# NextJS
+- Ce n'est pas l'option la plus légère pour un site très simple.
+- Il faut garder un minimum de rigueur sur la structure, sinon le projet grossit vite.
+- Le framework évolue vite ; suivre les changements demande un peu de veille.
 
-Le serveur rend du HTML à partir du JS et envoie ce HTML au navigateur. Nickel pour le SEO, se charge + rapidement et s'héberge en static.
-Next fait du SSR pour la première page (comme PHP fait depuis 20 ans)
-La dif c'est que pour pour les pages suivante NextJS fonctionne comme une SPA (comme React) avec un rendu côté client des pages suivantes. Le meilleur des 2 mondes.
+## Verdict GoCharbon
+
+Next.js n'est pas forcément “le meilleur framework du moment” dans l'absolu, mais c'est un choix très défendable pour construire un produit web sérieux. Bon candidat si tu sais pourquoi tu le prends. Mauvais choix si tu le prends juste parce que tout le monde en parle.

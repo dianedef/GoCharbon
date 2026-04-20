@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: La Stratégie Éditoriale Secrète Des Blogs À Millions De Vues
 author: Diane
-description: 'Découvre La Stratégie Éditoriale Secrète Des Blogs À Millions De Vues
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Stratégie Éditoriale Secrète Des Blogs À Millions De Vues."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

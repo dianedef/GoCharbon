@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Les Infoproduits Qui Vont Vous Rendre Millionnaire En 30 Jours
 author: Diane
-description: 'Découvre Les Infoproduits Qui Vont Vous Rendre Millionnaire En 30 Jours
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Infoproduits Qui Vont Vous Rendre Millionnaire En 30 Jours."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

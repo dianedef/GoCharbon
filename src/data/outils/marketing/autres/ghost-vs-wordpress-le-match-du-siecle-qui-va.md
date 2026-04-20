@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Ghost Vs Wordpress Le Match Du Siècle Qui Va Bouleverser Le Web
 author: Diane
-description: 'Découvre Ghost Vs Wordpress Le Match Du Siècle Qui Va Bouleverser Le
-  Web : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Ghost Vs Wordpress Le Match Du Siècle Qui Va Bouleverser Le Web."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

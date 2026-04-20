@@ -1,10 +1,12 @@
 ---
 import { SITE, getSiteUrl } from "../config/site";
 import { ROUTES, getBlogTagRoute } from "../config/routes";
+import { resolveMetaRobots } from "../utils/indexation";
 
 const title = `${SITE.name} | Diane`
 const description = `Diane construit ${SITE.name} pour aider les francophones à lancer des projets utiles, solides et moins bullshit.`
 const siteUrl = SITE.url
+const metaRobots = resolveMetaRobots("/bio");
 ---
 
 <!DOCTYPE html>
@@ -14,7 +16,7 @@ const siteUrl = SITE.url
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>{title}</title>
 	<meta name="description" content={description} />
-	<meta name="robots" content="index, follow" />
+	<meta name="robots" content={metaRobots} />
 	<link rel="canonical" href={`${siteUrl}/bio`} />
 
 	<meta property="og:title" content={title} />

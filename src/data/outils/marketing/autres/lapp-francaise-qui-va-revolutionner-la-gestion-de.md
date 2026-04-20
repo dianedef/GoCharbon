@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: L'App Française Qui Va Révolutionner La Gestion De Vos Bureaux
 author: Diane
-description: 'Découvre L''App Française Qui Va Révolutionner La Gestion De Vos Bureaux
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'App Française Qui Va Révolutionner La Gestion De Vos Bureaux."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

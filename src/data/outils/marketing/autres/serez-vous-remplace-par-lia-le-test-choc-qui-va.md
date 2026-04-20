@@ -8,8 +8,7 @@ tags:
 - Outils
 title: Serez Vous Remplacé Par L'Ia Le Test Choc Qui Va Vous Faire Trembler
 author: Diane
-description: 'Découvre Serez Vous Remplacé Par L''Ia Le Test Choc Qui Va Vous Faire
-  Trembler : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Serez Vous Remplacé Par L'Ia Le Test Choc Qui Va Vous Faire Trembler."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

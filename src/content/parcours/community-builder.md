@@ -44,7 +44,7 @@ Animer une communauté engagee qui produit rétention et revenus.
 - [Fiche profil Community Builder](/biz/profils/community-builder)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/community-builder)
+- [Suivi du parcours](/parcours/createur-communaute)
 - [Ressource utile 1](/marketing/social/community)
 - [Ressource utile 2](/marketing/social/strategie)
 - [Ressource utile 3](/tutos/comment-organiser-un-concours-sur-les-reseaux)

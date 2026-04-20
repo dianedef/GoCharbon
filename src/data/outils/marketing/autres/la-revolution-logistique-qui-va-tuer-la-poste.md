@@ -6,8 +6,7 @@ tags:
 imageNameKey: monprestatairelogistique
 title: La Révolution Logistique Qui Va Tuer La Poste
 author: Diane
-description: 'Découvre La Révolution Logistique Qui Va Tuer La Poste : outil français
-  pour entrepreneurs, fonctionnalités et avis.'
+description: "La Révolution Logistique Qui Va Tuer La Poste."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

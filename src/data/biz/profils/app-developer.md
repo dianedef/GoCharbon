@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: App Developer / Développeur d'applications mobiles
+title: Développeur d'applications mobiles
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Deviens développeur d''applications indépendant : compétences, outils,
-  clients et stratégies de monétisation.'
+description: 'Créer des applications mobiles utiles, en prestation ou en produit,
+  avec une logique business défendable.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# App Developer / Développeur d'applications mobiles
+# Développeur d'applications mobiles
 
 ## Description en une phrase
 

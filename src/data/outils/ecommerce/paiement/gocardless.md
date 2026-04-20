@@ -17,17 +17,17 @@ u_derniere_maj: "2026-03-15"
 
 # GoCardless
 
-## PRÉLÈVEMENT SEPA : LA PLATEFORME BRITANNIQUE QUI AUTOMATISE TES PAIEMENTS RÉCURRENTS DANS 75+ PAYS
+# PRÉLÈVEMENT SEPA : LA PLATEFORME BRITANNIQUE QUI AUTOMATISE TES PAIEMENTS RÉCURRENTS DANS 75+ PAYS
 
-### tl;dr
+## tl;dr
 
 GoCardless (gocardless.com), c'est la **plateforme de paiement bancaire** (prélèvement SEPA, ACH, Bacs, PAD, BECS) qui permet aux entreprises de **collecter des paiements récurrents et ponctuels** directement depuis les comptes bancaires de leurs clients — sans passer par les réseaux carte (Visa, Mastercard). Fondée en **2011** à **Londres** par **Hiroki Takeuchi** (CEO), **Matt Robinson** et **Tom Mayfield**, GoCardless traite **+100 milliards de dollars** de paiements par an pour **100 000+ entreprises** dans **75+ pays** avec **30+ devises**. Parmi les clients : **DocuSign**, **TripAdvisor**, **Aon**, **Trustpilot**, **Lush**, **SurveyMonkey**, **The Guardian**. En France, GoCardless est très utilisé par les éditeurs SaaS, les salles de sport, les associations et les entreprises avec des abonnements. La plateforme a levé au total **+300 millions de dollars** (Series G de 312M$ en 2022 menée par Permira). **Agréée ACPR** en France. Plateforme disponible en **français**. Pricing : **0,25€ + 0,20%** par transaction (GoCardless) ou **2,5% + 0,20€** (Instant Bank Pay). **700+ employés** dans le monde.
 
-### Alternative à
+## Alternative à
 
 Stripe (volet prélèvement SEPA), SlimPay, Mollie (prélèvement), prélèvement SEPA bancaire direct (SG, BNP), PayFit (pour la partie prélèvement salaires). GoCardless se distingue par sa **spécialisation prélèvement bancaire** (c'est son cœur de métier, pas un module additionnel comme chez Stripe), sa **couverture internationale** (prélèvement dans 30+ pays avec des schémas locaux : SEPA, ACH US, Bacs UK, PAD Canada, BECS Australie), et son **pricing ultra-compétitif** (0,25€/transaction vs 1,4% + 0,25€ pour Stripe SEPA). Pour les paiements récurrents, GoCardless est significativement moins cher que la carte bancaire.
 
-## Bénéfices
+# Bénéfices
 
 **Jusqu'à 56% moins cher que la carte bancaire** — Le prélèvement bancaire coûte 0,25€ + 0,20% par transaction chez GoCardless. Pour un abonnement de 50€/mois, ça fait ~0,35€ au lieu de 0,95€ par carte (1,4% + 0,25€ chez Stripe). Sur 1 000 clients, tu économises 600€/mois. Sur un an, **7 200€ d'économies**.
 
@@ -39,7 +39,7 @@ Stripe (volet prélèvement SEPA), SlimPay, Mollie (prélèvement), prélèvemen
 
 **API puissante et intégrations** — L'API GoCardless est considérée comme l'une des meilleures du secteur. SDKs en Python, Ruby, PHP, Java, Node.js, .NET. Intégrations natives avec **300+ logiciels** : Salesforce, Xero, QuickBooks, Zuora, Chargebee, HubSpot, Stripe (en tant que méthode de paiement additionnelle).
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Éditeurs SaaS avec des abonnements récurrents (le cas d'usage principal)
 - Associations et clubs sportifs qui collectent des cotisations
@@ -49,7 +49,7 @@ Stripe (volet prélèvement SEPA), SlimPay, Mollie (prélèvement), prélèvemen
 - Entreprises B2B avec des contrats long terme (paiement par prélèvement)
 - E-commerçants qui veulent proposer le prélèvement bancaire comme alternative à la CB
 
-## Comment Utiliser GoCardless
+# Comment Utiliser GoCardless
 
 1. **Inscription** — Crée ton compte sur [gocardless.com/fr-fr/](https://gocardless.com/fr-fr/). Pas de frais d'inscription
 2. **Vérification** — KYC (vérification d'identité et d'entreprise)
@@ -58,9 +58,9 @@ Stripe (volet prélèvement SEPA), SlimPay, Mollie (prélèvement), prélèvemen
 5. **Collecte** — Crée des paiements ponctuels ou récurrents. Les fonds sont prélevés du compte de ton client
 6. **Réception** — Les fonds arrivent sur ton compte bancaire sous 2-5 jours ouvrés (délais SEPA standard)
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Collecte de paiements
+## Collecte de paiements
 
 - **Prélèvement récurrent** — Abonnements, cotisations, loyers
 - **Prélèvement ponctuel** — Factures, acomptes
@@ -68,14 +68,14 @@ Stripe (volet prélèvement SEPA), SlimPay, Mollie (prélèvement), prélèvemen
 - **Pages de paiement hébergées** — Checkout sans code, personnalisable
 - **Mandats en ligne** — Signature de mandats SEPA dématérialisée
 
-### Optimisation
+## Optimisation
 
 - **Success+** — Relances intelligentes par IA (récupération des paiements échoués)
 - **Intelligent Retries** — Retry automatique au meilleur moment
 - **Verified Mandates** — Vérification des coordonnées bancaires en temps réel
 - **Notifications** — Alertes en cas d'échec, de remboursement ou de litige
 
-### Schémas de paiement internationaux
+## Schémas de paiement internationaux
 
 - **SEPA Direct Debit** — Europe (36 pays)
 - **ACH Debit** — États-Unis
@@ -85,14 +85,14 @@ Stripe (volet prélèvement SEPA), SlimPay, Mollie (prélèvement), prélèvemen
 - **Autogiro** — Suède
 - **BECS NZ** — Nouvelle-Zélande
 
-### API et intégrations
+## API et intégrations
 
 - **API REST** — Documentation complète, webhooks
 - **SDKs** — Python, Ruby, PHP, Java, Node.js, .NET, Go
 - **300+ intégrations** — Salesforce, Xero, QuickBooks, Zuora, Chargebee, HubSpot, Stripe
 - **Zapier** — Automatisations no-code
 
-## Prix
+# Prix
 
 | Plan | Frais/transaction | Inclus |
 |------|-------------------|--------|
@@ -109,7 +109,7 @@ Stripe (volet prélèvement SEPA), SlimPay, Mollie (prélèvement), prélèvemen
 
 *Source : [GoCardless Pricing](https://gocardless.com/fr-fr/tarifs/)*
 
-## Intégrations
+# Intégrations
 
 - **Comptabilité** : Xero, QuickBooks, FreeAgent, Sage
 - **Facturation** : Zuora, Chargebee, Recurly, ChargeBee
@@ -120,7 +120,7 @@ Stripe (volet prélèvement SEPA), SlimPay, Mollie (prélèvement), prélèvemen
 - **E-commerce** : WooCommerce, Shopify (via partenaires)
 - **API REST** : Documentation complète avec webhooks et SDKs
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **2011** — Création de **GoCardless** à **Londres** par **Hiroki Takeuchi** (CEO), **Matt Robinson** et **Tom Mayfield**. Trois amis de l'université qui galèrent à collecter les cotisations de leur club de football. Ils construisent un outil pour automatiser les prélèvements
 - **2012-2015** — Premières levées de fonds. GoCardless se concentre sur le marché britannique avec Bacs Direct Debit. Y Combinator (batch hiver 2011). Clients early-adopter : startups SaaS, clubs sportifs, associations
@@ -132,7 +132,7 @@ Stripe (volet prélèvement SEPA), SlimPay, Mollie (prélèvement), prélèvemen
 
 *Source : [GoCardless](https://gocardless.com/), [Crunchbase](https://www.crunchbase.com/organization/gocardless), [TechCrunch](https://techcrunch.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **L'éditeur SaaS avec 5 000 abonnés** — Tu as un logiciel SaaS à 49€/mois. Avec la carte bancaire, tu perds 3-5% de tes clients chaque mois à cause des cartes expirées (churn involontaire). En passant au prélèvement GoCardless, les IBAN ne changent jamais — ton taux d'échec passe de 5% à 2,4%. Sur 5 000 clients, c'est 130 clients récupérés par mois, soit **76 440€/an de revenus sauvés**.
 
@@ -140,7 +140,7 @@ Stripe (volet prélèvement SEPA), SlimPay, Mollie (prélèvement), prélèvemen
 
 **Le cabinet comptable qui facture 200 clients** — Tu envoies 200 factures d'honoraires par mois. Avec GoCardless intégré à QuickBooks, le prélèvement est automatique dès que la facture est validée. Plus de relances d'impayés, plus de chèques à encaisser. Le délai de paiement moyen passe de 45 jours à 5 jours.
 
-## Points Forts
+# Points Forts
 
 - 100K+ entreprises clientes, 100Md$+ de paiements traités/an
 - Pricing ultra-compétitif : 0,25€ + 0,20% (plafonné à 0,50€)
@@ -153,7 +153,7 @@ Stripe (volet prélèvement SEPA), SlimPay, Mollie (prélèvement), prélèvemen
 - Pas de frais fixes mensuels
 - Instant Bank Pay (Open Banking)
 
-## Points Faibles
+# Points Faibles
 
 - **Outil non français** — GoCardless est britannique. Même si la plateforme est en français et agréée ACPR, le support prioritaire est en anglais. Pour les questions complexes, l'anglais peut être nécessaire
 - **Délais de paiement SEPA** — Le prélèvement SEPA prend 2-5 jours ouvrés. C'est plus lent que la carte bancaire (instantané). Pour les e-commerçants qui veulent un encaissement immédiat, c'est un frein

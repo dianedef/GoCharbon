@@ -10,7 +10,7 @@ tags:
 - UX
 toolCategoryPrimary: communication
 toolSubcategoryPrimary: recherche-utilisateur
-description: 'Plateforme américaine de recrutement de participants pour études rémunérées, interviews, focus groups et journaux d’usage.'
+description: "Plateforme américaine de recrutement de participants pour études rémunérées, interviews, focus groups et journaux d’usage."
 pubDate: '2026-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.userinterviews.com

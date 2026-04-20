@@ -1,180 +1,46 @@
 ---
 section: blog
-title: Techniques de Growth Hacking
+title: Techniques de growth marketing qui méritent encore ton temps
 author: Diane
 tags:
 - Marketing
-description: Guide complet des techniques de growth hacking et d'acquisition rapide
+description: Les techniques de growth marketing qui restent utiles pour l'acquisition,
+  l'activation et la conversion, sans folklore de growth hack.
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
+# Techniques de growth marketing qui méritent encore ton temps
 
-# Techniques de Growth Hacking
+Le terme "growth hacking" a été tellement vidé de son sens qu'il sert parfois à vendre n'importe quelle astuce vaguement agressive. Le growth utile, lui, combine acquisition, produit, conversion et apprentissage rapide.
 
-## Fondamentaux du Growth Hacking
+## Les techniques qui restent pertinentes
 
-### Principes
-1. **Mindset**
-   - Data-driven
-   - Test & Learn
-   - Rapidité
-   - Scalabilité
+### Optimiser la proposition de valeur
 
-2. **Processus**
-   - Idéation
-   - Priorisation
-   - Test
-   - Analyse
-   - Itération
+Souvent plus rentable qu'un nouveau canal.
 
-### Framework AARRR
-1. **Acquisition**
-   - Sources trafic
-   - Canaux acquisition
-   - Coût acquisition
-   - Viralité
+### Travailler l'activation
 
-2. **Activation**
-   - First value
-   - Onboarding
-   - Engagement
-   - Rétention précoce
+Une meilleure première victoire améliore la conversion globale.
 
-3. **Rétention**
-   - Engagement long terme
-   - Habitudes
-   - Valeur perçue
-   - Churn prevention
+### Recycler intelligemment les contenus
 
-4. **Referral**
-   - Viral loops
-   - Word of mouth
-   - Programmes parrainage
-   - NPS
+Un bon contenu peut devenir plusieurs formats, plusieurs points d'entrée, plusieurs relances.
 
-5. **Revenue**
-   - Monétisation
-   - LTV
-   - Pricing
-   - Optimisation revenue
+### Construire des boucles simples
 
-## Techniques d'Acquisition
+Parrainage, recommandation, contenu partageable, preuve sociale réutilisable.
 
-### Content Hacking
-- SEO avancé
-- Content virality
-- Social engineering
-- Distribution hacks
+### Relancer les intentions déjà chaudes
 
-### Paid Acquisition
-- PPC optimization
-- Retargeting
-- Programmatic
-- Native ads
+Le trafic existant mal converti contient souvent plus d'opportunités qu'un nouveau trafic froid.
 
-### Social Growth
-- Social proof
-- Influence marketing
-- Community building
-- Viral mechanics
+## Les techniques à regarder avec prudence
 
-## Techniques d'Activation
+- scripts agressifs ;
+- automatisations de masse ;
+- hacks de plateforme à courte durée de vie ;
+- promesses de viralité reproductible.
 
-### Onboarding
-1. **First Expérience**
-   - Wow moment
-   - Quick wins
-   - Réduction friction
-   - Gamification
-
-2. **Engagement**
-   - Hooks
-   - Triggers
-   - Rewards
-   - Habits
-
-### Product-Led Growth
-- Feature adoption
-- User feedback
-- Product analytics
-- Iteration rapide
-
-## Techniques de Rétention
-
-### Engagement
-- Email sequences
-- Push notifications
-- In-app messages
-- Reactivation
-
-### Value Delivery
-- Feature discovery
-- Use case expansion
-- Success tracking
-- Support proactif
-
-## Techniques de Referral
-
-### Viral Loops
-1. **Mécaniques**
-   - Double-sided incentives
-   - Network effects
-   - Social sharing
-   - Gamification
-
-2. **Optimisation**
-   - Viral coefficient
-   - Cycle time
-   - Conversion rate
-   - Scaling
-
-## Outils Growth
-
-### Analytics
-- Mixpanel
-- Amplitude
-- Heap
-- Segment
-
-### Testing
-- Optimizely
-- VWO
-- Google Optimize
-- Split.io
-
-### Automation
-- Zapier
-- Make
-- Phantombuster
-- N8n
-
-## Mesure et Optimisation
-
-### Métriques Clés
-1. **Growth**
-   - CAC
-   - LTV
-   - Viral coefficient
-   - Growth rate
-
-2. **Product**
-   - Activation rate
-   - Retention rate
-   - NPS
-   - Feature adoption
-
-### Process
-1. **Testing**
-   - Hypothèses
-   - Prioritisation
-   - Execution
-   - Analysis
-
-2. **Scaling**
-   - Channel expansion
-   - Automation
-   - Team growth
-   - Process optimization
-
-[Découvrir l'Expérimentation Growth →](/marketing/growth/experimentation) 
+Le bon growth ressemble moins à un coup de génie qu'à une série d'améliorations utiles, bien mesurées et tenues dans la durée.

@@ -1,18 +1,18 @@
 ---
 section: parcours
-title: Testeur Utilisateur / Crowdtester
+title: Testeur utilisateur
 author: Diane GoCharbon
 tags:
 - Business
 - Tech
-description: "Gagne de l'argent en testant des sites, apps et parcours utilisateurs. Un side hustle accessible, flexible, mais pas magique."
+description: "Tester des sites, des apps et des parcours utilisateurs : activité accessible, utile, mais loin d'un revenu garanti."
 pubDate: '2026-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
 ## Description
 
-Le test utilisateur rémunéré, c'est le boulot de la personne qui passe avant la mise en ligne ou avant une grosse amélioration produit. Tu testes un site, une app, un tunnel d'achat, un paiement, un onboarding, parfois un objet connecté ou un protocole en magasin, puis tu remontes ce qui bloque, ce qui bugge, ce qui est flou ou juste mal foutu.
+Le test utilisateur rémunéré consiste à passer dans un produit ou un parcours avant d'autres utilisateurs, puis à signaler ce qui bloque, ce qui bugge, ce qui manque de clarté ou ce qui ralentit la conversion. C'est une bonne porte d'entrée pour gagner un peu d'argent en ligne, pas une machine à revenu stable.
 
 En pratique, tu peux être payé pour plusieurs choses :
 

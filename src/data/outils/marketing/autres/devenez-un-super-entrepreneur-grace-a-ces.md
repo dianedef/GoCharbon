@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Devenez Un Super Entrepreneur Grâce À Ces Logiciels Secrets
 author: Diane
-description: 'Découvre Devenez Un Super Entrepreneur Grâce À Ces Logiciels Secrets
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Devenez Un Super Entrepreneur Grâce À Ces Logiciels Secrets."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

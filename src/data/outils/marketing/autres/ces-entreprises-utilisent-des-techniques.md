@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Ces Entreprises Utilisent Des Techniques Choquantes Pour Vous Forcer À Acheter
 author: Diane
-description: 'Découvre Ces Entreprises Utilisent Des Techniques Choquantes Pour Vous
-  Forcer À Acheter : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Ces Entreprises Utilisent Des Techniques Choquantes Pour Vous Forcer À Acheter."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

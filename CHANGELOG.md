@@ -1,5 +1,53 @@
 # Changelog
 
+## 2026-04-20
+
+### Added
+- **Fichiers de coordination supprimés** — `BUILD.md` et `CONTENT_TRIAGE.md` retirés du workspace pour éviter le bruit de suivi sur le périmètre de livraison courant.
+
+### Changed
+- **Décision d’outillage de lancement consolidée** — conservation de la mécanique `parcours-only` (`PARCOURS_ONLY_BUILD`, `build-scope`, `launch-build`) après clarification de son rôle et suppression des artefacts de pilotage temporaires.
+
+### Fixed
+- **Validation de stabilisation finale** — correction robuste des frontmatter bloquants dans les tutos et adaptation de `pubDate` pour accepter les formats string/Date.
+- **Pré-check de livraison** — build complet exécuté avec succès en mode `parcours-only` après suppression des artefacts non suivis.
+
+## 2026-04-19
+
+### Added
+- **Refonte éditoriale massive des lots outils** — réécriture complète des lots `business/crm` (48), `ecommerce` (69), `formation` (27), `tech/ia` (221) et `marketing/autres` (502), avec un ton humain, anti-bullshit et français corrigé, sans suppression de sujets utiles.
+- **Fin de série sur le lot `outils`** — 10 fiches finales de `marketing/autres` harmonisées et alignées au même niveau éditorial que le reste du lot.
+
+### Changed
+- **Piste de priorisation éditoriale `outils`** — bascule vers une stratégie de reprise lot par lot (`business`, `ecommerce`, `formation`, `tech/ia`, `marketing/autres`) pour concentrer la qualité avant réouverture SEO.
+- **Qualité de livraison** — les lots ont été traités sans toucher la taxonomie (`section`, `type`) ni introduire de suppression de contenu; focus sur la correction rédactionnelle, la voix de marque et l’action concrète.
+
+### Fixed
+- **Frontmatter marketing trop promotionnel** — suppression des formulations putaclic et des sections brutes dans de nombreuses fiches outils, avec reformulation autour de l’utilité, des limites et des usages réels.
+- **Cohérence linguistique** — accents français et corrections de style consolidés sur l’ensemble des fichiers réécrits pendant la passe.
+
+
+
+## 2026-04-18
+
+### Changed
+- **Pilotage SEO recentré** — les trackers GoCharbon priorisent désormais le nettoyage du contenu anglais inutile encore live, la canonicalisation des doublons `parcours` EN/FR, et un lancement Search Console limité au cluster `parcours` avant toute ouverture plus large
+- **Stock `to_decide` neutralisé pour le build** — confirmation que les 94 fichiers archivés dans `to_decide/` restent hors des collections Astro car stockés hors de `src/data` et `src/content`
+- **Lancement `parcours` verrouillé côté indexation** — seules la homepage, `/parcours`, les fiches parcours et les pages légales restent indexables par défaut; le reste passe en `noindex, follow`, et le sitemap Astro est filtré sur ce même périmètre
+- **Build SEO validé pour le lancement `parcours`** — le build Astro génère bien `index, follow` uniquement sur la homepage, `/parcours`, les fiches parcours et les pages légales, avec un sitemap limité au même périmètre
+- **Build de lancement basculé en `parcours-only`** — `npm run build` purge désormais du `dist` les routes hors lancement (`blog`, `outils`, `tutos`, `quiz`, `progression`, `bio`, `methodologie`, `api`, `feed`) après génération, et neutralise dans le HTML final les liens internes qui pointaient encore vers ces sections
+- **Lancement `parcours` resserré à 5 fiches pilotes** — le build de lancement ne conserve plus que `freelance`, `tests-utilisateurs-remuneres`, `e-commerce`, `createur-contenu` et `formation`, avec `/parcours` et la homepage réalignés sur cette shortlist
+- **Navigation et home recentrées sur les parcours** — header, footer, homepage et fiches `parcours` n’exposent plus les CTA principaux vers les sections retirées du lancement
+- **`robots.txt` réaligné sur le périmètre livré** — blocage explicite des sections retirées du build pour éviter de réinjecter du crawl sur des URLs non distribuées au lancement
+
+### Removed
+- **Première vague de tutos EN supprimés** — retrait de 19 pages `tutos` importées en anglais ou semi-anglaises, non structurantes pour le site FR, avec remappage du parcours `prompt-engineer` vers une ressource encore utile en français
+- **Alias `parcours` EN retirés du build** — une seule URL canonique française est désormais générée par fiche, avec nettoyage du maillage interne qui pointait encore vers les anciens slugs anglais
+- **Gros sweep anti-anglais** — retrait de 166 contenus EN ou mixtes encore live (`outils`, `tutos`, `marketing`, `performance`), après la première vague, pour tomber à `0` fichier détecté par le scan heuristique de contenu anglais
+
+### Fixed
+- **Liens internes post-nettoyage EN** — remappage des 9 références restantes vers des alternatives FR existantes (`affiliation`, `blogging`, `web-scraping-expert`, `bases-seo` et 2 tutos liés)
+
 ## 2026-04-14
 
 ### Added

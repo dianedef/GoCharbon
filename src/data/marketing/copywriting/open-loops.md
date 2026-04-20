@@ -1,15 +1,15 @@
 ---
 section: blog
-title: 'Open Loops et Curiosity Gaps : Pourquoi Ils ne Peuvent Pas s''Arrêter de Lire'
+title: "Open loops et curiosity gaps : retenir l'attention sans faire du clickbait"
 author: Diane
 tags:
   - Marketing
-description: Les open loops et curiosity gaps exploitent la psychologie de la curiosité pour garder ton lecteur accroché. Techniques et exemples concrets.
-pubDate: '2026-03-23'
+description: Utilise les open loops et les curiosity gaps pour maintenir l'attention sans promettre dans le vide ni fatiguer ton lecteur.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Open Loops et Curiosity Gaps : Pourquoi Ils ne Peuvent Pas s'Arrêter de Lire
+# Open loops et curiosity gaps : retenir l'attention sans faire du clickbait
 
 Tu as déjà regardé une série jusqu'à 3h du matin alors que tu avais prévu d'arrêter après un épisode ? C'est un open loop. Tu as déjà cliqué sur un titre juste parce que tu *devais* savoir ce qui se cachait derrière ? C'est un curiosity gap. Ces deux mécanismes sont les armes secrètes des copywriters qui veulent que leur lecteur aille jusqu'au bout.
 

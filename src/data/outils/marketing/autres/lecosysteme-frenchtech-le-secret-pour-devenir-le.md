@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: L'Écosystème Frenchtech Le Secret Pour Devenir Le Prochain Licorne Française
 author: Diane
-description: 'Découvre L''Écosystème Frenchtech Le Secret Pour Devenir Le Prochain
-  Licorne Française : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Écosystème Frenchtech Le Secret Pour Devenir Le Prochain Licorne Française."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

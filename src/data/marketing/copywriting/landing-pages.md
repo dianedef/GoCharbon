@@ -1,21 +1,21 @@
 ---
 section: blog
-title: 'Copywriting de Pages de Vente : Anatomie d''une Landing qui Convertit'
+title: "Page de vente : la structure qui convertit sans en faire des tonnes"
 author: Diane
 tags:
   - Marketing
-description: 'Anatomie complète d''une page de vente qui convertit : above the fold, agitation, preuve, offre, garantie et CTA. Section par section.'
-pubDate: '2026-03-23'
+description: "Structure complète d'une page de vente : promesse, preuve, offre, garantie et CTA, avec les sections qui comptent vraiment et celles qu'on peut simplifier."
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Copywriting de Pages de Vente : Anatomie d'une Landing qui Convertit
+# Page de vente : la structure qui convertit sans en faire des tonnes
 
-Une page de vente, c'est pas une brochure. C'est un vendeur qui bosse 24 heures sur 24, sans pause café et sans jour de repos.
+Une page de vente n'est pas une brochure. C'est un argumentaire en ligne qui doit faire le travail sans toi, sans appel, sans regard, et souvent sans deuxième chance.
 
 Sauf qu'un vendeur humain s'adapte en temps réel. Il voit les sourcils qui se froncent, le regard qui décroche. Il ajuste. Toi, avec une page web, tu n'as pas ce luxe. Ta page doit anticiper chaque réaction, chaque doute, chaque moment où le lecteur est tenté de fermer l'onglet.
 
-Et pour ça, il faut une structure. Pas un template Canva avec des sections au hasard. Une séquence de persuasion où chaque section a un rôle précis, dans un ordre précis. Si une section manque, le lecteur décroche. Si elle est au mauvais endroit, pareil. Il partira, silencieusement, comme 97 % des visiteurs qui atterrissent sur une page mal construite.
+Et pour ça, il faut une structure. Pas un template décoré. Une séquence claire où chaque section a un rôle précis. C'est d'autant plus important qu'[Unbounce](https://unbounce.com/average-conversion-rates-landing-pages/) situe encore la conversion médiane des landing pages autour de `6,6 %` sur ses données 2024, pendant que [Baymard](https://baymard.com/blog/current-state-of-checkout-ux) montre en 2025 que les frictions de parcours et de clarté continuent à coûter des ventes sur mobile comme sur desktop.
 
 Voici l'anatomie complète. Section par section.
 

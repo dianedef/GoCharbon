@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Pourquoi La Cupidité Va Vous Rendre Riche Les Arguments Chocs
 author: Diane
-description: 'Découvre Pourquoi La Cupidité Va Vous Rendre Riche Les Arguments Chocs
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Pourquoi La Cupidité Va Vous Rendre Riche Les Arguments Chocs."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

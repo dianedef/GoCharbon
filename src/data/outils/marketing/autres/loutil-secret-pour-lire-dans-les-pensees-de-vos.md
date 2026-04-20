@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: L'Outil Secret Pour Lire Dans Les Pensées De Vos Visiteurs Web
 author: Diane
-description: 'Découvre L''Outil Secret Pour Lire Dans Les Pensées De Vos Visiteurs
-  Web : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Outil Secret Pour Lire Dans Les Pensées De Vos Visiteurs Web."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -10,8 +10,7 @@ u_site: https://www.smappen.fr
 u_affi: null
 title: Smappen
 author: Diane
-description: 'Découvre Smappen : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "Smappen."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

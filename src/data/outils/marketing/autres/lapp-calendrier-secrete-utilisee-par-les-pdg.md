@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: L'App Calendrier Secrète Utilisée Par Les Pdg Français Les Plus Performants
 author: Diane
-description: 'Découvre L''App Calendrier Secrète Utilisée Par Les Pdg Français Les
-  Plus Performants : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'App Calendrier Secrète Utilisée Par Les Pdg Français Les Plus Performants."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

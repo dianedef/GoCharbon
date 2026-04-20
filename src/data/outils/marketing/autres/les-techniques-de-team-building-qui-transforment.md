@@ -6,8 +6,7 @@ tags:
 imageNameKey: null
 title: Les Techniques De Team Building Qui Transforment Les Employés En Superhéros
 author: Diane
-description: 'Découvre Les Techniques De Team Building Qui Transforment Les Employés
-  En Superhéros : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Techniques De Team Building Qui Transforment Les Employés En Superhéros."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

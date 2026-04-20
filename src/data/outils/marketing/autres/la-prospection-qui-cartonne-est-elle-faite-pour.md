@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: La Prospection Qui Cartonne Est Elle Faite Pour Vous Le Test Ultime
 author: Diane
-description: 'Découvre La Prospection Qui Cartonne Est Elle Faite Pour Vous Le Test
-  Ultime : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Prospection Qui Cartonne Est Elle Faite Pour Vous Le Test Ultime."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

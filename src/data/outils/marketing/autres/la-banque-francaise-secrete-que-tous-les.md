@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: La Banque Française Secrète Que Tous Les Entrepreneurs En Ligne Adorent
 author: Diane
-description: 'Découvre La Banque Française Secrète Que Tous Les Entrepreneurs En Ligne
-  Adorent : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Banque Française Secrète Que Tous Les Entrepreneurs En Ligne Adorent."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

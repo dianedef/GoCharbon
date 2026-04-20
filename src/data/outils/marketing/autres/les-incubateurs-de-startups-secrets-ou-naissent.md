@@ -6,8 +6,7 @@ tags:
 imageNameKey: incubateurs-startups-france
 title: Les Incubateurs De Startups Secrets Où Naissent Les Futurs Licornes
 author: Diane
-description: 'Découvre Les Incubateurs De Startups Secrets Où Naissent Les Futurs
-  Licornes : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Incubateurs De Startups Secrets Où Naissent Les Futurs Licornes."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

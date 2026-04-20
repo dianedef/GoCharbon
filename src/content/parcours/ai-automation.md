@@ -44,7 +44,7 @@ Vendre des systèmes d automatisation IA qui réduisent le temps opérationnel c
 - [Fiche profil Ai Automation](/biz/profils/ai-automation)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/ai-automation)
+- [Suivi du parcours](/parcours/automatisation-ia)
 - [Ressource utile 1](/tutos/comment-faire-de-lautomatisation-marketing)
 - [Ressource utile 2](/tutos/comment-faire-de-lautomatisation-pour-grossir-son)
 - [Ressource utile 3](/tech/ia/guides)

@@ -7,8 +7,7 @@ tags:
 - Outils
 title: La Stratégie Secrète Pour Fidéliser Vos Clients Et Tripler Vos Ventes En 2023
 author: Diane
-description: 'Découvre La Stratégie Secrète Pour Fidéliser Vos Clients Et Tripler
-  Vos Ventes En 2023 : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Stratégie Secrète Pour Fidéliser Vos Clients Et Tripler Vos Ventes En 2023."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

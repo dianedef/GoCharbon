@@ -1,16 +1,15 @@
 ---
 section: parcours
-title: Web Scraping Expert / Expert en Web Scraping
+title: Expert en web scraping
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Deviens expert web scraping : outils, éthique et stratégies pour extraire
-  des données à grande échelle.'
+description: 'Extraire et structurer des données web de manière utile, propre et vendable.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Web Scraping Expert / Expert en Web Scraping
+# Expert en web scraping
 
 ## Description en une phrase
 

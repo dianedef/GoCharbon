@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: 5 Étapes Choc Pour Transformer Vos Visiteurs En Clients Payants
 author: Diane
-description: 'Découvre 5 Étapes Choc Pour Transformer Vos Visiteurs En Clients Payants
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "5 Étapes Choc Pour Transformer Vos Visiteurs En Clients Payants."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

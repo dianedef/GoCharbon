@@ -11,8 +11,7 @@ imageNameKey: null
 u_site: null
 title: Ia As A Service La Nouvelle Ruée Vers L'Or Du Web
 author: Diane
-description: 'Découvre Ia As A Service La Nouvelle Ruée Vers L''Or Du Web : outil
-  français pour entrepreneurs, fonctionnalités et avis.'
+description: "Ia As A Service La Nouvelle Ruée Vers L'Or Du Web."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

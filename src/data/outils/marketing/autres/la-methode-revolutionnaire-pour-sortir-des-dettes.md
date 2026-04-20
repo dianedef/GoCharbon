@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: La Méthode Révolutionnaire Pour Sortir Des Dettes Qui Affole Les Banques
 author: Diane
-description: 'Découvre La Méthode Révolutionnaire Pour Sortir Des Dettes Qui Affole
-  Les Banques : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Méthode Révolutionnaire Pour Sortir Des Dettes Qui Affole Les Banques."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

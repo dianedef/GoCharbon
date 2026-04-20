@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Les Logiciels De Growth Hacking Qui Vont Faire Exploser Votre Startup
 author: Diane
-description: 'Découvre Les Logiciels De Growth Hacking Qui Vont Faire Exploser Votre
-  Startup : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Logiciels De Growth Hacking Qui Vont Faire Exploser Votre Startup."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

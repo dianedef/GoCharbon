@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Le Hack Douloureux Mais Nécessaire Pour Libérer Votre Potentiel Caché
 author: Diane
-description: 'Découvre Le Hack Douloureux Mais Nécessaire Pour Libérer Votre Potentiel
-  Caché : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Hack Douloureux Mais Nécessaire Pour Libérer Votre Potentiel Caché."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

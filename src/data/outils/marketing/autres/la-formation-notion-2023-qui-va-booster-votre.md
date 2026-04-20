@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: La Formation Notion 2023 Qui Va Booster Votre Productivité De 1000%
 author: Diane
-description: 'Découvre La Formation Notion 2023 Qui Va Booster Votre Productivité
-  De 1000% : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Formation Notion 2023 Qui Va Booster Votre Productivité De 1000%."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

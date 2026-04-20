@@ -11,8 +11,7 @@ imageNameKey: null
 u_site: null
 title: L'Ia Qui Fact Check Mieux Que Les Journalistes La Fin Des Fake News
 author: Diane
-description: 'Découvre L''Ia Qui Fact Check Mieux Que Les Journalistes La Fin Des
-  Fake News : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Ia Qui Fact Check Mieux Que Les Journalistes La Fin Des Fake News."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

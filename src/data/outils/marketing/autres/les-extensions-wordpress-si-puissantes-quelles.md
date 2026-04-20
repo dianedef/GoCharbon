@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Extensions Wordpress Si Puissantes Qu'Elles Devraient Être Illégales
 author: Diane
-description: 'Découvre Les Extensions Wordpress Si Puissantes Qu''Elles Devraient
-  Être Illégales : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Extensions Wordpress Si Puissantes Qu'Elles Devraient Être Illégales."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

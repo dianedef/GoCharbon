@@ -184,4 +184,3 @@ Home Tester Club n'est pas un outil d'intégration technique au sens classique. 
 - [Amazon Vine et alternatives](/biz/business-mobile/amazon-vine-et-alternatives)
 - [Influenster](/outils/marketing/autres/influenster)
 - [Profil Testeur Utilisateur / Crowdtester](/biz/profils/testeur-utilisateur)
-

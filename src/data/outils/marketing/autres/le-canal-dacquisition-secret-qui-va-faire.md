@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Le Canal D'Acquisition Secret Qui Va Faire Exploser Votre Chiffre D'Affaires
 author: Diane
-description: 'Découvre Le Canal D''Acquisition Secret Qui Va Faire Exploser Votre
-  Chiffre D''Affaires : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Canal D'Acquisition Secret Qui Va Faire Exploser Votre Chiffre D'Affaires."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

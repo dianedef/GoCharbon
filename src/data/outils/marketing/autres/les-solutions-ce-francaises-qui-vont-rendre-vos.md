@@ -6,8 +6,7 @@ tags:
 imageNameKey: null
 title: Les Solutions Ce Françaises Qui Vont Rendre Vos Employés Accros
 author: Diane
-description: 'Découvre Les Solutions Ce Françaises Qui Vont Rendre Vos Employés Accros
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Solutions Ce Françaises Qui Vont Rendre Vos Employés Accros."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

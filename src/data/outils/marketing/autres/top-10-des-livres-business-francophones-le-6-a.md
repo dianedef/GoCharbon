@@ -11,8 +11,7 @@ RS-&-RSS-suivi: null
 Ville: null
 title: 'Top 10 Des Livres Business Francophones Le #6 A Changé Ma Vie'
 author: Diane
-description: 'Découvre Top 10 Des Livres Business Francophones Le #6 A Changé Ma Vie
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Top 10 Des Livres Business Francophones Le #6 A Changé Ma Vie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

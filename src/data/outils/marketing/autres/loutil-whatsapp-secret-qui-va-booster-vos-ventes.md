@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: L'Outil Whatsapp Secret Qui Va Booster Vos Ventes De 500%
 author: Diane
-description: 'Découvre L''Outil Whatsapp Secret Qui Va Booster Vos Ventes De 500%
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Outil Whatsapp Secret Qui Va Booster Vos Ventes De 500%."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: L'App De Rédaction Qui Va Faire De Vous Le Nouveau Victor Hugo Du Web
 author: Diane
-description: 'Découvre L''App De Rédaction Qui Va Faire De Vous Le Nouveau Victor
-  Hugo Du Web : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'App De Rédaction Qui Va Faire De Vous Le Nouveau Victor Hugo Du Web."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

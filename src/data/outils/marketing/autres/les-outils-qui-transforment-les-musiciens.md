@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Outils Qui Transforment Les Musiciens Amateurs En Pros Du Jour Au Lendemain
 author: Diane
-description: 'Découvre Les Outils Qui Transforment Les Musiciens Amateurs En Pros
-  Du Jour Au Lendemain : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Outils Qui Transforment Les Musiciens Amateurs En Pros Du Jour Au Lendemain."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

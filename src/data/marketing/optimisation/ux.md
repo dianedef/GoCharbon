@@ -1,202 +1,43 @@
 ---
 section: blog
-title: UX Design
+title: "UX marketing : rendre le parcours plus simple pour mieux convertir"
 author: Diane
 tags:
 - Marketing
-description: Guide complet sur l'optimisation de l'expérience utilisateur
+description: Comment l'UX influence acquisition et conversion, et quoi améliorer
+  en priorité sur un site ou un tunnel marketing.
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
+# UX marketing : rendre le parcours plus simple pour mieux convertir
 
-# UX Design : Guide Complet
+Une mauvaise UX ne se voit pas toujours dans le design. Elle se voit dans l'hésitation, l'abandon et la fatigue ressentie par les visiteurs.
 
-## Fondamentaux UX
+L'UX marketing sert à faire en sorte qu'une personne comprenne rapidement, trouve ce qu'elle cherche et sache quoi faire ensuite.
 
-### Principes de Base
-1. **Utilisabilité**
-   - Facilité d'utilisation
-   - Navigation intuitive
-   - Accessibilité
-   - Performance
+## Ce qui compte le plus
 
-2. **Désirabilité**
-   - Esthétique
-   - Engagement
-   - Émotion
-   - Plaisir d'utilisation
+- hiérarchie claire ;
+- navigation simple ;
+- vitesse correcte ;
+- formulaires supportables ;
+- CTA visibles ;
+- rassurance au bon moment.
 
-3. **Utilité**
-   - Valeur ajoutée
-   - Résolution problèmes
-   - Besoins utilisateurs
-   - Fonctionnalités clés
+## Les questions utiles
 
-## Méthodologie UX
+- est-ce qu'on comprend l'offre en quelques secondes ;
+- est-ce que la prochaine étape est visible ;
+- est-ce qu'une friction inutile ralentit la décision ;
+- est-ce que le mobile est réellement praticable.
 
-### Research
-1. **Études Utilisateurs**
-   - Interviews
-   - Observations
-   - Tests utilisateurs
-   - Enquêtes
+## Par où commencer
 
-2. **Analyse Comportementale**
-   - Analytics
-   - Heatmaps
-   - Session recording
-   - Eye tracking
+1. Observe les pages d'entrée.
+2. Note les étapes de doute.
+3. Simplifie les écrans.
+4. Réduis les demandes inutiles.
+5. Re-teste.
 
-### Design Process
-1. **Discovery**
-   - User personas
-   - Journey mapping
-   - Pain points
-   - Opportunités
-
-2. **Idéation**
-   - Workshops
-   - Brainstorming
-   - Sketching
-   - Prototyping
-
-3. **Validation**
-   - Tests utilisateurs
-   - Feedback
-   - Itération
-   - Optimisation
-
-## Éléments UX
-
-### Architecture Information
-- Hiérarchie contenu
-- Navigation
-- Taxonomie
-- Search
-
-### Interface Design
-1. **Layout**
-   - Grille
-   - Composition
-   - Whitespace
-   - Responsive
-
-2. **Composants**
-   - Boutons
-   - Forms
-   - Cards
-   - Navigation
-
-3. **Interaction**
-   - Feedback
-   - Animations
-   - Micro-interactions
-   - States
-
-## Mobile UX
-
-### Mobile-First
-- Content priority
-- Touch targets
-- Gestures
-- Performance
-
-### Responsive Design
-- Breakpoints
-- Adaptative content
-- Progressive enhancement
-- Mobile patterns
-
-## Optimisation UX
-
-### Performance
-1. **Vitesse**
-   - Loading time
-   - First paint
-   - Interaction
-   - Animation
-
-2. **Technique**
-   - Optimisation images
-   - Minification
-   - Caching
-   - CDN
-
-### Accessibilité
-- WCAG guidelines
-- Screen readers
-- Keyboard navigation
-- Color contrast
-
-## Mesure UX
-
-### Métriques
-1. **Quantitatives**
-   - Time on task
-   - Error rate
-   - Success rate
-   - Satisfaction score
-
-2. **Qualitatives**
-   - User feedback
-   - Observations
-   - Interviews
-   - Reviews
-
-### Analytics
-- Behavior flow
-- Drop-off points
-- User paths
-- Engagement
-
-## Best Practices
-
-### Design Principles
-- Consistency
-- Feedback
-- Error prevention
-- Recognition
-
-### Process
-1. **Research**
-   - User needs
-   - Context
-   - Constraints
-   - Opportunities
-
-2. **Design**
-   - Wireframes
-   - Prototypes
-   - Visual design
-   - Documentation
-
-3. **Test**
-   - Usability testing
-   - A/B testing
-   - Beta testing
-   - Monitoring
-
-## Outils UX
-
-### Design Tools
-- Figma
-- Sketch
-- Adobe XD
-- InVision
-
-### Research Tools
-- UserTesting
-- Hotjar
-- Optimal Workshop
-- Lookback
-
-## Pour aller plus loin
-
-Si tu veux comprendre l'autre côté du miroir, c'est-à-dire les personnes qui réalisent concrètement ces tests pour gagner un revenu annexe, regarde aussi :
-
-- [Tests utilisateurs rémunérés : ce que ça vaut vraiment](/biz/business-mobile/tests-remuneres)
-- [Comparatif des plateformes de tests rémunérés](/biz/business-mobile/comparatif-plateformes-tests-remuneres)
-- [Profil Testeur Utilisateur / Crowdtester](/biz/profils/testeur-utilisateur)
-
-[Découvrir l'Automation Marketing →](/marketing/automation/parcours) 
+Une bonne UX fait souvent moins de bruit qu'une mauvaise. C'est précisément le signe qu'elle fait son travail.

@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Outils De Retouche Photo Qui Vont Rendre Vos Images Virales
 author: Diane
-description: 'Découvre Les Outils De Retouche Photo Qui Vont Rendre Vos Images Virales
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Outils De Retouche Photo Qui Vont Rendre Vos Images Virales."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

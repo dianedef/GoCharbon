@@ -7,8 +7,7 @@ tags:
 - Outils
 title: L'Ordi Dans Le Cloud Qui Va Rendre Votre Pc Obsolète
 author: Diane
-description: 'Découvre L''Ordi Dans Le Cloud Qui Va Rendre Votre Pc Obsolète : outil
-  français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Ordi Dans Le Cloud Qui Va Rendre Votre Pc Obsolète."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

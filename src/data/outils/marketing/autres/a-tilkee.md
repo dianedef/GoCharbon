@@ -11,8 +11,7 @@ u_affi: null
 u_affiAdmin: null
 title: A  Tilkee
 author: Diane
-description: 'Découvre A  Tilkee : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "A Tilkee."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

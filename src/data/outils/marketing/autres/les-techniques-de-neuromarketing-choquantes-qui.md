@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Les Techniques De Neuromarketing Choquantes Qui Manipulent Votre Cerveau
 author: Diane
-description: 'Découvre Les Techniques De Neuromarketing Choquantes Qui Manipulent
-  Votre Cerveau : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Techniques De Neuromarketing Choquantes Qui Manipulent Votre Cerveau."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

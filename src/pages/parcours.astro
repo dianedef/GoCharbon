@@ -1,6 +1,8 @@
 ---
 import Layout from "../layouts/Default.astro";
 import { learningPaths } from "../data/parcoursData";
+import { launchSignals } from "../data/launchSignals";
+import { filterLaunchParcours, isParcoursOnlyBuild } from "../utils/build-scope";
 import {
   CANONICAL_ARCHETYPES,
   getArchetypeDefinition,
@@ -8,12 +10,18 @@ import {
 } from "../data/profileTaxonomy";
 import { getParcoursRoute } from "../config/routes";
 
-const sortedPaths = [...learningPaths].sort((a, b) => a.profileTitle.localeCompare(b.profileTitle, "fr"));
+const launchBuild = isParcoursOnlyBuild();
+const visiblePaths = launchBuild ? filterLaunchParcours(learningPaths) : learningPaths;
+const sortedPaths = [...visiblePaths].sort((a, b) => a.profileTitle.localeCompare(b.profileTitle, "fr"));
 const categories = [...new Set(sortedPaths.map((path) => path.category))].sort((a, b) => a.localeCompare(b, "fr"));
 const familyCards = CANONICAL_ARCHETYPES.map((archetype) => {
   const definition = getArchetypeDefinition(archetype);
-  const pivotPath = learningPaths.find((path) => path.id === definition.pivotProfileSlug) ?? sortedPaths[0];
-  const examples = getFeaturedProfilesForArchetype(archetype).map((profile) => profile.title);
+  const pivotPath = visiblePaths.find((path) => path.id === definition.pivotProfileSlug);
+  if (!pivotPath) return null;
+
+  const examples = getFeaturedProfilesForArchetype(archetype)
+    .filter((profile) => !launchBuild || visiblePaths.some((path) => path.id === profile.profileSlug))
+    .map((profile) => profile.title);
 
   return {
     archetype,
@@ -23,23 +31,23 @@ const familyCards = CANONICAL_ARCHETYPES.map((archetype) => {
     pivotTitle: pivotPath.profileTitle,
     examples,
   };
-});
+}).filter((family): family is NonNullable<typeof family> => family != null);
 
 const spotlights = [
   {
     kicker: "Vendre un service",
     path: sortedPaths.find((path) => path.id === "freelance") ?? sortedPaths[0],
-    description: "Pour partir d'une competence, faire une offre simple et aller chercher les premiers clients.",
+    description: "Pour partir d'une compétence, faire une offre simple et aller chercher les premiers clients.",
   },
   {
     kicker: "Construire une audience",
     path: sortedPaths.find((path) => path.id === "content-creator") ?? sortedPaths[1],
-    description: "Pour avancer avec du contenu, une audience utile et un systeme de monetisation coherent.",
+    description: "Pour avancer avec du contenu, une audience utile et un système de monétisation cohérent.",
   },
   {
     kicker: "Monter un produit",
     path: sortedPaths.find((path) => path.id === "ecommerce") ?? sortedPaths[2],
-    description: "Pour tester un produit, choisir la bonne stack et mieux piloter acquisition et conversion.",
+    description: "Pour tester un produit, choisir la bonne structure et mieux piloter acquisition et conversion.",
   },
   {
     kicker: "Revenu annexe simple",
@@ -50,8 +58,8 @@ const spotlights = [
 ---
 
 <Layout
-  title="Parcours Business - GOCHARBON"
-  description="Explore les parcours GoCharbon par catégorie, niveau et besoin. Trouve plus vite le bon point de départ."
+  title="Parcours Business Pilotes - GOCHARBON"
+  description="Choisis parmi les parcours pilotes GoCharbon pour lancer une activité crédible avec un point de départ clair."
   pageTitle="Parcours"
 >
   <main class="parcours-shell min-h-screen py-12 md:py-20">
@@ -59,17 +67,16 @@ const spotlights = [
       <section class="browser-hero bg-yellow-primary dark:bg-yellow-dark">
         <div class="browser-hero-inner">
           <div class="hero-copy">
-            <p class="hero-kicker">BIBLIOTHÈQUE D'EXÉCUTION</p>
-            <h1 class="hero-title poppins">Trouve plus vite le parcours qui colle à ton point de départ</h1>
+            <p class="hero-kicker">SÉLECTION DE DÉPART</p>
+            <h1 class="hero-title poppins">Choisis un parcours net, pas un faux catalogue</h1>
             <p class="hero-copy-text">
-              Tous les parcours ne servent pas à la même chose. Utilise les portes d'entrée ci-dessous ou filtre par catégorie,
-              niveau et mot-clé pour tomber sur un plan qui te fera avancer maintenant.
+              On a volontairement réduit l’entrée : cinq parcours relus, chacun avec un angle clair, plutôt qu’un catalogue qui fait semblant d’aider tout le monde.
             </p>
           </div>
           <div class="hero-stats">
             <div class="hero-stat">
               <strong>{sortedPaths.length}</strong>
-              <span>parcours actives</span>
+              <span>parcours pilotes</span>
             </div>
             <div class="hero-stat">
               <strong>3 modules</strong>
@@ -83,10 +90,44 @@ const spotlights = [
         </div>
       </section>
 
+      {launchBuild && (
+        <section class="families-section bg-white-soft dark:bg-black">
+          <div class="section-heading">
+            <p class="section-kicker">POURQUOI CETTE SÉLECTION TIENT DEBOUT</p>
+            <h2 class="section-title poppins">Ces 5 parcours couvrent les décisions les plus utiles au lancement</h2>
+            <p class="section-copy">
+              Le lot de départ a été choisi pour une raison simple : chaque modèle correspond à une mécanique économique lisible, avec des pièges concrets et des signaux qu’on peut vraiment suivre.
+            </p>
+          </div>
+          <div class="family-grid">
+            {launchSignals.map((signal) => (
+              <article class="family-card">
+                <p class="family-label">{signal.kicker}</p>
+                <h3>{signal.title}</h3>
+                <p>{signal.description}</p>
+                <div class="source-links" aria-label={`Sources pour ${signal.title}`}>
+                  {signal.sources.map((source) => (
+                    <a href={source.href} target="_blank" rel="noopener noreferrer">
+                      {source.label}
+                    </a>
+                  ))}
+                </div>
+                <p class="family-cta-row">
+                  <a href={getParcoursRoute(signal.pathId)}>Ouvrir ce parcours →</a>
+                </p>
+              </article>
+            ))}
+          </div>
+        </section>
+      )}
+
       <section class="spotlight-section bg-white-soft dark:bg-black">
         <div class="section-heading">
-          <p class="section-kicker">PORTES D'ENTREE</p>
+          <p class="section-kicker">PORTES D'ENTRÉE</p>
           <h2 class="section-title poppins">Quatre démarrages simples si tu ne sais pas encore quoi ouvrir</h2>
+          <p class="section-copy">
+            Si tu hésites encore, pars de la logique que tu veux tester : service, audience, produit ou revenu d’appoint.
+          </p>
         </div>
         <div class="spotlight-grid">
           {spotlights.map((entry) => (
@@ -103,9 +144,9 @@ const spotlights = [
       <section class="families-section bg-yellow-soft dark:bg-purple-darker">
         <div class="section-heading">
           <p class="section-kicker">GRANDES FAMILLES</p>
-          <h2 class="section-title poppins">Le quiz pense en familles. Les parcours détaillent les sous-profils.</h2>
+          <h2 class="section-title poppins">Commence par une grande logique, puis ouvre le parcours qui va avec.</h2>
           <p class="section-copy">
-            Commence par une famille business claire, puis affine avec un sous-profil concret. C'est plus lisible, et ça évite de te noyer dans un catalogue de métiers dès la première page.
+            Ce n’est pas une encyclopédie. C’est un point de départ lisible pour choisir sans te noyer dès la première page.
           </p>
         </div>
         <div class="family-grid">
@@ -124,7 +165,10 @@ const spotlights = [
       <section class="filters-section bg-purple-light dark:bg-purple-dark">
         <div class="section-heading">
           <p class="section-kicker">FILTRES</p>
-          <h2 class="section-title poppins">Affiche seulement les parcours pertinents</h2>
+          <h2 class="section-title poppins">Resserre encore si tu hésites</h2>
+          <p class="section-copy">
+            Cherche par mot-clé, niveau ou catégorie pour couper le bruit et garder seulement les parcours qui collent à ton point de départ.
+          </p>
         </div>
         <div class="filters-toolbar">
           <label class="filter-field">
@@ -132,7 +176,7 @@ const spotlights = [
             <input
               id="path-search"
               type="search"
-              placeholder="freelance, ecommerce, seo, contenu..."
+              placeholder="freelance, e-commerce, SEO, contenu..."
               autocomplete="off"
             />
           </label>
@@ -201,6 +245,7 @@ const spotlights = [
   .hero-stats,
   .spotlight-grid,
   .filters-toolbar,
+  .source-links,
   .paths-grid {
     display: grid;
     gap: 1rem;
@@ -314,6 +359,34 @@ const spotlights = [
     font-size: 0.9rem;
   }
 
+  .source-links {
+    grid-template-columns: repeat(auto-fit, minmax(110px, max-content));
+    gap: 0.55rem;
+  }
+
+  .source-links a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 2.2rem;
+    padding: 0.35rem 0.7rem;
+    border: 2px solid var(--brand-black);
+    background: rgb(255 255 255 / 0.75);
+    color: inherit;
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .family-cta-row {
+    margin: 0;
+  }
+
+  .family-cta-row a {
+    font-weight: 700;
+    color: inherit;
+  }
+
   .filters-toolbar {
     grid-template-columns: minmax(0, 1fr) 240px;
     margin-bottom: 1rem;
@@ -423,6 +496,11 @@ const spotlights = [
     border-color: var(--brand-cream);
     background: rgb(11 11 11 / 0.9);
     box-shadow: 6px 6px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .source-links a {
+    border-color: var(--brand-cream);
+    background: rgb(255 255 255 / 0.04);
   }
 
   :global(.dark) .filter-field input,

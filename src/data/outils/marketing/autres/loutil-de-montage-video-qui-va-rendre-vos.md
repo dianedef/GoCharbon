@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: L'Outil De Montage Vidéo Qui Va Rendre Vos Concurrents Fous De Jalousie
 author: Diane
-description: 'Découvre L''Outil De Montage Vidéo Qui Va Rendre Vos Concurrents Fous
-  De Jalousie : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Outil De Montage Vidéo Qui Va Rendre Vos Concurrents Fous De Jalousie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

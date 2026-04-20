@@ -9,8 +9,7 @@ tags:
 - Outils
 title: La Technique Marketing Ia Qui Va Faire Exploser Votre Audience En 24H
 author: Diane
-description: 'Découvre La Technique Marketing Ia Qui Va Faire Exploser Votre Audience
-  En 24H : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Technique Marketing Ia Qui Va Faire Exploser Votre Audience En 24H."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

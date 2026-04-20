@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: AI Content Creator
+title: Créateur de contenu assisté par IA
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Crée du contenu avec l''IA : outils, techniques et monétisation pour
-  les créateurs qui veulent scaler leur production.'
+description: 'Utilise l''IA pour produire plus vite sans transformer ton contenu en
+  bouillie générique.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# AI Content Creator
+# Créateur de contenu assisté par IA
 
 ## Description en une phrase
 

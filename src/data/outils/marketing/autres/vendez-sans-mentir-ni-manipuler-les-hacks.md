@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Vendez Sans Mentir Ni Manipuler Les Hacks Éthiques Qui Cartonnent
 author: Diane
-description: 'Découvre Vendez Sans Mentir Ni Manipuler Les Hacks Éthiques Qui Cartonnent
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Vendez Sans Mentir Ni Manipuler Les Hacks Éthiques Qui Cartonnent."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

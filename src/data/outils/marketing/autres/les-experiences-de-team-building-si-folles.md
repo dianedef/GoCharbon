@@ -6,9 +6,7 @@ tags:
 title: Les Expériences De Team Building Si Folles Qu'Elles Vont Souder Votre Équipe
   Pour Toujours
 author: Diane
-description: 'Découvre Les Expériences De Team Building Si Folles Qu''Elles Vont Souder
-  Votre Équipe Pour Toujours : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "Les Expériences De Team Building Si Folles Qu'Elles Vont Souder Votre Équipe Pour Toujours."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

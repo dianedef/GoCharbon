@@ -10,9 +10,7 @@ u_site: null
 title: J'Ai Copié La Stratégie Facebook D'Un Marketeur À 996K€ Et Vous Ne Croirez
   Jamais Ce Qui S'Est Passé
 author: Diane
-description: 'Découvre J''Ai Copié La Stratégie Facebook D''Un Marketeur À 996K€ Et
-  Vous Ne Croirez Jamais Ce Qui S''Est Passé : outil français pour entrepreneurs,
-  fonctionnalités et avis.'
+description: "J'Ai Copié La Stratégie Facebook D'Un Marketeur À 996K€ Et Vous Ne Croirez Jamais Ce Qui S'Est Passé."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -44,7 +44,7 @@ Fournir des traductions spécialisées avec niveau qualité professionnel.
 - [Fiche profil Translation Services](/biz/profils/translation-services)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/translation-services)
+- [Suivi du parcours](/parcours/services-traduction)
 - [Ressource utile 1](/marketing/content-marketing)
 - [Ressource utile 2](/tutos/traduire-wordpress-en-2-minutes)
 - [Ressource utile 3](/tutos/comment-envoyer-des-emails-avec-wordpress)

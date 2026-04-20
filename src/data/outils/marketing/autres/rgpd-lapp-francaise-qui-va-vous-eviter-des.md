@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Rgpd L'App Française Qui Va Vous Éviter Des Millions D'Euros D'Amende
 author: Diane
-description: 'Découvre Rgpd L''App Française Qui Va Vous Éviter Des Millions D''Euros
-  D''Amende : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Rgpd L'App Française Qui Va Vous Éviter Des Millions D'Euros D'Amende."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

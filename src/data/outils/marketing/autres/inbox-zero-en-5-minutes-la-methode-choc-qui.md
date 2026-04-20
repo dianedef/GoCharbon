@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Inbox Zéro En 5 Minutes La Méthode Choc Qui Affole Les Pros
 author: Diane
-description: 'Découvre Inbox Zéro En 5 Minutes La Méthode Choc Qui Affole Les Pros
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Inbox Zéro En 5 Minutes La Méthode Choc Qui Affole Les Pros."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

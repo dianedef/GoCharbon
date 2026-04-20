@@ -6,8 +6,7 @@ tags:
 imageNameKey: null
 title: Les Secrets Du Marketing De Contenu Qui Vont Faire De Vous Une Star Du Web
 author: Diane
-description: 'Découvre Les Secrets Du Marketing De Contenu Qui Vont Faire De Vous
-  Une Star Du Web : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Secrets Du Marketing De Contenu Qui Vont Faire De Vous Une Star Du Web."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -7,8 +7,7 @@ toolCategoryPrimary: tech
 toolSubcategoryPrimary: no-code
 title: Oubliez Airtable 10 Alternatives Qui Vont Révolutionner Votre Productivité
 author: Diane
-description: 'Découvre Oubliez Airtable 10 Alternatives Qui Vont Révolutionner Votre
-  Productivité : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Oubliez Airtable 10 Alternatives Qui Vont Révolutionner Votre Productivité."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

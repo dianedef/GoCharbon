@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Le Hack Support Client Qui Va Vous Faire Gagner 20H Par Semaine
 author: Diane
-description: 'Découvre Le Hack Support Client Qui Va Vous Faire Gagner 20H Par Semaine
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Hack Support Client Qui Va Vous Faire Gagner 20H Par Semaine."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

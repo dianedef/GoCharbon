@@ -44,7 +44,7 @@ Construire des outils utiles avec boucle retours rapide et monétisation claire.
 - [Fiche profil App Developer](/biz/profils/app-developer)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/app-developer)
+- [Suivi du parcours](/parcours/developpeur-applications)
 - [Ressource utile 1](/biz/saas)
 - [Ressource utile 2](/tutos/deployer-un-serveur)
 - [Ressource utile 3](/tutos/comment-creer-un-serveur-de-preprod)

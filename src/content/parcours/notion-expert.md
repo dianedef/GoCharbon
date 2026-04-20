@@ -44,7 +44,7 @@ Vendre des systèmes Notion qui remplacent chaos opérationnel client.
 - [Fiche profil Notion Expert](/biz/profils/notion-expert)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/notion-expert)
+- [Suivi du parcours](/parcours/expert-notion)
 - [Ressource utile 1](/tutos/comment-creer-saas-avec-espace-membre-avec-notion)
 - [Ressource utile 2](/tutos/comment-creer-un-pdf-remplissalbe)
 - [Ressource utile 3](/marketing/tunnel/atelier)

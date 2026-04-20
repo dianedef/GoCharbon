@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: Stock Photography / Photographie et Vidéos Stock
+title: Vente de photos et vidéos de stock
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Vends tes photos en stock : plateformes, techniques et stratégies pour
-  photographes indépendants.'
+description: 'Monétiser une bibliothèque d''images et de vidéos de stock, avec un
+  vrai regard sur le volume et le rendement.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Stock Photography / Photographie et Vidéos Stock
+# Vente de photos et vidéos de stock
 
 ## Description en une phrase
 

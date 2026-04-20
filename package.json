@@ -13,7 +13,8 @@
   "scripts": {
     "dev": "astro dev --host 0.0.0.0 --port 3014",
     "start": "astro dev --host 0.0.0.0 --port 3014",
-    "build": "astro build",
+    "build": "PARCOURS_ONLY_BUILD=1 astro build",
+    "build:full": "astro build",
     "build:no-outils": "EXCLUDE_OUTILS_FROM_BUILD=1 astro build",
     "preview": "astro preview",
     "astro": "astro",

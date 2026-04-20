@@ -6,8 +6,7 @@ tags:
 noteID: 8cde8bc3-9697-43cf-8d7c-dcc53c0622ba
 title: Affiliation La Méthode Secrète Pour Gagner 10 000€ Par Mois Sans Rien Faire
 author: Diane
-description: 'Découvre Affiliation La Méthode Secrète Pour Gagner 10 000€ Par Mois
-  Sans Rien Faire : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Affiliation La Méthode Secrète Pour Gagner 10 000€ Par Mois Sans Rien Faire."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

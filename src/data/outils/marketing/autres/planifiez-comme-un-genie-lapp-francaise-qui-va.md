@@ -10,8 +10,7 @@ u_site: null
 title: Planifiez Comme Un Génie L'App Française Qui Va Révolutionner Votre Emploi
   Du Temps
 author: Diane
-description: 'Découvre Planifiez Comme Un Génie L''App Française Qui Va Révolutionner
-  Votre Emploi Du Temps : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Planifiez Comme Un Génie L'App Française Qui Va Révolutionner Votre Emploi Du Temps."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

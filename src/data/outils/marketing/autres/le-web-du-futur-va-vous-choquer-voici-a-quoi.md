@@ -6,8 +6,7 @@ tags:
 imageNameKey: null
 title: Le Web Du Futur Va Vous Choquer Voici À Quoi Ressembleront Vos Réseaux Sociaux
 author: Diane
-description: 'Découvre Le Web Du Futur Va Vous Choquer Voici À Quoi Ressembleront
-  Vos Réseaux Sociaux : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Web Du Futur Va Vous Choquer Voici À Quoi Ressembleront Vos Réseaux Sociaux."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

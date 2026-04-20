@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Ne Vous Faites Plus Avoir 5 Astuces Choc Pour Repérer Un Site Web Frauduleux
 author: Diane
-description: 'Découvre Ne Vous Faites Plus Avoir 5 Astuces Choc Pour Repérer Un Site
-  Web Frauduleux : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Ne Vous Faites Plus Avoir 5 Astuces Choc Pour Repérer Un Site Web Frauduleux."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

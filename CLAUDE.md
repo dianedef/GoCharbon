@@ -36,7 +36,8 @@ For entrepreneurial vision content aimed at readers, keep using [`src/data/_visi
 
 ```bash
 pnpm dev          # Start dev server at http://localhost:3000 (network-accessible)
-pnpm build        # Build static site to ./dist/
+pnpm build        # Build the current launch perimeter (homepage + 5 launch parcours + legal pages) to ./dist/
+pnpm build:full   # Build the full site to ./dist/
 pnpm preview      # Preview production build locally
 ```
 

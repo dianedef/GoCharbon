@@ -6,8 +6,7 @@ tags:
 imageNameKey: saas-deces
 title: Services Pour Les Morts Le Business Macabre Qui Rapporte Des Millions
 author: Diane
-description: 'Découvre Services Pour Les Morts Le Business Macabre Qui Rapporte Des
-  Millions : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Services Pour Les Morts Le Business Macabre Qui Rapporte Des Millions."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

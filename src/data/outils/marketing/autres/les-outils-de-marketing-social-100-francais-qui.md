@@ -7,8 +7,7 @@ tags:
 - Outils
 title: Les Outils De Marketing Social 100% Français Qui Font Trembler Facebook
 author: Diane
-description: 'Découvre Les Outils De Marketing Social 100% Français Qui Font Trembler
-  Facebook : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Outils De Marketing Social 100% Français Qui Font Trembler Facebook."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

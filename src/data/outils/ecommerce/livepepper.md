@@ -33,17 +33,17 @@ u_site: https://www.livepepper.fr
 
 # LivePepper
 
-## COMMANDE EN LIGNE : LA SOLUTION FRANÇAISE SANS COMMISSION POUR LES RESTAURATEURS QUI VEULENT GARDER LEUR MARGE
+# COMMANDE EN LIGNE : LA SOLUTION FRANÇAISE SANS COMMISSION POUR LES RESTAURATEURS QUI VEULENT GARDER LEUR MARGE
 
-### tl;dr
+## tl;dr
 
 LivePepper est une solution de commande en ligne française spécialisée pour la restauration, basée à **Sophia Antipolis** (06). Le principe est simple : tu gardes **0% de commission** sur les commandes — contrairement aux plateformes type Uber Eats ou Deliveroo qui prennent 25-30%. L'outil couvre le click & collect, la livraison (avec intégration **Uber Direct**), les bornes de commande et l'application mobile. **12 millions de commandes** passées sur la plateforme, **400 millions d'euros** de transactions traitées. Support 7j/7. Équipe d'une vingtaine de personnes. Présent en France, UK, Italie, Australie. Dès **59€/mois** avec essai gratuit 30 jours.
 
-### Alternative à
+## Alternative à
 
 Innovorder (commande en ligne intégrée à une suite caisse complète), Deliveroo/Uber Eats (marketplaces avec 25-30% de commission), Zelty, SumUp (ex-Tiller). LivePepper se distingue par son **modèle 0% commission**, son positionnement 100% commande en ligne (pas de caisse POS), et sa spécialisation multi-sites pour chaînes et franchises.
 
-## Bénéfices
+# Bénéfices
 
 **0% commission — tu gardes ta marge** — C'est l'argument massue. Sur Uber Eats, un restaurant perd 25-30% par commande. Sur LivePepper, tu paies un abonnement fixe et c'est tout. Sur un restaurant qui fait 10 000€/mois de commandes en ligne, c'est 2 500 à 3 000€ de marge récupérée.
 
@@ -55,7 +55,7 @@ Innovorder (commande en ligne intégrée à une suite caisse complète), Deliver
 
 **Uber Direct intégré** — Tu gardes tes propres commandes (0% commission) mais tu utilises les livreurs Uber pour la livraison. Le meilleur des deux mondes.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Restaurants indépendants (traditionnel, fast-food, pizzeria, sushi, kebab, traiteur, boulangerie)
 - Chaînes et franchises de restauration (2 à 100+ points de vente)
@@ -63,9 +63,9 @@ Innovorder (commande en ligne intégrée à une suite caisse complète), Deliver
 - Food trucks (gestion de points de retrait mobiles)
 - Toute spécialité culinaire — pizzas, burgers, sushis, tacos, couscous, cuisine indienne, asiatique
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Commande en Ligne & Click & Collect
+## Commande en Ligne & Click & Collect
 
 - **Site optimisé mobile et tablette** — Responsive, pas d'app à télécharger pour le client
 - **Hébergement nom de domaine** — Inclus dans l'abonnement
@@ -75,24 +75,24 @@ Innovorder (commande en ligne intégrée à une suite caisse complète), Deliver
 - **Coupons, formules, promotions** — Affichage des économies réalisées
 - **Mode urgence** — Désactivation rapide en cas de rush
 
-### Livraison
+## Livraison
 
 - **Zones de livraison paramétrables** — Intégration Google Maps
 - **Uber Direct** — Livraison via les livreurs Uber, sans passer par la marketplace
 - **Gestion des flux** — Contrôle du volume de commandes par créneau
 
-### Bornes de Commande
+## Bornes de Commande
 
 - **Self-service en restaurant** — Les clients commandent et paient en autonomie
 - **Complémentaire au site** — Même menu, mêmes promos, synchronisé
 
-### Application Mobile
+## Application Mobile
 
 - **App native** — Disponible en formule Premium
 - **Notifications push** — Relance et fidélisation
 - **Frais de mise en place supplémentaires** — Sur devis
 
-### Fidélité et Marketing
+## Fidélité et Marketing
 
 - **Programme de fidélité** — Intégré (formule Expert+)
 - **Programme de parrainage** — Acquisition organique
@@ -100,7 +100,7 @@ Innovorder (commande en ligne intégrée à une suite caisse complète), Deliver
 - **Newsletter en page d'accueil** — Capture d'emails
 - **Vente additionnelle** — Suggestions automatiques
 
-### Backoffice
+## Backoffice
 
 - **Gestion des commandes** — Outil dédié, temps réel
 - **Rapports & statistiques** — Suivi du CA, panier moyen, produits phares
@@ -108,13 +108,13 @@ Innovorder (commande en ligne intégrée à une suite caisse complète), Deliver
 - **Multi-sites centralisé** — Vue globale ou par point de vente
 - **Accès autonome au contenu** — Tu gères tes menus toi-même
 
-### Paiement
+## Paiement
 
 - **Stripe** — CB, Apple Pay, Google Pay
 - **PayPal** — Optionnel
 - **Edenred** — Tickets restaurant dématérialisés (formule Expert+)
 
-## Prix
+# Prix
 
 | Plan | Positionnement | À partir de | Engagement | Inclus |
 |------|----------------|-------------|------------|--------|
@@ -128,7 +128,7 @@ Innovorder (commande en ligne intégrée à une suite caisse complète), Deliver
 - **Tarif préférentiel** dès le 5ème point de vente
 - Services optionnels : support premium, site sur-mesure, intégration POS, Uber Direct, site multilingue, saisie du menu
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **Siège** : Sophia Antipolis (1681 route des Dolines, 06560), technopole de la Côte d'Azur
 - **Équipe** : ~20 personnes (développement, commercial, support)
@@ -139,7 +139,7 @@ Innovorder (commande en ligne intégrée à une suite caisse complète), Deliver
 - **Clients notables** : Speedy Pizz & Co (10+ ans de collaboration), Yard Sale Pizza (UK), Fourno's Paris Montparnasse
 - **Avis Google** : retours très positifs, équipe décrite comme "très pro", "très réactive", "impliquée"
 
-## Points Forts
+# Points Forts
 
 - 0% commission — modèle économique radicalement différent des marketplaces (2 500-3 000€/mois d'économie pour un restaurant à 10K de commandes en ligne)
 - Entreprise française, basée à Sophia Antipolis — support en français, équipe locale
@@ -151,7 +151,7 @@ Innovorder (commande en ligne intégrée à une suite caisse complète), Deliver
 - Support 7j/7 inclus
 - International (5 pays) — rare pour une solution française de cette taille
 
-## Points Faibles
+# Points Faibles
 
 - Pas de caisse enregistreuse (POS) — LivePepper est 100% commande en ligne, il faut un autre outil pour l'encaissement en salle (Innovorder, Cashpad, L'Addition)
 - Tarifs Expert et Premium non affichés publiquement — il faut demander un devis

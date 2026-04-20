@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Boostez Votre Créativité X1000 La Technique Secrète Des Génies Enfin Révélée
 author: Diane
-description: 'Découvre Boostez Votre Créativité X1000 La Technique Secrète Des Génies
-  Enfin Révélée : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Boostez Votre Créativité X1000 La Technique Secrète Des Génies Enfin Révélée."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

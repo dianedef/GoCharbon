@@ -6,8 +6,7 @@ tags:
 imageNameKey: null
 title: L'App De Prise De Notes Qui Va Transformer Votre Cerveau En Superordinateur
 author: Diane
-description: 'Découvre L''App De Prise De Notes Qui Va Transformer Votre Cerveau En
-  Superordinateur : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'App De Prise De Notes Qui Va Transformer Votre Cerveau En Superordinateur."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

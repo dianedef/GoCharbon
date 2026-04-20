@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Manipulez Subtilement Vos Clients Avec Ces Astuces De Biais Cognitifs Choc
 author: Diane
-description: 'Découvre Manipulez Subtilement Vos Clients Avec Ces Astuces De Biais
-  Cognitifs Choc : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Manipulez Subtilement Vos Clients Avec Ces Astuces De Biais Cognitifs Choc."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

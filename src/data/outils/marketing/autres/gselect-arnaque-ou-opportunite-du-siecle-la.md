@@ -10,8 +10,7 @@ u_site: null
 url_lienExterne: https://webinde.fr/gselect-assurances-arnaque-ou-opportunite/
 title: Gselect Arnaque Ou Opportunité Du Siècle La Vérité Enfin Révélée
 author: Diane
-description: 'Découvre Gselect Arnaque Ou Opportunité Du Siècle La Vérité Enfin Révélée
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Gselect Arnaque Ou Opportunité Du Siècle La Vérité Enfin Révélée."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

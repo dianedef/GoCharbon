@@ -1,171 +1,41 @@
 ---
 section: blog
-title: CRO (Conversion Rate Optimization)
+title: "CRO : améliorer la conversion sans bricoler au hasard"
 author: Diane
 tags:
 - Marketing
-description: Guide complet sur l'optimisation du taux de conversion
+description: Une approche CRO concrète pour identifier les frictions, prioriser les
+  améliorations et augmenter la conversion.
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
+# CRO : améliorer la conversion sans bricoler au hasard
 
-# Conversion Rate Optimization
+Le CRO, ou optimisation du taux de conversion, ne consiste pas à ajouter des pop-ups, des compteurs ou des astuces psychologiques douteuses. Il consiste à rendre le passage à l'action plus simple, plus crédible et plus fluide.
 
-## Fondamentaux du CRO
+## Ce qu'il faut observer
 
-### Principes de Base
-- Définition conversion
-- Parcours utilisateur
-- Points de friction
-- Optimisation continue
+- pages les plus vues ;
+- zones de décrochage ;
+- taux de clic vers l'offre ;
+- abandon de formulaire ;
+- objections récurrentes.
 
-### Méthodologie CRO
-1. **Analyse**
-   - Data quantitative
-   - Data qualitative
-   - Comportement utilisateur
-   - Points bloquants
+## Les leviers qui ont le plus d'impact
 
-2. **Hypothèses**
-   - Identification problèmes
-   - Solutions potentielles
-   - Priorisation
-   - Plan d'action
+- clarté de la promesse ;
+- lisibilité du parcours ;
+- qualité de la preuve ;
+- réduction des frictions ;
+- meilleure activation après conversion.
 
-3. **Tests**
-   - A/B testing
-   - Tests multivariés
-   - Tests utilisateurs
-   - Prototypage
+## Une méthode simple
 
-## Analyse Comportementale
+1. Regarde les données.
+2. Complète avec du qualitatif.
+3. Hiérarchise les problèmes.
+4. Corrige les plus coûteux.
+5. Mesure avant et après.
 
-### Outils d'Analyse
-- Analytics
-- Heatmaps
-- Session recording
-- Form analytics
-- Surveys
-- User testing
-
-### Points d'Attention
-1. **Parcours Client**
-   - Entry points
-   - Navigation
-   - Micro-conversions
-   - Exit points
-
-2. **Friction Points**
-   - Abandons
-   - Erreurs
-   - Confusion
-   - Hésitation
-
-## Optimisation
-
-### Éléments Clés
-1. **UX Design**
-   - Navigation
-   - Layout
-   - Mobile-first
-   - Accessibilité
-
-2. **Content**
-   - Value proposition
-   - Copy
-   - Images
-   - Vidéos
-
-3. **Trust**
-   - Social proof
-   - Reviews
-   - Security
-   - Guarantees
-
-4. **Technical**
-   - Speed
-   - Performance
-   - Forms
-   - Checkout
-
-## Stratégies CRO
-
-### E-commerce
-- Product pages
-- Cart optimization
-- Checkout flow
-- Cross-selling
-- Upselling
-- Recovery
-
-### Lead Generation
-- Landing pages
-- Forms
-- Call-to-action
-- Value proposition
-- Trust building
-- Nurturing
-
-## Mesure et Analytics
-
-### KPIs
-- Conversion rate
-- Revenue per visitor
-- Average order value
-- Cart abandonment
-- Form completion
-- Bounce rate
-
-### Segmentation
-- Traffic sources
-- Devices
-- User types
-- Geography
-- Behavior
-- Demographics
-
-## Implementation
-
-### Process
-1. **Research**
-   - Data analysis
-   - User research
-   - Competitor analysis
-   - Market research
-
-2. **Planning**
-   - Test prioritization
-   - Resource allocation
-   - Timeline
-   - Budget
-
-3. **Execution**
-   - Test deployment
-   - Monitoring
-   - Optimization
-   - Documentation
-
-## Best Practices
-
-### Méthodologie
-- Data-driven
-- User-centric
-- Itératif
-- Scalable
-
-### Organisation
-- Team structure
-- Workflows
-- Documentation
-- Knowledge sharing
-
-## Pour aller plus loin
-
-Les tests utilisateurs ne servent pas seulement à améliorer un produit. Pour certains profils, c'est aussi une activité annexe rémunérée. Si tu veux voir ce sujet sous l'angle revenu et plateformes :
-
-- [Tests utilisateurs rémunérés : ce que ça vaut vraiment](/biz/business-mobile/tests-remuneres)
-- [Comparatif des plateformes de tests rémunérés](/biz/business-mobile/comparatif-plateformes-tests-remuneres)
-- [Profil Testeur Utilisateur / Crowdtester](/biz/profils/testeur-utilisateur)
-
-[Découvrir l'UX Design →](/marketing/optimisation/ux) 
+Le CRO n'est pas un art occulte. C'est du bon sens rigoureux appliqué au parcours client.

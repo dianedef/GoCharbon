@@ -1,222 +1,148 @@
 ---
 section: blog
-title: Display Advertising
+title: 'Display : à quoi ça sert encore en 2026 ?'
 author: Diane
 tags:
 - Marketing
-description: Maîtrisez la publicité display pour augmenter votre visibilité
-pubDate: '2024-03-25'
+description: Ce que le display fait encore très bien, quand l’utiliser, et pourquoi il vaut mieux l’aborder comme un levier de répétition et de retargeting.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# DISPLAY ADVERTISING : L'ART DE SE MONTRER AU BON ENDROIT
+# Display : à quoi ça sert encore en 2026 ?
 
-La publicite display, c'est le panneau d'affichage du web. Sauf qu'au lieu de payer pour un emplacement fixe sur l'autoroute, tu paies pour apparaitre devant exactement les bonnes personnes, au bon moment, sur les bons sites. C'est le canal publicitaire le plus ancien du web (la première bannière date de 1994), et il reste redoutablement efficace quand il est bien utilise.
+Le display a mauvaise presse. Beaucoup l’imaginent comme un vieux canal de bannières ignorées par tout le monde. Ce n’est pas totalement faux. Mais ce n’est pas toute l’histoire.
 
----
+Le display n’est plus le canal miracle qu’on pousse à froid avec trois JPEG et un budget mou. En revanche, il reste très utile pour :
 
-## Qu'est-ce que la publicite display ?
+- le retargeting
+- la répétition de marque
+- certaines campagnes programmatiques
+- le soutien d’un tunnel d’acquisition déjà en place
 
-La publicite display, ce sont toutes les publicités visuelles qui apparaissent sur des sites web, applications ou plateformes tierces. Contrairement au Search (Google Ads texte), ou l'utilisateur cherche activement quelque chose, le display va *vers* l'utilisateur pendant qu'il navigue.
+L’[IAB Europe](https://iabeurope.eu/knowledge_hub/iab-europe-adex-benchmark-2024-report/) montre d’ailleurs que le display continue de croître, notamment tiré par la vidéo et la TV connectée. Donc non, le canal n’est pas mort. Il a juste changé de rôle.
 
-En chiffres :
-- **Le marche mondial du display** represente 250 milliards de dollars en 2025
-- **Le Google Display Network** touche 90% des utilisateurs d'internet dans le monde, sur plus de 2 millions de sites
-- **Le display programmatique** represente 85% des dépenses display totales
-- **Le retargeting display** a un taux de conversion 10 fois superieur au display classique
+## Le display n’est pas du search
 
-Le display n'est pas un canal de conversion directe pour la plupart des business. C'est un canal de notoriete, de rappel et de retargeting. Et c'est la ou il excelle.
+C’est la première chose à accepter.
 
----
+En search, tu captes une intention. En display, tu interviens pendant que la personne lit, regarde ou navigue ailleurs. Le niveau de chaleur n’est pas le même.
 
-## Les formats display
+Donc si tu attends du display les mêmes conversions qu’une requête “acheter CRM maintenant”, tu vas te raconter des histoires.
 
-### Bannieres statiques
+## Les cas où le display reste très utile
 
-Le format historique. Une image fixe avec un message et un CTA. Simple, rapide a creer, mais de plus en plus ignore par les utilisateurs (le fameux "banner blindness").
+### Retargeting
 
-Tailles IAB standard les plus performantes :
-- **300x250** (Medium Rectangle) : le plus universel, fonctionne partout
-- **728x90** (Leaderboard) : en haut de page, forte visibilite
-- **160x600** (Wide Skyscraper) : dans les sidebars, bon pour le retargeting
-- **320x50** (Mobile Banner) : le format mobile de base
-- **300x600** (Half Page) : grand impact visuel, taux d'engagement superieur de 40% vs. formats standards
+C’est son terrain le plus évident.
 
-### Bannieres animees (HTML5 / GIF)
+Tu rappelles ton offre à quelqu’un qui a déjà :
+- visité une page produit
+- abandonné un panier
+- consulté une offre
+- commencé un formulaire
 
-Le mouvement capte l'oeil. Les bannieres animees ont un CTR 15 a 30% superieur aux statiques. Le format HTML5 a remplace Flash depuis 2017 et permet des animations fluides, interactives et legeres.
+Là, le display sert de rappel. Et ce rôle-là reste puissant.
 
-**Bonnes pratiques** :
-- Animation de 15 secondes maximum, 3 boucles max
-- Le message principal doit être visible des la première seconde
-- Le CTA doit être present à la fin de l'animation
-- Poids maximum : 150 Ko (Google Ads)
+### Répétition de marque
 
-### Rich media
+Quand quelqu’un t’a déjà vu sur Meta, Google, YouTube, newsletter ou contenu, le display peut renforcer la mémorisation.
 
-Les formats interactifs qui depassent la simple image : vidéo integrée, galeries, mini-jeux, formulaires dans la bannière. Plus couteux a produire mais taux d'engagement 2 a 3 fois superieur.
+### Programmatique ciblé
 
-Exemples :
-- **Expandable ads** : la bannière s'agrandit au survol ou au clic
-- **Lightbox ads** : la pub prend tout l'ecran quand l'utilisateur interagit
-- **In-banner vidéo** : une vidéo joue directement dans l'espace bannière
+Si tu disposes d’un vrai ciblage contextuel, comportemental ou compte-based, le display peut encore être très intéressant. Mais ce n’est pas le premier chantier d’un solo entrepreneur.
 
-### Publicite native (native ads)
+## Les formats qui comptent encore
 
-Des publicités qui prennent la forme du contenu du site ou elles apparaissent. Articles sponsorises, recommandations de contenu, flux "Vous pourriez aimer". Le CTR des native ads est 8 fois superieur aux bannieres classiques (Sharethrough/IPG).
+- bannière statique simple
+- responsive display ads
+- vidéo in-banner
+- formats natifs
 
-Plateformes principales : Taboola, Outbrain, MGID.
+Dans les petits comptes, le responsive et le retargeting bien tenus battent souvent les idées trop sophistiquées.
 
-### Vidéo display
+## Ce qui rend le display rentable
 
-Des publicités vidéo diffusees hors des plateformes vidéo (YouTube). Elles apparaissent dans des articles, des flux de contenu ou en pre-roll sur des sites d'editeurs. Les vidéos de 6 a 15 secondes sont les plus performantes.
+Pas la bannière seule. Le système.
 
-### Interstitiels
+Tu as plus de chances de rentabiliser le display si :
 
-Des publicités plein ecran qui s'affichent entre deux pages ou deux contenus. Très intrusifs mais très performants : taux de conversion 2 a 5 fois superieur aux bannieres classiques. A utiliser avec moderation pour ne pas degrader l'expérience utilisateur.
+- ton trafic amont est déjà qualifié
+- ton message est cohérent d’un canal à l’autre
+- ta fréquence est contrôlée
+- tu exclus les convertis
+- tu mesures plus intelligemment que le last click
 
----
+## Le piège du last click
 
-## Les réseaux display
+Le display souffre souvent d’une lecture injuste.
 
-### Google Display Network (GDN)
+Quelqu’un voit ta bannière, ne clique pas, puis revient plus tard via une recherche de marque ou un accès direct. En attribution last click, tout le mérite part ailleurs.
 
-Le plus grand réseau display au monde. Tes annonces apparaissent sur Gmail, YouTube, des millions de sites partenaires et des applications.
+Ça ne veut pas dire que le display a tout fait. Ça veut dire qu’il intervient souvent dans une séquence plus large.
 
-**Ciblage disponible** :
-- Par mots-clés contextuels (ta pub apparait a cote de contenu pertinent)
-- Par audience (centres d'intérêt, intentions d'achat, audiences personnalisees)
-- Par emplacement (tu choisis les sites specifiques)
-- Par remarketing (visiteurs de ton site)
-- Par donnees demographiques (age, sexe, revenus)
+## Quand je déconseille de commencer par le display
 
-**Budget minimum** recommande : 10 a 20 euros/jour pour commencer a avoir des donnees significatives.
+Je le déconseille si :
 
-### Criteo
+- tu n’as presque pas de trafic
+- tu n’as pas encore validé ton message principal
+- tu n’as pas de tracking propre
+- ton budget de test est très serré
 
-Le leader europeen du retargeting. Criteo utilise l'IA pour afficher des bannieres personnalisees avec les produits que l'utilisateur a consultes sur ton site. Particulierement efficace pour l'e-commerce avec un ROAS moyen de 13:1 selon leurs donnees.
+Dans ce cas, tu apprendras souvent plus avec Google Ads ou Meta Ads.
 
-### Amazon DSP
+## Ce qui fait une bonne bannière
 
-La plateforme display d'Amazon. Intérêt unique : tu peux cibler les utilisateurs en fonction de leurs achats et recherches sur Amazon, même sur des sites tiers. Puissant pour l'e-commerce.
+Une bonne bannière ne raconte pas toute l’entreprise. Elle fait juste assez pour mériter un second regard.
 
-### Meta Audience Network
+Principes simples :
 
-Les publicités Meta (Facebook/Instagram) diffusees sur des apps et sites tiers. Même ciblage que Meta Ads, mais portee etendue.
+- une promesse unique
+- un visuel lisible
+- un CTA visible
+- un branding net mais pas envahissant
+- peu de texte
 
----
+Si tu essaies de caser un mini site web dans `300x250`, tu as déjà perdu.
 
-## Le programmatique : la revolution de l'achat display
+## La fréquence compte énormément
 
-### Comment ca marche
+Le display devient vite pénible quand la pression est mal gérée.
 
-Le programmatique, c'est l'achat automatise d'espaces publicitaires en temps reel. Quand un utilisateur charge une page web, une enchere se joue en quelques millisecondes pour determiner quelle publicite il verra. Ce processus s'appelle le RTB (Real-Time Bidding).
+Règle pratique :
+- limite la répétition
+- segmente selon le comportement
+- retire les convertis
 
-**La chaîne programmatique** :
-1. **DSP** (Demand-Side Platform) : la ou tu configures tes campagnes (DV360, The Trade Desk, MediaMath)
-2. **Ad Exchange** : la place de marche ou les encheres se deroulent (Google Ad Exchange, AppNexus)
-3. **SSP** (Supply-Side Platform) : la ou les editeurs mettent leur inventaire en vente (Google Ad Manager, PubMatic)
+Sinon tu transformes un rappel utile en harcèlement médiocre.
 
-### Pourquoi le programmatique domine
+## Ce que je ferais avec un petit budget
 
-- **Precision du ciblage** : donnees comportementales, contextuelles et demographiques combinees
-- **Optimisation en temps reel** : l'algorithme ajuste les encheres automatiquement
-- **Echelle** : acces a des milliards d'impressions en un clic
-- **Transparence** : tu vois exactement ou tes pubs apparaissent (si tu utilises les bons outils)
+Je ne ferais pas une grosse campagne de prospection display “par principe”.
 
-### Les coûts
+Je ferais plutôt :
 
-Le CPM moyen en programmatique en France :
-- Display classique : 1 a 5 euros
-- Vidéo : 10 a 25 euros
-- Native : 5 a 15 euros
-- Rich media : 8 a 20 euros
+1. acquisition sur Google ou Meta
+2. retargeting display léger
+3. mesure multi-canal minimale
+4. nettoyage des placements
 
----
+Le display devient intéressant quand il travaille **avec** le reste du système, pas quand il essaie de tout faire seul.
 
-## Le retargeting : ton meilleur allie en display
+## En bref
 
-Le retargeting (ou remarketing), c'est l'art de re-montrer ta pub aux personnes qui ont déjà interagi avec ta marque. C'est le format display le plus rentable, et de loin.
+Le display ne sert pas à tout. Mais il sert encore très bien à certaines choses :
 
-### Les types de retargeting
+- rappeler
+- répéter
+- soutenir
+- recibler
 
-**Retargeting site** : cibler les visiteurs de ton site qui n'ont pas converti. Segmente par comportement :
-- A visite la page produit mais pas ajoute au panier
-- A ajoute au panier mais pas achete
-- A achete mais pas depuis 30 jours
+Si tu l’utilises comme un canal de rappel intelligent, il peut être très rentable. Si tu l’utilises comme une machine à clics miracles, il te décevra vite.
 
-**Retargeting dynamique** : des bannieres générées automatiquement avec les produits que l'utilisateur a consultes. Un must en e-commerce. Criteo, Google et Meta le proposent.
+Pour la partie plus technique :
 
-**Retargeting cross-device** : l'utilisateur a consulte ton site sur mobile, tu lui montres ta pub sur desktop. Google et Meta excellent ici grâce à leurs donnees de connexion.
-
-### Les règles d'or du retargeting
-
-1. **Limite la frequence** : 3 a 5 impressions par utilisateur par semaine. Au-dela, c'est du harcelement publicitaire
-2. **Exclus les convertis** : rien de plus agacant que voir la pub d'un produit qu'on vient d'acheter
-3. **Segmente tes audiences** : un visiteur de page d'accueil et un abandonneur de panier ne recoivent pas le même message
-4. **Mets une durée de vie** : après 30-60 jours sans retour, l'utilisateur est probablement passe a autre chose
-
----
-
-## Creer des bannieres qui performent
-
-### Les principes visuels
-
-- **Un message, un visuel, un CTA.** Pas plus. L'espace est limite, la clarte est reine.
-- **Contraste fort** entre le texte et l'arriere-plan. Le CTA doit sauter aux yeux.
-- **Logo visible** mais pas dominant. La marque est presente, le message est central.
-- **Texte minimal** : 7 mots maximum pour le titre, 3 mots pour le CTA.
-
-### Les CTAs qui fonctionnent
-
-| CTA | Taux de clic relatif |
-|-----|---------------------|
-| "Decouvrir" | Baseline |
-| "Voir l'offre" | +15% |
-| "Essai gratuit" | +30% |
-| "-50% aujourd'hui" | +45% |
-| "Stock limite" | +50% |
-
-### Les outils de création
-
-- **Canva** : templates de bannieres aux tailles IAB standard, gratuit
-- **Google Web Designer** : création de bannieres HTML5 gratuitement
-- **Abyssale** : generation automatique de bannieres en lot (personnalisation dynamique)
-- **Creatopy** (ex Bannersnack) : editeur specialise bannieres animees, a partir de 17 euros/mois
-- **Figma** : si tu veux un contrôle total sur le design
-
----
-
-## Mesurer le ROI du display
-
-Le display se mesure differemment du search. Un utilisateur qui voit ta bannière ne clique pas forcement tout de suite, mais il se souvient de ta marque.
-
-### Les métriques essentielles
-
-- **CPM** : coût pour mille impressions. Ta metrique de reference en branding
-- **CTR** : taux de clic. Benchmark display : 0,1 a 0,3%. C'est bas, et c'est normal
-- **CPA** : coût par acquisition post-clic ou post-view
-- **View-through conversions** : les conversions qui ont lieu après avoir *vu* ta pub sans cliquer. Fenêtre typique : 1 a 7 jours
-- **Brand lift** : augmentation mesurable de la notoriete de marque (sondage avant/après)
-
-### Le piege du "last click"
-
-En attribution last-click, le display aura toujours l'air nul. L'utilisateur voit ta bannière, ne clique pas, puis cherche ton nom sur Google et achete. Le credit va a Google Search. C'est injuste et faux.
-
-Utilise un modele d'attribution multi-touch (data-driven dans GA4) pour voir la vraie contribution du display a tes ventes.
-
----
-
-## Checklist lancement campagne display
-
-- [ ] Objectif defini (notoriete, trafic, retargeting, conversion)
-- [ ] Bannieres creees aux 5 tailles principales (300x250, 728x90, 160x600, 320x50, 300x600)
-- [ ] Audiences configurees (prospection ET retargeting)
-- [ ] Frequency cap active (3-5 par semaine)
-- [ ] Liste d'exclusion de sites (sites de mauvaise qualité, apps pour enfants, contenu sensible)
-- [ ] Suivi des conversions installe (pixel + objectifs GA4)
-- [ ] Budget test alloue (minimum 300-500 euros pour tester)
-- [ ] Attribution multi-touch configuree
-- [ ] A/B test prevu (au moins 2 variantes de creative)
-
-Le display n'est pas mort -- il a evolue. Avec le bon ciblage, les bons formats et surtout une stratégie de retargeting bien huilée, c'est un pilier incontournable de ta stratégie d'acquisition.
+- [Display Ads : formats et specs](/marketing/ads/display-ads)
+- [Google Ads](/marketing/ads/google)
+- [Publicité en ligne](/marketing/ads/publicites)

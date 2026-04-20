@@ -5,8 +5,7 @@ tags:
 - Outils
 title: Les Apps De Notes Qui Vont Transformer Votre Cerveau En Superordinateur
 author: Diane
-description: 'Découvre Les Apps De Notes Qui Vont Transformer Votre Cerveau En Superordinateur
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Apps De Notes Qui Vont Transformer Votre Cerveau En Superordinateur."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

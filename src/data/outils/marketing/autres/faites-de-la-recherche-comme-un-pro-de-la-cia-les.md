@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Faites De La Recherche Comme Un Pro De La Cia Les Techniques Secrètes Dévoilées
 author: Diane
-description: 'Découvre Faites De La Recherche Comme Un Pro De La Cia Les Techniques
-  Secrètes Dévoilées : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Faites De La Recherche Comme Un Pro De La Cia Les Techniques Secrètes Dévoilées."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

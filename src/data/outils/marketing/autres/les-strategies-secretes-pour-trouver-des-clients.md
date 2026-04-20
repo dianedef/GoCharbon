@@ -12,8 +12,7 @@ tags:
 title: Les Stratégies Secrètes Pour Trouver Des Clients Qui Vous Supplient De Leur
   Vendre
 author: Diane
-description: 'Découvre Les Stratégies Secrètes Pour Trouver Des Clients Qui Vous Supplient
-  De Leur Vendre : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Stratégies Secrètes Pour Trouver Des Clients Qui Vous Supplient De Leur Vendre."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

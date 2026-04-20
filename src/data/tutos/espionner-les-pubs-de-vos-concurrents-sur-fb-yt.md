@@ -4,119 +4,68 @@ tags:
 - Tutoriels
 imageNameKey: null
 u_site: null
-title: Espionner Les Pubs De Vos Concurrents Sur Fb Yt
+title: Analyser les pubs de tes concurrents sur Facebook et YouTube
 author: Diane
-description: 'Découvre Espionner Les Pubs De Vos Concurrents Sur Fb Yt : outil français
-  pour entrepreneurs, fonctionnalités et avis.'
+description: Fais une veille publicitaire propre sur Meta et YouTube pour comprendre les offres, messages et formats qui dominent ton marché.
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Espionner Les Pubs De Tes Concurrents Sur Facebook et YouTube
+Tes concurrents dépensent déjà pour tester des messages. Ce serait dommage de ne pas regarder ce qu’ils laissent publiquement derrière eux.
 
-## VEILLE PUBLICITAIRE : LE RAYON X DE TES CONCURRENTS
+## Outil 1 : Meta Ad Library
 
-### tl;dr
+La bibliothèque publicitaire de Meta permet de consulter les annonces actives sur Facebook, Instagram et Messenger. Source : [Meta Help Center](https://www.facebook.com/help/259468828226154).
 
-Tes concurrents depensent des milliers d'euros en pubs. Bonne nouvelle : tu peux voir exactement ce qu'ils font, gratuitement. Meta Ad Library, YouTube Ad Transparency Center et quelques outils specialises te permettent d'analyser leurs visuels, leurs accroches, leurs audiences et leurs stratégies. Ce tuto te montre comment espionner intelligemment pour creer de meilleures campagnes.
+### Comment l’utiliser
 
----
+1. ouvre la bibliothèque ;
+2. choisis le pays ;
+3. recherche une marque ou une page ;
+4. observe les annonces actives.
 
-## Pourquoi surveiller les pubs de tes concurrents ?
+### Ce qu’il faut noter
 
-- **Gagner du temps** -- Ils ont déjà teste ce qui marche et ce qui ne marche pas
-- **Trouver l'inspiration** -- Voir les angles, les accroches et les visuels qui performent dans ton secteur
-- **Reperer les tendances** -- Si 3 concurrents lancent tous la même offre, c'est un signal
-- **Identifier les failles** -- Un angle que personne n'exploite = une opportunite pour toi
+- la promesse principale ;
+- le format dominant ;
+- les accroches des premières lignes ;
+- les CTA ;
+- la cohérence entre les variantes.
 
-## Methode 1 : Meta Ad Library (gratuit)
+## Outil 2 : Ads Transparency Center de Google
 
-C'est l'outil officiel de Meta. Il affiche TOUTES les pubs actives sur Facebook, Instagram et Messenger.
+Pour YouTube et l’écosystème Google, le centre de transparence publicitaire permet de voir les annonces associées à un annonceur. Source : [Google Ads Transparency Center](https://adstransparency.google.com/).
 
-**Comment l'utiliser :**
+Regarde surtout :
 
-1. Va sur la [Meta Ad Library](https://www.facebook.com/ads/library/) (anciennement Facebook Ad Library, renommee en même temps que le passage a Meta)
-2. Sélectionne le pays (France) et la categorie "Tous les contenus publicitaires"
-3. Tape le nom de la page de ton concurrent dans la barre de recherche
-4. Tu vois toutes leurs pubs actives avec : le visuel, le texte, la date de lancement, et les plateformes (FB, Insta, Messenger)
+- la répétition des messages ;
+- les créas vidéo récurrentes ;
+- les accroches textuelles ;
+- la durée de présence de certains formats.
 
-**Ce qu'il faut analyser :**
+## Méthode d’analyse utile
 
-- **Les pubs qui tournent depuis longtemps** -- Si une pub est active depuis 3+ mois, c'est qu'elle est rentable. Note l'angle et le format.
-- **Le nombre de variantes** -- S'ils testent 10 versions du même visuel, ils sont en phase de test A/B. Regarde laquelle survit le plus longtemps.
-- **Le type de contenu** -- Vidéo, carrousel, image statique ? Le format dominant dans ton secteur te donne un indice sur ce qui convertit.
-- **L'accroche** -- Les 2 premieres lignes du texte. C'est la ou se joue le clic. Collecte les meilleures.
+Crée un mini tableau avec :
 
-## Methode 2 : YouTube Ad Transparency Center (gratuit)
+- concurrent ;
+- offre poussée ;
+- angle ;
+- format ;
+- preuve utilisée ;
+- CTA ;
+- remarque.
 
-Google a lance son propre centre de transparence pour les pubs YouTube.
+Au bout de 15 à 20 pubs analysées, tu verras vite les motifs.
 
-1. Va sur [adstransparency.google.com](https://adstransparency.google.com)
-2. Cherche le nom de l'annonceur ou un mot-clé lie a ton secteur
-3. Tu vois les pubs diffusees, les formats utilises et les periodes d'activite
+## Ce qu’il faut faire ensuite
 
-**Astuce complementaire :** tape dans YouTube directement des mots-clés de ton secteur + "ad" ou "sponsored". Les pubs pre-roll de tes concurrents apparaissent parfois dans les resultats.
+Ne copie pas. Reformule.
 
-## Methode 3 : Outils de veille payants
+Cherche :
 
-Pour aller plus loin avec des donnees d'audience et de performance :
+- un angle plus honnête ;
+- une preuve plus forte ;
+- une offre plus claire ;
+- ou une audience mieux définie.
 
-**AdSpy** ([adspy.com](https://www.adspy.com), 149 $/mois, plan unique) :
-- Plus de 160 millions de pubs Facebook et Instagram dans la base de donnees, mise a jour quotidienne
-- Filtres par texte, URL, engagement, pays, langue, réseau d'affiliation, CTA, technologie de landing page
-- Tu peux voir les reactions, commentaires et partages de chaque pub
-- Recherches et telechargements illimites -- pas de plafond
-- Essai gratuit : 1 000 recherches + 2 000 vues de pubs pour tester
-- Ideal pour le dropshipping, l'e-commerce et l'affiliation
-
-**BigSpy** ([bigspy.com](https://bigspy.com), gratuit indefini, puis Pro a partir de 1 $ pour 3 jours d'essai) :
-- Couvre 10 plateformes : Facebook, Instagram, YouTube, TikTok, Pinterest, Twitter, AdMob, Unity et plus
-- Plus d'1 milliard de creatives dans la base de donnees
-- Version gratuite sans limite de temps (fonctionnalites basiques)
-- Bon point d'entree avant de passer a AdSpy
-- Utilise par plus de 1,2 million d'utilisateurs
-
-**Minea** ([minea.com](https://www.minea.com), a partir de 49 EUR/mois) :
-- Outil français specialise e-commerce, utilise par 200 000+ entrepreneurs
-- Trois plans : Starter (49 EUR/mois, 10 000 credits), Premium (99 EUR/mois, 100 000 credits), Business (399 EUR/mois, 150 000 credits). Reduction jusqu'a 50% sur l'abonnement annuel.
-- Couvre Facebook, TikTok, Pinterest, Instagram, Snapchat et Shopify
-- Espion TikTok Ads très performant + "Success Radar" pour detecter les produits avant qu'ils explosent
-- IA integree qui analyse 25 métriques toutes les 3 heures
-
-**Meta Ad Library API** (gratuit, technique) :
-- Si tu sais coder ou utiliser Make/Zapier, tu peux automatiser la collecte de donnees sur les pubs de tes concurrents
-- Documentation disponible sur [developers.facebook.com](https://developers.facebook.com/docs/marketing-api/reference/ad-library/)
-
-## Étape par étape : creer ta routine de veille
-
-1. **Liste tes 5-10 concurrents directs** -- Ceux qui ciblent la même audience que toi
-2. **Cree un dossier "Swipe File"** -- Google Drive, Notion ou Milanote pour stocker les captures de pubs qui t'inspirent
-3. **Fais ta veille 1 fois par semaine** -- Le lundi matin, 30 minutes. Regarde ce qui a change.
-4. **Note les patterns** -- Type de visuel, longueur du texte, CTA utilise, offre mise en avant
-5. **Identifie les angles non exploites** -- Si tout le monde parle prix, parle qualité. Si tout le monde fait du temoignage, fais de la demo.
-
-## Comment analyser une pub efficacement
-
-Pour chaque pub interessante, note :
-
-- **L'accroche** (hook) -- Comment elle capte l'attention dans les 3 premieres secondes (vidéo) ou les 2 premieres lignes (texte)
-- **L'offre** -- Reduction, essai gratuit, bonus, urgence ?
-- **Le CTA** -- "Acheter maintenant", "En savoir plus", "S'inscrire" ?
-- **Le format** -- Vidéo UGC, carrousel produit, image lifestyle, même ?
-- **La landing page** -- Clique sur la pub et analyse la page d'atterrissage. C'est la que se joue la conversion.
-
-## Astuces GoCharbon
-
-- **Ne copie jamais une pub a l'identique.** Inspire-toi de la structure et de l'angle, mais reformule avec ta voix et ton positionnement.
-- **Les pubs actives depuis longtemps sont de l'or.** Si une pub tourne depuis 6 mois, c'est qu'elle imprime du cash. Etudie-la en detail.
-- **Regarde aussi les commentaires.** Les objections des gens dans les commentaires te donnent des idées pour tes propres pubs.
-- **Surveille les nouveaux entrants.** Un concurrent qui lance 20 pubs d'un coup est probablement en phase de lancement. C'est le moment de voir sa stratégie complète.
-- **Cree une alerte.** Avec des outils comme Swipefeed ou simplement un rappel hebdomadaire, automatise ta veille pour ne jamais decrocher.
-
-## Ressources
-
-- [Meta Ad Library](https://www.facebook.com/ads/library/) -- Gratuit, officiel, toutes les pubs actives Meta
-- [Google Ads Transparency Center](https://adstransparency.google.com) -- Pubs YouTube et Google
-- [AdSpy](https://www.adspy.com) -- 149 $/mois, base de 160M+ pubs Facebook/Instagram
-- [BigSpy](https://bigspy.com) -- Gratuit illimite (basique), 10 plateformes couvertes
-- [Minea](https://www.minea.com) -- Outil français a partir de 49 EUR/mois, specialise e-commerce
+La veille publicitaire ne sert pas à plagier. Elle sert à éviter de démarrer à zéro.

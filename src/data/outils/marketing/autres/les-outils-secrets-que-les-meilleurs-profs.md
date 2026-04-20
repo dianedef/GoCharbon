@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Outils Secrets Que Les Meilleurs Profs Utilisent Pour Captiver Leurs Élèves
 author: Diane
-description: 'Découvre Les Outils Secrets Que Les Meilleurs Profs Utilisent Pour Captiver
-  Leurs Élèves : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Outils Secrets Que Les Meilleurs Profs Utilisent Pour Captiver Leurs Élèves."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

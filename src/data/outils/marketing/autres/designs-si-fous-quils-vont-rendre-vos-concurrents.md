@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Designs Si Fous Qu'Ils Vont Rendre Vos Concurrents Fous De Jalousie
 author: Diane
-description: 'Découvre Designs Si Fous Qu''Ils Vont Rendre Vos Concurrents Fous De
-  Jalousie : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Designs Si Fous Qu'Ils Vont Rendre Vos Concurrents Fous De Jalousie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

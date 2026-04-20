@@ -6,8 +6,7 @@ tags:
 u_site: null
 title: Comment Fixer Son Prix
 author: Diane
-description: 'Découvre Comment Fixer Son Prix : outil français pour entrepreneurs,
-  fonctionnalités et avis.'
+description: "Comment Fixer Son Prix."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

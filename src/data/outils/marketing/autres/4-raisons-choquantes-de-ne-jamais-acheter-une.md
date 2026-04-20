@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: 4 Raisons Choquantes De Ne Jamais Acheter Une Base D'Emails
 author: Diane
-description: 'Découvre 4 Raisons Choquantes De Ne Jamais Acheter Une Base D''Emails
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "4 Raisons Choquantes De Ne Jamais Acheter Une Base D'Emails."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

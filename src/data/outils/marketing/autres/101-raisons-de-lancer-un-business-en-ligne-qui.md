@@ -8,9 +8,7 @@ u_site: null
 title: 101 Raisons De Lancer Un Business En Ligne Qui Vont Vous Faire Quitter Votre
   Emploi Aujourd'Hui
 author: Diane
-description: 'Découvre 101 Raisons De Lancer Un Business En Ligne Qui Vont Vous Faire
-  Quitter Votre Emploi Aujourd''Hui : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "101 Raisons De Lancer Un Business En Ligne Qui Vont Vous Faire Quitter Votre Emploi Aujourd'Hui."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

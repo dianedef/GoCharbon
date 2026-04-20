@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: No Code Créez Une App Qui Vaut Des Millions Sans Écrire Une Ligne De Code
 author: Diane
-description: 'Découvre No Code Créez Une App Qui Vaut Des Millions Sans Écrire Une
-  Ligne De Code : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "No Code Créez Une App Qui Vaut Des Millions Sans Écrire Une Ligne De Code."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

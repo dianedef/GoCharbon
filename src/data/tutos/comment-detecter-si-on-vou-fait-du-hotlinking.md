@@ -1,58 +1,39 @@
 ---
 section: tutos
+type: tuto
+imageNameKey: null
 tags:
 - Tutoriels
-imageNameKey: null
 u_site: null
-title: Comment Détecter Si On Vou Fait Du Hotlinking
+title: Comment detecter si on vou fait du hotlinking
 author: Diane
-description: 'Découvre Comment Détecter Si On Vou Fait Du Hotlinking : outil français
-  pour entrepreneurs, fonctionnalités et avis.'
-pubDate: '2024-03-25'
+description: 'Tutoriel pratique pour detecter si on vou fait du hotlinking : étapes propres, erreurs à éviter et mise en place sans blabla.'
+pubDate: 2026-04-19
 imgUrl: ../../assets/astro.jpeg
 ---
 
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-debugInConsole: false # Print debug info in Obsidian console
-```
+# Comment detecter si on vou fait du hotlinking
 
+Si tu veux detecter si on vou fait du hotlinking, oublie les hacks magiques. Le bon workflow SEO est plus ennuyeux que spectaculaire : diagnostic, priorités, exécution propre et suivi.
 
-[What is Hotlinking and the Best Ways to WordPress Hotlink Protection - Themeum](https://www.themeum.com/what-is-hotlinking-and-the-best-ways-to-wordpress-hotlink-protection/?utm_source=newsletter&utm_medium=email&utm_campaign=email_newsletter&utm_content=hotlink_protection)
+## Ce qu'il faut préparer
 
-Search on Google with the following command and click on images
+- les pages prioritaires
+- tes données Search Console ou analytics
+- un outil de crawl ou au minimum une checklist sérieuse
 
-inurl:yourwebsite.com -site:yourwebsite.com
+## La méthode simple
 
-If you want to check hotlinked images of Themeum.com, you should search Google with the command below and click on Images.
+1. Commence par la réalité du site : crawl, indexation, performance, structure interne, contenu existant et requêtes déjà visibles.
+2. Classe les chantiers par impact. Corriger 200 détails sans toucher aux pages qui portent le business est une manière élégante de perdre du temps.
+3. Reviens ensuite à la page. Un bon SEO ne s'arrête pas au crawler : il faut une promesse lisible, une structure claire et une vraie réponse à l'intention de recherche.
 
-inurl:themeum.com -site:themeum.com
+## Les erreurs à éviter
 
-The search engine will display hotlinked images along with the sites.
+- traiter toutes les pages comme si elles avaient la même importance
+- se focaliser sur des métriques vanity
+- confondre volume de mots-clés et opportunité business
 
+## Commence comme ça
 
-**What is Hotlinking and How to Protect Your WordPress Site**
-
-Hotlinking is when you display someone else's images or media files on your website by directly linking to them from their original source. It's often considered unethical and can be illegal because it uses another site's bandwidth without permission. If you want to safeguard your resources, it's crucial to prevent hotlinking.
-
-**Why Protect Your Images from Hotlinking**
-
-Hotlinking can drain your website's bandwidth, leading to additional costs. It's not only unethical but also can impact the performance of both the hosting and serving websites. Preventing hotlinking ensures your resources are used appropriately and saves you money.
-
-**How to Recognize and Prevent Hotlinking**
-
-Detecting hotlinking requires investigation, but you can use Google Images to check. To prevent hotlinking in WordPress, you can:
-- Use code snippets in your webserver's configuration files (e.g., .htaccess for Apache, NGINX config for NGINX servers).
-- Utilize hotlink protection features provided by CDNs like KeyCDN and Cloudflare.
-- Enable hotlink protection in cPanel if your hosting service supports it.
-- Employ WordPress plugins like All In One WP Security And Firewall.
-
-By implementing these measures, you can safeguard your website's media assets, prevent unauthorized usage, and improve overall site performance.
-
-**Conclusion**
-
-Hotlinking poses risks to website owners by consuming bandwidth and potentially violating copyright laws. Employing preventive measures like configuring webserver settings, using CDNs, or WordPress plugins can help mitigate these risks and ensure your website's resources are used responsibly.
+Prends les dix pages qui comptent vraiment pour ton acquisition ou ton chiffre d'affaires. C'est là que ton audit ou ton chantier doit commencer.

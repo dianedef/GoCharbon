@@ -2,20 +2,27 @@
 section: tutos
 tags:
 - Tutoriels
-imageNameKey: null
-u_site: null
-title: Trouver Facilement Tous Les Établissements Liés À Un Nom De Domaine
+title: Trouver les établissements liés à une enseigne ou une entité
 author: Diane
-description: 'Découvre Trouver Facilement Tous Les Établissements Liés À Un Nom De
-  Domaine : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: Repère les différents établissements rattachés à une marque, une entreprise ou une chaîne pour ta veille, ton enrichissement ou ta prospection.
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-O (ex: [carrefour.fr](http://carrefour.fr/), [auchan.fr](http://auchan.fr/), [mcdonalds.fr](http://mcdonalds.fr/), etc.) pour cartographier la liste des franchisés sur un pays.
+Trouver tous les établissements liés à une même enseigne peut servir à la veille, à la prospection locale ou à la cartographie d’un réseau.
 
-[https://help.scrap.io/fr/article/api-r66b6d/#2-enrich-url-domain-email-or-phone-with-gmap-place-data](__MASK_3__)
+## Ce qu’il faut distinguer
 
-l’enrichissement Google Maps à partir de vos data.
+- marque ;
+- société ;
+- établissement ;
+- point de vente.
 
-Vous pouvez obtenir toutes les informations Google Maps en partant d’un **email**, d’un **nom de domaine** ou d’un **numéro de téléphone** : _Adresse_, _numéro de téléphone_, _emails_, _photos_ (y compris street view), _avis_, _horaires d’ouverture_ et _d’affluence_, _liens facebook_, _linkedin_, _twitter_, etc.
+## Bonne méthode
+
+1. pars d’une enseigne ou d’un domaine ;
+2. croise annuaires, cartes et bases d’entreprises ;
+3. déduplique ;
+4. garde la source et la localisation.
+
+Le vrai enjeu, c’est de ne pas confondre réseau commercial et structure juridique.

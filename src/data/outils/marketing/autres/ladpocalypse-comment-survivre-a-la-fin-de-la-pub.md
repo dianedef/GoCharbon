@@ -6,8 +6,7 @@ tags:
 imageNameKey: null
 title: L'Adpocalypse Comment Survivre À La Fin De La Pub Telle Qu'On La Connaît
 author: Diane
-description: 'Découvre L''Adpocalypse Comment Survivre À La Fin De La Pub Telle Qu''On
-  La Connaît : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Adpocalypse Comment Survivre À La Fin De La Pub Telle Qu'On La Connaît."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

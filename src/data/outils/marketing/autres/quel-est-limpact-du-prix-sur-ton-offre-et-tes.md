@@ -6,8 +6,7 @@ tags:
 u_site: null
 title: Quel Est L'Impact Du Prix Sur Ton Offre Et Tes Produits
 author: Diane
-description: 'Découvre Quel Est L''Impact Du Prix Sur Ton Offre Et Tes Produits :
-  outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Quel Est L'Impact Du Prix Sur Ton Offre Et Tes Produits."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

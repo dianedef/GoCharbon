@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Démarches Entreprises Simplifiées Devenez Patron En 24H Chrono
 author: Diane
-description: 'Découvre Les Démarches Entreprises Simplifiées Devenez Patron En 24H
-  Chrono : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Démarches Entreprises Simplifiées Devenez Patron En 24H Chrono."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

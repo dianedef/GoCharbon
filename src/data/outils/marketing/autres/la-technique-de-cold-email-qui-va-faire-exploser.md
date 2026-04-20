@@ -11,8 +11,7 @@ tags:
 - Outils
 title: La Technique De Cold Email Qui Va Faire Exploser Vos Ventes De 500%
 author: Diane
-description: 'Découvre La Technique De Cold Email Qui Va Faire Exploser Vos Ventes
-  De 500% : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Technique De Cold Email Qui Va Faire Exploser Vos Ventes De 500%."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

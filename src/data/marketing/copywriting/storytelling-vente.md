@@ -1,15 +1,15 @@
 ---
 section: blog
-title: 'Story Selling : Quand le Storytelling Devient une Arme de Vente'
+title: 'Story selling : raconter juste assez pour faire avancer la vente'
 author: Diane
 tags:
   - Marketing
-description: Le story selling utilise le storytelling pour vendre, pas juste divertir. Structures narratives, exemples et techniques pour tes pages et emails.
-pubDate: '2026-03-23'
+description: "Apprends à utiliser le storytelling pour vendre avec tact : assez d'histoire pour créer l'adhésion, pas assez pour noyer l'offre."
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Story Selling : Quand le Storytelling Devient une Arme de Vente
+# Story selling : raconter juste assez pour faire avancer la vente
 
 Tout le monde te dit de raconter des histoires. Les gourous du content marketing, les formateurs LinkedIn, les threads Twitter. « Raconte ton parcours. Sois authentique. Les gens achètent des gens, pas des produits. » Et c'est vrai. En partie.
 

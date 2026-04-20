@@ -6,8 +6,7 @@ tags:
 imageNameKey: emrys
 title: Emrys La Carte Secrète Qui Fait Économiser Des Milliers D'Euros Sur Vos Courses
 author: Diane
-description: 'Découvre Emrys La Carte Secrète Qui Fait Économiser Des Milliers D''Euros
-  Sur Vos Courses : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Emrys La Carte Secrète Qui Fait Économiser Des Milliers D'Euros Sur Vos Courses."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

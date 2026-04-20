@@ -6,8 +6,7 @@ tags:
 u_site: null
 title: Comment Créer La Demande
 author: Diane
-description: 'Découvre Comment Créer La Demande : outil français pour entrepreneurs,
-  fonctionnalités et avis.'
+description: "Comment Créer La Demande."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

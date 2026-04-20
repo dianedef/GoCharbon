@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Le Logiciel De Business Plan Qui Va Faire Pleurer Votre Banquier De Joie
 author: Diane
-description: 'Découvre Le Logiciel De Business Plan Qui Va Faire Pleurer Votre Banquier
-  De Joie : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Logiciel De Business Plan Qui Va Faire Pleurer Votre Banquier De Joie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

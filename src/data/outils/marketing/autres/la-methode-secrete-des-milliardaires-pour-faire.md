@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: La Méthode Secrète Des Milliardaires Pour Faire Fortune Rapidement
 author: Diane
-description: 'Découvre La Méthode Secrète Des Milliardaires Pour Faire Fortune Rapidement
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Méthode Secrète Des Milliardaires Pour Faire Fortune Rapidement."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

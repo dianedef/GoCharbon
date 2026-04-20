@@ -12,8 +12,7 @@ tags:
 - Outils
 title: La Méthode Révolutionnaire De Priorisation Qui Va Changer La Vie Des Hyperactifs
 author: Diane
-description: 'Découvre La Méthode Révolutionnaire De Priorisation Qui Va Changer La
-  Vie Des Hyperactifs : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Méthode Révolutionnaire De Priorisation Qui Va Changer La Vie Des Hyperactifs."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

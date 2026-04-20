@@ -7,8 +7,7 @@ tags:
 - Outils
 title: Le Gear Tellement Cool Que Vos Collègues Vont Devenir Fous De Jalousie
 author: Diane
-description: 'Découvre Le Gear Tellement Cool Que Vos Collègues Vont Devenir Fous
-  De Jalousie : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Gear Tellement Cool Que Vos Collègues Vont Devenir Fous De Jalousie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

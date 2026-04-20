@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Le Logiciel Pour Architectes Qui Va Révolutionner Le Monde Du Bâtiment
 author: Diane
-description: 'Découvre Le Logiciel Pour Architectes Qui Va Révolutionner Le Monde
-  Du Bâtiment : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Logiciel Pour Architectes Qui Va Révolutionner Le Monde Du Bâtiment."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

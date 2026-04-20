@@ -46,7 +46,13 @@ const postCollection = defineCollection({
       methodologieVersion: z.string().optional(),
       metadataEnrichedAt: z.string().nullable().optional(),
       description: z.string(),
-      pubDate: z.string().transform((str) => new Date(str)),
+      pubDate: z.preprocess(
+        (value) => {
+          if (value instanceof Date) return value.toISOString().slice(0, 10);
+          return value;
+        },
+        z.string().transform((str) => new Date(str)),
+      ),
       imgUrl: image(),
       draft: z.boolean().optional().default(false),
     }).passthrough(),

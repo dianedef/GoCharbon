@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: L'App Bureautique Qui Va Rendre Vos Collègues Fous De Jalousie
 author: Diane
-description: 'Découvre L''App Bureautique Qui Va Rendre Vos Collègues Fous De Jalousie
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'App Bureautique Qui Va Rendre Vos Collègues Fous De Jalousie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

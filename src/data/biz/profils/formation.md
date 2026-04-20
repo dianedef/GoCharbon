@@ -1,18 +1,18 @@
 ---
 section: parcours
-title: Formation en Ligne
+title: Formation en ligne
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Crée ton organisme de formation : réglementation, financement CPF et
-  stratégies pour formateurs professionnels.'
+description: 'Créer et vendre une formation en ligne sans confondre expertise, pédagogie
+  et promesse marketing.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
 ## Description
 
-Créer et vendre des formations en ligne, c'est packager ton expertise dans un format vidéo/texte que les gens achètent pour apprendre. C'est comme être prof, mais de manière scalable : tu crées le contenu une fois, il se vend indéfiniment.
+Créer et vendre une formation en ligne, c'est transformer une expertise en parcours d'apprentissage compréhensible, utile et vendable. Le modèle peut bien fonctionner, mais il demande plus de structure et de pédagogie que ce que beaucoup imaginent.
 
 Ça peut être une formation complète (10-30h de contenu à 200-2000€), un mini-cours (2-5h à 49-149€), ou un membership avec contenu récurrent (29-99€/mois). L'avantage ? Potentiel de revenu passif élevé une fois créé.
 

@@ -18,17 +18,17 @@ u_derniere_maj: "2026-03-15"
 
 # Chrono-Caisse
 
-## CAISSE CLOUD : L'APP FRANÇAISE SIMPLE ET ABORDABLE QUI TOURNE SUR TABLETTE, SMARTPHONE ET PC
+# CAISSE CLOUD : L'APP FRANÇAISE SIMPLE ET ABORDABLE QUI TOURNE SUR TABLETTE, SMARTPHONE ET PC
 
-### tl;dr
+## tl;dr
 
 Chrono-Caisse (chrono-caisse.com), c'est l'**application de caisse cloud française** conçue pour les **petits commerçants** qui veulent un outil **simple, abordable et multi-support** (tablette, smartphone, PC). Fondée par **Anthony Coutinho**, projet démarré en **mars 2014**, société immatriculée en **juin 2019**. SIREN **851 559 773**, basée à **Luc-la-Primaube** (Aveyron). Incubée au **Paddock** à Nancy. Pricing ultra-simple : **49€/mois** tout compris (magasins illimités, utilisateurs illimités, mises à jour incluses). L'approche : une caisse cloud accessible depuis n'importe quel appareil (pas besoin d'iPad spécifique), avec synchronisation e-commerce, fidélité digitale et facturation. Couverture presse : **France 3**, **Est Républicain**. Petite équipe (<10 estimé).
 
-### Alternative à
+## Alternative à
 
 Tactill (iPad uniquement), mybe, Hiboutik (gratuit/basique), Square POS, Zettle. Chrono-Caisse se distingue par son **prix unique tout compris** (49€/mois, illimité — pas de surprise, pas de forfait à choisir), sa **compatibilité multi-support** (tablette Android, iPad, smartphone, PC — là où Tactill ne marche que sur iPad), et sa **simplicité** (une offre, un prix, tout inclus).
 
-## Bénéfices
+# Bénéfices
 
 **Un seul prix, tout inclus** — 49€/mois. Point. Pas de forfait Essentiel/Pro/Premium. Pas de supplément par magasin ou par utilisateur. Tu payes 49€ et tu as tout : caisse, stocks, clients, fidélité, e-commerce, facturation, mises à jour, support.
 
@@ -38,7 +38,7 @@ Tactill (iPad uniquement), mybe, Hiboutik (gratuit/basique), Square POS, Zettle.
 
 **Fidélité digitale** — Programme de fidélité dématérialisé intégré. Tes clients accumulent des points et bénéficient de récompenses. Pas de carte physique à gérer.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Petits commerçants indépendants
 - Artisans qui vendent en boutique
@@ -46,7 +46,7 @@ Tactill (iPad uniquement), mybe, Hiboutik (gratuit/basique), Square POS, Zettle.
 - Commerces qui veulent une caisse sans investir dans un iPad
 - Multi-magasins à petit budget (prix fixe quel que soit le nombre de magasins)
 
-## Comment Utiliser Chrono-Caisse
+# Comment Utiliser Chrono-Caisse
 
 1. **Inscription** — Crée ton compte sur [chrono-caisse.com](https://chrono-caisse.com/)
 2. **Installation** — Accède à l'app depuis ton navigateur ou télécharge sur tablette/smartphone
@@ -54,9 +54,9 @@ Tactill (iPad uniquement), mybe, Hiboutik (gratuit/basique), Square POS, Zettle.
 4. **Vente** — Encaisse tes clients depuis n'importe quel support
 5. **Gestion** — Stocks, clients, fidélité, rapports en ligne
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Caisse et vente
+## Caisse et vente
 
 - **Interface multi-support** — Tablette, smartphone, PC
 - **Multi-paiement** — Espèces, CB (via TPE externe), chèque
@@ -64,29 +64,29 @@ Tactill (iPad uniquement), mybe, Hiboutik (gratuit/basique), Square POS, Zettle.
 - **Remises** — Promotions et réductions
 - **Tickets** — Impression ou email
 
-### Gestion des stocks
+## Gestion des stocks
 
 - **Stock temps réel** — Synchronisé entre tous les supports
 - **Inventaire** — Comptage et ajustement
 - **Alertes** — Rupture de stock
 
-### E-commerce
+## E-commerce
 
 - **Boutique en ligne** — Synchronisée avec la caisse
 - **Click & Collect** — Commande web, retrait en magasin
 - **Stocks partagés** — Un seul inventaire
 
-### Fidélité
+## Fidélité
 
 - **Programme digital** — Points, récompenses, sans carte physique
 - **Historique client** — Suivi des achats
 
-### Facturation
+## Facturation
 
 - **Factures conformes** — Édition et envoi de factures
 - **Devis** — Création de devis depuis l'app
 
-## Prix
+# Prix
 
 | Formule | Prix/mois |
 |---------|-----------|
@@ -100,14 +100,14 @@ Tactill (iPad uniquement), mybe, Hiboutik (gratuit/basique), Square POS, Zettle.
 
 *Source : [Chrono-Caisse](https://chrono-caisse.com/)*
 
-## Intégrations
+# Intégrations
 
 - **E-commerce** : Boutique en ligne intégrée
 - **TPE** : Compatible avec les terminaux de paiement externes
 - **Matériel** : Imprimantes Bluetooth, scanners, tiroirs-caisse
 - **Multi-support** : Android, iOS, PC, navigateur web
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **Mars 2014** — **Anthony Coutinho** démarre le projet Chrono-Caisse. Le constat : les logiciels de caisse sont chers, complexes et souvent liés à un matériel spécifique. L'idée : une caisse cloud simple qui fonctionne sur n'importe quel appareil
 - **2014-2019** — Développement de l'application. Incubation au **Paddock** à Nancy. Tests avec les premiers commerçants
@@ -117,13 +117,13 @@ Tactill (iPad uniquement), mybe, Hiboutik (gratuit/basique), Square POS, Zettle.
 
 *Source : [Chrono-Caisse](https://chrono-caisse.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **Le commerçant au marché** — Tu vends des bijoux artisanaux sur les marchés le week-end. Avec Chrono-Caisse sur ton smartphone, tu encaisses tes clients (espèces + CB via mini-terminal) sans investir dans un iPad et un logiciel de caisse à 79€/mois.
 
 **La boutique multi-sites** — Tu as 3 petites boutiques. Avec la plupart des logiciels de caisse, tu payes 3 abonnements (39€ x 3 = 117€/mois). Avec Chrono-Caisse, tu payes 49€/mois quel que soit le nombre de magasins. Économie : 68€/mois.
 
-## Points Forts
+# Points Forts
 
 - Prix unique 49€/mois tout compris — simplicité totale
 - Magasins et utilisateurs illimités — idéal pour les multi-sites
@@ -133,7 +133,7 @@ Tactill (iPad uniquement), mybe, Hiboutik (gratuit/basique), Square POS, Zettle.
 - Pas de dépendance à un matériel spécifique (pas obligé d'acheter un iPad)
 - Couverture presse (France 3, Est Républicain)
 
-## Points Faibles
+# Points Faibles
 
 - **Très petite structure** — Moins de 10 employés estimés. Le risque de pérennité est plus élevé que chez un éditeur établi
 - **Pas de certification NF525 confirmée** — Vérifier que le logiciel est certifié conforme à la loi anti-fraude TVA

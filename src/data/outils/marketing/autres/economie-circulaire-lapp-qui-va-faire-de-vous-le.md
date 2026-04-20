@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Économie Circulaire L'App Qui Va Faire De Vous Le Nouveau Héros De L'Écologie
 author: Diane
-description: 'Découvre Économie Circulaire L''App Qui Va Faire De Vous Le Nouveau
-  Héros De L''Écologie : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Économie Circulaire L'App Qui Va Faire De Vous Le Nouveau Héros De L'Écologie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

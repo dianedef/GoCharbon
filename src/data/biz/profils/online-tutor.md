@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: Online Tutor / Enseignant en Ligne
+title: Prof en ligne
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Lance ton activité de cours particuliers en ligne : plateformes, tarification
-  et acquisition d''élèves.'
+description: 'Donner des cours en ligne avec un vrai positionnement, une offre claire
+  et une acquisition soutenable.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Online Tutor / Enseignant en Ligne
+# Prof en ligne
 
 ## Description en une phrase
 

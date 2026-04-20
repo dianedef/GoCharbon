@@ -10,9 +10,7 @@ u_site: null
 title: Organisez Des Événements De Ouf Avec L'App Secrète Des Plus Grands Festivals
   Français
 author: Diane
-description: 'Découvre Organisez Des Événements De Ouf Avec L''App Secrète Des Plus
-  Grands Festivals Français : outil français pour entrepreneurs, fonctionnalités et
-  avis.'
+description: "Organisez Des Événements De Ouf Avec L'App Secrète Des Plus Grands Festivals Français."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

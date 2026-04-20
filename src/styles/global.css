@@ -134,6 +134,15 @@ a:not(.no-link-style):hover {
   color: var(--link-hover-color);
 }
 
+a.launch-link-disabled,
+a.launch-link-disabled:hover {
+  color: inherit !important;
+  cursor: default;
+  opacity: 0.65;
+  pointer-events: none;
+  text-decoration: none;
+}
+
 /* Navbar icons - override link colors */
 header a {
   color: var(--brand-black) !important;

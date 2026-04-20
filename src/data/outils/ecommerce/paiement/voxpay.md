@@ -18,17 +18,17 @@ u_derniere_maj: "2026-03-15"
 
 # Voxpay
 
-## PAIEMENT À DISTANCE : LA SOLUTION FRANÇAISE QUI SÉCURISE TES ENCAISSEMENTS PAR TÉLÉPHONE, LIEN ET QR CODE
+# PAIEMENT À DISTANCE : LA SOLUTION FRANÇAISE QUI SÉCURISE TES ENCAISSEMENTS PAR TÉLÉPHONE, LIEN ET QR CODE
 
-### tl;dr
+## tl;dr
 
 Voxpay (voxpay.fr), c'est la **solution française de paiement à distance sécurisé** qui permet aux entreprises d'**encaisser par téléphone** (paiement vocal), par **lien de paiement** (SMS, email, chat), par **QR code**, par **serveur vocal interactif (SVI)** et via des **campagnes de recouvrement automatisées**. Agréée **ACPR** comme **Prestataire de Services de Paiement (PSP)**, Voxpay est certifiée **PCI-DSS 4.0.1 Niveau 1** — le plus haut niveau de sécurité des paiements. Le modèle : tu encaisses tes clients à distance, sur tous les canaux de communication, **sans jamais voir leurs coordonnées bancaires**. Les données sont chiffrées et hébergées en France (RGPD). Fondée en France, la solution compte **5 produits** : **Voxpay Assist** (paiement vocal avec agent), **Voxpay Link** (liens de paiement), **Voxpay Selfcare** (serveur vocal automatique), **Voxpay Collect** (campagnes de recouvrement), **Voxpay SoftPOS** (TPE virtuel). Pricing transparent : offre Essentiel à **1% + 0,20€ HT** par transaction, offre Business sur devis.
 
-### Alternative à
+## Alternative à
 
 Stripe (liens de paiement), PayPal (paiement à distance), SumUp (lien de paiement), GoCardless (prélèvement), TPE virtuel bancaire. Voxpay se distingue par sa **spécialisation paiement à distance** (et particulièrement le **paiement vocal par téléphone** — une niche unique), sa **certification PCI-DSS 4.0.1** (le standard le plus récent et le plus exigeant), et ses **campagnes de recouvrement automatisées** (envoi massif de liens de paiement pour récupérer les impayés — un cas d'usage que Stripe ou PayPal ne couvrent pas).
 
-## Bénéfices
+# Bénéfices
 
 **Encaisse par téléphone sans voir la carte** — Avec Voxpay Assist, ton client tape les numéros de sa carte bancaire sur les touches de son téléphone pendant que tu lui parles. Tu ne vois jamais les coordonnées bancaires — elles sont chiffrées et transmises directement au système de paiement. C'est la solution la plus sécurisée pour encaisser par téléphone.
 
@@ -40,7 +40,7 @@ Stripe (liens de paiement), PayPal (paiement à distance), SumUp (lien de paieme
 
 **Démarrage en 1 minute** — L'offre Essentiel te permet de commencer à encaisser en ligne en 1 minute, sans installation technique. Tu crées un compte, tu génères un lien de paiement, et c'est parti.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Centres d'appels et services clients qui encaissent par téléphone
 - Entreprises de services (artisans, consultants, coachs) qui encaissent à distance
@@ -50,7 +50,7 @@ Stripe (liens de paiement), PayPal (paiement à distance), SumUp (lien de paieme
 - E-commerçants qui veulent ajouter le paiement par téléphone ou lien
 - Associations et collectivités (collecte de dons, cotisations)
 
-## Comment Utiliser Voxpay
+# Comment Utiliser Voxpay
 
 1. **Inscription** — Crée ton compte sur [voxpay.fr](https://voxpay.fr/). L'offre Essentiel est accessible immédiatement
 2. **Configuration** — Choisis tes canaux d'encaissement (téléphone, lien, QR code, SVI, recouvrement)
@@ -58,16 +58,16 @@ Stripe (liens de paiement), PayPal (paiement à distance), SumUp (lien de paieme
 4. **Encaissement** — Génère des liens, encaisse par téléphone, lance des campagnes de recouvrement
 5. **Suivi** — Dashboard en temps réel avec toutes les transactions, les statuts et les alertes
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Voxpay Assist — Paiement vocal
+## Voxpay Assist — Paiement vocal
 
 - **Paiement au téléphone** — Le client saisit sa carte sur les touches du téléphone pendant la conversation
 - **Coordonnées masquées** — L'agent ne voit jamais les numéros de carte
 - **Supervision en temps réel** — Suivi de la transaction pendant l'appel
 - **Compatible tous systèmes de téléphonie** — Intégration avec les IPBX, les centres d'appels
 
-### Voxpay Link — Liens de paiement
+## Voxpay Link — Liens de paiement
 
 - **Lien par SMS** — Envoi d'un lien de paiement par SMS
 - **Lien par email** — Envoi par email avec personnalisation
@@ -75,25 +75,25 @@ Stripe (liens de paiement), PayPal (paiement à distance), SumUp (lien de paieme
 - **Chat** — Intégration dans les messageries (WhatsApp, Messenger)
 - **Facilités de paiement** — Paiement en plusieurs fois, paiement récurrent
 
-### Voxpay Selfcare — Serveur vocal
+## Voxpay Selfcare — Serveur vocal
 
 - **SVI de paiement** — Serveur vocal interactif automatisé
 - **24/7** — Le client paye par téléphone sans agent, à toute heure
 - **Personnalisable** — Messages et parcours configurables
 
-### Voxpay Collect — Recouvrement
+## Voxpay Collect — Recouvrement
 
 - **Campagnes automatisées** — Envoi massif de relances de paiement
 - **Scénarios** — Configuration des séquences de relance (J+7, J+15, J+30)
 - **Multi-canal** — Relances par SMS, email, lien de paiement
 - **Suivi** — Taux de recouvrement en temps réel
 
-### Voxpay SoftPOS — TPE virtuel
+## Voxpay SoftPOS — TPE virtuel
 
 - **Application mobile** — Transforme un smartphone en terminal de paiement
 - **Sans contact** — Encaissement NFC via smartphone
 
-## Prix
+# Prix
 
 | Offre | Prix/transaction | Détail |
 |-------|-----------------|--------|
@@ -106,7 +106,7 @@ Stripe (liens de paiement), PayPal (paiement à distance), SumUp (lien de paieme
 
 *Source : [Voxpay](https://voxpay.fr/offres/tarifs/)*
 
-## Intégrations
+# Intégrations
 
 - **Téléphonie** : Compatible avec tous les systèmes IPBX et centres d'appels
 - **PSP/VAD** : Intégration avec ton prestataire de paiement existant
@@ -116,7 +116,7 @@ Stripe (liens de paiement), PayPal (paiement à distance), SumUp (lien de paieme
 - **Paiement** : CB, Visa, Mastercard, virement, mandat SEPA
 - **Sécurité** : PCI-DSS 4.0.1, données hébergées en France, RGPD
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **Fondation** — Voxpay est créée en France avec une mission claire : sécuriser les paiements à distance, en particulier par téléphone. À l'origine, le constat : des millions de paiements par téléphone se font encore en dictant les numéros de carte à un agent — ce qui est une faille de sécurité majeure (l'agent voit et peut noter les données)
 - **2018** — Voxpay obtient la certification **PCI-DSS Niveau 1** (la plus haute). L'entreprise se positionne comme le spécialiste de la sécurité des paiements à distance
@@ -126,7 +126,7 @@ Stripe (liens de paiement), PayPal (paiement à distance), SumUp (lien de paieme
 
 *Source : [Voxpay](https://voxpay.fr/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **Le centre d'appels qui encaisse par téléphone** — Tu gères un service client de 50 agents qui prennent des commandes par téléphone. Avec Voxpay Assist, les clients saisissent leur numéro de carte sur les touches du téléphone pendant l'appel. Tes agents ne voient jamais les données bancaires — conforme PCI-DSS, zéro risque de fraude interne.
 
@@ -134,7 +134,7 @@ Stripe (liens de paiement), PayPal (paiement à distance), SumUp (lien de paieme
 
 **Le service comptable qui relance les impayés** — Tu as 200 factures impayées. Avec Voxpay Collect, tu lances une campagne automatisée : SMS de relance à J+7 avec lien de paiement, email de relance à J+15, dernière relance à J+30. Chaque lien est personnalisé (montant, numéro de facture). Taux de recouvrement multiplié sans effort.
 
-## Points Forts
+# Points Forts
 
 - Spécialiste du paiement à distance (téléphone, lien, QR code, SVI)
 - PCI-DSS 4.0.1 Niveau 1 — le plus haut standard de sécurité actuel
@@ -146,7 +146,7 @@ Stripe (liens de paiement), PayPal (paiement à distance), SumUp (lien de paieme
 - Démarrage en 1 minute sans installation
 - Omnicanal : téléphone, SMS, email, QR code, chat, SVI
 
-## Points Faibles
+# Points Faibles
 
 - **Niche étroite** — Le paiement à distance (surtout vocal) est un marché de niche. La plupart des commerçants n'encaissent pas par téléphone — ils ont un TPE ou un site e-commerce. Voxpay est pertinent pour les centres d'appels et les services, pas pour le commerce de détail
 - **Notoriété limitée** — Voxpay n'a pas la visibilité de Stripe, SumUp ou PayPal. Beaucoup d'entreprises ne savent pas que cette solution existe

@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Le Juste Prix Est Un Mythe Voici Comment Fixer Vos Tarifs Pour Devenir Riche
 author: Diane
-description: 'Découvre Le Juste Prix Est Un Mythe Voici Comment Fixer Vos Tarifs Pour
-  Devenir Riche : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Juste Prix Est Un Mythe Voici Comment Fixer Vos Tarifs Pour Devenir Riche."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

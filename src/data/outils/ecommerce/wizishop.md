@@ -23,17 +23,17 @@ u_derniere_maj: "2026-03-15"
 
 # WiziShop
 
-## CMS E-COMMERCE : LA PLATEFORME FRANÇAISE TOUT-EN-UN POUR CRÉER ET GÉRER TA BOUTIQUE EN LIGNE
+# CMS E-COMMERCE : LA PLATEFORME FRANÇAISE TOUT-EN-UN POUR CRÉER ET GÉRER TA BOUTIQUE EN LIGNE
 
-### tl;dr
+## tl;dr
 
 WiziShop (wizishop.fr), c'est la **plateforme e-commerce française tout-en-un** — le CMS SaaS qui te permet de **créer, gérer et développer ta boutique en ligne** sans compétences techniques. Fondée en **2008** à **Nice** par **Gregory Beyrouti**, **René Cotton** et **Cédric Piazza** (SIREN **503 594 525**). Le concept : tu crées ta boutique en quelques clics (design, catalogue produits, paiement, livraison, SEO), et WiziShop gère tout l'aspect technique (hébergement, sécurité, mises à jour). L'outil intègre **+400 fonctionnalités** nativement — pas besoin d'installer des plugins ou extensions comme sur WooCommerce ou PrestaShop. WiziShop est reconnu pour son **SEO intégré** (plus de 50 optimisations SEO automatiques), son **IA de génération de fiches produit** et son **support français** réactif. **⚠️ Attention : WiziShop est en redressement judiciaire depuis novembre 2025.** L'avenir de la plateforme est incertain — à suivre. Cible : **entrepreneurs, TPE/PME, artisans, créateurs** qui veulent lancer leur boutique en ligne sans développeur.
 
-### Alternative à
+## Alternative à
 
 Shopify, PrestaShop, WooCommerce, Wix eCommerce, Squarespace Commerce. WiziShop se distingue par son **tout-en-un** (400+ fonctionnalités intégrées vs plugins à installer sur PrestaShop/WooCommerce), son **SEO natif** (50+ optimisations automatiques — WiziShop revendique être la solution e-commerce la mieux optimisée pour Google), et son **support 100% français** (chat, email, téléphone — pas de support anglophone à attendre 48h).
 
-## Bénéfices
+# Bénéfices
 
 **Tout-en-un** — Plus de 400 fonctionnalités intégrées : catalogue, paiement, livraison, marketing, SEO, analytics, blog, marketplace, B2B. Tu n'as pas besoin de plugins, d'extensions ou de développeur. Tout est inclus dans l'abonnement.
 
@@ -45,7 +45,7 @@ Shopify, PrestaShop, WooCommerce, Wix eCommerce, Squarespace Commerce. WiziShop 
 
 **Dropshipping intégré** — WiziShop intègre une solution de dropshipping (import de produits depuis des fournisseurs) via sa marque Dropizi.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Entrepreneurs qui lancent leur première boutique en ligne
 - TPE/PME qui veulent une solution e-commerce simple et complète
@@ -53,7 +53,7 @@ Shopify, PrestaShop, WooCommerce, Wix eCommerce, Squarespace Commerce. WiziShop 
 - Commerçants physiques qui veulent se digitaliser
 - Dropshippers qui cherchent une plateforme française
 
-## Comment Utiliser WiziShop
+# Comment Utiliser WiziShop
 
 1. **Inscription** — Essai gratuit sur [wizishop.fr](https://www.wizishop.fr/)
 2. **Design** — Choisis un template et personnalise ta boutique
@@ -62,9 +62,9 @@ Shopify, PrestaShop, WooCommerce, Wix eCommerce, Squarespace Commerce. WiziShop 
 5. **Livraison** — Paramètre les transporteurs et les tarifs
 6. **Lancement** — Publie ta boutique et commence à vendre
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Boutique
+## Boutique
 
 - **Templates** — Designs responsives personnalisables
 - **Catalogue** — Gestion illimitée de produits, variantes, catégories
@@ -74,7 +74,7 @@ Shopify, PrestaShop, WooCommerce, Wix eCommerce, Squarespace Commerce. WiziShop 
 - **Multi-devise** — Vente en plusieurs devises
 - **B2B** — Mode B2B avec prix HT, comptes pro
 
-### SEO
+## SEO
 
 - **50+ optimisations** — Automatiques et configurables
 - **URLs propres** — Structure SEO-friendly
@@ -84,7 +84,7 @@ Shopify, PrestaShop, WooCommerce, Wix eCommerce, Squarespace Commerce. WiziShop 
 - **Blog** — Blog intégré pour le content marketing SEO
 - **AMP** — Pages mobiles accélérées
 
-### Marketing
+## Marketing
 
 - **Emails** — Emails transactionnels et marketing intégrés
 - **Relance panier** — Emails de relance automatiques
@@ -93,13 +93,13 @@ Shopify, PrestaShop, WooCommerce, Wix eCommerce, Squarespace Commerce. WiziShop 
 - **Programme fidélité** — Points de fidélité natif
 - **Avis clients** — Module d'avis intégré
 
-### IA
+## IA
 
 - **Fiches produit** — Génération de descriptions par IA
 - **Meta descriptions** — Optimisation SEO automatique
 - **Textes marketing** — Génération de contenus promotionnels
 
-## Prix
+# Prix
 
 | Plan | Prix/mois | Détails |
 |------|-----------|---------|
@@ -114,7 +114,7 @@ Shopify, PrestaShop, WooCommerce, Wix eCommerce, Squarespace Commerce. WiziShop 
 
 *Source : [WiziShop](https://www.wizishop.fr/)*
 
-## Intégrations
+# Intégrations
 
 - **Paiement** : Stripe, PayPlug, PayZen, PayPal, Mollie
 - **Livraison** : Colissimo, Mondial Relay, Chronopost, UPS, DHL, Boxtal
@@ -123,7 +123,7 @@ Shopify, PrestaShop, WooCommerce, Wix eCommerce, Squarespace Commerce. WiziShop 
 - **Comptabilité** : Export comptable, connecteurs ERP
 - **Dropshipping** : Dropizi (marque du groupe)
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **2008** — Création de **WiziShop** à **Nice** par **Gregory Beyrouti**, **René Cotton** et **Cédric Piazza**. SAS au capital de 96 420€, SIREN **503 594 525**, siège à Nice (06). L'idée : une plateforme e-commerce française tout-en-un, simple à utiliser, accessible aux non-techniciens
 - **2010-2015** — Développement de la plateforme et adoption par les TPE/PME françaises. WiziShop se positionne comme l'alternative française à Shopify
@@ -134,13 +134,13 @@ Shopify, PrestaShop, WooCommerce, Wix eCommerce, Squarespace Commerce. WiziShop 
 
 *Source : [WiziShop](https://www.wizishop.fr/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **L'artisan qui se lance en ligne** — Tu fabriques des bijoux artisanaux. Tu crées ta boutique WiziShop en 2 jours (template, 30 produits, paiement CB + PayPal, livraison Colissimo). L'IA génère tes fiches produit. Le SEO intégré positionne tes produits sur Google. En 6 mois : 150 commandes sans pub.
 
 **Le commerçant physique qui digitalise** — Tu as une boutique de prêt-à-porter. Tu veux vendre en ligne. WiziShop te permet de créer ta boutique e-commerce connectée à ta caisse. Tu gères un seul stock pour les ventes physiques et en ligne.
 
-## Points Forts
+# Points Forts
 
 - Tout-en-un (400+ fonctionnalités intégrées, pas de plugins)
 - SEO natif (50+ optimisations automatiques)
@@ -150,7 +150,7 @@ Shopify, PrestaShop, WooCommerce, Wix eCommerce, Squarespace Commerce. WiziShop 
 - Prix accessible (à partir de 27€/mois)
 - Hébergement inclus, sans engagement
 
-## Points Faibles
+# Points Faibles
 
 - **Moins de personnalisation** — Moins flexible que WooCommerce ou PrestaShop (open source) pour les développeurs qui veulent un contrôle total
 - **Écosystème plus petit** — Moins de thèmes et d'apps tierces que Shopify (qui a des milliers d'apps dans son store)

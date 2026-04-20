@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Attrape Tes Meilleurs Clients En Étant Généreux
 author: Diane
-description: 'Découvre Attrape Tes Meilleurs Clients En Étant Généreux : outil français
-  pour entrepreneurs, fonctionnalités et avis.'
+description: "Attrape Tes Meilleurs Clients En Étant Généreux."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

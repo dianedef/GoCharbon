@@ -1,15 +1,15 @@
 ---
 section: blog
-title: 'Big Idea et Mécanisme Unique : Le Cœur de Chaque Texte qui Vend'
+title: "Big Idea et mécanisme unique : trouver l'angle qu'on retient"
 author: Diane
 tags:
   - Marketing
-description: Comprends la Big Idea et le Mécanisme Unique, les deux concepts qui séparent le copywriting amateur du copywriting qui convertit.
-pubDate: '2026-03-23'
+description: Comprends comment trouver une idée directrice claire et un mécanisme crédible pour sortir du bruit et rendre ton offre mémorable.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Big Idea et Mécanisme Unique : Le Cœur de Chaque Texte qui Vend
+# Big Idea et mécanisme unique : trouver l'angle qu'on retient
 
 La plupart des pages de vente ne sont pas mal écrites. Elles sont bien rédigées, les phrases sont correctes, les arguments sont logiques. Et pourtant, personne ne clique sur le bouton.
 

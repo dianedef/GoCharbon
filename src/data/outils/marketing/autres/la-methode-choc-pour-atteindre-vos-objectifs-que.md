@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: La Méthode Choc Pour Atteindre Vos Objectifs Que Votre Coach Vous Cache
 author: Diane
-description: 'Découvre La Méthode Choc Pour Atteindre Vos Objectifs Que Votre Coach
-  Vous Cache : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Méthode Choc Pour Atteindre Vos Objectifs Que Votre Coach Vous Cache."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -13,20 +13,20 @@ imgUrl: ../../../assets/astro.jpeg
 
 # Outils Formation Français
 
-Que tu veuilles former tes équipes ou vendre tes propres formations, la France a des solutions performantes.
+Que tu formes des équipes ou que tu conçoives des cours en interne, l'objectif est simple : construire des parcours efficaces, utilisables, et faciles à maintenir.
 
 ## LMS & Plateformes
 
-Gestion de la formation, parcours apprenants.
+Tu y trouves les solutions pour gérer des parcours de formation, de l’onboarding à la certification, en B2B comme en coaching.
 
-**Top outils** : 360Learning, Rise Up, Teach on Mars, Beedeez
+Top références : 360Learning, Kastorr, Teachizy, Wooskill
 
 [→ Voir tous les LMS](/outils/formation/lms/)
 
 ## E-learning & Création
 
-Création de cours, quiz, certifications.
+Création de cours, micro-learning, quiz, contenus interactifs et pédagogie assistée par l’IA.
 
-**Top outils** : Teachizy, Système.io, Podia FR, Kooneo
+Top références : Teachizy, Genially, Quiz Wizard, GrAIg, Digistorm
 
 [→ Voir tous les outils e-learning](/outils/formation/elearning/)

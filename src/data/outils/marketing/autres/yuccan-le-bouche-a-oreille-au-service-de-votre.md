@@ -13,8 +13,7 @@ RS-&-RSS-suivi: null
 Ville: null
 title: 📣 Yuccan, Le Bouche À Oreille Au Service De Votre Développement
 author: Diane
-description: 'Découvre 📣 Yuccan, Le Bouche À Oreille Au Service De Votre Développement
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "📣 Yuccan, Le Bouche À Oreille Au Service De Votre Développement."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

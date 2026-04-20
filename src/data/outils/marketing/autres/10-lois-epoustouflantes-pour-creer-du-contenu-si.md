@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: 10 Lois Époustouflantes Pour Créer Du Contenu Si Bon Que C'En Est Presque Illégal
 author: Diane
-description: 'Découvre 10 Lois Époustouflantes Pour Créer Du Contenu Si Bon Que C''En
-  Est Presque Illégal : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "10 Lois Époustouflantes Pour Créer Du Contenu Si Bon Que C'En Est Presque Illégal."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

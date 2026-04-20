@@ -44,7 +44,7 @@ Produire du contenu multi-format assiste IA avec niveau éditorial humain.
 - [Fiche profil Ai Content Creator](/biz/profils/ai-content-creator)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/ai-content-creator)
+- [Suivi du parcours](/parcours/createur-contenu-ia)
 - [Ressource utile 1](/tutos/detecter-un-contenu-genere-par-ia)
 - [Ressource utile 2](/tutos/comment-generer-des-videos-en-masse)
 - [Ressource utile 3](/marketing/content-marketing)

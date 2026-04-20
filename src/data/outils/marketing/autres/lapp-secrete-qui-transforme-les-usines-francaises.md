@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: L'App Secrète Qui Transforme Les Usines Françaises En Forteresses High Tech
 author: Diane
-description: 'Découvre L''App Secrète Qui Transforme Les Usines Françaises En Forteresses
-  High Tech : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'App Secrète Qui Transforme Les Usines Françaises En Forteresses High Tech."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

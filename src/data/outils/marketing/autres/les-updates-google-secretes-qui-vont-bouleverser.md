@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Updates Google Secrètes Qui Vont Bouleverser Votre Seo
 author: Diane
-description: 'Découvre Les Updates Google Secrètes Qui Vont Bouleverser Votre Seo
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Updates Google Secrètes Qui Vont Bouleverser Votre Seo."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: Virtual Assistant / Assistant Virtuel Spécialisé
+title: Assistant virtuel
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Deviens assistant virtuel : services, outils et stratégies pour travailler
-  à distance avec succès.'
+description: 'Devenir le bras droit opérationnel d''un client sans rester coincé dans
+  de la petite exécution mal payée.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Virtual Assistant / Assistant Virtuel Spécialisé
+# Assistant virtuel
 
 ## Description en une phrase
 

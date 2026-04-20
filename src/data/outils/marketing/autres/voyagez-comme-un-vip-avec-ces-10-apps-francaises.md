@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Voyagez Comme Un Vip Avec Ces 10 Apps Françaises Secrètes
 author: Diane
-description: 'Découvre Voyagez Comme Un Vip Avec Ces 10 Apps Françaises Secrètes :
-  outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Voyagez Comme Un Vip Avec Ces 10 Apps Françaises Secrètes."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

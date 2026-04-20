@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Sous Titrez Vos Vidéos Comme Netflix Avec Ces Solutions Magiques
 author: Diane
-description: 'Découvre Sous Titrez Vos Vidéos Comme Netflix Avec Ces Solutions Magiques
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Sous Titrez Vos Vidéos Comme Netflix Avec Ces Solutions Magiques."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Partagez Votre Tech Stack Et Devenez Une Légende De La Tech
 author: Diane
-description: 'Découvre Partagez Votre Tech Stack Et Devenez Une Légende De La Tech
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Partagez Votre Tech Stack Et Devenez Une Légende De La Tech."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

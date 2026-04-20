@@ -106,7 +106,7 @@ Vise des liens utiles:
 ## Ressources utiles
 
 - [Comment se classer en premier sur Google](/tutos/comment-se-classer-en-premier-sur-google)
-- [Comment creer un topic cluster](/tutos/comment-creer-un-topic-cluster)
+- [Comprendre le cocon semantique](/seo/contenu/cocon-semantique)
 - [KPIs marketing](/marketing/analytics/kpis)
 - [Fondamentaux marketing](/marketing/fondamentaux)
 

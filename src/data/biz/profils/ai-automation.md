@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: AI Automation Agency
+title: Agence d'automatisation IA
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Maîtrise l''automatisation IA pour créer des revenus : outils, workflows
-  et stratégies pour entrepreneurs tech-savvy.'
+description: 'Vends des automatisations IA utiles à de vraies entreprises : offre,
+  exécution, limites et potentiel réel.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# AI Automation Agency (AAA)
+# Agence d'automatisation IA
 
 ## Description en une phrase
 

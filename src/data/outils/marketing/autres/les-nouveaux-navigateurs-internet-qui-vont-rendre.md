@@ -5,8 +5,7 @@ tags:
 - Outils
 title: Les Nouveaux Navigateurs Internet Qui Vont Rendre Chrome Obsolète
 author: Diane
-description: 'Découvre Les Nouveaux Navigateurs Internet Qui Vont Rendre Chrome Obsolète
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Nouveaux Navigateurs Internet Qui Vont Rendre Chrome Obsolète."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

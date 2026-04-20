@@ -6,8 +6,7 @@ tags:
 imageNameKey: null
 title: Maîtrisez Les Langages Web En Un Temps Record La Méthode Choc
 author: Diane
-description: 'Découvre Maîtrisez Les Langages Web En Un Temps Record La Méthode Choc
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Maîtrisez Les Langages Web En Un Temps Record La Méthode Choc."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

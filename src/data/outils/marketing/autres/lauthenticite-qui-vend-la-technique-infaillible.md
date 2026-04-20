@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: L'Authenticité Qui Vend La Technique Infaillible Pour Séduire Vos Clients
 author: Diane
-description: 'Découvre L''Authenticité Qui Vend La Technique Infaillible Pour Séduire
-  Vos Clients : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Authenticité Qui Vend La Technique Infaillible Pour Séduire Vos Clients."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

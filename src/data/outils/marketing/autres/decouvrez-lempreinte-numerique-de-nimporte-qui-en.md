@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Découvrez L'Empreinte Numérique De N'Importe Qui En Un Clic Flippant Mais Légal
 author: Diane
-description: 'Découvre Découvrez L''Empreinte Numérique De N''Importe Qui En Un Clic
-  Flippant Mais Légal : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Découvrez L'Empreinte Numérique De N'Importe Qui En Un Clic Flippant Mais Légal."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

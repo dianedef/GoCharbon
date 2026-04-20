@@ -11,8 +11,7 @@ tags:
 - Outils
 title: 10 Astuces Seo Interdites Qui Vont Propulser Votre Site En Top 1 Google
 author: Diane
-description: 'Découvre 10 Astuces Seo Interdites Qui Vont Propulser Votre Site En
-  Top 1 Google : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "10 Astuces Seo Interdites Qui Vont Propulser Votre Site En Top 1 Google."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -1,212 +1,157 @@
 ---
 section: blog
-title: 'Création de Site Web : Guide Complet'
+title: 'Créer un site web sans choisir la mauvaise complexité'
 author: Diane
 tags:
 - Tech
-description: Comment choisir et utiliser la bonne technologie pour ton site en 2026
-pubDate: '2026-01-17'
+description: Comment choisir le bon type de site, la bonne stack et le bon niveau de complexité quand on construit en solo ou en petite équipe.
+pubDate: '2026-04-19'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Création de Site Web : Choisir la Bonne Technologie
+# Créer un site web sans choisir la mauvaise complexité
 
-Tu veux créer un site web ? Cool. Mais avec 100+ options, comment choisir ? Voici comment ne pas te planter.
+Créer un site n'est plus le problème.
 
-## Les 4 types de sites
+Le vrai problème, aujourd'hui, c'est de choisir :
 
-### 1. Site statique (Jamstack)
+- le bon type de site
+- la bonne pile technique
+- le bon niveau d'ambition
 
-Contenu qui ne change pas souvent. Blog, portfolio, landing page.
+Beaucoup de projets partent déjà de travers parce qu'on essaie de résoudre un besoin simple avec une structure trop lourde.
 
-**Frameworks :** Astro, Next.js (export), Hugo, Jekyll
+Le bon site n'est pas celui qui utilise la meilleure techno. C'est celui qui aide vraiment ton activité.
 
-**Avantages :**
+## 1. Commence par le rôle du site
 
-- Ultra-rapide
-- Sécurisé (pas de backend)
-- Hébergement gratuit (Vercel, Netlify)
-- SEO par défaut
+Avant de parler framework, CMS ou hébergement, demande :
 
-**Inconvénients :**
+**à quoi doit servir ce site ?**
 
-- Pas de backend par défaut
-- Pas idéal pour contenu dynamique
-- Requiert des connaissances de base
+Tu n'as pas besoin du même système si tu veux :
 
-**Pour qui ?** Blogs, portfolios, landing pages, documentation
+- présenter une activité
+- capter des leads
+- publier du contenu
+- vendre des produits
+- faire tourner une application
 
-### 2. Site dynamique (SSR/SSG)
+Le choix technique vient après. Pas avant.
 
-Contenu généré à la demande ou build-time. Applications web, SaaS.
+## 2. Les grands cas d'usage
 
-**Frameworks :** Next.js, Nuxt.js, SvelteKit
+### Site vitrine
 
-**Avantages :**
+Objectif : être clair, rassurant, trouvable, et donner envie de te contacter.
 
-- Meilleure expérience utilisateur
-- SEO optimisé (SSR)
-- Interactivité riche
-- Scable
+Tu veux surtout :
 
-**Inconvénients :**
+- une promesse nette
+- quelques pages solides
+- un bon affichage mobile
+- un formulaire propre
 
-- Plus complexe
-- Hébergement peut coûter cher
-- Temps de développement plus long
+Ici, la simplicité gagne souvent.
 
-**Pour qui ?** SaaS, applications web, marketplaces
+### Site de contenu
 
-### 3. CMS (Content Management System)
+Objectif : publier, être lu, se positionner, créer un actif éditorial.
 
-Panels admin pour gérer le contenu sans code. WordPress, Ghost, Joomla.
+Tu veux :
 
-**Avantages :**
+- une structure claire
+- des templates cohérents
+- une bonne vitesse
+- un vrai système d'indexation
 
-- Facile à utiliser (pas de code requis)
-- Écosystème de plugins énorme
-- Communauté active
-- Rapide à démarrer
+### E-commerce
 
-**Inconvénients :**
+Objectif : vendre sans friction.
 
-- Plus lent que les frameworks modernes
-- Sécurité (beaucoup de plugins vulnérables)
-- Difficile à customiser en profondeur
-- Bloat (trop de fonctionnalités inutiles)
+Le site doit alors gérer :
 
-**Pour qui ?** Blogs, sites d'entreprise, e-commerce simple
+- catalogue
+- paiement
+- logistique
+- service client
+- mesure
 
-### 4. E-commerce plateforme
+Ce n'est plus juste un site. C'est une machine opérationnelle.
 
-Spécialisé pour la vente en ligne. Shopify, PrestaShop, Magento.
+### App ou outil web
 
-**Avantages :**
+Objectif : faire utiliser un produit.
 
-- Fonctionnalités e-commerce intégrées
-- Paiements intégrés
-- Gestion des produits simplifiée
-- Plugins spécifiques e-commerce
+Là, la logique change :
 
-**Inconvénients :**
+- auth
+- base de données
+- permissions
+- états
+- support
+- monitoring
 
-- Coûts mensuels élevés
-- Difficile à customiser
-- Fractions sur chaque vente
-- Vendor lock-in
+Tu n'as plus seulement un enjeu marketing, tu as un enjeu produit.
 
-**Pour qui ?** Boutiques en ligne, dropshipping, e-commerce
+## 3. Les erreurs qui coûtent le plus
 
-## Comment choisir ?
+### Choisir un CMS par habitude
 
-### Tableau comparatif
+Beaucoup de gens prennent WordPress ou équivalent "parce qu'on fait toujours comme ça". Ce n'est pas forcément faux. Mais ce n'est pas un argument.
 
-| Technologie | Type       | Difficulté | Prix mensuel | Performance | Scalabilité |
-| ----------- | ---------- | ---------- | ------------ | ----------- | ----------- |
-| Astro       | Statique   | Moyenne    | 0-20€        | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐    |
-| Next.js     | Dynamique  | Haute      | 0-100€       | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐  |
-| WordPress   | CMS        | Faible     | 0-30€        | ⭐⭐⭐      | ⭐⭐⭐⭐    |
-| Shopify     | E-commerce | Faible     | 29-299€      | ⭐⭐⭐⭐    | ⭐⭐⭐⭐⭐  |
-| Ghost       | CMS blog   | Moyenne    | 0-90€        | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐    |
-| Nuxt.js     | Dynamique  | Haute      | 0-100€       | ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐  |
+### Sur-construire
 
-### Questions à se poser
+Un site simple n'a pas besoin d'une stack d'application.
 
-| Question                                   | Si oui → Choisis      |
-| ------------------------------------------ | --------------------- |
-| Tu veux un blog ultra-rapide ?             | Ghost ou Astro        |
-| Tu veux une application web/SaaS ?         | Next.js ou Nuxt.js    |
-| Tu ne sais pas coder ?                     | WordPress ou Shopify  |
-| Tu veux faire de l'e-commerce simple ?     | Shopify               |
-| Tu veux vendre des produits complexes ?    | Magento ou PrestaShop |
-| Tu veux créer un portfolio ?               | Astro                 |
-| Tu veux un site d'entreprise sans budget ? | WordPress             |
+### Sous-construire
 
-## Les 5 erreurs à éviter
+À l'inverse, une activité qui dépend fortement du site ne devrait pas être portée par un bricolage impossible à maintenir.
 
-### 1. Choisir WordPress "parce que tout le monde le fait"
+### Oublier l'exploitation
 
-WordPress représente 40% du web, mais ça ne veut pas dire que c'est bon pour TOI.
+Créer le site est une étape. Le maintenir, le faire évoluer, le corriger et le mesurer en est une autre.
 
-**Réalité :** Si tu sais un peu coder, un framework moderne (Astro, Next.js) sera 10x plus rapide et sécurisé.
+## 4. Ce qu'il faut regarder pour bien choisir
 
-### 2. Commencer avec un CMS pour un site statique
+Avant de décider, pose-toi ces questions :
 
-Tu veux un simple landing page ? Tu prends WordPress ?
+- qui mettra à jour le contenu ?
+- quelle vitesse d'exécution veux-tu ?
+- quel budget peux-tu assumer ensuite ?
+- est-ce qu'il y a un vrai besoin de contenu dynamique ?
+- quel niveau de performance et de SEO est attendu ?
+- est-ce qu'il y aura des évolutions fréquentes ?
 
-**Réalité :** Tu perds ton temps à installer/configurer/optimiser WordPress pour un truc qui t'aurait pris 2h avec Carrd ou Astro.
+Ces questions valent souvent plus que la comparaison infinie des outils.
 
-### 3. Ignorer l'hébergement
+## 5. Une règle simple pour ne pas te tromper
 
-"Je prends le moins cher possible" → Tu vas regretter.
+Choisis la solution la plus simple qui tient ton besoin réel.
 
-**Hébergement par type :**
+Pas celle qui impressionne le plus.
 
-| Type             | Prix       | Pour qui ?                |
-| ---------------- | ---------- | ------------------------- |
-| Vercel/Netlify   | 0-20€/mois | Jamstack (Astro, Next.js) |
-| Shared hosting   | 2-10€/mois | WordPress, PHP            |
-| VPS              | 5-50€/mois | Sites à trafic moyen      |
-| Cloudflare Pages | 0-20€/mois | Statique                  |
+Pas celle qui laisse le plus d'options théoriques.
 
-### 4. Sur-compliquer ton stack
+Pas celle qu'un expert t'a vendue comme "future-proof".
 
-"Je prends Next.js + Prisma + PostgreSQL + Redis + Docker" → Pour un blog ?
+La plupart des projets ont besoin d'un système :
 
-**Réalité :** Commence simple. Next.js + API routes ou Astro + Netlify CMS suffisent pour 90% des projets.
+- clair
+- rapide
+- maintenable
+- documenté
 
-### 5. Ignorer le SEO
+Le reste vient après.
 
-"Mon site est beau, les gens vont venir" → Non.
+## Ce qu'un bon site doit faire
 
-**SEO par type :**
+Au fond, un bon site doit surtout répondre à ça :
 
-| Type          | SEO par défaut | Effort requis           |
-| ------------- | -------------- | ----------------------- |
-| Astro         | ⭐⭐⭐⭐⭐     | Faible                  |
-| Next.js (SSR) | ⭐⭐⭐⭐⭐     | Faible                  |
-| WordPress     | ⭐⭐⭐         | Moyen (Yoast, RankMath) |
-| Shopify       | ⭐⭐⭐⭐       | Faible                  |
-| Ghost         | ⭐⭐⭐⭐⭐     | Faible                  |
+- est-ce qu'on comprend ce que tu proposes ?
+- est-ce qu'on sait quoi faire ensuite ?
+- est-ce que ça marche bien sur mobile ?
+- est-ce que ça inspire confiance ?
+- est-ce que tu peux le faire vivre sans t'épuiser ?
 
-## Outils pour démarrer
-
-### Pour les débutants (no-code)
-
-| Outil   | Usage                    | Prix        |
-| ------- | ------------------------ | ----------- |
-| Carrd   | Landing page simple      | 0-19€/an    |
-| Webflow | Site visuel              | 0-212€/mois |
-| Framer  | Landing page moderne     | 0-25€/mois  |
-| Softr   | Site sur base de données | 0-0€/mois   |
-
-### Pour les développeurs
-
-| Framework | Usage               | Prix        |
-| --------- | ------------------- | ----------- |
-| Astro     | Site statique       | 0-20€/mois  |
-| Next.js   | Application web     | 0-100€/mois |
-| Nuxt.js   | Application web Vue | 0-100€/mois |
-| SvelteKit | Application web     | 0-100€/mois |
-
-### Pour le e-commerce
-
-| Plateforme  | Usage                  | Prix         |
-| ----------- | ---------------------- | ------------ |
-| Shopify     | E-commerce tout-en-un  | 29-299€/mois |
-| PrestaShop  | E-commerce open-source | 0-30€/mois   |
-| Magento     | E-commerce enterprise  | Variable     |
-| WooCommerce | E-commerce WordPress   | 0-30€/mois   |
-
-## En savoir plus
-
-- [Astro](/site/astro) - Guide complet Astro
-- [Next.js](/site/next) - Guide Next.js
-- [WordPress](/site/wordpress) - Guide WordPress
-- [Ghost](/site/ghost) - Guide Ghost pour blogs
-- [Shopify](/site/shopify) - Guide e-commerce
-- [Tech](/tech) - Architecture et développement
-
----
-
-Choisir la bonne technologie dépend de TON projet, pas de ce que font les autres. Réponds à 3 questions : Quoi (type de site) ? Qui (ton audience) ? Combien (budget) ? Le choix devient évident.
+Si la réponse est oui, tu es déjà plus avancé que beaucoup de sites "plus modernes".

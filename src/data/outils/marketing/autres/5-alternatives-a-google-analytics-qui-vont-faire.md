@@ -8,8 +8,7 @@ tags:
 imageNameKey: null
 title: 5 Alternatives À Google Analytics Qui Vont Faire Pleurer Larry Page
 author: Diane
-description: 'Découvre 5 Alternatives À Google Analytics Qui Vont Faire Pleurer Larry
-  Page : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "5 Alternatives À Google Analytics Qui Vont Faire Pleurer Larry Page."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

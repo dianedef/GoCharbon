@@ -18,17 +18,17 @@ u_derniere_maj: "2026-03-15"
 
 # Yavin
 
-## TERMINAL DE PAIEMENT : LA STARTUP FRANÇAISE QUI RÉVOLUTIONNE LE TPE AVEC DES TERMINAUX ANDROID NOUVELLE GÉNÉRATION
+# TERMINAL DE PAIEMENT : LA STARTUP FRANÇAISE QUI RÉVOLUTIONNE LE TPE AVEC DES TERMINAUX ANDROID NOUVELLE GÉNÉRATION
 
-### tl;dr
+## tl;dr
 
 Yavin (yavin.com), c'est la **startup française de terminaux de paiement** qui propose des **TPE Android nouvelle génération** aux commerçants, restaurateurs et indépendants. Fondée en **2019** à **Paris** par **Samuel Manassé** et **Alfred Bourély**, Yavin se positionne comme l'alternative moderne aux TPE bancaires traditionnels : terminaux **Android ouverts** (qui acceptent des apps tierces), **commissions compétitives**, **sans engagement**, **sans frais cachés**. La gamme comprend le **Mini X** (compact), le **Yavin X** (mobile 4G/Wi-Fi), le **PinPad** (fixe Ethernet), le **PinPad Pro** (intégration caisse), le **Yavin XL** (écran large, restauration rapide) et le **SoftPOS** (app Android sans terminal physique). Yavin est compatible avec **tous les contrats bancaires** — tu gardes ta banque et tu choisis ton terminal. Le TPE est **ouvert** : il accepte des applications tierces (pourboires, avis Google, fidélité, click & collect). L'offre vise les commerçants avec un **volume de transactions conséquent** qui veulent économiser sur les commissions par rapport aux TPE bancaires.
 
-### Alternative à
+## Alternative à
 
 SumUp, Square, Smile & Pay, myPOS, TPE bancaires (Ingenico/Verifone loués par les banques), Zettle (PayPal). Yavin se distingue par ses **terminaux Android ouverts** (là où SumUp et Square sont fermés — pas d'apps tierces), son **indépendance bancaire** (tu gardes ton contrat bancaire actuel, le terminal est découplé de la banque), et sa **suite d'applications** (pourboires, avis Google, fidélité, lien de paiement — intégrées directement dans le terminal).
 
-## Bénéfices
+# Bénéfices
 
 **Terminaux Android ouverts** — Les TPE Yavin tournent sous Android, ce qui permet d'installer des applications tierces directement sur le terminal : gestion des pourboires (le client choisit le montant sur l'écran tactile), collecte d'avis Google (demande automatique après paiement), programme de fidélité, click & collect. Le terminal devient un mini-ordinateur, pas juste un lecteur de carte.
 
@@ -42,7 +42,7 @@ SumUp, Square, Smile & Pay, myPOS, TPE bancaires (Ingenico/Verifone loués par l
 
 **Mode offline** — Tu encaisses même sans internet grâce au mode hors-ligne. Les transactions sont stockées et transmises automatiquement quand la connexion revient. Indispensable pour les food trucks, marchés et événements.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Restaurateurs (pourboires, avis Google, commande à table)
 - Restauration rapide (Yavin XL, écran large, intégration caisse)
@@ -52,7 +52,7 @@ SumUp, Square, Smile & Pay, myPOS, TPE bancaires (Ingenico/Verifone loués par l
 - Enseignes et franchises (déploiement multi-sites)
 - Tout commerçant qui veut un TPE moderne sans engagement bancaire
 
-## Comment Utiliser Yavin
+# Comment Utiliser Yavin
 
 1. **Contact** — Va sur [yavin.com](https://yavin.com/) et remplis le formulaire de demande
 2. **Devis** — Un commercial Yavin te contacte, évalue ton volume de transactions et te propose une offre sur mesure
@@ -61,9 +61,9 @@ SumUp, Square, Smile & Pay, myPOS, TPE bancaires (Ingenico/Verifone loués par l
 5. **Applications** — Active les apps sur ton terminal (pourboires, avis, fidélité)
 6. **Encaissement** — Commence à encaisser : CB, sans contact, Apple Pay, Google Pay
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Gamme de terminaux
+## Gamme de terminaux
 
 - **Mini X** — Terminal compact, léger, 4G & Wi-Fi. Idéal pour les petits commerces et la mobilité
 - **Yavin X** — Terminal mobile puissant, 4G & Wi-Fi. Le best-seller, polyvalent
@@ -72,7 +72,7 @@ SumUp, Square, Smile & Pay, myPOS, TPE bancaires (Ingenico/Verifone loués par l
 - **Yavin XL** — Grand écran, 4G & Wi-Fi. Conçu pour la restauration rapide
 - **SoftPOS** — Application Android qui transforme ton smartphone en terminal de paiement (sans matériel)
 
-### Applications intégrées
+## Applications intégrées
 
 - **Pourboires** — Suggestion de pourboire sur l'écran tactile après paiement
 - **Avis clients** — Demande automatique d'avis Google, TripAdvisor, LaFourchette
@@ -81,14 +81,14 @@ SumUp, Square, Smile & Pay, myPOS, TPE bancaires (Ingenico/Verifone loués par l
 - **Paiement en plusieurs fois** — Facilités de paiement
 - **Click & Collect** — Intégration pour la vente en ligne avec retrait en magasin
 
-### Paiements acceptés
+## Paiements acceptés
 
 - **Cartes bancaires** — CB, Visa, Mastercard, American Express (contrat séparé)
 - **Sans contact** — NFC, Apple Pay, Google Pay, Samsung Pay
 - **Titres-restaurant** — Conecs (nécessite souscription séparée)
 - **Wallets** — Paiement par QR code
 
-## Prix
+# Prix
 
 Yavin ne publie pas de grille tarifaire standard sur son site (formulaire obligatoire) :
 
@@ -102,7 +102,7 @@ Les tarifs sont compétitifs pour les commerçants à volume (plusieurs milliers
 
 *Source : [Yavin](https://yavin.com/), [independant.io](https://independant.io/avis/yavin/)*
 
-## Intégrations
+# Intégrations
 
 - **Logiciels de caisse** : Connexion via PinPad Pro (Ethernet)
 - **Google** : Avis Google directement depuis le terminal
@@ -111,7 +111,7 @@ Les tarifs sont compétitifs pour les commerçants à volume (plusieurs milliers
 - **Titres-restaurant** : Conecs (contrat séparé)
 - **American Express** : Contrat séparé
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **2019** — Création de **Yavin** à **Paris** par **Samuel Manassé** et **Alfred Bourély**. Le constat : les TPE bancaires traditionnels (Ingenico, Verifone loués par les banques) sont chers, fermés, avec des contrats de 36 mois et des frais cachés. L'idée : proposer des terminaux Android nouvelle génération, ouverts et sans engagement
 - **2020** — Lancement de la première génération de TPE, la gamme **Millenium**. Premiers clients dans la restauration et le commerce de détail
@@ -121,7 +121,7 @@ Les tarifs sont compétitifs pour les commerçants à volume (plusieurs milliers
 
 *Source : [Yavin](https://yavin.com/), [detective-banque.fr](https://www.detective-banque.fr/terminal-de-paiement/yavin-avis/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **Le restaurant qui veut plus de pourboires** — Tu gères un restaurant avec 15 couverts par service. Avec le Yavin X, l'app Pourboires suggère automatiquement un montant au client après le paiement. Résultat : tes serveurs reçoivent 3x plus de pourboires qu'avec un TPE classique. En bonus, l'app Avis Google génère des avis 5 étoiles sans effort.
 
@@ -129,7 +129,7 @@ Les tarifs sont compétitifs pour les commerçants à volume (plusieurs milliers
 
 **Le food truck en événement** — Tu fais des marchés et des festivals. Le Yavin X en 4G te permet d'encaisser partout. Le mode offline prend le relais quand le réseau est saturé (classique en festival). Zéro vente manquée.
 
-## Points Forts
+# Points Forts
 
 - Terminaux Android ouverts — écosystème d'applications (pourboires, avis, fidélité)
 - Sans engagement — pas de contrat 36 mois
@@ -141,7 +141,7 @@ Les tarifs sont compétitifs pour les commerçants à volume (plusieurs milliers
 - SoftPOS — transforme un smartphone en TPE
 - Recommandé par Pennylane et independant.io
 
-## Points Faibles
+# Points Faibles
 
 - **Tarifs opaques** — Impossible de connaître les prix sans remplir un formulaire et parler à un commercial. Pour un indépendant qui veut comparer rapidement, c'est un frein. SumUp et Square affichent leurs tarifs clairement
 - **Pas adapté aux très petits volumes** — Si tu encaisses 500€/mois par carte, SumUp à 1,25% sans abonnement sera moins cher. Yavin est optimisé pour les commerçants avec du volume

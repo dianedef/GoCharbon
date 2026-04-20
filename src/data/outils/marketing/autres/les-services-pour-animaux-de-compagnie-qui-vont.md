@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Services Pour Animaux De Compagnie Qui Vont Faire De Votre Pet Un Influenceur
 author: Diane
-description: 'Découvre Les Services Pour Animaux De Compagnie Qui Vont Faire De Votre
-  Pet Un Influenceur : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Services Pour Animaux De Compagnie Qui Vont Faire De Votre Pet Un Influenceur."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

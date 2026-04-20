@@ -11,8 +11,7 @@ statut:
 - en-cours
 title: Beeper L'App Qui Va Unifier Toutes Vos Messageries Et Changer Votre Vie
 author: Diane
-description: 'Découvre Beeper L''App Qui Va Unifier Toutes Vos Messageries Et Changer
-  Votre Vie : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Beeper L'App Qui Va Unifier Toutes Vos Messageries Et Changer Votre Vie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -9,8 +9,7 @@ tags:
 - Outils
 title: L'Éditeur Vidéo Ia Cloud Qui Va Révolutionner Vos Montages
 author: Diane
-description: 'Découvre L''Éditeur Vidéo Ia Cloud Qui Va Révolutionner Vos Montages
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Éditeur Vidéo Ia Cloud Qui Va Révolutionner Vos Montages."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

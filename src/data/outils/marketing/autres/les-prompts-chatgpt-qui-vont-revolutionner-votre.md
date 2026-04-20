@@ -12,8 +12,7 @@ tags:
 - Outils
 title: Les Prompts Chatgpt Qui Vont Révolutionner Votre Business Résultats Garantis
 author: Diane
-description: 'Découvre Les Prompts Chatgpt Qui Vont Révolutionner Votre Business Résultats
-  Garantis : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Prompts Chatgpt Qui Vont Révolutionner Votre Business Résultats Garantis."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

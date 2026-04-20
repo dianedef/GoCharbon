@@ -1,15 +1,15 @@
 ---
 section: blog
-title: 'Polarisation et Identité Tribale : Le Copywriting qui Crée des Fans'
+title: 'Polarisation : prendre position sans virer au cirque'
 author: Diane
 tags:
   - Marketing
-description: La polarisation filtre ton audience et crée des fans. Ennemi commun, identité tribale et positionnement contrarian pour un copywriting qui marque.
-pubDate: '2026-03-23'
+description: Utilise la polarisation pour clarifier ton positionnement, filtrer ton audience et créer une identité forte sans tomber dans la caricature.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Polarisation et Identité Tribale : Le Copywriting qui Crée des Fans
+# Polarisation : prendre position sans virer au cirque
 
 Tu peux écrire un texte que tout le monde trouve "pas mal". Ou tu peux écrire un texte que la moitié de ton audience adore — et l'autre moitié déteste. Devine lequel vend.
 

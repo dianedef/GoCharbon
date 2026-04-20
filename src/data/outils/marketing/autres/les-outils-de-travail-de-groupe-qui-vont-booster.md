@@ -7,8 +7,7 @@ tags:
 - Outils
 title: Les Outils De Travail De Groupe Qui Vont Booster Votre Productivité De 1000%
 author: Diane
-description: 'Découvre Les Outils De Travail De Groupe Qui Vont Booster Votre Productivité
-  De 1000% : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Outils De Travail De Groupe Qui Vont Booster Votre Productivité De 1000%."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

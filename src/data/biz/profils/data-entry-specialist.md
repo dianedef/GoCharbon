@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: Data Entry Specialist / Spécialiste Saisie de Données
+title: Spécialiste de la saisie de données
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Lance-toi dans la saisie de données : outils, plateformes de freelance
-  et stratégies pour décrocher des missions.'
+description: 'Une activité simple d''exécution à distance, utile pour démarrer mais
+  vite plafonnée.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Data Entry Specialist / Spécialiste Saisie de Données
+# Spécialiste de la saisie de données
 
 ## Description en une phrase
 

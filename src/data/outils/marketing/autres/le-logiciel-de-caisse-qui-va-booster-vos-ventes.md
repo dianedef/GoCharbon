@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Le Logiciel De Caisse Qui Va Booster Vos Ventes De 200%
 author: Diane
-description: 'Découvre Le Logiciel De Caisse Qui Va Booster Vos Ventes De 200% : outil
-  français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Logiciel De Caisse Qui Va Booster Vos Ventes De 200%."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

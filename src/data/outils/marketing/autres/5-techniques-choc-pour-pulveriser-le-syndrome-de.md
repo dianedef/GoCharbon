@@ -8,8 +8,7 @@ u_site: null
 title: 5 Techniques Choc Pour Pulvériser Le Syndrome De L'Imposteur Une Fois Pour
   Toutes
 author: Diane
-description: 'Découvre 5 Techniques Choc Pour Pulvériser Le Syndrome De L''Imposteur
-  Une Fois Pour Toutes : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "5 Techniques Choc Pour Pulvériser Le Syndrome De L'Imposteur Une Fois Pour Toutes."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

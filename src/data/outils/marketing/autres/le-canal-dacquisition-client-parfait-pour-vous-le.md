@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Le Canal D'Acquisition Client Parfait Pour Vous Le Test Choc Qui Va Tout Révéler
 author: Diane
-description: 'Découvre Le Canal D''Acquisition Client Parfait Pour Vous Le Test Choc
-  Qui Va Tout Révéler : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Canal D'Acquisition Client Parfait Pour Vous Le Test Choc Qui Va Tout Révéler."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

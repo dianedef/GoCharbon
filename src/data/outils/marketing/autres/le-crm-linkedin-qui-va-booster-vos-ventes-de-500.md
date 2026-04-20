@@ -11,8 +11,7 @@ tags:
 - Outils
 title: Le Crm Linkedin Qui Va Booster Vos Ventes De 500%
 author: Diane
-description: 'Découvre Le Crm Linkedin Qui Va Booster Vos Ventes De 500% : outil français
-  pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Crm Linkedin Qui Va Booster Vos Ventes De 500%."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

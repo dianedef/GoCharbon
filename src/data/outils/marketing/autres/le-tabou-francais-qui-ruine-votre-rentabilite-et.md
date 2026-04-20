@@ -6,8 +6,7 @@ tags:
 imageNameKey: tabou-argent
 title: Le Tabou Français Qui Ruine Votre Rentabilité (Et Comment Le Briser)
 author: Diane
-description: 'Découvre Le Tabou Français Qui Ruine Votre Rentabilité (Et Comment Le
-  Briser) : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Tabou Français Qui Ruine Votre Rentabilité (Et Comment Le Briser)."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

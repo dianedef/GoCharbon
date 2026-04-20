@@ -1,18 +1,17 @@
 ---
 section: parcours
-title: Infoproduits / Produits Digitaux
+title: Produits digitaux
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Crée et vends des infoproduits : ebooks, templates et ressources digitales
-  pour revenus passifs.'
+description: 'Vendre des produits digitaux utiles sans vendre du faux passif.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
 ## Description
 
-Les infoproduits, ce sont des produits digitaux que tu crées une fois et vends à l'infini : ebooks, templates, checklists, presets, packs de ressources, etc. Contrairement aux formations (qui demandent beaucoup de contenu), les infoproduits sont plus simples et rapides à créer.
+Les produits digitaux sont des ressources que tu peux créer une fois et vendre plusieurs fois : templates, guides, checklists, packs, bibliothèques, kits. Le modèle est intéressant, mais il tient surtout si le produit résout un vrai problème pour une cible claire.
 
 L'énorme avantage : marges à 100% (pas de coût de production), pas de stock, pas d'envoi, et scalable à l'infini. Tu crées une fois, tu vends 1000 fois. C'est le business le plus proche du "revenu passif" réel.
 

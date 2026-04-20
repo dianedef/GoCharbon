@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Oubliez Webflow Voici L'Outil Qui Va Le Détrôner En 2024
 author: Diane
-description: 'Découvre Oubliez Webflow Voici L''Outil Qui Va Le Détrôner En 2024 :
-  outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Oubliez Webflow Voici L'Outil Qui Va Le Détrôner En 2024."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

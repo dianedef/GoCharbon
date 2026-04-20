@@ -6,6 +6,7 @@ import { Home, ChevronRight } from "lucide-astro";
 import { breadcrumbsConfig } from "../../config/breadcrumbs";
 import { SITE } from "../../config/site";
 import { ROUTES } from "../../config/routes";
+import { isParcoursOnlyBuild } from "../../utils/build-scope";
 import type {
 	BaseNavigationProps,
 	NavigationItem,
@@ -14,13 +15,16 @@ import type {
 
 type Props = BaseNavigationProps;
 
-const navigationItems: NavigationItem[] = [
-	{ name: "Parcours", url: ROUTES.parcours },
-	{ name: "Outils", url: ROUTES.outils },
-	{ name: "Blog", url: ROUTES.blog },
-	{ name: "Tutos", url: ROUTES.tutos },
-	{ name: "Progression", url: ROUTES.progression },
-];
+const launchBuild = isParcoursOnlyBuild();
+const navigationItems: NavigationItem[] = launchBuild
+	? [{ name: "Parcours", url: ROUTES.parcours }]
+	: [
+		{ name: "Parcours", url: ROUTES.parcours },
+		{ name: "Outils", url: ROUTES.outils },
+		{ name: "Blog", url: ROUTES.blog },
+		{ name: "Tutos", url: ROUTES.tutos },
+		{ name: "Progression", url: ROUTES.progression },
+	];
 
 const socialIcons: SocialLink[] = [
 	{
@@ -48,8 +52,11 @@ const socialIcons: SocialLink[] = [
 		url: SITE.social.facebook,
 		icon: "i-uil-facebook",
 	},
-	{ name: "RSS", url: ROUTES.feed, icon: "i-uil-rss" },
 ];
+
+if (!launchBuild) {
+	socialIcons.push({ name: "RSS", url: ROUTES.feed, icon: "i-uil-rss" });
+}
 
 const { pageTitle } = Astro.props;
 const worldIcons = {

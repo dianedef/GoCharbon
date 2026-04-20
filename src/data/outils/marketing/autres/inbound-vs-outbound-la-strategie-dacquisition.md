@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Inbound Vs Outbound La Stratégie D'Acquisition Clients Qui Va Vous Rendre Riche
 author: Diane
-description: 'Découvre Inbound Vs Outbound La Stratégie D''Acquisition Clients Qui
-  Va Vous Rendre Riche : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Inbound Vs Outbound La Stratégie D'Acquisition Clients Qui Va Vous Rendre Riche."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

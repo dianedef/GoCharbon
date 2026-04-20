@@ -7,8 +7,7 @@ tags:
 - Outils
 title: La Fin De Google Analytics Ce Qui Va Remplacer Le Géant Et Pourquoi C'Est Génial
 author: Diane
-description: 'Découvre La Fin De Google Analytics Ce Qui Va Remplacer Le Géant Et
-  Pourquoi C''Est Génial : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Fin De Google Analytics Ce Qui Va Remplacer Le Géant Et Pourquoi C'Est Génial."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

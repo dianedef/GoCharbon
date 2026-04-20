@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: 'Le Côté Obscur Du Business Enfin Révélé Êtes Vous Prêt Pour La Vérité '
 author: Diane
-description: 'Découvre Le Côté Obscur Du Business Enfin Révélé Êtes Vous Prêt Pour
-  La Vérité  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Côté Obscur Du Business Enfin Révélé Êtes Vous Prêt Pour La Vérité."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

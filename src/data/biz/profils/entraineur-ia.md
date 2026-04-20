@@ -1,18 +1,19 @@
 ---
 section: parcours
-title: Entraîneur IA / Data Worker
+title: Entraîneur IA
 author: Diane GoCharbon
 tags:
 - Business
 - Tech
-description: 'Gagne de l''argent en entraînant les IA : annotation, RLHF, évaluation de modèles. Le nouveau side hustle tech accessible sans coder.'
+description: 'Annotation, évaluation, RLHF et travail de données : un side hustle
+  tech crédible, mais irrégulier et vite plafonné.'
 pubDate: '2026-03-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
 ## Description
 
-L'entraînement IA, c'est le travail invisible derrière ChatGPT, Claude, Gemini et tous les modèles que tu utilises au quotidien. Concrètement, tu évalues des réponses générées par l'IA, tu écris des prompts, tu annotes des données, tu vérifies des faits, tu compares des images — et tu es payé pour ça.
+L'entraînement IA, c'est le travail humain qui aide les modèles à produire de meilleures réponses. C'est une piste intéressante pour générer un revenu ponctuel ou découvrir l'écosystème IA, mais il faut le voir pour ce qu'il est : une activité d'exécution qualifiée, pas un raccourci vers un gros business.
 
 Des plateformes comme Outlier.ai (filiale de Scale AI), Wirk.io, Isahit ou DataAnnotation.tech font le lien entre les labos d'IA (OpenAI, Google, Meta, Anthropic) et des milliers de contributeurs humains dans le monde. Ton rôle : fournir le feedback humain qui rend les modèles plus précis, plus fiables, moins hallucinogènes.
 

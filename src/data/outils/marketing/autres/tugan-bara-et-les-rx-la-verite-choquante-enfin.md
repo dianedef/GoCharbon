@@ -5,7 +5,7 @@ tags:
   - Marketing
 title: 'RX de Tugan Bara : Avis et Analyse des Revenus Exponentiels'
 author: Diane
-description: 'Avis sur les RX (Revenus Exponentiels) de Tugan Bara : contenu, prix, pour qui c''est fait et ce que ça vaut vraiment. Analyse honnête.'
+description: "Avis sur les RX (Revenus Exponentiels) de Tugan Bara : contenu, prix, pour qui c'est fait et ce que ça vaut vraiment. Analyse honnête."
 pubDate: '2026-03-23'
 imgUrl: ../../../../assets/astro.jpeg
 ---

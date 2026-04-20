@@ -6,8 +6,7 @@ tags:
 imageNameKey: null
 title: Lancez Un Business En Ligne Qui Cartonne En 30 Jours La Méthode Infaillible
 author: Diane
-description: 'Découvre Lancez Un Business En Ligne Qui Cartonne En 30 Jours La Méthode
-  Infaillible : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Lancez Un Business En Ligne Qui Cartonne En 30 Jours La Méthode Infaillible."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

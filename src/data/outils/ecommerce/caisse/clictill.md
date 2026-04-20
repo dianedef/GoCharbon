@@ -18,17 +18,17 @@ u_derniere_maj: "2026-03-15"
 
 # Clictill
 
-## CAISSE CLOUD : LE LOGICIEL DE CAISSE FRANÇAIS POUR LES ENSEIGNES MULTI-MAGASINS ET LES CHAÎNES
+# CAISSE CLOUD : LE LOGICIEL DE CAISSE FRANÇAIS POUR LES ENSEIGNES MULTI-MAGASINS ET LES CHAÎNES
 
-### tl;dr
+## tl;dr
 
 Clictill (clictill.com), c'est le **logiciel de caisse 100% cloud/SaaS français** édité par **JLR Distribution** (fondée en **janvier 2002** à **Lyon**, SIREN **440 663 839**). Certifié **NF525** (conforme loi anti-fraude TVA), Clictill est conçu pour les **commerces de détail**, les **chaînes de magasins**, les **franchises** et les **enseignes multi-sites**. Dirigé par **Didier Voyenne** et **Jean-Luc Roset**. **300+ clients** dans **15 pays**, **20-49 employés**. Parmi les utilisateurs : **Bleu Libellule** (300 magasins de produits de coiffure), **Puma**, **La Poste**, **Pierre Fabre**, **Aéroport de Lyon**. Pricing à partir de **41€/mois** par caisse. Noté **4.9/5 sur Google**. Données hébergées en **France**. Le positionnement : la caisse cloud made in France pour les enseignes qui ont besoin de **centralisation**, de **multi-magasins** et de **reporting consolidé** — là où les apps iPad sont trop simples.
 
-### Alternative à
+## Alternative à
 
 Lightspeed, Cegid Retail, Oracle MICROS, Square POS, Tactill, mybe, Zelty. Clictill se distingue par son **positionnement enseignes/chaînes** (gestion de 300+ magasins pour Bleu Libellule — c'est un niveau de scalabilité que Tactill ou mybe n'atteignent pas), son **cloud natif** (pas de serveur local, tout est accessible depuis n'importe où), et sa **certification NF525** native (conforme dès l'installation, pas besoin de modules additionnels).
 
-## Bénéfices
+# Bénéfices
 
 **Gestion multi-magasins centralisée** — Tu gères 10, 50 ou 300 magasins depuis un seul dashboard cloud. Stocks centralisés, prix et promotions déployés en masse, reporting consolidé par magasin, région ou national. Bleu Libellule gère 300 boutiques de coiffure avec Clictill — preuve que ça scale.
 
@@ -38,7 +38,7 @@ Lightspeed, Cegid Retail, Oracle MICROS, Square POS, Tactill, mybe, Zelty. Clict
 
 **15 pays** — Clictill supporte la multi-devise, la multi-langue et les réglementations fiscales de 15 pays. Pour les enseignes qui s'étendent à l'international, c'est un atout majeur.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Enseignes et chaînes de magasins (franchises, succursales)
 - Commerces de détail multi-sites
@@ -47,7 +47,7 @@ Lightspeed, Cegid Retail, Oracle MICROS, Square POS, Tactill, mybe, Zelty. Clict
 - Commerces qui veulent une caisse cloud sans serveur local
 - Réseaux de franchisés avec besoin de centralisation
 
-## Comment Utiliser Clictill
+# Comment Utiliser Clictill
 
 1. **Contact** — Va sur [clictill.com](https://www.clictill.com/) et demande une démonstration
 2. **Configuration** — L'équipe Clictill configure ton environnement : magasins, produits, prix, promotions
@@ -56,9 +56,9 @@ Lightspeed, Cegid Retail, Oracle MICROS, Square POS, Tactill, mybe, Zelty. Clict
 5. **Utilisation** — Encaissement, gestion des stocks, fidélité, reporting depuis le cloud
 6. **Support** — Assistance technique incluse
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Caisse et vente
+## Caisse et vente
 
 - **Interface cloud** — Accessible depuis n'importe quel navigateur web
 - **Multi-magasins** — Gestion centralisée de centaines de points de vente
@@ -67,7 +67,7 @@ Lightspeed, Cegid Retail, Oracle MICROS, Square POS, Tactill, mybe, Zelty. Clict
 - **Click & Collect** — Vente en ligne avec retrait en magasin
 - **Ticket dématérialisé** — Envoi par email ou SMS
 
-### Gestion des stocks
+## Gestion des stocks
 
 - **Stock centralisé** — Visibilité temps réel sur tous les magasins
 - **Transferts inter-magasins** — Déplacement de stock entre points de vente
@@ -75,28 +75,28 @@ Lightspeed, Cegid Retail, Oracle MICROS, Square POS, Tactill, mybe, Zelty. Clict
 - **Codes-barres** — Scanner et gestion par EAN
 - **Import/Export** — CSV, Excel, connecteurs ERP
 
-### Clients et fidélité
+## Clients et fidélité
 
 - **Base clients centralisée** — CRM intégré avec historique cross-magasins
 - **Programme de fidélité** — Points, remises, cartes dématérialisées
 - **Segmentation** — Groupes de clients, ciblage marketing
 - **Bons cadeaux** — Cartes cadeaux physiques et digitales
 
-### Reporting
+## Reporting
 
 - **Dashboard temps réel** — CA, ventes, stocks, par magasin ou consolidé
 - **Rapports avancés** — Par produit, catégorie, vendeur, magasin, période
 - **Export comptable** — Compatible avec les logiciels de comptabilité
 - **KPIs** — Panier moyen, taux de conversion, rotation des stocks
 
-### Conformité
+## Conformité
 
 - **NF525** — Certifié conforme loi anti-fraude TVA
 - **Z de caisse** — Clôture conforme
 - **RGPD** — Données clients conformes au règlement européen
 - **Hébergement France** — Data centers en France
 
-## Prix
+# Prix
 
 | Formule | Prix/mois/caisse |
 |---------|-----------------|
@@ -112,7 +112,7 @@ Lightspeed, Cegid Retail, Oracle MICROS, Square POS, Tactill, mybe, Zelty. Clict
 
 *Source : [Clictill](https://www.clictill.com/)*
 
-## Intégrations
+# Intégrations
 
 - **ERP** : Connecteurs pour les systèmes de gestion centralisés
 - **E-commerce** : Synchronisation avec les boutiques en ligne
@@ -121,7 +121,7 @@ Lightspeed, Cegid Retail, Oracle MICROS, Square POS, Tactill, mybe, Zelty. Clict
 - **Cartes cadeaux** : Système intégré
 - **Hébergement** : Cloud en France
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **Janvier 2002** — Création de **JLR Distribution** à **Lyon** par **Jean-Luc Roset** et son équipe. SIREN 440 663 839. L'entreprise développe des solutions logicielles pour le commerce de détail
 - **2002-2010** — Développement du logiciel de caisse. JLR Distribution se spécialise dans les solutions POS pour les enseignes multi-magasins. Premiers clients dans le retail français
@@ -131,7 +131,7 @@ Lightspeed, Cegid Retail, Oracle MICROS, Square POS, Tactill, mybe, Zelty. Clict
 
 *Source : [Clictill](https://www.clictill.com/), [Societe.com](https://www.societe.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **La chaîne Bleu Libellule (300 magasins)** — Bleu Libellule, réseau français de magasins de produits de coiffure, utilise Clictill pour gérer ses 300 points de vente. Stocks centralisés, prix et promotions déployés en masse, reporting consolidé par magasin et par région. Un seul back-office pour tout le réseau.
 
@@ -139,7 +139,7 @@ Lightspeed, Cegid Retail, Oracle MICROS, Square POS, Tactill, mybe, Zelty. Clict
 
 **La franchise mode en expansion** — Tu lances une franchise de mode avec 5 boutiques et tu prévois d'en ouvrir 20 dans les 3 ans. Clictill te permet de centraliser dès le départ : catalogue commun, prix contrôlés par le siège, stocks visibles partout, reporting par franchisé.
 
-## Points Forts
+# Points Forts
 
 - 300+ clients dans 15 pays — dimension internationale
 - Clients de référence : Bleu Libellule (300 magasins), Puma, La Poste, Pierre Fabre
@@ -151,7 +151,7 @@ Lightspeed, Cegid Retail, Oracle MICROS, Square POS, Tactill, mybe, Zelty. Clict
 - Données hébergées en France
 - 20-49 employés — équipe structurée
 
-## Points Faibles
+# Points Faibles
 
 - **Pas adapté aux indépendants** — À 41€/mois/caisse minimum, Clictill est cher pour un commerçant seul avec une seule caisse. Tactill (39€) ou mybe (39€) sont plus adaptés
 - **Pricing pas ultra-transparent** — Les formules sont publiées mais les détails (engagement, frais de mise en place, formation) nécessitent un contact commercial

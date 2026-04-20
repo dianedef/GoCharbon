@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Créez Un Persona Si Précis Qu'Il Pourrait Passer Un Test De Turing
 author: Diane
-description: 'Découvre Créez Un Persona Si Précis Qu''Il Pourrait Passer Un Test De
-  Turing : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Créez Un Persona Si Précis Qu'Il Pourrait Passer Un Test De Turing."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

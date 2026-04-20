@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Concept Aarrr Cycle De Vente
 author: Diane
-description: 'Découvre Concept Aarrr Cycle De Vente : outil français pour entrepreneurs,
-  fonctionnalités et avis.'
+description: "Concept Aarrr Cycle De Vente."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

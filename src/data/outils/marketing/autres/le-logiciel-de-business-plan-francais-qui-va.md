@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Le Logiciel De Business Plan Français Qui Va Séduire Tous Les Investisseurs
 author: Diane
-description: 'Découvre Le Logiciel De Business Plan Français Qui Va Séduire Tous Les
-  Investisseurs : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Logiciel De Business Plan Français Qui Va Séduire Tous Les Investisseurs."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

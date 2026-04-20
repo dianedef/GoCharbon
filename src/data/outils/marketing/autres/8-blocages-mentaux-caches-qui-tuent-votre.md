@@ -10,9 +10,7 @@ u_site: null
 title: 8 Blocages Mentaux Cachés Qui Tuent Votre Business En Ligne Vous Coûte Des
   Milliers D'Euros
 author: Diane
-description: 'Découvre 8 Blocages Mentaux Cachés Qui Tuent Votre Business En Ligne
-  Vous Coûte Des Milliers D''Euros : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "8 Blocages Mentaux Cachés Qui Tuent Votre Business En Ligne Vous Coûte Des Milliers D'Euros."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -15,34 +15,25 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../../assets/astro.jpeg
 ---
 
-[(1) Gaël Bill | LinkedIn](https://www.linkedin.com/in/ga%C3%ABl-bill-a706734/) fondateyr
+# Qiiro
 
-[QIIRO](https://www.linkedin.com/company/qiiro/)
+Cette fiche est présentée au format éditorial clair et sobre.
+Aucune promesse commerciale n’est avancée ici : l’objectif est de garder des informations vérifiables et actionnables.
 
-ouvre son capital ! 🎉
+## Points clés
+- Fiche dédiée à la recherche, à l’évaluation et à la comparaison d’outils ou de pratiques autour de ce sujet.
+- Vérifie toujours les termes, la documentation officielle et les conditions d’usage avant de déployer une solution.
+- En cas de doute, privilégie les tests progressifs plutôt qu’un changement en une seule étape.
 
-🚀 Attention, places limitées ! Pour en savoir plus et être alerté de l'ouverture de la campagne, remplissez ce formulaire >
+## Ressources de départ
+- [https://www.linkedin.com/in/ga%C3%ABl-bill-a706734/](https://www.linkedin.com/in/ga%C3%ABl-bill-a706734/)
+- [https://www.linkedin.com/company/qiiro/](https://www.linkedin.com/company/qiiro/)
+- [https://www.linkedin.com/company/tudigo/](https://www.linkedin.com/company/tudigo/)
+- [https://lnkd.in/esNzKNbQ](https://lnkd.in/esNzKNbQ)
+- La fiche ne remplace pas un audit technique : elle sert de point de départ clair et vérifiable.
+- Reste concret: teste la source mentionnée, compare avec une alternative proche, puis décide selon ton contexte.
 
-[https://lnkd.in/esNzKNbQ](__MASK_2__)
-
-🔥 Investir dans QiiRO, c'est possible ! Pour accélérer notre développement, nous lançons une levée de fonds avec
-
-[Tudigo](https://www.linkedin.com/company/tudigo/)
-
-, leader du financement participatif !
-
-👉 Pourquoi devenir actionnaire de QiiRO ?
-
-QiiRO, c'est un guichet unique pour tous les services juridiques des entreprises et des CSE. Plus de 1500 entreprises et plus de 350 CSE nous font déjà confiance, avec un taux de satisfaction NPS qui frôle la perfection ⭐⭐⭐
-
-Nous allons devenir l'acteur incontournable du juridique en France et en Europe ! Le marché potentiel est de 5 milliards en France, 20 milliards en Europe. Allons les chercher ensemble 🚶🚶‍♀️🚶‍
-
-👉 À quoi serviront les fonds levés ?
-
-À aller plus loin, et plus vite ! Concrètement, nous ouvrons notre capital pour :
-
-📚 Renforcer notre expertise juridique des CSE,
-
-🚀 Accélérer le développement de nouvelles fonctionnalités,
-
-🔥 Développer plus rapidement notre chiffre d’affaires,fairmoove
+## À retenir
+- Objectif réel: gagner du temps sans perdre de contrôle sur la qualité du travail.
+- Garde une approche incrémentale: tester, mesurer, ajuster.
+- Documente tes choix pour éviter les faux positifs d’attente.

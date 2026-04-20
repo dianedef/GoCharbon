@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Le Feed Rss Qui Va Révolutionner Votre Veille Et Booster Votre Business
 author: Diane
-description: 'Découvre Le Feed Rss Qui Va Révolutionner Votre Veille Et Booster Votre
-  Business : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Feed Rss Qui Va Révolutionner Votre Veille Et Booster Votre Business."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -48,11 +48,18 @@ All commands are run from the root of the project, from a terminal:
 | :------------------ | :------------------------------------------------- |
 | `pnpm install`      | Installs dependencies                              |
 | `pnpm dev`          | Starts local dev server at `localhost:3000`        |
-| `pnpm build`        | Build your production site to `./dist/`            |
+| `pnpm build`        | Build the current launch version to `./dist/` (`parcours` only) |
+| `pnpm build:full`   | Build the full site to `./dist/`                   |
 | `pnpm preview`      | Preview your build locally, before deploying       |
 | `pnpm audit:parcours` | Run parcours content quality and link audit       |
 | `pnpm astro ...`    | Run CLI commands like `astro add`, `astro preview` |
 | `pnpm astro --help` | Get help using the Astro CLI                       |
+
+### Build Modes
+
+- `pnpm build` is the safe default for the current production perimeter: homepage, `/parcours`, 5 launch parcours, and legal pages only.
+- `pnpm build:full` rebuilds the entire site.
+- See [BUILD.md](/home/claude/gocharbon/BUILD.md) for the exact procedure and the files that control the launch perimeter.
 
 ### UnoCSS
 

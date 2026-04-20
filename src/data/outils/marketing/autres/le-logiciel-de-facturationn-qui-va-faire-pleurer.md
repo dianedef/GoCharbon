@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Le Logiciel De Facturationn Qui Va Faire Pleurer Votre Comptable De Joie
 author: Diane
-description: 'Découvre Le Logiciel De Facturationn Qui Va Faire Pleurer Votre Comptable
-  De Joie : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Logiciel De Facturationn Qui Va Faire Pleurer Votre Comptable De Joie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -9,8 +9,7 @@ imageNameKey: quizz
 u_site: null
 title: Les Quiz Qui Vont Faire Exploser Votre Taux De Conversion
 author: Diane
-description: 'Découvre Les Quiz Qui Vont Faire Exploser Votre Taux De Conversion :
-  outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Quiz Qui Vont Faire Exploser Votre Taux De Conversion."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

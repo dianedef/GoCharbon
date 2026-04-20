@@ -7,8 +7,7 @@ tags:
 - Outils
 title: Le Lecteur Vidéo Windows Qui Va Rendre Netflix Obsolète
 author: Diane
-description: 'Découvre Le Lecteur Vidéo Windows Qui Va Rendre Netflix Obsolète : outil
-  français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Lecteur Vidéo Windows Qui Va Rendre Netflix Obsolète."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

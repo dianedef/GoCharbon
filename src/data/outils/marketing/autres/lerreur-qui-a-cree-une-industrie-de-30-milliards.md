@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: L'Erreur Qui A Créé Une Industrie De 30 Milliards L'Histoire Folle Du Poulet
 author: Diane
-description: 'Découvre L''Erreur Qui A Créé Une Industrie De 30 Milliards L''Histoire
-  Folle Du Poulet : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Erreur Qui A Créé Une Industrie De 30 Milliards L'Histoire Folle Du Poulet."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

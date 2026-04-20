@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: L'App Santé Française Qui Va Vous Transformer En Athlète Olympique
 author: Diane
-description: 'Découvre L''App Santé Française Qui Va Vous Transformer En Athlète Olympique
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'App Santé Française Qui Va Vous Transformer En Athlète Olympique."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

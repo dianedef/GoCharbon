@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Le Secret Des Super Affiliés Pour Gagner 6 Chiffres Par Mois Enfin Révélé
 author: Diane
-description: 'Découvre Le Secret Des Super Affiliés Pour Gagner 6 Chiffres Par Mois
-  Enfin Révélé : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Secret Des Super Affiliés Pour Gagner 6 Chiffres Par Mois Enfin Révélé."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

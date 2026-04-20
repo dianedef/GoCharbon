@@ -1,186 +1,49 @@
 ---
 section: outils
 metadataEnrichedAt: null
-title: Suite Marketing Complète
+title: "Suite marketing complète : construire un stack cohérent sans tout empiler"
 author: Diane
 tags:
 - Marketing
 - Outils
-description: Guide complet des outils essentiels pour le marketing digital
+description: Comment composer une suite marketing simple et cohérente pour acquisition,
+  email, CRM, analytics et conversion.
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
+# Suite marketing complète : construire un stack cohérent sans tout empiler
 
+Le mauvais stack marketing ressemble à une armoire pleine d'outils qui se recouvrent, s'intègrent mal et coûtent plus cher qu'ils ne rapportent. Le bon stack, lui, sert un processus clair.
 
-# Suite Marketing Complète
+## Les briques d'une suite marketing utile
 
-## Écosystème Marketing
+- un outil de mesure ;
+- un CRM ou suivi commercial ;
+- une solution email ;
+- un système de pages ou tunnel ;
+- un minimum d'automatisation ;
+- un tableau de bord simple.
 
-### CRM & Marketing Automation
-1. **CRM**
-   - HubSpot
-   - Salesforce
-   - Pipedrive
-   - Monday.com
+## La bonne logique
 
-2. **Marketing Automation**
-   - Mailchimp
-   - ActiveCampaign
-   - Klaviyo
-   - Brevo
+### Étape 1. Couvrir les bases
 
-### Analytics & Data
-1. **Web Analytics**
-   - Google Analytics
-   - Mixpanel
-   - Amplitude
-   - Plausible
+Mesure, capture, relance, suivi.
 
-2. **Business Intelligence**
-   - Tableau
-   - Looker
-   - Power BI
-   - Metabase
+### Étape 2. Connecter proprement
 
-## Outils par Canal
+Mieux vaut peu d'outils bien reliés que dix outils mal branchés.
 
-### SEO
-1. **Research**
-   - Ahrefs
-   - SEMrush
-   - Moz
-   - Ubersuggest
+### Étape 3. Monter en gamme seulement si besoin
 
-2. **Technical SEO**
-   - Screaming Frog
-   - Sitebulb
-   - GTmetrix
-   - PageSpeed Insights
+Quand un palier gratuit ou intermédiaire bloque réellement un usage utile.
 
-### Social Media
-1. **Management**
-   - Buffer
-   - Hootsuite
-   - Later
-   - Agorapulse
+## Les pièges classiques
 
-2. **Analytics**
-   - Sprout Social
-   - Iconosquare
-   - Rival IQ
-   - Socialbakers
+- acheter une suite tout-en-un trop tôt ;
+- multiplier les intégrations fragiles ;
+- payer pour des fonctions que personne n'utilise ;
+- oublier la formation et la maintenance.
 
-### Advertising
-1. **Ad Management**
-   - Google Ads
-   - Facebook Ads Manager
-   - LinkedIn Campaign Manager
-   - TikTok Ads
-
-2. **Ad Création**
-   - Canva
-   - Adobe Creative Suite
-   - Figma
-   - Creatopy
-
-## Outils de Productivité
-
-### Project Management
-1. **Task Management**
-   - Asana
-   - Trello
-   - ClickUp
-   - Notion
-
-2. **Collaboration**
-   - Slack
-   - Microsoft Teams
-   - Zoom
-   - Loom
-
-### Content Création
-1. **Writing**
-   - Grammarly
-   - Hemingway
-   - Surfer SEO
-   - Clearscope
-
-2. **Visual**
-   - Canva Pro
-   - Adobe Creative Cloud
-   - Figma
-   - Snapseed
-
-## Outils d'Optimisation
-
-### CRO & Testing
-1. **A/B Testing**
-   - Google Optimize
-   - VWO
-   - Optimizely
-   - AB Tasty
-
-2. **User Research**
-   - Hotjar
-   - Lucky Orange
-   - Crazy Egg
-   - FullStory
-
-### Performance
-1. **Speed**
-   - GTmetrix
-   - WebPageTest
-   - Lighthouse
-   - Pingdom
-
-2. **Monitoring**
-   - UptimeRobot
-   - New Relic
-   - Datadog
-   - Grafana
-
-## Integration & Automation
-
-### Workflow Automation
-1. **No-Code**
-   - Zapier
-   - Make (Integromat)
-   - n8n
-   - Automate.io
-
-2. **Custom**
-   - Webhooks
-   - APIs
-   - Custom scripts
-   - Middleware
-
-### Data Management
-1. **CDP**
-   - Segment
-   - RudderStack
-   - mParticle
-   - Tealium
-
-2. **Data Warehouse**
-   - Snowflake
-   - BigQuery
-   - Redshift
-   - PostgreSQL
-
-## Sélection et Implementation
-
-### Critères de Choix
-1. **Évaluation**
-   - Fonctionnalités
-   - Prix
-   - Scalabilité
-   - Support
-
-2. **Integration**
-   - Compatibilité
-   - API
-   - Documentation
-   - Maintenance
-
-[Découvrir les Outils Gratuits →](/marketing/outils/gratuits) 
+Une suite marketing complète n'est pas une collection. C'est un système qui reste lisible même six mois plus tard.

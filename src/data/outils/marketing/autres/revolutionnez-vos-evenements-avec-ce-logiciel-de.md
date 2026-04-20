@@ -9,8 +9,7 @@ toolSubcategoryPrimary: evenements
 u_site: null
 title: Révolutionnez Vos Événements Avec Ce Logiciel De Billetterie Français
 author: Diane
-description: 'Découvre Révolutionnez Vos Événements Avec Ce Logiciel De Billetterie
-  Français : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Révolutionnez Vos Événements Avec Ce Logiciel De Billetterie Français."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

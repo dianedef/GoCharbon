@@ -7,9 +7,7 @@ title: '📊 KlapAudience : Des lead magnets qui convertissent avec succès'
 author: Diane
 tags:
 - Outils
-description: Obtention de leads qualifiés régulièrement sans effort Amélioration de
-  votre stratégie marketing Sauvegarde de temps grâce à des contenus précis et automatisé
-  Infopreneurs Startupp
+description: "Obtention de leads qualifiés régulièrement sans effort Amélioration de votre stratégie marketing Sauvegarde de temps grâce à des contenus précis et automatisé Infopreneurs Startupp."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.klapaudience.fr/

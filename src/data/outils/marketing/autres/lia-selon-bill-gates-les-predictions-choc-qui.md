@@ -11,8 +11,7 @@ imageNameKey: null
 u_site: null
 title: L'Ia Selon Bill Gates Les Prédictions Choc Qui Vont Vous Faire Trembler
 author: Diane
-description: 'Découvre L''Ia Selon Bill Gates Les Prédictions Choc Qui Vont Vous Faire
-  Trembler : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Ia Selon Bill Gates Les Prédictions Choc Qui Vont Vous Faire Trembler."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

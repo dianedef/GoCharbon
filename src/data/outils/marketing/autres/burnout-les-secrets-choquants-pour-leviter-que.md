@@ -8,9 +8,7 @@ u_site: null
 title: Burnout Les Secrets Choquants Pour L'Éviter Que Votre Patron Ne Veut Pas Que
   Vous Sachiez
 author: Diane
-description: 'Découvre Burnout Les Secrets Choquants Pour L''Éviter Que Votre Patron
-  Ne Veut Pas Que Vous Sachiez : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "Burnout Les Secrets Choquants Pour L'Éviter Que Votre Patron Ne Veut Pas Que Vous Sachiez."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -1,19 +1,21 @@
 ---
 section: blog
-title: 'Copywriting : Le Guide Complet pour Vendre avec les Mots'
+title: "Copywriting : écrire pour vendre sans sonner faux"
 author: Diane
 tags:
   - Marketing
-description: Maîtrise le copywriting pour transformer tes lecteurs en clients. Frameworks, techniques de persuasion et stratégies de conversion.
-pubDate: '2026-03-23'
+description: Apprends à écrire des pages, emails et offres qui convertissent sans tomber dans le jargon, le blabla ni le faux naturel.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Copywriting : Le Guide Complet pour Vendre avec les Mots
+# Copywriting : écrire pour vendre sans sonner faux
 
-Tu as un super produit. Ton site est beau. Ton logo est impeccable. Et pourtant… personne n'achète.
+Tu peux avoir un bon produit, un site propre et une offre honnête. Si tes mots sont mous, flous ou interchangeables, ça ne vendra pas.
 
-Le problème n'est probablement pas ton offre. C'est ce que tu en dis. Ou plutôt, comment tu le dis.
+Le problème n'est pas forcément ton offre. C'est souvent la manière dont tu la présentes. Ou, plus précisément, l'écart entre ce que tu veux dire et ce que ton lecteur comprend vraiment.
+
+Et le sujet n'a pas disparu avec l'IA. Au contraire. Dans son rapport [*State of Marketing 2026*](https://www.salesforce.com/news/stories/state-of-marketing-2026/), Salesforce note que `84 %` des marketeurs reconnaissent encore lancer des campagnes génériques. Plus il y a de contenu moyen produit vite, plus les messages précis, lisibles et incarnés prennent de la valeur.
 
 Le copywriting, c'est l'art d'écrire pour faire agir. Pas pour impressionner. Pas pour montrer que tu maîtrises la langue française. Pas pour remplir une page blanche parce que « il faut du contenu ». C'est écrire un texte qui donne envie à quelqu'un de cliquer, de s'inscrire, d'acheter — ou au minimum, de lire la phrase suivante.
 

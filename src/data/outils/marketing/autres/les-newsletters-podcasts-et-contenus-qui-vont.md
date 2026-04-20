@@ -8,8 +8,7 @@ tags:
 title: Les Newsletters, Podcasts Et Contenus Qui Vont Faire De Vous Le Prochain Elon
   Musk
 author: Diane
-description: 'Découvre Les Newsletters, Podcasts Et Contenus Qui Vont Faire De Vous
-  Le Prochain Elon Musk : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Newsletters, Podcasts Et Contenus Qui Vont Faire De Vous Le Prochain Elon Musk."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

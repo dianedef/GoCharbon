@@ -12,8 +12,7 @@ tags:
 - Outils
 title: Les Problèmes Éthiques De L'Ia Qui Vont Vous Empêcher De Dormir
 author: Diane
-description: 'Découvre Les Problèmes Éthiques De L''Ia Qui Vont Vous Empêcher De Dormir
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Problèmes Éthiques De L'Ia Qui Vont Vous Empêcher De Dormir."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

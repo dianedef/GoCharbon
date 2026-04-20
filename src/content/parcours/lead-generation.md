@@ -44,7 +44,7 @@ Générer des contacts qualifiés et utiles pour les équipes commerciales.
 - [Fiche profil Lead Generation](/biz/profils/lead-generation)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/lead-generation)
+- [Suivi du parcours](/parcours/generation-leads)
 - [Ressource utile 1](/tutos/extraction-leads-google-maps)
 - [Ressource utile 2](/tutos/creer-une-1ere-campagne-de-cold-emailing)
 - [Ressource utile 3](/outils/business/autres/crm)

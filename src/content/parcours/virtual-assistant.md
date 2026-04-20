@@ -44,7 +44,7 @@ Devenir bras droit opérationnel avec offres VA spécialisées.
 - [Fiche profil Virtual Assistant](/biz/profils/virtual-assistant)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/virtual-assistant)
+- [Suivi du parcours](/parcours/assistant-virtuel)
 - [Ressource utile 1](/tutos/creer-un-crm-personnalise)
 - [Ressource utile 2](/tutos/comment-gerer-tous-ses-leads-au-meme-endroit)
 - [Ressource utile 3](/tutos/creer-une-facture-en-5-minutes)

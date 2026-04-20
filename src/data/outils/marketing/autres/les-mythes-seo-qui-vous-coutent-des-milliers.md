@@ -7,8 +7,7 @@ tags:
 - Outils
 title: Les Mythes Seo Qui Vous Coûtent Des Milliers D'Euros La Vérité Enfin Révélée
 author: Diane
-description: 'Découvre Les Mythes Seo Qui Vous Coûtent Des Milliers D''Euros La Vérité
-  Enfin Révélée : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Mythes Seo Qui Vous Coûtent Des Milliers D'Euros La Vérité Enfin Révélée."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

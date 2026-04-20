@@ -5,8 +5,7 @@ tags:
 - Outils
 title: Ponzi Les Secrets Choquants Des Escrocs Financiers Enfin Révélés
 author: Diane
-description: 'Découvre Ponzi Les Secrets Choquants Des Escrocs Financiers Enfin Révélés
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Ponzi Les Secrets Choquants Des Escrocs Financiers Enfin Révélés."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

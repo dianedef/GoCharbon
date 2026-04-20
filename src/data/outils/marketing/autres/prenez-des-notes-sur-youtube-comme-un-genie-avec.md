@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Prenez Des Notes Sur Youtube Comme Un Génie Avec Ces Outils Révolutionnaires
 author: Diane
-description: 'Découvre Prenez Des Notes Sur Youtube Comme Un Génie Avec Ces Outils
-  Révolutionnaires : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Prenez Des Notes Sur Youtube Comme Un Génie Avec Ces Outils Révolutionnaires."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

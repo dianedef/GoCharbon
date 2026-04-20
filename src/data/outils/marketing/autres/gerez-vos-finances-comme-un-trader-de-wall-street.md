@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Gérez Vos Finances Comme Un Trader De Wall Street Avec Cette App Française
 author: Diane
-description: 'Découvre Gérez Vos Finances Comme Un Trader De Wall Street Avec Cette
-  App Française : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Gérez Vos Finances Comme Un Trader De Wall Street Avec Cette App Française."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

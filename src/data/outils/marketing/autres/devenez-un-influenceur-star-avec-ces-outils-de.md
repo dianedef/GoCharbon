@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Devenez Un Influenceur Star Avec Ces Outils De Campagne D'Influence Secrets
 author: Diane
-description: 'Découvre Devenez Un Influenceur Star Avec Ces Outils De Campagne D''Influence
-  Secrets : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Devenez Un Influenceur Star Avec Ces Outils De Campagne D'Influence Secrets."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

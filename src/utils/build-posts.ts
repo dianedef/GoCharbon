@@ -1,3 +1,5 @@
+import { isParcoursOnlyBuild } from "./build-scope";
+
 type WithId = {
   id: string;
   data?: {
@@ -29,6 +31,8 @@ export function isOutilsPostId(postId: string): boolean {
 }
 
 export function filterBuildVisiblePosts<T extends WithId>(posts: T[]): T[] {
+  if (isParcoursOnlyBuild()) return [];
+
   const now = new Date();
   return posts.filter((post) => {
     // Exclure les outils si env var active

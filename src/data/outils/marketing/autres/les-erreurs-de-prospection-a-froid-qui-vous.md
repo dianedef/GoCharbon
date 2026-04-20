@@ -7,8 +7,7 @@ tags:
 - Outils
 title: Les Erreurs De Prospection À Froid Qui Vous Coûtent Des Millions
 author: Diane
-description: 'Découvre Les Erreurs De Prospection À Froid Qui Vous Coûtent Des Millions
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Erreurs De Prospection À Froid Qui Vous Coûtent Des Millions."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

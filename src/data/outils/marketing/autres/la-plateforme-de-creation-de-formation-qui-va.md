@@ -8,8 +8,7 @@ tags:
 imageNameKey: null
 title: La Plateforme De Création De Formation Qui Va Vous Rendre Millionnaire
 author: Diane
-description: 'Découvre La Plateforme De Création De Formation Qui Va Vous Rendre Millionnaire
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Plateforme De Création De Formation Qui Va Vous Rendre Millionnaire."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

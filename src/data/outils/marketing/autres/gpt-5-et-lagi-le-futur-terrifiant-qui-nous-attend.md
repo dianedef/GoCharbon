@@ -11,8 +11,7 @@ imageNameKey: null
 u_site: null
 title: Gpt 5 Et L'Agi Le Futur Terrifiant Qui Nous Attend… Êtes Vous Prêt
 author: Diane
-description: 'Découvre Gpt 5 Et L''Agi Le Futur Terrifiant Qui Nous Attend… Êtes Vous
-  Prêt : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Gpt 5 Et L'Agi Le Futur Terrifiant Qui Nous Attend… Êtes Vous Prêt."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

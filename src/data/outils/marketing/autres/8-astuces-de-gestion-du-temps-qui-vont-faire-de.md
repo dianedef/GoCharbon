@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: 8 Astuces De Gestion Du Temps Qui Vont Faire De Vous Un Dieu De La Productivité
 author: Diane
-description: 'Découvre 8 Astuces De Gestion Du Temps Qui Vont Faire De Vous Un Dieu
-  De La Productivité : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "8 Astuces De Gestion Du Temps Qui Vont Faire De Vous Un Dieu De La Productivité."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -2,8 +2,15 @@
 import Layout from "../../layouts/Default.astro";
 import { getEntry, render } from "astro:content";
 import { learningPaths, learningPathById } from "../../data/parcoursData";
+import type { LearningPath } from "../../data/parcoursData";
 import { getParcoursIdFromSlug, getParcoursSlug } from "../../data/parcoursSlugs";
 import { ROUTES, getParcoursRoute } from "../../config/routes";
+import {
+  filterLaunchParcours,
+  isLaunchBuildPath,
+  isLaunchParcoursId,
+  isParcoursOnlyBuild,
+} from "../../utils/build-scope";
 import {
   getArchetypeDefinition,
   getFeaturedProfilesForArchetype,
@@ -12,15 +19,26 @@ import {
 } from "../../data/profileTaxonomy";
 import PathProgressTracker from "../../components/vue/PathProgressTracker.vue";
 
-export function getStaticPaths() {
-  return learningPaths.flatMap((path) => {
-    const frenchSlug = getParcoursSlug(path.id);
-    if (frenchSlug === path.id) {
-      return [{ params: { id: frenchSlug } }];
-    }
+function markLaunchStepAvailability(path: LearningPath): LearningPath {
+  return {
+    ...path,
+    modules: path.modules.map((module) => ({
+      ...module,
+      steps: module.steps.map((step) => ({
+        ...step,
+        availableInBuild: isLaunchBuildPath(step.href),
+      })),
+    })),
+  };
+}
 
-    return [{ params: { id: frenchSlug } }, { params: { id: path.id } }];
-  });
+export function getStaticPaths() {
+  const launchBuild = isParcoursOnlyBuild();
+  const visiblePaths = launchBuild ? filterLaunchParcours(learningPaths) : learningPaths;
+
+  return visiblePaths.map((path) => ({
+    params: { id: getParcoursSlug(path.id) },
+  }));
 }
 
 const { id } = Astro.params;
@@ -39,16 +57,21 @@ const pathData = canonicalId
 const pathEntry = canonicalId ? await getEntry("parcours", canonicalId) : null;
 const pathEntryRendered = pathEntry ? await render(pathEntry) : null;
 const PathContent = pathEntryRendered?.Content;
+const pathMetaDescription = pathEntry?.data.description ??
+  (pathData ? `Parcours ${pathData.profileTitle}: les bases, un plan simple et des actions concrètes.` : "Ce parcours est introuvable. Retourne à la liste des parcours.");
+const launchBuild = isParcoursOnlyBuild();
+const launchVisiblePathData = launchBuild && pathData && !isLaunchParcoursId(pathData.id) ? null : pathData;
+const pathDataForTracker = launchVisiblePathData ? markLaunchStepAvailability(launchVisiblePathData) : null;
 const levelLabelByValue: Record<string, string> = {
   debutant: "Débutant",
   intermediaire: "Intermédiaire",
   avance: "Avancé",
 };
-const levelLabel = pathData ? (levelLabelByValue[pathData.level] ?? pathData.level) : "";
-const pathTotalSteps = pathData
-  ? pathData.modules.reduce((acc, module) => acc + module.steps.length, 0)
+const levelLabel = launchVisiblePathData ? (levelLabelByValue[launchVisiblePathData.level] ?? launchVisiblePathData.level) : "";
+const pathTotalSteps = launchVisiblePathData
+  ? launchVisiblePathData.modules.reduce((acc, module) => acc + module.steps.length, 0)
   : 0;
-const currentProfileSlug = pathData?.profileSlug as ProfileSlug | undefined;
+const currentProfileSlug = launchVisiblePathData?.profileSlug as ProfileSlug | undefined;
 const currentTaxonomy = currentProfileSlug ? getProfileTaxonomy(currentProfileSlug) : null;
 const relatedPathIds =
   currentTaxonomy && currentProfileSlug
@@ -64,6 +87,7 @@ const relatedPathIds =
 const relatedPaths = relatedPathIds
   .map((slug) => learningPathById[slug])
   .filter(Boolean)
+  .filter((path) => !launchBuild || isLaunchParcoursId(path.id))
   .slice(0, 4);
 const pathReferenceStages = [
   {
@@ -89,7 +113,7 @@ const pathReferenceStages = [
 
 <Layout
   title={pathData ? `Parcours ${pathData.profileTitle} | GOCHARBON` : "Parcours introuvable | GOCHARBON"}
-  description={pathData ? `Parcours ${pathData.profileTitle}: les bases, un plan simple et des actions concrètes.` : "Ce parcours est introuvable. Retourne à la liste des parcours."}
+  description={pathMetaDescription}
   pageTitle={pathData ? `Parcours ${pathData.profileTitle}` : "Parcours introuvable"}
 >
   <main class="parcours-mine-bg min-h-screen py-12 md:py-20">
@@ -97,15 +121,17 @@ const pathReferenceStages = [
     <div class="mine-bg-overlay" aria-hidden="true"></div>
     <div class="container mx-auto px-4">
       <div class="max-w-5xl mx-auto">
-        {pathData ? (
+        {launchVisiblePathData ? (
           <>
             <div class="path-header">
               <div class="path-header-top">
-                <p class="path-tag">{pathData.category}</p>
-                <a href={`/biz/profils/${pathData.profileSlug}`} class="path-profile-btn no-link-style">Voir le Business</a>
+                <p class="path-tag">{launchVisiblePathData.category}</p>
+                {!launchBuild && (
+                  <a href={`/biz/profils/${launchVisiblePathData.profileSlug}`} class="path-profile-btn no-link-style">Voir le Business</a>
+                )}
               </div>
-              <h1>{pathData.profileTitle}</h1>
-              <p class="path-outcome">{pathData.outcome}</p>
+              <h1>{launchVisiblePathData.profileTitle}</h1>
+              <p class="path-outcome">{launchVisiblePathData.outcome}</p>
               <div class="path-header-meta">
                 <span class="path-meta-card level">
                   <span class="meta-icon" aria-hidden="true">🎯</span>
@@ -118,7 +144,7 @@ const pathReferenceStages = [
                   <span class="meta-icon" aria-hidden="true">⏱️</span>
                   <span class="meta-content">
                     <span class="meta-label">Durée</span>
-                    <strong class="meta-value">{pathData.estimatedDuration}</strong>
+                    <strong class="meta-value">{launchVisiblePathData.estimatedDuration}</strong>
                   </span>
                 </span>
               </div>
@@ -127,27 +153,27 @@ const pathReferenceStages = [
             {PathContent && (
               <div class="path-editorial">
                 <div class="path-editorial-lead">
-                  <p class="path-editorial-kicker">RESUME OPERATIONNEL</p>
+                  <p class="path-editorial-kicker">RÉSUMÉ OPÉRATIONNEL</p>
                   <p class="path-editorial-intro">
-                    <strong class="path-editorial-intro-lead">CAP SUR L'EXECUTION.</strong> Tu poses le cadre en 30 secondes, puis tu avances avec une <em class="path-editorial-intro-emphasis">cadence simple</em>, <strong class="path-editorial-intro-step">module par module</strong>.
+                    <strong class="path-editorial-intro-lead">CAP SUR L'EXÉCUTION.</strong> Tu poses le cadre en 30 secondes, puis tu avances avec une <em class="path-editorial-intro-emphasis">cadence simple</em>, <strong class="path-editorial-intro-step">module par module</strong>.
                   </p>
                   <ul class="path-editorial-highlights">
                     <li>
                       <p class="path-editorial-highlight-label">Objectif final</p>
-                      <p class="path-editorial-highlight-value"><strong class="path-editorial-value-main">{pathData.outcome}</strong></p>
+                      <p class="path-editorial-highlight-value"><strong class="path-editorial-value-main">{launchVisiblePathData.outcome}</strong></p>
                     </li>
                     <li>
                       <p class="path-editorial-highlight-label">Niveau et durée</p>
-                      <p class="path-editorial-highlight-value"><strong class="path-editorial-value-main">{levelLabel}</strong> <span class="path-editorial-sep" aria-hidden="true">·</span> <em class="path-editorial-value-sub">{pathData.estimatedDuration}</em></p>
+                      <p class="path-editorial-highlight-value"><strong class="path-editorial-value-main">{levelLabel}</strong> <span class="path-editorial-sep" aria-hidden="true">·</span> <em class="path-editorial-value-sub">{launchVisiblePathData.estimatedDuration}</em></p>
                     </li>
                     <li>
                       <p class="path-editorial-highlight-label">Cadence</p>
-                      <p class="path-editorial-highlight-value"><strong class="path-editorial-value-main">{pathData.modules.length} MODULES</strong> <span class="path-editorial-sep" aria-hidden="true">·</span> <strong class="path-editorial-value-main">{pathTotalSteps} ETAPES</strong> <em class="path-editorial-value-sub">actionnables</em></p>
+                      <p class="path-editorial-highlight-value"><strong class="path-editorial-value-main">{launchVisiblePathData.modules.length} MODULES</strong> <span class="path-editorial-sep" aria-hidden="true">·</span> <strong class="path-editorial-value-main">{pathTotalSteps} ÉTAPES</strong> <em class="path-editorial-value-sub">actionnables</em></p>
                     </li>
                   </ul>
                   <div class="path-editorial-cta">
                     <a href="#path-steps" class="path-btn no-link-style">Commencer les étapes</a>
-                    <p class="path-editorial-cta-meta"><strong>REPERES:</strong> <em>CHARBON -> MINE -> OR</em></p>
+                    <p class="path-editorial-cta-meta"><strong>REPÈRES :</strong> <em>CHARBON -> MINE -> OR</em></p>
                   </div>
                 </div>
                 <PathContent />
@@ -155,7 +181,7 @@ const pathReferenceStages = [
             )}
 
             <section class="path-reference-grid" aria-label="Repères visuels du parcours">
-              {pathData.modules.slice(0, 3).map((module, index) => {
+              {launchVisiblePathData.modules.slice(0, 3).map((module, index) => {
                 const stage = pathReferenceStages[index] ?? pathReferenceStages[2];
                 return (
                   <article class={`path-reference-card ${stage.key}`}>
@@ -169,13 +195,13 @@ const pathReferenceStages = [
             </section>
 
             <div id="path-steps" class="path-steps-anchor">
-              <PathProgressTracker client:load pathData={pathData} />
+              {pathDataForTracker && <PathProgressTracker client:load pathData={pathDataForTracker} />}
             </div>
 
             {relatedPaths.length > 0 && (
               <section class="path-neighbors" aria-label="Parcours voisins">
                 <div class="path-neighbors-head">
-                  <p class="path-neighbors-kicker">AUTRES VOIES DANS LA MEME FAMILLE</p>
+                  <p class="path-neighbors-kicker">AUTRES VOIES DANS LA MÊME FAMILLE</p>
                   <h2>Parcours voisins à explorer ensuite</h2>
                   <p>
                     Tu n'es pas obligé de tout faire. Mais si tu veux comparer deux angles proches dans la même famille business,
@@ -196,7 +222,9 @@ const pathReferenceStages = [
             )}
 
             <div class="path-actions">
-              <a href={ROUTES.quizAvance} class="path-btn no-link-style">Refaire le quiz avancé</a>
+              <a href={launchBuild ? `${ROUTES.home}#entry-points` : ROUTES.quizAvance} class="path-btn no-link-style">
+                {launchBuild ? "Voir les portes d'entrée" : "Refaire le quiz avancé"}
+              </a>
               <a href={ROUTES.parcours} class="path-btn secondary no-link-style">Voir tous les parcours</a>
             </div>
           </>

@@ -11,8 +11,7 @@ imageNameKey: null
 u_site: null
 title: Créez Des Formations Qui Rapportent Des Millions Grâce À Ces Outils Ia
 author: Diane
-description: 'Découvre Créez Des Formations Qui Rapportent Des Millions Grâce À Ces
-  Outils Ia : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Créez Des Formations Qui Rapportent Des Millions Grâce À Ces Outils Ia."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

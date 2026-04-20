@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Le Plugin De Cache Qui Va Transformer Votre Site En Fusée Supersonique
 author: Diane
-description: 'Découvre Le Plugin De Cache Qui Va Transformer Votre Site En Fusée Supersonique
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Plugin De Cache Qui Va Transformer Votre Site En Fusée Supersonique."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

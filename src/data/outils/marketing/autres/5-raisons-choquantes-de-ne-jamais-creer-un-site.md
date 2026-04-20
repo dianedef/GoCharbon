@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: 5 Raisons Choquantes De Ne Jamais Créer Un Site Wordpress
 author: Diane
-description: 'Découvre 5 Raisons Choquantes De Ne Jamais Créer Un Site Wordpress :
-  outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "5 Raisons Choquantes De Ne Jamais Créer Un Site Wordpress."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

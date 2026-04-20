@@ -22,17 +22,17 @@ u_derniere_maj: "2026-03-15"
 
 # Reetags
 
-## SOCIAL COMMERCE : LA PLATEFORME FRANÇAISE QUI TRANSFORME TON CONTENU SOCIAL EN BOUTIQUE
+# SOCIAL COMMERCE : LA PLATEFORME FRANÇAISE QUI TRANSFORME TON CONTENU SOCIAL EN BOUTIQUE
 
-### tl;dr
+## tl;dr
 
 Reetags (reetags.com), c'est la **plateforme française de live shopping et social commerce** — l'outil qui permet aux **marques et e-commerçants** de créer des **expériences d'achat en live vidéo** et de transformer le contenu social en parcours d'achat. Fondé par **Momen Ferrah** via la société **BAO** (SAS, SIREN **803 286 699**). **L'entreprise a pivoté plusieurs fois** : démarrage dans la **mode/fashion tech**, puis **micro-influence**, puis **live shopping**, et plus récemment **vidéo IA pour le e-commerce**. Clients revendiqués : **L'Oréal, Yves Saint Laurent, Clarins, Chanel**. Développé en **France**. **⚠️ Attention : Reetags/BAO est en procédure collective (difficultés financières).** L'avenir de la plateforme est incertain. Cible : **marques de luxe et beauté, e-commerçants, retailers** qui veulent du live shopping et du social commerce.
 
-### Alternative à
+## Alternative à
 
 Bazaarvoice, Olapic, Pixlee (Emplifi), Flowbox, Nosto (volet UGC). Reetags se distingue par son **focus social commerce** (pas juste de l'UGC display — un vrai parcours d'achat depuis le contenu), son **interface en français** (développé pour le marché français), et son **approche multi-source** (Instagram + TikTok + UGC + contenu de marque dans un seul flux shoppable).
 
-## Bénéfices
+# Bénéfices
 
 **Contenu shoppable** — Transforme tes photos et vidéos Instagram/TikTok en galeries shoppable. Le client voit une photo, clique sur le produit, et arrive directement sur la fiche produit. L'inspiration devient achat.
 
@@ -42,7 +42,7 @@ Bazaarvoice, Olapic, Pixlee (Emplifi), Flowbox, Nosto (volet UGC). Reetags se di
 
 **Lookbooks interactifs** — Crée des lookbooks (collections visuelles) où chaque image est taggée avec les produits. Le client explore le lookbook et ajoute les produits au panier directement.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Marques de mode et lifestyle (le social commerce est natif dans la mode)
 - E-commerçants qui veulent monétiser leur contenu Instagram/TikTok
@@ -50,7 +50,7 @@ Bazaarvoice, Olapic, Pixlee (Emplifi), Flowbox, Nosto (volet UGC). Reetags se di
 - Marques avec une communauté social media active
 - Agences e-commerce qui proposent des solutions de social selling
 
-## Comment Utiliser Reetags
+# Comment Utiliser Reetags
 
 1. **Inscription** — Crée ton compte sur [reetags.com](https://reetags.com/)
 2. **Sources** — Connecte tes comptes Instagram, TikTok, et collecte l'UGC
@@ -59,9 +59,9 @@ Bazaarvoice, Olapic, Pixlee (Emplifi), Flowbox, Nosto (volet UGC). Reetags se di
 5. **Intégration** — Intègre les galeries sur ton site e-commerce
 6. **Vente** — Les visiteurs achètent directement depuis le contenu visuel
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Social commerce
+## Social commerce
 
 - **Instagram** — Import et affichage des posts Instagram shoppable
 - **TikTok** — Vidéos TikTok shoppable
@@ -69,7 +69,7 @@ Bazaarvoice, Olapic, Pixlee (Emplifi), Flowbox, Nosto (volet UGC). Reetags se di
 - **Tagging** — Tag produit sur les images et vidéos
 - **Lien direct** — Clic vers la fiche produit ou ajout au panier
 
-### Galeries
+## Galeries
 
 - **Galerie homepage** — Flux visuel shoppable sur la page d'accueil
 - **Galerie produit** — Contenu visuel sur les pages produit
@@ -77,21 +77,21 @@ Bazaarvoice, Olapic, Pixlee (Emplifi), Flowbox, Nosto (volet UGC). Reetags se di
 - **Stories** — Format stories shoppable
 - **Responsive** — Adapté mobile et desktop
 
-### UGC
+## UGC
 
 - **Collecte** — Récupération automatique des posts clients (hashtag, mention)
 - **Modération** — Approbation avant affichage
 - **Droits** — Demande de droits d'utilisation intégrée
 - **Incentive** — Encourager les clients à poster du contenu
 
-### Analytics
+## Analytics
 
 - **Engagement** — Clics, vues, taux de clic par contenu
 - **Conversion** — Ventes générées par le contenu shoppable
 - **Top contenu** — Identification du contenu qui convertit le plus
 - **ROI** — Retour sur investissement du social commerce
 
-## Prix
+# Prix
 
 - **Plans mensuels** — Selon le nombre de produits et le trafic
 - **Essai** — Période de test disponible
@@ -99,14 +99,14 @@ Bazaarvoice, Olapic, Pixlee (Emplifi), Flowbox, Nosto (volet UGC). Reetags se di
 
 *Source : [Reetags](https://reetags.com/)*
 
-## Intégrations
+# Intégrations
 
 - **E-commerce** : Shopify, PrestaShop, WooCommerce, Magento
 - **Social media** : Instagram, TikTok, Facebook
 - **CMS** : WordPress, tout CMS (widget JavaScript)
 - **Analytics** : Google Analytics, suivi des conversions
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - Création de **Reetags** en **France** par **Momen Ferrah** via la société **BAO** (SAS, SIREN **803 286 699**)
 - **Multiples pivots** — L'entreprise a considérablement évolué au fil du temps :
@@ -119,13 +119,13 @@ Bazaarvoice, Olapic, Pixlee (Emplifi), Flowbox, Nosto (volet UGC). Reetags se di
 
 *Source : [Reetags](https://reetags.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **La marque de mode** — Tu as une marque de prêt-à-porter avec 50K abonnés Instagram. Tu connectes Reetags à ton Instagram. Tes posts deviennent shoppable sur ton site : chaque tenue est taggée avec les produits. Le taux de conversion des visiteurs qui interagissent avec la galerie shoppable est 2x supérieur.
 
 **L'e-commerçant déco** — Tu vends de la déco maison. Tu collectes les photos de tes clients (UGC) via le hashtag #MaDeco. Tu affiches ces photos sur tes pages produit avec Reetags. Les visiteurs voient les produits "chez de vrais clients" — la preuve sociale booste les conversions de 20%.
 
-## Points Forts
+# Points Forts
 
 - Contenu social transformé en boutique (shoppable)
 - UGC monétisé (les photos clients deviennent des outils de vente)
@@ -134,7 +134,7 @@ Bazaarvoice, Olapic, Pixlee (Emplifi), Flowbox, Nosto (volet UGC). Reetags se di
 - Interface en français
 - Lookbooks interactifs
 
-## Points Faibles
+# Points Faibles
 
 - **Marché de niche** — Le social commerce est encore émergent en France. Les taux de conversion via contenu shoppable restent inférieurs au parcours d'achat classique pour beaucoup de catégories
 - **Dépendance Instagram/TikTok** — Si tes réseaux sociaux ne sont pas actifs, Reetags a peu de valeur. L'outil est un accélérateur, pas un substitut

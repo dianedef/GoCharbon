@@ -9,8 +9,7 @@ toolFacets:
   - ia
 title: Transformez Du Texte En Vidéos Époustouflantes 3 Outils Magiques À Ne Pas Manquer
 author: Diane
-description: 'Découvre Transformez Du Texte En Vidéos Époustouflantes 3 Outils Magiques
-  À Ne Pas Manquer : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Transformez Du Texte En Vidéos Époustouflantes 3 Outils Magiques À Ne Pas Manquer."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

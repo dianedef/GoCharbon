@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: Prompt Engineer / Consultant IA
+title: Consultant IA et prompting
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Deviens prompt engineer : techniques, outils IA et stratégies pour vendre
-  tes compétences en prompting.'
+description: 'Aider des entreprises à mieux utiliser l''IA, au-delà du simple "prompt
+  engineer" de mode.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Prompt Engineer / Consultant IA
+# Consultant IA et prompting
 
 ## Description en une phrase
 

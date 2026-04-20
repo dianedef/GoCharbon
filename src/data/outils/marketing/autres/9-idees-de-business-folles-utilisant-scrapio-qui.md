@@ -12,9 +12,7 @@ tags:
 title: 9 Idées De Business Folles Utilisant Scrap.Io Qui Vont Vous Rendre Riche Du
   Jour Au Lendemain
 author: Diane
-description: 'Découvre 9 Idées De Business Folles Utilisant Scrap.Io Qui Vont Vous
-  Rendre Riche Du Jour Au Lendemain : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "9 Idées De Business Folles Utilisant Scrap.Io Qui Vont Vous Rendre Riche Du Jour Au Lendemain."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

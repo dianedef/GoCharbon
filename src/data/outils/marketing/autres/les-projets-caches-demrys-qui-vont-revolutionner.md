@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Projets Cachés D'Emrys Qui Vont Révolutionner Votre Vie
 author: Diane
-description: 'Découvre Les Projets Cachés D''Emrys Qui Vont Révolutionner Votre Vie
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Projets Cachés D'Emrys Qui Vont Révolutionner Votre Vie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

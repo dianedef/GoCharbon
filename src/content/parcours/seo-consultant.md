@@ -44,7 +44,7 @@ Piloter stratégie SEO orientée business (trafic qualifié + pipeline).
 - [Fiche profil Seo Consultant](/biz/profils/seo-consultant)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/seo-consultant)
+- [Suivi du parcours](/parcours/consultant-seo)
 - [Ressource utile 1](/seo/fondamentaux/bases-seo)
 - [Ressource utile 2](/tutos/comment-se-classer-en-premier-sur-google)
 - [Ressource utile 3](/tutos/trouver-les-mots-clefs-de-ses-concurrents)

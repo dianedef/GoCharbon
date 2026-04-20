@@ -8,8 +8,7 @@ tags:
 imageNameKey: null
 title: Le Copywriting Qui Hypnotise Transformez Vos Lecteurs En Clients Accros
 author: Diane
-description: 'Découvre Le Copywriting Qui Hypnotise Transformez Vos Lecteurs En Clients
-  Accros : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Copywriting Qui Hypnotise Transformez Vos Lecteurs En Clients Accros."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

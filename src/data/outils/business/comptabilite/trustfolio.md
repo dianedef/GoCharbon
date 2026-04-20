@@ -16,9 +16,9 @@ title: Trustfolio
 author: Diane
 tags:
 - Outils
-description: Trustfolio est une plateforme française d'avis B2B vérifiés. Recommandations
-  clients authentifiées, championnat de l'excellence client. 30 000+ prestataires.
-  Dès 49€/mois.
+description: Trustfolio est une plateforme d'avis B2B vérifiés utile pour les prestataires
+  qui veulent crédibiliser leurs références et pour les acheteurs qui veulent trier
+  un peu mieux le bruit du marché.
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://trustfolio.co
@@ -26,52 +26,56 @@ u_site: https://trustfolio.co
 
 # Trustfolio
 
-## AVIS B2B VÉRIFIÉS : LA PLATEFORME QUI AUTHENTIFIE LES RECOMMANDATIONS CLIENTS
+## Une plateforme d'avis B2B qui essaie d'éviter le folklore des témoignages bricolés
 
 ### tl;dr
 
-Trustfolio est une plateforme française 100% B2B de recommandations et avis clients vérifiés. Fondée par Thomas Nanterme et Edgar Roussille, elle couvre tout le cycle de recommandation B2B : satisfaction → avis vérifiés → recommandation → parrainage → ambassadeurs. Plus de 30 000 prestataires référencés. À partir de 49€/mois.
+Trustfolio sert à collecter, vérifier et mettre en valeur des avis clients dans un cadre B2B. Ce n'est pas de la compta à proprement parler, et la fiche est un peu mal rangée ici. En revanche, le sujet est utile pour les prestataires qui vivent aussi de leur réputation et de la preuve sociale.
 
-**Note** : outil de réputation/avis B2B, pas un logiciel comptable. Mal catégorisé ici.
+### Alternative à
 
-### 📢 Alternative à
+Clutch, G2, Google Reviews sur certains usages, ou des références client gérées en direct.
 
-Clutch, G2, UpCity, Google Reviews (pour le B2B).
+## Pourquoi on le retient
 
-## ✔️ Bénéfices
+- **Le besoin est réel** : en B2B, les preuves de sérieux comptent énormément.
+- **La promesse de vérification a du sens** dans un marché rempli d'avis peu exploitables.
+- **Le produit peut aider autant la visibilité que la conversion**.
 
-- **Avis authentifiés** : vérification systématique des témoignages clients
-- **100% B2B** : contrairement aux plateformes grand public
-- **Championnat de l'excellence** : classement trimestriel des meilleurs prestataires
-- **Cycle complet** : de la collecte d'avis au programme ambassadeur
+## Pour qui ?
 
-### 🎯 Pour Qui ?
+- agences
+- consultants
+- ESN
+- prestataires B2B qui veulent mieux exploiter leurs références
 
-- Agences et prestataires de services B2B
-- Entreprises cherchant des partenaires fiables
-- Consultants et ESN qui veulent valoriser leurs références
+## Fonctionnalités utiles
 
-## 🛠️ Fonctionnalités
+- collecte d'avis
+- vérification et mise en avant de références
+- profil public plus crédible
+- widgets ou diffusion de preuve sociale
 
-- **Collecte d'avis** : envoi automatisé de demandes de témoignages
-- **Vérification** : authentification des avis et des entreprises
-- **Profil prestataire** : page de références, certifications, avis clients
-- **Recherche** : filtres par secteur, compétence, localisation
-- **Championnat** : classement trimestriel de l'excellence client
-- **Widget** : intégration des avis sur ton site web
+## Prix
 
-## 💶 Prix
+Le bon calcul est simple : si l'outil ne t'aide pas à rassurer plus vite ou à convertir mieux, il devient cosmétique. Si au contraire la recommandation client pèse fort dans ton acquisition, il peut devenir utile.
 
-Standard : 49€/mois. Pro, Enterprise et Premium : sur devis.
+## Intégrations
 
-## 🎖️ L'équipe et l'Histoire
+Le sujet principal n'est pas la profondeur technique, mais la capacité à insérer la preuve sociale dans ton parcours commercial.
 
-Fondée par Thomas Nanterme et Edgar Roussille, Trustfolio est née du constat que les plateformes d'avis existantes étaient pensées pour le B2C et l'e-commerce. L'équipe a créé une plateforme dédiée au B2B, avec une vérification rigoureuse des avis pour restaurer la confiance dans les recommandations professionnelles.
+## Ce qu'il faut savoir avant de choisir
 
-## 👍 Points Forts
+Trustfolio devient surtout intéressant si tu es dans une activité où les références clients font gagner du temps commercial. Si ta vente repose peu sur la réputation visible, la valeur baisse.
 
-✔️ 100% B2B (pas de bruit B2C) | ✔️ Avis vérifiés et authentifiés | ✔️ 30 000+ prestataires | ✔️ Cycle complet de recommandation
+## Points forts
 
-## 👎 Points Faibles
+- angle B2B plus pertinent que des plateformes grand public
+- intérêt concret pour des prestataires de services
+- peut professionnaliser la preuve sociale
 
-❌ Mal catégorisé ici (avis B2B, pas compta) | ❌ Moins connu que Clutch ou G2 à l'international | ❌ Marché de niche
+## Points faibles
+
+- fiche mal catégorisée ici
+- marché de niche
+- valeur très dépendante de ta façon de vendre

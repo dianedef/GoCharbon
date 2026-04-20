@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: 10 Principes De Design Choc Pour Un Site Web Qui Rend Vos Concurrents Jaloux
 author: Diane
-description: 'Découvre 10 Principes De Design Choc Pour Un Site Web Qui Rend Vos Concurrents
-  Jaloux : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "10 Principes De Design Choc Pour Un Site Web Qui Rend Vos Concurrents Jaloux."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

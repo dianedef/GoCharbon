@@ -44,7 +44,7 @@ Donner des cours en ligne structurés avec progression visible.
 - [Fiche profil Online Tutor](/biz/profils/online-tutor)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/online-tutor)
+- [Suivi du parcours](/parcours/tuteur-en-ligne)
 - [Ressource utile 1](/tutos/creer-une-formation-en-ligne)
 - [Ressource utile 2](/marketing/tunnel/atelier)
 - [Ressource utile 3](/tutos/comment-creer-un-quiz-qui-convertit)

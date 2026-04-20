@@ -4,120 +4,45 @@ tags:
 - Tutoriels
 imageNameKey: null
 u_site: null
-title: Déployer Un Serveur
+title: Déployer un serveur sans se fabriquer une dette technique
 author: Diane
-description: 'Déployer un serveur sans stress: choix de l’hébergement, configuration minimale, sécurité, sauvegardes et mise en ligne.'
+description: Choisis le bon type d’hébergement, pose une base de sécurité minimale et mets ton service en ligne proprement.
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Déployer un serveur (version simple)
+Déployer un serveur vite, c’est facile. Déployer un serveur que tu peux maintenir sans stress, c’est déjà plus intéressant.
 
-Tu veux mettre en ligne une app, un site ou un outil interne.
+## Commence par choisir le bon niveau d’abstraction
 
-Objectif: déployer vite, sans te créer une dette technique énorme.
+- **PaaS** si tu veux aller vite et déléguer une partie de l’infra ;
+- **VPS** si tu veux plus de contrôle ;
+- **hébergement managé** si tu veux un compromis.
 
-## Quel type d'hébergement choisir
+Le mauvais choix, c’est souvent de prendre un VPS “pour apprendre” alors que ton besoin réel ressemble à un déploiement simple.
 
-### Option 1 - PaaS (recommandé débutant)
-Un PaaS (Platform as a Service) gère une partie de l'infra pour toi.
+## Minimum vital avant mise en ligne
 
-Exemples: OpenMVPBox, Render, Railway, Fly.io.
+- accès SSH propre ;
+- pare-feu basique ;
+- utilisateur non root pour l’usage courant ;
+- sauvegarde ;
+- monitoring minimal.
 
-Avantages:
-- rapide à lancer,
-- moins d'admin système,
-- bon pour MVP.
+## Déploie petit
 
-### Option 2 - VPS
-Tu as plus de contrôle, mais plus de responsabilité.
+1. installe uniquement ce qu’il faut ;
+2. teste localement ;
+3. ouvre seulement les ports nécessaires ;
+4. configure un domaine propre ;
+5. mets un HTTPS valide ;
+6. documente la procédure.
 
-Exemples: Hetzner, OVH, Scaleway.
+## Ce qu’il faut éviter
 
-Avantages:
-- flexible,
-- coût parfois plus bas à long terme.
+- multiplier les services sur le même serveur sans logique ;
+- tout faire en root ;
+- oublier les sauvegardes ;
+- ne pas savoir comment redéployer.
 
-Limites:
-- sécurité et maintenance à gérer.
-
-## Stack minimale pour démarrer
-
-- 1 serveur app
-- 1 base de données
-- HTTPS (certificat SSL)
-- sauvegarde quotidienne
-- monitoring basique (uptime + erreurs)
-
-Pas besoin de Kubernetes au début.
-
-## Étapes de déploiement
-
-## Étape 1 - Prépare ton projet
-
-- Variables d'environnement séparées (dev / prod)
-- Commande de build propre
-- Script de démarrage reproductible
-
-## Étape 2 - Configure ton serveur
-
-- Utilisateur non-root
-- Pare-feu actif
-- SSH avec clé (pas mot de passe)
-- Mises à jour de sécurité
-
-## Étape 3 - Branche ton domaine
-
-- Configure DNS (A/AAAA/CNAME)
-- Ajoute HTTPS
-- Force la redirection HTTP -> HTTPS
-
-## Étape 4 - Déploie
-
-- Déploie une première version stable
-- Vérifie les logs
-- Teste les parcours clés côté utilisateur
-
-## Étape 5 - Mets en place les garde-fous
-
-- Sauvegardes automatiques
-- Alertes de disponibilité
-- Page de statut (même simple)
-
-## Sécurité minimum obligatoire
-
-- Ne stocke jamais de secrets dans le code.
-- Limite les ports ouverts.
-- Active la rotation des logs.
-- Mets en place un plan de restauration.
-
-## Coûts indicatifs (MVP)
-
-- Hébergement app: 5 à 30 EUR/mois
-- Base de données: 0 à 20 EUR/mois
-- Domaine: 10 à 20 EUR/an
-- Monitoring: gratuit à 20 EUR/mois
-
-## Erreurs fréquentes
-
-- Déployer sans sauvegarde.
-- Oublier HTTPS.
-- Ne pas avoir de procédure rollback.
-- Avoir une config qui marche "chez moi" mais pas en prod.
-
-## Checklist avant mise en ligne
-
-- [ ] Domaine configuré
-- [ ] HTTPS actif
-- [ ] Variables d'env séparées
-- [ ] Sauvegarde testée
-- [ ] Logs consultables
-- [ ] Alerte uptime active
-
-## Ressources utiles
-
-- [OpenMVPBox](https://omvpb.ovh/)
-- [Présentation OpenMVPBox](https://www.youtube.com/watch?v=O8VA_UUYpuQ)
-- [Discussion PaaS no-code/self-host](https://www.growthhacking.fr/t/paas-n8n-ghost-discourse-mautic-installation-en-1-click/25058/10)
-
-Tu veux que je te fasse une version "déploiement en 60 minutes" avec commandes concrètes (PaaS et VPS) ?
+Un bon serveur n’est pas juste “en ligne”. C’est un serveur que tu peux comprendre, réparer et refaire.

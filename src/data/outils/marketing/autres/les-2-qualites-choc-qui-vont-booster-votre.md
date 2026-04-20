@@ -6,8 +6,7 @@ tags:
 imageNameKey: null
 title: Les 2 Qualités Choc Qui Vont Booster Votre Productivité À 1000%
 author: Diane
-description: 'Découvre Les 2 Qualités Choc Qui Vont Booster Votre Productivité À 1000%
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les 2 Qualités Choc Qui Vont Booster Votre Productivité À 1000%."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

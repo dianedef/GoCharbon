@@ -18,17 +18,17 @@ u_derniere_maj: "2026-03-15"
 
 # Sylq
 
-## PAIEMENT TOUT-EN-UN : LA PLATEFORME FRANÇAISE NÉE DE LA FUSION D'UN LEADER DU TPE ET D'UNE FINTECH INNOVANTE
+# PAIEMENT TOUT-EN-UN : LA PLATEFORME FRANÇAISE NÉE DE LA FUSION D'UN LEADER DU TPE ET D'UNE FINTECH INNOVANTE
 
-### tl;dr
+## tl;dr
 
 Sylq (sylq.io), c'est la **plateforme de paiement tout-en-un française** née en **mars 2023** de la **fusion à 50/50** entre **Synalcom** (leader français du terminal de paiement, fondé en **2007** par **Tony Delalande**, **20 000+ commerces équipés**, **230 000+ terminaux déployés**) et **Qori** (startup fintech fondée en **2021** par **Alain Falys** et **Daniel Maurice-Vallerey**, ex-cofondateurs de **Yoyo Wallet** à Londres, anciens de Visa et Mastercard). Sylq regroupe **tous les moyens d'encaissement** — carte bancaire, mobile, sans contact, paiement en ligne, Open Banking, et même **cryptomonnaies** — dans une **seule plateforme**. L'ambition : être la **première plateforme de paiement tout-en-un européenne** pour les commerçants. **~50 employés** (+10% YoY). Siège à **Villejust** (Essonne), avec présence en **Espagne** et **Suisse**. Sylq vend, personnalise, maintient et supporte les terminaux de paiement dans toute l'Europe.
 
-### Alternative à
+## Alternative à
 
 Worldline (Ingenico), Adyen, Stripe Terminal, SumUp, Yavin, Square, myPOS. Sylq se distingue par son **héritage Synalcom** (20 ans d'expertise TPE, 230K terminaux — ce n'est pas une startup qui part de zéro), son **acceptation des cryptomonnaies** (un des rares acteurs à proposer le paiement crypto en magasin via la même plateforme que le paiement CB), et son **approche européenne** (présence France, Espagne, Suisse dès le lancement, objectif paneuropéen).
 
-## Bénéfices
+# Bénéfices
 
 **Tous les paiements dans une seule plateforme** — Carte bancaire, sans contact, Apple Pay, Google Pay, virement instantané (Open Banking), et cryptomonnaies — tout passe par Sylq. Un seul dashboard, un seul contrat, un seul interlocuteur. Plus besoin de jongler entre 3 fournisseurs de paiement.
 
@@ -40,7 +40,7 @@ Worldline (Ingenico), Adyen, Stripe Terminal, SumUp, Yavin, Square, myPOS. Sylq 
 
 **Équipe de fondateurs expérimentée** — Tony Delalande (20 ans de TPE chez Synalcom), Alain Falys et Daniel Maurice-Vallerey (ex-Visa, Mastercard, cofondateurs de Yoyo Wallet). C'est un mix rare d'expertise industrielle (hardware, logistique) et d'innovation fintech (Open Banking, crypto).
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Commerçants qui veulent une solution de paiement unique pour tous les canaux (magasin + en ligne)
 - Professionnels de santé, avocats, consultants (encaissement carte en cabinet)
@@ -49,7 +49,7 @@ Worldline (Ingenico), Adyen, Stripe Terminal, SumUp, Yavin, Square, myPOS. Sylq 
 - Entreprises qui veulent réduire les commissions via l'Open Banking
 - E-commerçants qui veulent une solution omnicanale (en ligne + en magasin)
 
-## Comment Utiliser Sylq
+# Comment Utiliser Sylq
 
 1. **Contact** — Va sur [sylq.io](https://sylq.io/) et demande un devis
 2. **Analyse** — L'équipe Sylq analyse ton activité, ton volume et tes besoins
@@ -59,9 +59,9 @@ Worldline (Ingenico), Adyen, Stripe Terminal, SumUp, Yavin, Square, myPOS. Sylq 
 6. **Encaissement** — Accepte carte, sans contact, crypto, Open Banking depuis le jour 1
 7. **Support** — Maintenance et support technique inclus
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Encaissement en magasin
+## Encaissement en magasin
 
 - **Terminaux de paiement** — Large gamme de TPE (fixe, mobile, compact)
 - **SoftPOS** — Application qui transforme un smartphone/tablette Android ou iOS en terminal
@@ -69,27 +69,27 @@ Worldline (Ingenico), Adyen, Stripe Terminal, SumUp, Yavin, Square, myPOS. Sylq 
 - **Cryptomonnaies** — Acceptation crypto avec conversion automatique en euros
 - **Open Banking** — Paiement par virement instantané
 
-### Encaissement en ligne
+## Encaissement en ligne
 
 - **Paiement par carte** — Intégration e-commerce
 - **Liens de paiement** — Envoi par SMS, email, messagerie
 - **Open Banking** — Virement instantané en ligne
 - **Paiement récurrent** — Abonnements et factures récurrentes
 
-### Infrastructure
+## Infrastructure
 
 - **Gestion de parc** — Dashboard centralisé pour gérer des centaines de terminaux
 - **Personnalisation** — Branding, configuration, paramétrage à distance
 - **Logistique** — Vente, livraison, installation, maintenance, remplacement
 - **Support** — Assistance technique dédiée
 
-### Sécurité
+## Sécurité
 
 - **PCI-DSS** — Conformité aux standards de sécurité
 - **Tokenisation** — Protection des données de carte
 - **3D Secure** — Authentification forte pour les paiements en ligne
 
-## Prix
+# Prix
 
 Sylq ne publie pas de grille tarifaire standard :
 
@@ -101,7 +101,7 @@ Sylq ne publie pas de grille tarifaire standard :
 
 *Source : [Sylq](https://sylq.io/)*
 
-## Intégrations
+# Intégrations
 
 - **Terminaux** : Large gamme de TPE Android compatibles
 - **Logiciels de caisse** : Intégration avec les principaux POS
@@ -110,7 +110,7 @@ Sylq ne publie pas de grille tarifaire standard :
 - **Crypto** : Acceptation de cryptomonnaies (conversion auto en €)
 - **API** : Intégration pour les partenaires et développeurs
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **2007** — Création de **Synalcom** à **Paris** par **Tony Delalande**. L'entreprise se spécialise dans la vente, la location et la maintenance de terminaux de paiement. Synalcom équipe les commerçants, les professionnels de santé et les banques
 - **2007-2020** — Synalcom devient un leader du marché français du TPE avec **20 000+ commerces** équipés et **230 000+ terminaux** déployés. L'entreprise couvre toute la chaîne : vente, personnalisation, déploiement, maintenance et support
@@ -121,7 +121,7 @@ Sylq ne publie pas de grille tarifaire standard :
 
 *Source : [Sylq](https://sylq.io/), [FinMag](https://www.finmag.fr/blog/sylq-interview/), [FFNews](https://ffnews.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **Le réseau de pharmacies** — Tu gères 15 pharmacies. Chaque pharmacie a 2-3 terminaux de paiement. Avec Sylq, tu gères les 45 terminaux depuis un seul dashboard : configuration à distance, mises à jour, monitoring, remplacement en cas de panne. Plus besoin de gérer 15 contrats bancaires différents.
 
@@ -129,7 +129,7 @@ Sylq ne publie pas de grille tarifaire standard :
 
 **La marketplace omnicanale** — Tu vends en boutique et en ligne. Avec Sylq, le paiement en magasin (terminal) et le paiement en ligne (intégration web) passent par la même plateforme. Un seul reporting, un seul contrat, une vue unifiée de ton CA.
 
-## Points Forts
+# Points Forts
 
 - Fusion Synalcom + Qori — expertise industrielle (230K terminaux) + innovation fintech
 - Tous les paiements en un : carte, sans contact, Open Banking, crypto
@@ -141,7 +141,7 @@ Sylq ne publie pas de grille tarifaire standard :
 - Acceptation des cryptomonnaies avec conversion automatique en euros
 - ~50 employés — taille structurée
 
-## Points Faibles
+# Points Faibles
 
 - **Marque très jeune** — Sylq existe depuis mars 2023. Malgré l'héritage Synalcom, la marque Sylq est inconnue du grand public. La notoriété est à construire face à SumUp, Square, Yavin
 - **Pricing opaque** — Pas de tarification publique. Il faut contacter un commercial, ce qui allonge le cycle de décision pour les petits commerçants

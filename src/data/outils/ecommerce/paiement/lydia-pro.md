@@ -18,17 +18,17 @@ u_derniere_maj: "2026-03-15"
 
 # Lydia Pro (Sumeria)
 
-## PAIEMENT MOBILE : L'APP FRANÇAISE #1 QUI EST DEVENUE UNE VRAIE BANQUE POUR LES PROS ET LES PARTICULIERS
+# PAIEMENT MOBILE : L'APP FRANÇAISE #1 QUI EST DEVENUE UNE VRAIE BANQUE POUR LES PROS ET LES PARTICULIERS
 
-### tl;dr
+## tl;dr
 
 Lydia (lydia-app.com), devenue **Sumeria** en **septembre 2024**, c'est l'**application de paiement mobile #1 en France** avec **8 millions d'utilisateurs**. Fondée en **2013** à **Bordeaux** par **Cyril Chiche** (CEO) et **Antoine Porte** (CTO), Lydia a commencé comme app de paiement entre amis (le "Venmo français") avant de devenir une **véritable banque** : compte courant, carte Visa, épargne, crédit, assurance, investissement, et **offre professionnelle** (Lydia Pro / Sumeria Pro). L'offre pro permet aux **commerçants, artisans et indépendants** d'encaisser des paiements via **terminal de paiement (TPE)**, **QR code**, et **liens de paiement**. La société a obtenu un **agrément d'établissement de crédit** de l'ACPR en 2023 et a levé au total **+200 millions d'euros** auprès de **Tencent**, **Accel**, **BPI France**, **XAnge**, **CNP Assurances**. **200+ employés**. Siège à **Paris et Bordeaux**. Rebranding en **Sumeria** en septembre 2024 pour marquer la transformation de l'app de paiement en banque complète.
 
-### Alternative à
+## Alternative à
 
 SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le compte pro), Shine. Lydia/Sumeria se distingue par sa **base installée massive** (8M d'utilisateurs qui ont déjà l'app — tes clients potentiels connaissent déjà l'outil), son **positionnement hybride** (banque perso + banque pro + paiement en magasin dans une seule app), et son **agrément bancaire complet** (établissement de crédit, pas juste établissement de paiement — garantie FGDR).
 
-## Bénéfices
+# Bénéfices
 
 **8 millions d'utilisateurs qui connaissent déjà l'app** — Quand tu proposes le paiement par Lydia/Sumeria à un client, il y a de bonnes chances qu'il ait déjà l'app. Pas besoin de télécharger quoi que ce soit — il scanne le QR code et paye. C'est un avantage unique que SumUp ou Zettle n'ont pas.
 
@@ -40,7 +40,7 @@ SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le 
 
 **Agrément bancaire complet** — Depuis 2023, Lydia/Sumeria est un **établissement de crédit** agréé par l'ACPR. Tes fonds sont garantis par le FGDR (jusqu'à 100 000€). C'est le même niveau de protection que les grandes banques traditionnelles.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Commerçants et artisans qui veulent un terminal de paiement simple et peu cher
 - Indépendants en mobilité (marchés, salons, livraisons) qui encaissent par QR code
@@ -49,7 +49,7 @@ SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le 
 - Professeurs particuliers, coachs, thérapeutes qui encaissent leurs séances
 - Associations qui collectent des cotisations et des dons
 
-## Comment Utiliser Lydia Pro / Sumeria Pro
+# Comment Utiliser Lydia Pro / Sumeria Pro
 
 1. **Téléchargement** — Télécharge l'app Sumeria (ex-Lydia) sur iOS ou Android
 2. **Inscription pro** — Active l'option professionnelle dans l'app (vérification KYC pro)
@@ -58,9 +58,9 @@ SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le 
 5. **QR code / Lien** — Génère des QR codes et liens de paiement depuis l'app
 6. **Encaissement** — Les paiements arrivent sur ton compte pro. Transfert vers un compte bancaire externe possible
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Encaissement
+## Encaissement
 
 - **Terminal de paiement** — TPE compact Bluetooth connecté à l'app (CB, Visa, Mastercard, sans contact, Apple Pay, Google Pay)
 - **QR code** — Le client scanne et paye depuis son téléphone
@@ -68,7 +68,7 @@ SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le 
 - **Paiement entre utilisateurs** — Paiement instantané entre comptes Lydia/Sumeria (gratuit)
 - **Cagnotte** — Collecte de fonds pour un événement ou un projet
 
-### Compte professionnel
+## Compte professionnel
 
 - **IBAN français** — Compte dédié à l'activité professionnelle
 - **Carte Visa Business** — Physique et virtuelle
@@ -76,7 +76,7 @@ SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le 
 - **Historique** — Suivi de toutes les transactions
 - **Catégorisation** — Organisation automatique des dépenses
 
-### Banque complète (perso + pro)
+## Banque complète (perso + pro)
 
 - **Épargne** — Livrets et comptes rémunérés
 - **Crédit** — Prêts personnels et avances de trésorerie
@@ -84,9 +84,9 @@ SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le 
 - **Assurance** — Produits d'assurance intégrés (via partenaires)
 - **Cashback** — Programme de remboursement sur les achats
 
-## Prix
+# Prix
 
-### Offre Pro (encaissement)
+## Offre Pro (encaissement)
 
 | Élément | Prix |
 |---------|------|
@@ -95,7 +95,7 @@ SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le 
 | **QR code / Lien de paiement** | Commission par transaction |
 | **Paiement entre utilisateurs Lydia** | Gratuit |
 
-### Compte Pro
+## Compte Pro
 
 | Formule | Prix/mois |
 |---------|-----------|
@@ -108,7 +108,7 @@ SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le 
 
 *Source : [Sumeria](https://sumeria.eu/)*
 
-## Intégrations
+# Intégrations
 
 - **Terminal** : TPE Bluetooth connecté à l'app mobile
 - **Apple Pay / Google Pay** : Acceptés via le terminal
@@ -117,7 +117,7 @@ SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le 
 - **Pas d'API publique pro** — Intégrations limitées aux fonctionnalités de l'app
 - **Pas de connexion directe** avec les logiciels de comptabilité (Pennylane, Indy)
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **2013** — Création de **Lydia** à **Bordeaux** par **Cyril Chiche** (CEO) et **Antoine Porte** (CTO). L'idée : une app pour envoyer et recevoir de l'argent entre amis, simplement avec un numéro de téléphone — le "Venmo français"
 - **2013-2017** — Croissance virale dans les universités et chez les jeunes. Lydia devient l'app de paiement #1 en France pour le P2P (paiement entre personnes). Levées de fonds auprès de **XAnge**, **CNP Assurances**, **New Alpha AM**
@@ -129,7 +129,7 @@ SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le 
 
 *Source : [Sumeria](https://sumeria.eu/), [TechCrunch](https://techcrunch.com/), [Maddyness](https://www.maddyness.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **Le food truck au marché** — Tu vends des crêpes sur un marché le week-end. Avec le terminal Sumeria, tu encaisses par carte sans contact en 2 secondes. Et pour les clients qui ont l'app, tu affiches un QR code — ils payent en un tap. Pas besoin de banque traditionnelle ni de contrat TPE long terme.
 
@@ -137,7 +137,7 @@ SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le 
 
 **L'artisan en déplacement** — Tu es plombier. Tu finis une intervention et tu dois encaisser 320€. Avec le terminal Sumeria dans ta poche, tu encaisses par carte sur place. La facture est tracée dans l'historique de ton compte pro.
 
-## Points Forts
+# Points Forts
 
 - 8 millions d'utilisateurs en France — base installée massive
 - App #1 de paiement mobile en France
@@ -150,7 +150,7 @@ SumUp, Zettle (PayPal), iZettle, Yavin, Square, Stripe Terminal, Qonto (pour le 
 - 200+ employés — équipe structurée
 - Paiement P2P gratuit et instantané entre utilisateurs
 
-## Points Faibles
+# Points Faibles
 
 - **Rebranding en cours** — La transition de Lydia vers Sumeria crée de la confusion. Beaucoup de gens ne savent pas encore que Lydia = Sumeria. La notoriété historique de "Lydia" est un atout que le rebranding dilue
 - **Offre pro encore immature** — L'offre pro est secondaire par rapport au cœur de métier (B2C, paiement entre amis). Les fonctionnalités pro (facturation, comptabilité, multi-comptes) sont basiques par rapport à des spécialistes comme Qonto ou SumUp

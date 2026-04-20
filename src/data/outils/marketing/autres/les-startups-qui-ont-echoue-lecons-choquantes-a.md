@@ -5,8 +5,7 @@ tags:
 - Outils
 title: Les Startups Qui Ont Échoué Leçons Choquantes À Ne Pas Reproduire
 author: Diane
-description: 'Découvre Les Startups Qui Ont Échoué Leçons Choquantes À Ne Pas Reproduire
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Startups Qui Ont Échoué Leçons Choquantes À Ne Pas Reproduire."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

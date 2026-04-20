@@ -2,47 +2,28 @@
 section: tutos
 tags:
 - Tutoriels
-imageNameKey: null
-u_site: null
-title: Surveillance De La Vitesse Des Pages Google
+title: Surveiller la vitesse de ses pages sans devenir obsédé
 author: Diane
-description: 'Découvre Surveillance De La Vitesse Des Pages Google : outil français
-  pour entrepreneurs, fonctionnalités et avis.'
+description: Mets en place un suivi simple de la performance web pour repérer les vraies régressions et prioriser les optimisations utiles.
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-Action souhaité
+Surveiller la vitesse d’un site est utile. Rafraîchir PageSpeed toutes les trois heures ne l’est pas.
 
-Stratégie
+## Ce qu’il faut suivre
 
-Quels avantages ? Du plus fort au moins fort
+- pages clés ;
+- tendances ;
+- régressions ;
+- poids des pages ;
+- changements récents.
 
-## Étape 1/5
+## La bonne approche
 
-S’adapter à tous les niveaux
+1. choisis quelques pages critiques ;
+2. mesure régulièrement ;
+3. note les changements de template ou de contenu ;
+4. corrige ce qui a un vrai impact.
 
-## Comment utiliser WP Umbrella ?
-
-1. Créer un compte sur le site WP Umbrella. Vous pouvez accéder à toutes ses fonctionnalités et tester gratuitement pendant 14 jours sans frais. Dans l'application de compte WP Umbrella, vous verrez tous vos projets. Vous ne pouvez créer qu'un seul projet dans la version d'essai. Si vous souhaitez créer des projets supplémentaires pendant la période d'essai gratuite, vous pouvez toujours envoyer un message au support WP Umbrella, et ils vous fourniront cette option.
-2. Cliquez sur **Option Nouveau projet** et remplissez les informations requises. Une clé API sera créée spécifiquement pour ce projet.
-3. Accédez à votre site WordPress et installez le plugin WP Umbrella à partir du répertoire des plugins WordPress.
-4. **Collez la clé API** dont nous avons parlé dans le plugin WP Umbrella sur votre site. Vous venez de connecter votre site Web à votre compte WP Umbrella
-
-Fonctionnalités disponibles même sans l’installation de l’extension :
-
-- Surveiller les performances et la disponibilité de votre site
-
-Fonctions qui nécessitent l’installation de l’extension :
-
-- Gérer les extensions
-- Surveiller les erreurs PHP
-
-Appels à l’action au début, à la fin
-
-
-[**Monitoring WordPress**](https://wp-umbrella.com/blog/monitoring-wordpress-the-ultimate-guide/) est essentiel. Cependant, la surveillance des performances peut vite devenir écrasante : il y a beaucoup de métriques que vous n'êtes pas habitué à voir comme DNS, TCP, TLS, TTFB, etc.
-
-C'est pourquoi nous avons décidé de commencer à surveiller également Google PageSpeed et d'intégrer les données dans notre rapport de maintenance.
-
-Cela devrait faciliter la communication avec vos clients !
+Le bon suivi sert à prioriser. Pas à collectionner des scores.

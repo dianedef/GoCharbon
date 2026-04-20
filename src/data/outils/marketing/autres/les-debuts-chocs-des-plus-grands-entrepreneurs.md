@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Les Débuts Chocs Des Plus Grands Entrepreneurs Vous Ne Croirez Jamais Le N°7
 author: Diane
-description: 'Découvre Les Débuts Chocs Des Plus Grands Entrepreneurs Vous Ne Croirez
-  Jamais Le N°7 : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Débuts Chocs Des Plus Grands Entrepreneurs Vous Ne Croirez Jamais Le N°7."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

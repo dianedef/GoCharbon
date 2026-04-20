@@ -1,18 +1,18 @@
 ---
 section: parcours
-title: YouTubeur
+title: Créateur YouTube
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Lance ta chaîne YouTube rentable : niche, contenu, monétisation et croissance
-  pour créateurs vidéo.'
+description: 'Construire une activité YouTube avec un vrai angle, une vraie cadence
+  et plusieurs leviers de monétisation.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
 ## Description
 
-Être YouTubeur, c'est créer du contenu vidéo régulier sur YouTube et construire une audience. Tu monétises via plusieurs sources : pub YouTube (AdSense), sponsorings, affiliation, produits propres, etc. C'est un des rares business où tu peux vraiment construire un empire (MrBeast, PewDiePie commencé seuls dans leur chambre).
+Créer sur YouTube, c'est bâtir une audience autour d'un format, d'un angle et d'une régularité. Le potentiel est réel, mais la plateforme récompense surtout la constance, la qualité de promesse et la capacité à tenir dans le temps.
 
 L'avantage de YouTube vs TikTok/Instagram : le contenu est evergreen (tes vidéos continuent d'être vues des années après), le SEO Google (2ème moteur de recherche mondial), et les revenus sont plus élevés par vue.
 

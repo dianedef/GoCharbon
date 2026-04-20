@@ -8,8 +8,7 @@ tags:
 imageNameKey: null
 title: Les Excuses Bidons Qui Vous Empêchent De Devenir Riche Arrêtez Ça Tout De Suite
 author: Diane
-description: 'Découvre Les Excuses Bidons Qui Vous Empêchent De Devenir Riche Arrêtez
-  Ça Tout De Suite : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Excuses Bidons Qui Vous Empêchent De Devenir Riche Arrêtez Ça Tout De Suite."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

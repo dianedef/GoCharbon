@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Les Techniques Marketing Sous Utilisées Qui Vont Exploser Vos Ventes
 author: Diane
-description: 'Découvre Les Techniques Marketing Sous Utilisées Qui Vont Exploser Vos
-  Ventes : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Techniques Marketing Sous Utilisées Qui Vont Exploser Vos Ventes."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

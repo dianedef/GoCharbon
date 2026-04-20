@@ -8,8 +8,7 @@ tags:
 imageNameKey: null
 title: Mes Outils De Productivité Secrets Pour Devenir Un Superhéros Du Business
 author: Diane
-description: 'Découvre Mes Outils De Productivité Secrets Pour Devenir Un Superhéros
-  Du Business : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Mes Outils De Productivité Secrets Pour Devenir Un Superhéros Du Business."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

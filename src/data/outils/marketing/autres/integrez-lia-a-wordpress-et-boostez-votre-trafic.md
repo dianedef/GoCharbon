@@ -11,8 +11,7 @@ imageNameKey: null
 u_site: null
 title: Intégrez L'Ia À Wordpress Et Boostez Votre Trafic De 1000%
 author: Diane
-description: 'Découvre Intégrez L''Ia À Wordpress Et Boostez Votre Trafic De 1000%
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Intégrez L'Ia À Wordpress Et Boostez Votre Trafic De 1000%."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Le Mlm Français Qui Va Vous Rendre Riche En 30 Jours
 author: Diane
-description: 'Découvre Le Mlm Français Qui Va Vous Rendre Riche En 30 Jours : outil
-  français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Mlm Français Qui Va Vous Rendre Riche En 30 Jours."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

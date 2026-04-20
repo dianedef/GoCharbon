@@ -7,9 +7,7 @@ title: mistergoodlink
 author: Diane
 tags:
 - Outils
-description: 'MisterGoodLink est la solution par excellence pour les entrepreneurs
-  cherchant à améliorer leurs ventes et à gagner du temps en optimisant leur présence
-  en ligne. Cette plateforme '
+description: "MisterGoodLink est la solution par excellence pour les entrepreneurs cherchant à améliorer leurs ventes et à gagner du temps en optimisant leur présence en ligne. Cette plateforme."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.mistergoodlink.com

@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Pourquoi 89% Des Pubs Sont Ignorées Et Comment Faire Partie Des 11% Qui Cartonnent
 author: Diane
-description: 'Découvre Pourquoi 89% Des Pubs Sont Ignorées Et Comment Faire Partie
-  Des 11% Qui Cartonnent : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Pourquoi 89% Des Pubs Sont Ignorées Et Comment Faire Partie Des 11% Qui Cartonnent."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

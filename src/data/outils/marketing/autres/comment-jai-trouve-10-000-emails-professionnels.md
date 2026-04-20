@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Comment J'Ai Trouvé 10 000 Emails Professionnels En 1 Heure La Méthode Choc
 author: Diane
-description: 'Découvre Comment J''Ai Trouvé 10 000 Emails Professionnels En 1 Heure
-  La Méthode Choc : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Comment J'Ai Trouvé 10 000 Emails Professionnels En 1 Heure La Méthode Choc."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

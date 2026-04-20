@@ -1,15 +1,15 @@
 ---
 section: blog
-title: 'Les 5 Niveaux de Conscience de Schwartz : Adapter ton Message à ton Lecteur'
+title: "Niveaux de conscience de Schwartz : parler au bon lecteur"
 author: Diane
 tags:
   - Marketing
-description: Les 5 niveaux de conscience d'Eugene Schwartz expliqués simplement. Adapte ton copywriting au niveau de ton lecteur pour convertir plus.
-pubDate: '2026-03-23'
+description: Les 5 niveaux de conscience d'Eugene Schwartz expliqués simplement pour adapter ton message au bon moment du parcours d'achat.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Les 5 Niveaux de Conscience de Schwartz
+# Niveaux de conscience de Schwartz : parler au bon lecteur
 
 Ton lecteur ne part pas du même endroit que toi.
 

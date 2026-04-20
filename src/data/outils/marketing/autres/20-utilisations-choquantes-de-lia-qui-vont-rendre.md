@@ -11,8 +11,7 @@ imageNameKey: null
 u_site: null
 title: 20 Utilisations Choquantes De L'Ia Qui Vont Rendre Votre Entreprise Invincible
 author: Diane
-description: 'Découvre 20 Utilisations Choquantes De L''Ia Qui Vont Rendre Votre Entreprise
-  Invincible : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "20 Utilisations Choquantes De L'Ia Qui Vont Rendre Votre Entreprise Invincible."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

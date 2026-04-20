@@ -1,27 +1,39 @@
 ---
 section: tutos
+type: tuto
+imageNameKey: null
 tags:
 - Tutoriels
-imageNameKey: null
 u_site: null
-title: Comment Avoir Un Pagescore Extraordinaire
+title: Comment avoir un pagescore extraordinaire
 author: Diane
-description: 'Découvre Comment Avoir Un Pagescore Extraordinaire : outil français
-  pour entrepreneurs, fonctionnalités et avis.'
-pubDate: '2024-03-25'
+description: 'Tutoriel pratique pour avoir un pagescore extraordinaire : étapes propres, erreurs à éviter et mise en place sans blabla.'
+pubDate: 2026-04-19
 imgUrl: ../../assets/astro.jpeg
 ---
 
-Action souhaité
+# Comment avoir un pagescore extraordinaire
 
-Stratégie
+Si tu veux avoir un pagescore extraordinaire, évite de collectionner des outils pour rien. Le bon réglage est celui qui donne des données exploitables, compréhensibles et reliées à une décision.
 
-Quels avantages ? Du plus fort au moins fort
+## Ce qu'il faut préparer
 
-## Étape 1/5
+- la décision que tu veux prendre
+- les événements ou KPI utiles
+- une méthode simple de validation avant mise en ligne
 
-S’adapter à tous les niveaux
+## La méthode simple
 
-Appels à l’action au début, à la fin
+1. Définis ce que tu veux observer avant de brancher un script. Sinon tu vas récolter des métriques décoratives au lieu d'indicateurs utiles.
+2. Vérifie la configuration en environnement réel : événements, consentement, filtres, conversions, exclusions internes, vues ou rapports.
+3. Connecte ensuite les données à une action. Une analytics propre sert à décider quoi améliorer, pas à admirer un dashboard.
 
-[How to Remove Unused CSS and JavaScript Files in WordPress - Meta Box](https://metabox.io/remove-css-javascript-files-wordpress/)
+## Les erreurs à éviter
+
+- suivre tout et ne décider de rien
+- installer deux fois le même tag
+- oublier de tester les conversions
+
+## Commence comme ça
+
+Choisis trois indicateurs utiles, installe proprement le tracking, puis valide les événements dans un vrai parcours utilisateur.

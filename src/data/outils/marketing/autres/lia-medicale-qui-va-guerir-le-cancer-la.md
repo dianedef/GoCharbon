@@ -11,8 +11,7 @@ imageNameKey: null
 u_site: null
 title: L'Ia Médicale Qui Va Guérir Le Cancer La Révolution Est En Marche
 author: Diane
-description: 'Découvre L''Ia Médicale Qui Va Guérir Le Cancer La Révolution Est En
-  Marche : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Ia Médicale Qui Va Guérir Le Cancer La Révolution Est En Marche."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

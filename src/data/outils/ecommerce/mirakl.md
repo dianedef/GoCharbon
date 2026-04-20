@@ -22,17 +22,17 @@ u_derniere_maj: "2026-03-28"
 
 # Mirakl
 
-## PLATEFORME MARKETPLACE : LA LICORNE FRANCAISE QUI TRANSFORME LES E-RETAILERS EN PLACES DE MARCHE
+# PLATEFORME MARKETPLACE : LA LICORNE FRANCAISE QUI TRANSFORME LES E-RETAILERS EN PLACES DE MARCHE
 
-### tl;dr
+## tl;dr
 
 Mirakl (mirakl.com), c'est la **plateforme SaaS francaise pour creer et gerer des marketplaces** -- le logiciel qui permet aux retailers, distributeurs et marques de **lancer leur propre marketplace** en s'appuyant sur un reseau de vendeurs tiers. Fondee en **2012** a **Paris** par **Philippe Corrot** et **Adrien Nussenbaum** (qui avaient deja cree Splitgames en 2006, rachete par la Fnac en 2008, puis developpe la marketplace Fnac.com pendant 3 ans). Le concept : tu es un e-retailer (Carrefour, Decathlon, Leroy Merlin, Best Buy...), tu veux elargir ton catalogue sans acheter de stock -- Mirakl te fournit toute la tech pour onboarder des vendeurs tiers, gerer les catalogues, les commandes, les paiements et la publicite. Plus de **450 clients** dans **40+ pays**, dont des references comme **Carrefour**, **Decathlon**, **Leroy Merlin**, **Maisons du Monde**, **Best Buy**, **Kroger** et **H&M**. Mirakl est une **licorne francaise** valorisee a **3,5 milliards de dollars** apres avoir leve un total de **948 millions de dollars** (dont 555M$ en Serie E aupres de Silver Lake en 2021). **218 millions de dollars d'ARR** en 2025, +23% de croissance, **rentable** sur son activite historique depuis 2023. Plus de **100 000 vendeurs** actifs dans l'ecosysteme. Siege a Paris (56 boulevard de Sebastopol, 75003) et Boston. Environ **800 employes**. Cible : **grands retailers, distributeurs, marques et acteurs B2B** qui veulent lancer ou scaler leur marketplace.
 
-### Alternative a
+## Alternative à
 
 Octopia (Cdiscount), Izberg, Webkul, Sharetribe, Arcadier, Marketplacer. Mirakl se distingue par son **echelle** (450+ clients, 100 000+ vendeurs, 3,5 Mds$ de valorisation -- c'est le leader mondial du SaaS marketplace), sa **completude fonctionnelle** (marketplace, dropship, catalogue IA, paiements, ads -- tout en un), son **track record** (Carrefour, Best Buy, Decathlon... les plus grands retailers du monde), et son **ancrage francais** (fondee a Paris par deux anciens de la Fnac, licorne tricolore).
 
-## Benefices
+# Benefices
 
 **Lancer une marketplace cle en main** -- Mirakl fournit toute la tech pour lancer une marketplace : onboarding vendeurs, gestion de catalogue, traitement des commandes, paiements, moderation. Tu n'as pas a construire la plomberie. Tu te concentres sur ta strategie commerciale.
 
@@ -44,7 +44,7 @@ Octopia (Cdiscount), Izberg, Webkul, Sharetribe, Arcadier, Marketplacer. Mirakl 
 
 **Retail media integre** -- Mirakl Ads permet aux vendeurs de la marketplace de sponsoriser leurs produits. C'est un centre de profit supplementaire pour l'operateur de la marketplace. Les publicites sont optimisees par IA en temps reel.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Grands retailers qui veulent lancer leur propre marketplace (Carrefour, Decathlon, Leroy Merlin...)
 - Distributeurs B2B qui veulent digitaliser leur reseau de fournisseurs
@@ -52,7 +52,7 @@ Octopia (Cdiscount), Izberg, Webkul, Sharetribe, Arcadier, Marketplacer. Mirakl 
 - E-retailers mid-market qui veulent passer au modele marketplace
 - Acteurs du luxe et de la mode qui veulent elargir leur offre sans diluer leur marque
 
-## Comment Utiliser Mirakl
+# Comment Utiliser Mirakl
 
 1. **Cadrage** -- Definis ta strategie marketplace avec les equipes Mirakl (categories, vendeurs cibles, modele de commission)
 2. **Integration** -- Mirakl s'integre dans ton site e-commerce existant (API, connecteurs preconfigures)
@@ -60,9 +60,9 @@ Octopia (Cdiscount), Izberg, Webkul, Sharetribe, Arcadier, Marketplacer. Mirakl 
 4. **Lancement** -- Lance ta marketplace. Mirakl gere les flux de commandes, paiements et moderation
 5. **Scale** -- Ajoute des vendeurs, elargis les categories, active Mirakl Ads pour monetiser le trafic
 
-## Fonctionnalites
+# Fonctionnalites
 
-### Marketplace Platform
+## Marketplace Platform
 
 - **Onboarding vendeurs** -- Portail vendeur en libre-service, KYC, scoring
 - **Gestion de catalogue** -- Mapping IA, deduplication, enrichissement automatique
@@ -70,31 +70,31 @@ Octopia (Cdiscount), Izberg, Webkul, Sharetribe, Arcadier, Marketplacer. Mirakl 
 - **Moderation** -- Regles de qualite, scoring vendeurs, moderation automatique
 - **Multi-modele** -- Marketplace, dropship, hybride (1P + 3P)
 
-### Mirakl Connect
+## Mirakl Connect
 
 - **Reseau de vendeurs** -- 100 000+ vendeurs pre-qualifies
 - **Activation rapide** -- Les vendeurs deja presents sur une marketplace Mirakl rejoignent les autres en quelques clics
 - **API et connecteurs** -- Integration avec les principaux ERP, PIM et systemes logistiques
 
-### Mirakl Ads
+## Mirakl Ads
 
 - **Produits sponsorises** -- Les vendeurs boostent la visibilite de leurs produits
 - **IA temps reel** -- Optimisation automatique des encheres et du placement
 - **Reporting** -- Analytics de performance publicitaire pour les operateurs et les vendeurs
 
-### Mirakl Payout
+## Mirakl Payout
 
 - **Paiements vendeurs** -- Paiements automatiques, split payment, multi-devises
 - **Conformite** -- KYC, PSD2, gestion des litiges
 - **Integration** -- Connexion unifiee avec les PSP du marche
 
-### Intelligence artificielle
+## Intelligence artificielle
 
 - **Cataloging IA** -- Mapping 1000x plus rapide que le manuel
 - **Detection doublons** -- Identification automatique des produits identiques de differents vendeurs
 - **Categorisation** -- Classification automatique des produits dans l'arborescence
 
-## Prix
+# Prix
 
 Mirakl ne publie pas ses tarifs. C'est une solution **enterprise** avec tarification sur mesure. Ce qu'on sait :
 
@@ -105,7 +105,7 @@ Mirakl ne publie pas ses tarifs. C'est une solution **enterprise** avec tarifica
 
 *Ce n'est pas un outil pour un petit e-commercant qui veut tester le modele marketplace. C'est une solution enterprise pour les retailers qui veulent en faire un axe strategique.*
 
-## Integrations
+# Integrations
 
 - **E-commerce** : Salesforce Commerce Cloud, SAP Commerce, Adobe Commerce (Magento), Shopify Plus
 - **ERP** : SAP, Oracle, Microsoft Dynamics
@@ -114,7 +114,7 @@ Mirakl ne publie pas ses tarifs. C'est une solution **enterprise** avec tarifica
 - **Logistique** : Integration avec les 3PL et les systemes WMS
 - **Marketing** : Mirakl Ads natif, integration analytics
 
-## L'equipe et l'Histoire
+# L'equipe et l'Histoire
 
 - **2006** -- **Philippe Corrot** et **Adrien Nussenbaum** se retrouvent (ils se connaissent depuis 2004) et creent **Splitgames**, une marketplace B2C de jeux video
 - **2008** -- Splitgames est **rachete par la Fnac**. Corrot et Nussenbaum passent 3 ans a developper l'activite marketplace de Fnac.com. Ils decouvrent que la tech marketplace est le vrai enjeu -- et que personne ne la vend en SaaS
@@ -128,13 +128,13 @@ Mirakl ne publie pas ses tarifs. C'est une solution **enterprise** avec tarifica
 
 *Sources : [Mirakl](https://www.mirakl.com/), [Wikipedia](https://en.wikipedia.org/wiki/Mirakl)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **Le grand retailer qui lance sa marketplace** -- Tu es directeur e-commerce chez un grand distributeur francais. Tu veux passer de 50 000 a 200 000 references sans acheter de stock. Tu deploies Mirakl. En 6 mois, tu onboardes 200 vendeurs via Mirakl Connect. L'IA mappe les catalogues automatiquement. Tu actives Mirakl Ads pour monetiser le trafic. Resultat : +150 000 references, +30% de GMV, et un nouveau centre de profit publicitaire.
 
 **Le distributeur B2B qui digitalise son reseau** -- Tu es un grossiste dans le batiment. Tes 500 fournisseurs t'envoient encore des catalogues PDF. Tu lances une marketplace B2B sur Mirakl. Les fournisseurs upload leurs catalogues en libre-service. Les artisans commandent en ligne. Tu prends une commission sur chaque transaction. En 1 an, tu digitalises 80% de ton volume.
 
-## Points Forts
+# Points Forts
 
 - Leader mondial du SaaS marketplace (450+ clients, 100 000+ vendeurs)
 - Track record impressionnant (Carrefour, Decathlon, Best Buy, Leroy Merlin, H&M)
@@ -144,7 +144,7 @@ Mirakl ne publie pas ses tarifs. C'est une solution **enterprise** avec tarifica
 - IA avancee pour le cataloging et les ads
 - Double siege Paris + Boston (expertise internationale)
 
-## Points Faibles
+# Points Faibles
 
 - **Prix enterprise** -- Mirakl n'est pas accessible aux petites entreprises. Les tarifs sont sur mesure, avec des budgets de plusieurs dizaines de milliers d'euros par an. Si tu veux tester le modele marketplace avec un petit catalogue, regarde plutot [Octopia](/outils/ecommerce/octopia) ou Sharetribe
 - **Complexite d'integration** -- Deployer Mirakl prend plusieurs mois. C'est un projet structurant qui mobilise des equipes tech, produit et commerce. Ce n'est pas un outil plug-and-play

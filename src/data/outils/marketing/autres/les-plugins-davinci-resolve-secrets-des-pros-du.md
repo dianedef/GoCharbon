@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Plugins Davinci Resolve Secrets Des Pros Du Montage Enfin Révélés
 author: Diane
-description: 'Découvre Les Plugins Davinci Resolve Secrets Des Pros Du Montage Enfin
-  Révélés : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Plugins Davinci Resolve Secrets Des Pros Du Montage Enfin Révélés."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: La Technique De Lead Gen B2C Qui Va Faire Pleuvoir Les Clients
 author: Diane
-description: 'Découvre La Technique De Lead Gen B2C Qui Va Faire Pleuvoir Les Clients
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Technique De Lead Gen B2C Qui Va Faire Pleuvoir Les Clients."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

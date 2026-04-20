@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Évitez Le Burnout Comme Un Pro Les Secrets Chocs D'Andy Johns Enfin Dévoilés
 author: Diane
-description: 'Découvre Évitez Le Burnout Comme Un Pro Les Secrets Chocs D''Andy Johns
-  Enfin Dévoilés : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Évitez Le Burnout Comme Un Pro Les Secrets Chocs D'Andy Johns Enfin Dévoilés."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

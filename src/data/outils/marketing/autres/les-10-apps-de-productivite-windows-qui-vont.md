@@ -11,8 +11,7 @@ u_site: null
 u_affi: null
 title: Les 10 Apps De Productivité Windows Qui Vont Changer Votre Vie
 author: Diane
-description: 'Découvre Les 10 Apps De Productivité Windows Qui Vont Changer Votre
-  Vie : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les 10 Apps De Productivité Windows Qui Vont Changer Votre Vie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

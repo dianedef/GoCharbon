@@ -1,11 +1,11 @@
 ---
 section: parcours
-title: Print-on-Demand (POD)
+title: Print-on-demand
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Guide print-on-demand : designs, plateformes et marketing pour vendre
-  des produits personnalisés sans stock.'
+description: 'Vendre des produits personnalisés sans stock, avec une vraie lucidité
+  sur les marges et la différenciation.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---

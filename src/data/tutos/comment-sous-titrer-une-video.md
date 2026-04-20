@@ -2,173 +2,48 @@
 section: tutos
 tags:
 - Tutoriels
-title: Comment Sous Titrer Une Vidéo
+imageNameKey: null
+u_site: null
+title: Comment sous-titrer une vidéo proprement
 author: Diane
-description: 'Découvre Comment Sous Titrer Une Vidéo : outil français pour entrepreneurs,
-  fonctionnalités et avis.'
-pubDate: '2024-03-25'
+description: 'Comment sous-titrer une vidéo proprement : méthode claire, étapes utiles, erreurs à éviter et conseils pour passer du bricolage à un vrai process.'
+pubDate: '2026-04-19'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Comment Sous-Titrer Une Vidéo
+Comment sous-titrer une vidéo proprement peut te faire gagner un temps énorme si tu poses un vrai cadre de production. Sans ça, tu produis vite, mais tu produis surtout du déchet ou des rendus incohérents.
 
-## SOUS-TITRES : LE BOOST DE VUES QUE TU IGNORES
+Le bon réflexe ici, ce n’est pas de chercher la manip la plus courte. C’est de construire une méthode simple, fiable et suffisamment propre pour pouvoir la refaire sans stress.
 
-85 % des vidéos sur les réseaux sociaux sont regardees sans le son. Si tu ne sous-titres pas tes vidéos, tu perds la majorite de ton audience. En plus, les sous-titres ameliorent ton SEO vidéo et rendent ton contenu accessible aux malentendants.
+## Ce que tu vas obtenir
+- un workflow batch plus propre
+- des exports cohérents
+- moins de retouches manuelles à la fin
 
----
+## Méthode simple
+### 1. Définis le format final avant de produire
+Résolution, ratio, durée, sous-titres, branding et destination doivent être fixés avant de lancer le batch.
 
-## Les Formats de Sous-Titres
+### 2. Prépare tes sources
+Range les fichiers, nomme-les proprement et vérifie la qualité d’entrée. Un mauvais master reste mauvais à grande échelle.
 
-- **SRT** : le plus universel. Fichier texte simple avec timing. Compatible partout (YouTube, Première, DaVinci, réseaux sociaux).
-- **VTT** : variante web du SRT, utilisée sur les sites internet.
-- **ASS/SSA** : format avance avec mise en forme (couleurs, positions). Utilise pour l'anime et les sous-titres stylises.
-- **Sous-titres incrustes (hardcoded)** : directement graves dans la vidéo. Impossible a desactiver mais visible partout.
+### 3. Crée un preset réutilisable
+Mieux vaut un bon preset stable que dix réglages bricolés à la main sur chaque export.
 
-Pour les réseaux sociaux, privilegiez les sous-titres **incrustes** (les gens ne vont pas activer les CC).
+### 4. Teste sur un petit lot
+Fais tourner 3 à 5 fichiers avant de lancer cent exports. Tu verras vite si le cadrage, le rythme ou la compression posent problème.
 
----
+### 5. Fais un contrôle qualité avant publication
+Regarde les bords, les sous-titres, les transitions, le poids final et la cohérence d’ensemble.
 
-## Methode 1 : Outils IA de Transcription Automatique
+## Pièges à éviter
+- lancer un batch avec de mauvais réglages
+- négliger la qualité des sources
+- publier sans contrôle final sur plusieurs fichiers
 
-### Descript
+## Checklist rapide
+- [ ] objectif clarifié
+- [ ] premier test réalisé sur un petit périmètre
+- [ ] résultat vérifié avant généralisation
 
-Descript est un editeur vidéo/audio base sur le texte : tu edites ta vidéo comme un document Word. Très puissant pour la transcription et le sous-titrage.
-
-**Tarifs Descript (2025)** : version gratuite (1h de transcription/mois, 720p, watermark), Hobbyist 16 USD/mois (10h de transcription, 1080p sans watermark), Creator 24 USD/mois (30h, 4K, fonctions IA illimitees), Business 40 USD/mois (40h, collaboration équipe). Depuis septembre 2025, Descript est passe a un modele de "media minutes" : chaque fichier uploade compte comme minutes media, et les operations IA consomment des credits IA separes.
-
-1. Cree un compte sur descript.com
-2. Importe ta vidéo
-3. Descript transcrit automatiquement tout l'audio en texte
-4. Corrige les erreurs dans l'editeur (la transcription n'est jamais parfaite a 100 %)
-5. Exporte le fichier SRT ou exporte directement la vidéo avec les sous-titres incrustes
-6. Tu peux personnaliser le style : police, taille, couleur, position
-
-### CapCut
-
-1. Importe ta vidéo dans CapCut (desktop ou mobile)
-2. Va dans **Text > Auto Captions**
-3. Sélectionne la langue (français)
-4. CapCut génère les sous-titres automatiquement
-5. Ajuste le timing et corrige les erreurs
-6. Personnalise le style (modeles animes disponibles)
-7. Exporte la vidéo
-
-CapCut est gratuit et fait un excellent travail pour le français.
-
-### Checksub
-
-Outil français specialise dans le sous-titrage et la traduction vidéo. Checksub propose desormais aussi le doublage IA, le voice-cloning et le lip-sync (beta).
-
-**Tarifs Checksub (2025)** : Junior a 18 USD/mois (2h de credits, 1 traduction par projet, export SRT/VTT), Starter a 59 USD/mois (5h de credits, AI-Dubbing, voice-cloning, lip-sync, connexion YouTube), Enterprise sur devis (a partir de 299 USD/mois, 187 langues, API). 14 jours d'essai gratuit, pas de carte requise. Export en 4K sur tous les plans payants.
-
-1. Telecharge ta vidéo sur checksub.com
-2. Transcription automatique en français (ou traduction multilingue en 200+ langues)
-3. Editeur en ligne pour corriger et ajuster
-4. Exporte en SRT ou vidéo sous-titree
-5. Option de sous-titres animes avec polices personnalisees (plans Starter+)
-
----
-
-## Methode 2 : Sous-Titres Dans Première Pro
-
-1. Importe ta vidéo
-2. Va dans **Window > Text** (ou Captions dans les anciennes versions)
-3. Clique sur **Transcribe Sequence** pour la transcription automatique
-4. Première génère les sous-titres automatiquement
-5. Verifie et corrige dans le panneau Text
-6. Personnalise le style dans **Essential Graphics** (police, fond, couleur)
-7. Pour exporter en SRT : **File > Export > Captions**
-8. Pour incruster : exporte normalement, les sous-titres seront dans la vidéo
-
----
-
-## Methode 3 : DaVinci Resolve
-
-Voir le tuto dédié "Sous-titrer une vidéo gratuitement sur DaVinci" pour le detail complet.
-
-En resume :
-1. Utilise l'onglet **Edit** et le panneau **Subtitles**
-2. Cree une nouvelle piste de sous-titres
-3. Ajoute les sous-titres manuellement ou importe un fichier SRT
-4. La version Studio a la transcription automatique integree
-
----
-
-## Methode 4 : YouTube Studio (Gratuit)
-
-Si ta vidéo est destinee a YouTube :
-
-1. Televerse ta vidéo sur YouTube
-2. Va dans **YouTube Studio > Sous-titres**
-3. YouTube génère automatiquement les sous-titres (precision ~90 % en français)
-4. Clique sur **Modifier** pour corriger les erreurs
-5. Tu peux télécharger le fichier SRT génère pour l'utiliser ailleurs
-
-Astuce : mets ta vidéo en "non repertoriee" le temps de recuperer les sous-titres, puis change la visibilite.
-
----
-
-## Bonnes Pratiques Pour des Sous-Titres Efficaces
-
-### Lisibilite
-
-- **Maximum 2 lignes** a l'ecran en même temps
-- **Maximum 42 caracteres par ligne** (sinon c'est illisible sur mobile)
-- Police **sans serif** (Arial, Montserrat, Open Sans)
-- Taille suffisante : teste sur un ecran de telephone
-- **Fond semi-transparent** ou contour pour que le texte soit lisible sur n'importe quel arriere-plan
-
-### Timing
-
-- Chaque sous-titre doit rester a l'ecran **minimum 1 seconde**, maximum 7 secondes
-- Synchronise avec le rythme de la parole (un sous-titre par phrase ou proposition)
-- Laisse 2-3 frames de marge entre deux sous-titres successifs
-
-### Style pour les réseaux sociaux
-
-- Sous-titres animes mot par mot (style "karaoke") = plus d'engagement
-- Couleur d'accentuation sur les mots-clés
-- Position en bas au centre ou au milieu de l'ecran
-
----
-
-## Erreurs Courantes
-
-- Sous-titres trop rapides (le spectateur n'a pas le temps de lire)
-- Ne pas relire la transcription automatique (les noms propres et termes techniques sont souvent faux)
-- Police trop petite ou blanche sur fond clair
-- Sous-titres qui debordent de l'ecran sur mobile
-- Oublier les indications sonores pour l'accessibilite ([musique], [rires], [applaudissements])
-
----
-
-## Comparatif des Outils
-
-| Outil | Prix | Precision FR | Incrustation | Export SRT |
-|-------|------|-------------|-------------|-----------|
-| CapCut | Gratuit | Bonne | Oui | Oui |
-| Descript | Gratuit (limite) / 16 USD/mois (Hobbyist) | Très bonne | Oui | Oui |
-| Checksub | 18 USD/mois (Junior) / 59 USD/mois (Starter) | Excellente | Oui | Oui |
-| Première Pro | ~23 USD/mois (plan annuel) | Bonne | Oui | Oui |
-| YouTube Studio | Gratuit | Correcte | Non | Oui |
-| Happy Scribe | A partir de 17 EUR/mois | Très bonne | Non | Oui |
-
----
-
-## Astuces
-
-- Commence par la transcription automatique puis corrige. Jamais l'inverse, ca prend trop de temps.
-- Si tu sous-titres regulierement, cree un modele de style et reutilise-le a chaque vidéo pour garder une identité visuelle.
-- Pour les vidéos multilingues, utilise Checksub ou Happy Scribe qui gerent la traduction automatique.
-- Ajoute les sous-titres APRÈS le montage final. Si tu changes le montage, tu dois tout resynchroniser.
-
----
-
-## Ressources
-
-- [CapCut](https://www.capcut.com/) (gratuit, desktop et mobile)
-- [Descript](https://www.descript.com/) (gratuit limite / a partir de 16 USD/mois)
-- [Checksub](https://www.checksub.com/) (outil français, a partir de 18 USD/mois, 14 jours d'essai gratuit)
-- [Happy Scribe](https://www.happyscribe.com/) (transcription + traduction, a partir de 17 EUR/mois)
-- [Subtitle Edit](https://www.nikse.dk/subtitleedit) (editeur de sous-titres open source gratuit, 200+ formats supportes)
+Si tu veux aller plus loin, documente ton process pendant que tu le mets en place. Un bon tuto ne sert pas seulement à réussir une fois, il sert à créer une routine fiable pour la prochaine fois.

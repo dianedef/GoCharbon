@@ -18,8 +18,7 @@ u_affi: null
 u_affiAdmin: null
 title: Locanet
 author: Diane
-description: 'Découvre Locanet : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "Locanet."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

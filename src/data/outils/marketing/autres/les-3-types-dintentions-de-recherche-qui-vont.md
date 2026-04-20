@@ -8,8 +8,7 @@ u_site: null
 title: Les 3 Types D'Intentions De Recherche Qui Vont Faire Exploser Votre Trafic
   Seo
 author: Diane
-description: 'Découvre Les 3 Types D''Intentions De Recherche Qui Vont Faire Exploser
-  Votre Trafic Seo : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les 3 Types D'Intentions De Recherche Qui Vont Faire Exploser Votre Trafic Seo."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

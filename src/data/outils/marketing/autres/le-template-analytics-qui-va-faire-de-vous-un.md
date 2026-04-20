@@ -5,8 +5,7 @@ tags:
 - Outils
 title: Le Template Analytics Qui Va Faire De Vous Un Dieu Du Marketing Digital
 author: Diane
-description: 'Découvre Le Template Analytics Qui Va Faire De Vous Un Dieu Du Marketing
-  Digital : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Template Analytics Qui Va Faire De Vous Un Dieu Du Marketing Digital."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

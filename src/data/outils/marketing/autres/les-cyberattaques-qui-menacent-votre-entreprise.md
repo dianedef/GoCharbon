@@ -6,9 +6,7 @@ tags:
 title: Les Cyberattaques Qui Menacent Votre Entreprise Protégez Vous Avant Qu'Il Ne
   Soit Trop Tard
 author: Diane
-description: 'Découvre Les Cyberattaques Qui Menacent Votre Entreprise Protégez Vous
-  Avant Qu''Il Ne Soit Trop Tard : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "Les Cyberattaques Qui Menacent Votre Entreprise Protégez Vous Avant Qu'Il Ne Soit Trop Tard."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

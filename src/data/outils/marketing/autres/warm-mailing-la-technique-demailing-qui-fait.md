@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Warm Mailing La Technique D'Emailing Qui Fait Exploser Les Taux D'Ouverture
 author: Diane
-description: 'Découvre Warm Mailing La Technique D''Emailing Qui Fait Exploser Les
-  Taux D''Ouverture : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Warm Mailing La Technique D'Emailing Qui Fait Exploser Les Taux D'Ouverture."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

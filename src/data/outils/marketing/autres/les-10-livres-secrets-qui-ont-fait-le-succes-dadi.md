@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Les 10 Livres Secrets Qui Ont Fait Le Succès D'Adi Soozin Enfin Dévoilés
 author: Diane
-description: 'Découvre Les 10 Livres Secrets Qui Ont Fait Le Succès D''Adi Soozin
-  Enfin Dévoilés : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les 10 Livres Secrets Qui Ont Fait Le Succès D'Adi Soozin Enfin Dévoilés."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

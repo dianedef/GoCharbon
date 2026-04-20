@@ -1,19 +1,21 @@
 ---
 section: blog
-title: 'Séquences Email Copywriting : Du Premier Contact au Closing'
+title: "Séquences email : quoi envoyer, quand, et pourquoi ça convertit"
 author: Diane
 tags:
   - Marketing
-description: Structure tes séquences email pour convertir. Préchauffage, valeur, vente, relance — le copywriting qui transforme des inscrits en clients.
-pubDate: '2026-03-23'
+description: Structure des séquences email utiles et lisibles pour transformer des inscrits en clients sans saturer ta liste ni parler dans le vide.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Séquences Email Copywriting : Du Premier Contact au Closing
+# Séquences email : quoi envoyer, quand, et pourquoi ça convertit
 
-L'email marketing n'est pas un outil. C'est un canal. Et comme tout canal, il ne vaut rien sans ce qui passe dedans.
+L'email marketing n'est pas mort. Il est juste souvent très mal utilisé.
 
-Le copywriting, c'est ce qui fait que ce canal rapporte. La différence entre une newsletter que personne ne lit et une séquence qui génère des ventes régulières, c'est la qualité du texte. Pas le design. Pas l'outil d'envoi. Pas le template avec des couleurs assorties à ta charte graphique. Le texte.
+La différence entre une séquence qui rapporte et une suite d'emails que tout le monde ignore tient rarement au template. Elle tient au message, au rythme et à la clarté de ce que tu demandes.
+
+Les [benchmarks 2025 de MailerLite](https://www.mailerlite.com/blog/compare-your-email-performance-metrics-industry-benchmarks) montrent encore de gros écarts d'ouverture et de clic selon les secteurs, pendant que [Salesforce](https://www.salesforce.com/news/stories/state-of-marketing-2026/) rappelle en 2026 que les campagnes génériques restent la norme. Traduction simple : une bonne séquence email n'a pas besoin d'être plus compliquée, elle a besoin d'être plus spécifique.
 
 Tu peux avoir 50 000 abonnés sur ta liste. Si tes emails sont plats, tu fais zéro vente. À l'inverse, une liste de 500 personnes bien travaillée avec des séquences structurées peut générer un revenu mensuel solide. Parce que le copywriting email a un avantage que les autres canaux n'ont pas : tu parles directement dans la boîte de réception de quelqu'un. Pas de filtre algorithmique, pas de concurrence visuelle. Juste toi et ton lecteur.
 

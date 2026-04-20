@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Learnyclub La Plateforme De Formation Qui Va Rendre Les Universités Obsolètes
 author: Diane
-description: 'Découvre Learnyclub La Plateforme De Formation Qui Va Rendre Les Universités
-  Obsolètes : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Learnyclub La Plateforme De Formation Qui Va Rendre Les Universités Obsolètes."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

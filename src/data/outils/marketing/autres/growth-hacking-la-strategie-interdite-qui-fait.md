@@ -5,8 +5,7 @@ tags:
 - Outils
 title: Growth Hacking La Stratégie Interdite Qui Fait Exploser Les Startups
 author: Diane
-description: 'Découvre Growth Hacking La Stratégie Interdite Qui Fait Exploser Les
-  Startups : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Growth Hacking La Stratégie Interdite Qui Fait Exploser Les Startups."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

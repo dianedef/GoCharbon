@@ -84,6 +84,11 @@ function stepXp(type: TaskType): number {
   }
 }
 
+function isStepAvailable(href: string, availableInBuild?: boolean): boolean {
+  if (typeof availableInBuild === 'boolean') return availableInBuild;
+  return !!href;
+}
+
 function toggleStep(moduleId: string, stepId: string, checked: boolean): void {
   const key = stepKey(moduleId, stepId);
   const taskId = `${props.pathData.id}::${key}`;
@@ -165,7 +170,17 @@ onBeforeUnmount(() => {
                 <p>{{ step.description }}</p>
               </div>
             </div>
-            <a :href="step.href" class="step-open-link no-link-style" data-astro-prefetch>Ouvrir</a>
+            <a
+              v-if="isStepAvailable(step.href, step.availableInBuild)"
+              :href="step.href"
+              class="step-open-link no-link-style"
+              data-astro-prefetch
+            >
+              Ouvrir
+            </a>
+            <span v-else class="step-open-link step-open-link-disabled">
+              Bientôt
+            </span>
           </li>
         </ol>
       </article>
@@ -543,6 +558,11 @@ onBeforeUnmount(() => {
   background: var(--pp-surface);
   text-decoration: none;
   line-height: 1.2;
+}
+
+.step-open-link-disabled {
+  opacity: 0.72;
+  cursor: default;
 }
 
 .module-card li a:hover {

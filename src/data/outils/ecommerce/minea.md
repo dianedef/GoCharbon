@@ -21,17 +21,17 @@ u_derniere_maj: "2026-03-15"
 
 # Minea
 
-## AD SPY : L'OUTIL SUISSE QUI ESPIONNE LES PUBLICITÉS E-COMMERCE POUR TROUVER LES PRODUITS GAGNANTS
+# AD SPY : L'OUTIL SUISSE QUI ESPIONNE LES PUBLICITÉS E-COMMERCE POUR TROUVER LES PRODUITS GAGNANTS
 
-### tl;dr
+## tl;dr
 
 Minea (minea.com), c'est l'**outil suisse d'espionnage publicitaire (ad spy)** pour le e-commerce — la plateforme qui te permet de **trouver les produits gagnants** en analysant les **publicités actives** sur **Facebook, TikTok, Pinterest et Instagram**. Le concept : au lieu de deviner quel produit vendre, tu analyses les publicités qui fonctionnent déjà. Minea scrape des **millions de publicités** chaque jour, te montre celles qui ont le plus d'engagement (likes, commentaires, partages), et te donne les détails : produit, boutique, fournisseur, prix, créatives. Co-fondé par **Loïc Berthelot** et **Cédric Jacot**, avec **Yomi Denzel** (entrepreneur e-commerce suisse) comme partenaire. **Entité basée en Suisse** (pas français). **+200 000 utilisateurs**. ~66 employés, CA estimé ~6,5M$. L'outil est particulièrement utilisé dans le **dropshipping** et le e-commerce de niche. Minea se positionne comme le **leader francophone** de l'ad spy avec une interface 100% en français. **Note : Minea est un outil suisse**, mais il est inclus car il est la référence francophone de l'ad spy et dispose d'une interface 100% en français. Cible : **dropshippers, e-commerçants, entrepreneurs e-commerce** qui cherchent des produits tendance à vendre.
 
-### Alternative à
+## Alternative à
 
 AdSpy, BigSpy, Dropispy, Pipiads, PowerAdSpy. Minea se distingue par sa **couverture multi-plateforme** (Facebook + TikTok + Pinterest + Instagram — la plupart des concurrents ne couvrent qu'une ou deux plateformes), son **interface en français** (développé en France pour les e-commerçants francophones), et ses **outils complémentaires** (analyse de boutiques, recherche d'influenceurs, suivi de produits).
 
-## Bénéfices
+# Bénéfices
 
 **Multi-plateforme** — Minea analyse les publicités sur Facebook, TikTok, Pinterest et Instagram. Tu as une vue d'ensemble de ce qui fonctionne sur toutes les plateformes publicitaires — pas juste Facebook.
 
@@ -43,7 +43,7 @@ AdSpy, BigSpy, Dropispy, Pipiads, PowerAdSpy. Minea se distingue par sa **couver
 
 **Influenceurs** — L'outil analyse les placements de produits par les influenceurs. Tu vois quels produits sont poussés par des influenceurs et sur quelles plateformes.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Dropshippers qui cherchent des produits gagnants
 - E-commerçants qui veulent espionner la concurrence
@@ -51,7 +51,7 @@ AdSpy, BigSpy, Dropispy, Pipiads, PowerAdSpy. Minea se distingue par sa **couver
 - Marketeurs qui veulent analyser les créatives publicitaires
 - Agences e-commerce qui recherchent des tendances produit
 
-## Comment Utiliser Minea
+# Comment Utiliser Minea
 
 1. **Inscription** — Crée ton compte sur [minea.com](https://minea.com/)
 2. **Recherche** — Recherche des publicités par mot-clé, pays, plateforme, engagement
@@ -60,9 +60,9 @@ AdSpy, BigSpy, Dropispy, Pipiads, PowerAdSpy. Minea se distingue par sa **couver
 5. **Produit** — Identifie le produit et son fournisseur
 6. **Lancement** — Lance ton produit dans ta boutique
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Ad Spy
+## Ad Spy
 
 - **Facebook Ads** — Analyse des publicités Facebook (textes, visuels, engagement)
 - **TikTok Ads** — Espionnage des publicités TikTok
@@ -71,27 +71,27 @@ AdSpy, BigSpy, Dropispy, Pipiads, PowerAdSpy. Minea se distingue par sa **couver
 - **Filtres avancés** — Par pays, langue, engagement, date, type de produit
 - **Tri** — Par engagement, date, likes, commentaires, partages
 
-### Analyse de produits
+## Analyse de produits
 
 - **Fiches produit** — Détails complets du produit (prix, fournisseur, catégorie)
 - **Fournisseurs** — Identification AliExpress, CJ Dropshipping, etc.
 - **Historique** — Évolution de la popularité du produit dans le temps
 - **Concurrents** — Qui vend le même produit et à quel prix
 
-### Analyse de boutiques
+## Analyse de boutiques
 
 - **Shop Spy** — Espionnage des boutiques e-commerce
 - **Best-sellers** — Identification des produits les plus vendus
 - **Trafic** — Estimation du trafic de la boutique
 - **Apps** — Technologies utilisées par la boutique (Shopify, etc.)
 
-### Influenceurs
+## Influenceurs
 
 - **Placements** — Analyse des placements de produits par influenceurs
 - **Performance** — Engagement des posts sponsorisés
 - **Découverte** — Trouve les influenceurs qui promotent des produits similaires
 
-## Prix
+# Prix
 
 | Plan | Prix/mois | Détails |
 |------|-----------|---------|
@@ -104,14 +104,14 @@ AdSpy, BigSpy, Dropispy, Pipiads, PowerAdSpy. Minea se distingue par sa **couver
 
 *Source : [Minea](https://minea.com/)*
 
-## Intégrations
+# Intégrations
 
 - **Plateformes publicitaires** : Facebook, TikTok, Pinterest, Instagram
 - **E-commerce** : Shopify (analyse des boutiques Shopify)
 - **Fournisseurs** : AliExpress, CJ Dropshipping (liens directs)
 - **Export** : CSV, favoris, listes de produits
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - Création de **Minea** en **Suisse** par **Loïc Berthelot** et **Cédric Jacot**. **Yomi Denzel** (entrepreneur e-commerce suisse très connu dans la communauté francophone) est partenaire/associé, mais **pas fondateur**
 - **Entité suisse** — Minea est opéré depuis la Suisse (pas la France). L'outil est cependant 100% en français et cible principalement le marché francophone
@@ -120,13 +120,13 @@ AdSpy, BigSpy, Dropispy, Pipiads, PowerAdSpy. Minea se distingue par sa **couver
 
 *Source : [Minea](https://minea.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **Le dropshipper (recherche de produit)** — Tu cherches un produit gagnant pour ta boutique Shopify. Tu filtres les publicités Facebook sur Minea : produit e-commerce, France, 1 000+ likes, derniers 7 jours. Tu trouves un accessoire pour animaux avec 5 000 likes et 800 commentaires. Tu vérifies le fournisseur sur AliExpress (coût : 3€, prix de vente : 19€). Tu lances le produit.
 
 **L'e-commerçant (veille concurrentielle)** — Tu vends des accessoires de cuisine. Tu surveilles les publicités de tes 5 concurrents principaux sur Minea. Tu découvres qu'un concurrent lance un nouveau produit avec une créative vidéo qui cartonne. Tu réagis en lançant une offre similaire ou en ajustant ton positionnement.
 
-## Points Forts
+# Points Forts
 
 - Ad spy multi-plateforme (Facebook, TikTok, Pinterest, Instagram)
 - Interface en français (outil suisse francophone)
@@ -137,7 +137,7 @@ AdSpy, BigSpy, Dropispy, Pipiads, PowerAdSpy. Minea se distingue par sa **couver
 - Module influenceurs intégré
 - Prix compétitif vs AdSpy (149$/mois)
 
-## Points Faibles
+# Points Faibles
 
 - **Orienté dropshipping** — L'outil est principalement utilisé par les dropshippers. Si tu as une marque propre avec des produits uniques, l'ad spy est moins pertinent
 - **Données d'engagement ≠ ventes** — Beaucoup de likes ne signifie pas beaucoup de ventes. Les métriques d'engagement sont un indicateur, pas une garantie

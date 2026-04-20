@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Outils D'Organisation Qui Vont Faire De Vous Un Superhéros De La Productivité
 author: Diane
-description: 'Découvre Les Outils D''Organisation Qui Vont Faire De Vous Un Superhéros
-  De La Productivité : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Outils D'Organisation Qui Vont Faire De Vous Un Superhéros De La Productivité."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

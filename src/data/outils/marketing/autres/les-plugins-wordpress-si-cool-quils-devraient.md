@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Plugins Wordpress Si Cool Qu'Ils Devraient Être Illégaux
 author: Diane
-description: 'Découvre Les Plugins Wordpress Si Cool Qu''Ils Devraient Être Illégaux
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Plugins Wordpress Si Cool Qu'Ils Devraient Être Illégaux."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

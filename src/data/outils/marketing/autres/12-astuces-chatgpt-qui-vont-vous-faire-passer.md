@@ -9,8 +9,7 @@ tags:
 - Outils
 title: 12 Astuces Chatgpt Qui Vont Vous Faire Passer Pour Un Génie
 author: Diane
-description: 'Découvre 12 Astuces Chatgpt Qui Vont Vous Faire Passer Pour Un Génie
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "12 Astuces Chatgpt Qui Vont Vous Faire Passer Pour Un Génie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

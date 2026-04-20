@@ -10,8 +10,7 @@ toolCategoryPrimary: marketing
 toolSubcategoryPrimary: personnalisation
 title: Personnalisation
 author: Diane
-description: 'Découvre Personnalisation : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "Personnalisation."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

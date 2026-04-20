@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Devenez Polyglotte En Un Temps Record Avec Ces 10 Apps Magiques
 author: Diane
-description: 'Découvre Devenez Polyglotte En Un Temps Record Avec Ces 10 Apps Magiques
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Devenez Polyglotte En Un Temps Record Avec Ces 10 Apps Magiques."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

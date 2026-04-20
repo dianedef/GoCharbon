@@ -6,9 +6,7 @@ tags:
 title: Comment Nous Avons Gagné 82 700$ En 4 Semaines Avec Un Seul Cours Notre Méthode
   Secrète
 author: Diane
-description: 'Découvre Comment Nous Avons Gagné 82 700$ En 4 Semaines Avec Un Seul
-  Cours Notre Méthode Secrète : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "Comment Nous Avons Gagné 82 700$ En 4 Semaines Avec Un Seul Cours Notre Méthode Secrète."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

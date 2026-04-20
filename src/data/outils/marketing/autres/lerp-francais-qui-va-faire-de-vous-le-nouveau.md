@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: L'Erp Français Qui Va Faire De Vous Le Nouveau Xavier Niel
 author: Diane
-description: 'Découvre L''Erp Français Qui Va Faire De Vous Le Nouveau Xavier Niel
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Erp Français Qui Va Faire De Vous Le Nouveau Xavier Niel."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

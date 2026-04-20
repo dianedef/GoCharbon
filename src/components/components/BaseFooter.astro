@@ -1,6 +1,7 @@
 ---
 import { SITE } from "../../config/site";
 import { ROUTES } from "../../config/routes";
+import { isParcoursOnlyBuild } from "../../utils/build-scope";
 
 export interface Props {
 	backToTop?: boolean;
@@ -8,14 +9,17 @@ export interface Props {
 
 const { backToTop = false } = Astro.props;
 
-const navigationLinks = [
-	{ name: "Parcours", url: ROUTES.parcours },
-	{ name: "Outils", url: ROUTES.outils },
-	{ name: "Méthodologie", url: ROUTES.methodologie },
-	{ name: "Blog", url: ROUTES.blog },
-	{ name: "Tutos", url: ROUTES.tutos },
-	{ name: "Progression", url: ROUTES.progression },
-];
+const launchBuild = isParcoursOnlyBuild();
+const navigationLinks = launchBuild
+	? [{ name: "Parcours", url: ROUTES.parcours }]
+	: [
+		{ name: "Parcours", url: ROUTES.parcours },
+		{ name: "Outils", url: ROUTES.outils },
+		{ name: "Méthodologie", url: ROUTES.methodologie },
+		{ name: "Blog", url: ROUTES.blog },
+		{ name: "Tutos", url: ROUTES.tutos },
+		{ name: "Progression", url: ROUTES.progression },
+	];
 
 const legalLinks = [
 	{ name: "Politique de confidentialité", url: ROUTES.confidentialite },

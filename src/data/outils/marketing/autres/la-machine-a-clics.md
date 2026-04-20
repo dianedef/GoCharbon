@@ -18,8 +18,7 @@ u_affi: null
 u_affiAdmin: null
 title: La Machine À Clics
 author: Diane
-description: 'Découvre La Machine À Clics : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "La Machine À Clics."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

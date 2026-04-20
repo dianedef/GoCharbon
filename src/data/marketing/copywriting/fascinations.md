@@ -1,15 +1,15 @@
 ---
 section: blog
-title: 'Fascinations : L''Art des Bullets qui Rendent Impossible de Ne Pas Lire'
+title: "Fascinations : écrire des bullets qu'on a envie de lire jusqu'au bout"
 author: Diane
 tags:
   - Marketing
-description: Les fascinations sont des bullets de curiosité irrésistibles. Types, formules et 20+ exemples en français pour tes pages de vente et emails.
-pubDate: '2026-03-23'
+description: Apprends à écrire des bullets de curiosité qui donnent envie d'en savoir plus sans tomber dans le vide, le flou ni le clickbait.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Fascinations : L'Art des Bullets qui Rendent Impossible de Ne Pas Lire
+# Fascinations : écrire des bullets qu'on a envie de lire jusqu'au bout
 
 Tu lis une page de vente, tu es moyennement convaincu, et tu tombes sur une série de bullet points qui te clouent sur place. Tu lis le premier. Puis le deuxième. Et tu veux acheter — pas parce qu'on t'a convaincu rationnellement, mais parce que tu *dois* savoir ce qui se cache derrière.
 

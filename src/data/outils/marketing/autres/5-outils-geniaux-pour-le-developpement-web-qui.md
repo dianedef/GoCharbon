@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: 5 Outils Géniaux Pour Le Développement Web Qui Vont Changer Ta Vie
 author: Diane
-description: 'Découvre 5 Outils Géniaux Pour Le Développement Web Qui Vont Changer
-  Ta Vie : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "5 Outils Géniaux Pour Le Développement Web Qui Vont Changer Ta Vie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

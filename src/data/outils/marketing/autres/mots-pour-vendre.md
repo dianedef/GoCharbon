@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Mots Pour Vendre
 author: Diane
-description: 'Découvre Mots Pour Vendre : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "Mots Pour Vendre."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

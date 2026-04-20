@@ -44,7 +44,7 @@ Générer du revenu avec des campagnes de publicité sur les réseaux, structur�
 - [Fiche profil Social Media Ads Manager](/biz/profils/social-media-ads-manager)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/social-media-ads-manager)
+- [Suivi du parcours](/parcours/gestionnaire-publicites-reseaux-sociaux)
 - [Ressource utile 1](/marketing/ads/meta)
 - [Ressource utile 2](/marketing/ads/google)
 - [Ressource utile 3](/tutos/espionner-les-pubs-de-vos-concurrents-sur-fb-yt)

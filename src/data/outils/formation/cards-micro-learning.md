@@ -19,119 +19,35 @@ u_derniere_maj: "2026-03-15"
 
 # Cards Micro-Learning
 
-## MICRO-LEARNING : LA PLATEFORME FRANÇAISE DE FORMATION MOBILE EN CAPSULES COURTES POUR LES ENTREPRISES
+## Formation mobile en micro-doses
 
-### tl;dr
+Cards est un outil de micro-learning pour entreprises, pensé pour former en court format sur mobile. L'idée est simple : proposer des capsules de 3 à 5 minutes sur smartphone afin d'obtenir des sessions courtes, régulières et plus faciles à consommer qu'un long module e-learning.
 
-Cards (cards.co), c'est la **plateforme française de micro-learning mobile** — l'outil qui permet aux entreprises de **former leurs collaborateurs** via des **capsules de formation courtes** (3-5 minutes) directement sur leur **smartphone**. Le concept : au lieu de formations e-learning de 2 heures que personne ne termine, tu crées des **cartes** de micro-contenu (texte, image, vidéo, quiz) que tes collaborateurs consomment en quelques minutes, quand ils veulent, où ils veulent. Le format est conçu pour maximiser l'**engagement** et la **rétention** : gamification, notifications push, progression visible. Développé en **France**. Cible : **services RH, formation, communication interne** qui veulent former et engager leurs collaborateurs avec du contenu court et mobile.
+Le cas d'usage le plus fréquent : des équipes terrain, vente, magasin, hotline ou production qui n'ont pas d'interruption longue sur leur journée. Le format carte permet de former sans casser le travail.
 
-### Alternative à
+## Quand c’est utile
 
-Beedeez, Teach on Mars, Sparted, EdApp, TalentCards. Cards se distingue par son **format carte** (UX intuitive inspirée des réseaux sociaux — on swipe, on scrolle, on interagit), son **approche mobile-first** (conçu pour le smartphone, pas un LMS adapté mobile), et son **interface en français**.
+- Tu dois faire passer des consignes opérationnelles fréquemment (procédures, sécurité, produits).
+- Tu formes en mode récurrent plutôt qu'en cycle massif.
+- Tu veux mesurer la complétion sans déployer un LMS complet.
 
-## Bénéfices
+## Comment l’utiliser efficacement
 
-**Format court** — Les capsules de 3-5 minutes s'intègrent dans la journée de travail. Pas besoin de bloquer 2 heures — les collaborateurs se forment en attendant le métro, pendant la pause café, entre deux réunions.
+- Définis un objectif par capsule : une idée, une procédure, une règle.
+- Limite chaque capsule à une action attendue (ex. "répondre à ce quiz", "appliquer cette check-list").
+- Programme la récurrence : 2 à 4 capsules par semaine maximum.
+- Regarde les indicateurs de complétion et les questions ratées pour ajuster.
 
-**Mobile-first** — L'expérience est conçue pour le smartphone. L'UX est inspirée des réseaux sociaux : on swipe les cartes, on répond aux quiz, on voit sa progression. C'est engageant.
+## Points forts concrets
+- Format court adapté aux usages mobiles.
+- Distribution simple aux équipes.
+- Outils visuels légers (texte, image, audio, quiz) pour aller vite.
+- Tableau de suivi de progression.
 
-**Engagement** — Gamification (points, badges, classements), notifications push, contenus variés (texte, image, vidéo, quiz). Les taux de complétion sont nettement supérieurs aux e-learnings classiques.
+## Limites
+- Ce n’est pas un LMS complet (pas de parcours certifiants avancés).
+- C’est surtout efficace si le contenu est de qualité et réutilisable.
+- Les équipes 100 % desktop peuvent trouver l’usage moins naturel.
 
-**Création facile** — Tu crées tes capsules de formation dans un éditeur intuitif. Pas besoin d'être un expert en ingénierie pédagogique. Drag & drop, templates prêts à l'emploi.
-
-### Pour Qui ?
-
-- Services RH et formation en entreprise
-- Communication interne (onboarding, culture d'entreprise)
-- Réseaux de distribution (formation des vendeurs en magasin)
-- Industrie (formations sécurité, procédures)
-- Franchises (formation des franchisés)
-
-## Comment Utiliser Cards
-
-1. **Contact** — Découvre la plateforme sur [cards.co](https://www.cards.co/)
-2. **Création** — Crée tes capsules de micro-learning (éditeur drag & drop)
-3. **Publication** — Publie les capsules pour tes collaborateurs
-4. **Distribution** — Les collaborateurs reçoivent les capsules sur leur smartphone (app ou web)
-5. **Engagement** — Gamification, notifications push, rappels
-6. **Analytics** — Suis les taux de complétion et les résultats
-
-## Fonctionnalités
-
-### Création de contenu
-
-- **Éditeur** — Éditeur de capsules drag & drop
-- **Templates** — Modèles de capsules prêts à l'emploi
-- **Multi-formats** — Texte, image, vidéo, audio, PDF
-- **Quiz** — Questions à choix multiples, vrai/faux, texte libre
-- **Interactivité** — Sondages, témoignages, commentaires
-
-### Mobile
-
-- **App mobile** — iOS et Android
-- **Web app** — Accessible depuis le navigateur
-- **Notifications** — Push notifications pour l'engagement
-- **Offline** — Accès hors connexion
-- **Responsive** — Adapté à tous les écrans
-
-### Gamification
-
-- **Points** — Système de points par capsule complétée
-- **Badges** — Récompenses pour les milestones
-- **Classements** — Leaderboard par équipe ou global
-- **Progression** — Barre de progression visuelle
-
-### Analytics
-
-- **Dashboard** — Taux de complétion, engagement, résultats
-- **Par utilisateur** — Suivi individuel
-- **Par contenu** — Performance de chaque capsule
-- **Export** — Export des données pour reporting
-
-## Prix
-
-- **Sur devis** — Selon le nombre d'utilisateurs et les modules
-- **Abonnement** — Par utilisateur/mois
-- **Accompagnement** — Aide à la création de contenu disponible
-- **Démo** — Démonstration gratuite
-
-*Source : [Cards](https://www.cards.co/)*
-
-## Intégrations
-
-- **SIRH** : Connexion aux systèmes RH
-- **SSO** : SAML, OpenID Connect
-- **LMS** : Export SCORM
-- **Communication** : Slack, Teams (notifications)
-
-## L'équipe et l'Histoire
-
-- Création de **Cards** en **France**. L'idée : réinventer la formation en entreprise avec du micro-learning mobile — des capsules courtes et engageantes au lieu de longs e-learnings ennuyeux
-- Cards s'inscrit dans la tendance du micro-learning mobile, portée par l'usage massif du smartphone et la baisse des temps d'attention
-- La plateforme cible les entreprises qui veulent former leurs collaborateurs terrain (retail, industrie, franchise) sans les sortir de leur poste
-
-*Source : [Cards](https://www.cards.co/)*
-
-## Cas d'Usage Concrets
-
-**Le réseau de magasins (500 vendeurs)** — Tu dois former 500 vendeurs sur les nouveaux produits chaque mois. Tu crées des capsules de 3 minutes avec photos produit, arguments de vente et quiz. Les vendeurs les consultent sur leur smartphone entre deux clients. Taux de complétion : 85% (vs 20% pour les anciens e-learnings de 45 min).
-
-**L'onboarding (nouveaux arrivants)** — Chaque nouvel arrivant reçoit un parcours d'onboarding de 20 capsules sur 2 semaines : culture d'entreprise, outils, processus, contacts. C'est progressif, engageant, et le manager suit la progression sur le dashboard.
-
-## Points Forts
-
-- Micro-learning mobile (capsules de 3-5 min)
-- Mobile-first (UX inspirée des réseaux sociaux)
-- Gamification (points, badges, classements)
-- Création de contenu facile (drag & drop)
-- Analytics détaillés
-- Interface en français
-- Développé en France
-
-## Points Faibles
-
-- **Pas un LMS complet** — Cards est spécialisé micro-learning. Pour des parcours de formation longs ou certifiants, un LMS traditionnel est plus adapté
-- **Dépendant du contenu** — La qualité de la plateforme dépend de la qualité des capsules créées. Il faut investir dans la création de contenu
-- **Audience mobile** — L'outil est conçu pour le mobile. Les utilisateurs qui préfèrent le desktop auront une expérience moins optimale
-- **Concurrence** — Beedeez, Teach on Mars et Sparted sont des concurrents français bien établis sur le micro-learning mobile
-- **Prix** — Solution enterprise, pas adaptée aux très petites structures
+## Si l’objectif est juste un onboarding long
+Pour des certifications ou des parcours académiques, préfère un LMS classique avec modules progressifs et suivi plus rigoureux.

@@ -17,6 +17,8 @@ const isInitialLoad = index < 2;
 const mainTags = extractMainTags(data.tags).slice(0, 2);
 const isToolPost = data.section === "outils";
 const toolDisplayChips = getToolDisplayChips({ id: post.id, data });
+const hasStringImage = typeof data.imgUrl === "string";
+const imageAlt = data.description || data.title;
 const engagementBadge = isToolPost
 	? computeEngagementBadge({
 		qualificationLocale: data.qualificationLocale,
@@ -90,15 +92,27 @@ const buttonColor = 'var(--brand-copper)';
 			<div
 				class="post-image-container rounded-lg border-3 my-4 h-56 overflow-hidden"
 			>
-				<Image
-					src={data.imgUrl}
-					alt={data.description}
-					width={800}
-					height={400}
-					loading={isInitialLoad ? "eager" : "lazy"}
-					decoding={isInitialLoad ? "sync" : "async"}
-					class="rounded h-full w-full object-cover"
-				/>
+				{hasStringImage ? (
+					<img
+						src={data.imgUrl}
+						alt={imageAlt}
+						width="800"
+						height="400"
+						loading={isInitialLoad ? "eager" : "lazy"}
+						decoding={isInitialLoad ? "sync" : "async"}
+						class="rounded h-full w-full object-cover"
+					/>
+				) : (
+					<Image
+						src={data.imgUrl}
+						alt={imageAlt}
+						width={800}
+						height={400}
+						loading={isInitialLoad ? "eager" : "lazy"}
+						decoding={isInitialLoad ? "sync" : "async"}
+						class="rounded h-full w-full object-cover"
+					/>
+				)}
 			</div>
 			<p class="post-description poppins text-xl md:text-2xl leading-relaxed">
 				{data.description}

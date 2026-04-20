@@ -22,17 +22,17 @@ u_derniere_maj: "2026-03-15"
 
 # T-Pop
 
-## PRINT ON DEMAND : LA PLATEFORME FRANÇAISE ÉCO-RESPONSABLE QUI IMPRIME ET EXPÉDIE TES PRODUITS À LA DEMANDE
+# PRINT ON DEMAND : LA PLATEFORME FRANÇAISE ÉCO-RESPONSABLE QUI IMPRIME ET EXPÉDIE TES PRODUITS À LA DEMANDE
 
-### tl;dr
+## tl;dr
 
 T-Pop (t-pop.fr), c'est la **plateforme française de print on demand (POD) éco-responsable** — le service qui te permet de **vendre des produits personnalisés** (t-shirts, sweats, mugs, tote bags, posters) **sans stock, sans investissement initial et sans gestion logistique**. Le concept : tu crées tes designs, tu les mets sur les produits T-Pop, et quand un client commande, T-Pop **imprime et expédie** le produit directement au client. Tu n'as rien à stocker, rien à emballer, rien à envoyer. Fondé en **2019** en **France**. Ce qui distingue T-Pop : son engagement **éco-responsable** — textiles bio (coton certifié GOTS/OCS), encres à base d'eau (OEKO-TEX), emballages recyclables, **production 100% en France** (pas de Chine), bilan carbone compensé. C'est le **Printful français et écologique**. Cible : **créateurs, artistes, influenceurs, marques, associations** qui veulent vendre du merch personnalisé sans stock.
 
-### Alternative à
+## Alternative à
 
 Printful, Printify, Gooten, Spreadshirt, Redbubble, TPOP. T-Pop se distingue par son **éco-responsabilité** (textiles bio, encres éco, production en France — les géants US impriment souvent en Chine ou en Europe de l'Est), son **made in France** (impression et expédition depuis la France — délais courts pour le marché européen), et son **zéro stock** (le modèle POD classique, mais avec des produits de qualité et éthiques).
 
-## Bénéfices
+# Bénéfices
 
 **Zéro stock** — Tu ne stockes rien. Chaque produit est imprimé à la commande. Zéro investissement initial, zéro risque d'invendus.
 
@@ -44,7 +44,7 @@ Printful, Printify, Gooten, Spreadshirt, Redbubble, TPOP. T-Pop se distingue par
 
 **Marge libre** — Tu fixes le prix de vente. T-Pop te facture le coût de production. La différence, c'est ta marge. Exemple : t-shirt bio = 12€ de production, tu vends 25€, ta marge = 13€.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Créateurs et artistes qui veulent vendre leur art sur des produits
 - Influenceurs qui veulent lancer leur merch
@@ -52,7 +52,7 @@ Printful, Printify, Gooten, Spreadshirt, Redbubble, TPOP. T-Pop se distingue par
 - Associations et événements qui veulent des produits personnalisés
 - Entrepreneurs qui testent des concepts de produits sans stock
 
-## Comment Utiliser T-Pop
+# Comment Utiliser T-Pop
 
 1. **Inscription** — Crée ton compte gratuit sur [t-pop.fr](https://www.t-pop.fr/)
 2. **Design** — Upload tes designs (PNG, SVG)
@@ -62,9 +62,9 @@ Printful, Printify, Gooten, Spreadshirt, Redbubble, TPOP. T-Pop se distingue par
 6. **Vente** — Un client commande → T-Pop imprime et expédie
 7. **Marge** — Tu encaisses le prix de vente - coût de production
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Catalogue produits
+## Catalogue produits
 
 - **Textiles** — T-shirts, sweats, hoodies, débardeurs (coton bio)
 - **Accessoires** — Tote bags, casquettes, bobs
@@ -72,7 +72,7 @@ Printful, Printify, Gooten, Spreadshirt, Redbubble, TPOP. T-Pop se distingue par
 - **Enfant** — Bodies, t-shirts enfant
 - **Personnalisation** — Impression devant, dos, manches
 
-### Production
+## Production
 
 - **Impression DTG** — Direct-to-Garment (impression directe sur textile)
 - **Qualité** — Résolution HD, couleurs durables
@@ -80,7 +80,7 @@ Printful, Printify, Gooten, Spreadshirt, Redbubble, TPOP. T-Pop se distingue par
 - **Encres** — À base d'eau, certifiées OEKO-TEX
 - **Emballages** — Recyclables et compostables
 
-### Intégrations
+## Intégrations
 
 - **Shopify** — Synchronisation automatique des commandes
 - **WooCommerce** — Plugin WordPress intégré
@@ -88,7 +88,7 @@ Printful, Printify, Gooten, Spreadshirt, Redbubble, TPOP. T-Pop se distingue par
 - **WiziShop** — Intégration native
 - **API** — Pour les intégrations personnalisées
 
-### Logistique
+## Logistique
 
 - **Expédition France** — Depuis la France, délais 2-5 jours
 - **Europe** — Livraison en 3-7 jours
@@ -96,7 +96,7 @@ Printful, Printify, Gooten, Spreadshirt, Redbubble, TPOP. T-Pop se distingue par
 - **Suivi** — Numéro de suivi pour chaque commande
 - **Étiquetage** — White-label (ta marque, pas T-Pop)
 
-## Prix
+# Prix
 
 - **Inscription gratuite** — Pas d'abonnement, pas de frais fixes
 - **Paiement à la commande** — Tu payes uniquement quand un client commande
@@ -107,7 +107,7 @@ Printful, Printify, Gooten, Spreadshirt, Redbubble, TPOP. T-Pop se distingue par
 
 *Source : [T-Pop](https://www.t-pop.fr/)*
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **2019** — Lancement du concept **T-Pop** par **Julien Boulogne** et **Marie Boulogne**. L'idée : une plateforme de print on demand 100% française et éco-responsable — une alternative éthique à Printful et Printify qui impriment souvent en Chine
 - **Août 2021** — Création juridique de la **SAS T-Pop**, SIREN **902 108 646**, siège à **Barjac** (Gard, Occitanie). Capital social déclaré
@@ -116,13 +116,13 @@ Printful, Printify, Gooten, Spreadshirt, Redbubble, TPOP. T-Pop se distingue par
 
 *Source : [T-Pop](https://www.t-pop.fr/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **L'artiste illustrateur** — Tu crées des illustrations. Tu mets tes designs sur T-Pop : t-shirts, posters, tote bags. Tu connectes ta boutique Shopify. Un fan commande un t-shirt à 29€. T-Pop l'imprime sur un t-shirt bio et l'expédie en 3 jours. Ta marge : 17€. Tu ne touches à rien.
 
 **L'influenceur (merch)** — Tu as 50 000 abonnés sur Instagram. Tu veux lancer ta ligne de merch. Tu crées 5 designs, tu les mets sur T-Pop, tu partages le lien de ta boutique. En 1 mois, 300 ventes. Zéro stock, zéro logistique, 100% marge.
 
-## Points Forts
+# Points Forts
 
 - Print on demand éco-responsable (textiles bio, encres éco)
 - Production 100% en France (délais courts)
@@ -132,7 +132,7 @@ Printful, Printify, Gooten, Spreadshirt, Redbubble, TPOP. T-Pop se distingue par
 - White-label (ta marque sur les colis)
 - Catalogue varié (textiles, accessoires, maison)
 
-## Points Faibles
+# Points Faibles
 
 - **Catalogue plus petit** — Moins de produits que Printful ou Printify (qui proposent des centaines de produits différents)
 - **Prix unitaire plus élevé** — Le made in France et le bio coûtent plus cher. Un t-shirt T-Pop coûte ~12€ vs ~8€ chez Printful. Tes marges sont plus serrées

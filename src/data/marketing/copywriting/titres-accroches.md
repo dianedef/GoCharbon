@@ -1,15 +1,15 @@
 ---
 section: blog
-title: 'Titres et Accroches : La Science de la Première Impression'
+title: "Titres et accroches : capter l'attention sans sonner racoleur"
 author: Diane
 tags:
   - Marketing
-description: 'Formules de titres et accroches qui captent l''attention. 30+ templates en français pour tes pages de vente, emails et publicités.'
-pubDate: '2026-03-23'
+description: "Des formules de titres et d'accroches utiles pour attirer l'attention sans basculer dans le sensationnalisme ou la promesse vide."
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Titres et Accroches : La Science de la Première Impression
+# Titres et accroches : capter l'attention sans sonner racoleur
 
 80% des gens lisent le titre. 20% lisent la suite.
 

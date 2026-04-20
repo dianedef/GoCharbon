@@ -18,17 +18,17 @@ u_derniere_maj: "2026-03-15"
 
 # Tactill
 
-## CAISSE IPAD : L'APPLICATION FRANÇAISE QUI TRANSFORME TON IPAD EN CAISSE ENREGISTREUSE PROFESSIONNELLE
+# CAISSE IPAD : L'APPLICATION FRANÇAISE QUI TRANSFORME TON IPAD EN CAISSE ENREGISTREUSE PROFESSIONNELLE
 
-### tl;dr
+## tl;dr
 
 Tactill (tactill.com), c'est l'**application de caisse enregistreuse sur iPad** fondée en **juillet 2011** par **Grégoire Lopez** (CEO), **Élodie Godart** et **Charles Rouchon** — trois ingénieurs diplômés de l'**EFREI**. Le concept : transformer un **iPad** (ou iPhone) en **caisse enregistreuse professionnelle** avec gestion des ventes, des stocks, des clients et de la fidélité. SIREN **533 790 390**, basée à **Paris** (75008). Tactill est conçue pour les **commerçants indépendants**, **restaurateurs**, **food trucks**, **boutiques** et **événements**. Parmi les utilisateurs : **Amazon** (boutiques éphémères), **Festival de Cannes**, **Futuroscope**, **Fermob**. Notée **4.9/5 sur Google** et **5/5 sur l'App Store**. Pricing à partir de **39€/mois**. La **Tactill Box** (kit complet iPad + imprimante + tiroir) est disponible à **999€**. Bootstrappée (pas de levée de fonds connue). L'approche : la caisse la plus **simple** du marché — installation en 5 minutes, prise en main immédiate, sans formation.
 
-### Alternative à
+## Alternative à
 
 SumUp POS, Lightspeed, Square POS, Zettle, Clictill, mybe, iZettle, Tiller (Sumup). Tactill se distingue par sa **simplicité extrême** (l'app est conçue pour que n'importe qui puisse l'utiliser en 5 minutes sans formation), son **écosystème iPad** (optimisée exclusivement pour Apple — interface fluide, design soigné), et ses **clients de référence prestigieux** (Amazon, Cannes, Futuroscope — pour une petite app de caisse, c'est impressionnant).
 
-## Bénéfices
+# Bénéfices
 
 **Caisse en 5 minutes** — Tu télécharges l'app Tactill sur ton iPad, tu crées ton catalogue produits, et tu es prêt à encaisser. Pas besoin de formation, pas d'installation complexe, pas de technicien. L'interface est tellement intuitive que même un employé saisonnier peut l'utiliser dès le premier jour.
 
@@ -38,7 +38,7 @@ SumUp POS, Lightspeed, Square POS, Zettle, Clictill, mybe, iZettle, Tiller (Sumu
 
 **Kit complet Tactill Box** — Pour 999€, tu as un pack prêt à l'emploi : iPad + imprimante de tickets + tiroir-caisse + support. Tu branches, tu allumes, tu vends. Pas besoin de chercher du matériel compatible toi-même.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Commerçants indépendants (boutiques, concept stores)
 - Restaurateurs et food trucks
@@ -47,7 +47,7 @@ SumUp POS, Lightspeed, Square POS, Zettle, Clictill, mybe, iZettle, Tiller (Sumu
 - Coiffeurs, esthéticiennes, salons de beauté
 - Fleuristes, cavistes, épiceries fines
 
-## Comment Utiliser Tactill
+# Comment Utiliser Tactill
 
 1. **Téléchargement** — Télécharge l'app Tactill sur l'App Store (iPad requis)
 2. **Inscription** — Crée ton compte et choisis ton forfait (Essentiel, Avancé, Premium)
@@ -56,9 +56,9 @@ SumUp POS, Lightspeed, Square POS, Zettle, Clictill, mybe, iZettle, Tiller (Sumu
 5. **Vente** — Tape le produit, encaisse (espèces, CB via terminal connecté, chèque), imprime le ticket
 6. **Gestion** — Consulte tes stats de ventes, gère tes stocks, suis tes clients
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Caisse et vente
+## Caisse et vente
 
 - **Interface tactile** — Grille de produits sur l'écran iPad, sélection en un tap
 - **Modes de paiement** — Espèces, carte bancaire (via TPE connecté), chèque, tickets-restaurant
@@ -67,33 +67,33 @@ SumUp POS, Lightspeed, Square POS, Zettle, Clictill, mybe, iZettle, Tiller (Sumu
 - **Multi-employés** — Comptes séparés par vendeur, suivi des ventes par employé
 - **Mode hors-ligne** — Fonctionne sans internet (synchronisation au retour de la connexion)
 
-### Gestion des stocks
+## Gestion des stocks
 
 - **Inventaire** — Stock en temps réel, alertes de stock bas
 - **Import/Export** — Import de catalogue par CSV
 - **Codes-barres** — Scanner intégré (via caméra iPad ou scanner Bluetooth)
 - **Variantes** — Gestion des tailles, couleurs, options
 
-### Clients et fidélité
+## Clients et fidélité
 
 - **Fichier clients** — Base de données clients avec historique d'achats
 - **Programme de fidélité** — Cartes de fidélité dématérialisées
 - **Statistiques** — Panier moyen, fréquence d'achat, meilleurs clients
 
-### Reporting
+## Reporting
 
 - **Tableau de bord** — CA, nombre de ventes, panier moyen, en temps réel
 - **Rapports** — Par jour, semaine, mois, produit, employé, mode de paiement
 - **Export comptable** — Fichier compatible avec les logiciels de comptabilité
 - **Z de caisse** — Ticket de clôture conforme
 
-### Conformité
+## Conformité
 
 - **Certification NF525** — Conforme à la loi anti-fraude TVA (vérifier la certification exacte)
 - **Z de caisse** — Clôture quotidienne conforme
 - **Inaltérabilité** — Données de vente non modifiables
 
-## Prix
+# Prix
 
 | Forfait | Prix/mois | Inclus |
 |---------|-----------|--------|
@@ -107,7 +107,7 @@ SumUp POS, Lightspeed, Square POS, Zettle, Clictill, mybe, iZettle, Tiller (Sumu
 
 *Source : [Tactill](https://www.tactill.com/)*
 
-## Intégrations
+# Intégrations
 
 - **TPE** : Connexion avec les terminaux de paiement compatibles
 - **Imprimantes** : Imprimantes de tickets thermiques Bluetooth et USB
@@ -116,7 +116,7 @@ SumUp POS, Lightspeed, Square POS, Zettle, Clictill, mybe, iZettle, Tiller (Sumu
 - **Comptabilité** : Export compatible avec les logiciels de comptabilité
 - **iPad uniquement** — Pas de version Android
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **Juillet 2011** — Création de **Tactill** par **Grégoire Lopez** (CEO), **Élodie Godart** et **Charles Rouchon**, trois ingénieurs diplômés de l'**EFREI**. SIREN 533 790 390. L'idée : utiliser l'iPad comme caisse enregistreuse — une révolution à l'époque où les caisses coûtaient 2 000-5 000€
 - **2012-2015** — Développement de l'application. Premiers clients dans le commerce de détail et la restauration. L'iPad comme caisse est un concept nouveau qui séduit les indépendants
@@ -126,7 +126,7 @@ SumUp POS, Lightspeed, Square POS, Zettle, Clictill, mybe, iZettle, Tiller (Sumu
 
 *Source : [Tactill](https://www.tactill.com/), [Societe.com](https://www.societe.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **La boutique de créateurs** — Tu ouvres un concept store. Tu as un budget serré et tu veux un truc beau sur ton comptoir — pas une caisse grise des années 90. Avec Tactill sur un iPad, tu as une caisse design, simple et conforme. Tu ajoutes tes produits en 10 minutes et tu encaisses dès l'ouverture.
 
@@ -134,7 +134,7 @@ SumUp POS, Lightspeed, Square POS, Zettle, Clictill, mybe, iZettle, Tiller (Sumu
 
 **L'événement corporate** — Amazon organise un pop-up store pour le lancement d'un produit. Ils installent 5 iPads avec Tactill en 15 minutes, ajoutent les produits, et les clients encaissent eux-mêmes. Pas de formation, pas de technicien — juste des iPads.
 
-## Points Forts
+# Points Forts
 
 - Notes exceptionnelles : 4.9/5 Google, 5/5 App Store
 - Simplicité extrême — installation en 5 minutes, zéro formation
@@ -146,7 +146,7 @@ SumUp POS, Lightspeed, Square POS, Zettle, Clictill, mybe, iZettle, Tiller (Sumu
 - 13+ ans d'existence (fondée 2011) — stabilité prouvée
 - Gestion stocks, clients, fidélité, reporting
 
-## Points Faibles
+# Points Faibles
 
 - **iPad uniquement** — Pas de version Android. Si tu as une tablette Samsung ou un PC, Tactill n'est pas pour toi. Et le prix de l'iPad s'ajoute au coût du logiciel
 - **Petite équipe** — 3-15 employés estimés. La capacité à développer des fonctionnalités avancées et à assurer un support réactif à grande échelle est limitée

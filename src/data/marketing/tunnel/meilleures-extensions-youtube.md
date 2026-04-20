@@ -4,47 +4,38 @@ tags:
 - Marketing
 imageNameKey: null
 u_site: null
-title: Meilleures Extensions Youtube
+title: Meilleures extensions YouTube pour apprendre et travailler proprement
 author: Diane
-description: 'Découvre Meilleures Extensions Youtube : outil français pour entrepreneurs,
-  fonctionnalités et avis.'
+description: Les extensions YouTube les plus utiles pour prendre des notes, rester
+  concentré et exploiter les vidéos sans te disperser.
 pubDate: '2024-03-25'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-Soit tu fais tout à la main comme un artisan sans marteau, soit tu utilises des outils pour faire plus, mieux et plus facilement ! Merci Jean !
+# Meilleures extensions YouTube pour apprendre et travailler proprement
 
+YouTube peut être une très bonne source d'apprentissage, ou une machine à te faire perdre une heure sur des vidéos que tu n'avais pas prévu de regarder. Les bonnes extensions servent surtout à reprendre le contrôle.
 
-[Se connecter ‹ Web-Indé, Comparateur de logiciels web français — WordPress](https://webinde.fr/wp-admin/post.php?post=7111&action=edit)
+## Les usages qui valent le coup
 
-Félicitation pour ton inscription !
+### Prendre des notes
 
-**Mais avant de partir regarde bien la vidéo suivante:**
+Utile si tu apprends via des tutoriels, conférences ou démonstrations et que tu veux transformer cela en contenu exploitable.
 
+### Réduire les distractions
 
-[Vidéo Notebook quick tutorial on Vimeo](https://vimeo.com/673791799?embedded=true&source=video_title&owner=44603230) - [Mike Lanza](https://vimeo.com/user44603230)
+Bloquer les recommandations, les shorts ou certaines suggestions peut améliorer énormément la concentration.
 
-[Take YouTube vidéo notes into Notion in click | Snipo extension 🔥 - YouTube](https://www.youtube.com/watch?v=eb9AK-zzKXc)
+### Mieux naviguer
 
-[Vidéo Notes from YouTube to Notion by Snipo - Chrome Web Store](https://chrome.google.com/webstore/detail/video-notes-from-youtube/kojibkalenabblnhoihknojdfapbbmig?utm_source=pockettube)
+Chapitrage, vitesse, capture de moments clés, recherche dans la vidéo : ce sont souvent les gains les plus concrets.
 
-Maitriser Youtube pour pas qu’il te maitrise (extensions Chrome)
+## Le bon critère
 
-[(690) Démarrer avec Beastnotes - YouTube](https://www.youtube.com/watch?v=7ON3nJsvqHU)
+Choisis une extension si elle :
 
-[Always on YouTube Transcript by AE Studio - Chrome Web Store](https://chrome.google.com/webstore/detail/always-on-youtube-transcr/gddocmkkimanfmjeendhohpofefkcaln/related)
+- te fait gagner du temps ;
+- réduit une friction claire ;
+- améliore la prise de notes ou la concentration.
 
-Je sais pas toi mais moi, autant j’arrive facilement à ignorer les notifs sur les réseaux sociaux, autant Youtube c’est chaud je me dis que j’vais louper des trucs donc j’ai la cloche sur certaines chaîne et je regarde ce que je suis tous les jours
-
-- esclave des notifs
-
-[(2) YouTube is just as bad as social media. (Here's how to fix it.) - YouTube](https://www.youtube.com/watch?v=nrpsqosNqAk)
-
-[VideoAnt](https://ant.umn.edu/welcome)
-
-Hello hello aujourd’hui je vais te montrer mes plugins ou extensions Chrome indispensable pour naviguer sur Youtube en toute sérénité
-
-- Free youtube tools
-    - [Social Media Vidéo Specs Cheat Sheet (make a copy to edit) - Google Sheets](https://docs.google.com/spreadsheets/d/1xeGxDu54R-Pn4f5CHuaYE1slsfO29-om89lkUkU0VOg/edit#gid=1716264555)
-    - [Sprout Social: Always Up-To-Date Social Media Image Sizes Cheat Sheet - Google Sheets](https://docs.google.com/spreadsheets/d/16zR402-MriVnvXcPk-1JpOUwwfAJvYGF16VBpNlkVH0/edit#gid=476246499)
-    - [](https://www.softr.io/tools/download-youtube-thumbnail)[https://www.softr.io/tools/download-youtube-thumbnail](__MASK_12__)
+Le reste relève souvent plus du gadget que du vrai gain de productivité.

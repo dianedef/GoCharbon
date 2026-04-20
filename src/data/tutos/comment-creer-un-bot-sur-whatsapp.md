@@ -1,187 +1,39 @@
 ---
 section: tutos
+type: tuto
+imageNameKey: null
 tags:
 - Tutoriels
-imageNameKey: null
 u_site: null
-title: Comment Créer Un Bot Sur Whatsapp
+title: 'Comment créer un bot sur WhatsApp sans te perdre dans l''API'
 author: Diane
-description: 'Découvre Comment Créer Un Bot Sur Whatsapp : outil français pour entrepreneurs,
-  fonctionnalités et avis.'
-pubDate: '2024-03-25'
+description: 'Tutoriel pratique pour créer un bot sur WhatsApp sans te perdre dans l''API : étapes propres, erreurs à éviter et mise en place sans blabla.'
+pubDate: 2026-04-19
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Comment creer un bot WhatsApp pour ton business
+# Comment créer un bot sur WhatsApp sans te perdre dans l'API
 
-WhatsApp, c'est 2 milliards d'utilisateurs actifs. Tes clients sont dessus. Un bot WhatsApp te permet de repondre automatiquement aux questions frequentes, qualifier des leads, envoyer des confirmations de commande et assurer un support 24h/24 sans que tu sois devant ton telephone.
+Si tu veux créer un bot sur WhatsApp sans te perdre dans l'API, commence par l'usage avant de penser à l'outil. Un chatbot médiocre répond à tout et n'aide personne. Un bon bot réduit le temps perdu, route mieux les demandes et laisse la main à un humain quand il faut.
 
-Voici comment en creer un, même sans coder.
+## Ce qu'il faut préparer
 
-## Les deux approches pour creer un bot WhatsApp
+- 3 à 5 cas d'usage concrets
+- les questions fréquentes déjà posées par tes prospects ou clients
+- une règle claire de passage à un humain
 
-### 1. WhatsApp Business API (officielle)
+## La méthode simple
 
-C'est la solution officielle de Meta. Obligatoire si tu veux envoyer des messages a grande echelle ou automatiser des conversations.
+1. Choisis une mission courte : qualifier, répondre aux questions fréquentes, prendre un brief ou orienter vers la bonne ressource.
+2. Prépare une base de réponses propre. Quelques scénarios bien écrits valent mieux qu'un bot bavard qui hallucine ou dilue l'information.
+3. Mesure les vraies sorties utiles : demandes résolues, leads qualifiés, temps gagné, satisfaction perçue.
 
-**Avantages** : fiable, pas de risque de ban, acces aux templates de messages, statistiques complètes.
+## Les erreurs à éviter
 
-**Inconvenients** : il faut passer par un partenaire BSP (Business Solution Provider), et c'est payant par message.
+- laisser le bot improviser sur des sujets sensibles
+- cacher l'accès à un humain
+- mesurer la quantité de messages au lieu de la qualité des résolutions
 
-### 2. Plateformes no-code (chatbot builders)
+## Commence comme ça
 
-Des outils qui se connectent a l'API WhatsApp Business et te permettent de creer des flux de conversation sans ecrire une ligne de code.
-
-## Étape 1 : Configurer WhatsApp Business
-
-Avant de creer un bot, tu dois avoir un compte WhatsApp Business :
-
-1. **Cree un compte Meta Business** sur business.facebook.com
-2. **Ajoute un numéro de telephone** dédié (pas ton numéro perso)
-3. **Verifie ton entreprise** via le Business Manager de Meta
-4. **Accède a l'API WhatsApp Business** soit directement (Cloud API), soit via un BSP
-
-**BSP populaires** : 360dialog, Twilio, MessageBird, Vonage. Ils simplifient l'acces a l'API et ajoutent des fonctionnalites.
-
-## Étape 2 : Choisir ton outil de création de bot
-
-### ManyChat (le plus accessible)
-
-ManyChat ([manychat.com](https://manychat.com)) est le leader des chatbots pour les réseaux sociaux, avec un support WhatsApp, Instagram, Messenger, TikTok, SMS, email et Telegram.
-
-- **Interface** : editeur visuel Flow Builder drag-and-drop, très intuitif
-- **Fonctionnalites** : reponses automatiques, collecte d'infos, envoi de medias, integration CRM, drip sequences, broadcasts, live chat, tags et segments illimites
-- **Prix** :
-  - **Free** : 0$/mois (jusqu'a 1 000 contacts, flows illimites, 10 tags, 2 sequences, 1 membre d'équipe)
-  - **Pro** : a partir de 15$/mois (contacts illimites, multi-canal, 3 membres d'équipe, keywords et triggers illimites)
-  - **Elite** : sur devis (équipes, members illimites)
-  - **Add-on IA** : 29$/mois en option (reponses alimentees par l'IA)
-- **Ideal pour** : e-commerce, generation de leads, support client basique, automatisation Instagram/WhatsApp
-
-### Chatfuel
-
-Similaire a ManyChat, avec un focus sur la simplicite.
-
-- **Interface** : blocs de conversation a assembler
-- **Fonctionnalites** : FAQ automatique, transfert vers un humain, segmentation
-- **Prix** : a partir de 15$/mois
-- **Ideal pour** : petites entreprises, restaurants, prestataires de services
-
-### Respond.io
-
-Respond.io ([respond.io](https://respond.io)) est une solution omnicanale avancee pour les équipes commerciales, integrant WhatsApp, Instagram, Messenger, Telegram, email et plus.
-
-- **Interface** : inbox partagee + automatisations avancees (Workflow builder)
-- **Fonctionnalites** : routage intelligent vers le bon agent, qualification de leads, AI Agents pour reponses automatiques, broadcasts et newsletters, CRM integre, WhatsApp Business Calling API
-- **Prix** : plans Starter, Growth et Advanced disponibles. Le plan Starter inclut jusqu'a 5 utilisateurs. Plans Business pour les équipes plus grandes
-- **Ideal pour** : équipes de vente B2C en croissance, agences, support multi-agents, entreprises omnicanales
-- **Avantage** : integrations CRM (HubSpot, Salesforce), Zapier, Make, API developpeur
-
-### WATI
-
-WATI ([wati.io](https://www.wati.io)) est specialise WhatsApp, base sur l'API officielle de Meta. Certifie BSP WhatsApp.
-
-- **Interface** : editeur de flux + inbox partagee + AI Support Agent (beta)
-- **Fonctionnalites** : broadcasts (jusqu'a 15K/mois sur le plan Growth), templates valides par Meta, catalogue produits, WhatsApp Business Calling, integration Shopify (add-on a 4,99$/mois), analytics avances (taux d'ouverture, temps de réponse)
-- **Prix** :
-  - **Growth** : a partir de 30$/mois (3 utilisateurs inclus, pas d'utilisateurs supplementaires, 15K broadcasts/mois)
-  - **Pro** : prix intermediaire (5 utilisateurs, plus d'automatisation)
-  - **Business** : jusqu'a 2 000$/mois (fonctionnalites enterprise complètes)
-- **Important depuis juillet 2025** : WATI est passe d'une facturation par conversation a une facturation par message (alignement avec Meta). Les messages de service dans la fenêtre 24h restent gratuits
-- **Ideal pour** : e-commerce et notifications transactionnelles, PME D2C
-
-## Étape 3 : Concevoir tes flux de conversation
-
-Un bon bot WhatsApp suit une logique simple : question -> réponse -> action.
-
-### Flux d'accueil
-
-```
-Bot: Bonjour ! Bienvenue chez [Ton entreprise]. Comment puis-je t'aider ?
-    1. Voir nos produits
-    2. Suivi de commande
-    3. Parler a un conseiller
-    4. Horaires et adresse
-
-[Le client repond 1, 2, 3 ou 4]
-```
-
-### Flux de qualification de lead
-
-```
-Bot: Super, tu t'interesses a nos services ! Quelques questions rapides :
-Bot: Quel est ton budget approximatif ?
-    1. Moins de 500 EUR
-    2. 500 - 2000 EUR
-    3. Plus de 2000 EUR
-
-Bot: Quel est ton delai ?
-    1. Urgent (cette semaine)
-    2. Ce mois-ci
-    3. Pas presse
-
-[Le bot enregistre les reponses et transmet au commercial]
-```
-
-### Flux de FAQ
-
-```
-Bot: Voici les questions les plus frequentes :
-    1. Quels sont vos delais de livraison ?
-    2. Comment retourner un produit ?
-    3. Quels modes de paiement acceptez-vous ?
-
-[Chaque option declenche une reponse automatique detaillee]
-```
-
-## Étape 4 : Les cas d'usage qui cartonnent
-
-- **Confirmation de commande** : message automatique avec resume et lien de suivi
-- **Rappel de rendez-vous** : message 24h et 1h avant le RDV avec option d'annulation
-- **Relance panier abandonne** : "Hey, tu as oublie quelque chose dans ton panier..."
-- **Notification de livraison** : "Ton colis est en route ! Voici le numéro de suivi"
-- **Enquete de satisfaction** : "Comment s'est passee ta commande ? Note de 1 a 5"
-
-## Étape 5 : Bonnes pratiques
-
-### Ce qui est autorise par Meta
-
-- Repondre aux messages dans les 24 heures (fenêtre de conversation gratuite)
-- Envoyer des templates pre-approuves en dehors de la fenêtre de 24h
-- Utiliser des boutons interactifs (jusqu'a 3 boutons par message)
-- Envoyer des images, vidéos, documents et localisations
-
-### Ce qui est interdit
-
-- Spammer des contacts qui n'ont pas donne leur consentement
-- Envoyer du contenu promotionnel non sollicite
-- Utiliser des APIs non officielles (risque de ban du numéro)
-- Collecter des donnees sans informer l'utilisateur
-
-### Conseils pour un bon taux de réponse
-
-- **Reponds vite** : configure une réponse automatique en moins de 5 secondes
-- **Sois concis** : pas de paves de texte, des messages courts et actionnable
-- **Propose toujours une sortie** : "Tape STOP pour ne plus recevoir de messages"
-- **Humanise** : prevois un transfert vers un humain quand le bot ne sait pas repondre
-
-## Les coûts a prevoir
-
-**Attention** : depuis le 1er juillet 2025, Meta a change son modele de tarification WhatsApp Business API. On passe d'une facturation par conversation (fenêtre 24h) a une facturation par message template. Voici le nouveau modele :
-
-| Poste | Coût |
-|-------|------|
-| Numéro WhatsApp Business | Gratuit |
-| Messages de service (dans la fenêtre 24h client) | Gratuit |
-| Templates Marketing (par message envoye) | Variable par pays (0,05-0,15 EUR en Europe) |
-| Templates Utilitaires (hors fenêtre 24h) | Variable, avec reductions par volume |
-| Templates Authentification | Variable, tarifs reduits |
-| Templates Utilitaires (dans fenêtre 24h) | Gratuit |
-| Plateforme chatbot (ManyChat, WATI...) | 15 a 79$/mois |
-| BSP (360dialog, Twilio) | Variable selon le volume |
-
-**Ce qui change** : les messages utilitaires envoyes dans la fenêtre 24h du service client sont desormais gratuits. En revanche, chaque template marketing est facture individuellement (plus de "messages illimites" pendant 24h).
-
-## Ce qu'il faut retenir
-
-Un bot WhatsApp bien configure peut gerer 80% des demandes courantes automatiquement. Commence par un flux simple (FAQ + accueil), mesure les resultats, et ajoute des flux au fur et a mesure. L'erreur classique, c'est de vouloir tout automatiser d'un coup. Commence petit, itere vite.
+Commence par un seul flux conversationnel utile, par exemple la qualification de leads ou la réponse aux trois questions les plus fréquentes.

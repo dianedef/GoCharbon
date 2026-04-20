@@ -1,15 +1,15 @@
 ---
 section: blog
-title: 'Offres Irrésistibles : Value Stacking et Power Offers'
+title: "Offres irrésistibles : construire une offre qu'on comprend et qu'on veut"
 author: Diane
 tags:
   - Marketing
-description: Construis des offres impossibles à refuser. Value stacking, architecture de bonus, garantie et ancrage prix pour maximiser tes conversions.
-pubDate: '2026-03-23'
+description: Apprends à structurer une offre claire, crédible et désirable avec bonus, garantie et cadrage prix sans gonfler artificiellement la valeur.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Offres Irrésistibles : Value Stacking et Power Offers
+# Offres irrésistibles : construire une offre qu'on comprend et qu'on veut
 
 Tu ne vends pas un produit. Tu vends une offre.
 

@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Google Valide L'Ia La Décision Choc Qui Va Bouleverser Le Seo
 author: Diane
-description: 'Découvre Google Valide L''Ia La Décision Choc Qui Va Bouleverser Le
-  Seo : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Google Valide L'Ia La Décision Choc Qui Va Bouleverser Le Seo."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -9,8 +9,7 @@ toolSubcategoryPrimary: formation
 u_site: null
 title: Wizards Academy La Formation Secrète Des Entrepreneurs Millionnaires
 author: Diane
-description: 'Découvre Wizards Academy La Formation Secrète Des Entrepreneurs Millionnaires
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Wizards Academy La Formation Secrète Des Entrepreneurs Millionnaires."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -1,142 +1,122 @@
 ---
 section: blog
-title: Entrepreneuriat Social
+title: 'Entrepreneuriat social : utile seulement si le modèle tient aussi'
 author: Diane
 tags:
 - Business
-description: 'L''entrepreneuriat social expliqué : modèles économiques, impact et
-  stratégies pour entreprises à mission sociale.'
-pubDate: '2024-03-25'
+description: "L’entrepreneuriat social sans naïveté : mission, modèle économique, mesure d’impact et arbitrages réels pour petite structure."
+pubDate: '2026-04-19'
 imgUrl: ../../assets/astro.jpeg
 ---
 
+# Entrepreneuriat social : utile seulement si le modèle tient aussi
 
-# Entrepreneuriat Social : Créer de la Valeur Sociétale
+L'entrepreneuriat social attire parce qu'il promet mieux qu'un choix binaire entre :
 
-## Définition et Principes
+- faire du bien
+- gagner sa vie
 
-L'entrepreneuriat social combine l'innovation entrepreneuriale avec la mission sociale. Contrairement à l'entrepreneuriat traditionnel, il place l'impact social au cœur de sa stratégie, tout en respectant les principes d'une [éthique des affaires](/responsabilite-sociale/ethique) rigoureuse.
+L'idée est saine. Mais elle est souvent mal racontée.
 
-## Caractéristiques Distinctives
+On présente parfois l'entrepreneuriat social comme un territoire moralement supérieur. En réalité, c'est surtout un exercice plus exigeant :
 
-### 1. Mission Sociale Centrale
-- Priorité à l'impact social/environnemental
-- Réinvestissement majoritaire des bénéfices
-- Mesure de la performance sociale
+- il faut une mission claire
+- un modèle économique crédible
+- une capacité à mesurer autre chose que son intention
 
-### 2. Innovation Sociale
-- Solutions créatives aux problèmes sociaux
-- Modèles économiques durables
-- Approche systémique du changement
+Sinon, on n'a pas construit une entreprise sociale. On a surtout construit une belle histoire fragile.
 
-### 3. Gouvernance Participative
-- Implication des parties prenantes
-- [Leadership éthique](/responsabilite-sociale/ethique-leadership)
-- Transparence décisionnelle
+## 1. Ce qui distingue vraiment l'entrepreneuriat social
 
-## Modèles d'Affaires
+Le point de départ n'est pas "faire des dons" ou "être sympa".
 
-### 1. Entreprises Sociales
-- Activité commerciale à finalité sociale
-- Autonomie financière
-- Impact mesurable
+Le point de départ, c'est :
 
-### 2. Coopératives
-- Propriété collective
-- Décision démocratique
-- Partage équitable des bénéfices
+- un problème social ou environnemental réel
+- une réponse entrepreneuriale
+- une logique de durabilité
 
-### 3. Organisations Hybrides
-- Mix profit/non-profit
-- Partenariats innovants
-- Scalabilité de l'impact
+Autrement dit, l'impact n'est pas un vernis marketing ajouté après coup. Il fait partie du cœur du projet.
 
-## Mise en Œuvre
+## 2. Le piège romantique
 
-### Étapes Clés
-1. **Identification du Besoin Social**
-   - Étude de terrain
-   - Consultation des bénéficiaires
-   - Analyse d'impact
+Beaucoup de projets à impact se plantent non parce que leur mission est mauvaise, mais parce qu'ils sous-estiment les questions les plus ordinaires :
 
-2. **Développement du Modèle**
-   - Business plan social
-   - Stratégie de financement
-   - Indicateurs de performance
+- qui paie ?
+- pourquoi maintenant ?
+- quelle preuve de valeur ?
+- quel coût de livraison ?
+- quelle marge de sécurité ?
 
-3. **Déploiement**
-   - [Recrutement](/ressources-humaines/recrutement) engagé
-   - Développement des partenariats
-   - Mesure d'impact continue
+Une mission forte n'exonère pas du travail économique. Elle le rend même plus important.
 
-## Financement
+## 3. Les trois couches à tenir en même temps
 
-### Sources de Financement
-- Impact investing
-- Crowdfunding social
-- Subventions publiques
-- Revenus d'activité
+### La mission
 
-### Critères de Performance
-- Impact social mesurable
-- Viabilité économique
-- Potentiel de croissance
-- Innovation sociale
+Le problème traité doit être précis. "Aider les gens" ne suffit pas.
 
-## Développement et Croissance
+### Le modèle
 
-### Stratégies de Scaling
-1. **Croissance Organique**
-   - Expansion géographique
-   - Diversification des services
-   - Renforcement des capacités
+Il faut savoir comment l'activité finance :
 
-2. **Réplication**
-   - Franchise sociale
-   - Partenariats stratégiques
-   - Transfert de connaissances
+- sa production
+- son équipe
+- son développement
+- sa capacité à durer
 
-### Gestion des Talents
-- [Culture d'entreprise](/ressources-humaines/culture) engagée
-- Formation continue
-- Valorisation de l'impact
+### La mesure d'impact
 
-## Mesure d'Impact
+Si tu ne peux pas montrer ce qui change, tu risques de confondre effort, communication et impact réel.
 
-### Indicateurs Clés
-- Impact social direct
-- Retour social sur investissement (SROI)
-- Durabilité financière
-- Satisfaction des parties prenantes
+## 4. Un projet à impact peut commencer petit
 
-### Outils de Mesure
-- Tableaux de bord sociaux
-- Études d'impact
-- Feedback des bénéficiaires
+Pas besoin d'une structure héroïque.
 
-## Défis et Solutions
+Une petite activité peut déjà avoir une logique d'entrepreneuriat social si elle pense sérieusement :
 
-### 1. Équilibre Impact/Viabilité
-- Modèles hybrides
-- Diversification des revenus
-- Optimisation des coûts
+- accessibilité
+- utilité concrète
+- conditions de travail
+- effets secondaires
+- alignement entre promesse et pratique
 
-### 2. Accès aux Financements
-- Mix de financements
-- Démonstration d'impact
-- Partenariats stratégiques
+Le sujet n'est pas la taille. C'est la cohérence.
 
-### 3. Ressources Humaines
-- Attraction des talents
-- Rétention des équipes
-- Formation continue
+## 5. Les arbitrages à assumer
 
-## Conclusion
+L'entrepreneuriat social n'élimine pas les tensions. Il les rend visibles.
 
-L'entrepreneuriat social représente une nouvelle façon de faire des affaires, où la création de valeur sociale et la viabilité économique se renforcent mutuellement. Son succès repose sur une vision claire, une [culture d'entreprise](/ressources-humaines/culture) forte et un [leadership éthique](/responsabilite-sociale/ethique-leadership) engagé.
+Par exemple :
 
-## Ressources
+- faut-il croître vite ou rester plus fidèle au terrain ?
+- faut-il accepter un financement imparfait ?
+- faut-il simplifier l'offre au risque de réduire l'impact ?
 
-- [Guide de l'entrepreneuriat social](https://www.social-enterprise.fr)
-- [Outils de mesure d'impact](https://www.impact-tools.org)
-- [Réseau des entrepreneurs sociaux](https://www.social-network.org)
+Ces arbitrages n'ont pas toujours une réponse élégante. Ce qui compte, c'est de les regarder lucidement.
+
+## 6. Comment éviter le théâtre de l'impact
+
+Tu peux déjà faire mieux avec quatre réflexes :
+
+- formuler un problème précis
+- définir à qui tu rends service
+- expliquer comment tu finances l'activité
+- suivre quelques indicateurs utiles
+
+Le danger n'est pas de ne pas être parfait.
+
+Le danger, c'est de communiquer plus vite qu'on ne prouve.
+
+## Le vrai niveau d'exigence
+
+L'entrepreneuriat social n'est pas une décoration morale pour business ordinaire.
+
+C'est une forme d'entrepreneuriat qui demande de tenir deux choses à la fois :
+
+- l'impact
+- la viabilité
+
+Si l'un des deux disparaît, le projet se dérègle.
+
+S'il tient les deux, alors oui, il peut devenir un levier très puissant.

@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: Email Marketer / Spécialiste Marketing par Email
+title: Spécialiste email marketing
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Deviens expert email marketing : stratégies, outils et techniques pour
-  aider les entreprises à convertir.'
+description: 'Écrire, segmenter et automatiser des emails qui servent vraiment le chiffre
+  d''affaires.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Email Marketer / Spécialiste Marketing par Email
+# Spécialiste email marketing
 
 ## Description en une phrase
 

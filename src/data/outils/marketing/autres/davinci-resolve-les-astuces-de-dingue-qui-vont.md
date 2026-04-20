@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Davinci Resolve Les Astuces De Dingue Qui Vont Révolutionner Vos Montages
 author: Diane
-description: 'Découvre Davinci Resolve Les Astuces De Dingue Qui Vont Révolutionner
-  Vos Montages : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Davinci Resolve Les Astuces De Dingue Qui Vont Révolutionner Vos Montages."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

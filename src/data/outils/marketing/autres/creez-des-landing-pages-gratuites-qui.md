@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Créez Des Landing Pages Gratuites Qui Convertissent Comme Des Folles
 author: Diane
-description: 'Découvre Créez Des Landing Pages Gratuites Qui Convertissent Comme Des
-  Folles : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Créez Des Landing Pages Gratuites Qui Convertissent Comme Des Folles."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

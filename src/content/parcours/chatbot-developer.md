@@ -44,7 +44,7 @@ Creer des chatbots utiles qui resolvent un cas concret (support, contact, démar
 - [Fiche profil Chatbot Developer](/biz/profils/chatbot-developer)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/chatbot-developer)
+- [Suivi du parcours](/parcours/developpeur-chatbot)
 - [Ressource utile 1](/tutos/chatbot-whatsapp)
 - [Ressource utile 2](/tutos/creer-chatbot-messenger)
 - [Ressource utile 3](/tutos/creer-un-custom-gpt-gratuitement)

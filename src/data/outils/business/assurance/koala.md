@@ -17,9 +17,9 @@ title: Koala
 author: Diane
 tags:
 - Outils
-description: '[Koala Insurance: Overview | LinkedIn](https://www.linkedin.com/company/koalainsurance/)
-  Koala est une solution innovante d''assurance voyage qui révolutionne l''industrie.
-  Cette ass'
+description: Koala est une solution d'assurance embarquée orientée voyage qui aide
+  les acteurs du secteur à proposer des garanties plus simples à comprendre et plus
+  rapides à activer.
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://hikoala.co/fr/
@@ -27,103 +27,56 @@ u_site: https://hikoala.co/fr/
 
 # Koala
 
-🔹✅💡🥊🛡️🔇🧠📣🎁🏆📚🛠💥🙌😱❌✂️
-[Koala Insurance: Overview | LinkedIn](https://www.linkedin.com/company/koalainsurance/)
+## Une assurance embarquée orientée voyage, plus simple à vendre et à déclencher
 
-## 🌐 Koala - L'Assurance Voyage Simplifiée. Rejoignez la Révolution Koala !
+### tl;dr
 
-Koala est une solution innovante d'assurance voyage qui révolutionne l'industrie. Cette assurance voyage se présente sans exclusions, sans nécessité de fournir des preuves, et sans fastidieux formulaires à remplir. Offrez à vos clients l'assurance qu'ils méritent de manière simple et transparente.
+Koala n'est pas une assurance grand public à comparer à la va-vite avec n'importe quel assureur. Le sujet ici, c'est plutôt l'**assurance intégrée dans une expérience de voyage** : billets, réservations, perturbations, annulations, parcours client. Si tu opères dans ce secteur, la promesse est claire : rendre l'assurance moins opaque et moins pénible à activer.
 
-## ✔️ Bénéfices
+### Alternative à
 
-En utilisant Koala, tu bénéficieras des avantages suivants pour ton entreprise :
+Des solutions d'assurance voyage classiques, ou d'autres acteurs d'assurance embarquée spécialisés.
 
-- **Rentabilité accrue** : Koala a réussi à lever 2 millions d'euros pour accélérer sa croissance, ce qui montre sa capacité à générer des revenus.
+## Pourquoi on le retient
 
-- **Amélioration de la réputation de ta marque** : En adoptant les innovations de Koala, tu pourras démontrer l'attractivité de ta marque en offrant à tes clients une expérience sans tracas.
+- **Le positionnement est spécifique** : assurance voyage et expérience client, pas assurance généraliste.
+- **Le produit cherche à réduire la friction** dans un moment où le client est déjà stressé.
+- **L'intégration compte beaucoup** : pour un acteur travel, la valeur est souvent dans le parcours fluide plus que dans la simple existence d'une garantie.
 
-- **Encadrement par une équipe d'experts** : L'équipe dédiée de Koala t'accompagnera tout au long de ton projet, t'aidant à optimiser tes revenus.
+## Pour qui ?
 
-## 🎯 Pour Qui ?
+- agences de voyage et distributeurs
+- plateformes de réservation
+- acteurs transport ou mobilité
+- entreprises travel tech qui veulent ajouter une couche d'assurance embarquée
 
-Koala s'adresse principalement aux entreprises et aux professionnels du secteur du voyage. Si tu souhaites générer des revenus supplémentaires, améliorer la réputation de ta marque et bénéficier de l'expertise d'une équipe dédiée, Koala est fait pour toi.
+## Fonctionnalités utiles
 
-## 📢 Alternatives
+- produits d'assurance liés à l'annulation, aux perturbations ou aux incidents de voyage
+- logique d'intégration au parcours d'achat
+- gestion plus fluide des déclenchements d'indemnisation selon les cas d'usage
+- documentation et accompagnement pour l'intégration côté partenaire
 
-Bien que Koala propose une solution unique, il existe quelques alternatives sur le marché de l'assurance voyage, notamment Allianz et World Nomads. Cependant, aucune d'entre elles n'offre la simplicité et la transparence de Koala.
+## Prix
 
-## 🛠️ Fonctionnalités
+La tarification dépend du modèle de distribution, du type de couverture et du volume. Ce n'est pas un achat "clic-clic terminé" comme un petit SaaS : il faut regarder le modèle économique global, la marge, le taux d'activation et l'impact sur l'expérience client.
 
-Koala offre un ensemble de fonctionnalités essentielles pour simplifier l'assurance voyage, notamment :
+## Intégrations
 
-### Koala Flex
-Ce produit permet l'annulation du voyage sans motif ni justificatif.
+L'intérêt de Koala est précisément d'être branché au parcours de vente ou d'opérations d'un acteur du voyage. Si l'intégration est mauvaise, la proposition de valeur s'effondre vite.
 
-### Koala Vol Perturbé
-Il offre une indemnisation instantanée en cas de perturbation de vol.
+## Ce qu'il faut savoir avant de choisir
 
-### Koala Correspondance Manquée
-Compensation instantanée en cas de correspondance manquée.
+Koala peut être pertinent si tu es **vraiment** dans le voyage ou l'assurance embarquée. Si tu cherches juste "une assurance" au sens large, tu n'es probablement pas au bon endroit.
 
-### Koala Multi-risques
-Koala propose également un produit de multi-risques pour couvrir une variété de situations imprévues.
+## Points forts
 
-## 💶 Offres & Prix
+- positionnement clair sur un cas d'usage précis
+- promesse produit plus lisible que certains discours d'assurance traditionnels
+- intérêt réel pour des acteurs travel qui veulent moderniser leur offre
 
-Koala offre une variété de plans d'assurance voyage pour répondre à différents besoins. Les détails des prix et des plans sont disponibles sur leur site Web, et ils offrent une documentation technique pour une intégration en toute simplicité.
+## Points faibles
 
-## 🎖️ Équipe, Histoire Et Mission
-
-Koala est une fintech spécialisée dans la création de services et produits d'assurance sans exclusion, sans preuve requise, et sans formulaire. Leur équipe provient de l'industrie du voyage et comprend parfaitement les défis auxquels tu es confronté. Leur mission est de rendre l'assurance accessible à tous en utilisant la technologie pour éliminer la paperasse.
-
-## 🚧 Feuille de Route Future
-
-Koala continue d'innover pour simplifier l'assurance voyage. Bien qu'il n'y ait pas de roadmap public disponible, tu peux t'attendre à des améliorations continues de leurs services.
-
-## ⛓️ Liens et Ressources
-
-- Site Web : [Koala Assurance Voyage](https://www.koala-assurance.com/)
-- Documentation technique : [Koala Documentation](https://www.koala-assurance.com/documentation)
-- Contact : support@koala-assurance.com
-
-## 🤝 Programme de Parrainage
-
-Koala propose un programme de parrainage qui te permet de gagner des avantages en recommandant leur service à d'autres entreprises du secteur du voyage. Contacte-les pour en savoir plus.
-
-## ⚙️ Intégrations
-
-Koala offre une intégration technique simple avec une documentation complète en anglais. Leur équipe de support est dédiée pour t'assister dans l'intégration.
-
-## 👀 Comment l’utiliser ?
-
-Pour utiliser Koala au maximum de son potentiel, suis ces étapes :
-
-1. Crée un compte sur le site de Koala.
-2. Choisis le plan d'assurance adapté à tes besoins.
-3. Intègre leur API pour automatiser les processus.
-4. Bénéficie de l'assurance sans tracas pour tes clients.
-
-## 🤔 En Résumé ?
-
-Koala utilise une technologie avancée pour éliminer la paperasse. Tous leurs produits sont automatisés à 100%, proactifs, et ne nécessitent aucun justificatif. Ils s'appuient sur une équipe d'experts en assurance et en juridique pour garantir la conformité avec les réglementations.
-
-## 👩‍🏫 Démonstration complète
-
-(Information de démonstration non disponible)
-
-## Mon Avis
-
-Koala est une solution novatrice d'assurance voyage qui simplifie radicalement le processus, offrant une expérience sans tracas à tes clients. Les avantages de rentabilité, d'amélioration de la réputation de la marque et d'encadrement par une équipe d'experts en font un choix judicieux pour les entreprises du secteur du voyage.
-
-### 👎 Points Faibles
-
-- Pas de roadmap publique disponible.
-
-### 👍 Points Forts
-
-- Simplification de l'assurance voyage.
-- Expertise de l'équipe.
-- Documentation technique complète.
-- Programme de parrainage.
-
-N'hésite pas à rejoindre la révolution Koala pour offrir la tranquillité d'esprit à tes voyageurs et améliorer la rentabilité de ton entreprise dans le secteur du voyage.
+- très spécifique au secteur concerné
+- la qualité réelle se joue beaucoup dans l'intégration et l'exécution
+- demande un vrai travail business, pas juste l'ajout d'un widget

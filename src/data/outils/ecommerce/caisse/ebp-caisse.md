@@ -18,17 +18,17 @@ u_derniere_maj: "2026-03-15"
 
 # EBP Caisse (Point de Vente)
 
-## LOGICIEL DE CAISSE : LE MODULE POINT DE VENTE DU GÉANT FRANÇAIS EBP, MAINTENANT PARTIE DE CEGID
+# LOGICIEL DE CAISSE : LE MODULE POINT DE VENTE DU GÉANT FRANÇAIS EBP, MAINTENANT PARTIE DE CEGID
 
-### tl;dr
+## tl;dr
 
 EBP Point de Vente (ebp.com), c'est le **module de caisse enregistreuse** de **EBP**, le **géant français des logiciels de gestion pour TPE/PME** fondé en **octobre 1984** par **René Sentis** (avocat devenu entrepreneur) à **Rambouillet** (Yvelines). SIREN **330 838 947**. EBP a été **racheté par Cegid en juillet 2024** et opère désormais sous la marque **"EBP, A Cegid Company"**. Avec **275 000 utilisateurs** et **650-740 employés**, EBP est de loin le plus gros acteur de cette liste. L'écosystème EBP couvre **tout** : comptabilité, facturation, paie, gestion commerciale, CRM, et **Point de Vente**. Le module EBP Point de Vente est conçu pour les **commerces de détail** : gestion des ventes, stocks, clients, fidélité, reporting. Conforme à la **loi anti-fraude TVA**. Pricing à partir de **36€/mois** ou **569€ en licence**. EBP est aussi en première ligne pour la **réforme de la facturation électronique 2026**.
 
-### Alternative à
+## Alternative à
 
 Cegid Retail (maison mère), Tactill, Clictill, Lightspeed, Square POS, mybe. EBP Point de Vente se distingue par son **écosystème complet** (compta + paie + gestion + caisse dans le même univers EBP — pas besoin de 4 logiciels différents), son **héritage de 40 ans** (EBP existe depuis 1984, c'est le logiciel de gestion le plus connu des TPE françaises), et le **rachat par Cegid** (le plus grand éditeur français de gestion — garantie de pérennité).
 
-## Bénéfices
+# Bénéfices
 
 **Écosystème complet EBP** — Ta compta, ta paie, ta facturation, ta gestion commerciale et ta caisse sont dans le même univers logiciel. Les ventes de ta caisse remontent automatiquement dans ta compta. Pas de double saisie, pas d'export-import entre logiciels différents.
 
@@ -40,7 +40,7 @@ Cegid Retail (maison mère), Tactill, Clictill, Lightspeed, Square POS, mybe. EB
 
 **Prêt pour la facturation électronique 2026** — EBP prépare activement la transition vers la facturation électronique obligatoire (réforme 2026). Si tu es déjà chez EBP, la migration sera transparente.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Commerces de détail (mode, alimentation, déco, cadeaux)
 - Artisans qui vendent en boutique et en atelier
@@ -48,7 +48,7 @@ Cegid Retail (maison mère), Tactill, Clictill, Lightspeed, Square POS, mybe. EB
 - Commerçants qui veulent un logiciel de caisse intégré à leur gestion
 - PME qui préparent la facturation électronique 2026
 
-## Comment Utiliser EBP Point de Vente
+# Comment Utiliser EBP Point de Vente
 
 1. **Achat** — Va sur [ebp.com](https://www.ebp.com/) et choisis le module Point de Vente (SaaS ou licence)
 2. **Installation** — En SaaS (cloud) ou installation locale (Windows)
@@ -57,9 +57,9 @@ Cegid Retail (maison mère), Tactill, Clictill, Lightspeed, Square POS, mybe. EB
 5. **Vente** — Encaisse, gère les retours, applique les remises
 6. **Synchronisation** — Les données de vente remontent dans EBP Compta et EBP Gestion Commerciale
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Caisse et vente
+## Caisse et vente
 
 - **Interface de vente** — Écran de caisse avec grille de produits
 - **Multi-paiement** — Espèces, CB, chèque, titres-restaurant, paiement mixte
@@ -68,33 +68,33 @@ Cegid Retail (maison mère), Tactill, Clictill, Lightspeed, Square POS, mybe. EB
 - **Codes-barres** — Scanner intégré pour le passage en caisse
 - **Ticket de caisse** — Impression conforme
 
-### Gestion des stocks
+## Gestion des stocks
 
 - **Stock en temps réel** — Visibilité sur les quantités disponibles
 - **Inventaire** — Comptage et ajustement des stocks
 - **Réassort** — Alertes de stock minimum, commandes fournisseurs
 - **Codes-barres** — Gestion par EAN/UPC
 
-### Clients
+## Clients
 
 - **Fichier clients** — Base de données avec historique d'achats
 - **Fidélité** — Cartes de fidélité, points, remises
 - **Statistiques** — Analyse du comportement d'achat
 
-### Reporting et comptabilité
+## Reporting et comptabilité
 
 - **Z de caisse** — Clôture quotidienne conforme
 - **Rapports de vente** — Par jour, produit, vendeur, mode de paiement
 - **Export comptable** — Transfert automatique vers EBP Compta
 - **TVA** — Calcul automatique et déclaration
 
-### Conformité
+## Conformité
 
 - **Loi anti-fraude TVA** — Module certifié conforme
 - **Inaltérabilité** — Données de vente sécurisées et non modifiables
 - **Archivage** — Conservation conforme des données
 
-## Prix
+# Prix
 
 | Formule | Prix |
 |---------|------|
@@ -109,7 +109,7 @@ Cegid Retail (maison mère), Tactill, Clictill, Lightspeed, Square POS, mybe. EB
 
 *Source : [EBP](https://www.ebp.com/)*
 
-## Intégrations
+# Intégrations
 
 - **EBP Compta** : Transfert automatique des écritures de vente
 - **EBP Gestion Commerciale** : Synchronisation des stocks et commandes
@@ -118,7 +118,7 @@ Cegid Retail (maison mère), Tactill, Clictill, Lightspeed, Square POS, mybe. EB
 - **Matériel** : Imprimantes, scanners, tiroirs-caisse standards
 - **Facturation électronique** : Préparation réforme 2026
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **Octobre 1984** — Création d'**EBP** à **Rambouillet** (Yvelines) par **René Sentis**, avocat reconverti en entrepreneur. SIREN 330 838 947. Le premier produit : un logiciel de comptabilité pour les petites entreprises sur les premiers PC
 - **1984-2000** — EBP devient le logiciel de gestion #1 des TPE françaises. L'offre s'élargit : comptabilité, paie, gestion commerciale, facturation. Distribution massive via les revendeurs informatiques et les grandes surfaces (Fnac, Darty)
@@ -129,7 +129,7 @@ Cegid Retail (maison mère), Tactill, Clictill, Lightspeed, Square POS, mybe. EB
 
 *Source : [EBP](https://www.ebp.com/), [Societe.com](https://www.societe.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **Le commerçant qui utilise déjà EBP Compta** — Tu fais ta compta sur EBP depuis 10 ans. En ajoutant le module Point de Vente, tes ventes en caisse remontent automatiquement dans ta comptabilité. Zéro double saisie, zéro export CSV. Le rapprochement bancaire est simplifié.
 
@@ -137,7 +137,7 @@ Cegid Retail (maison mère), Tactill, Clictill, Lightspeed, Square POS, mybe. EB
 
 **L'artisan boulanger** — Tu as une boulangerie avec une caisse EBP. Le matin, tu vends des croissants. Le soir, EBP a calculé ta TVA, mis à jour tes stocks de farine et de beurre, et préparé ton Z de caisse. Ton expert-comptable récupère les données directement.
 
-## Points Forts
+# Points Forts
 
 - 275 000 utilisateurs — base installée massive
 - 40 ans d'existence (1984) — pérennité maximale
@@ -149,7 +149,7 @@ Cegid Retail (maison mère), Tactill, Clictill, Lightspeed, Square POS, mybe. EB
 - Mode SaaS et licence — flexibilité de choix
 - Expert-comptable compatible (tous connaissent EBP)
 
-## Points Faibles
+# Points Faibles
 
 - **Interface datée** — EBP a un héritage Windows/bureautique. L'interface du module Point de Vente n'a pas le côté moderne et fluide des apps iPad (Tactill) ou des solutions cloud-natives (Lightspeed). L'expérience utilisateur est fonctionnelle mais pas inspirante
 - **Complexité d'installation** — En mode licence, l'installation locale est plus complexe que les solutions 100% cloud. Il faut un PC Windows, une configuration, et parfois l'aide d'un technicien

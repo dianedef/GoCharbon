@@ -44,9 +44,9 @@ Monter un site contenu orienté autorite + revenus diversifies.
 - [Fiche profil Blogging](/biz/profils/blogging)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/blogging)
+- [Suivi du parcours](/parcours/blogueur)
 - [Ressource utile 1](/tutos/creer-un-blog-gratuitement)
-- [Ressource utile 2](/tutos/comment-creer-un-topic-cluster)
+- [Ressource utile 2](/seo/contenu/cocon-semantique)
 - [Ressource utile 3](/seo/fondamentaux/bases-seo)
 
 ## Idées de contenus pour aller plus loin

@@ -11,8 +11,7 @@ imageNameKey: null
 u_site: null
 title: 5 Outils Marketing Ia Qui Vont Rendre Votre Concurrent Obsolète
 author: Diane
-description: 'Découvre 5 Outils Marketing Ia Qui Vont Rendre Votre Concurrent Obsolète
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "5 Outils Marketing Ia Qui Vont Rendre Votre Concurrent Obsolète."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

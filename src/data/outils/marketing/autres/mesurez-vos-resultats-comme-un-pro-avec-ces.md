@@ -6,8 +6,7 @@ tags:
 imageNameKey: null
 title: Mesurez Vos Résultats Comme Un Pro Avec Ces Astuces Choc
 author: Diane
-description: 'Découvre Mesurez Vos Résultats Comme Un Pro Avec Ces Astuces Choc :
-  outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Mesurez Vos Résultats Comme Un Pro Avec Ces Astuces Choc."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

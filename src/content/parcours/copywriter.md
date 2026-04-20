@@ -44,7 +44,7 @@ updatedAt: "2026-03-01"
 - [Fiche profil Copywriter](/biz/profils/copywriter)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/copywriter)
+- [Suivi du parcours](/parcours/redacteur-marketing)
 - [Ressource utile 1](/marketing/email/strategie)
 - [Ressource utile 2](/marketing/content-marketing)
 - [Ressource utile 3](/tutos/comment-ecrire-un-script-youtube-captivant)

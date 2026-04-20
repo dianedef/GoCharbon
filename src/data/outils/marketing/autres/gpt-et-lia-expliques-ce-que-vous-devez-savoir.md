@@ -11,8 +11,7 @@ imageNameKey: null
 u_site: null
 title: Gpt Et L'Ia Expliqués Ce Que Vous Devez Savoir Pour Ne Pas Devenir Obsolète
 author: Diane
-description: 'Découvre Gpt Et L''Ia Expliqués Ce Que Vous Devez Savoir Pour Ne Pas
-  Devenir Obsolète : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Gpt Et L'Ia Expliqués Ce Que Vous Devez Savoir Pour Ne Pas Devenir Obsolète."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

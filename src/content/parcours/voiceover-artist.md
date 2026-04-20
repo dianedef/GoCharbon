@@ -44,7 +44,7 @@ Monétiser une voix-off pro avec pipeline commande et qualité studio.
 - [Fiche profil Voiceover Artist](/biz/profils/voiceover-artist)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/voiceover-artist)
+- [Suivi du parcours](/parcours/artiste-voix-off)
 - [Ressource utile 1](/tutos/faire-une-dictee-vocale)
 - [Ressource utile 2](/tutos/comment-retirer-les-silences-et-humm-de-vos-videos)
 - [Ressource utile 3](/tutos/comment-avoir-un-son-parfait-sur-tes-videos-pour)

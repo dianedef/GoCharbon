@@ -8,8 +8,7 @@ toolSubcategoryPrimary: affiliation
 imageNameKey: null
 title: Vos Commissions D'Affiliation Non Trackées Voici La Solution Choc
 author: Diane
-description: 'Découvre Vos Commissions D''Affiliation Non Trackées Voici La Solution
-  Choc : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Vos Commissions D'Affiliation Non Trackées Voici La Solution Choc."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

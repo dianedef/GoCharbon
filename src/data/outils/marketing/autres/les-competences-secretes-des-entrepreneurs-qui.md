@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Les Compétences Secrètes Des Entrepreneurs Qui Réussissent Tout Révélé
 author: Diane
-description: 'Découvre Les Compétences Secrètes Des Entrepreneurs Qui Réussissent
-  Tout Révélé : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Compétences Secrètes Des Entrepreneurs Qui Réussissent Tout Révélé."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

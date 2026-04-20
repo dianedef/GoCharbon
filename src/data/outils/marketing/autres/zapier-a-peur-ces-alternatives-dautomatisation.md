@@ -10,8 +10,7 @@ toolCategoryPrimary: tech
 toolSubcategoryPrimary: automatisation
 title: Zapier A Peur Ces Alternatives D'Automatisation Vont Vous Bluffer
 author: Diane
-description: 'Découvre Zapier A Peur Ces Alternatives D''Automatisation Vont Vous
-  Bluffer : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Zapier A Peur Ces Alternatives D'Automatisation Vont Vous Bluffer."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

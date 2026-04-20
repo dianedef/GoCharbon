@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: La Technique Secrète Pour Devenir Viral Dans Un Monde Digital Saturé
 author: Diane
-description: 'Découvre La Technique Secrète Pour Devenir Viral Dans Un Monde Digital
-  Saturé : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Technique Secrète Pour Devenir Viral Dans Un Monde Digital Saturé."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

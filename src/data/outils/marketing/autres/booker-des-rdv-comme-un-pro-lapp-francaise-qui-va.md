@@ -8,9 +8,7 @@ u_site: null
 title: Booker Des Rdv Comme Un Pro L'App Française Qui Va Remplir Votre Agenda En
   Un Clic
 author: Diane
-description: 'Découvre Booker Des Rdv Comme Un Pro L''App Française Qui Va Remplir
-  Votre Agenda En Un Clic : outil français pour entrepreneurs, fonctionnalités et
-  avis.'
+description: "Booker Des Rdv Comme Un Pro L'App Française Qui Va Remplir Votre Agenda En Un Clic."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

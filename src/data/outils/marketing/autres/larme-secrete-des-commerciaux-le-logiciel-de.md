@@ -10,9 +10,7 @@ u_site: null
 title: L'Arme Secrète Des Commerciaux Le Logiciel De Prospection Qui Booste Les Ventes
   De 300%
 author: Diane
-description: 'Découvre L''Arme Secrète Des Commerciaux Le Logiciel De Prospection
-  Qui Booste Les Ventes De 300% : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "L'Arme Secrète Des Commerciaux Le Logiciel De Prospection Qui Booste Les Ventes De 300%."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

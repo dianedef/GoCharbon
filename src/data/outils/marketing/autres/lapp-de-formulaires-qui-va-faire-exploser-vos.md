@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: L'App De Formulaires Qui Va Faire Exploser Vos Taux De Conversion
 author: Diane
-description: 'Découvre L''App De Formulaires Qui Va Faire Exploser Vos Taux De Conversion
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'App De Formulaires Qui Va Faire Exploser Vos Taux De Conversion."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

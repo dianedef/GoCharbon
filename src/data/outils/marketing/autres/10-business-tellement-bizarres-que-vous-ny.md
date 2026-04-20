@@ -7,8 +7,7 @@ imageNameKey: business-chelous
 u_site: null
 title: 10 Business Tellement Bizarres Que Vous N'Y Croirez Pas
 author: Diane
-description: 'Découvre 10 Business Tellement Bizarres Que Vous N''Y Croirez Pas :
-  outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "10 Business Tellement Bizarres Que Vous N'Y Croirez Pas."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

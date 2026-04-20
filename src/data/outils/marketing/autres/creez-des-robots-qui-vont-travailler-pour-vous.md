@@ -11,8 +11,7 @@ statut:
 - backlog
 title: Créez Des Robots Qui Vont Travailler Pour Vous Devenez Riche En Dormant
 author: Diane
-description: 'Découvre Créez Des Robots Qui Vont Travailler Pour Vous Devenez Riche
-  En Dormant : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Créez Des Robots Qui Vont Travailler Pour Vous Devenez Riche En Dormant."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -5,8 +5,7 @@ tags:
 - Outils
 title: Marketing Automation
 author: Diane
-description: 'Découvre Marketing Automation : outil français pour entrepreneurs, fonctionnalités
-  et avis.'
+description: "Marketing Automation."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

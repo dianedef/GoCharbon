@@ -6,8 +6,7 @@ tags:
 imageNameKey: null
 title: Pourquoi Les Mauvais Business Ne Rendent Pas Riche La Vérité Qui Dérange
 author: Diane
-description: 'Découvre Pourquoi Les Mauvais Business Ne Rendent Pas Riche La Vérité
-  Qui Dérange : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Pourquoi Les Mauvais Business Ne Rendent Pas Riche La Vérité Qui Dérange."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

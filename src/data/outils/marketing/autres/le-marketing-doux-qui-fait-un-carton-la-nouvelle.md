@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Le Marketing Doux Qui Fait Un Carton La Nouvelle Tendance Qui Affole Les Pros
 author: Diane
-description: 'Découvre Le Marketing Doux Qui Fait Un Carton La Nouvelle Tendance Qui
-  Affole Les Pros : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Marketing Doux Qui Fait Un Carton La Nouvelle Tendance Qui Affole Les Pros."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -3,6 +3,8 @@ import LocalFont from "./LocalFont.astro";
 import type { BaseProps } from "../../utils/types/props";
 import { SITE, formatDocumentTitle, getSiteUrl } from "../../config/site";
 import { ROUTES } from "../../config/routes";
+import { resolveMetaRobots } from "../../utils/indexation";
+import { isParcoursOnlyBuild } from "../../utils/build-scope";
 
 interface ArticleData {
 	author?: string;
@@ -33,9 +35,11 @@ const fullOgImageUrl = Astro.site
 	? new URL(ogImagePath.replace(/^\//, ""), Astro.site)
 	: new URL(ogImagePath, SITE.url);
 
-const { title, description, metaRobots = "index, follow", article } = Astro.props;
+const { title, description, article } = Astro.props;
+const metaRobots = resolveMetaRobots(Astro.url.pathname, Astro.props.metaRobots);
 const documentTitle = formatDocumentTitle(title);
 const feedUrl = getSiteUrl(ROUTES.feed);
+const launchBuild = isParcoursOnlyBuild();
 
 // Génération du JSON-LD pour les articles de blog
 const isArticle = !!article;
@@ -131,11 +135,13 @@ const websiteSchema = isHomepage
 <meta name="generator" content={Astro.generator} />
 <meta name="robots" content={metaRobots} />
 
-<link
-	rel="alternate"
-	href={feedUrl}
-	type="application/rss+xml"
-/>
+{!launchBuild && (
+	<link
+		rel="alternate"
+		href={feedUrl}
+		type="application/rss+xml"
+	/>
+)}
 
 <meta name="title" content={documentTitle} />
 <meta name="description" content={description} />

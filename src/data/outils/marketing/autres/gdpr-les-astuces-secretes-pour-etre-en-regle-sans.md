@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Gdpr Les Astuces Secrètes Pour Être En Règle Sans Se Prendre La Tête
 author: Diane
-description: 'Découvre Gdpr Les Astuces Secrètes Pour Être En Règle Sans Se Prendre
-  La Tête : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Gdpr Les Astuces Secrètes Pour Être En Règle Sans Se Prendre La Tête."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

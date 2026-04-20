@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: La Technique Secrète Pour Se Faire 100 Nouveaux Amis En Un Mois
 author: Diane
-description: 'Découvre La Technique Secrète Pour Se Faire 100 Nouveaux Amis En Un
-  Mois : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Technique Secrète Pour Se Faire 100 Nouveaux Amis En Un Mois."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

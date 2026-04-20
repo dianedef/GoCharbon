@@ -4,86 +4,70 @@ tags:
 - Tutoriels
 imageNameKey: null
 u_site: null
-title: Trouver Les Influenceurs Sur Une Thématique
+title: Trouver les bons influenceurs sur une thématique
 author: Diane
-description: 'Découvre Trouver Les Influenceurs Sur Une Thématique : outil français
-  pour entrepreneurs, fonctionnalités et avis.'
+description: Identifie des créateurs pertinents pour ta niche en regardant l’audience, la cohérence et la crédibilité, pas seulement le volume.
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Trouver Les Influenceurs Sur Une Thématique
+Trouver des influenceurs n’est pas un concours de gros chiffres. Le bon partenaire n’est pas forcément celui qui a le plus d’abonnés. C’est celui qui a :
 
-## MARKETING D'INFLUENCE : TROUVER LES BONS PARTENAIRES
+- la bonne audience ;
+- la bonne crédibilité ;
+- le bon contexte ;
+- et une vraie cohérence avec ton offre.
 
-### tl;dr
+## Commence par la recherche manuelle
 
-Le marketing d'influence, c'est pas juste envoyer un produit a quelqu'un qui a 100K abonnés. C'est trouver la bonne personne, avec la bonne audience. Ce tuto te montre comment identifier, evaluer et contacter les influenceurs pertinents pour ton business.
+Avant de payer un outil, regarde :
 
----
+- YouTube ;
+- Instagram ;
+- TikTok ;
+- LinkedIn ;
+- les newsletters et podcasts du secteur.
 
-## Quel type d'influenceur chercher ?
+Cherche les profils qui publient régulièrement et dont les commentaires montrent une vraie audience.
 
-| Categorie | Abonnés | Avantage principal |
-|-----------|---------|-------------------|
-| Nano (1-10K) | Engagement fort (5-10%), prix bas |
-| Micro (10-100K) | Bon equilibre engagement/portee |
-| Macro (100K-1M) | Grande visibilite |
-| Mega (1M+) | Portee massive, très cher |
+## Ce qu’il faut vérifier
 
-**Pour les petits business, les micro et nano sont le meilleur choix.** Coût par engagement 5 a 10 fois inferieur aux gros comptes.
+- la cohérence de la niche ;
+- la régularité de publication ;
+- la qualité des commentaires ;
+- la capacité à expliquer, pas juste divertir ;
+- la proximité avec ton marché réel.
 
-## Methode 1 : Recherche manuelle (gratuit)
+## Où les trouver
 
-**Instagram :** Tape des hashtags de niche specifiques. Regarde les posts "Top". Explore "Comptes similaires". Verifie le taux d'engagement : (likes + commentaires) / abonnés x 100. Moins de 2% = suspect.
+### Chez tes concurrents
 
-**YouTube :** Cherche par mots-clés, filtre par "Chaînes". Cible les 5K-50K abonnés avec publications regulieres.
+Regarde les créateurs déjà cités, tagués ou sponsorisés.
 
-**TikTok :** Cherche par hashtag. Utilise le TikTok Creator Marketplace (marketplace.tiktok.com).
+### Chez tes clients
 
-**LinkedIn :** Filtre par "Publications". Les profils avec beaucoup de commentaires sont les leaders d'opinion.
+Tu as parfois déjà dans ta base des profils avec une petite audience crédible.
 
-## Methode 2 : Outils specialises
+### Dans les résultats de recherche
 
-**HypeAuditor** ([hypeauditor.com](https://hypeauditor.com), a partir de 299 $/mois annuel) : 218,9 millions+ de profils (Instagram, YouTube, TikTok, Twitch, X), score de qualité d'audience, detection des faux abonnés avec IA, filtres avances (35+) par pays/niche/taille/demographie. Le plan Basic inclut la decouverte, l'analytics, le CRM et le suivi de campagnes mais avec des limites d'usage. Plans PRO et Enterprise pour debloquer l'AI Search, Lookalike Search et les landing pages de recrutement. Utilise par L'Oreal, Dyson et des milliers de marques.
+Sur certaines niches, les créateurs les plus utiles sont visibles via Google, YouTube ou LinkedIn bien avant les marketplaces.
 
-**Kolsquare** ([kolsquare.com](https://www.kolsquare.com), a partir de 420 EUR/mois) : Plateforme française (Paris, fondee en 2011 par l'ex-rugbyman Quentin Bordage sous le nom "Brands & Celebrities"). Module Discovery a partir de 500 EUR/mois (base complète Instagram, TikTok, YouTube, Facebook, X, Snapchat, recherche IA, 100+ filtres). Module Social Listening a 420 EUR/mois (veille concurrents, share of voice). Module Enterprise sur devis (gestion de campagnes, CRM, tracking, rapports). Tarifs speciaux startups (-30%) et ONG.
+## La bonne cible pour un petit business
 
-**Favikon** ([favikon.com](https://www.favikon.com)) : Outil français (Paris), plateforme IA qui evalue et classe les influenceurs sur les réseaux sociaux. Classement par thématique et pays, detection de fraude, scoring des createurs. Tarification sur devis -- contacter l'équipe pour les plans. Bon pour identifier les profils emergents avant la concurrence.
+Les nano et micro-créateurs sont souvent plus intéressants :
 
-**SparkToro** ([sparktoro.com](https://sparktoro.com), gratuit limite, puis 50 $/mois) : Outil de recherche d'audience -- tape une thématique et il montre les comptes les plus suivis, les sites visites, les podcasts ecoutes et les mots-clés utilises par cette audience. Plan gratuit : 5 recherches/mois, echantillon de resultats. Personal : 50 $/mois (50 recherches). Business : 150 $/mois (500 recherches, 10 users). Agency : 300 $/mois (illimite, 100 users). Attention : les anciens outils gratuits (Fake Followers Audit) ont ete supprimes suite aux changements d'API de Twitter/X.
+- coût plus accessible ;
+- audience plus resserrée ;
+- relation plus simple ;
+- taux de réponse souvent meilleur.
 
-## Methode 3 : Reverse engineering
+## Le bon contact
 
-1. Va sur les comptes de tes concurrents
-2. Regarde les posts ou ils sont tagges par des influenceurs
-3. Note ces influenceurs -- s'ils ont promu un produit similaire, ils sont ouverts au tien
-4. Verifie sur quelles autres marques ils travaillent
+Quand tu écris :
 
-## Evaluer un influenceur
+- cite un contenu précis ;
+- explique pourquoi tu les contactes eux ;
+- propose un angle clair ;
+- évite le message générique envoyé à 200 personnes.
 
-- **Taux d'engagement** sur les 10 derniers posts (minimum 2% sur Instagram)
-- **Qualité des commentaires** -- Vrais ou generiques ?
-- **Croissance organique** -- Reguliere ou spike suspect ?
-- **Coherence de niche** -- Parle-t-il vraiment de ta thématique ?
-- **Demographie** -- Si tu vends en France et son audience est au Bresil, ca ne sert a rien
-
-## Comment contacter
-
-Personnalise chaque message (cite un contenu précis), sois direct sur ta proposition (produit, remuneration, affiliation), ne demande pas les tarifs dans le 1er message. Relance une fois après 5 jours max.
-
-## Astuces GoCharbon
-
-- **Commence par les nanos.** Avec 500 EUR, travaille avec 10 nanos au lieu d'un macro. Le ROI est souvent meilleur.
-- **Privilegie l'affiliation.** Code promo avec commission plutot que paiement fixe. Ca aligne vos intérêts.
-- **Verifie TOUJOURS les faux abonnés.** HypeAuditor ou SparkToro : 2 minutes qui sauvent 500 EUR.
-- **Les meilleurs influenceurs sont tes clients.** Cherche dans ta base ceux qui ont une audience.
-- **Relations long terme.** 6 mois avec le même createur > 6 one-shots avec 6 personnes.
-
-## Ressources
-
-- [HypeAuditor](https://hypeauditor.com) -- 218M+ profils, detection de fraude IA (a partir de 299 $/mois)
-- [Kolsquare](https://www.kolsquare.com) -- Plateforme française (a partir de 420 EUR/mois)
-- [Favikon](https://www.favikon.com) -- Outil français, classement IA des createurs
-- [SparkToro](https://sparktoro.com) -- Recherche d'audience (gratuit limite, puis 50 $/mois)
-- [TikTok Creator Marketplace](https://creatormarketplace.tiktok.com) -- Plateforme officielle TikTok
+L’objectif n’est pas “faire une campagne influence”. L’objectif est de trouver des relais crédibles.

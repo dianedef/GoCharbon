@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Le Modèle De Calendrier Qui Va Révolutionner L'Organisation Des Indépendants
 author: Diane
-description: 'Découvre Le Modèle De Calendrier Qui Va Révolutionner L''Organisation
-  Des Indépendants : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Modèle De Calendrier Qui Va Révolutionner L'Organisation Des Indépendants."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

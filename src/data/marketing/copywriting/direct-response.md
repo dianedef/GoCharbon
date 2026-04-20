@@ -1,17 +1,19 @@
 ---
 section: blog
-title: 'Direct Response Marketing : La Philosophie Derrière le Copywriting Moderne'
+title: 'Direct response : vendre avec des actions mesurables'
 author: Diane
 tags:
   - Marketing
-description: Le direct response marketing est la discipline mère du copywriting. Son histoire, ses principes et pourquoi il reste la méthode la plus rentable.
-pubDate: '2026-03-23'
+description: Comprends le direct response marketing, ses principes, ses limites et pourquoi il reste utile quand tu dois vendre avec peu de budget.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Direct Response Marketing : La Philosophie Derrière le Copywriting Moderne
+# Direct response : vendre avec des actions mesurables
 
-Il y a deux écoles de marketing. L'une dépense des millions en branding et espère que ça finira par payer. L'autre envoie un message, mesure le résultat, et ajuste. La deuxième, c'est le direct response marketing — et c'est de là que vient tout ce que tu as lu dans ce cluster sur le copywriting.
+Il y a le marketing qu'on admire en conférence. Et il y a le marketing qu'on doit faire quand il faut vraiment générer des réponses, des essais, des rendez-vous ou des ventes.
+
+Le direct response appartient clairement à la deuxième catégorie. Son idée est simple : tu envoies un message, tu demandes une action, tu regardes ce qui se passe, puis tu ajustes. Pas très glamour. Très utile.
 
 ## Le direct response en une phrase
 

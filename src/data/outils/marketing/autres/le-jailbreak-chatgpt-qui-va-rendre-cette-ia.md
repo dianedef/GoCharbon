@@ -12,8 +12,7 @@ tags:
 - Outils
 title: Le Jailbreak Chatgpt Qui Va Rendre Cette Ia Surpuissante Attention, C'Est Fou
 author: Diane
-description: 'Découvre Le Jailbreak Chatgpt Qui Va Rendre Cette Ia Surpuissante Attention,
-  C''Est Fou : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Jailbreak Chatgpt Qui Va Rendre Cette Ia Surpuissante Attention, C'Est Fou."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

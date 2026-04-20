@@ -12,8 +12,7 @@ u_affi: null
 title: Les Erreurs Marketing Fatales Qui Ont Ruiné Des Empires Ne Les Reproduisez
   Pas
 author: Diane
-description: 'Découvre Les Erreurs Marketing Fatales Qui Ont Ruiné Des Empires Ne
-  Les Reproduisez Pas : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Erreurs Marketing Fatales Qui Ont Ruiné Des Empires Ne Les Reproduisez Pas."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

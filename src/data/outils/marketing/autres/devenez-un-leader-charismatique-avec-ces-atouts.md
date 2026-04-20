@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Devenez Un Leader Charismatique Avec Ces Atouts Secrets
 author: Diane
-description: 'Découvre Devenez Un Leader Charismatique Avec Ces Atouts Secrets : outil
-  français pour entrepreneurs, fonctionnalités et avis.'
+description: "Devenez Un Leader Charismatique Avec Ces Atouts Secrets."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

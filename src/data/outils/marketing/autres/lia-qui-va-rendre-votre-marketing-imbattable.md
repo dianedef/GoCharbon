@@ -11,8 +11,7 @@ imageNameKey: null
 u_site: null
 title: L'Ia Qui Va Rendre Votre Marketing Imbattable Stratégies Du Futur Dévoilées
 author: Diane
-description: 'Découvre L''Ia Qui Va Rendre Votre Marketing Imbattable Stratégies Du
-  Futur Dévoilées : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Ia Qui Va Rendre Votre Marketing Imbattable Stratégies Du Futur Dévoilées."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

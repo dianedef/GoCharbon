@@ -18,17 +18,17 @@ u_derniere_maj: "2026-03-15"
 
 # Kiute Pro (maintenant Booksy)
 
-## SALON DE COIFFURE & BEAUTÉ : LE LOGICIEL FRANÇAIS QUI GÈRE CAISSE, RÉSERVATION ET CRM — MAINTENANT RACHETÉ PAR BOOKSY
+# SALON DE COIFFURE & BEAUTÉ : LE LOGICIEL FRANÇAIS QUI GÈRE CAISSE, RÉSERVATION ET CRM — MAINTENANT RACHETÉ PAR BOOKSY
 
-### tl;dr
+## tl;dr
 
 Kiute Pro (pro.kiute.com), c'est le **logiciel tout-en-un français** pour les **salons de coiffure** et **instituts de beauté** — caisse enregistreuse, réservation en ligne, agenda, CRM client, boutique e-commerce, marketing. Né sous le nom **Flexy/FlexyBeauty** en **2014**, fusionné avec **LeCiseau** en 2020 pour devenir **Kiute**, puis **racheté par Booksy** (Pologne, leader mondial de la réservation beauté) **fin 2021**. Fondateurs historiques : **Ilan Koskas** (CEO), **Jean de La Porte** (VP Sales), **Nael Hamameh** (VP Product & Tech). Financement pré-acquisition : **8,5M€** (Newfund, Serena Capital). Au moment du rachat : **10 000 salons partenaires** (4 500 coiffure + 5 500 beauté), **250 000 réservations/mois**, **120M€ de volume d'affaires additionnel/an**. **⚠️ Migration vers Booksy Biz achevée fin 2025** — les comptes non migrés sont passés en lecture seule au 31/12/2025. La marque Kiute Pro disparaît progressivement. Pricing : à partir de **49€ HT/mois** (+10€ HT/mois par collaborateur supplémentaire). Trustpilot : **1.2/5** (223 avis) — problèmes techniques post-migration.
 
-### Alternative à
+## Alternative à
 
 Treatwell, Planity, Booksy (maison mère), Timify, Calendly (basique), Wavy, My Salon Manager. Kiute Pro se distinguait par son **positionnement français** (interface, support et marketing adaptés au marché français de la coiffure et de la beauté), son **tout-en-un** (caisse + réservation + CRM + e-commerce dans un seul outil — pas besoin de 4 logiciels), et son **volume** (10 000 salons, 250K réservations/mois). Depuis le rachat par Booksy, l'outil migre vers l'écosystème Booksy international.
 
-## Bénéfices
+# Bénéfices
 
 **Tout-en-un salon** — Caisse (encaissement, tickets), agenda (planning des collaborateurs), réservation en ligne (les clients réservent 24/7), CRM (historique client, préférences, rappels), et même boutique e-commerce (vente de produits capillaires en ligne). Un seul logiciel pour tout gérer.
 
@@ -38,7 +38,7 @@ Treatwell, Planity, Booksy (maison mère), Timify, Calendly (basique), Wavy, My 
 
 **Marketing intégré** — SMS de rappel de RDV, emails promotionnels, offres anniversaire, programme de fidélité. Tout est automatisé depuis la plateforme.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - Salons de coiffure indépendants
 - Instituts de beauté et spas
@@ -47,7 +47,7 @@ Treatwell, Planity, Booksy (maison mère), Timify, Calendly (basique), Wavy, My 
 - Ongleries
 - Réseaux de salons (franchises beauté)
 
-## Comment Utiliser Kiute Pro / Booksy Biz
+# Comment Utiliser Kiute Pro / Booksy Biz
 
 1. **Inscription** — Crée ton compte sur [pro.kiute.com](https://pro.kiute.com/) (redirige vers Booksy Biz)
 2. **Configuration** — Paramètre tes services (coupes, couleurs, soins), tes prix, tes collaborateurs et leurs plannings
@@ -56,9 +56,9 @@ Treatwell, Planity, Booksy (maison mère), Timify, Calendly (basique), Wavy, My 
 5. **Caisse** — Encaisse en fin de prestation. Ticket conforme
 6. **Fidélité** — Active le programme de fidélité et les campagnes marketing automatisées
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Agenda et réservation
+## Agenda et réservation
 
 - **Réservation en ligne** — Clients réservent 24/7
 - **Agenda par collaborateur** — Planning individuel par coiffeur/esthéticienne
@@ -66,32 +66,32 @@ Treatwell, Planity, Booksy (maison mère), Timify, Calendly (basique), Wavy, My 
 - **Liste d'attente** — Gestion des créneaux libérés
 - **Google Reserve** — Réservation directe depuis Google Maps
 
-### Caisse
+## Caisse
 
 - **Encaissement** — Multi-paiement (espèces, CB, chèque)
 - **Ticket de caisse** — Impression ou email
 - **Remises** — Promotions, bons de réduction
 - **Z de caisse** — Clôture quotidienne conforme
 
-### CRM et marketing
+## CRM et marketing
 
 - **Fiches clients** — Historique des prestations, préférences, allergies
 - **Fidélité** — Programme de points et récompenses
 - **Campagnes SMS/Email** — Offres promotionnelles, anniversaires
 - **Avis clients** — Collecte et gestion
 
-### E-commerce
+## E-commerce
 
 - **Boutique en ligne** — Vente de produits capillaires et cosmétiques
 - **Click & Collect** — Commande en ligne, retrait en salon
 
-### Reporting
+## Reporting
 
 - **CA par collaborateur** — Performance individuelle
 - **CA par service** — Quels soins génèrent le plus de revenus
 - **Fréquentation** — Analyse des créneaux horaires
 
-## Prix
+# Prix
 
 | Élément | Prix |
 |---------|------|
@@ -103,7 +103,7 @@ Treatwell, Planity, Booksy (maison mère), Timify, Calendly (basique), Wavy, My 
 
 *Source : [Kiute Pro](https://pro.kiute.com/)*
 
-## Intégrations
+# Intégrations
 
 - **Google** : Réservation via Google Reserve / Google Maps
 - **SMS** : Rappels automatiques de RDV
@@ -111,7 +111,7 @@ Treatwell, Planity, Booksy (maison mère), Timify, Calendly (basique), Wavy, My 
 - **E-commerce** : Boutique en ligne intégrée
 - **Booksy** : Migration vers l'écosystème Booksy international
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **2014** — Création de **FlexyBeauty** (puis Flexy) par **Ilan Koskas**, **Jean de La Porte** et **Nael Hamameh**. Logiciel de gestion pour salons de coiffure et beauté
 - **2014-2019** — Croissance rapide dans le marché français de la coiffure. Levée de **8,5M€** auprès de **Newfund** et **Serena Capital**. L'outil s'enrichit : caisse, réservation en ligne, CRM, marketing
@@ -123,13 +123,13 @@ Treatwell, Planity, Booksy (maison mère), Timify, Calendly (basique), Wavy, My 
 
 *Source : [Kiute Pro](https://pro.kiute.com/), [Booksy](https://booksy.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **Le salon de coiffure de quartier** — Tu as un salon avec 3 coiffeurs. Kiute Pro/Booksy gère le planning de chaque coiffeur, les réservations en ligne (tes clients réservent à 23h depuis leur canapé), les rappels SMS (réduit les no-shows de 30%), et la caisse en fin de prestation. Tu gagnes 2h/jour de gestion administrative.
 
 **L'institut de beauté qui fidélise** — Tes clientes viennent pour l'épilation, la manucure, les soins du visage. La fiche client Kiute Pro mémorise leurs préférences, leurs allergies, leur historique. L'anniversaire de Marie ? Un SMS automatique avec -20% sur son soin préféré.
 
-## Points Forts
+# Points Forts
 
 - 10 000 salons partenaires (au moment du rachat) — leader historique français
 - Tout-en-un salon : caisse + réservation + agenda + CRM + e-commerce + marketing
@@ -139,7 +139,7 @@ Treatwell, Planity, Booksy (maison mère), Timify, Calendly (basique), Wavy, My 
 - Réservation Google Reserve intégrée
 - Rappels SMS automatiques
 
-## Points Faibles
+# Points Faibles
 
 - **⚠️ Migration Booksy problématique** — Trustpilot 1.2/5 (223 avis). Les utilisateurs rapportent des bugs, des lenteurs, des fonctionnalités manquantes après la migration vers Booksy Biz. C'est le point faible majeur
 - **Marque en voie de disparition** — Kiute Pro n'existe plus en tant que tel. C'est Booksy Biz maintenant. Si tu t'abonnes aujourd'hui, c'est Booksy que tu utilises, pas Kiute

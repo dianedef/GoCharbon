@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Gagnez 10 000€ Par Mois En Écrivant Sur Medium La Méthode Secrète Dévoilée
 author: Diane
-description: 'Découvre Gagnez 10 000€ Par Mois En Écrivant Sur Medium La Méthode Secrète
-  Dévoilée : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Gagnez 10 000€ Par Mois En Écrivant Sur Medium La Méthode Secrète Dévoilée."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: L'Inbound Marketing Qui Va Faire Exploser Votre Trafic De 1000%
 author: Diane
-description: 'Découvre L''Inbound Marketing Qui Va Faire Exploser Votre Trafic De
-  1000% : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Inbound Marketing Qui Va Faire Exploser Votre Trafic De 1000%."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

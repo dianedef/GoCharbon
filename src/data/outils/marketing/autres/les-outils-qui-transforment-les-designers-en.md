@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Outils Qui Transforment Les Designers En Artistes De Génie
 author: Diane
-description: 'Découvre Les Outils Qui Transforment Les Designers En Artistes De Génie
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Outils Qui Transforment Les Designers En Artistes De Génie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

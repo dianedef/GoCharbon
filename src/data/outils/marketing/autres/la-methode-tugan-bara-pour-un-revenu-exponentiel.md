@@ -5,7 +5,7 @@ tags:
   - Marketing
 title: 'Tugan Bara : Le Copywriter le Plus Controversé du Web Francophone'
 author: Diane
-description: Qui est Tugan Bara ? Son parcours, sa méthode, ses formations et ce qu'on peut vraiment en retenir pour son business. Analyse sans filtre.
+description: "Qui est Tugan Bara ? Son parcours, sa méthode, ses formations et ce qu'on peut vraiment en retenir pour son business. Analyse sans filtre."
 pubDate: '2026-03-23'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -8,8 +8,7 @@ tags:
 imageNameKey: null
 title: Le Logiciel De Compta Français Qui Va Vous Faire Aimer Les Chiffres
 author: Diane
-description: 'Découvre Le Logiciel De Compta Français Qui Va Vous Faire Aimer Les
-  Chiffres : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Logiciel De Compta Français Qui Va Vous Faire Aimer Les Chiffres."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

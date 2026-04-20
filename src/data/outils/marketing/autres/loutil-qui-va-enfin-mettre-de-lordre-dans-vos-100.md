@@ -7,8 +7,7 @@ imageNameKey: organiser-onglets-navigateur
 u_site: null
 title: L'Outil Qui Va Enfin Mettre De L'Ordre Dans Vos 100 Onglets Ouverts
 author: Diane
-description: 'Découvre L''Outil Qui Va Enfin Mettre De L''Ordre Dans Vos 100 Onglets
-  Ouverts : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Outil Qui Va Enfin Mettre De L'Ordre Dans Vos 100 Onglets Ouverts."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

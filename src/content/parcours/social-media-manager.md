@@ -44,7 +44,7 @@ Transformer les réseaux sociaux en canal acquisition et rétention.
 - [Fiche profil Social Media Manager](/biz/profils/social-media-manager)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/social-media-manager)
+- [Suivi du parcours](/parcours/gestionnaire-reseaux-sociaux)
 - [Ressource utile 1](/marketing/social/strategie)
 - [Ressource utile 2](/marketing/social/community)
 - [Ressource utile 3](/tutos/comment-organiser-un-concours-sur-les-reseaux)

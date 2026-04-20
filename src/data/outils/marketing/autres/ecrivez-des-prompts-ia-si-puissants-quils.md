@@ -13,8 +13,7 @@ tags:
 - Outils
 title: Écrivez Des Prompts Ia Si Puissants Qu'Ils Pourraient Remplacer Votre Équipe
 author: Diane
-description: 'Découvre Écrivez Des Prompts Ia Si Puissants Qu''Ils Pourraient Remplacer
-  Votre Équipe : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Écrivez Des Prompts Ia Si Puissants Qu'Ils Pourraient Remplacer Votre Équipe."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

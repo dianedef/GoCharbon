@@ -7,8 +7,7 @@ imageNameKey: emrys-nutrition
 u_site: null
 title: Emrys Nutrition Le Plan Minceur Qui Affole L'Industrie De La Diététique
 author: Diane
-description: 'Découvre Emrys Nutrition Le Plan Minceur Qui Affole L''Industrie De
-  La Diététique : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Emrys Nutrition Le Plan Minceur Qui Affole L'Industrie De La Diététique."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

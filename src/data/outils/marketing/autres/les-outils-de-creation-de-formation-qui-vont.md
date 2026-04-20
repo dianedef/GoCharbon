@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Outils De Création De Formation Qui Vont Faire De Vous Un Millionnaire
 author: Diane
-description: 'Découvre Les Outils De Création De Formation Qui Vont Faire De Vous
-  Un Millionnaire : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Outils De Création De Formation Qui Vont Faire De Vous Un Millionnaire."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

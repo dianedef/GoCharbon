@@ -1,16 +1,15 @@
 ---
 section: parcours
-title: Copywriter / Rédacteur Publicitaire
+title: Copywriter freelance
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Deviens copywriter freelance : techniques de persuasion, niches rentables
-  et stratégies d''acquisition clients.'
+description: 'Écrire pour vendre sans écrire comme un robot de tunnel de vente.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Copywriter / Rédacteur Publicitaire
+# Copywriter freelance
 
 ## Description en une phrase
 

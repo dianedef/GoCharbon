@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: 10 Règles Boostant Le Cerveau Qui Vont Vous Donner Des Pouvoirs Mentaux Surhumains
 author: Diane
-description: 'Découvre 10 Règles Boostant Le Cerveau Qui Vont Vous Donner Des Pouvoirs
-  Mentaux Surhumains : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "10 Règles Boostant Le Cerveau Qui Vont Vous Donner Des Pouvoirs Mentaux Surhumains."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

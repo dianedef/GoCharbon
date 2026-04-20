@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: 10 Logiciels D'Analyse Marketing Qui Vont Faire Exploser Vos Ventes
 author: Diane
-description: 'Découvre 10 Logiciels D''Analyse Marketing Qui Vont Faire Exploser Vos
-  Ventes : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "10 Logiciels D'Analyse Marketing Qui Vont Faire Exploser Vos Ventes."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

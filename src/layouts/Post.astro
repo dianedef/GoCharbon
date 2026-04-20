@@ -19,7 +19,7 @@ interface Props {
 	description: string;
 	title: string;
 	id: string;
-	imgUrl: ImageMetadata;
+	imgUrl: ImageMetadata | string;
 	tags?: string[];
 	section?: "blog" | "outils" | "tutos" | "parcours";
 	toolCategoryPrimary?: string;
@@ -46,6 +46,7 @@ const {
 	Astro.props;
 const slug = Astro.params.slug as string;
 const category = tags?.[0]?.toLowerCase();
+const hasStringImage = typeof imgUrl === "string";
 
 const matchingPaths = learningPaths.filter(path =>
 	path.modules.some(mod =>
@@ -89,14 +90,25 @@ const toolSchema = isToolPage
 				<div
 					class="rounded-lg border-3 border-black dark:border-white h-24 md:h-56"
 				>
-					<Image
-						src={imgUrl}
-						alt={description}
-						width={800}
-						height={400}
-						class="rounded h-full w-full object-cover"
-						transition:name={`image-${id}`}
-					/>
+					{hasStringImage ? (
+						<img
+							src={imgUrl}
+							alt={description}
+							width="800"
+							height="400"
+							class="rounded h-full w-full object-cover"
+							transition:name={`image-${id}`}
+						/>
+					) : (
+						<Image
+							src={imgUrl}
+							alt={description}
+							width={800}
+							height={400}
+							class="rounded h-full w-full object-cover"
+							transition:name={`image-${id}`}
+						/>
+					)}
 				</div>
 				<Content
 					postId={id}

@@ -2,18 +2,18 @@
 section: blog
 tags:
   - Marketing
-title: 'Tugan Bara : Le Copywriter le Plus Controversé du Web Francophone'
+title: "Tugan Bara : ce qu'il faut garder, et ce qu'il vaut mieux laisser"
 author: Diane
-description: Qui est Tugan Bara ? Son parcours, sa méthode, ses formations et ce qu'on peut vraiment en retenir pour son business. Analyse sans filtre.
-pubDate: '2026-03-23'
+description: Analyse du parcours et de la méthode de Tugan Bara, avec un regard utile sur ce qui peut servir à un entrepreneur et ce qui relève surtout du personnage.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Tugan Bara : Le Copywriter le Plus Controversé du Web Francophone
+# Tugan Bara : ce qu'il faut garder, et ce qu'il vaut mieux laisser
 
-Si tu traînes dans le marketing digital francophone, tu es forcément tombé sur Tugan Bara. Soit tu as reçu un de ses emails (il en envoie beaucoup), soit quelqu'un t'a recommandé ses formations, soit tu as vu une pub YouTube où un type en chemise te promet des revenus exponentiels depuis Dubaï.
+Si tu traînes dans le marketing digital francophone, tu es forcément tombé sur Tugan Bara. Soit via ses emails, soit via ses formations, soit via un avis extrêmement enthousiaste, soit via un avis extrêmement énervé.
 
-Les avis sont tranchés. Génie du copywriting pour les uns, vendeur de rêves pour les autres. La réalité est plus nuancée — et plus intéressante — que les deux camps.
+Les avis sont tranchés. Génie du copywriting pour les uns, vendeur de rêves pour les autres. Comme souvent, la partie utile se trouve au milieu : derrière le personnage, il y a de vrais concepts intéressants, mais aussi beaucoup d'emballage qu'il vaut mieux ne pas copier.
 
 ## Qui est Tugan Bara ?
 

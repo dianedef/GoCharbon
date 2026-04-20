@@ -44,7 +44,7 @@ Livrer des données propres et exploitables pour équipes sales/ops.
 - [Fiche profil Data Entry Specialist](/biz/profils/data-entry-specialist)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/data-entry-specialist)
+- [Suivi du parcours](/parcours/operateur-saisie-donnees)
 - [Ressource utile 1](/tutos/enrichir-une-liste-avec-des-numeros-de-telephones)
 - [Ressource utile 2](/tutos/extraction-leads-google-maps)
 - [Ressource utile 3](/tutos/construire-un-tableau-de-bord-personnalise-sur)

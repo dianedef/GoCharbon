@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Devenez Un Monstre De Productivité La Méthode Qui Affole Les Experts
 author: Diane
-description: 'Découvre Devenez Un Monstre De Productivité La Méthode Qui Affole Les
-  Experts : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Devenez Un Monstre De Productivité La Méthode Qui Affole Les Experts."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

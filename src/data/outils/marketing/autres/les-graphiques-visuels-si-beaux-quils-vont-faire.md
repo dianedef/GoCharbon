@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Les Graphiques Visuels Si Beaux Qu'Ils Vont Faire Pleurer Vos Clients
 author: Diane
-description: 'Découvre Les Graphiques Visuels Si Beaux Qu''Ils Vont Faire Pleurer
-  Vos Clients : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Graphiques Visuels Si Beaux Qu'Ils Vont Faire Pleurer Vos Clients."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -1,101 +1,143 @@
 ---
 section: blog
-title: Facebook & Instagram Ads
+title: 'Social Ads : quelle plateforme choisir selon ton offre'
 author: Diane
 tags:
 - Marketing
-description: Guide complet pour maîtriser la publicité sur les réseaux sociaux Meta
-pubDate: '2024-03-25'
+description: "Meta, LinkedIn, TikTok, Pinterest ou YouTube : comment choisir la bonne plateforme social ads selon ton audience, ton offre et ton niveau de maturité."
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Facebook & Instagram Ads
+# Social Ads : quelle plateforme choisir selon ton offre
 
-## Fondamentaux des Social Ads
+“Faire des social ads” ne veut pas dire grand-chose. Une campagne LinkedIn pour un SaaS B2B et une campagne TikTok pour un produit visuel n’ont ni le même rythme, ni les mêmes coûts, ni les mêmes créas, ni les mêmes attentes.
 
-### Structure des Campagnes
+Le problème de beaucoup de guides sur le sujet, c’est qu’ils mettent tout dans le même sac. Ensuite les gens se demandent pourquoi leur campagne “réseaux sociaux” ne performe pas.
 
-- Objectifs publicitaires
-- Ensembles de publicités
-- Publicités individuelles
-- Placements
+## Ce que les social ads savent faire
 
-### Types de Campagnes
-1. **Notoriété**
-   - Couverture
-   - Notoriété de la marque
-   - Portée
+Les plateformes sociales sont très utiles pour :
 
-2. **Considération**
-   - Trafic
-   - Engagement
-   - Installation d'applications
-   - Vues de vidéos
-   - Génération de leads
-   - Messages
+- créer de la demande
+- tester des angles marketing rapidement
+- recibler des visiteurs
+- relancer une audience déjà exposée à la marque
+- accompagner un tunnel plus large
 
-3. **Conversion**
-   - Conversions
-   - Ventes catalogue
-   - Trafic en magasin
+Elles sont moins efficaces quand tu attends d’elles la précision d’une requête Google.
 
-## Ciblage Avancé
+## Meta : le couteau suisse
 
-### Options de Ciblage
-- Données démographiques
-- Centres d'intérêt
-- Comportements
-- Connexions
+Meta est souvent le point de départ le plus logique pour :
 
-### Audiences Personnalisées
-- Liste d'emails
-- Trafic site web
-- Engagement application
-- Engagement Facebook
-- Lookalike audiences
+- l’e-commerce
+- les produits ou services grand public
+- les offres avec une promesse visuelle forte
+- le retargeting
 
-## Création de Publicités
+La force de Meta, c’est la vitesse de test et la variété de formats. Sa faiblesse, c’est qu’une mauvaise créa y meurt très vite.
 
-### Formats Publicitaires
-- Images
-- Vidéos
-- Carrousel
-- Collection
-- Stories
-- Reels
+Lire : [Meta Ads](/marketing/ads/meta)
 
-### Optimisation Créative
-- Tests A/B
-- Dynamic Creative
-- Adaptation des formats
-- Best practices créatives
+## LinkedIn : cher, mais parfois très rationnel
 
-## Mesure et Optimisation
+LinkedIn n’est pas le canal des petits paniers ni des offres floues. En revanche, si tu vends à un poste précis ou à un type d’entreprise précis, la plateforme peut éviter beaucoup de dispersion.
 
-### Pixel Facebook
-- Installation
-- Événements standards
-- Événements personnalisés
-- Conversions
+LinkedIn rappelle d’ailleurs que ses `Lead Gen Forms` permettent de récupérer des données pré-remplies directement dans la plateforme, ce qui réduit la friction ([LinkedIn Lead Gen Forms](https://business.linkedin.com/de/de/advertise/resources/marketing-terms/lead-gen-forms)).
 
-### Analytics et Reporting
-- Gestionnaire de publicités
-- Attribution
-- ROAS
-- Coût par résultat
+Lire : [LinkedIn Ads](/marketing/ads/linkedin)
 
-## Stratégies Avancées
+## TikTok : créa d’abord
 
-### Remarketing
-- Segments d'audience
-- Séquences publicitaires
-- Cross-selling
-- Up-selling
+TikTok peut produire de très bons résultats, mais seulement si tu joues le jeu natif :
 
-### Automatisation
-- Rules
-- Budget optimization
-- Dynamic ads
-- Catalogue produits
+- rythme rapide
+- hook immédiat
+- contenu qui ressemble à la plateforme
+- angle incarné
 
-[Découvrir LinkedIn Ads →](/marketing/ads/linkedin) 
+Si tu balances une vieille pub carrée sous-titrée à moitié, tu gaspilles ton budget.
+
+## Pinterest : sous-estimé pour certains usages
+
+Pinterest est intéressant pour les sujets où les gens viennent déjà chercher des idées :
+
+- déco
+- mode
+- mariage
+- food
+- DIY
+- certains univers formation ou organisation
+
+Ce n’est pas la plateforme la plus universelle, mais elle peut être très propre quand l’offre colle à l’usage.
+
+## YouTube : demande créée + preuve
+
+YouTube se situe un peu entre search et social. Tu peux y travailler la découverte, la démonstration et la répétition.
+
+Très utile si tu sais :
+
+- expliquer
+- montrer un produit
+- raconter un avant / après
+- prouver quelque chose
+
+## Comment choisir sans te perdre
+
+Pose-toi ces questions :
+
+1. Mon offre se comprend-elle en `3` secondes ou a-t-elle besoin d’explication ?
+2. Ai-je du visuel ou de la vidéo crédible ?
+3. Ma cible est-elle en mode découverte ou en mode recherche ?
+4. Mon panier moyen supporte-t-il un CPC plus élevé ?
+
+### Si tu vends en B2C ou en DTC
+
+Commence souvent par Meta.
+
+### Si tu vends en B2B avec une cible précise
+
+Teste LinkedIn si ton économie tient.
+
+### Si ton offre est ultra visuelle ou démonstrative
+
+Teste TikTok ou YouTube.
+
+### Si ton produit vit dans un univers d’inspiration
+
+Pinterest peut être plus malin que tu ne crois.
+
+## Ce qui reste vrai sur toutes les plateformes
+
+### Le message compte plus que le format
+
+Le bon format renforce le message. Il ne remplace pas l’idée.
+
+### Le suivi doit être propre
+
+Sans tracking, tu surinterprètes des métriques de surface.
+
+### La page de destination fait partie de la campagne
+
+Une pub ne convertit pas seule.
+
+### La créa fatigue
+
+Même une bonne annonce peut s’user. C’est normal.
+
+## Une méthode simple pour une petite équipe
+
+1. choisis une seule plateforme principale
+2. teste `3 à 5` angles créatifs
+3. garde une structure lisible
+4. mesure la qualité des leads ou des ventes
+5. ajoute un deuxième canal seulement quand le premier tient
+
+Le meilleur choix n’est pas la plateforme la plus à la mode. C’est celle que tu peux **nourrir, mesurer et optimiser correctement**.
+
+Pour aller plus loin :
+
+- [Meta Ads](/marketing/ads/meta)
+- [LinkedIn Ads](/marketing/ads/linkedin)
+- [Google Ads](/marketing/ads/google)

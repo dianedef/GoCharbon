@@ -7,8 +7,7 @@ tags:
 - Outils
 title: Le Logiciel De Centre D'Appel Français Qui Va Rendre Vos Clients Accros
 author: Diane
-description: 'Découvre Le Logiciel De Centre D''Appel Français Qui Va Rendre Vos Clients
-  Accros : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Le Logiciel De Centre D'Appel Français Qui Va Rendre Vos Clients Accros."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

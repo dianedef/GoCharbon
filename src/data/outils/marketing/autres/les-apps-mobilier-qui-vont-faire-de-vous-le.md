@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Les Apps Mobilier Qui Vont Faire De Vous Le Nouveau Philippe Starck
 author: Diane
-description: 'Découvre Les Apps Mobilier Qui Vont Faire De Vous Le Nouveau Philippe
-  Starck : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Apps Mobilier Qui Vont Faire De Vous Le Nouveau Philippe Starck."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

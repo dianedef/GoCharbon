@@ -1,234 +1,39 @@
 ---
 section: tutos
+type: tuto
+imageNameKey: null
 tags:
 - Tutoriels
-imageNameKey: null
 u_site: null
-title: Comment Créer Un Webinaire
+title: 'Comment créer un webinaire qui retient vraiment l''attention'
 author: Diane
-description: 'Découvre Comment Créer Un Webinaire : outil français pour entrepreneurs,
-  fonctionnalités et avis.'
-pubDate: '2024-03-25'
+description: 'Tutoriel pratique pour créer un webinaire qui retient vraiment l''attention : étapes propres, erreurs à éviter et mise en place sans blabla.'
+pubDate: 2026-04-19
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# Comment Creer Un Webinaire
+# Comment créer un webinaire qui retient vraiment l'attention
 
-## WEBINAIRE : LA MACHINE A CONVERSION QUE TU N'UTILISES PAS ASSEZ
+Si tu veux créer un webinaire qui retient vraiment l'attention, ne pars pas d'une théorie brillante. Pars d'un problème réel, d'une offre claire et d'un canal de distribution que tu peux vraiment tenir dans la durée.
 
-Un webinaire bien fait, c'est le meilleur outil de vente en ligne. Un taux de conversion moyen de 20-40 % contre 2-5 % pour une landing page classique. Le problème : la plupart des webinaires sont ennuyeux. Voici comment en creer un qui convertit.
+## Ce qu'il faut préparer
 
----
+- le problème que tu veux résoudre
+- le public exact
+- une manière réaliste de distribuer ton offre ou ton contenu
 
-## Choisir Ta Plateforme
+## La méthode simple
 
-| Plateforme | Prix | Participants max | Replay | Specificite |
-|-----------|------|-----------------|--------|-------------|
-| Zoom Workplace | Gratuit (40 min) / Pro 13,33 USD/mois (annuel) | 100-1000 | Oui | Le plus connu, IA Companion |
-| Zoom Webinars | A partir de 79 USD/mois (500 participants) | 500-10 000 | Oui | Add-on dedié webinaire |
-| Livestorm | Pro a 99 USD/mois (79 USD annuel), 100 contacts actifs | 100-3000 | Oui | Français, automatisation, on-demand |
-| WebinarJam | Starter 49 USD/mois (100 participants) / Basic 99 USD/mois (500) / Pro 229 USD/mois (2000) | 100-5000 | Oui | Oriente vente, CTA en direct |
-| Google Meet | Gratuit (1h) / Business 12 EUR/mois | 100-500 | Oui (Workspace) | Déjà dans Google |
-| StreamYard | Gratuit / 20 USD/mois | Illimite (streaming) | Non | Multi-plateforme |
+1. Commence par l'offre et l'usage, pas par le branding. Le plus gros risque au début, c'est de polir une coquille vide.
+2. Teste ton idée sur un périmètre réduit : une niche, une promesse, un canal, une page, un message. Tu apprendras plus vite et tu éviteras la dispersion.
+3. Garde ensuite une boucle courte entre retour terrain et amélioration. Le bon plan n'est pas figé : il se corrige dès que les signaux réels arrivent.
 
-### Recommandation par profil
+## Les erreurs à éviter
 
-- **Premier webinaire** : Zoom Workplace Pro (13,33 USD/mois annuel, tout le monde connait, 100 participants, 30h de reunion). Pour des webinaires dédiés, ajoute Zoom Webinars a 79 USD/mois (500 participants, page d'inscription, Q&A integre).
-- **Automatisation + replays** : Livestorm (inscription, rappels automatiques, suivi integres, webinaires on-demand et automatises). Plateforme française, dashboard en 3 langues, salle d'événement en 24 langues. Plan Pro a 99 USD/mois (79 USD en annuel). Plan gratuit disponible avec 30 contacts actifs par mois.
-- **Tunnel de vente** : WebinarJam (offres en direct, compteur d'urgence, bouton CTA, sondages, chat). Starter a 49 USD/mois (100 participants, 2h max), Basic a 99 USD/mois (500 participants). Trial a 1 USD pendant 14 jours disponible.
-- **Budget zero** : Google Meet + formulaire Google Forms
+- élargir trop vite le périmètre
+- construire sans parler au marché
+- essayer de résoudre dix problèmes à la fois
 
----
+## Commence comme ça
 
-## La Structure d'un Webinaire Qui Convertit
-
-### Durée ideale : 45-60 minutes
-
-| Temps | Section | Objectif |
-|-------|---------|----------|
-| 0-5 min | Accueil | Saluer, presenter l'agenda, creer du lien |
-| 5-10 min | Ton histoire | Credibilite + empathie (tu es passe par la aussi) |
-| 10-35 min | Contenu de valeur | 3 points clés avec des exemples concrets |
-| 35-45 min | Transition + offre | Presenter ta solution |
-| 45-60 min | Q&A + cloture | Repondre aux objections, dernier appel à l'action |
-
----
-
-## Étape 1 : Definir Le Sujet
-
-Ton sujet doit repondre a un problème précis de ton audience. Pas "Comment réussir en ligne" mais "Comment obtenir ses 100 premiers clients en 30 jours".
-
-### Formule de titre qui marche
-
-- "Comment [resultat desire] sans [obstacle principal]"
-- "Les [X] erreurs qui [consequence negative] (et comment les eviter)"
-- "[Resultat chiffre] en [durée] : la methode pas a pas"
-
-### Test : si ton titre ne donne pas envie de bloquer 1h dans son agenda, reformule-le.
-
----
-
-## Étape 2 : Preparer Le Contenu
-
-### La règle des 80/20
-
-- **80 % de contenu de valeur** : enseigne quelque chose d'actionnable
-- **20 % de promotion** : presente ton offre à la fin
-
-Si tu fais l'inverse, les gens partent.
-
-### Structure du contenu
-
-1. **Le problème** : decris la situation douloureuse de ton audience (ils doivent se reconnaitre)
-2. **Pourquoi les solutions classiques echouent** : montre que tu comprends ce qu'ils ont déjà essaye
-3. **Ta methode** : presente 3 etapes ou principes clés avec des exemples
-4. **La preuve** : temoignages, resultats, etudes de cas
-5. **L'offre** : presente ton produit/service comme la suite logique
-
-### Slides
-
-- Maximum 30-40 slides pour 1 heure
-- 1 idée par slide
-- Peu de texte, beaucoup de visuels
-- Police grande (lisible même sur un telephone)
-- Pas d'animations excessives
-
----
-
-## Étape 3 : La Page d'Inscription
-
-Tu as besoin d'une landing page dediee. Elements essentiels :
-
-- **Titre accrocheur** (le même que ton webinaire)
-- **Date et heure** clairement affichees
-- **3-4 bullet points** sur ce que les participants vont apprendre
-- **Ta photo + bio courte** (credibilite)
-- **Formulaire simple** : prenom + email (plus tu demandes de champs, moins tu as d'inscrits)
-- **Compteur d'urgence** si tu veux (mais pas obligatoire)
-
-Outils pour la landing page : Système.io (gratuit, très populaire en France), Leadpages, Carrd.co (simple et rapide), ou directement la page d'inscription integree de Livestorm/WebinarJam. Livestorm et WebinarJam proposent des landing pages personnalisables directement dans l'outil, avec possibilite de les embedder sur ton site.
-
----
-
-## Étape 4 : Remplir Le Webinaire
-
-### Emails
-
-- Email 1 : invitation (J-14 a J-7)
-- Email 2 : rappel avec un apercu du contenu (J-3)
-- Email 3 : rappel la veille (J-1)
-- Email 4 : rappel 1h avant (le jour même)
-- Email 5 : "On commence dans 15 minutes" (le plus important)
-
-En moyenne, 30-40 % des inscrits se presentent. Plus tu envoies de rappels, plus le taux monte.
-
-### Réseaux sociaux
-
-- Publie 3-5 posts avant le webinaire (annonce, teasing, rappel)
-- Fais un live ou une story le jour même pour rappeler
-- Partage dans les groupes Facebook/LinkedIn pertinents
-
-### Publicite payante (optionnel)
-
-- Facebook/Instagram Ads : cible ton audience ideale
-- Budget minimum : 5-10 EUR/jour pendant 7-14 jours
-- Coût par inscrit typique : 2-8 EUR
-
----
-
-## Étape 5 : Pendant Le Webinaire
-
-### Les 5 premieres minutes
-
-- **Commence a l'heure** (les retardataires rattraperont)
-- Presente-toi en 30 secondes max
-- Annonce le plan du webinaire
-- Dis aux gens de couper leurs distractions (ca augmente la retention)
-- Lance un sondage ou une question pour engager des le debut
-
-### Garder l'attention
-
-- **Pose des questions** toutes les 5-10 minutes ("tapez 1 dans le chat si vous etes dans cette situation")
-- **Utilise le chat** activement (reponds aux messages)
-- **Varie les formats** : slides, demo en direct, partage d'ecran, face camera
-- **Raconte des histoires** : anecdotes, cas clients, ton propre parcours
-- **Ne lis pas tes slides** : parle naturellement
-
-### L'offre (les 10 dernieres minutes)
-
-1. Resume ce qu'ils ont appris
-2. Transition : "Maintenant, si tu veux aller plus loin..."
-3. Presente ton offre clairement (resultat + prix + bonus)
-4. Ajoute de l'urgence : "offre valable uniquement pendant le webinaire" (si c'est vrai)
-5. Donne le lien d'achat dans le chat et sur un slide
-6. Reponds aux objections classiques dans le Q&A
-
----
-
-## Étape 6 : Après Le Webinaire
-
-### Le replay
-
-- Envoie le replay dans les 24h a tous les inscrits (presents et absents)
-- Le replay génère souvent 30-50 % des ventes en plus
-- Limite la disponibilite du replay (48-72h) pour creer de l'urgence
-
-### La sequence email post-webinaire
-
-- **J+0** : merci + lien replay + lien offre
-- **J+1** : contenu complementaire + temoignage client + lien offre
-- **J+2** : réponse aux objections courantes + dernier rappel
-- **J+3** : derniere chance (fermeture de l'offre)
-
----
-
-## Setup Technique Minimum
-
-- **Micro correct** : un micro cravate a 20 EUR suffit pour commencer
-- **Camera** : ta webcam ou ton telephone (propre et bien eclaire)
-- **Internet** : connexion filaire si possible (pas de WiFi instable)
-- **Eclairage** : face à une fenêtre ou avec une ring light basique
-- **Fond** : propre et non distrayant (un mur uni ou un fond virtuel)
-- **Test** : fais un test technique 30 minutes avant le live
-
----
-
-## Erreurs Courantes
-
-- Trop de contenu, pas assez de vente (tu as 0 conversion)
-- Trop de vente, pas assez de contenu (les gens partent a la moitie)
-- Ne pas relancer les inscrits absents (ils representent 60-70 % de ta liste)
-- Un titre vague qui ne donne pas envie de s'inscrire
-- Ignorer le chat pendant la presentation (les gens se sentent ignores)
-- Ne pas avoir de page de vente prete AVANT le webinaire
-
----
-
----
-
-## Webinaires Automatises et On-Demand
-
-Un avantage enorme des plateformes modernes : les **webinaires automatises**. Tu enregistres ton webinaire une fois, puis il tourne en boucle comme s'il etait en direct.
-
-### Pourquoi c'est puissant
-
-- Tu fais le travail une seule fois mais tu generes des inscriptions et des ventes en continu
-- Les participants pensent que c'est en direct (le chat est souvent simule ou pre-rempli)
-- Tu peux tester differentes versions pour optimiser le taux de conversion
-
-### Outils qui gerent les webinaires automatises
-
-- **Livestorm** : webinaires on-demand et automatises inclus dans tous les plans payants. Les replays sont automatiquement transcrits.
-- **WebinarJam** : webinaires automatises inclus a partir du plan Basic (99 USD/mois). Possibilite de simuler un live avec des interactions pre-enregistrees.
-- **EverWebinar** (du même editeur que WebinarJam) : specialise 100 % dans les webinaires automatises, a partir de 99 USD/mois.
-- **Système.io** : propose des webinaires automatises dans le plan gratuit (limites) et les plans payants.
-
----
-
-## Ressources
-
-- [My Favorite Webinar Tip](https://www.youtube.com/watch?v=xEtsliDozvQ)
-- [Livestorm](https://livestorm.co/) (plateforme française, Pro a 99 USD/mois, plan gratuit disponible)
-- [WebinarJam](https://webinarjam.com/) (a partir de 49 USD/mois, trial a 1 USD/14 jours)
-- [Zoom Workplace](https://zoom.us/) (Pro a 13,33 USD/mois annuel, Webinars add-on a 79 USD/mois)
-- [Système.io](https://systeme.io/) (landing pages + email + webinaires, plan gratuit genereux)
+Écris ta promesse en une phrase, crée une offre ou un prototype minimal, puis regarde si quelqu'un veut vraiment passer à l'action.

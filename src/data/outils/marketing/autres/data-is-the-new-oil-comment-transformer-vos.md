@@ -11,8 +11,7 @@ tags:
 - Outils
 title: Data Is The New Oil Comment Transformer Vos Données En Or Massif
 author: Diane
-description: 'Découvre Data Is The New Oil Comment Transformer Vos Données En Or Massif
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Data Is The New Oil Comment Transformer Vos Données En Or Massif."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

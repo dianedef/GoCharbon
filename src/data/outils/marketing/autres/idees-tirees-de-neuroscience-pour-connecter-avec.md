@@ -8,8 +8,7 @@ tags:
 - Outils
 title: Idées Tirées De Neuroscience Pour Connecter Avec Votre Client
 author: Diane
-description: 'Découvre Idées Tirées De Neuroscience Pour Connecter Avec Votre Client
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Idées Tirées De Neuroscience Pour Connecter Avec Votre Client."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Les Podcasts Extra Qui Vont Booster Votre Qi De 50 Points
 author: Diane
-description: 'Découvre Les Podcasts Extra Qui Vont Booster Votre Qi De 50 Points :
-  outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Podcasts Extra Qui Vont Booster Votre Qi De 50 Points."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

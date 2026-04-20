@@ -1,17 +1,17 @@
 ---
 section: blog
-title: 'Jean Rivière : Le Marketeur Discret qui Vit du Web Depuis 2004'
+title: "Jean Rivière : ce qu'un solopreneur peut vraiment apprendre de lui"
 author: Diane
 tags:
   - Marketing
-description: Qui est Jean Rivière (Webmarketing Junkie) ? Son parcours, sa philosophie du marketing naturel, ses formations et ce qu'on peut en retenir.
-pubDate: '2026-03-23'
+description: Analyse du parcours et de la méthode de Jean Rivière, avec ce qu'un entrepreneur solo peut vraiment en retenir sans fantasmer le résultat final.
+pubDate: '2026-04-19'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Jean Rivière : Le Marketeur Discret qui Vit du Web Depuis 2004
+# Jean Rivière : ce qu'un solopreneur peut vraiment apprendre de lui
 
-Si [Tugan Bara](/marketing/copywriting/tugan-bara) est le marketeur bruyant du web francophone, Jean Rivière en est l'exact opposé. Pas de Dubaï, pas de Lamborghini, pas de "revenus exponentiels". Juste un type qui vit du web depuis 2004, qui a créé plus de 400 formations, et qui passe la moitié de l'année dans un chalet en Transylvanie.
+Si [Tugan Bara](/marketing/copywriting/tugan-bara) représente la version bruyante du marketing francophone, Jean Rivière en incarne presque l'inverse. Peu de mise en scène, une logique de catalogue, beaucoup de contenu, et une vision très assumée du business solo.
 
 Et c'est justement ce qui le rend intéressant. Jean Rivière prouve qu'on peut construire un business en ligne durable sans le cirque habituel de l'infoprenariat.
 

@@ -8,8 +8,7 @@ u_site: null
 title: 10 Logiciels Gratuits En Français Qui Vont Propulser Votre Entreprise Sur La
   Lune
 author: Diane
-description: 'Découvre 10 Logiciels Gratuits En Français Qui Vont Propulser Votre
-  Entreprise Sur La Lune : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "10 Logiciels Gratuits En Français Qui Vont Propulser Votre Entreprise Sur La Lune."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

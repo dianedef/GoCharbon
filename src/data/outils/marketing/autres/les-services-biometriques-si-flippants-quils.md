@@ -8,8 +8,7 @@ u_site: null
 title: Les Services Biométriques Si Flippants Qu'Ils Semblent Sortis D'Un Film De
   Sci Fi
 author: Diane
-description: 'Découvre Les Services Biométriques Si Flippants Qu''Ils Semblent Sortis
-  D''Un Film De Sci Fi : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Services Biométriques Si Flippants Qu'Ils Semblent Sortis D'Un Film De Sci Fi."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

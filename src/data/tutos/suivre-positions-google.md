@@ -4,166 +4,105 @@ tags:
 - Tutoriels
 imageNameKey: null
 u_site: null
-title: Suivre Positions Google
+title: Suivre ses positions Google sans se raconter d’histoires
 author: Diane
-description: 'Découvre Suivre Positions Google : outil français pour entrepreneurs,
-  fonctionnalités et avis.'
+description: Mesure tes positions SEO avec Search Console et des outils de suivi pour identifier les vraies opportunités, pas juste flatter ton ego.
 pubDate: '2024-03-25'
 imgUrl: ../../assets/astro.jpeg
 ---
 
-# SUIVRE TES POSITIONS GOOGLE : MESURER POUR PROGRESSER
+Suivre ses positions Google est utile. Les regarder toutes les heures ne l’est pas.
 
-Tu publies du contenu, tu fais du SEO, mais est-ce que ca marche ? Sans suivi de positions, tu navigues a l'aveugle. Savoir exactement ou tu te classes sur tes mots-clés cibles, c'est la base pour mesurer tes progres et ajuster ta stratégie.
+Le bon objectif n’est pas de te rassurer. C’est de repérer :
 
-## Pourquoi suivre tes positions
+- les pages qui commencent à prendre ;
+- les mots-clés proches du top 10 ;
+- les baisses brutales qui méritent une vérification ;
+- les sujets qui te coûtent du temps sans résultat.
 
-- **Mesurer l'impact de tes actions SEO** : un nouvel article, une optimisation technique, un backlink... tu vois l'effet en quelques semaines
-- **Detecter les chutes** : si tu perds 10 positions sur un mot-clé important, tu veux le savoir tout de suite, pas 3 mois plus tard
-- **Identifier les opportunites** : les mots-clés en position 5-15 sont a deux doigts de la première page. Ce sont tes quick wins
-- **Rapporter tes resultats** : a toi-même, a tes clients, ou a ton équipe
+## Le point de départ : Search Console
 
-## Methode 1 : Google Search Console (gratuit)
+Pour un site normal, le premier outil à ouvrir reste Search Console. Google y affiche les clics, impressions, CTR et position moyenne de tes requêtes et de tes pages. Source : [Google Search Central](https://developers.google.com/search/docs/monitor-debug/search-console-start).
 
-C'est le point de depart, et c'est gratuit.
+Ce n’est pas un outil de rank tracking parfait, mais c’est la base la plus fiable pour comprendre ce qui se passe réellement.
 
-1. Va dans Google Search Console > **Performances**
-2. Coche "Position moyenne" dans les métriques
-3. Clique sur l'onglet **Requetes** pour voir tes mots-clés
-4. Tu vois : impressions, clics, CTR, et position moyenne pour chaque mot-clé
+### Ce qu’il faut regarder
 
-**Avantages :**
-- Donnees directes de Google (fiables)
-- Tu decouvres des mots-clés sur lesquels tu te classes sans le savoir
-- Filtres par page, pays, appareil, date
+- les requêtes avec beaucoup d’impressions ;
+- les pages avec un CTR faible ;
+- les mots-clés entre les positions 5 et 20 ;
+- les variations après une mise à jour de contenu.
 
-**Limites :**
-- Position "moyenne" (pas la position exacte en temps reel)
-- Pas d'historique au-dela de 16 mois
-- Pas de suivi de concurrents
-- Interface limitee pour le suivi quotidien
+## Quand passer à un outil dédié
 
-**Astuce** : filtre par position entre 4 et 20, puis trie par impressions decroissantes. Ce sont tes mots-clés a fort potentiel qui meritent une optimisation.
+Si tu gères :
 
-## Methode 2 : Check-position.com (gratuit)
+- beaucoup de pages ;
+- plusieurs pays ;
+- plusieurs clients ;
+- ou un vrai suivi concurrentiel,
 
-[Check-position.com](https://check-position.com/fr/) est un outil français gratuit pour verifier ponctuellement tes positions.
+alors un outil dédié devient pertinent.
 
-1. Entre ton domaine
-2. Ajoute tes mots-clés (un par ligne)
-3. Choisis le pays (France) et la langue
-4. Lance la verification
+Tu peux utiliser :
 
-Tu obtiens la position exacte pour chaque mot-clé. L'outil enregistre l'historique si tu crees un compte gratuit.
+- SE Ranking ;
+- Ahrefs ;
+- Semrush ;
+- AccuRanker ;
+- ou un outil plus léger pour des vérifications ponctuelles.
 
-**Avantages :**
-- Gratuit et en français
-- Position exacte (pas une moyenne)
-- Historique des positions
+## La bonne méthode de suivi
 
-**Limites :**
-- Nombre de verifications limitees par jour en gratuit
-- Pas de suivi automatique quotidien
-- Interface basique
+Ne suis pas 500 mots-clés “au cas où”.
 
-**Note** : cet outil est pratique pour un check ponctuel, mais pour un suivi serieux et quotidien, il vaut mieux passer sur SE Ranking, AccuRanker ou Semrush (voir ci-dessous).
+Fais trois listes :
 
-## Methode 3 : SE Ranking (payant, essai gratuit)
+### 1. Les mots-clés business
 
-SE Ranking est un outil complet de suivi de positions avec un excellent rapport qualité-prix.
+Ceux qui ont un lien direct avec ton offre, ton acquisition ou ta conversion.
 
-1. Cree un projet avec ton domaine
-2. Ajoute tes mots-clés cibles
-3. Choisis la frequence de verification (quotidienne ou hebdomadaire)
-4. L'outil suit automatiquement tes positions et te notifie des changements
+### 2. Les mots-clés éditoriaux
 
-**Ce que tu obtiens :**
-- Position exacte mise a jour quotidiennement
-- Historique complet sous forme de graphiques
-- Positions de tes concurrents sur les memes mots-clés
-- Repartition desktop vs mobile
-- Alertes en cas de chute importante
-- Detection des SERP features (featured snippet, PAA, etc.)
+Les sujets qui construisent ton trafic et ton autorité.
 
-**Prix (mis a jour)** : Essential a 65 dollars/mois (500 mots-clés/jour, 5 projets), Pro a 119 dollars/mois (2 000-3 500 mots-clés, 30 projets), Business a 259 dollars/mois (5 000-15 000 mots-clés, projets illimites). **20% de reduction sur les plans annuels** (Essential a 52 dollars/mois, Pro a 95 dollars/mois). Essai gratuit de 14 jours sans carte bancaire.
+### 3. Les mots-clés d’opportunité
 
-## Methode 4 : Semrush Position Tracking
+Ceux où tu es déjà visible mais encore sous-exploité.
 
-Si tu as déjà un abonnement Semrush, le module Position Tracking est très puissant.
+## Les métriques qui comptent vraiment
 
-1. Cree un projet > Position Tracking
-2. Ajoute tes mots-clés
-3. Configure : pays, ville, langue, appareil
-4. Tu obtiens un dashboard avec l'evolution quotidienne
+Une meilleure position ne vaut rien si :
 
-**Points forts :**
-- Suivi local (ville par ville)
-- Visibilite globale (score qui resume toutes tes positions)
-- Cannibalization detection (quand 2 de tes pages se battent pour le même mot-clé)
-- Comparaison avec 5 concurrents simultanement
+- le CTR reste mauvais ;
+- la page ne convertit pas ;
+- l’intention est mal couverte ;
+- ou la requête attire le mauvais public.
 
-**Prix** : inclus dans l'abonnement Semrush (a partir de 140 dollars/mois pour le plan Pro, 250 dollars/mois pour Guru, 500 dollars/mois pour Business). 7 jours d'essai gratuit disponible.
+Il faut donc croiser :
 
-## Methode 5 : AccuRanker (specialise)
+- position ;
+- impressions ;
+- clics ;
+- CTR ;
+- conversions ou signaux business.
 
-AccuRanker est un outil dédié uniquement au suivi de positions. C'est le plus rapide du marche.
+## Les erreurs classiques
 
-- Mise a jour a la demande (pas besoin d'attendre le lendemain)
-- Historique illimite
-- Segmentation par tags, landing pages, SERP features
-- API robuste pour integrer dans tes dashboards
+- suivre uniquement des positions “vanity” ;
+- paniquer sur de petites variations quotidiennes ;
+- oublier la localisation et le type d’appareil ;
+- mesurer la position sans regarder la page ;
+- comparer des données issues d’outils différents sans contexte.
 
-**Prix (mis a jour)** : a partir de 129 dollars/mois pour 1 000 mots-clés, 189 dollars/mois pour 1 500 mots-clés, 369 dollars/mois pour 3 000 mots-clés, et jusqu'a 849 dollars/mois pour 10 000 mots-clés. Reduction d'environ 11% sur les plans annuels. Essai gratuit de 14 jours disponible. C'est un outil pour les agences ou les sites avec beaucoup de mots-clés à suivre. AccuRanker se distingue par la mise a jour a la demande (on-demand refresh) : tu n'attends pas le lendemain pour voir l'impact d'une optimisation.
+## Routine simple
 
-## Methode 6 : Verification manuelle (gratuit mais long)
+Chaque semaine :
 
-Pour un check ponctuel, tu peux simplement chercher ton mot-clé dans Google et compter ta position. Mais attention :
+1. ouvre Search Console ;
+2. filtre les requêtes entre les positions 5 et 20 ;
+3. trie par impressions décroissantes ;
+4. liste les pages à retravailler ;
+5. optimise d’abord celles qui ont déjà un signal.
 
-- **Utilise la navigation privee** pour eviter la personnalisation des resultats
-- **Desactive la geolocalisation** ou utilise un VPN pour simuler une autre localisation
-- **Ne te fie pas a un seul check** : les positions fluctuent selon l'heure, le datacenter Google, et l'appareil
-
-C'est utile pour verifier un mot-clé précis, mais inutilisable pour suivre 50+ mots-clés regulierement.
-
-## Quels mots-clés suivre
-
-Ne suis pas 500 mots-clés au hasard. Concentre-toi sur :
-
-- **Tes mots-clés business** : ceux qui generent des leads ou des ventes (10-20 max)
-- **Tes mots-clés de contenu** : les articles qui attirent du trafic (30-50)
-- **Tes mots-clés de marque** : ton nom, ton produit (5-10)
-- **Les mots-clés de tes concurrents** : ceux sur lesquels tu veux les depasser (10-20)
-
-**Total recommande** : 50 a 100 mots-clés pour un site de taille moyenne. Au-dela, tu noies l'information.
-
-## Comment interpreter les donnees
-
-- **Position stable entre 1 et 3** : excellent, protege cette position en gardant le contenu a jour
-- **Position entre 4 et 10** : tu es en première page, optimise pour passer dans le top 3
-- **Position entre 11 et 20** : tu es a la porte. Ameliore le contenu, ajoute des liens internes, obtiens 1-2 backlinks
-- **Position au-dela de 20** : le contenu doit être retravaille en profondeur ou le mot-clé est trop concurrentiel
-- **Grosse chute soudaine** : verifie une penalite Google, un problème technique, ou une mise a jour d'algorithme
-
-## Frequence de verification
-
-- **Quotidienne** : pour tes 10-20 mots-clés business principaux
-- **Hebdomadaire** : pour tes mots-clés de contenu
-- **Mensuelle** : pour un rapport global et une vue d'ensemble
-
-## Astuces
-
-- **Compare desktop et mobile** : les positions different souvent. Google utilise le mobile-first indexing, donc la position mobile est la plus importante
-- **Suis les SERP features** : si un featured snippet apparait sur ton mot-clé, ta position organique perd de la valeur même si elle est bonne
-- **Exporte et archive** : garde un historique mensuel en CSV. C'est utile pour les rapports annuels et pour detecter des tendances de long terme
-- **Reagis vite aux chutes** : une chute de 5+ positions merite une investigation dans les 48h
-
-Le suivi de positions n'est pas optionnel en SEO. C'est ton tableau de bord. Sans lui, tu fais du SEO a l'aveugle. Configure un outil, ajoute tes mots-clés, et regarde les chiffres une fois par semaine minimum.
-
-## Ressources et liens utiles
-
-- [Google Search Console](https://search.google.com/search-console/) -- gratuit, donnees directes de Google
-- [Check-position.com](https://check-position.com/fr/) -- outil français gratuit pour verification ponctuelle
-- [SE Ranking](https://seranking.com/fr/) -- a partir de 52 dollars/mois (annuel), essai gratuit 14 jours
-- [AccuRanker](https://www.accuranker.com) -- a partir de 129 dollars/mois pour 1 000 mots-clés, essai 14 jours
-- [Semrush Position Tracking](https://www.semrush.com/position-tracking/) -- inclus dans Semrush a partir de 140 dollars/mois
-- [Ahrefs Rank Tracker](https://ahrefs.com/rank-tracker) -- inclus dans Ahrefs a partir de 99 dollars/mois
+C’est là que se trouvent les gains rapides. Le reste, c’est souvent du bruit.

@@ -7,8 +7,7 @@ tags:
 - Outils
 title: Créez Un Groupe Facebook Qui Cartonne La Méthode Secrète Des Influenceurs
 author: Diane
-description: 'Découvre Créez Un Groupe Facebook Qui Cartonne La Méthode Secrète Des
-  Influenceurs : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Créez Un Groupe Facebook Qui Cartonne La Méthode Secrète Des Influenceurs."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

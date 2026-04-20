@@ -9,8 +9,7 @@ tags:
 - Outils
 title: L'Ia Va T Elle Voler Votre Job La Vérité Choc Sur Le Remplacement Technologique
 author: Diane
-description: 'Découvre L''Ia Va T Elle Voler Votre Job La Vérité Choc Sur Le Remplacement
-  Technologique : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Ia Va T Elle Voler Votre Job La Vérité Choc Sur Le Remplacement Technologique."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: La Meta Tag Description Qui Va Faire Grimper Votre Ctr De 500%
 author: Diane
-description: 'Découvre La Meta Tag Description Qui Va Faire Grimper Votre Ctr De 500%
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Meta Tag Description Qui Va Faire Grimper Votre Ctr De 500%."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

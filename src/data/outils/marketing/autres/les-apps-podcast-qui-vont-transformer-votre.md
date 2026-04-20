@@ -5,8 +5,7 @@ tags:
 - Outils
 title: Les Apps Podcast Qui Vont Transformer Votre Trajet En Master Class
 author: Diane
-description: 'Découvre Les Apps Podcast Qui Vont Transformer Votre Trajet En Master
-  Class : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Apps Podcast Qui Vont Transformer Votre Trajet En Master Class."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

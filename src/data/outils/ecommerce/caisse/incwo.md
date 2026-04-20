@@ -19,17 +19,17 @@ u_derniere_maj: "2026-03-15"
 
 # Incwo
 
-## ERP/CRM : LE LOGICIEL FRANÇAIS TOUT-EN-UN AVEC MODULE CAISSE QUI GÈRE TON BUSINESS DE A À Z DEPUIS 2007
+# ERP/CRM : LE LOGICIEL FRANÇAIS TOUT-EN-UN AVEC MODULE CAISSE QUI GÈRE TON BUSINESS DE A À Z DEPUIS 2007
 
-### tl;dr
+## tl;dr
 
 Incwo (go.incwo.com), c'est l'**ERP/CRM français tout-en-un cloud** pour les **TPE/PME** qui couvre **facturation**, **CRM**, **gestion des stocks**, **pré-comptabilité**, **RH**, **gestion de projets**, **caisse** (module Facile TILL) et **e-commerce**. Fondé en **2007** à **Paris** par **Guillaume Besse** (Fondateur & Président, diplômé **CentraleSupélec**, ex-coach ESSEC). SIREN **494 952 401**. **140 000+ utilisateurs** depuis le lancement, **~5 000 clients actifs**. **~12 employés**. Certifié **NF 203 & NF 525** (conformité caisse et facturation). **100+ extensions** modulaires. **7 formules** de **9€ HT/mois** (Start) à **499€ HT/mois** (Illimité). Notes : **4.6/5 Google** (69 avis), **4.8/5 Facebook** (63 avis). **100% bootstrappé** — zéro levée de fonds en 17 ans. Citation du fondateur : *"Nous avons mis tout notre argent dans notre produit."* Prêt pour la **facturation électronique obligatoire 2026**. Intégration bancaire **Qonto**.
 
-### Alternative à
+## Alternative à
 
 Axonaut, Pennylane, Sellsy, Evoliz, EBP, Sage, Odoo. Incwo se distingue par son **approche modulaire** (tu actives uniquement les modules dont tu as besoin parmi 100+ extensions — pas de bloatware), son **module caisse NF525** intégré (Facile TILL — une vraie caisse certifiée dans un ERP, rare), et ses **17 ans de bootstrapping** (un des rares SaaS français profitables sans levée de fonds — preuve de solidité).
 
-## Bénéfices
+# Bénéfices
 
 **Tout-en-un modulaire** — Facturation, CRM, stocks, caisse, RH, projets, e-commerce, pré-comptabilité — tout dans un seul logiciel. Mais tu n'actives que ce dont tu as besoin. 100+ extensions disponibles : tu construis ton ERP sur mesure sans payer pour des fonctionnalités inutiles.
 
@@ -41,7 +41,7 @@ Axonaut, Pennylane, Sellsy, Evoliz, EBP, Sage, Odoo. Incwo se distingue par son 
 
 **Prêt pour la facturation électronique 2026** — Certifié NF 203, Incwo prépare la transition vers la facturation électronique obligatoire. Tu seras conforme sans changer d'outil.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - TPE/PME qui veulent un ERP tout-en-un abordable
 - Commerçants qui ont besoin d'une caisse + gestion dans le même outil
@@ -50,7 +50,7 @@ Axonaut, Pennylane, Sellsy, Evoliz, EBP, Sage, Odoo. Incwo se distingue par son 
 - Petites entreprises qui préparent la facturation électronique 2026
 - Entrepreneurs qui veulent éviter le bricolage (Excel + 4 logiciels)
 
-## Comment Utiliser Incwo
+# Comment Utiliser Incwo
 
 1. **Inscription** — Crée ton compte sur [go.incwo.com](https://go.incwo.com/)
 2. **Choix du plan** — De Start (9€) à Illimité (499€) selon tes besoins
@@ -59,9 +59,9 @@ Axonaut, Pennylane, Sellsy, Evoliz, EBP, Sage, Odoo. Incwo se distingue par son 
 5. **Utilisation** — Gère ton business au quotidien : devis, factures, ventes en caisse, suivi client
 6. **Comptabilité** — Exporte tes données vers ton expert-comptable ou utilise la pré-comptabilité intégrée
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Facturation
+## Facturation
 
 - **Devis et factures** — Conformes, personnalisables, envoi par email
 - **Factures récurrentes** — Automatisation des abonnements
@@ -69,14 +69,14 @@ Axonaut, Pennylane, Sellsy, Evoliz, EBP, Sage, Odoo. Incwo se distingue par son 
 - **Avoirs** — Gestion des retours et remboursements
 - **NF 203** — Certifié conforme, prêt facturation électronique 2026
 
-### CRM
+## CRM
 
 - **Contacts** — Clients, prospects, fournisseurs
 - **Pipeline commercial** — Suivi des opportunités
 - **Activités** — Appels, emails, rendez-vous
 - **Segmentation** — Groupes et tags
 
-### Caisse (Facile TILL)
+## Caisse (Facile TILL)
 
 - **Caisse NF 525** — Certifiée conforme loi anti-fraude TVA
 - **Multi-paiement** — Espèces, CB, chèque
@@ -84,31 +84,31 @@ Axonaut, Pennylane, Sellsy, Evoliz, EBP, Sage, Odoo. Incwo se distingue par son 
 - **Z de caisse** — Clôture conforme
 - **Remises** — Promotions et réductions
 
-### Gestion des stocks
+## Gestion des stocks
 
 - **Inventaire** — Stock en temps réel
 - **Alertes** — Rupture et réapprovisionnement
 - **Fournisseurs** — Commandes et réceptions
 - **Codes-barres** — Scanner intégré
 
-### RH
+## RH
 
 - **Congés et absences** — Suivi et validation
 - **Notes de frais** — Saisie et remboursement
 - **Temps** — Suivi du temps passé par projet
 
-### Gestion de projets
+## Gestion de projets
 
 - **Tâches** — Attribution et suivi
 - **Jalons** — Planning de projet
 - **Temps passé** — Tracking par tâche et par collaborateur
 
-### E-commerce
+## E-commerce
 
 - **Boutique en ligne** — Synchronisée avec les stocks
 - **Commandes** — Gestion depuis le back-office
 
-## Prix
+# Prix
 
 | Plan | Prix HT/mois | Cible |
 |------|-------------|-------|
@@ -126,7 +126,7 @@ Axonaut, Pennylane, Sellsy, Evoliz, EBP, Sage, Odoo. Incwo se distingue par son 
 
 *Source : [Incwo](https://go.incwo.com/)*
 
-## Intégrations
+# Intégrations
 
 - **Banque** : Qonto (synchronisation bancaire)
 - **Comptabilité** : Export compatible logiciels comptables
@@ -135,7 +135,7 @@ Axonaut, Pennylane, Sellsy, Evoliz, EBP, Sage, Odoo. Incwo se distingue par son 
 - **100+ extensions** : Modules activables à la carte
 - **API** : Interface pour les intégrations personnalisées
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **2007** — Création d'Incwo (à l'origine "entreprise-facile") à **Paris** par **Guillaume Besse** (Fondateur & Président, diplômé **CentraleSupélec**, ex-coach ESSEC). SIREN 494 952 401. L'idée : un logiciel de gestion tout-en-un accessible aux TPE
 - **2007-2015** — Développement organique. L'outil s'enrichit module par module : facturation, CRM, stocks, projets. Le modèle SaaS est pionnier pour l'époque (2007, avant la vague SaaS française)
@@ -145,7 +145,7 @@ Axonaut, Pennylane, Sellsy, Evoliz, EBP, Sage, Odoo. Incwo se distingue par son 
 
 *Source : [Incwo](https://go.incwo.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **L'artisan bijoutier** — Tu as un atelier + une boutique. Avec Incwo, tu gères tes devis (atelier), tes factures (clients B2B), ta caisse (vente en boutique), tes stocks (matières premières + produits finis) et tes clients (CRM). Un seul outil au lieu de 4 logiciels.
 
@@ -153,7 +153,7 @@ Axonaut, Pennylane, Sellsy, Evoliz, EBP, Sage, Odoo. Incwo se distingue par son 
 
 **La boutique qui prépare 2026** — Tu as une boutique de déco. La facturation électronique arrive en 2026. Avec Incwo (certifié NF 203), ta caisse (NF 525) et ta facturation sont déjà conformes. Tu n'auras rien à changer.
 
-## Points Forts
+# Points Forts
 
 - Tout-en-un modulaire : facturation + CRM + stocks + caisse + RH + projets + e-commerce
 - Module caisse NF 525 intégré (Facile TILL) — rare dans un ERP
@@ -165,7 +165,7 @@ Axonaut, Pennylane, Sellsy, Evoliz, EBP, Sage, Odoo. Incwo se distingue par son 
 - 4.6/5 Google, 4.8/5 Facebook
 - Intégration Qonto
 
-## Points Faibles
+# Points Faibles
 
 - **~12 employés pour 5 000 clients actifs** — L'équipe est petite. Le support et le développement de nouvelles fonctionnalités sont contraints par cette taille
 - **Interface "utilitaire"** — Incwo est fonctionnel mais l'interface n'a pas le design moderne de Pennylane ou Sellsy. C'est un outil de gestionnaire, pas un outil sexy

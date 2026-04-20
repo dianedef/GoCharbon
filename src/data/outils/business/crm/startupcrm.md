@@ -28,92 +28,34 @@ u_derniere_maj: '2026-03-20'
 
 # StartupCRM
 
-## CRM TOUT-EN-UN : LE PILOTAGE 360° POUR LES PETITES ENTREPRISES
+## En bref
+StartupCRM est un CRM français tout-en-un pour TPE/PME. Pilotage 360° : marketing, commercial, gestion. Pipeline, devis, facturation, campagnes. RGPD compliant.
 
-### tl;dr
+## Cas d'usage
+- Solopreneurs qui veulent un flux de prospection, de suivi commercial et de pilotage plus lisible.
+- TPE et PME qui ont besoin d'une seule base de travail pour les contacts, les opportunités et la coordination opérationnelle.
+- Structurer des routines commerciales sans multiplier les outils difficiles à maintenir.
 
-StartupCRM est un CRM cloud français conçu pour les TPE et PME qui veulent piloter leur entreprise à 360° : marketing, commercial et gestion en une seule plateforme. Gestion des contacts et prospects, pipelines de vente personnalisables, devis et factures, campagnes marketing automatisées, suivi des tâches et gestion de projet. 100% conforme RGPD. Intégrations avec Zoom, Slack, Google Calendar et Calendly. L'outil permet de centraliser toute l'activité commerciale sans multiplier les abonnements.
+## Ce que l'on peut en attendre vraiment
+- Centraliser les informations clients, opportunités, devis et tâches dans un même espace.
+- Réduire les ressaisies grâce aux importations, à des automatisations simples et à des vues orientées action.
+- Gagner du temps sur la préparation commerciale en gardant des données exploitables, sans attendre un paramétrage lourd.
 
-### Alternative à
+## Quand ça devient précieux
+- Quand l'équipe commerciale et le support utilisent déjà plusieurs feuilles de calcul.
+- Quand on veut un outil utilisable en mobilité et une adoption rapide par l'équipe.
+- Quand la priorité est une première montée en production stable, avant de viser un niveau d'automatisation très poussé.
 
-Axonaut, Sellsy, HubSpot CRM, Zoho CRM, Kompass. StartupCRM se positionne comme une alternative française simple et abordable aux CRM anglo-saxons, pensée pour les entrepreneurs qui veulent un outil tout-en-un sans la complexité des solutions enterprise.
+## À vérifier avant de déployer
+- La qualité des intégrations listées publiquement (CRM, email, agenda, SMS, téléphonie).
+- L'alignement entre le plan choisi, le nombre d'utilisateurs et le mode de facturation.
+- Où sont hébergées les données et quel niveau de support est réellement opérationnel en cas de besoin.
 
-## Bénéfices
+## Utilisation pratique en 4 étapes
+1. Définir 2 ou 3 processus commerciaux prioritaires.
+2. Créer une fiche claire par étape : contact, opportunité, tâche.
+3. Connecter le ou les canaux d'entrée (site, formulaires, import, email).
+4. Mesurer chaque quinzaine : temps de traitement, qualité des données, conversion par étape.
 
-**Pilotage 360°** — Marketing, commercial et gestion dans un seul outil. Tu vois l'ensemble de ton activité en un coup d'œil : prospects, clients, pipeline, devis, factures, campagnes.
-
-**Pipeline personnalisable** — Workflows et pipelines adaptés à ton processus de vente. Tu définis les étapes, les critères de passage, et tu suis la progression de chaque affaire.
-
-**Automatisation marketing** — Campagnes email et workflows automatisés pour nurturir tes prospects. Tu conçois, personnalises et lances des campagnes ciblées directement depuis le CRM.
-
-**Formation intégrée** — Outils de formation et d'évaluation des compétences en vente pour tes équipes.
-
-### Pour Qui ?
-
-- TPE et PME cherchant un CRM simple et complet
-- Startups en phase de croissance
-- Entrepreneurs qui veulent centraliser leur gestion
-- Équipes commerciales qui veulent structurer leur prospection
-
-## Fonctionnalités
-
-### CRM et Contacts
-
-- **Gestion des contacts** — Centralisation des informations clients, prospects et fournisseurs
-- **Accès partagé** — Partage des données entre les équipes
-- **Import** — Import massif depuis fichiers Excel/CSV
-
-### Prospection et Vente
-
-- **Pipeline de vente** — Vue visuelle avec étapes personnalisables
-- **Rapports avancés** — Suivi des performances de l'équipe commerciale
-- **Devis et commandes** — Création et envoi depuis la plateforme
-- **Bons de commande** — Gestion des commandes clients
-
-### Marketing
-
-- **Campagnes email** — Conception, personnalisation et envoi automatisé
-- **Workflows** — Automatisation des séquences marketing
-- **Génération de prospects** — Outils de capture et qualification de leads
-
-### Gestion
-
-- **Tâches et projets** — Suivi des tâches et gestion de projet collaborative
-- **Formation** — Outils de formation et évaluation des compétences commerciales
-- **Messagerie et chat** — Outils de collaboration en ligne intégrés
-
-## Prix
-
-Tarifs sur demande. Essai gratuit disponible. Plans adaptés au nombre d'utilisateurs et aux fonctionnalités.
-
-## Intégrations
-
-- **Visioconférence** : Zoom
-- **Communication** : Slack
-- **Calendrier** : Google Calendar, Calendly
-- **API** : Système d'API pour connecter StartupCRM à d'autres logiciels
-- **Réseaux sociaux** : Intégration des profils sociaux
-
-## L'équipe et l'Histoire
-
-- StartupCRM est un éditeur français qui a développé un CRM pensé pour les petites entreprises
-- L'outil est 100% conforme RGPD
-- L'approche "pilotage 360°" vise à remplacer plusieurs outils par une seule plateforme
-- Développement continu basé sur les retours utilisateurs
-
-## Points Forts
-
-- CRM français tout-en-un : commercial + marketing + gestion
-- Pipeline personnalisable avec workflows
-- 100% conforme RGPD
-- Intégrations avec les outils courants (Zoom, Slack, Google Calendar)
-- Interface de collaboration intégrée (messagerie, chat)
-- Outils de formation commerciale inclus
-
-## Points Faibles
-
-- Tarifs non publics — difficile de comparer sans contacter l'éditeur
-- Moins connu que les alternatives (Axonaut, Sellsy, HubSpot)
-- Peu de documentation en ligne et de ressources communautaires
-- Peut être complexe à configurer pour les utilisateurs non expérimentés
-- Fonctionnalités avancées (reporting, formation) inégales selon les plans
+## Conclusion
+StartupCRM est une piste sérieuse pour des équipes qui veulent un usage pro sans sur-métriques. L'outil s'intègre mieux quand les objectifs sont cadrés, avec une équipe de pilotage qui valide les données une fois par semaine.

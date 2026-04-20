@@ -1,14 +1,13 @@
 ---
 section: outils
 metadataEnrichedAt: '2026-03-21'
-title: leeway
+title: Leeway
 type: outil
 author: Diane
 tags:
 - Outils
-description: Le logiciel Leeway est une solution puissante pour la gestion des contrats,
-  aidant les entreprises à réduire le temps consacré à cette tâche cruciale, tout
-  en offrant un meilleur c
+description: Leeway, désormais rattaché à Tomorro, aide les entreprises à centraliser,
+  suivre et faire circuler leurs contrats avec beaucoup moins de friction.
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.getleeway.com/fr/
@@ -27,100 +26,60 @@ notesQualification: 'Leeway est desormais rattache a Tomorro, societe francaise 
 methodologieVersion: gocharbon-v1
 ---
 
-# leeway
+# Leeway
 
-🔹✅💡🥊🛡️🔇🧠📣🎁🏆📚🛠💥🙌😱✂️
-## Revue de Leeway - La nouvelle manière de gérer vos contrats
+## Un outil de gestion contractuelle utile quand les contrats commencent à s'accumuler pour de vrai
 
-Le logiciel Leeway est une solution puissante pour la gestion des contrats, aidant les entreprises à réduire le temps consacré à cette tâche cruciale, tout en offrant un meilleur contrôle et une visibilité accrue sur les risques juridiques et financiers.
+### tl;dr
 
-## Bénéfices
-
-En utilisant Leeway, tu peux bénéficier des avantages suivants pour ton entreprise :
-
-- Réduction du temps consacré à la gestion des contrats.
-- Contrôle amélioré sur les risques juridiques et financiers.
-- Centralisation de tous les contrats sur une plateforme sécurisée.
-- Suivi et rappels automatisés des échéances.
-- Gestion plus efficace grâce à des modèles dynamiques et des règles automatisées.
-- Accélération des négociations et signature électronique.
-
-### Pour Qui ?
-
-Leeway est idéal pour les équipes juridiques et marketing IT, ainsi que pour toute entreprise qui gère un grand nombre de contrats. Les équipes juridiques, commerciales, financières et d'achats peuvent toutes tirer profit de ses fonctionnalités.
+Leeway sert à mieux gérer le cycle de vie des contrats : création, validation, suivi, relances, centralisation, signature et collaboration. Le sujet devient très concret dès qu'une équipe perd du temps à chercher la dernière version d'un contrat ou découvre trop tard qu'une échéance est passée.
 
 ### Alternative à
 
-Les alternatives bien connues à Leeway incluent des logiciels tels que DocuSign, Adobe Sign et PandaDoc. Cependant, Leeway se distingue par sa combinaison de gestion de contrats et de signature électronique, ce qui en fait une solution unique sur le marché.
+DocuSign CLM, PandaDoc, Ironclad, ou des combinaisons plus simples avec stockage + signature.
 
-## Fonctionnalités
+## Pourquoi on le retient
 
-### Centralisation des contrats
-Leeway permet de centraliser tous les contrats sur une plateforme sécurisée, offrant un accès facile et un suivi précis.
+- **Le problème traité est sérieux** : le contrat reste encore géré n'importe comment dans beaucoup de boîtes.
+- **Le produit vise le workflow complet**, pas juste la signature.
+- **La valeur est opérationnelle et juridique à la fois**.
 
-### Suivi et rappels automatisés
-Le système de rappels automatisés de Leeway garantit que tu ne manques aucune échéance importante.
+## Pour qui ?
 
-### Modèles dynamiques
-Crée des contrats plus rapidement grâce à des modèles dynamiques et des variables.
+- équipes juridiques
+- directions achats
+- sales ops
+- PME et scale-ups qui signent beaucoup de contrats
 
-### Collaboration et négociation
-La plateforme facilite la collaboration et la négociation avec des co-contractants, réduisant ainsi les allers-retours fastidieux par e-mail.
+## Fonctionnalités utiles
 
-### Signature électronique
-La signature électronique native et légale simplifie le processus de signature des contrats.
+- centralisation des contrats
+- modèles et automatisations
+- rappels d'échéances
+- collaboration sur les versions
+- validation et signature
+- suivi plus propre des engagements contractuels
 
 ## Prix
 
-Leeway propose une gamme de plans tarifaires adaptés aux besoins de chaque entreprise. Les détails des tarifs sont disponibles sur leur site web.
-
-## L'équipe et l'Histoire
-
-L'équipe derrière Leeway a développé ce logiciel pour simplifier la gestion des contrats et aider les entreprises à réduire les risques juridiques et financiers. Ils ont relevé le défi de rendre ce processus plus efficace et accessible.
-
-## Feuille de Route
-
-Leeway publie régulièrement sa feuille de route sur son site web, montrant son engagement envers l'amélioration continue de ses fonctionnalités.
-
-## Ressources
-
-- Site web de Leeway : [lien](insérer le lien)
-- Documentation : [lien](insérer le lien)
-- Support : support@leeway.com
-
-## Programme de Parrainage
-
-Leeway propose un programme de parrainage, te permettant de bénéficier de récompenses en recommandant leur logiciel à d'autres entreprises.
+Le bon calcul est de comparer le prix du produit au temps perdu en recherche, aux oublis de renouvellement, aux risques contractuels et aux frictions internes.
 
 ## Intégrations
 
-Leeway s'intègre avec de nombreux autres outils et possède une API pour une personnalisation avancée. Les intégrations incluent des logiciels CRM, de gestion de projet, et bien d'autres.
+Leeway devient d'autant plus utile s'il se branche correctement à tes outils sales, juridiques ou ops. Mais la base, c'est déjà d'avoir enfin un endroit clair pour gérer les contrats.
 
-## Comment Utiliser
+## Ce qu'il faut savoir avant de choisir
 
-Pour utiliser Leeway au maximum de son potentiel, suis ces étapes :
+Le produit est pertinent si tu as un **volume réel de contrats** et un process déjà assez vivant pour justifier un outil dédié. Si tu signes très peu de documents, la marche peut être trop haute.
 
-1. Centralise tous tes contrats sur la plateforme.
-2. Utilise les modèles dynamiques pour créer des contrats plus rapidement.
-3. Collabore et négocie directement dans l'application.
-4. Utilise la signature électronique pour finaliser les contrats en toute légalité.
+## Points forts
 
-## En Résumé
+- sujet très concret
+- vraie logique de gestion contractuelle, pas juste signature
+- utile pour réduire du chaos administratif et juridique
 
-Leeway utilise une technologie avancée pour centraliser, automatiser et sécuriser la gestion des contrats. Les modèles dynamiques et la signature électronique simplifient le processus, tandis que les rappels automatisés garantissent que les échéances sont respectées.
+## Points faibles
 
-## Mon Avis
-
-Leeway est une solution remarquable pour la gestion des contrats, offrant des avantages significatifs aux entreprises. Les fonctionnalités de centralisation, de suivi automatisé, de modèles dynamiques et de signature électronique facilitent grandement le processus. Les équipes juridiques, commerciales et financières peuvent toutes en tirer profit. C'est un outil essentiel pour gagner du temps et réduire les risques juridiques et financiers.
-
-## Points Faibles
-
-- Les prix peuvent être élevés pour les petites entreprises.
-
-## Points Forts
-
-- Facilite la gestion des contrats de bout en bout.
-- Offre une solution 2-en-1 avec gestion et signature de contrats.
-- Améliore la collaboration et la réactivité des équipes.
-
-En résumé, Leeway est un atout précieux pour toute entreprise cherchant à optimiser sa gestion des contrats, à réduire les risques et à gagner du temps. N'hésite pas à planifier une démo pour découvrir par toi-même comment Leeway peut améliorer la gestion de tes contrats.
+- probablement trop riche si le volume de contrats reste faible
+- demande un minimum de discipline interne
+- il faut vérifier l'adéquation avec ton workflow réel, pas juste la démo

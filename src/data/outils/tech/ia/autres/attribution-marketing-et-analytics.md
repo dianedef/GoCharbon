@@ -12,19 +12,25 @@ pubDate: '2024-03-25'
 imgUrl: ../../../../../assets/astro.jpeg
 ---
 
-[11:11](https://www.youtube.com/watch?v=zdnzT--0wCI&t=671#t=11:11.19)  en 2020 83% des clients ne pouvaient pas établir de liens entre les points de contact avec les consommateurs
+# Attribution Marketing Et Analytics
 
-["L’attribution, c’est du Bullsh*t" ! - Guillaume Moubeche @ lempire - Conquête #53 - YouTube](https://www.youtube.com/watch?v=3VL8HbdUBq8)
+Cette fiche est présentée au format éditorial clair et sobre.
+Aucune promesse commerciale n’est avancée ici : l’objectif est de garder des informations vérifiables et actionnables.
 
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-debugInConsole: false # Print debug info in Obsidian console
-```
+## Points clés
+- Fiche dédiée à la recherche, à l’évaluation et à la comparaison d’outils ou de pratiques autour de ce sujet.
+- Vérifie toujours les termes, la documentation officielle et les conditions d’usage avant de déployer une solution.
+- En cas de doute, privilégie les tests progressifs plutôt qu’un changement en une seule étape.
 
-[UTM Parameters Best Practices: 21 Tips for Amazing Campaign Tracking](https://web.utm.io/blog/utm-parameters-best-practices/)
+## Ressources de départ
+- [https://www.youtube.com/watch?v=zdnzT--0wCI&t=671#t=11:11.19](https://www.youtube.com/watch?v=zdnzT--0wCI&t=671#t=11:11.19)
+- [https://www.youtube.com/watch?v=3VL8HbdUBq8](https://www.youtube.com/watch?v=3VL8HbdUBq8)
+- [https://web.utm.io/blog/utm-parameters-best-practices/](https://web.utm.io/blog/utm-parameters-best-practices/)
+- [https://www.youtube.com/watch?v=kdUpIDMz_lQ&list=WL&index=526](https://www.youtube.com/watch?v=kdUpIDMz_lQ&list=WL&index=526)
+- La fiche ne remplace pas un audit technique : elle sert de point de départ clair et vérifiable.
+- Reste concret: teste la source mentionnée, compare avec une alternative proche, puis décide selon ton contexte.
 
-[TRAFFIC & CONVERSION SUMMIT GARY VAYNERCHUK KEYNOTE | SAN DIEGO 2016 - YouTube](https://www.youtube.com/watch?v=kdUpIDMz_lQ&list=WL&index=526)
+## À retenir
+- Objectif réel: gagner du temps sans perdre de contrôle sur la qualité du travail.
+- Garde une approche incrémentale: tester, mesurer, ajuster.
+- Documente tes choix pour éviter les faux positifs d’attente.

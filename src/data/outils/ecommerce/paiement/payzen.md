@@ -18,17 +18,17 @@ u_derniere_maj: "2026-03-15"
 
 # PayZen
 
-## PAIEMENT EN LIGNE : LA GATEWAY FRANÇAISE DE LYRA QUI TRAITE 250+ MOYENS DE PAIEMENT DANS 120+ PAYS
+# PAIEMENT EN LIGNE : LA GATEWAY FRANÇAISE DE LYRA QUI TRAITE 250+ MOYENS DE PAIEMENT DANS 120+ PAYS
 
-### tl;dr
+## tl;dr
 
 PayZen (payzen.eu), c'est la **solution de paiement en ligne** développée par **Lyra Network** (lyra.com), le **groupe français spécialiste du paiement électronique** fondé en **2001** à **Toulouse**. PayZen permet aux **e-commerçants, marketplaces et entreprises** d'accepter des paiements en ligne via **250+ moyens de paiement** (CB, Visa, Mastercard, American Express, Apple Pay, Google Pay, PayPal, prélèvement SEPA, paiement fractionné, wallets locaux) dans **120+ pays**. Lyra Network est un acteur historique du paiement en France — **SIREN 434 413 172**, **400+ employés**, CA **~100M€**. Le groupe est certifié **PCI-DSS Niveau 1** et traite des **milliards d'euros** de transactions par an. PayZen est la marque e-commerce de Lyra, à côté de **Lyra Collect** (TPE/paiement en magasin) et **SOGefi** (paiement pour le monde bancaire). Parmi les clients : banques, e-commerçants, collectivités, SaaS. L'API est RESTful avec SDKs dans 10+ langages. Pricing sur devis (pas de grille publique standard).
 
-### Alternative à
+## Alternative à
 
 Stripe, Adyen, Mollie, Worldline (Ingenico), Payplug, SystemPay (Banque Populaire/BPCE), HiPay, PayGreen. PayZen se distingue par son **origine 100% française** (Lyra est un groupe indépendant basé à Toulouse, pas une filiale d'un groupe étranger), sa **couverture de paiements massive** (250+ moyens de paiement, là où Stripe en propose ~100), et son **expertise bancaire** (Lyra travaille avec les banques depuis 2001 — le module SOGefi équipe directement les réseaux bancaires). C'est un choix souverain pour les entreprises françaises qui veulent éviter la dépendance à des fintechs américaines ou néerlandaises.
 
-## Bénéfices
+# Bénéfices
 
 **250+ moyens de paiement** — PayZen accepte tout : cartes bancaires (CB, Visa, Mastercard, Amex), wallets (Apple Pay, Google Pay, Samsung Pay, PayPal), prélèvement SEPA, virement bancaire, paiement fractionné (Alma, Oney), moyens de paiement locaux (iDEAL aux Pays-Bas, Bancontact en Belgique, Multibanco au Portugal). Tes clients payent comme ils veulent, d'où qu'ils soient.
 
@@ -40,7 +40,7 @@ Stripe, Adyen, Mollie, Worldline (Ingenico), Payplug, SystemPay (Banque Populair
 
 **Paiement fractionné et différé** — PayZen propose nativement le paiement en plusieurs fois (2x, 3x, 4x) et le paiement différé. C'est un levier de conversion majeur pour les e-commerçants : le panier moyen augmente quand le client peut payer en 3 fois sans frais.
 
-### Pour Qui ?
+## Pour Qui ?
 
 - E-commerçants qui veulent une solution de paiement française et souveraine
 - Marketplaces qui gèrent des flux de paiement complexes (split payment)
@@ -49,7 +49,7 @@ Stripe, Adyen, Mollie, Worldline (Ingenico), Payplug, SystemPay (Banque Populair
 - Entreprises internationales qui vendent dans 120+ pays
 - Banques et établissements financiers (module SOGefi)
 
-## Comment Utiliser PayZen
+# Comment Utiliser PayZen
 
 1. **Contact** — Contacte Lyra via [payzen.eu](https://payzen.eu/) ou demande un devis en ligne
 2. **Intégration** — Connecte PayZen à ton site via l'API REST, les SDKs (PHP, Python, Java, Node.js, Ruby, .NET) ou les plugins CMS (PrestaShop, WooCommerce, Magento, Shopify)
@@ -58,9 +58,9 @@ Stripe, Adyen, Mollie, Worldline (Ingenico), Payplug, SystemPay (Banque Populair
 5. **Production** — Mise en production après validation par Lyra. Les transactions sont traitées en temps réel
 6. **Back-office** — Gère tes transactions, remboursements et rapports depuis le back-office PayZen
 
-## Fonctionnalités
+# Fonctionnalités
 
-### Encaissement en ligne
+## Encaissement en ligne
 
 - **Paiement par carte** — CB, Visa, Mastercard, Amex, JCB, Discover, UnionPay
 - **Wallets** — Apple Pay, Google Pay, Samsung Pay, PayPal
@@ -70,7 +70,7 @@ Stripe, Adyen, Mollie, Worldline (Ingenico), Payplug, SystemPay (Banque Populair
 - **Paiement différé** — Encaissement retardé (utile pour les précommandes)
 - **Moyens de paiement locaux** — iDEAL, Bancontact, Multibanco, Giropay, Sofort, etc.
 
-### Sécurité et conformité
+## Sécurité et conformité
 
 - **PCI-DSS Niveau 1** — Certification de sécurité la plus élevée
 - **3D Secure 2** — Authentification forte (SCA) conforme DSP2
@@ -78,28 +78,28 @@ Stripe, Adyen, Mollie, Worldline (Ingenico), Payplug, SystemPay (Banque Populair
 - **Anti-fraude** — Moteur de règles personnalisables + machine learning
 - **Data centers en France** — Hébergement souverain des données de paiement
 
-### Page de paiement
+## Page de paiement
 
 - **Personnalisable** — Couleurs, logo, champs, langue, moyens de paiement
 - **Responsive** — Optimisée mobile et desktop
 - **Modes d'intégration** — Iframe, pop-in, redirection, champs embarqués (embedded form)
 - **Multi-langues** — Interface de paiement traduite automatiquement
 
-### API et intégrations
+## API et intégrations
 
 - **API REST v2** — Documentation complète, webhooks, environnement sandbox
 - **SDKs** — PHP, Python, Java, Node.js, Ruby, .NET, Go
 - **Plugins CMS** — PrestaShop, WooCommerce, Magento 2, Shopify, OpenCart
 - **ERP** — Connecteurs pour SAP, Odoo
 
-### Back-office
+## Back-office
 
 - **Tableau de bord** — Vue d'ensemble des transactions, volumes, taux de conversion
 - **Gestion des transactions** — Remboursements, annulations, captures manuelles
 - **Rapports** — Export CSV/PDF, rapports personnalisés
 - **Multi-boutiques** — Gestion de plusieurs sites depuis un seul back-office
 
-## Prix
+# Prix
 
 PayZen ne publie pas de grille tarifaire standard :
 
@@ -112,7 +112,7 @@ Pour les petits volumes, Lyra propose aussi **Lyra Collect** (offre simplifiée 
 
 *Source : [PayZen](https://payzen.eu/), [Lyra Network](https://www.lyra.com/)*
 
-## Intégrations
+# Intégrations
 
 - **CMS** : PrestaShop, WooCommerce, Magento 2, Shopify, OpenCart, Drupal Commerce
 - **ERP** : SAP, Odoo, Cegid
@@ -122,7 +122,7 @@ Pour les petits volumes, Lyra propose aussi **Lyra Collect** (offre simplifiée 
 - **Comptabilité** : Export des transactions pour réconciliation
 - **API REST** : Documentation complète avec webhooks et SDKs 10+ langages
 
-## L'équipe et l'Histoire
+# L'équipe et l'Histoire
 
 - **2001** — Création de **Lyra Network** à **Toulouse** (Haute-Garonne). L'entreprise se spécialise dans les **infrastructures de paiement électronique** pour les banques et les commerçants. SIREN 434 413 172
 - **2001-2010** — Lyra développe son expertise dans le traitement des paiements par carte bancaire. Le module **SOGefi** équipe les réseaux bancaires français. Lyra devient un acteur de référence dans l'infrastructure de paiement en France
@@ -133,7 +133,7 @@ Pour les petits volumes, Lyra propose aussi **Lyra Collect** (offre simplifiée 
 
 *Source : [Lyra Network](https://www.lyra.com/), [PayZen](https://payzen.eu/), [Societe.com](https://www.societe.com/)*
 
-## Cas d'Usage Concrets
+# Cas d'Usage Concrets
 
 **L'e-commerçant français qui vend en Europe** — Tu vends des vêtements en ligne en France, Belgique, Pays-Bas et Allemagne. Avec PayZen, tu proposes CB + Apple Pay en France, Bancontact en Belgique, iDEAL aux Pays-Bas et Giropay en Allemagne. Chaque client paye avec son moyen de paiement local préféré — ton taux de conversion augmente de 15-20%.
 
@@ -141,7 +141,7 @@ Pour les petits volumes, Lyra propose aussi **Lyra Collect** (offre simplifiée 
 
 **La marketplace qui gère les split payments** — Tu opères une marketplace avec 500 vendeurs. PayZen gère le split payment : le client paye une fois, les fonds sont répartis automatiquement entre toi (commission) et le vendeur. Conforme à la réglementation DSP2 sur les marketplaces.
 
-## Points Forts
+# Points Forts
 
 - Groupe français indépendant (Lyra Network, Toulouse) — souveraineté des données
 - 250+ moyens de paiement, 120+ pays
@@ -154,7 +154,7 @@ Pour les petits volumes, Lyra propose aussi **Lyra Collect** (offre simplifiée 
 - API REST complète avec SDKs 10+ langages
 - Autofinancé et rentable (pas de dépendance VC)
 
-## Points Faibles
+# Points Faibles
 
 - **Pricing opaque** — Pas de grille tarifaire publique. Il faut contacter un commercial et négocier. Pour un petit e-commerçant qui veut comparer les prix rapidement, c'est frustrant par rapport à Stripe (tarifs affichés)
 - **Documentation moins sexy que Stripe** — La doc technique est complète mais moins bien présentée que celle de Stripe ou Adyen. L'expérience développeur (DX) est correcte mais pas au niveau des meilleures fintechs

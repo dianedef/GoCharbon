@@ -10,8 +10,7 @@ u_site: null
 title: Organisez Des Événements Si Incroyables Que Même Les Célébrités Voudront Y
   Assister
 author: Diane
-description: 'Découvre Organisez Des Événements Si Incroyables Que Même Les Célébrités
-  Voudront Y Assister : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Organisez Des Événements Si Incroyables Que Même Les Célébrités Voudront Y Assister."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

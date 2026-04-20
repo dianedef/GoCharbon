@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: Translation Services / Services de Traduction
+title: Traducteur freelance
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Lance ton activité de traduction : spécialisations, outils et stratégies
-  pour traducteurs freelance.'
+description: 'Vendre de la traduction avec une vraie spécialisation et une qualité
+  défendable à l''ère des outils automatiques.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Translation Services / Services de Traduction
+# Traducteur freelance
 
 ## Description en une phrase
 

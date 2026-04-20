@@ -7,8 +7,7 @@ tags:
 - Outils
 title: Créez Des Présentations Si Incroyables Qu'Elles Vont Hypnotiser Votre Audience
 author: Diane
-description: 'Découvre Créez Des Présentations Si Incroyables Qu''Elles Vont Hypnotiser
-  Votre Audience : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Créez Des Présentations Si Incroyables Qu'Elles Vont Hypnotiser Votre Audience."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

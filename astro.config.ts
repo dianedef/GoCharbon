@@ -3,6 +3,8 @@ import sitemap from '@astrojs/sitemap';
 import UnoCSS from 'unocss/astro';
 
 import vue from '@astrojs/vue';
+import { shouldIncludeInSitemap } from './src/utils/indexation';
+import { createParcoursLaunchBuildIntegration } from './src/utils/launch-build';
 
 export default defineConfig({
   server: {
@@ -16,7 +18,7 @@ export default defineConfig({
       ? `https://${process.env.VERCEL_URL}/`
       : 'https://localhost:3000/',
   trailingSlash: 'ignore',
-  integrations: [sitemap(), UnoCSS({ injectReset: true }), vue()],
+  integrations: [sitemap({ filter: shouldIncludeInSitemap }), UnoCSS({ injectReset: true }), vue(), createParcoursLaunchBuildIntegration()],
   vite: {
     optimizeDeps: {
       exclude: ['@resvg/resvg-js'],

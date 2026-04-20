@@ -9,8 +9,7 @@ tags:
 - Outils
 title: Mutant Mail L'Outil Qui Va Révolutionner Votre Stratégie Email
 author: Diane
-description: 'Découvre Mutant Mail L''Outil Qui Va Révolutionner Votre Stratégie Email
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Mutant Mail L'Outil Qui Va Révolutionner Votre Stratégie Email."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

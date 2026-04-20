@@ -44,7 +44,7 @@ Constituer un portefeuille photo/vidéo stock qui génère ventes récurrentes.
 - [Fiche profil Stock Photography](/biz/profils/stock-photography)
 - [Quiz rapide (orientation)](/quiz-rapide)
 - [Quiz avancé (validation)](/quiz-avance)
-- [Suivi du parcours](/parcours/stock-photography)
+- [Suivi du parcours](/parcours/photographie-de-stock)
 - [Ressource utile 1](/tutos/comment-generer-des-images-en-lots)
 - [Ressource utile 2](/tutos/comment-retirer-un-objet-ou-une-personne-dune)
 - [Ressource utile 3](/outils/creation)

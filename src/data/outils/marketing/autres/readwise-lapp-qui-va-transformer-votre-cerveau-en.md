@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Readwise L'App Qui Va Transformer Votre Cerveau En Superordinateur
 author: Diane
-description: 'Découvre Readwise L''App Qui Va Transformer Votre Cerveau En Superordinateur
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Readwise L'App Qui Va Transformer Votre Cerveau En Superordinateur."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

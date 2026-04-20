@@ -8,8 +8,7 @@ tags:
 imageNameKey: enregistrer-windows
 title: L'Outil D'Enregistrement D'Écran Qui Va Rendre Vos Vidéos Virales
 author: Diane
-description: 'Découvre L''Outil D''Enregistrement D''Écran Qui Va Rendre Vos Vidéos
-  Virales : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "L'Outil D'Enregistrement D'Écran Qui Va Rendre Vos Vidéos Virales."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

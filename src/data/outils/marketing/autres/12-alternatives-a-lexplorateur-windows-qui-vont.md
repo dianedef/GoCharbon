@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: 12 Alternatives À L'Explorateur Windows Qui Vont Changer Votre Vie À Jamais
 author: Diane
-description: 'Découvre 12 Alternatives À L''Explorateur Windows Qui Vont Changer Votre
-  Vie À Jamais : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "12 Alternatives À L'Explorateur Windows Qui Vont Changer Votre Vie À Jamais."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

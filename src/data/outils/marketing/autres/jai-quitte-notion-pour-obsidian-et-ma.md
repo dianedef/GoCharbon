@@ -10,8 +10,7 @@ tags:
 - Outils
 title: J'Ai Quitté Notion Pour Obsidian Et Ma Productivité A Explosé Voici Pourquoi
 author: Diane
-description: 'Découvre J''Ai Quitté Notion Pour Obsidian Et Ma Productivité A Explosé
-  Voici Pourquoi : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "J'Ai Quitté Notion Pour Obsidian Et Ma Productivité A Explosé Voici Pourquoi."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

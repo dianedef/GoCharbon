@@ -1,11 +1,12 @@
 ---
 section: parcours
-title: Live Commerce / Vente en Direct
+title: Vente en direct
 author: Diane GoCharbon
 tags:
 - Business
 - E-commerce
-description: 'Vends en direct face caméra : le business model qui explose en France avec des taux de conversion 3-5x supérieurs au e-commerce classique.'
+description: 'Le live commerce peut convertir fort, mais il demande de l''aisance commerciale,
+  du rythme et un bon catalogue.'
 pubDate: '2026-03-13'
 imgUrl: ../../../assets/astro.jpeg
 ---

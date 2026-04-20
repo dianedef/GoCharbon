@@ -9,8 +9,7 @@ imageNameKey: null
 title: La Méthode Infaillible Pour Se Démarquer Et Devenir Une Superstar De Votre
   Industrie
 author: Diane
-description: 'Découvre La Méthode Infaillible Pour Se Démarquer Et Devenir Une Superstar
-  De Votre Industrie : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Méthode Infaillible Pour Se Démarquer Et Devenir Une Superstar De Votre Industrie."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

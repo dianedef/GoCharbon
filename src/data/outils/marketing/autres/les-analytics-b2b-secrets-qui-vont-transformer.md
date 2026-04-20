@@ -6,8 +6,7 @@ tags:
 title: Les Analytics B2B Secrets Qui Vont Transformer Votre Business En Machine À
   Cash
 author: Diane
-description: 'Découvre Les Analytics B2B Secrets Qui Vont Transformer Votre Business
-  En Machine À Cash : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Analytics B2B Secrets Qui Vont Transformer Votre Business En Machine À Cash."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

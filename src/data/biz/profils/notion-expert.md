@@ -1,16 +1,16 @@
 ---
 section: parcours
-title: Notion Expert / Spécialiste Notion
+title: Expert Notion
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Deviens expert Notion : templates, consulting et formations pour aider
-  les entreprises à s''organiser.'
+description: 'Vendre des templates, du setup et du conseil Notion sans te contenter
+  de faire joli.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
-# Notion Expert / Spécialiste Notion
+# Expert Notion
 
 ## Description en une phrase
 

@@ -11,8 +11,7 @@ tags:
 - Outils
 title: Devenez Viral Sur Google Discover La Méthode Secrète Enfin Révélée
 author: Diane
-description: 'Découvre Devenez Viral Sur Google Discover La Méthode Secrète Enfin
-  Révélée : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Devenez Viral Sur Google Discover La Méthode Secrète Enfin Révélée."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

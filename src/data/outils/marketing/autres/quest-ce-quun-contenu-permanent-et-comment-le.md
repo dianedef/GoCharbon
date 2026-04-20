@@ -5,8 +5,7 @@ tags:
 - Outils
 title: Qu'Est Ce Qu'Un Contenu Permanent Et Comment Le Créer
 author: Diane
-description: 'Découvre Qu''Est Ce Qu''Un Contenu Permanent Et Comment Le Créer : outil
-  français pour entrepreneurs, fonctionnalités et avis.'
+description: "Qu'Est Ce Qu'Un Contenu Permanent Et Comment Le Créer."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

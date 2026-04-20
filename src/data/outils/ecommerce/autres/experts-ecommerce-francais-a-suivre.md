@@ -22,9 +22,9 @@ Ce qui est frappant en 2026, c'est que l'écosystème e-commerce français n'a p
 
 Ce guide réunit les experts e-commerce qui méritent ton attention cette année. Pas des influenceurs LinkedIn qui recyclent des platitudes. Des gens qui ont construit, scalé, et qui partagent ce qu'ils ont appris. On commence par les français, parce que c'est eux qui comprennent les spécificités de notre marché -- la réglementation, la logistique, les habitudes d'achat.
 
-## Les experts e-commerce français
+# Les experts e-commerce français
 
-### Adrien Nussenbaum -- L'architecte des marketplaces mondiales
+## Adrien Nussenbaum -- L'architecte des marketplaces mondiales
 
 **Rôle** : Co-fondateur et CEO de [Mirakl](https://www.mirakl.com/)
 
@@ -36,7 +36,7 @@ Adrien Nussenbaum est diplômé de HEC Paris et de NYU Stern. Avant Mirakl, il a
 
 ---
 
-### Grégory Beyrouti -- Le démocratiseur du e-commerce
+## Grégory Beyrouti -- Le démocratiseur du e-commerce
 
 **Rôle** : Co-fondateur et CEO de [WiziShop](https://www.wizishop.fr/)
 
@@ -48,7 +48,7 @@ Grégory Beyrouti est serial entrepreneur depuis 2004. En 2008, il cofonde [Wizi
 
 ---
 
-### Philippe de Chanville et Christian Raisson -- Le duo qui a digitalisé le bricolage
+## Philippe de Chanville et Christian Raisson -- Le duo qui a digitalisé le bricolage
 
 **Rôle** : Co-fondateurs et co-CEOs de [ManoMano](https://www.manomano.fr/)
 
@@ -60,7 +60,7 @@ Philippe de Chanville et Christian Raisson se sont rencontrés dans le fonds d'i
 
 ---
 
-### Bruno Lévêque -- Le codeur qui a démocratisé le e-commerce open source
+## Bruno Lévêque -- Le codeur qui a démocratisé le e-commerce open source
 
 **Rôle** : Co-fondateur de [PrestaShop](https://prestashop.com/)
 
@@ -72,7 +72,7 @@ Bruno Lévêque a commencé à coder à 8 ans. A 16 ans, il rejoint LeGuide.com 
 
 ---
 
-### Morgane Sézalory -- La pionnière des DNVB françaises
+## Morgane Sézalory -- La pionnière des DNVB françaises
 
 **Rôle** : Fondatrice et directrice de la création de [Sézane](https://www.sezane.com/)
 
@@ -84,7 +84,7 @@ Morgane Sézalory n'a pas de diplôme de commerce. En 2003, elle vend des vêtem
 
 ---
 
-### Julien Sylvain -- Le fédérateur des DNVB françaises
+## Julien Sylvain -- Le fédérateur des DNVB françaises
 
 **Rôle** : Fondateur de [Tediber](https://www.tediber.com/) et initiateur de [France DNVB](https://www.france-dnvb.com/)
 
@@ -96,7 +96,7 @@ Julien Sylvain est un serial entrepreneur. Son premier projet dans l'humanitaire
 
 ---
 
-### Thomas Métivier -- Le stratège de la marketplace française
+## Thomas Métivier -- Le stratège de la marketplace française
 
 **Rôle** : PDG de [Cdiscount](https://www.cdiscount.com/)
 
@@ -108,7 +108,7 @@ Polytechnicien, ingénieur du Corps des Mines, Thomas Métivier a rejoint Cdisco
 
 ---
 
-### Olivier Levy -- Le blogueur devenu patron de flux
+## Olivier Levy -- Le blogueur devenu patron de flux
 
 **Rôle** : Fondateur et CEO de [Shoppingfeed](https://shoppingfeed.com/)
 
@@ -120,7 +120,7 @@ Olivier Levy a cofondé Blog-Ecommerce en 2006, l'un des blogs e-commerce les pl
 
 ---
 
-### Marc Lolivier -- La voix institutionnelle du e-commerce
+## Marc Lolivier -- La voix institutionnelle du e-commerce
 
 **Rôle** : Délégué général de la [Fevad](https://www.fevad.com/) (Fédération du e-commerce et de la vente à distance)
 
@@ -132,7 +132,7 @@ Juriste de formation, Marc Lolivier pilote la Fevad depuis plus de vingt ans. C'
 
 ---
 
-### Pierre Poignant -- L'homme qui a dirigé Lazada pour Alibaba
+## Pierre Poignant -- L'homme qui a dirigé Lazada pour Alibaba
 
 **Rôle** : Co-fondateur et CEO d'[Essor](https://www.essor.io/)
 
@@ -144,7 +144,7 @@ Pierre Poignant a fait ses armes chez McKinsey à Singapour et Paris pendant hui
 
 ---
 
-### Guillaume Gibault -- Le Made in France comme stratégie e-commerce
+## Guillaume Gibault -- Le Made in France comme stratégie e-commerce
 
 **Rôle** : Fondateur et président de [Le Slip Français](https://www.leslipfrancais.fr/)
 
@@ -156,9 +156,9 @@ Guillaume Gibault a lancé Le Slip Français en 2011 à la sortie d'école de co
 
 ---
 
-## Les voix internationales à connaître
+# Les voix internationales à connaître
 
-### Tobias Lutke -- Le développeur qui a réinventé le commerce en ligne
+## Tobias Lutke -- Le développeur qui a réinventé le commerce en ligne
 
 **Rôle** : Fondateur et CEO de [Shopify](https://www.shopify.com/)
 
@@ -170,7 +170,7 @@ Tobias Lutke, alias "Tobi", est un Allemand installé au Canada qui voulait just
 
 ---
 
-### Andrew Youderian -- La voix des marchands indépendants
+## Andrew Youderian -- La voix des marchands indépendants
 
 **Rôle** : Fondateur d'[eComFuel](https://www.ecommercefuel.com/)
 
@@ -182,7 +182,7 @@ Andrew Youderian a quitté la banque d'investissement pour vendre des radios CB 
 
 ---
 
-### Yomi Denzel -- Le phénomène francophone du e-commerce
+## Yomi Denzel -- Le phénomène francophone du e-commerce
 
 **Rôle** : Fondateur de [Mindeo](https://mindeo.com/) et créateur de la formation Ecom Pro
 
@@ -194,7 +194,7 @@ Yomi Denzel, 28 ans, suisse d'origine franco-nigériane, a fait son premier mill
 
 ---
 
-## Les événements e-commerce à ne pas rater en 2026
+# Les événements e-commerce à ne pas rater en 2026
 
 Le meilleur moyen de progresser en e-commerce, c'est de rencontrer les gens qui le font au quotidien. Voici les rendez-vous de l'année :
 
@@ -208,7 +208,7 @@ Le meilleur moyen de progresser en e-commerce, c'est de rencontrer les gens qui 
 
 ---
 
-## Ce qu'il faut retenir
+# Ce qu'il faut retenir
 
 Le e-commerce en 2026, c'est un secteur qui frôle les 200 milliards en France et qui se professionnalise à vitesse grand V. L'époque où il suffisait d'ouvrir une boutique Shopify et de lancer quelques pubs Facebook pour faire du chiffre est révolue. Aujourd'hui, il faut maîtriser la [logistique](/outils/ecommerce/cubyn/), le multicanal, les [marketplaces](/biz/marketplaces/), le [SEO e-commerce](/seo/guides/ecommerce), la data et l'IA.
 

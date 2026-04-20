@@ -5,8 +5,7 @@ tags:
 - Outils
 title: 10 Façons De Changer Le Monde
 author: Diane
-description: 'Découvre 10 Façons De Changer Le Monde : outil français pour entrepreneurs,
-  fonctionnalités et avis.'
+description: "10 Façons De Changer Le Monde."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

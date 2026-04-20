@@ -1,18 +1,18 @@
 ---
 section: parcours
-title: Consulting / Conseil Stratégique
+title: Consultant indépendant
 author: Diane GoCharbon
 tags:
 - Business
-description: 'Deviens consultant indépendant : expertise, prospection, tarification
-  et fidélisation clients pour réussir.'
+description: 'Vendre du conseil avec un vrai niveau d''expertise, des livrables clairs
+  et un positionnement solide.'
 pubDate: '2024-01-01'
 imgUrl: ../../../assets/astro.jpeg
 ---
 
 ## Description
 
-Le consulting, c'est vendre ton expertise stratégique à des entreprises ou entrepreneurs. Tu n'exécutes pas (ou peu), tu conseilles. Tu analyses une situation, identifies des opportunités/problèmes, et proposes des solutions. Tu es payé pour ton cerveau, pas tes mains.
+Le conseil, c'est vendre de la clarté, du diagnostic et de la prise de décision à des entreprises ou des entrepreneurs. Ça peut être très rentable, mais uniquement si ton expertise est assez forte pour justifier des tarifs élevés.
 
 La différence avec le freelance : le freelance exécute (développer un site, créer un design), le consultant guide et conseille (stratégie marketing, transformation digitale, optimisation business). Les tarifs sont généralement 2-3x supérieurs.
 

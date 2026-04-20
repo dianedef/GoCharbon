@@ -13,8 +13,7 @@ u_affi: null
 u_affiAdmin: null
 title: Détectez Le Contenu Ia Comme Un Pro Les Astuces Choc Des Experts
 author: Diane
-description: 'Découvre Détectez Le Contenu Ia Comme Un Pro Les Astuces Choc Des Experts
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Détectez Le Contenu Ia Comme Un Pro Les Astuces Choc Des Experts."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: Grawth L'Outil Secret Des Entrepreneurs Qui Cartonnent
 author: Diane
-description: 'Découvre Grawth L''Outil Secret Des Entrepreneurs Qui Cartonnent : outil
-  français pour entrepreneurs, fonctionnalités et avis.'
+description: "Grawth L'Outil Secret Des Entrepreneurs Qui Cartonnent."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

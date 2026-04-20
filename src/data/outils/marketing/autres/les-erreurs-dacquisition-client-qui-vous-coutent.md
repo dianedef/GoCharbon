@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Les Erreurs D'Acquisition Client Qui Vous Coûtent Des Millions Stop
 author: Diane
-description: 'Découvre Les Erreurs D''Acquisition Client Qui Vous Coûtent Des Millions
-  Stop : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Les Erreurs D'Acquisition Client Qui Vous Coûtent Des Millions Stop."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -10,7 +10,7 @@ tags:
 - UX
 toolCategoryPrimary: communication
 toolSubcategoryPrimary: recherche-utilisateur
-description: 'Plateforme américaine de tests utilisateurs rémunérés, disponible en français, pour recruter des contributeurs et valider des parcours.'
+description: "Plateforme américaine de tests utilisateurs rémunérés, disponible en français, pour recruter des contributeurs et valider des parcours."
 pubDate: '2026-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 u_site: https://www.usertesting.com/fr

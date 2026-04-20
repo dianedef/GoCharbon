@@ -7,8 +7,7 @@ imageNameKey: null
 u_site: null
 title: Comment J'Ai Levé 1 Million Pour Ma Startup En 30 Jours La Méthode Choc
 author: Diane
-description: 'Découvre Comment J''Ai Levé 1 Million Pour Ma Startup En 30 Jours La
-  Méthode Choc : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Comment J'Ai Levé 1 Million Pour Ma Startup En 30 Jours La Méthode Choc."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -9,8 +9,7 @@ imageNameKey: null
 u_site: null
 title: La Prospection Multicanal Qui Va Tripler Vos Résultats La Méthode Secrète Dévoilée
 author: Diane
-description: 'Découvre La Prospection Multicanal Qui Va Tripler Vos Résultats La Méthode
-  Secrète Dévoilée : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "La Prospection Multicanal Qui Va Tripler Vos Résultats La Méthode Secrète Dévoilée."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

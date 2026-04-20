@@ -7,8 +7,7 @@ tags:
 - Outils
 title: Canva + Figma = Glorify L'Outil De Design Qui Va Tuer Ses Concurrents
 author: Diane
-description: 'Découvre Canva + Figma = Glorify L''Outil De Design Qui Va Tuer Ses
-  Concurrents : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Canva + Figma = Glorify L'Outil De Design Qui Va Tuer Ses Concurrents."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

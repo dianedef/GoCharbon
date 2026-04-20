@@ -11,8 +11,7 @@ imageNameKey: null
 u_site: null
 title: Hugging Chat L'Alternative À Chatgpt Qui Va Bouleverser L'Ia
 author: Diane
-description: 'Découvre Hugging Chat L''Alternative À Chatgpt Qui Va Bouleverser L''Ia
-  : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "Hugging Chat L'Alternative À Chatgpt Qui Va Bouleverser L'Ia."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---

@@ -8,8 +8,7 @@ u_site: null
 title: 5 Signes Terrifiants Que Vous Êtes Victime D'Une Cyberattaque D'Ingénierie
   Sociale
 author: Diane
-description: 'Découvre 5 Signes Terrifiants Que Vous Êtes Victime D''Une Cyberattaque
-  D''Ingénierie Sociale : outil français pour entrepreneurs, fonctionnalités et avis.'
+description: "5 Signes Terrifiants Que Vous Êtes Victime D'Une Cyberattaque D'Ingénierie Sociale."
 pubDate: '2024-03-25'
 imgUrl: ../../../../assets/astro.jpeg
 ---
