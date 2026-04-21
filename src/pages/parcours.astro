@@ -334,6 +334,28 @@ const spotlights = [
     padding: 1.1rem;
   }
 
+  .spotlight-card:hover,
+  .family-card:hover,
+  .path-card:hover,
+  .path-neighbor-card:hover {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0 var(--brand-black);
+  }
+
+  .path-card:focus-visible,
+  .path-card:focus-within {
+    outline: 3px solid var(--brand-orange);
+    outline-offset: 3px;
+    box-shadow: 2px 2px 0 var(--brand-black);
+  }
+
+  .filters-section {
+    border: 3px solid rgb(0 0 0 / 0.08);
+    background: rgb(255 255 255 / 0.62);
+    box-shadow: 0 0 0 1px var(--brand-black) inset;
+    margin-bottom: 0.4rem;
+  }
+
   .spotlight-card h3,
   .family-card h3,
   .path-card h2 {
@@ -488,6 +510,12 @@ const spotlights = [
     font-weight: 700;
   }
 
+  :global(.dark) .filters-section {
+    border-color: var(--brand-cream);
+    background: rgb(255 255 255 / 0.03);
+    box-shadow: 0 0 0 1px var(--brand-cream) inset;
+  }
+
   :global(.dark) .hero-stat,
   :global(.dark) .spotlight-card,
   :global(.dark) .family-card,
@@ -518,6 +546,15 @@ const spotlights = [
     background: var(--brand-yellow);
     color: var(--brand-black);
     box-shadow: 3px 3px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .spotlight-card:hover,
+  :global(.dark) .family-card:hover,
+  :global(.dark) .path-card:hover,
+  :global(.dark) .path-neighbor-card:hover,
+  :global(.dark) .path-card:focus-visible,
+  :global(.dark) .path-card:focus-within {
+    box-shadow: 2px 2px 0 var(--brand-cream);
   }
 
   @media (max-width: 1023px) {

@@ -154,7 +154,11 @@ onBeforeUnmount(() => {
         </div>
 
         <ol>
-          <li v-for="(step, stepIndex) in module.steps" :key="step.id">
+          <li
+            v-for="(step, stepIndex) in module.steps"
+            :key="step.id"
+            :class="{ 'step-completed': isCompleted(module.id, step.id) }"
+          >
             <div class="step-check">
               <BrutalCheckbox
                 :model-value="isCompleted(module.id, step.id)"
@@ -481,6 +485,20 @@ onBeforeUnmount(() => {
   background: var(--pp-surface-muted);
   border: 2px solid var(--pp-border);
   padding: 0.6rem;
+  transition: border-color 0.16s ease, background-color 0.16s ease;
+}
+
+.module-card li:hover {
+  border-color: var(--pp-link-hover);
+}
+
+.module-card li.step-completed {
+  background: linear-gradient(120deg, var(--pp-surface-muted), rgb(255 255 255 / 0.75));
+}
+
+.step-completed .step-content > strong {
+  text-decoration: line-through;
+  opacity: 0.78;
 }
 
 .step-check {
@@ -558,11 +576,22 @@ onBeforeUnmount(() => {
   background: var(--pp-surface);
   text-decoration: none;
   line-height: 1.2;
+  transition: transform 0.16s ease, box-shadow 0.16s ease, background-color 0.16s ease;
 }
 
 .step-open-link-disabled {
   opacity: 0.72;
   cursor: default;
+}
+
+.step-open-link:hover {
+  transform: translate(1px, 1px);
+  box-shadow: 2px 2px 0 var(--pp-border);
+}
+
+.step-open-link:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
 }
 
 .module-card li a:hover {

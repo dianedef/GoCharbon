@@ -454,6 +454,18 @@ const homeDescription = launchBuild
     display: flex;
     flex-direction: column;
     gap: 0;
+    position: relative;
+    overflow: clip;
+  }
+
+  .home-shell::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: radial-gradient(circle at 15% 10%, rgb(255 255 255 / 0.35) 0 28%, transparent 60%);
+    opacity: 0.32;
+    z-index: -1;
   }
 
   .hero-grid,
@@ -524,12 +536,24 @@ const homeDescription = launchBuild
     border: 3px solid var(--brand-black);
     background: rgb(245 245 242 / 0.92);
     box-shadow: 6px 6px 0 var(--brand-black);
+    transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
   }
 
   .hero-point {
     display: grid;
     gap: 0.15rem;
     padding: 0.95rem 1rem;
+  }
+
+  .hero-point:hover,
+  .hero-panel:hover,
+  .proof-card:hover,
+  .difference-card:hover,
+  .entry-card:hover,
+  .popular-card:hover,
+  .showcase-card:hover {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0 var(--brand-black);
   }
 
   .hero-point strong,
@@ -890,6 +914,23 @@ const homeDescription = launchBuild
     border-color: var(--brand-cream);
     background: rgb(11 11 11 / 0.9);
     box-shadow: 6px 6px 0 var(--brand-cream);
+  }
+
+  :global(.dark) .hero-point:hover,
+  :global(.dark) .hero-panel:hover,
+  :global(.dark) .proof-card:hover,
+  :global(.dark) .difference-card:hover,
+  :global(.dark) .entry-card:hover,
+  :global(.dark) .popular-card:hover,
+  :global(.dark) .showcase-card:hover {
+    box-shadow: 2px 2px 0 var(--brand-cream);
+  }
+
+  :global(a.brutal-btn):focus-visible,
+  :global(button.brutal-btn):focus-visible,
+  .path-btn:focus-visible {
+    outline: 3px solid var(--brand-black);
+    outline-offset: 2px;
   }
 
   :global(.dark) .source-links a {
