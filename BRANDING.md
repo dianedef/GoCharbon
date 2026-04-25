@@ -1,3 +1,26 @@
+---
+artifact: brand_context
+metadata_schema_version: "1.0"
+artifact_version: "0.1.0"
+project: gocharbon
+created: "2026-04-25"
+updated: "2026-04-25"
+status: draft
+source_skill: sf-docs
+scope: brand
+owner: unknown
+confidence: low
+risk_level: medium
+security_impact: unknown
+docs_impact: yes
+brand_voice: unknown
+trust_posture: unknown
+depends_on: []
+supersedes: []
+evidence: []
+next_review: "unknown"
+next_step: /sf-docs audit BRANDING.md
+---
 # 🎨 CHARBON - Brand Guidelines
 
 ## 📋 Table des Matières

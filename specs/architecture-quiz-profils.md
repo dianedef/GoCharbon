@@ -1,3 +1,25 @@
+---
+artifact: spec
+metadata_schema_version: "1.0"
+artifact_version: "0.1.0"
+project: gocharbon
+created: "2026-04-25"
+updated: "2026-04-25"
+status: draft
+source_skill: sf-docs
+scope: feature
+owner: unknown
+confidence: low
+risk_level: medium
+security_impact: unknown
+docs_impact: yes
+user_story: "unknown (legacy spec migrated to ShipFlow metadata)"
+linked_systems: []
+depends_on: []
+supersedes: []
+evidence: []
+next_step: "/sf-docs audit specs/architecture-quiz-profils.md"
+---
 # Spec: architecture des profils business et du quiz
 
 ## Résumé
