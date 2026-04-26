@@ -2,7 +2,17 @@
   "mcpServers": {
     "codebase": {
       "command": "python3",
-      "args": ["/home/claude/ShipFlow/tools/codebase-mcp/server.py", "/home/claude/GoCharbon"]
+      "args": [
+        "/home/claude/shipflow/tools/codebase-mcp/server.py",
+        "/home/claude/GoCharbon"
+      ]
     }
-  }
+  },
+  "disabledMcpServers": [
+    "codebase"
+  ],
+  "disabledMcpjsonServers": [
+    "exa",
+    "mcp-domain-availability"
+  ]
 }
