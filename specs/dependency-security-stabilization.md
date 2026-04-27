@@ -372,6 +372,7 @@ None.
 | 2026-04-27 20:15:00 | sf-start | GPT-5 Codex | Implemented dependency security stabilization, lockfile normalization, breadcrumb replacement, and validation | implemented | /sf-verify dependency security stabilization |
 | 2026-04-27 20:22:00 | sf-verify | GPT-5 Codex | Verified dependency stabilization against ready contract (security, coherence, dependencies, risks) | verified | /sf-end dependency security stabilization |
 | 2026-04-27 20:48:00 | sf-end | GPT-5 Codex | Closed dependency chantier and synced tracking (TASKS/CHANGELOG) before ship | closed | /sf-ship dependency security stabilization |
+| 2026-04-27 20:58:00 | sf-ship | GPT-5 Codex | Commit + push `cb61788` sur `main` (stabilisation dépendances + audit OpenAI) | shipped | None |
 
 # Current Chantier Flow
 
@@ -380,6 +381,6 @@ None.
 - sf-start: implemented
 - sf-verify: verified
 - sf-end: closed
-- sf-ship: not launched
+- sf-ship: shipped
 
-Next command: `/sf-ship dependency security stabilization`
+Next command: `none`

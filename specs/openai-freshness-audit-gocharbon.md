@@ -321,6 +321,7 @@ None.
 | 2026-04-27 | sf-start | unknown | Exécution du chantier OpenAI freshness + validations (`audit_openai_freshness`, `build:full`, `audit:outils`) + traçabilité | implemented | /sf-verify OpenAI freshness audit GoCharbon |
 | 2026-04-27 | sf-verify | unknown | Vérification contrat/user story + re-run des audits ciblés (`audit_openai_freshness`, `audit:outils`) + contrôle risques/metadata/docs | verified | /sf-end OpenAI freshness audit GoCharbon |
 | 2026-04-27 | sf-end | unknown | Clôture du chantier (TASKS local+master, CHANGELOG, statut de livraison) | closed | /sf-ship OpenAI freshness audit GoCharbon |
+| 2026-04-27 | sf-ship | unknown | Commit + push `cb61788` sur `main` (lot OpenAI freshness + dépendances associées) | shipped | None |
 
 ## Current Chantier Flow
 
@@ -329,4 +330,4 @@ None.
 - sf-start: implemented
 - sf-verify: verified
 - sf-end: closed
-- sf-ship: not launched
+- sf-ship: shipped
