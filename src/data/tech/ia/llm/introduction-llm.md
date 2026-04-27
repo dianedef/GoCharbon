@@ -1,284 +1,137 @@
 ---
 section: blog
-title: 'LLM : Comprendre les Modèles de Langage'
+title: "LLM : comprendre les modèles de langage (version 2026)"
 author: Diane
 tags:
-- Tech
-description: Tout savoir sur les Large Language Models, de leur fonctionnement à leur
-  utilisation pratique
-pubDate: '2024-03-25'
+  - Tech
+description: "Une introduction claire aux LLMs : fonctionnement, limites, usages concrets et bonnes pratiques pour éviter les erreurs."
+pubDate: "2026-04-27"
 imgUrl: ../../../../assets/astro.jpeg
 ---
 
-# LLM : Les Modèles de Langage Expliqués Simplement
+# LLM : comprendre les modèles de langage sans jargon inutile
 
-Un Large Language Model (LLM), c'est comme un cerveau artificiel qui a assimilé une quantité impressionnante d'informations. Pense à un étudiant surhumain qui aurait lu TOUTE Wikipédia, des millions de livres, des milliards de conversations, et des milliers de codes sources.
+Un LLM, c'est un moteur de génération de texte entraîné sur un volume massif de données.  
+Il ne "comprend" pas le monde comme un humain : il prédit la suite la plus plausible selon un contexte.
 
-## Comment ça marche ?
+Ça peut être très puissant.  
+Ça peut aussi produire des réponses fausses avec un ton ultra convaincant.
 
-### 3 ingrédients :
+## Ce qu'un LLM fait bien
 
-**1. Données massives**
+- reformuler un texte,
+- structurer une idée,
+- générer une première version de contenu,
+- aider à coder ou documenter,
+- synthétiser de l'information.
 
-- Articles, livres, sites web
-- Conversations, publications
-- Code, documentation technique
+## Ce qu'un LLM fait mal (ou mal sans garde-fous)
 
-**2. Architecture Transformer**
+- garantir la vérité factuelle,
+- citer des sources sans se tromper,
+- respecter automatiquement tes contraintes métier,
+- décider seul sur des sujets sensibles.
 
-- Attention mechanism : Comprend quelles parties du texte sont importantes
-- Self-attention : Relations entre les mots
-- Positional encoding : Ordre des mots
+En clair : très bon copilote, mauvais pilote automatique.
 
-**3. Entraînement massif**
+## Comment ça marche (version courte)
 
-- Des mois sur des milliers de GPUs
-- Facture d'électricité astronomique
-- Coût : $1M à $100M pour les grands modèles
+Trois briques principales :
 
-## L'Évolution : De BERT à Claude
+1. **Données d'entraînement**  
+   Le modèle a appris des motifs linguistiques sur de très grands corpus.
 
-| Année | Modèle     | Innovation                          |
-| ----- | ---------- | ----------------------------------- |
-| 2018  | BERT       | Compréhension bidirectionnelle      |
-| 2019  | GPT-2      | Génération texte de qualité humaine |
-| 2020  | GPT-3      | 175B paramètres, zero-shot learning |
-| 2022  | ChatGPT    | Interface conversationnelle         |
-| 2023  | GPT-4      | Multimodal (texte + image)          |
-| 2024  | Claude 3.5 | Raisonnement avancé, code expert    |
+2. **Architecture Transformer**  
+   Elle gère le contexte et les relations entre tokens.
 
-## Ce que les LLM savent faire
+3. **Inférence**  
+   À chaque étape, le modèle prédit le token suivant le plus probable.
 
-### 1. Compréhension contextuelle
+Ce mécanisme explique pourquoi il peut produire des réponses brillantes... et parfois inventées.
 
-Les LLMs comprennent :
+## API moderne : exemple minimal avec Responses API
 
-- Le contexte d'une conversation (10-100K+ tokens)
-- Les nuances et l'humour (parfois)
-- Les implicites et sous-entendus
-- Le style et le ton
-
-**Exemple :**
-
-```
-Prompt : "Je viens de finir mon projet, mais j'ai l'impression
-d'avoir oublié quelque chose de crucial. J'ai une deadline demain."
-
-LLM comprend : Anxiété, urgence, besoin d'aide prioritaire
-```
-
-### 2. Génération de contenu
-
-| Type de contenu  | Qualité actuelle       |
-| ---------------- | ---------------------- |
-| Texte générique  | Excellent              |
-| Code simple      | Excellent              |
-| Documentation    | Très bon               |
-| Articles blog    | Bon                    |
-| Créatif (poésie) | Variable               |
-| Science exacte   | Moyen (hallucinations) |
-
-### 3. Raisonnement
-
-**Ce que ça veut dire :**
-L'IA peut "réfléchir" sur un problème et arriver à une solution étape par étape.
-
-**Exemple :**
-
-```
-Prompt : "Marie a 5 sœurs. Chaque sœur a 2 frères.
-Combien de frères a le famille ?"
-
-Étape 1 : Marie a 5 sœurs
-Étape 2 : Les sœurs sont filles des mêmes parents
-Étape 3 : Si chaque sœur a 2 frères, ce sont les mêmes frères
-Réponse : 2 frères
-```
-
-### 4. Programmation
-
-**Capacités :**
-
-- Autocomplétion intelligente
-- Génération de fonctions complètes
-- Debugging (trouver et corriger bugs)
-- Refactoring (améliorer le code)
-- Documentation
-
-**Limites :**
-
-- Problèmes complexes : Variable
-- Performance : Code souvent pas optimal
-- Sécurité : Peut générer du code vulnérable
-
-## Le Problème des Hallucinations
-
-### C'est quoi ?
-
-L'IA affirme quelque chose de faux avec une confiance totale.
-
-### Pourquoi ?
-
-1. **Probabilités vs vérité**
-
-   - L'IA prédit le mot suivant le plus probable
-   - Pas de notion de "vérité factuelle"
-   - Si c'est probable, ça le génère
-
-2. **Données d'entraînement**
-
-   - Le web contient des erreurs
-   - L'IA apprend ces erreurs
-   - Reproduit les erreurs
-
-3. **Pas de vérification**
-   - L'IA ne "vérifie" pas ses affirmations
-   - Elle génère, elle ne "sait" pas si c'est vrai
-
-### Exemples :
-
-```
-❌ "Le premier iPhone est sorti en 2007" (vrai)
-❌ "Le premier iPhone est sorti en 2005" (hallucination)
-```
-
-```
-❌ "Le théorème de Fermat a été prouvé par Euler en 1790"
-❌ (Euler n'a jamais prouvé Fermat, et en 1790 il était mort)
-```
-
-### Comment limiter les hallucinations ?
-
-| Technique                | Efficacité |
-| ------------------------ | ---------- |
-| RAG (retrieval)          | ⭐⭐⭐⭐⭐ |
-| Vérification humaine     | ⭐⭐⭐⭐⭐ |
-| Temperature basse        | ⭐⭐⭐     |
-| Citation obligatoire     | ⭐⭐⭐⭐   |
-| Constraints (facts only) | ⭐⭐⭐     |
-
-## Comment utiliser un LLM ?
-
-### Via Chat (facile)
-
-```text
-1. Va sur chat.openai.com ou claude.ai
-2. Crée un compte
-3. Pose ta question
-4. Copie la réponse
-```
-
-### Via API (intermédiaire)
+Si tu implémentes côté API OpenAI en 2026, la référence générale est la **Responses API** pour les cas de génération et d'orchestration moderne.
 
 ```python
-import openai
+from openai import OpenAI
 
-client = openai.Client(api_key="ta clé")
+client = OpenAI()
 
-response = client.chat.completions.create(
-    model="gpt-4",
-    messages=[
-        {"role": "user", "content": "Explique ce qu'est un LLM"}
-    ]
+response = client.responses.create(
+    model="gpt-5.5",
+    input="Explique simplement ce qu'est un LLM en 5 points.",
+    reasoning={"effort": "low"},
 )
 
-print(response.choices[0].message.content)
+print(response.output_text)
 ```
 
-### Via RAG (avancé)
+Pourquoi cet exemple :
+- il évite le pattern legacy `chat.completions`,
+- il colle à la doc officielle actuelle,
+- il reste lisible pour un débutant.
 
-```text
-1. Tu as une base de connaissances (PDFs, DB...)
-2. Tu indexes ces documents
-3. Quand tu poses une question :
-   a. L'IA cherche dans tes documents
-   b. Trouve les passages pertinents
-   c. Génère une réponse basée sur ces passages
-   d. Cite les sources
-```
+## Coûts : ce qu'il faut retenir sans se mentir
 
-## Coûts réels
+Les prix, limites et plans changent régulièrement.  
+Donc évite les tableaux "gravés dans le marbre" si tu ne peux pas les maintenir.
 
-| Modèle          | Prix (approx)         | Cas d'usage idéal     |
-| --------------- | --------------------- | --------------------- |
-| GPT-4           | $0.03/1K input tokens | Raisonnement complexe |
-| GPT-3.5         | $0.0005/1K tokens     | Autocomplétion        |
-| Claude 3.5      | $0.003/1K tokens      | Code, analyse         |
-| Llama 3 (local) | Coût infra            | Confidentialité       |
+Approche robuste :
+- date chaque claim chiffré,
+- ajoute la source officielle,
+- préfère des ordres de grandeur + méthode de calcul interne.
 
-**Calcul rapide :**
+## Les 5 règles pour bien utiliser un LLM
 
-- 1 token ≈ 0.75 mot en anglais, 0.5 mot en français
-- 1000 mots ≈ 1500-2000 tokens
-- GPT-4 pour 1000 mots ≈ $0.05-0.06
+1. **Spécifie le résultat attendu**  
+   Pas "aide-moi", mais "fais X au format Y avec ces contraintes".
 
-## Ce qu'il faut savoir
+2. **Découpe les tâches complexes**  
+   Plusieurs étapes courtes > un mega prompt confus.
 
-### 1. Les LLMs ne sont pas AGI
+3. **Vérifie les faits critiques**  
+   Surtout chiffres, lois, santé, finance, sécurité.
 
-**AGI (Artificial General Intelligence) :**
+4. **Rends l'erreur visible**  
+   Si le modèle n'est pas sûr, il doit le dire.
 
-- Compréhension générale comme un humain
-- Capacité d'apprendre n'importe quelle tâche
-- Conscience et autonomie
+5. **Garde un humain dans la boucle**  
+   Pour validation finale sur les sujets à impact.
 
-**LLMs actuels :**
+## Où les LLMs apportent le plus de valeur
 
-- Spécialisés dans le langage
-- Pas de vraie compréhension (probabilités)
-- Hallucinations
-- Pas de conscience
+- brouillons de contenu,
+- support à la documentation,
+- assistance code et revue initiale,
+- analyse exploratoire,
+- génération de variantes pour tests marketing.
 
-### 2. Les capacités sont variables
+## Où tu dois être très prudent
 
-| Compétence   | GPT-4    | Claude 3.5 | Gemini     |
-| ------------ | -------- | ---------- | ---------- |
-| Raisonnement | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐   |
-| Code         | ⭐⭐⭐   | ⭐⭐⭐⭐⭐ | ⭐⭐⭐     |
-| Multimodal   | ⭐⭐⭐   | ⭐⭐⭐     | ⭐⭐⭐⭐⭐ |
-| Coût         | ⭐⭐     | ⭐⭐⭐     | ⭐⭐⭐     |
+- conseils juridiques/opérationnels non vérifiés,
+- promesses business chiffrées,
+- décisions RH automatisées sans contrôle humain,
+- contenus publiés sans relecture factuelle.
 
-### 3. L'humain reste essentiel
+## TL;DR
 
-Pourquoi :
+Un LLM est un excellent multiplicateur de productivité si :
+- tu cadres le besoin,
+- tu contrôles la qualité,
+- tu traites la sortie comme une proposition, pas comme une vérité.
 
-- Vérification des faits
-- Validation du code
-- Jugement éthique
-- Créativité humaine unique
+## Sources et fraîcheur doc (vérifiées le 27 avril 2026)
 
-## Comment choisir ton LLM ?
+- OpenAI, guide "Using GPT-5.5" :
+  https://developers.openai.com/api/docs/guides/latest-model
+- OpenAI, guide "Code generation" :
+  https://developers.openai.com/api/docs/guides/code-generation
+- OpenAI, API reference Responses :
+  https://developers.openai.com/api/docs/api-reference/responses
 
-### Pour débuter :
+## À lire ensuite
 
-- ChatGPT (gratuit) ou Claude (gratuit)
-- Interface simple
-- Pas besoin de code
+- [Comment choisir le bon LLM](/tech/ia/llm/choisir-llm)
+- [Comprendre et gérer les hallucinations des LLMs](/tech/ia/llm/llm-hallucinations)
 
-### Pour le code :
-
-- Cursor (GPT-4 + Claude)
-- Compréhension projet
-- Edit en temps réel
-
-### Pour la production :
-
-- API Claude ou GPT-4
-- Fiabilité
-- Support entreprise
-
-### Pour la confidentialité :
-
-- Llama 3 (local)
-- Ollama
-- Hébergement self-hosted
-
-## En savoir plus
-
-- [Comment choisir un LLM](/tech/ia/llm/choisir-llm) - Comparaison détaillée
-- [Histoire des LLM](/tech/ia/llm/histoire-llm) - De BERT à Claude
-- [Cas d'usage réels](/tech/ia/applications) - 300+ exemples
-
----
-
-Les LLMs sont là pour rester. La question n'est plus de savoir SI tu dois les utiliser, mais COMMENT les intégrer intelligemment dans ton workflow. La clé : comprendre les limites, vérifier les faits, et garder l'humain dans la boucle.

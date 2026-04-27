@@ -1,9 +1,6 @@
 ---
 import ThemeToggle from "./ThemeToggle.astro";
-import { Breadcrumbs } from "astro-breadcrumbs";
-import "astro-breadcrumbs/breadcrumbs.css";
 import { Home, ChevronRight } from "lucide-astro";
-import { breadcrumbsConfig } from "../../config/breadcrumbs";
 import { SITE } from "../../config/site";
 import { ROUTES } from "../../config/routes";
 import { isParcoursOnlyBuild } from "../../utils/build-scope";
@@ -64,6 +61,35 @@ const worldIcons = {
 	mine: "/world/mine.svg",
 	or: "/world/or.svg",
 };
+
+const breadcrumbLabels: Record<string, string> = {
+	tech: "Technologie",
+	business: "Business",
+	outils: "Outils",
+	methodologie: "Methodologie",
+	tutos: "Tutoriels",
+	parcours: "Parcours",
+	ia: "Intelligence Artificielle",
+	saas: "SaaS",
+	marketing: "Marketing",
+};
+
+const pathSegments = Astro.url.pathname.split("/").filter(Boolean);
+const breadcrumbs = pathSegments.map((segment, index) => {
+	const href = `/${pathSegments.slice(0, index + 1).join("/")}`;
+	const decoded = decodeURIComponent(segment);
+	const fallback = decoded.replace(/-/g, " ");
+	const label =
+		breadcrumbLabels[segment] ??
+		breadcrumbLabels[decoded] ??
+		fallback.charAt(0).toUpperCase() + fallback.slice(1);
+
+	return {
+		href,
+		label,
+		isCurrent: index === pathSegments.length - 1,
+	};
+});
 ---
 
 <style define:vars={{ softWhite: 'var(--brand-cream)' }}>
@@ -89,21 +115,30 @@ const worldIcons = {
 		color: var(--softWhite);
 	}
 
-	:global(.breadcrumbs) {
+	.breadcrumbs {
 		display: flex;
 		align-items: center;
 		gap: 0.5rem;
 		font-size: 0.9rem;
+		list-style: none;
+		margin: 0;
+		padding: 0;
 	}
 
-	:global(.breadcrumbs a) {
+	.breadcrumb-item {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.breadcrumb-link {
 		display: flex;
 		align-items: center;
 		color: inherit;
 		text-decoration: none;
 	}
 
-	:global(.breadcrumbs a:hover) {
+	.breadcrumb-link:hover {
 		color: var(--accent-color);
 		text-decoration: underline;
 	}
@@ -131,10 +166,29 @@ const worldIcons = {
 			>
 				<span class="righteous text-3xl md:text-5xl text-black dark:text-yellow-soft">{SITE.nameUpper}</span>
 			</a>
-			<Breadcrumbs {...breadcrumbsConfig}>
-				<Home slot="home" class="w-5 h-5" />
-				<ChevronRight slot="separator" class="w-4 h-4" />
-			</Breadcrumbs>
+			<nav aria-label="Fil d'Ariane">
+				<ol class="breadcrumbs">
+					<li>
+						<a href="/" class="breadcrumb-link" aria-label="Accueil">
+							<Home class="w-5 h-5" />
+						</a>
+					</li>
+					{
+						breadcrumbs.map((crumb) => (
+							<li class="breadcrumb-item">
+								<ChevronRight class="w-4 h-4" aria-hidden="true" />
+								{crumb.isCurrent ? (
+									<span aria-current="page">{crumb.label}</span>
+								) : (
+									<a href={crumb.href} class="breadcrumb-link">
+										{crumb.label}
+									</a>
+								)}
+							</li>
+						))
+					}
+				</ol>
+			</nav>
 				<div class="mine-icon-belt world-cues" aria-label="Repères du monde GoCharbon">
 					<span class="mine-icon-chip">
 						<img src={worldIcons.charbon} alt="" aria-hidden="true" loading="lazy" />

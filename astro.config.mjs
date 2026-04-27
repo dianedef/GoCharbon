@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
+import { fileURLToPath } from 'node:url';
 import vue from '@astrojs/vue';
 import UnoCSS from '@unocss/astro';
 import sitemap from '@astrojs/sitemap';
@@ -32,6 +33,13 @@ export default defineConfig({
     },
     output: 'static',
     vite: {
+        resolve: {
+            alias: {
+                '@diane-winflowz/gamification': fileURLToPath(
+                    new URL('./node_modules/@diane-winflowz/gamification/src/index.ts', import.meta.url)
+                ),
+            },
+        },
         server: {
             host: '0.0.0.0',
             strictPort: false,

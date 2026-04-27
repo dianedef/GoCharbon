@@ -25,7 +25,7 @@ from typing import Any
 
 import yaml
 
-ROOT = Path("/home/claude/GoCharbon")
+ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "src" / "data" / "outils"
 OUT_JSON = ROOT / "scripts" / "outils_content_audit.json"
 OUT_MD = ROOT / "scripts" / "outils_content_audit.md"

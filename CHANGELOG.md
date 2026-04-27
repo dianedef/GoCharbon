@@ -1,5 +1,27 @@
 # Changelog
 
+## 2026-04-27
+
+### Added
+- **Audit de fraîcheur OpenAI outillé** — ajout de `scripts/audit_openai_freshness.py` et des rapports `scripts/openai_freshness_audit.{json,md}` pour inventorier et prioriser les claims IA obsolètes.
+- **Traçabilité des chantiers** — ajout des specs `specs/dependency-security-stabilization.md` et `specs/openai-freshness-audit-gocharbon.md` pour cadrer exécution, validation et risques.
+- **Automatisation de maintenance dépendances** — ajout de `.github/dependabot.yml` (npm/pnpm + GitHub Actions, revue humaine des majors).
+
+### Changed
+- **Lot IA éditorial modernisé** — mise à jour des pages LLM prioritaires (`choisir-llm`, `introduction-llm`, `llm-hallucinations`) et du profil `prompt-engineer` avec cadrage plus prudent et sources explicites.
+- **Lot B IA marketing rationalisé** — application des décisions `keep/enrich`, `merge` et `draft` sur le corpus `src/data/outils/marketing/autres` lié à OpenAI/ChatGPT.
+- **Script d'audit outils fiabilisé** — `scripts/audit_outils_content.py` utilise désormais la racine projet dynamique au lieu d'un chemin absolu local.
+
+### Fixed
+- **Stabilisation sécurité dépendances** — correction des advisories `pnpm audit` critiques/hautes sévérités (`20` -> `0`) sans migration majeure framework.
+- **Dérive package manager corrigée** — suppression de `package-lock.json` pour garder `pnpm-lock.yaml` comme source unique.
+
+### Security
+- **Posture supply chain renforcée** — pin Node/pnpm (`engines`, `.node-version`), overrides documentés (`DEPENDENCY_OVERRIDES.md`) et suppression de la dépendance GPL `astro-breadcrumbs` remplacée par un fil d'Ariane local.
+
+### Removed
+- **Configuration et artefacts obsolètes supprimés** — retrait de `astro.config.ts`, de `src/config/breadcrumbs.ts` et de `src/components/index.d.ts` non utilisés.
+
 ## 2026-04-20
 
 ### Added
