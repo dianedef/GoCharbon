@@ -1,15 +1,15 @@
 ---
 artifact: business_context
 metadata_schema_version: "1.0"
-artifact_version: "0.1.0"
+artifact_version: "1.0.0"
 project: gocharbon
 created: "2026-04-25"
-updated: "2026-04-25"
-status: draft
+updated: "2026-04-27"
+status: reviewed
 source_skill: sf-docs
 scope: business
-owner: unknown
-confidence: low
+owner: "Diane"
+confidence: medium
 risk_level: medium
 security_impact: unknown
 docs_impact: yes
@@ -21,7 +21,7 @@ depends_on: []
 supersedes: []
 evidence: []
 next_review: "unknown"
-next_step: /sf-docs audit BUSINESS.md
+next_step: /sf-docs verify BUSINESS.md
 ---
 # BUSINESS.md - Concept, Objectifs & Stratégie
 
@@ -180,7 +180,7 @@ Les francophones qui veulent lancer un business en ligne font face à 3 murs :
 ## Objectifs Business
 
 ### Court terme (6 mois)
-- Atteindre 500 articles publiés (actuellement ~290)
+- Atteindre 500 contenus publiés
 - Newsletter à 2000+ abonnés
 - Trafic organique : 20K visites/mois
 - Premiers revenus d'affiliation significatifs (SaaS francophones, lifetime deal platforms)

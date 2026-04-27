@@ -1,15 +1,15 @@
 ---
 artifact: brand_context
 metadata_schema_version: "1.0"
-artifact_version: "0.1.0"
+artifact_version: "1.0.0"
 project: gocharbon
 created: "2026-04-25"
-updated: "2026-04-25"
-status: draft
+updated: "2026-04-27"
+status: reviewed
 source_skill: sf-docs
 scope: brand
-owner: unknown
-confidence: low
+owner: "Diane"
+confidence: medium
 risk_level: medium
 security_impact: unknown
 docs_impact: yes
@@ -19,7 +19,7 @@ depends_on: []
 supersedes: []
 evidence: []
 next_review: "unknown"
-next_step: /sf-docs audit BRANDING.md
+next_step: /sf-docs verify BRANDING.md
 ---
 # 🎨 CHARBON - Brand Guidelines
 
@@ -62,12 +62,12 @@ Le projet doit toujours être présenté comme un accélérateur de clarté et d
 ### Proposition de Valeur Unique
 **"Le guide de survie digital pour entrepreneurs francophones. On va au charbon."**
 
-Nous sommes les seuls à combiner :
+Notre différenciation revendiquée :
 1. ✅ Pédagogie ultra-accessible (expliqué comme si tu avais 12 ans)
 2. ✅ Focus SaaS francophones + outils étrangers bien traduits en FR (quand pas d'alternative)
 3. ✅ Angle patriote/souveraineté numérique (sans dogmatisme)
 4. ✅ Ton cash, direct, anti-bullshit
-5. ✅ Stratégies testées et validées (pas de théorie)
+5. ✅ Stratégies orientées pratique (pas de théorie)
 6. ✅ Parcours d'activation courts avec quiz interactif (6 profils business)
 
 ---

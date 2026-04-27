@@ -14,14 +14,10 @@
       "@eslint/eslintrc>minimatch": "3.1.4",
       "@rollup/pluginutils>picomatch": "4.0.4",
       "@typescript-eslint/typescript-estree>minimatch": "9.0.7",
-      "@vitejs/plugin-vue-jsx>vite": "6.4.2",
-      "@vitejs/plugin-vue>vite": "6.4.2",
-      "@astrojs/vue>vite": "6.4.2",
       "@parcel/watcher>picomatch": "4.0.4",
       "anymatch>picomatch": "2.3.2",
       "astro>picomatch": "4.0.4",
       "astro>svgo": "4.0.1",
-      "astro>vite": "6.4.2",
       "eslint>minimatch": "3.1.4",
       "eslint-plugin-jsx-a11y>minimatch": "3.1.4",
       "flat-cache>flatted": "3.4.2",
@@ -31,11 +27,7 @@
       "tinyglobby>picomatch": "4.0.4",
       "unconfig>defu": "6.1.5",
       "unstorage>h3": "1.15.6",
-      "vite>rollup": "4.59.0",
-      "vite-plugin-inspect>vite": "6.4.2",
-      "vite-plugin-vue-devtools>vite": "6.4.2",
-      "vite-plugin-vue-inspector>vite": "6.4.2",
-      "vitefu>vite": "6.4.2"
+      "vite>rollup": "4.59.0"
     }
   },
   "author": {
@@ -66,14 +58,14 @@
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.2",
     "@diane-winflowz/gamification": "github:dianedef/gamification",
-    "astro": "^5.18.1",
+    "astro": "^6.1.9",
     "astro-font": "^1.1.0",
     "lucide-astro": "^0.556.0",
     "satori": "^0.19.1",
     "satori-html": "^0.3.2"
   },
   "devDependencies": {
-    "@astrojs/vue": "5.1.4",
+    "@astrojs/vue": "6.0.1",
     "@iconify-json/logos": "^1.2.10",
     "@iconify-json/uil": "^1.2.3",
     "@resvg/resvg-js": "^2.6.2",

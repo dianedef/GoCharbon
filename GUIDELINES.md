@@ -1,23 +1,23 @@
 ---
 artifact: technical_guidelines
 metadata_schema_version: "1.0"
-artifact_version: "0.1.0"
+artifact_version: "1.0.0"
 project: gocharbon
 created: "2026-04-25"
-updated: "2026-04-25"
-status: draft
+updated: "2026-04-27"
+status: reviewed
 source_skill: sf-docs
 scope: guidelines
-owner: unknown
-confidence: low
+owner: Diane
+confidence: medium
 risk_level: medium
-security_impact: unknown
+security_impact: none
 docs_impact: yes
 linked_systems: []
 depends_on: []
 supersedes: []
 evidence: []
-next_review: "unknown"
+next_review: "2026-07-27"
 next_step: /sf-docs audit GUIDELINES.md
 ---
 # GUIDELINES.md - Charte Éditoriale & Règles de Contenu
@@ -60,8 +60,8 @@ Conséquence directe pour la rédaction :
 
 Fichiers de référence :
 
-- [`src/data/_founder.md`](/home/claude/GoCharbon/src/data/_founder.md) pour les textes de présentation fondatrice et d'identité de marque
-- [`src/data/_vision.md`](/home/claude/GoCharbon/src/data/_vision.md) pour les textes de vision entrepreneuriale et d'accompagnement business
+- [`src/data/_founder.md`](/home/claude/gocharbon/src/data/_founder.md) pour les textes de présentation fondatrice et d'identité de marque
+- [`src/data/_vision.md`](/home/claude/gocharbon/src/data/_vision.md) pour les textes de vision entrepreneuriale et d'accompagnement business
 
 ### Langue
 

@@ -1,24 +1,28 @@
 ---
 artifact: spec
 metadata_schema_version: "1.0"
-artifact_version: "0.1.0"
+artifact_version: "1.0.0"
 project: gocharbon
 created: "2026-04-25"
-updated: "2026-04-25"
-status: draft
+updated: "2026-04-27"
+status: ready
 source_skill: sf-docs
 scope: feature
 owner: unknown
-confidence: low
+confidence: medium
 risk_level: medium
 security_impact: unknown
 docs_impact: yes
-user_story: "unknown (legacy spec migrated to ShipFlow metadata)"
+user_story: "En tant que visiteur du quiz, je reçois un archétype business clair puis des sous-profils actionnables, pour éviter la confusion entre modèle business et métiers détaillés."
 linked_systems: []
 depends_on: []
 supersedes: []
-evidence: []
-next_step: "/sf-docs audit specs/architecture-quiz-profils.md"
+evidence:
+  - "src/data/quizData.js"
+  - "src/data/quizQuickData.js"
+  - "src/components/vue/Quiz.vue"
+  - "src/data/parcoursData.ts"
+next_step: "Implémenter la spec (taxonomie centrale puis alignement scoring et restitution quiz)."
 ---
 # Spec: architecture des profils business et du quiz
 

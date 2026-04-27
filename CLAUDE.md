@@ -1,10 +1,31 @@
+---
+artifact: agent_context
+metadata_schema_version: "1.0"
+artifact_version: "1.0.0"
+project: gocharbon
+created: "2026-04-26"
+updated: "2026-04-27"
+status: reviewed
+source_skill: sf-docs
+scope: agent
+owner: Diane
+confidence: medium
+risk_level: low
+security_impact: low
+docs_impact: yes
+depends_on: []
+supersedes: []
+evidence: []
+next_review: "2026-07-26"
+next_step: /sf-docs audit CLAUDE.md
+---
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
 
-GoCharbon (gocharbon.com) is a French-language educational blog platform for entrepreneurs, built with Astro 5. It uses the "Brutal" neobrutalist theme as a base. The site is fully static (SSG) with ~290 Markdown blog posts organized in a hierarchical tag system.
+GoCharbon (gocharbon.com) is a French-language educational blog platform for entrepreneurs, built with Astro 5. It uses the "Brutal" neobrutalist theme as a base. The site is fully static (SSG) with a large Markdown corpus organized in a hierarchical tag system.
 
 ## Founder Memory
 
@@ -29,8 +50,8 @@ When generating or rewriting editorial content for GoCharbon, keep this founder 
 
 ### Founder reference file
 
-For founder/about/team positioning, use [`src/data/_founder.md`](/home/claude/GoCharbon/src/data/_founder.md) as the canonical content reference.
-For entrepreneurial vision content aimed at readers, keep using [`src/data/_vision.md`](/home/claude/GoCharbon/src/data/_vision.md).
+For founder/about/team positioning, use [`src/data/_founder.md`](/home/claude/gocharbon/src/data/_founder.md) as the canonical content reference.
+For entrepreneurial vision content aimed at readers, keep using [`src/data/_vision.md`](/home/claude/gocharbon/src/data/_vision.md).
 
 ## Commands
 
@@ -137,23 +158,8 @@ UnoCSS shortcuts for the neobrutalist design system: `brutal-card`, `brutal-btn`
 - Tone: accessible, engaging storytelling, scientific but simplified
 - Target audience: French entrepreneurs, freelancers, small businesses
 
-## Context MCP — Token-Saving Protocol
+## Working Notes
 
-This project uses a local codebase MCP server for efficient context management. Follow this order strictly:
-
-### Every turn:
-1. **Call `context_continue` FIRST** — before any Read, Grep, Glob, or file exploration. This returns files already in memory and avoids re-reading.
-2. **If you need more files**, call `context_retrieve` with your query BEFORE using Grep/Glob. It ranks files by relevance.
-3. **Use `context_read`** instead of the Read tool when exploring code. It excerpts only relevant portions and tracks your token budget (18K chars/turn).
-4. **After editing files**, always call `context_register_edit` with a one-sentence summary.
-5. **Store key decisions** with `context_decide` (e.g., "using Vue for interactive islands").
-
-### Rules:
-- Do NOT use Read/Grep/Glob for broad exploration before calling `context_continue`
-- Do NOT re-read files that `context_continue` says are already in memory
-- Prefer `context_read` over Read for all code exploration (Read is fine for files you need in full)
-- Do NOT exceed the turn read budget — if `context_read` says budget exhausted, stop reading and work with what you have
-- After edits, ALWAYS call `context_register_edit` — this invalidates stale cache
-- For large files: call `list_symbols` first, then `context_read "file::symbol"` to read just the function you need
-- Call `count_tokens(text)` before reading any file > 200 lines to decide if it's worth the budget
-- When user says "done", "bye", or "wrap up" — call `session_wrap` to save context for next session
+- Prefer focused reads (`rg` + targeted file sections) over broad scans.
+- Keep claims tied to observable repo evidence (files, scripts, config, routes).
+- When docs change behavior or constraints, update `AGENT.md`, `CONTEXT.md`, `CONTEXT-FUNCTION-TREE.md`, and `ARCHITECTURE.md` together.
